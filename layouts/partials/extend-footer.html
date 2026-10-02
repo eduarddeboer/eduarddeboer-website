@@ -1,0 +1,2 @@
+{{- $privacyJS := resources.Get "js/privacy-embeds.js" | minify | fingerprint -}}
+<script defer src="{{ $privacyJS.RelPermalink }}" integrity="{{ $privacyJS.Data.Integrity }}"></script>
