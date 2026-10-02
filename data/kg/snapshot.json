@@ -2,10 +2,222 @@
   "schema_version": 1,
   "source": {
     "repository": "eduarddeboer/eduarddeboer-kg",
-    "commit": null,
+    "commit": "30ca8ad502e9bf22cb95262d0c80f13037fbac58",
     "production_base": "https://data.eduarddeboer.com/"
   },
-  "entities": {},
-  "relations": [],
+  "entities": {
+    "person/eduard_de_boer": {
+      "id": "person/eduard_de_boer",
+      "type": "Person",
+      "name": {
+        "nl": "Eduard de Boer",
+        "en": "Eduard de Boer"
+      }
+    },
+    "legislation/eudr_2023_1115": {
+      "id": "legislation/eudr_2023_1115",
+      "type": "Legislation",
+      "name": {
+        "nl": "Verordening (EU) 2023/1115 (EUDR)",
+        "en": "Regulation (EU) 2023/1115 (EUDR)"
+      }
+    },
+    "legislation/eutr_995_2010": {
+      "id": "legislation/eutr_995_2010",
+      "type": "Legislation",
+      "name": {
+        "nl": "Verordening (EU) nr. 995/2010 (EUTR)",
+        "en": "Regulation (EU) No 995/2010 (EUTR)"
+      }
+    },
+    "defined_term/due_diligence_eudr": {
+      "id": "defined_term/due_diligence_eudr",
+      "type": "DefinedTerm",
+      "name": {
+        "nl": "Zorgvuldigheid in de EUDR",
+        "en": "EUDR due diligence"
+      }
+    },
+    "defined_term/taric": {
+      "id": "defined_term/taric",
+      "type": "DefinedTerm",
+      "name": {
+        "nl": "TARIC",
+        "en": "TARIC"
+      }
+    },
+    "defined_term/supply_chain_traceability": {
+      "id": "defined_term/supply_chain_traceability",
+      "type": "DefinedTerm",
+      "name": {
+        "nl": "Ketentraceerbaarheid",
+        "en": "Supply-chain traceability"
+      }
+    },
+    "defined_term/risk_assessment": {
+      "id": "defined_term/risk_assessment",
+      "type": "DefinedTerm",
+      "name": {
+        "nl": "Risicobeoordeling",
+        "en": "Risk assessment"
+      }
+    },
+    "article/linkedin_eudr_taric_codes_2026": {
+      "id": "article/linkedin_eudr_taric_codes_2026",
+      "type": "Article",
+      "name": {
+        "nl": "EUDR: nieuwe TARIC-codes voor invoer en uitvoer"
+      },
+      "description": {
+        "nl": "Vakpublicatie van Eduard de Boer over EUTR/EUDR, due diligence en internationale toeleveringsketens.",
+        "en": "Professional publication by Eduard de Boer on EUTR/EUDR, due diligence and international supply chains."
+      },
+      "url": "https://www.linkedin.com/pulse/eudr-nieuwe-taric-codes-voor-invoer-en-uitvoer-eduard-de-boer-7d8re/",
+      "date_published": "2026-09-26",
+      "relations": [
+        {
+          "predicate": "author",
+          "target": "person/eduard_de_boer"
+        },
+        {
+          "predicate": "about",
+          "target": "legislation/eudr_2023_1115"
+        },
+        {
+          "predicate": "about",
+          "target": "defined_term/due_diligence_eudr"
+        },
+        {
+          "predicate": "about",
+          "target": "defined_term/taric"
+        }
+      ]
+    },
+    "article/linkedin_eudr_timber_deadlines_2026": {
+      "id": "article/linkedin_eudr_timber_deadlines_2026",
+      "type": "Article",
+      "name": {
+        "nl": "EUDR voor hout: uitstel tot 30-06-2027 of toch 30-12-2026?"
+      },
+      "description": {
+        "nl": "Vakpublicatie van Eduard de Boer over EUTR/EUDR, due diligence en internationale toeleveringsketens.",
+        "en": "Professional publication by Eduard de Boer on EUTR/EUDR, due diligence and international supply chains."
+      },
+      "url": "https://www.linkedin.com/pulse/eudr-voor-hout-uitstel-tot-30-06-2027-toch-30-12-2026-eduard-de-boer-qfife/",
+      "date_published": "2026-09-03",
+      "relations": [
+        {
+          "predicate": "author",
+          "target": "person/eduard_de_boer"
+        },
+        {
+          "predicate": "about",
+          "target": "legislation/eudr_2023_1115"
+        },
+        {
+          "predicate": "about",
+          "target": "legislation/eutr_995_2010"
+        }
+      ]
+    },
+    "article/china_supply_chain_security_eutr_eudr_2026": {
+      "id": "article/china_supply_chain_security_eutr_eudr_2026",
+      "type": "Article",
+      "name": {
+        "nl": "China's nieuwe ketenveiligheidsregels: waarom dit relevant is voor EUTR en EUDR",
+        "en": "China’s new supply-chain security rules: why this is relevant to the EUTR and EUDR"
+      },
+      "description": {
+        "nl": "Vakpublicatie van Eduard de Boer over EUTR/EUDR, due diligence en internationale toeleveringsketens.",
+        "en": "Professional publication by Eduard de Boer on EUTR/EUDR, due diligence and international supply chains."
+      },
+      "url": "https://nl.linkedin.com/pulse/chinas-nieuwe-ketenveiligheidsregels-waarom-dit-relevant-de-boer-bunle",
+      "date_published": "2026-07-08",
+      "relations": [
+        {
+          "predicate": "author",
+          "target": "person/eduard_de_boer"
+        },
+        {
+          "predicate": "about",
+          "target": "legislation/eudr_2023_1115"
+        },
+        {
+          "predicate": "about",
+          "target": "legislation/eutr_995_2010"
+        },
+        {
+          "predicate": "about",
+          "target": "defined_term/supply_chain_traceability"
+        },
+        {
+          "predicate": "about",
+          "target": "defined_term/risk_assessment"
+        }
+      ]
+    }
+  },
+  "relations": [
+    {
+      "subject": "article/linkedin_eudr_taric_codes_2026",
+      "predicate": "author",
+      "target": "person/eduard_de_boer"
+    },
+    {
+      "subject": "article/linkedin_eudr_taric_codes_2026",
+      "predicate": "about",
+      "target": "legislation/eudr_2023_1115"
+    },
+    {
+      "subject": "article/linkedin_eudr_taric_codes_2026",
+      "predicate": "about",
+      "target": "defined_term/due_diligence_eudr"
+    },
+    {
+      "subject": "article/linkedin_eudr_taric_codes_2026",
+      "predicate": "about",
+      "target": "defined_term/taric"
+    },
+    {
+      "subject": "article/linkedin_eudr_timber_deadlines_2026",
+      "predicate": "author",
+      "target": "person/eduard_de_boer"
+    },
+    {
+      "subject": "article/linkedin_eudr_timber_deadlines_2026",
+      "predicate": "about",
+      "target": "legislation/eudr_2023_1115"
+    },
+    {
+      "subject": "article/linkedin_eudr_timber_deadlines_2026",
+      "predicate": "about",
+      "target": "legislation/eutr_995_2010"
+    },
+    {
+      "subject": "article/china_supply_chain_security_eutr_eudr_2026",
+      "predicate": "author",
+      "target": "person/eduard_de_boer"
+    },
+    {
+      "subject": "article/china_supply_chain_security_eutr_eudr_2026",
+      "predicate": "about",
+      "target": "legislation/eudr_2023_1115"
+    },
+    {
+      "subject": "article/china_supply_chain_security_eutr_eudr_2026",
+      "predicate": "about",
+      "target": "legislation/eutr_995_2010"
+    },
+    {
+      "subject": "article/china_supply_chain_security_eutr_eudr_2026",
+      "predicate": "about",
+      "target": "defined_term/supply_chain_traceability"
+    },
+    {
+      "subject": "article/china_supply_chain_security_eutr_eudr_2026",
+      "predicate": "about",
+      "target": "defined_term/risk_assessment"
+    }
+  ],
   "media": {}
 }
