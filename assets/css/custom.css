@@ -747,3 +747,93 @@
 .privacy-media audio {
   width: 100%;
 }
+
+
+/* Keyboard accessibility and high-contrast interaction states. */
+.edb-home--editorial a:focus-visible,
+.edb-home--editorial button:focus-visible {
+  outline: 3px solid #f0b429;
+  outline-offset: 4px;
+  border-radius: .35rem;
+}
+
+/* Congo toggles a .dark class on the root document. Keep the editorial
+   homepage intentionally calm while preserving WCAG-oriented contrast. */
+.dark .edb-home--editorial {
+  --edb-ink: #eef4f0;
+  --edb-muted: #bdc9c3;
+  --edb-forest: #78c6a6;
+  --edb-forest-deep: #96d7bc;
+  --edb-sage: #29483d;
+  --edb-sage-soft: #1b332b;
+  --edb-cream: #18231f;
+  --edb-paper: #101915;
+  --edb-white: #14211c;
+  --edb-line: #34483f;
+  --edb-shadow: 0 18px 55px rgba(0, 0, 0, .28);
+}
+
+.dark .edb-hero__copy {
+  background:
+    radial-gradient(circle at 92% 12%, rgba(51,80,69,.22), transparent 36%),
+    linear-gradient(110deg, var(--edb-paper) 0%, rgba(16,25,21,.98) 72%, rgba(16,25,21,.76) 100%);
+}
+
+.dark .edb-hero__body,
+.dark .edb-route-card p,
+.dark .edb-publication-card p,
+.dark .edb-kg-card p:not(.edb-eyebrow),
+.dark .edb-summary small,
+.dark .edb-proof span {
+  color: var(--edb-muted);
+}
+
+.dark .edb-summary {
+  border-color: var(--edb-line);
+  background: rgba(20,33,28,.96);
+}
+
+.dark .edb-summary strong,
+.dark .edb-route-card__number,
+.dark .edb-route-card__link,
+.dark .edb-section-heading a,
+.dark .edb-publication-card__topic,
+.dark .edb-publication-card__arrow,
+.dark .edb-eyebrow {
+  color: var(--edb-forest) !important;
+}
+
+.dark .edb-button--secondary {
+  background: rgba(20,33,28,.84);
+  color: var(--edb-ink) !important;
+}
+
+.dark .edb-proof {
+  background: linear-gradient(90deg, #18231f, #1c2924);
+}
+
+.dark .edb-route-card,
+.dark .edb-publication-card {
+  background: var(--edb-white);
+}
+
+.dark .edb-kg-card {
+  border-color: var(--edb-line);
+  background: linear-gradient(145deg, #15241e, #1d3129);
+}
+
+@media (forced-colors: active) {
+  .edb-button,
+  .edb-route-card,
+  .edb-publication-card,
+  .edb-summary,
+  .edb-proof,
+  .edb-kg-card {
+    border: 1px solid CanvasText;
+  }
+
+  .edb-summary__mark {
+    background: Canvas;
+    border-color: CanvasText;
+  }
+}
