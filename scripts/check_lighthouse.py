@@ -33,10 +33,21 @@ for raw in sys.argv[1:]:
                 audit = audits.get(ref.get("id"), {})
                 audit_score = audit.get("score")
                 if audit_score is not None and audit_score < 1:
+                    audit_id = ref.get("id")
                     failed.append(
-                        f"{ref.get('id')}: {audit.get('title')} "
+                        f"{audit_id}: {audit.get('title')} "
                         f"(score={audit_score}, display={audit.get('displayValue', '')})"
                     )
+                    details = audit.get("details", {})
+                    for item in details.get("items", [])[:12]:
+                        node = item.get("node") or {}
+                        related = item.get("relatedNode") or {}
+                        selector = node.get("selector") or related.get("selector")
+                        snippet = node.get("snippet") or related.get("snippet")
+                        if selector or snippet:
+                            failed.append(
+                                f"    element selector={selector!r} snippet={snippet!r}"
+                            )
             if failed:
                 print(f"{path.name}: non-perfect {key} audits:")
                 for item in failed:
