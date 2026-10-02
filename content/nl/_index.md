@@ -1,7 +1,7 @@
 ---
 title: "Eduard de Boer"
-description: "Onafhankelijk specialist in houtlegaliteit, ontbossingsvrije ketens en due diligence."
+description: "Specialist in houtlegaliteit, ontbossingsvrije ketens en due diligence, werkzaam bij Ingenieursbureau Evan Buytendijk (IEB)."
 translationKey: "home"
 ---
 
-Onderzoek, analyse en praktische implementatie rond houtlegaliteit, keten-due-diligence, EUDR/EUTR en aanpalende duurzaamheidsregels.
+Werkzaam bij Ingenieursbureau Evan Buytendijk (IEB). Onderzoek, analyse en praktische implementatie rond houtlegaliteit, keten-due-diligence, EUDR/EUTR en aanpalende wettelijke en certificeringsvereisten.
