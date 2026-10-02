@@ -1,33 +1,114 @@
-<div class="edb-home">
-  <section class="edb-home__intro">
-    {{ .Content }}
+{{- $hero := .Params.hero -}}
+{{- $kg := .Params.knowledge_graph -}}
+
+<div class="edb-home edb-home--editorial">
+  <section class="edb-hero" aria-labelledby="edb-home-title">
+    <div class="edb-hero__copy">
+      <p class="edb-eyebrow">{{ $hero.eyebrow }}</p>
+      <h1 id="edb-home-title">{{ .Title }}</h1>
+      <p class="edb-hero__subtitle">{{ $hero.subtitle }}</p>
+      <p class="edb-hero__body">{{ $hero.body }}</p>
+      <div class="edb-hero__actions">
+        <a class="edb-button edb-button--primary" href="{{ $hero.primary_url }}">{{ $hero.primary_label }} <span aria-hidden="true">→</span></a>
+        <a class="edb-button edb-button--secondary" href="{{ $hero.secondary_url }}">{{ $hero.secondary_label }}</a>
+      </div>
+    </div>
+
+    <figure class="edb-hero__visual">
+      <img
+        src="{{ $hero.image }}"
+        alt="{{ $hero.image_alt }}"
+        width="640"
+        height="360"
+        loading="eager"
+        fetchpriority="high"
+      >
+      <figcaption>{{ $hero.image_label }}</figcaption>
+    </figure>
+
+    <aside class="edb-summary" aria-label="{{ .Params.summary_title }}">
+      <h2>{{ .Params.summary_title }}</h2>
+      <ul>
+        {{- range .Params.summary }}
+          <li>
+            <span class="edb-summary__mark" aria-hidden="true"></span>
+            <span>
+              <strong>{{ .title }}</strong>
+              <small>{{ .text }}</small>
+            </span>
+          </li>
+        {{- end }}
+      </ul>
+    </aside>
   </section>
 
-  <section aria-label="{{ if eq .Language.Lang "nl" }}Hoofdonderwerpen{{ else }}Main topics{{ end }}">
-    <div class="edb-home-grid">
-      {{- range (slice "expertise" "experience" "insights" "speaking" "about") }}
-        {{- with $.Site.GetPage . }}
-          <a class="edb-home-card" href="{{ .RelPermalink }}">
-            <strong>{{ .Title }}</strong>
-            {{ with .Description }}<span>{{ . }}</span>{{ end }}
+  <section class="edb-proof" aria-label="{{ if eq .Language.Lang "nl" }}Professionele context{{ else }}Professional context{{ end }}">
+    {{- range .Params.proof }}
+      <div class="edb-proof__item">
+        <strong>{{ .title }}</strong>
+        <span>{{ .text }}</span>
+      </div>
+    {{- end }}
+  </section>
+
+  <section class="edb-routes" aria-label="{{ if eq .Language.Lang "nl" }}Hoofdonderwerpen{{ else }}Main topics{{ end }}">
+    {{- range .Params.routes }}
+      <a class="edb-route-card" href="{{ .url }}">
+        <span class="edb-route-card__number">{{ .number }}</span>
+        <h2>{{ .title }}</h2>
+        <p>{{ .text }}</p>
+        <span class="edb-route-card__link">{{ .label }} <span aria-hidden="true">→</span></span>
+      </a>
+    {{- end }}
+  </section>
+
+  <section class="edb-lower-grid">
+    <div class="edb-publications">
+      <header class="edb-section-heading">
+        <h2>{{ .Params.selected_publications_title }}</h2>
+        <a href="{{ .Params.selected_publications_url }}">{{ .Params.selected_publications_label }} <span aria-hidden="true">→</span></a>
+      </header>
+
+      <div class="edb-publication-grid">
+        {{- range $index, $publication := .Params.selected_publications }}
+          <a class="edb-publication-card" href="{{ $.Params.selected_publications_url }}">
+            <div class="edb-publication-card__visual edb-publication-card__visual--{{ add $index 1 }}">
+              <span>{{ $publication.topic }}</span>
+            </div>
+            <div class="edb-publication-card__content">
+              <span class="edb-publication-card__topic">{{ $publication.topic }}</span>
+              <h3>{{ $publication.title }}</h3>
+              <p>{{ $publication.text }}</p>
+              <span class="edb-publication-card__arrow" aria-hidden="true">→</span>
+            </div>
           </a>
         {{- end }}
-      {{- end }}
-    </div>
-  </section>
-
-  {{- $recent := first 4 (where .Site.RegularPages.ByDate.Reverse "Section" "insights") -}}
-  {{- if $recent }}
-    <section>
-      <h2>{{ if eq .Language.Lang "nl" }}Recente publicaties{{ else }}Recent insights{{ end }}</h2>
-      <div class="edb-home-grid">
-        {{ range $recent }}
-          <a class="edb-home-card" href="{{ .RelPermalink }}">
-            <strong>{{ .Title }}</strong>
-            {{ with .Description }}<span>{{ . }}</span>{{ end }}
-          </a>
-        {{ end }}
       </div>
-    </section>
-  {{- end }}
+    </div>
+
+    <aside class="edb-kg-card">
+      <div class="edb-kg-card__copy">
+        <p class="edb-eyebrow">{{ $kg.eyebrow }}</p>
+        <h2>{{ $kg.title }}</h2>
+        <p>{{ $kg.text }}</p>
+        <a class="edb-button edb-button--primary" href="{{ $kg.url }}" rel="noopener noreferrer">{{ $kg.label }} <span aria-hidden="true">→</span></a>
+      </div>
+      <svg class="edb-kg-card__graphic" viewBox="0 0 360 220" role="img" aria-label="{{ if eq .Language.Lang "nl" }}Schematische visualisatie van verbonden kennisentiteiten{{ else }}Schematic visualization of connected knowledge entities{{ end }}">
+        <g class="edb-kg-lines">
+          <path d="M70 122 145 72 217 112 294 63"/>
+          <path d="M70 122 145 170 217 112 285 172"/>
+          <path d="M145 72 145 170"/>
+          <path d="M217 112 285 172"/>
+        </g>
+        <g class="edb-kg-nodes">
+          <circle cx="70" cy="122" r="18"/>
+          <circle cx="145" cy="72" r="14"/>
+          <circle cx="145" cy="170" r="15"/>
+          <circle cx="217" cy="112" r="22"/>
+          <circle cx="294" cy="63" r="13"/>
+          <circle cx="285" cy="172" r="16"/>
+        </g>
+      </svg>
+    </aside>
+  </section>
 </div>
