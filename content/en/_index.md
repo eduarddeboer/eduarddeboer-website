@@ -60,11 +60,5 @@ routes:
 selected_publications_title: "Selected publications"
 selected_publications_label: "All publications"
 selected_publications_url: "/en/insights/"
-knowledge_graph:
-  eyebrow: "Knowledge structure"
-  title: "Knowledge graph"
-  text: "The underlying knowledge graph connects people, organisations, legislation, countries, standards, publications and media. Its professional risk-and-evidence layer is being expanded."
-  label: "Explore the knowledge graph"
-  url: "https://data.eduarddeboer.com/"
 ---
 
