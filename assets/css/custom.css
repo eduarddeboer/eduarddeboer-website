@@ -837,3 +837,42 @@
     border-color: CanvasText;
   }
 }
+
+
+/* WCAG-oriented touch targets for Congo navigation controls and compact
+   editorial links. Keep interactive controls comfortably usable on touch. */
+header nav a,
+header nav button,
+footer nav a,
+footer nav button,
+.edb-section-heading a {
+  display: inline-flex;
+  min-height: 44px;
+  align-items: center;
+}
+
+header nav button,
+footer nav button {
+  min-width: 44px;
+  justify-content: center;
+}
+
+header nav li,
+footer nav li {
+  min-height: 44px;
+}
+
+@media (max-width: 639px) {
+  header nav > ul > li > a,
+  header nav > ul > li > button,
+  footer nav > ul > li > a,
+  footer nav > ul > li > button {
+    width: 100%;
+    padding-block: .55rem;
+  }
+
+  header nav > ul > li > a,
+  header nav > ul > li > button {
+    justify-content: flex-end;
+  }
+}
