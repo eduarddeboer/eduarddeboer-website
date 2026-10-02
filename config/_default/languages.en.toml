@@ -1,0 +1,22 @@
+locale = "en"
+label = "English"
+weight = 1
+title = "Eduard de Boer"
+contentDir = "content/en"
+copyright = "© Eduard de Boer"
+
+[params]
+  isoCode = "en"
+  displayName = "EN"
+  rtl = false
+  dateFormat = "2 January 2006"
+  description = "Independent specialist in timber legality, deforestation-free supply chains and due diligence."
+
+[params.author]
+  name = "Eduard de Boer"
+  headline = "Timber legality · deforestation-free supply chains · due diligence"
+  bio = "Independent specialist working at the intersection of timber legality, supply-chain due diligence and sustainability."
+  links = [
+    { linkedin = "https://www.linkedin.com/in/eduarddeboer/" },
+    { github = "https://github.com/eduarddeboer" }
+  ]

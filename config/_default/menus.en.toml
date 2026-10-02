@@ -1,0 +1,29 @@
+[[main]]
+name = "Expertise"
+pageRef = "expertise"
+weight = 10
+
+[[main]]
+name = "Experience"
+pageRef = "experience"
+weight = 20
+
+[[main]]
+name = "Insights"
+pageRef = "insights"
+weight = 30
+
+[[main]]
+name = "Speaking"
+pageRef = "speaking"
+weight = 40
+
+[[main]]
+name = "About"
+pageRef = "about"
+weight = 50
+
+[[footer]]
+name = "Knowledge graph"
+url = "https://data.eduarddeboer.com/"
+weight = 10

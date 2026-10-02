@@ -1,0 +1,136 @@
+name: Validate website
+
+on:
+  pull_request:
+    types: [opened, synchronize, reopened, ready_for_review]
+  push:
+    branches: [main]
+  workflow_dispatch:
+
+permissions:
+  contents: read
+
+concurrency:
+  group: website-validation-${{ github.event.pull_request.number || github.ref }}
+  cancel-in-progress: true
+
+jobs:
+  choose-runner:
+    name: Choose preferred runner
+    runs-on: ubuntu-latest
+    timeout-minutes: 2
+    outputs:
+      runs_on: ${{ steps.untrusted.outputs.runs_on || steps.choose.outputs.runs_on }}
+      target: ${{ steps.untrusted.outputs.target || steps.choose.outputs.target }}
+      runner_name: ${{ steps.untrusted.outputs.runner_name || steps.choose.outputs.runner_name }}
+    steps:
+      - name: Keep external fork pull requests off self-hosted runners
+        id: untrusted
+        if: github.event_name == 'pull_request' && github.event.pull_request.head.repo.full_name != github.repository
+        shell: bash
+        run: |
+          echo 'runs_on=["ubuntu-latest"]' >> "$GITHUB_OUTPUT"
+          echo 'target=github-hosted-untrusted' >> "$GITHUB_OUTPUT"
+          echo 'runner_name=ubuntu-latest' >> "$GITHUB_OUTPUT"
+
+      - name: Prefer an online idle local macOS runner
+        id: choose
+        if: github.event_name != 'pull_request' || github.event.pull_request.head.repo.full_name == github.repository
+        uses: actions/github-script@v8
+        with:
+          github-token: ${{ secrets.RUNNER_ROUTER_TOKEN }}
+          script: |
+            const { owner, repo } = context.repo;
+            const { data } = await github.rest.actions.listSelfHostedRunnersForRepo({
+              owner,
+              repo,
+              per_page: 100,
+            });
+
+            const candidates = data.runners.filter((runner) => {
+              const labels = new Set((runner.labels || []).map((label) => label.name));
+              return runner.status === "online"
+                && runner.busy === false
+                && labels.has("self-hosted")
+                && labels.has("macOS");
+            });
+
+            const local = candidates[0] || null;
+            const runsOn = local ? ["self-hosted", "macOS"] : ["ubuntu-latest"];
+            const target = local ? "local" : "github-hosted";
+            const runnerName = local ? local.name : "ubuntu-latest";
+
+            core.setOutput("runs_on", JSON.stringify(runsOn));
+            core.setOutput("target", target);
+            core.setOutput("runner_name", runnerName);
+            core.notice(
+              local
+                ? `Using preferred local runner: ${local.name}`
+                : "No online idle local macOS runner is available; using ubuntu-latest."
+            );
+
+  build:
+    name: Build on ${{ needs.choose-runner.outputs.target }}
+    needs: choose-runner
+    runs-on: ${{ fromJSON(needs.choose-runner.outputs.runs_on) }}
+    timeout-minutes: 20
+    env:
+      PYTHONUNBUFFERED: "1"
+
+    steps:
+      - name: Report selected runner
+        run: |
+          echo "Routing target: ${{ needs.choose-runner.outputs.target }}"
+          echo "Selected runner: ${{ needs.choose-runner.outputs.runner_name }}"
+          echo "Executing on: ${{ runner.name }} (${{ runner.os }}/${{ runner.arch }})"
+
+      - name: Checkout
+        uses: actions/checkout@v7
+        with:
+          fetch-depth: 0
+
+      - name: Python
+        uses: actions/setup-python@v6
+        with:
+          python-version: "3.12"
+
+      - name: Hugo Extended
+        uses: peaceiris/actions-hugo@v3
+        with:
+          hugo-version: "0.167.0"
+          extended: true
+
+      - name: Go for Hugo Modules
+        uses: actions/setup-go@v6
+        with:
+          go-version: "stable"
+          cache: false
+
+      - name: Node.js
+        uses: actions/setup-node@v7
+        with:
+          node-version: "22"
+
+      - name: Resolve pinned Hugo module
+        run: hugo mod graph
+
+      - name: Validate source contracts
+        run: python3 scripts/validate.py
+
+      - name: Test Cloudflare edge behavior
+        run: node --test tests/edge-worker.test.mjs
+
+      - name: Build immutable production-canonical candidate
+        run: python3 scripts/build.py
+
+      - name: Verify release candidate
+        run: python3 scripts/verify_dist.py
+
+      - name: Save exact main release candidate
+        if: github.event_name == 'push' && github.ref == 'refs/heads/main'
+        uses: actions/upload-artifact@v4
+        with:
+          name: website-release-candidate
+          path: dist/
+          retention-days: 14
+          include-hidden-files: true

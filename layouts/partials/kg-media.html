@@ -1,0 +1,15 @@
+{{- $mediaID := .mediaID -}}
+{{- $page := .page -}}
+{{- $media := index $page.Site.Data.kg.snapshot.media $mediaID -}}
+{{- with $media -}}
+  <figure class="kg-media">
+    {{- with .local_path }}
+      <img src="{{ . | relURL }}" alt="{{ index $media.alt $page.Language.Lang | default (index $media.alt "en") | default "" }}" loading="lazy" decoding="async">
+    {{- end }}
+    <figcaption>
+      {{- with .caption }}{{ index . $page.Language.Lang | default (index . "en") }}{{ end -}}
+      {{- with .credit_text }}<small>{{ . }}</small>{{ end -}}
+      {{- with .license }}<small> · <a href="{{ . }}" rel="license external">license</a></small>{{ end -}}
+    </figcaption>
+  </figure>
+{{- end -}}

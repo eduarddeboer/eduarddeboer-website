@@ -1,0 +1,7 @@
+{{- $src := .Get "src" -}}
+{{- $title := .Get "title" | default "Audio" -}}
+{{- if not $src }}{{ errorf "audio shortcode requires src on %s" .Page.File.Path }}{{ end -}}
+<figure class="privacy-media">
+  <audio controls preload="none" src="{{ $src | safeURL }}" aria-label="{{ $title }}"></audio>
+  <figcaption>{{ $title }}</figcaption>
+</figure>

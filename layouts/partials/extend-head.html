@@ -1,0 +1,63 @@
+{{- $personID := "https://eduarddeboer.com/#person" -}}
+{{- $websiteID := "https://eduarddeboer.com/#website" -}}
+{{- $graphBase := "https://data.eduarddeboer.com/entity/" -}}
+
+<link rel="describedby" href="https://data.eduarddeboer.com/entity/person/eduard_de_boer">
+{{- with .Params.kgRef }}
+<link rel="describedby" href="{{ printf "%s%s" $graphBase . }}">
+{{- end }}
+
+{{- $sameAs := slice
+  "https://data.eduarddeboer.com/entity/person/eduard_de_boer"
+  "https://www.wikidata.org/wiki/Q65610641"
+  "https://www.linkedin.com/in/eduarddeboer/"
+-}}
+{{- $person := dict
+  "@type" "Person"
+  "@id" $personID
+  "name" "Eduard de Boer"
+  "url" "https://eduarddeboer.com/"
+  "sameAs" $sameAs
+-}}
+{{- $website := dict
+  "@type" "WebSite"
+  "@id" $websiteID
+  "url" "https://eduarddeboer.com/"
+  "name" "Eduard de Boer"
+  "inLanguage" (slice "en" "nl")
+  "author" (dict "@id" $personID)
+-}}
+{{- $graph := slice $person $website -}}
+
+{{- if not .IsHome -}}
+  {{- $pageType := "WebPage" -}}
+  {{- if eq .Section "insights" }}{{ $pageType = "Article" }}{{ end -}}
+  {{- $pageNode := dict
+    "@type" $pageType
+    "@id" (printf "%s#content" .Permalink)
+    "url" .Permalink
+    "name" .Title
+    "inLanguage" .Language.Lang
+    "isPartOf" (dict "@id" $websiteID)
+    "author" (dict "@id" $personID)
+  -}}
+  {{- with .Description }}
+    {{- $pageNode = merge $pageNode (dict "description" .) -}}
+  {{- end }}
+  {{- with .Params.kgRef }}
+    {{- $pageNode = merge $pageNode (dict "mainEntity" (dict "@id" (printf "%s%s" $graphBase .))) -}}
+  {{- end }}
+  {{- with .Params.about }}
+    {{- $items := slice -}}
+    {{- range . }}{{ $items = $items | append (dict "@id" (printf "%s%s" $graphBase .)) }}{{ end -}}
+    {{- $pageNode = merge $pageNode (dict "about" $items) -}}
+  {{- end }}
+  {{- with .Params.mentions }}
+    {{- $items := slice -}}
+    {{- range . }}{{ $items = $items | append (dict "@id" (printf "%s%s" $graphBase .)) }}{{ end -}}
+    {{- $pageNode = merge $pageNode (dict "mentions" $items) -}}
+  {{- end }}
+  {{- $graph = $graph | append $pageNode -}}
+{{- end }}
+
+<script type="application/ld+json">{{ dict "@context" "https://schema.org" "@graph" $graph | jsonify | safeJS }}</script>

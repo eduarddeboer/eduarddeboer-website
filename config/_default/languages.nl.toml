@@ -1,0 +1,22 @@
+locale = "nl"
+label = "Nederlands"
+weight = 2
+title = "Eduard de Boer"
+contentDir = "content/nl"
+copyright = "© Eduard de Boer"
+
+[params]
+  isoCode = "nl"
+  displayName = "NL"
+  rtl = false
+  dateFormat = "2 January 2006"
+  description = "Onafhankelijk specialist in houtlegaliteit, ontbossingsvrije ketens en due diligence."
+
+[params.author]
+  name = "Eduard de Boer"
+  headline = "Houtlegaliteit · ontbossingsvrije ketens · due diligence"
+  bio = "Onafhankelijk specialist op het snijvlak van houtlegaliteit, keten-due-diligence en duurzaamheid."
+  links = [
+    { linkedin = "https://www.linkedin.com/in/eduarddeboer/" },
+    { github = "https://github.com/eduarddeboer" }
+  ]
