@@ -1,6 +1,7 @@
 {{- $personID := "https://eduarddeboer.com/#person" -}}
 {{- $websiteID := "https://eduarddeboer.com/#website" -}}
 {{- $graphBase := "https://data.eduarddeboer.com/entity/" -}}
+{{- $pageID := printf "%s#webpage" .Permalink -}}
 
 <link rel="describedby" href="https://data.eduarddeboer.com/entity/person/eduard_de_boer">
 {{- with .Params.kgRef }}
@@ -12,13 +13,16 @@
   "https://www.wikidata.org/wiki/Q65610641"
   "https://www.linkedin.com/in/eduarddeboer/"
 -}}
+
 {{- $person := dict
   "@type" "Person"
   "@id" $personID
   "name" "Eduard de Boer"
   "url" "https://eduarddeboer.com/"
   "sameAs" $sameAs
+  "worksFor" (dict "@id" "https://data.eduarddeboer.com/entity/organization/ingenieursbureau_evan_buytendijk")
 -}}
+
 {{- $website := dict
   "@type" "WebSite"
   "@id" $websiteID
@@ -26,38 +30,61 @@
   "name" "Eduard de Boer"
   "inLanguage" (slice "en" "nl")
   "author" (dict "@id" $personID)
+  "publisher" (dict "@id" $personID)
 -}}
-{{- $graph := slice $person $website -}}
 
-{{- if not .IsHome -}}
-  {{- $pageType := "WebPage" -}}
-  {{- if eq .Section "insights" }}{{ $pageType = "Article" }}{{ end -}}
-  {{- $pageNode := dict
-    "@type" $pageType
-    "@id" (printf "%s#content" .Permalink)
-    "url" .Permalink
-    "name" .Title
-    "inLanguage" .Language.Lang
-    "isPartOf" (dict "@id" $websiteID)
-    "author" (dict "@id" $personID)
-  -}}
-  {{- with .Description }}
-    {{- $pageNode = merge $pageNode (dict "description" .) -}}
-  {{- end }}
+{{- $pageType := "WebPage" -}}
+{{- if .IsHome -}}
+  {{- $pageType = "ProfilePage" -}}
+{{- else if .IsSection -}}
+  {{- $pageType = "CollectionPage" -}}
+{{- else if and .IsPage (eq .Section "insights") -}}
+  {{- $pageType = "Article" -}}
+{{- end -}}
+
+{{- $pageNode := dict
+  "@type" $pageType
+  "@id" $pageID
+  "url" .Permalink
+  "name" .Title
+  "inLanguage" .Language.Lang
+  "isPartOf" (dict "@id" $websiteID)
+  "author" (dict "@id" $personID)
+-}}
+
+{{- with .Description }}
+  {{- $pageNode = merge $pageNode (dict "description" .) -}}
+{{- end }}
+
+{{- if .IsHome -}}
+  {{- $pageNode = merge $pageNode (dict "mainEntity" (dict "@id" $personID)) -}}
+{{- else -}}
   {{- with .Params.kgRef }}
     {{- $pageNode = merge $pageNode (dict "mainEntity" (dict "@id" (printf "%s%s" $graphBase .))) -}}
   {{- end }}
-  {{- with .Params.about }}
-    {{- $items := slice -}}
-    {{- range . }}{{ $items = $items | append (dict "@id" (printf "%s%s" $graphBase .)) }}{{ end -}}
-    {{- $pageNode = merge $pageNode (dict "about" $items) -}}
-  {{- end }}
-  {{- with .Params.mentions }}
-    {{- $items := slice -}}
-    {{- range . }}{{ $items = $items | append (dict "@id" (printf "%s%s" $graphBase .)) }}{{ end -}}
-    {{- $pageNode = merge $pageNode (dict "mentions" $items) -}}
-  {{- end }}
-  {{- $graph = $graph | append $pageNode -}}
 {{- end }}
 
+{{- if eq $pageType "Article" -}}
+  {{- $pageNode = merge $pageNode (dict "headline" .Title) -}}
+  {{- with .PublishDate }}
+    {{- $pageNode = merge $pageNode (dict "datePublished" (.Format "2006-01-02T15:04:05-07:00")) -}}
+  {{- end }}
+  {{- with .Lastmod }}
+    {{- $pageNode = merge $pageNode (dict "dateModified" (.Format "2006-01-02T15:04:05-07:00")) -}}
+  {{- end }}
+{{- end }}
+
+{{- with .Params.about }}
+  {{- $items := slice -}}
+  {{- range . }}{{ $items = $items | append (dict "@id" (printf "%s%s" $graphBase .)) }}{{ end -}}
+  {{- $pageNode = merge $pageNode (dict "about" $items) -}}
+{{- end }}
+
+{{- with .Params.mentions }}
+  {{- $items := slice -}}
+  {{- range . }}{{ $items = $items | append (dict "@id" (printf "%s%s" $graphBase .)) }}{{ end -}}
+  {{- $pageNode = merge $pageNode (dict "mentions" $items) -}}
+{{- end }}
+
+{{- $graph := slice $person $website $pageNode -}}
 <script type="application/ld+json">{{ dict "@context" "https://schema.org" "@graph" $graph | jsonify | safeJS }}</script>
