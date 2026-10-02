@@ -4,12 +4,12 @@
   "sections": {
     "about": {
       "title": {
-        "nl": "Gerelateerde kennis",
-        "en": "Related knowledge"
+        "nl": "Professionele context",
+        "en": "Professional context"
       },
       "intro": {
-        "nl": "Deze entiteiten uit de knowledge graph onderbouwen de huidige professionele context op deze pagina.",
-        "en": "These knowledge-graph entities support the current professional context on this page."
+        "nl": "Enkele organisaties, regels en kwalificaties die relevant zijn voor mijn huidige werk.",
+        "en": "Selected organisations, regulations and qualifications relevant to my current work."
       },
       "groups": [
         {
@@ -38,12 +38,12 @@
     },
     "expertise": {
       "title": {
-        "nl": "Kennisbasis bij deze expertise",
-        "en": "Knowledge base for this expertise"
+        "nl": "Bronnen en context",
+        "en": "Sources and context"
       },
       "intro": {
-        "nl": "De onderstaande bronnen en begrippen zijn de belangrijkste KG-entiteiten achter de huidige expertisebeschrijving.",
-        "en": "The following sources and concepts are the principal KG entities behind the current expertise description."
+        "nl": "Een compacte selectie van regelgeving, begrippen en richtsnoeren die bij deze expertise horen.",
+        "en": "A compact selection of legislation, concepts and guidance related to this expertise."
       },
       "groups": [
         {
@@ -88,12 +88,12 @@
     },
     "experience": {
       "title": {
-        "nl": "Landen en praktijkvoorbeelden",
-        "en": "Countries and practical examples"
+        "nl": "Landen en praktijkcontext",
+        "en": "Countries and practical context"
       },
       "intro": {
-        "nl": "De landen hieronder zijn gekoppeld aan de huidige ervaringspagina; geselecteerde publicaties geven context bij enkele audits en ketenonderzoeken.",
-        "en": "The countries below are linked to the current experience page; selected publications provide context for several audits and supply-chain assignments."
+        "nl": "Landen en openbare praktijkpublicaties die context geven bij mijn internationale ervaring.",
+        "en": "Countries and public practice publications that provide context for my international experience."
       },
       "groups": [
         {
@@ -125,12 +125,12 @@
     },
     "speaking": {
       "title": {
-        "nl": "Spreken en media in de knowledge graph",
-        "en": "Speaking and media in the knowledge graph"
+        "nl": "Gerelateerde bijdragen",
+        "en": "Related contributions"
       },
       "intro": {
-        "nl": "Een selectie van actuele vakinhoudelijke bijdragen en historische mediaoptredens die als afzonderlijke entiteiten zijn gemodelleerd.",
-        "en": "A selection of current professional contributions and historical media appearances modelled as separate entities."
+        "nl": "Een selectie van vakinhoudelijke presentaties en historische mediaoptredens.",
+        "en": "A selection of professional presentations and historical media appearances."
       },
       "groups": [
         {
@@ -162,12 +162,12 @@
     },
     "insights": {
       "title": {
-        "nl": "Publicaties uit de knowledge graph",
-        "en": "Publications from the knowledge graph"
+        "nl": "Publicatiecontext",
+        "en": "Publication context"
       },
       "intro": {
-        "nl": "Deze publicaties worden rechtstreeks uit de gepinde KG-projectie gelezen en blijven daardoor gekoppeld aan hun onderwerpen en bron-URL.",
-        "en": "These publications are read directly from the pinned KG projection and therefore remain linked to their topics and source URL."
+        "nl": "Onderwerpen en bronnen die aan de publicaties zijn gekoppeld.",
+        "en": "Topics and sources linked to the publications."
       },
       "groups": [
         {

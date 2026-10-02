@@ -60,11 +60,5 @@ routes:
 selected_publications_title: "Geselecteerde publicaties"
 selected_publications_label: "Alle publicaties"
 selected_publications_url: "/nl/insights/"
-knowledge_graph:
-  eyebrow: "Kennisstructuur"
-  title: "Knowledge graph"
-  text: "De achterliggende knowledge graph verbindt personen, organisaties, regelgeving, landen, standaarden, publicaties en media. De vakinhoudelijke risico- en bewijslaag wordt verder uitgebouwd."
-  label: "Bekijk de knowledge graph"
-  url: "https://data.eduarddeboer.com/"
 ---
 

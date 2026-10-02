@@ -7,18 +7,17 @@
   {{- with $section }}
     {{- $title := index .title $.Language.Lang | default (index .title "nl") | default (index .title "en") -}}
     {{- $intro := index .intro $.Language.Lang | default (index .intro "nl") | default (index .intro "en") -}}
-    <section class="edb-kg-section" aria-labelledby="edb-kg-section-title" data-kg-section="{{ $sectionKey }}" data-kg-source="{{ $.Site.Data.kg.snapshot.source.commit }}">
-      <header class="edb-kg-section__header">
-        <p class="edb-eyebrow">{{ if eq $.Language.Lang "nl" }}Knowledge graph{{ else }}Knowledge graph{{ end }}</p>
-        <h2 id="edb-kg-section-title">{{ $title }}</h2>
+    <section class="edb-context-section" aria-labelledby="edb-context-section-title" data-kg-section="{{ $sectionKey }}" data-kg-source="{{ $.Site.Data.kg.snapshot.source.commit }}">
+      <header class="edb-context-section__header">
+        <h2 id="edb-context-section-title">{{ $title }}</h2>
         <p>{{ $intro }}</p>
       </header>
 
       {{- range .groups }}
         {{- $groupTitle := index .title $.Language.Lang | default (index .title "nl") | default (index .title "en") -}}
-        <div class="edb-kg-group">
+        <div class="edb-context-group">
           <h3>{{ $groupTitle }}</h3>
-          <div class="edb-kg-entity-grid">
+          <ul class="edb-context-list">
             {{- range .entities }}
               {{- $entityID := . -}}
               {{- $entity := index $entities $entityID -}}
@@ -29,28 +28,31 @@
                   {{- $description = index . $.Language.Lang | default (index . "nl") | default (index . "en") -}}
                 {{- end -}}
                 {{- $kgURL := printf "%sentity/%s" $base $entityID -}}
-                <article class="edb-kg-entity-card" data-kg-id="{{ $entityID }}">
-                  <div class="edb-kg-entity-card__meta">
-                    <span>{{ .type }}</span>
-                    {{- with .date_published }}<time datetime="{{ . }}">{{ dateFormat "02-01-2006" . }}</time>{{ end -}}
-                    {{- with .start_date }}<time datetime="{{ . }}">{{ dateFormat "02-01-2006" . }}</time>{{ end -}}
+                <li class="edb-context-item" data-kg-id="{{ $entityID }}">
+                  <div class="edb-context-item__body">
+                    <div class="edb-context-item__meta">
+                      <span>{{ .type }}</span>
+                      {{- with .date_published }}<time datetime="{{ . }}">{{ dateFormat "02-01-2006" . }}</time>{{ end -}}
+                      {{- with .start_date }}<time datetime="{{ . }}">{{ dateFormat "02-01-2006" . }}</time>{{ end -}}
+                    </div>
+                    <h4>{{ $name }}</h4>
+                    {{- with $description }}<p>{{ . }}</p>{{ end -}}
                   </div>
-                  <h4><a href="{{ $kgURL }}" rel="noopener noreferrer">{{ $name }}</a></h4>
-                  {{- with $description }}<p>{{ . }}</p>{{ end -}}
-                  <div class="edb-kg-entity-card__links">
-                    <a href="{{ $kgURL }}" rel="noopener noreferrer">
-                      {{ if eq $.Language.Lang "nl" }}In knowledge graph{{ else }}In knowledge graph{{ end }} <span aria-hidden="true">→</span>
-                    </a>
+                  <div class="edb-context-item__links">
                     {{- with .url }}
                       <a href="{{ . }}" rel="external noopener noreferrer">
                         {{ if eq $.Language.Lang "nl" }}Bron{{ else }}Source{{ end }} <span aria-hidden="true">↗</span>
                       </a>
+                    {{- else }}
+                      <a href="{{ $kgURL }}" rel="noopener noreferrer">
+                        {{ if eq $.Language.Lang "nl" }}Meer context{{ else }}More context{{ end }} <span aria-hidden="true">→</span>
+                      </a>
                     {{- end }}
                   </div>
-                </article>
+                </li>
               {{- end }}
             {{- end }}
-          </div>
+          </ul>
         </div>
       {{- end }}
     </section>

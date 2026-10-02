@@ -1,0 +1,114 @@
+{{ define "main" }}
+  {{- $entities := .Site.Data.kg.snapshot.entities -}}
+  {{- $articles := slice -}}
+
+  {{- range $id, $entity := $entities -}}
+    {{- if eq $entity.type "Article" -}}
+      {{- $isAuthor := false -}}
+      {{- range $entity.relations -}}
+        {{- if and (eq .predicate "author") (eq .target "person/eduard_de_boer") -}}
+          {{- $isAuthor = true -}}
+        {{- end -}}
+      {{- end -}}
+      {{- if $isAuthor -}}
+        {{- $articles = $articles | append $entity -}}
+      {{- end -}}
+    {{- end -}}
+  {{- end -}}
+
+  {{- $articles = sort $articles "date_published" "desc" -}}
+
+  <div class="edb-publications-page">
+    <header class="edb-publications-page__intro">
+      {{ if .Params.showBreadcrumbs | default (.Site.Params.list.showBreadcrumbs | default false) }}
+        {{ partial "breadcrumbs.html" . }}
+      {{ end }}
+      <p class="edb-eyebrow">{{ if eq .Language.Lang "nl" }}Artikelen & analyses{{ else }}Articles & analysis{{ end }}</p>
+      <h1>{{ .Title }}</h1>
+      <div class="edb-publications-page__lead">
+        {{ .Content | emojify }}
+      </div>
+      <p class="edb-publications-page__count">
+        {{ len $articles }}
+        {{ if eq .Language.Lang "nl" }}publicaties in dit overzicht{{ else }}publications in this overview{{ end }}
+      </p>
+    </header>
+
+    <section class="edb-publication-archive" aria-label="{{ if eq .Language.Lang "nl" }}Publicatieoverzicht{{ else }}Publication archive{{ end }}">
+      {{- range $articles }}
+        {{- $article := . -}}
+        {{- $title := index $article.name $.Language.Lang | default (index $article.name "nl") | default (index $article.name "en") -}}
+        {{- $description := index $article.description $.Language.Lang | default (index $article.description "nl") | default (index $article.description "en") -}}
+        {{- $topics := slice -}}
+        {{- $publisher := "" -}}
+
+        {{- range $article.relations -}}
+          {{- if eq .predicate "about" -}}
+            {{- $targetID := .target -}}
+            {{- with index $entities $targetID -}}
+              {{- $topic := index .name $.Language.Lang | default (index .name "nl") | default (index .name "en") -}}
+              {{- if eq $targetID "legislation/eudr_2023_1115" -}}
+                {{- $topic = "EUDR" -}}
+              {{- else if eq $targetID "legislation/eutr_995_2010" -}}
+                {{- $topic = "EUTR" -}}
+              {{- else if eq $targetID "defined_term/due_diligence_eudr" -}}
+                {{- $topic = "Due diligence" -}}
+              {{- else if eq $targetID "defined_term/supply_chain_traceability" -}}
+                {{- $topic = cond (eq $.Language.Lang "nl") "Traceerbaarheid" "Traceability" -}}
+              {{- else if eq $targetID "defined_term/risk_assessment" -}}
+                {{- $topic = cond (eq $.Language.Lang "nl") "Risicobeoordeling" "Risk assessment" -}}
+              {{- else if eq $targetID "defined_term/auditing" -}}
+                {{- $topic = "Auditing" -}}
+              {{- end -}}
+              {{- $topics = $topics | append $topic -}}
+            {{- end -}}
+          {{- else if eq .predicate "publisher" -}}
+            {{- with index $entities .target -}}
+              {{- $publisher = index .name $.Language.Lang | default (index .name "nl") | default (index .name "en") -}}
+            {{- end -}}
+          {{- end -}}
+        {{- end -}}
+
+        {{- if not $publisher -}}
+          {{- if in $article.url "linkedin.com" -}}
+            {{- $publisher = "LinkedIn" -}}
+          {{- else if in $article.url "interu.io" -}}
+            {{- $publisher = "Interu" -}}
+          {{- end -}}
+        {{- end -}}
+
+        <article class="edb-archive-item" data-kg-id="{{ $article.id }}">
+          <div class="edb-archive-item__date">
+            <time datetime="{{ $article.date_published }}">
+              <span>{{ dateFormat "02" $article.date_published }}</span>
+              <strong>{{ dateFormat "Jan" $article.date_published }}</strong>
+              <small>{{ dateFormat "2006" $article.date_published }}</small>
+            </time>
+          </div>
+
+          <div class="edb-archive-item__body">
+            <div class="edb-archive-item__meta">
+              {{- with $publisher }}<span>{{ . }}</span>{{ end -}}
+              {{- range first 3 $topics }}<span>{{ . }}</span>{{ end -}}
+            </div>
+            <h2><a href="{{ $article.url }}" rel="external noopener noreferrer">{{ $title }}</a></h2>
+            {{- with $description }}<p>{{ . }}</p>{{ end -}}
+            <a class="edb-archive-item__read" href="{{ $article.url }}" rel="external noopener noreferrer">
+              {{ if eq $.Language.Lang "nl" }}Lees publicatie{{ else }}Read publication{{ end }} <span aria-hidden="true">↗</span>
+            </a>
+          </div>
+        </article>
+      {{- end }}
+    </section>
+
+    <aside class="edb-data-note">
+      <p>
+        {{ if eq .Language.Lang "nl" }}
+          Onderwerpen, bronnen en relaties worden achter de schermen gekoppeld aan gestructureerde data.
+        {{ else }}
+          Topics, sources and relationships are linked to structured data behind the scenes.
+        {{ end }}
+      </p>
+    </aside>
+  </div>
+{{ end }}
