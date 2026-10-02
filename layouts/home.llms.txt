@@ -1,0 +1,21 @@
+# {{ .Site.Title }}
+
+> {{ .Site.Params.description }}
+
+Canonical website: https://eduarddeboer.com/
+Knowledge graph: https://data.eduarddeboer.com/
+Language: {{ .Language.Lang }}
+
+## Main sections
+{{ range .Site.Sections.ByWeight }}
+- [{{ .Title }}]({{ .Permalink }}): {{ .Description | default .Summary | plainify }}
+{{ end }}
+
+## Recent publications
+{{ range first 12 (where .Site.RegularPages.ByDate.Reverse "Section" "insights") }}
+- [{{ .Title }}]({{ .Permalink }}){{ with .Description }} — {{ . | plainify }}{{ end }}
+{{ end }}
+
+## Machine-readable context
+
+Entity identity, identifiers, factual relations and provenance are maintained in the linked knowledge graph. Editorial prose on this website is the human-facing source.
