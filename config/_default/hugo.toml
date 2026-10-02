@@ -1,0 +1,46 @@
+baseURL = "https://eduarddeboer.com/"
+title = "Eduard de Boer"
+defaultContentLanguage = "en"
+defaultContentLanguageInSubdir = true
+enableRobotsTXT = true
+enableEmoji = true
+disableHugoGeneratorInject = true
+summaryLength = 28
+timeout = "120s"
+
+[pagination]
+  pagerSize = 12
+
+[taxonomies]
+  topic = "topics"
+  format = "formats"
+
+[outputs]
+  home = ["HTML", "RSS", "JSON", "LLMS"]
+  section = ["HTML", "RSS"]
+
+[mediaTypes]
+  [mediaTypes."text/plain"]
+    suffixes = ["txt"]
+
+[outputFormats]
+  [outputFormats.LLMS]
+    mediaType = "text/plain"
+    baseName = "llms"
+    isPlainText = true
+    notAlternative = false
+    permalinkable = false
+
+[permalinks]
+  insights = "/insights/:year/:slug/"
+
+[markup]
+  [markup.goldmark]
+    [markup.goldmark.renderer]
+      unsafe = false
+
+[privacy]
+  [privacy.youtube]
+    privacyEnhanced = true
+  [privacy.vimeo]
+    enableDNT = true
