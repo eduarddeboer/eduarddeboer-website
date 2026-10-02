@@ -889,3 +889,41 @@ footer nav > ul > li {
     justify-content: flex-end;
   }
 }
+
+
+/* Hybrid mobile header: keep the initial viewport compact and move the
+   navigation into Congo's accessible off-canvas menu below the sm breakpoint. */
+@media (max-width: 639px) {
+  header {
+    padding-top: 1rem !important;
+    padding-bottom: 1rem !important;
+  }
+
+  #menu-button {
+    min-width: 44px;
+    min-height: 44px;
+  }
+
+  #menu-button > div:first-of-type {
+    display: flex;
+    width: 44px;
+    height: 44px;
+    align-items: center;
+    justify-content: center;
+  }
+
+  #menu-wrapper ul li {
+    min-height: 44px;
+    margin-bottom: .25rem !important;
+  }
+
+  #menu-wrapper ul li > a,
+  #menu-wrapper ul li > button,
+  #menu-wrapper ul li > span {
+    display: flex;
+    min-height: 44px;
+    align-items: center;
+    justify-content: flex-end;
+    padding-block: .65rem;
+  }
+}
