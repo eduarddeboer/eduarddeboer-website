@@ -1,7 +1,11 @@
 ---
 title: "Spreken & media"
-description: "Geselecteerde optredens, podcasts en video."
+description: "Geselecteerde interviews, presentaties, podcasts en mediaoptredens."
 translationKey: "speaking"
 ---
 
-Media worden privacy-first aangeboden: vóór een expliciete klik wordt geen externe videoplayer geladen.
+Naast schriftelijke analyses geef ik toelichting in gesprekken, presentaties, trainingen en media.
+
+De site zal hier geselecteerde actuele en historische bijdragen tonen, waaronder mijn eerdere optredens als reputatiedeskundige in **De Rijdende Rechter** en relevante vakinhoudelijke interviews.
+
+Video en audio worden privacy-first aangeboden: externe players worden pas na een expliciete actie geladen.

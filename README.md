@@ -27,4 +27,6 @@ Commands:
 
 For authoring, open the `content/` directory as an Obsidian vault. Use normal Markdown links rather than Obsidian-only wikilinks so the source remains portable.
 
+Public copy also follows `CONTENT_POLICY.md`. The validator enforces selected environmental-claim guardrails and requires the public trademark form `FSC®`.
+
 See `ARCHITECTURE.md` for the source-of-truth rules and deployment model.

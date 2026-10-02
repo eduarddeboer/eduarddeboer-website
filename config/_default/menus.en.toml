@@ -4,17 +4,17 @@ pageRef = "expertise"
 weight = 10
 
 [[main]]
-name = "Experience"
-pageRef = "experience"
+name = "Publications"
+pageRef = "insights"
 weight = 20
 
 [[main]]
-name = "Insights"
-pageRef = "insights"
+name = "Experience"
+pageRef = "experience"
 weight = 30
 
 [[main]]
-name = "Speaking"
+name = "Speaking & media"
 pageRef = "speaking"
 weight = 40
 

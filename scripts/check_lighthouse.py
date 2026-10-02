@@ -1,0 +1,76 @@
+#!/usr/bin/env python3
+from __future__ import annotations
+
+import json
+import sys
+from pathlib import Path
+
+THRESHOLDS = {
+    "performance": 0.95,
+    "accessibility": 1.00,
+    "best-practices": 0.95,
+    "seo": 0.95,
+}
+
+problems = []
+for raw in sys.argv[1:]:
+    path = Path(raw)
+    report = json.loads(path.read_text(encoding="utf-8"))
+    categories = report.get("categories", {})
+    audits = report.get("audits", {})
+
+    for key, minimum in THRESHOLDS.items():
+        category = categories.get(key, {})
+        score = category.get("score")
+        if score is None:
+            problems.append(f"{path}: missing Lighthouse category {key}")
+            continue
+        print(f"{path.name}: {key}={score:.2f} (minimum {minimum:.2f})")
+
+        if score < 1:
+            failed = []
+            for ref in category.get("auditRefs", []):
+                audit = audits.get(ref.get("id"), {})
+                audit_score = audit.get("score")
+                if audit_score is not None and audit_score < 1:
+                    audit_id = ref.get("id")
+                    failed.append(
+                        f"{audit_id}: {audit.get('title')} "
+                        f"(score={audit_score}, display={audit.get('displayValue', '')})"
+                    )
+                    details = audit.get("details", {})
+                    raw_items = details.get("items", [])
+                    if isinstance(raw_items, dict):
+                        items = list(raw_items.values())
+                    elif isinstance(raw_items, list):
+                        items = raw_items
+                    else:
+                        items = []
+
+                    for item in items[:12]:
+                        if not isinstance(item, dict):
+                            continue
+                        node = item.get("node") or {}
+                        related = item.get("relatedNode") or {}
+                        if not isinstance(node, dict):
+                            node = {}
+                        if not isinstance(related, dict):
+                            related = {}
+                        selector = node.get("selector") or related.get("selector")
+                        snippet = node.get("snippet") or related.get("snippet")
+                        explanation = node.get("explanation") or related.get("explanation")
+                        if selector or snippet or explanation:
+                            failed.append(
+                                f"    element selector={selector!r} snippet={snippet!r} "
+                                f"explanation={explanation!r}"
+                            )
+            if failed:
+                print(f"{path.name}: non-perfect {key} audits:")
+                for item in failed:
+                    print(f"  - {item}")
+
+        if score < minimum:
+            problems.append(f"{path}: {key} score {score:.2f} < {minimum:.2f}")
+
+if problems:
+    raise SystemExit("\n".join(problems))

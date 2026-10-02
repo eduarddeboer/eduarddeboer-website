@@ -1,7 +1,11 @@
 ---
 title: "Speaking & media"
-description: "Selected speaking, podcast, video and media appearances."
+description: "Selected interviews, presentations, podcasts and media appearances."
 translationKey: "speaking"
 ---
 
-Media pages use privacy-first playback: no third-party player is contacted before an explicit click.
+In addition to written analysis, I provide explanation through conversations, presentations, training and media.
+
+This section will show selected current and historical appearances, including earlier work as a reputation expert on the Dutch television programme **De Rijdende Rechter** and relevant professional interviews.
+
+Video and audio remain privacy-first: external players are loaded only after an explicit user action.
