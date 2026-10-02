@@ -58,9 +58,11 @@ for raw in sys.argv[1:]:
                             related = {}
                         selector = node.get("selector") or related.get("selector")
                         snippet = node.get("snippet") or related.get("snippet")
-                        if selector or snippet:
+                        explanation = node.get("explanation") or related.get("explanation")
+                        if selector or snippet or explanation:
                             failed.append(
-                                f"    element selector={selector!r} snippet={snippet!r}"
+                                f"    element selector={selector!r} snippet={snippet!r} "
+                                f"explanation={explanation!r}"
                             )
             if failed:
                 print(f"{path.name}: non-perfect {key} audits:")
