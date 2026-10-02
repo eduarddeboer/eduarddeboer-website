@@ -4,13 +4,13 @@ pageRef = "expertise"
 weight = 10
 
 [[main]]
-name = "Ervaring"
-pageRef = "experience"
+name = "Publicaties"
+pageRef = "insights"
 weight = 20
 
 [[main]]
-name = "Publicaties"
-pageRef = "insights"
+name = "Ervaring"
+pageRef = "experience"
 weight = 30
 
 [[main]]
@@ -19,7 +19,7 @@ pageRef = "speaking"
 weight = 40
 
 [[main]]
-name = "Over"
+name = "Over mij"
 pageRef = "about"
 weight = 50
 
