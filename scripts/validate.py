@@ -70,6 +70,19 @@ def load_snapshot() -> dict:
         if entity.get("id") != entity_id:
             raise SystemExit(f"KG entity key/id mismatch for {entity_id!r}")
 
+    for relation in data["relations"]:
+        if not isinstance(relation, dict):
+            raise SystemExit("KG relations must contain objects")
+        subject = relation.get("subject")
+        target = relation.get("target")
+        predicate = relation.get("predicate")
+        if subject not in entities:
+            raise SystemExit(f"KG relation has missing subject {subject!r}")
+        if target not in entities:
+            raise SystemExit(f"KG relation {subject!r} -> {target!r} has missing target")
+        if not predicate:
+            raise SystemExit(f"KG relation for {subject!r} lacks a predicate")
+
     authored_articles = []
     for entity in entities.values():
         if entity.get("type") != "Article":
