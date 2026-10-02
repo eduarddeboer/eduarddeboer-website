@@ -109,13 +109,10 @@ def main() -> None:
         if not parser.lang:
             problems.append(f"{rel(path)}: missing html lang")
 
-        # Hugo emits a minimal multilingual root redirect. It is not a content
-        # document and intentionally has no page heading.
-        is_root_redirect = path == DIST / "index.html" and (
-            "http-equiv=\"refresh\"" in text.lower()
-            or "http-equiv='refresh'" in text.lower()
-        )
-        if not is_root_redirect and parser.h1_count != 1:
+        # Hugo emits dist/index.html as the multilingual root entry point.
+        # The actual localized content documents are /en/ and /nl/.
+        is_multilingual_root = path == DIST / "index.html"
+        if not is_multilingual_root and parser.h1_count != 1:
             problems.append(f"{rel(path)}: expected exactly one h1, found {parser.h1_count}")
         for issue in parser.problems:
             problems.append(f"{rel(path)}: {issue}")
