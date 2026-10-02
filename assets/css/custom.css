@@ -969,3 +969,23 @@ footer .group a {
   overflow: visible;
   padding: .75rem 1rem;
 }
+
+
+/* Final skip-link target: large enough for WCAG/Lighthouse even while parked
+   outside the viewport; it moves on-screen only when keyboard-focused. */
+#the-top > a[href="#main-content"] {
+  left: -10000px !important;
+  top: 0 !important;
+  width: auto !important;
+  height: auto !important;
+  min-width: 48px !important;
+  min-height: 48px !important;
+  overflow: visible !important;
+  padding: .75rem 1rem !important;
+  transform: none !important;
+}
+
+#the-top > a[href="#main-content"]:focus,
+#the-top > a[href="#main-content"]:focus-visible {
+  left: 1rem !important;
+}
