@@ -168,11 +168,31 @@ jobs:
           name: website-quality-candidate
           path: dist/
 
-      - name: Serve candidate locally
+      - name: Prepare and serve candidate locally
         shell: bash
         run: |
           set -euo pipefail
-          python3 -m http.server 4173 --directory dist >/tmp/website-http.log 2>&1 &
+
+          # The release artifact is intentionally production-canonical and
+          # therefore references https://eduarddeboer.com/ for fingerprinted
+          # assets. Lighthouse runs against localhost, so make a disposable
+          # audit copy with only that origin rewritten. Never mutate dist/.
+          rm -rf /tmp/lighthouse-dist
+          cp -R dist /tmp/lighthouse-dist
+          python3 - <<'PY'
+          from pathlib import Path
+
+          root = Path("/tmp/lighthouse-dist")
+          for path in root.rglob("*.html"):
+              text = path.read_text(encoding="utf-8")
+              text = text.replace(
+                  "https://eduarddeboer.com/",
+                  "http://127.0.0.1:4173/",
+              )
+              path.write_text(text, encoding="utf-8")
+          PY
+
+          python3 -m http.server 4173 --directory /tmp/lighthouse-dist >/tmp/website-http.log 2>&1 &
           echo $! > /tmp/website-http.pid
           for attempt in $(seq 1 20); do
             if curl -fsS http://127.0.0.1:4173/nl/ >/dev/null; then
