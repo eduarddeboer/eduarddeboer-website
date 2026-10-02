@@ -2,6 +2,7 @@
 title: "Experience"
 description: "Selected professional experience, audits and field work."
 translationKey: "experience"
+kg_section: "experience"
 ---
 
 I work at **Ingenieursbureau Evan Buytendijk (IEB)** on timber legality, due diligence, EUDR/EUTR and certification.

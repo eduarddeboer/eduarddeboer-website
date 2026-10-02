@@ -2,6 +2,7 @@
 title: "Expertise"
 description: "Houtlegaliteit, EUDR/EUTR, due diligence, traceerbaarheid en FSC®/PEFC."
 translationKey: "expertise"
+kg_section: "expertise"
 ---
 
 Mijn werk richt zich op de praktische toepassing van regels en controles in internationale houtketens.

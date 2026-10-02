@@ -1,0 +1,199 @@
+{
+  "schema_version": 1,
+  "source_commit": "30ca8ad502e9bf22cb95262d0c80f13037fbac58",
+  "sections": {
+    "about": {
+      "title": {
+        "nl": "Gerelateerde kennis",
+        "en": "Related knowledge"
+      },
+      "intro": {
+        "nl": "Deze entiteiten uit de knowledge graph onderbouwen de huidige professionele context op deze pagina.",
+        "en": "These knowledge-graph entities support the current professional context on this page."
+      },
+      "groups": [
+        {
+          "title": {
+            "nl": "Huidige professionele context",
+            "en": "Current professional context"
+          },
+          "entities": [
+            "organization/ingenieursbureau_evan_buytendijk",
+            "certification/iso_19011_internal_auditor"
+          ]
+        },
+        {
+          "title": {
+            "nl": "Inhoudelijke focus",
+            "en": "Professional focus"
+          },
+          "entities": [
+            "legislation/eudr_2023_1115",
+            "legislation/eutr_995_2010",
+            "organization/fsc",
+            "organization/pefc"
+          ]
+        }
+      ]
+    },
+    "expertise": {
+      "title": {
+        "nl": "Kennisbasis bij deze expertise",
+        "en": "Knowledge base for this expertise"
+      },
+      "intro": {
+        "nl": "De onderstaande bronnen en begrippen zijn de belangrijkste KG-entiteiten achter de huidige expertisebeschrijving.",
+        "en": "The following sources and concepts are the principal KG entities behind the current expertise description."
+      },
+      "groups": [
+        {
+          "title": {
+            "nl": "Wetgeving",
+            "en": "Legislation"
+          },
+          "entities": [
+            "legislation/eudr_2023_1115",
+            "legislation/eutr_995_2010"
+          ]
+        },
+        {
+          "title": {
+            "nl": "Kernbegrippen",
+            "en": "Core concepts"
+          },
+          "entities": [
+            "defined_term/due_diligence_eudr",
+            "defined_term/due_diligence_eutr",
+            "defined_term/geolocation_eudr",
+            "defined_term/supply_chain_traceability",
+            "defined_term/risk_assessment",
+            "defined_term/auditing"
+          ]
+        },
+        {
+          "title": {
+            "nl": "Richtsnoeren en certificeringscontext",
+            "en": "Guidance and certification context"
+          },
+          "entities": [
+            "creative_work/eudr_guidance_2026",
+            "creative_work/eudr_faq_version_5_2026",
+            "creative_work/eutr_guidance_2016",
+            "organization/fsc",
+            "organization/pefc",
+            "creative_work/fsc_regulatory_module_2024"
+          ]
+        }
+      ]
+    },
+    "experience": {
+      "title": {
+        "nl": "Landen en praktijkvoorbeelden",
+        "en": "Countries and practical examples"
+      },
+      "intro": {
+        "nl": "De landen hieronder zijn gekoppeld aan de huidige ervaringspagina; geselecteerde publicaties geven context bij enkele audits en ketenonderzoeken.",
+        "en": "The countries below are linked to the current experience page; selected publications provide context for several audits and supply-chain assignments."
+      },
+      "groups": [
+        {
+          "title": {
+            "nl": "Landenervaring",
+            "en": "Country experience"
+          },
+          "entities": [
+            "country/congo_brazzaville",
+            "country/gabon",
+            "country/ivoorkust",
+            "country/india",
+            "country/libanon",
+            "country/noord_macedonie"
+          ]
+        },
+        {
+          "title": {
+            "nl": "Geselecteerde auditpublicaties",
+            "en": "Selected audit publications"
+          },
+          "entities": [
+            "article/ieb_eutr_supplier_audit_congo_2022",
+            "article/ieb_eutr_supplier_audit_india_2023",
+            "article/ieb_eutr_audit_lebanon_2023"
+          ]
+        }
+      ]
+    },
+    "speaking": {
+      "title": {
+        "nl": "Spreken en media in de knowledge graph",
+        "en": "Speaking and media in the knowledge graph"
+      },
+      "intro": {
+        "nl": "Een selectie van actuele vakinhoudelijke bijdragen en historische mediaoptredens die als afzonderlijke entiteiten zijn gemodelleerd.",
+        "en": "A selection of current professional contributions and historical media appearances modelled as separate entities."
+      },
+      "groups": [
+        {
+          "title": {
+            "nl": "Vakinhoudelijk spreken",
+            "en": "Professional speaking"
+          },
+          "entities": [
+            "event/houtwereld_praktijkdag_2026",
+            "creative_work/houtwereld_speaker_profile_eduard_de_boer_2026",
+            "event/interu_eudr_risk_assessment_webinar"
+          ]
+        },
+        {
+          "title": {
+            "nl": "Historische media",
+            "en": "Historical media"
+          },
+          "entities": [
+            "tv_series/de_rijdende_rechter",
+            "tv_episode/gevloerd_rijdende_rechter",
+            "tv_episode/t_heen_en_weer_krijgen_rijdende_rechter",
+            "tv_episode/door_het_stof_rijdende_rechter",
+            "tv_episode/schutting_van_de_rekening_rijdende_rechter",
+            "tv_episode/laat_je_niet_kisten_rijdende_rechter"
+          ]
+        }
+      ]
+    },
+    "insights": {
+      "title": {
+        "nl": "Publicaties uit de knowledge graph",
+        "en": "Publications from the knowledge graph"
+      },
+      "intro": {
+        "nl": "Deze publicaties worden rechtstreeks uit de gepinde KG-projectie gelezen en blijven daardoor gekoppeld aan hun onderwerpen en bron-URL.",
+        "en": "These publications are read directly from the pinned KG projection and therefore remain linked to their topics and source URL."
+      },
+      "groups": [
+        {
+          "title": {
+            "nl": "Recente vakpublicaties",
+            "en": "Recent professional publications"
+          },
+          "entities": [
+            "article/linkedin_eudr_taric_codes_2026",
+            "article/linkedin_eudr_timber_deadlines_2026",
+            "article/china_supply_chain_security_eutr_eudr_2026",
+            "article/interu_eudr_risk_assessment"
+          ]
+        },
+        {
+          "title": {
+            "nl": "Audit- en praktijkpublicaties",
+            "en": "Audit and practice publications"
+          },
+          "entities": [
+            "article/ieb_eutr_audit_lebanon_2023",
+            "article/ieb_eutr_supplier_audit_india_2023",
+            "article/ieb_eutr_supplier_audit_congo_2022"
+          ]
+        }
+      ]
+    }
+  }
+}

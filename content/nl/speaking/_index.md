@@ -2,6 +2,7 @@
 title: "Spreken & media"
 description: "Geselecteerde interviews, presentaties, podcasts en mediaoptredens."
 translationKey: "speaking"
+kg_section: "speaking"
 ---
 
 Naast schriftelijke analyses geef ik toelichting in gesprekken, presentaties, trainingen en media.

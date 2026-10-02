@@ -2,6 +2,7 @@
 title: "Over mij"
 description: "Professioneel profiel, werkwijze en huidige context bij IEB."
 translationKey: "about"
+kg_section: "about"
 ---
 
 Ik ben **Eduard de Boer** en werk bij **Ingenieursbureau Evan Buytendijk (IEB)**. Mijn huidige inhoudelijke focus ligt op houtlegaliteit, EUDR/EUTR, due diligence, traceerbaarheid en FSC®/PEFC.

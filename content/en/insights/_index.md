@@ -2,6 +2,7 @@
 title: "Publications"
 description: "Articles and analysis on EUDR, EUTR, certification and supply-chain issues."
 translationKey: "insights"
+kg_section: "insights"
 ---
 
 This section brings together articles and technical analysis on subjects that recur in my work.
