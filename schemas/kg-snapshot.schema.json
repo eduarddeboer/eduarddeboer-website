@@ -1,0 +1,24 @@
+{
+  "$schema": "https://json-schema.org/draft/2020-12/schema",
+  "$id": "https://eduarddeboer.com/schemas/kg-snapshot.schema.json",
+  "title": "eduarddeboer.com knowledge-graph website projection",
+  "type": "object",
+  "additionalProperties": false,
+  "required": ["schema_version", "source", "entities", "relations", "media"],
+  "properties": {
+    "schema_version": { "const": 1 },
+    "source": {
+      "type": "object",
+      "additionalProperties": false,
+      "required": ["repository", "commit", "production_base"],
+      "properties": {
+        "repository": { "const": "eduarddeboer/eduarddeboer-kg" },
+        "commit": { "type": ["string", "null"] },
+        "production_base": { "const": "https://data.eduarddeboer.com/" }
+      }
+    },
+    "entities": { "type": "object" },
+    "relations": { "type": "array" },
+    "media": { "type": "object" }
+  }
+}
