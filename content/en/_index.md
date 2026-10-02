@@ -1,7 +1,7 @@
 ---
 title: "Eduard de Boer"
-description: "Independent specialist in timber legality, deforestation-free supply chains and due diligence."
+description: "Specialist in timber legality, deforestation-free supply chains and due diligence, working at Ingenieursbureau Evan Buytendijk (IEB)."
 translationKey: "home"
 ---
 
-Research, analysis and practical implementation around timber legality, supply-chain due diligence, EUDR/EUTR and related sustainability requirements.
+Working at Ingenieursbureau Evan Buytendijk (IEB). Research, analysis and practical implementation around timber legality, supply-chain due diligence, EUDR/EUTR and related legal and certification requirements.
