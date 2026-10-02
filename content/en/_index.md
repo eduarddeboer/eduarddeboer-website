@@ -13,8 +13,8 @@ hero:
   primary_url: "/en/expertise/"
   secondary_label: "Read publications"
   secondary_url: "/en/insights/"
-summary_title: "At a glance"
-summary:
+quick_facts_title: "At a glance"
+quick_facts:
   - title: "IEB · consultant"
     text: "Working at Ingenieursbureau Evan Buytendijk (IEB)"
   - title: "EUDR, EUTR, FSC® and PEFC"
