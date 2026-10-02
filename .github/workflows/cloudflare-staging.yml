@@ -158,3 +158,21 @@ jobs:
           curl_retry -fsS "$BASE_URL/nl/" -o /tmp/staging-nl.html
           grep -q 'Eduard de Boer' /tmp/staging-en.html
           grep -q 'Eduard de Boer' /tmp/staging-nl.html
+
+          # Verify that the deployed page references and actually serves its
+          # own fingerprinted stylesheet rather than a production-host asset.
+          python3 - <<'PY' > /tmp/staging-css-path.txt
+          import re
+          from pathlib import Path
+
+          text = Path("/tmp/staging-nl.html").read_text(encoding="utf-8")
+          match = re.search(r'href=(?:["\']?)(/css/[^"\' >]+)', text, re.I)
+          if not match:
+              raise SystemExit("No host-independent stylesheet found in staging HTML")
+          print(match.group(1))
+          PY
+          css_path="$(cat /tmp/staging-css-path.txt)"
+          css_headers="$(mktemp)"
+          curl_retry -fsS -D "$css_headers" -o /tmp/staging-main.css "$BASE_URL$css_path"
+          grep -Eqi '^content-type: text/css' "$css_headers"
+          test -s /tmp/staging-main.css
