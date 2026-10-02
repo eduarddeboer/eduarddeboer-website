@@ -2,6 +2,7 @@
 title: "Speaking & media"
 description: "Selected interviews, presentations, podcasts and media appearances."
 translationKey: "speaking"
+kg_section: "speaking"
 ---
 
 In addition to written analysis, I provide explanation through conversations, presentations, training and media.
