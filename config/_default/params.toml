@@ -7,7 +7,7 @@ enableSearch = false
 enableCodeCopy = false
 
 [header]
-  layout = "basic"
+  layout = "hybrid"
   showTitle = true
 
 [footer]
