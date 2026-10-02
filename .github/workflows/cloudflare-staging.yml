@@ -1,0 +1,158 @@
+name: Deploy website staging
+
+on:
+  workflow_run:
+    workflows: ["Validate website"]
+    types: [completed]
+    branches: [main]
+  workflow_dispatch:
+
+permissions:
+  contents: read
+  actions: read
+  deployments: write
+
+concurrency:
+  group: website-cloudflare-staging
+  cancel-in-progress: false
+
+jobs:
+  deploy:
+    if: >
+      (github.event_name == 'workflow_dispatch') ||
+      (github.event.workflow_run.conclusion == 'success' &&
+       github.event.workflow_run.head_branch == 'main')
+    runs-on: ubuntu-latest
+    timeout-minutes: 10
+
+    steps:
+      - name: Resolve source run
+        id: source
+        uses: actions/github-script@v8
+        with:
+          script: |
+            if (context.eventName === "workflow_run") {
+              core.setOutput("run_id", String(context.payload.workflow_run.id));
+              core.setOutput("sha", context.payload.workflow_run.head_sha);
+              return;
+            }
+
+            const { owner, repo } = context.repo;
+            const { data } = await github.rest.actions.listWorkflowRuns({
+              owner,
+              repo,
+              workflow_id: "validate.yml",
+              branch: "main",
+              status: "success",
+              per_page: 20,
+            });
+            const run = data.workflow_runs.find(item => item.head_sha === context.sha)
+              || data.workflow_runs[0];
+            if (!run) {
+              core.setFailed("No successful Validate website run found on main.");
+              return;
+            }
+            core.setOutput("run_id", String(run.id));
+            core.setOutput("sha", run.head_sha);
+
+      - name: Download exact validated release candidate
+        uses: actions/download-artifact@v5
+        with:
+          name: website-release-candidate
+          path: dist
+          github-token: ${{ secrets.GITHUB_TOKEN }}
+          run-id: ${{ steps.source.outputs.run_id }}
+
+      - name: Verify release manifest before deployment
+        env:
+          EXPECTED_SHA: ${{ steps.source.outputs.sha }}
+        shell: bash
+        run: |
+          set -euo pipefail
+          python3 - <<'PY'
+          import json, os
+          from pathlib import Path
+
+          path = Path("dist/release-manifest.json")
+          if not path.is_file():
+              raise SystemExit("release-manifest.json missing from validated artifact")
+          manifest = json.loads(path.read_text(encoding="utf-8"))
+          if manifest.get("website_commit") != os.environ["EXPECTED_SHA"]:
+              raise SystemExit(
+                  f"artifact commit {manifest.get('website_commit')} != expected {os.environ['EXPECTED_SHA']}"
+              )
+          if manifest.get("production_host") != "eduarddeboer.com":
+              raise SystemExit("unexpected production_host in release manifest")
+          print("Verified exact website artifact for", manifest["website_commit"])
+          PY
+
+      - name: Ensure Cloudflare Pages project exists
+        id: ensure_project
+        continue-on-error: true
+        uses: cloudflare/wrangler-action@v4
+        with:
+          apiToken: ${{ secrets.CLOUDFLARE_API_TOKEN }}
+          accountId: ${{ secrets.CLOUDFLARE_ACCOUNT_ID }}
+          command: pages project create eduarddeboer-website-preview --production-branch main
+
+      - name: Deploy exact candidate to Cloudflare staging
+        uses: cloudflare/wrangler-action@v4
+        with:
+          apiToken: ${{ secrets.CLOUDFLARE_API_TOKEN }}
+          accountId: ${{ secrets.CLOUDFLARE_ACCOUNT_ID }}
+          command: >-
+            pages deploy dist
+            --project-name=eduarddeboer-website-preview
+            --branch=staging
+            --commit-hash=${{ steps.source.outputs.sha }}
+            --commit-dirty=false
+            --no-bundle
+          gitHubToken: ${{ secrets.GITHUB_TOKEN }}
+
+      - name: Smoke-test staging
+        env:
+          BASE_URL: https://staging.eduarddeboer-website-preview.pages.dev
+          EXPECTED_SHA: ${{ steps.source.outputs.sha }}
+        shell: bash
+        run: |
+          set -euo pipefail
+
+          curl_retry() {
+            curl --retry 8 --retry-delay 2 --retry-all-errors "$@"
+          }
+
+          for attempt in $(seq 1 15); do
+            if curl_retry -fsS "$BASE_URL/release-manifest.json" > /tmp/release-manifest.json; then
+              if python3 - <<'PY'
+          import json, os, sys
+          manifest = json.load(open("/tmp/release-manifest.json", encoding="utf-8"))
+          actual = manifest.get("website_commit")
+          expected = os.environ["EXPECTED_SHA"]
+          if actual == expected:
+              print("Staging serves expected website commit:", actual)
+              sys.exit(0)
+          print(f"Staging still serves {actual}; waiting for {expected}")
+          sys.exit(1)
+          PY
+              then
+                break
+              fi
+            fi
+
+            if [[ "$attempt" -eq 15 ]]; then
+              echo "Staging did not converge to the expected artifact" >&2
+              cat /tmp/release-manifest.json 2>/dev/null || true
+              exit 1
+            fi
+            sleep 2
+          done
+
+          robots="$(curl_retry -fsS "$BASE_URL/robots.txt")"
+          grep -q '^Disallow: /$' <<< "$robots"
+
+          headers="$(mktemp)"
+          curl_retry -fsS -D "$headers" -o /dev/null "$BASE_URL/en/"
+          grep -Eqi '^x-robots-tag: noindex, nofollow, noarchive' "$headers"
+
+          curl_retry -fsS "$BASE_URL/en/" | grep -q 'Eduard de Boer'
+          curl_retry -fsS "$BASE_URL/nl/" | grep -q 'Eduard de Boer'
