@@ -1,0 +1,11 @@
+{
+  "schema_version": 1,
+  "source": {
+    "repository": "eduarddeboer/eduarddeboer-kg",
+    "commit": null,
+    "production_base": "https://data.eduarddeboer.com/"
+  },
+  "entities": {},
+  "relations": [],
+  "media": {}
+}
