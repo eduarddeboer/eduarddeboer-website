@@ -1,0 +1,24 @@
+{{- $id := .Get "id" -}}
+{{- $poster := .Get "poster" -}}
+{{- $title := .Get "title" | default "Video" -}}
+{{- $caption := .Get "caption" -}}
+{{- if not $id }}{{ errorf "privacy-video shortcode requires id on %s" .Page.File.Path }}{{ end -}}
+{{- if not $poster }}{{ errorf "privacy-video shortcode requires a local poster on %s" .Page.File.Path }}{{ end -}}
+<figure class="privacy-media">
+  <div class="privacy-video">
+    <button
+      type="button"
+      class="privacy-video__button"
+      data-privacy-video
+      data-provider="youtube"
+      data-video-id="{{ $id }}"
+      data-title="{{ $title }}"
+      aria-label="{{ printf "Play %s" $title }}"
+    >
+      <img src="{{ $poster | safeURL }}" alt="" loading="lazy" decoding="async">
+      <span class="privacy-video__play" aria-hidden="true">▶</span>
+      <span class="privacy-video__notice">Video loads only after your click</span>
+    </button>
+  </div>
+  {{- with $caption }}<figcaption>{{ . }}</figcaption>{{ end -}}
+</figure>
