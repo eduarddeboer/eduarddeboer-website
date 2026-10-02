@@ -1,10 +1,9 @@
 ---
 title: "Publicaties"
-description: "Artikelen en analyses over EUDR, EUTR, certificering en internationale houtketens."
+description: "Artikelen en analyses over EUDR, EUTR, FSC®, certificering, audits en internationale houtketens."
 translationKey: "insights"
 ---
 
-Hier verzamel ik artikelen en technische analyses over onderwerpen die in mijn werk terugkomen.
+Hier verzamel ik mijn huidige vakpublicaties over regelgeving, due diligence, traceerbaarheid, audits en certificering in internationale houtketens.
 
-De nadruk ligt op de praktische toepassing van regelgeving, due diligence, traceerbaarheid, audits en certificering in internationale houtketens. De publicaties hieronder staan chronologisch en verwijzen naar de oorspronkelijke publicatiebron.
-
+Het overzicht maakt onderscheid tussen **publicaties waarvan ik zelf auteur ben** en **interviews of vakmedia waarin ik als bron, geïnterviewde of inhoudelijk bijdrager voorkom**. Oudere publicaties uit mijn eerdere werk rond online reputatie en local search laat ik hier bewust buiten, zodat de pagina mijn huidige professionele profiel weerspiegelt.
