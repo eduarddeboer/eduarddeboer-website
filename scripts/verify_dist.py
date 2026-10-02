@@ -14,6 +14,87 @@ def require(path: Path) -> None:
         raise SystemExit(f"Required build output missing: {path.relative_to(ROOT)}")
 
 
+def jsonld_nodes(html: str) -> list[dict]:
+    blocks = re.findall(
+        r'<script[^>]+type=["\']application/ld\+json["\'][^>]*>(.*?)</script>',
+        html,
+        re.I | re.S,
+    )
+    nodes: list[dict] = []
+    for block in blocks:
+        data = json.loads(block.strip())
+        if isinstance(data, dict) and isinstance(data.get("@graph"), list):
+            nodes.extend(item for item in data["@graph"] if isinstance(item, dict))
+        elif isinstance(data, dict):
+            nodes.append(data)
+    return nodes
+
+
+def require_unified_structured_data(path: Path, lang: str) -> None:
+    html = path.read_text(encoding="utf-8")
+    nodes = jsonld_nodes(html)
+
+    websites = [node for node in nodes if node.get("@type") == "WebSite"]
+    if len(websites) != 1:
+        raise SystemExit(
+            f"{path.relative_to(DIST)}: expected exactly one WebSite node, found {len(websites)}"
+        )
+    website = websites[0]
+    if website.get("@id") != "https://eduarddeboer.com/#website":
+        raise SystemExit(
+            f"{path.relative_to(DIST)}: unexpected WebSite @id {website.get('@id')!r}"
+        )
+    if website.get("url") != "https://eduarddeboer.com/":
+        raise SystemExit(f"{path.relative_to(DIST)}: WebSite URL must be site root")
+
+    persons = [
+        node
+        for node in nodes
+        if node.get("@type") == "Person"
+        and node.get("@id") == "https://eduarddeboer.com/#person"
+    ]
+    if len(persons) != 1:
+        raise SystemExit(
+            f"{path.relative_to(DIST)}: expected one canonical Person node, found {len(persons)}"
+        )
+
+    profile_pages = [node for node in nodes if node.get("@type") == "ProfilePage"]
+    if len(profile_pages) != 1:
+        raise SystemExit(
+            f"{path.relative_to(DIST)}: expected one ProfilePage, found {len(profile_pages)}"
+        )
+    page = profile_pages[0]
+    expected_url = f"https://eduarddeboer.com/{lang}/"
+    if page.get("url") != expected_url:
+        raise SystemExit(
+            f"{path.relative_to(DIST)}: ProfilePage URL {page.get('url')!r} != {expected_url!r}"
+        )
+    if page.get("inLanguage") != lang:
+        raise SystemExit(
+            f"{path.relative_to(DIST)}: ProfilePage language must be {lang!r}"
+        )
+    if (page.get("isPartOf") or {}).get("@id") != "https://eduarddeboer.com/#website":
+        raise SystemExit(
+            f"{path.relative_to(DIST)}: ProfilePage must be part of canonical WebSite"
+        )
+    if (page.get("mainEntity") or {}).get("@id") != "https://eduarddeboer.com/#person":
+        raise SystemExit(
+            f"{path.relative_to(DIST)}: ProfilePage mainEntity must be canonical Person"
+        )
+
+    language_site_ids = {
+        f"https://eduarddeboer.com/{lang}/",
+        f"https://eduarddeboer.com/{lang}/#website",
+    }
+    if any(
+        node.get("@type") == "WebSite" and node.get("@id") in language_site_ids
+        for node in nodes
+    ):
+        raise SystemExit(
+            f"{path.relative_to(DIST)}: language homepage must not define a separate WebSite"
+        )
+
+
 def main() -> None:
     for path in (
         DIST / "_worker.js",
@@ -28,6 +109,9 @@ def main() -> None:
         raise SystemExit("Unexpected release artifact contract")
     if manifest.get("production_host") != "eduarddeboer.com":
         raise SystemExit("Release artifact has an unexpected production host")
+
+    require_unified_structured_data(DIST / "en/index.html", "en")
+    require_unified_structured_data(DIST / "nl/index.html", "nl")
 
     llms = list(DIST.rglob("llms.txt"))
     if not llms:
