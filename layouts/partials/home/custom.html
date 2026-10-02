@@ -1,5 +1,4 @@
 {{- $hero := .Params.hero -}}
-{{- $kg := .Params.knowledge_graph -}}
 {{- $kgEntities := .Site.Data.kg.snapshot.entities -}}
 {{- $articles := slice -}}
 
@@ -81,7 +80,7 @@
     {{- end }}
   </section>
 
-  <section class="edb-lower-grid">
+  <section class="edb-home-publications">
     <div class="edb-publications">
       <header class="edb-section-heading">
         <h2>{{ .Params.selected_publications_title }}</h2>
@@ -134,30 +133,5 @@
         {{- end }}
       </div>
     </div>
-
-    <aside class="edb-kg-card">
-      <div class="edb-kg-card__copy">
-        <p class="edb-eyebrow">{{ $kg.eyebrow }}</p>
-        <h2>{{ $kg.title }}</h2>
-        <p>{{ $kg.text }}</p>
-        <a class="edb-button edb-button--primary" href="{{ $kg.url }}" rel="noopener noreferrer">{{ $kg.label }} <span aria-hidden="true">→</span></a>
-      </div>
-      <svg class="edb-kg-card__graphic" viewBox="0 0 360 220" role="img" aria-label="{{ if eq .Language.Lang "nl" }}Schematische visualisatie van verbonden kennisentiteiten{{ else }}Schematic visualization of connected knowledge entities{{ end }}">
-        <g class="edb-kg-lines">
-          <path d="M70 122 145 72 217 112 294 63"/>
-          <path d="M70 122 145 170 217 112 285 172"/>
-          <path d="M145 72 145 170"/>
-          <path d="M217 112 285 172"/>
-        </g>
-        <g class="edb-kg-nodes">
-          <circle cx="70" cy="122" r="18"/>
-          <circle cx="145" cy="72" r="14"/>
-          <circle cx="145" cy="170" r="15"/>
-          <circle cx="217" cy="112" r="22"/>
-          <circle cx="294" cy="63" r="13"/>
-          <circle cx="285" cy="172" r="16"/>
-        </g>
-      </svg>
-    </aside>
   </section>
 </div>
