@@ -7,6 +7,7 @@ from pathlib import Path
 
 ROOT = Path(__file__).resolve().parents[1]
 SNAPSHOT = ROOT / "data/kg/snapshot.json"
+SECTIONS = ROOT / "data/kg/sections.json"
 CONTENT = ROOT / "content"
 
 WIKILINK = re.compile(r"\[\[[^\]\n]+\]\]")
@@ -92,6 +93,60 @@ def load_snapshot() -> dict:
     return data
 
 
+def validate_section_projections(snapshot: dict) -> dict:
+    data = json.loads(SECTIONS.read_text(encoding="utf-8"))
+    if data.get("schema_version") != 1:
+        raise SystemExit("Unsupported KG section projection schema_version")
+
+    source_commit = data.get("source_commit")
+    if source_commit != snapshot["source"].get("commit"):
+        raise SystemExit(
+            "KG section projection source_commit must match the pinned snapshot commit"
+        )
+
+    sections = data.get("sections")
+    if not isinstance(sections, dict) or not sections:
+        raise SystemExit("KG section projections must contain a non-empty sections object")
+
+    entities = snapshot["entities"]
+    seen_ids: set[str] = set()
+
+    for section_key, section in sections.items():
+        if not isinstance(section, dict):
+            raise SystemExit(f"KG section {section_key!r} must be an object")
+        groups = section.get("groups")
+        if not isinstance(groups, list) or not groups:
+            raise SystemExit(f"KG section {section_key!r} must contain groups")
+
+        for group in groups:
+            ids = group.get("entities")
+            if not isinstance(ids, list) or not ids:
+                raise SystemExit(
+                    f"KG section {section_key!r} contains an empty entity group"
+                )
+            for entity_id in ids:
+                if entity_id not in entities:
+                    raise SystemExit(
+                        f"KG section {section_key!r} references missing entity {entity_id!r}"
+                    )
+                entity = entities[entity_id]
+                if not entity.get("type") or not entity.get("name"):
+                    raise SystemExit(
+                        f"Projected entity {entity_id!r} lacks type or name"
+                    )
+                seen_ids.add(entity_id)
+
+    # The core public sections must all be mapped.
+    required_sections = {"about", "expertise", "experience", "speaking", "insights"}
+    missing = required_sections - set(sections)
+    if missing:
+        raise SystemExit(
+            f"KG section projection lacks required sections: {sorted(missing)}"
+        )
+
+    return data
+
+
 def public_text_files() -> list[Path]:
     files: set[Path] = set()
     for root in PUBLIC_TEXT_ROOTS:
@@ -125,6 +180,7 @@ def validate_public_claims(problems: list[str]) -> None:
 
 def main() -> None:
     snapshot = load_snapshot()
+    section_data = validate_section_projections(snapshot)
     entities = snapshot["entities"]
     problems: list[str] = []
 
@@ -143,6 +199,16 @@ def main() -> None:
             if entity_id and entity_id not in entities:
                 problems.append(f"{rel}: kgRef {entity_id!r} is absent from data/kg/snapshot.json")
 
+        frontmatter_section = re.search(
+            r'^kg_section:\s*["\']?([^"\'\s#]+)', text, re.MULTILINE
+        )
+        if frontmatter_section:
+            section_key = frontmatter_section.group(1).strip()
+            if section_key not in section_data["sections"]:
+                problems.append(
+                    f"{rel}: kg_section {section_key!r} is absent from data/kg/sections.json"
+                )
+
     validate_public_claims(problems)
 
     if problems:
@@ -151,7 +217,8 @@ def main() -> None:
     print(
         f"Validated content and KG snapshot: "
         f"{len(list(CONTENT.rglob('*.md')))} Markdown files, "
-        f"{len(entities)} projected entities; "
+        f"{len(entities)} projected entities across "
+        f"{len(section_data['sections'])} website sections; "
         f"claim and FSC® guardrails passed"
     )
 
