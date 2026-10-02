@@ -39,9 +39,23 @@ for raw in sys.argv[1:]:
                         f"(score={audit_score}, display={audit.get('displayValue', '')})"
                     )
                     details = audit.get("details", {})
-                    for item in details.get("items", [])[:12]:
+                    raw_items = details.get("items", [])
+                    if isinstance(raw_items, dict):
+                        items = list(raw_items.values())
+                    elif isinstance(raw_items, list):
+                        items = raw_items
+                    else:
+                        items = []
+
+                    for item in items[:12]:
+                        if not isinstance(item, dict):
+                            continue
                         node = item.get("node") or {}
                         related = item.get("relatedNode") or {}
+                        if not isinstance(node, dict):
+                            node = {}
+                        if not isinstance(related, dict):
+                            related = {}
                         selector = node.get("selector") or related.get("selector")
                         snippet = node.get("snippet") or related.get("snippet")
                         if selector or snippet:
