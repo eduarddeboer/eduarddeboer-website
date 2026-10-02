@@ -1,5 +1,5 @@
-languageCode = "nl"
-languageName = "Nederlands"
+locale = "nl"
+label = "Nederlands"
 weight = 2
 title = "Eduard de Boer"
 contentDir = "content/nl"
