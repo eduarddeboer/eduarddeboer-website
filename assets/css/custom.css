@@ -883,3 +883,62 @@ footer button {
   min-width: 44px;
   min-height: 44px;
 }
+
+
+/* Target-size hardening for Congo's built-in controls, verified against
+   Lighthouse mobile target-size diagnostics. */
+#the-top > a[href="#main-content"] {
+  display: inline-flex;
+  min-width: 48px;
+  min-height: 48px;
+  align-items: center;
+  padding: .75rem 1rem;
+}
+
+header nav a,
+header nav button {
+  min-width: 48px;
+  min-height: 48px;
+  padding: .65rem .75rem;
+}
+
+header nav > ul > li {
+  margin-block: .2rem;
+}
+
+#search-button-m0,
+#close-search-button,
+button[id^="appearance-switcher-"] {
+  min-width: 48px !important;
+  min-height: 48px !important;
+}
+
+.edb-section-heading a {
+  min-width: 48px;
+  min-height: 48px;
+  padding: .55rem .75rem;
+}
+
+footer .group > button,
+footer .group a {
+  min-width: 48px;
+  min-height: 48px;
+  align-items: center;
+}
+
+footer .group a {
+  display: flex;
+  padding-block: .7rem;
+}
+
+@media (max-width: 639px) {
+  header nav > ul > li {
+    margin-block: .25rem;
+  }
+
+  header nav > ul > li > a,
+  header nav > ul > li > button {
+    min-height: 48px;
+    padding-block: .75rem;
+  }
+}
