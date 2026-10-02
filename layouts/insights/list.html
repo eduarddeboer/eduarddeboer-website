@@ -1,22 +1,30 @@
 {{ define "main" }}
   {{- $entities := .Site.Data.kg.snapshot.entities -}}
-  {{- $articles := slice -}}
+  {{- $authored := slice -}}
+  {{- $media := slice -}}
 
   {{- range $id, $entity := $entities -}}
     {{- if eq $entity.type "Article" -}}
       {{- $isAuthor := false -}}
+      {{- $isMedia := false -}}
       {{- range $entity.relations -}}
         {{- if and (eq .predicate "author") (eq .target "person/eduard_de_boer") -}}
           {{- $isAuthor = true -}}
         {{- end -}}
+        {{- if and (or (eq .predicate "contributor") (eq .predicate "mentions")) (eq .target "person/eduard_de_boer") -}}
+          {{- $isMedia = true -}}
+        {{- end -}}
       {{- end -}}
       {{- if $isAuthor -}}
-        {{- $articles = $articles | append $entity -}}
+        {{- $authored = $authored | append $entity -}}
+      {{- else if $isMedia -}}
+        {{- $media = $media | append $entity -}}
       {{- end -}}
     {{- end -}}
   {{- end -}}
 
-  {{- $articles = sort $articles "date_published" "desc" -}}
+  {{- $authored = sort $authored "date_published" "desc" -}}
+  {{- $media = sort $media "date_published" "desc" -}}
 
   <div class="edb-publications-page">
     <header class="edb-publications-page__intro">
@@ -29,14 +37,25 @@
         {{ .Content | emojify }}
       </div>
       <p class="edb-publications-page__count">
-        {{ len $articles }}
-        {{ if eq .Language.Lang "nl" }}publicaties in dit overzicht{{ else }}publications in this overview{{ end }}
+        {{ len $authored }}
+        {{ if eq .Language.Lang "nl" }}eigen vakpublicaties in dit overzicht{{ else }}authored professional publications in this overview{{ end }}
       </p>
     </header>
 
-    <section class="edb-publication-archive" aria-label="{{ if eq .Language.Lang "nl" }}Publicatieoverzicht{{ else }}Publication archive{{ end }}">
-      {{- range $articles }}
+    <section class="edb-publication-archive" aria-labelledby="edb-authored-title">
+      <h2 id="edb-authored-title" class="edb-archive-section-title">
+        {{ if eq .Language.Lang "nl" }}Eigen publicaties{{ else }}Authored publications{{ end }}
+      </h2>
+
+      {{- $lastYear := "" -}}
+      {{- range $authored }}
         {{- $article := . -}}
+        {{- $year := dateFormat "2006" $article.date_published -}}
+        {{- if ne $year $lastYear }}
+          <h3 class="edb-archive-year">{{ $year }}</h3>
+          {{- $lastYear = $year -}}
+        {{- end }}
+
         {{- $title := index $article.name $.Language.Lang | default (index $article.name "nl") | default (index $article.name "en") -}}
         {{- $description := index $article.description $.Language.Lang | default (index $article.description "nl") | default (index $article.description "en") -}}
         {{- $topics := slice -}}
@@ -51,6 +70,10 @@
                 {{- $topic = "EUDR" -}}
               {{- else if eq $targetID "legislation/eutr_995_2010" -}}
                 {{- $topic = "EUTR" -}}
+              {{- else if eq $targetID "organization/fsc" -}}
+                {{- $topic = "FSC®" -}}
+              {{- else if eq $targetID "organization/pefc" -}}
+                {{- $topic = "PEFC" -}}
               {{- else if eq $targetID "defined_term/due_diligence_eudr" -}}
                 {{- $topic = "Due diligence" -}}
               {{- else if eq $targetID "defined_term/supply_chain_traceability" -}}
@@ -59,6 +82,8 @@
                 {{- $topic = cond (eq $.Language.Lang "nl") "Risicobeoordeling" "Risk assessment" -}}
               {{- else if eq $targetID "defined_term/auditing" -}}
                 {{- $topic = "Auditing" -}}
+              {{- else if eq $targetID "defined_term/geolocation_eudr" -}}
+                {{- $topic = cond (eq $.Language.Lang "nl") "Geolocatie" "Geolocation" -}}
               {{- end -}}
               {{- $topics = $topics | append $topic -}}
             {{- end -}}
@@ -72,41 +97,69 @@
         {{- if not $publisher -}}
           {{- if in $article.url "linkedin.com" -}}
             {{- $publisher = "LinkedIn" -}}
+          {{- else if in $article.url "medium.com" -}}
+            {{- $publisher = "Medium" -}}
           {{- else if in $article.url "interu.io" -}}
             {{- $publisher = "Interu" -}}
+          {{- else if in $article.url "houtwereld.nl" -}}
+            {{- $publisher = "Houtwereld" -}}
+          {{- else if in $article.url "evanbuytendijk.nl" -}}
+            {{- $publisher = "IEB" -}}
           {{- end -}}
         {{- end -}}
 
-        <article class="edb-archive-item" data-kg-id="{{ $article.id }}">
-          <div class="edb-archive-item__date">
-            <time datetime="{{ $article.date_published }}">
-              <span>{{ dateFormat "02" $article.date_published }}</span>
-              <strong>{{ dateFormat "Jan" $article.date_published }}</strong>
-              <small>{{ dateFormat "2006" $article.date_published }}</small>
-            </time>
-          </div>
-
-          <div class="edb-archive-item__body">
-            <div class="edb-archive-item__meta">
-              {{- with $publisher }}<span>{{ . }}</span>{{ end -}}
-              {{- range first 3 $topics }}<span>{{ . }}</span>{{ end -}}
-            </div>
-            <h2><a href="{{ $article.url }}" rel="external noopener noreferrer">{{ $title }}</a></h2>
-            {{- with $description }}<p>{{ . }}</p>{{ end -}}
-            <a class="edb-archive-item__read" href="{{ $article.url }}" rel="external noopener noreferrer">
-              {{ if eq $.Language.Lang "nl" }}Lees publicatie{{ else }}Read publication{{ end }} <span aria-hidden="true">↗</span>
-            </a>
-          </div>
-        </article>
+        {{ partial "publication-row.html" (dict
+          "article" $article
+          "title" $title
+          "description" $description
+          "publisher" $publisher
+          "topics" $topics
+          "page" $
+        ) }}
       {{- end }}
     </section>
+
+    {{- if $media }}
+      <section class="edb-publication-media" aria-labelledby="edb-media-title">
+        <header class="edb-publication-media__header">
+          <h2 id="edb-media-title">{{ if eq .Language.Lang "nl" }}Interviews & vakmedia{{ else }}Interviews & industry media{{ end }}</h2>
+          <p>
+            {{ if eq .Language.Lang "nl" }}
+              Artikelen waarin ik als geïnterviewde, bron of inhoudelijk bijdrager voorkom. Deze staan bewust los van publicaties waarvan ik zelf auteur ben.
+            {{ else }}
+              Articles in which I appear as an interviewee, source or professional contributor. These are deliberately separated from publications I authored.
+            {{ end }}
+          </p>
+        </header>
+
+        {{- range $media }}
+          {{- $article := . -}}
+          {{- $title := index $article.name $.Language.Lang | default (index $article.name "nl") | default (index $article.name "en") -}}
+          {{- $description := index $article.description $.Language.Lang | default (index $article.description "nl") | default (index $article.description "en") -}}
+          {{- $publisher := "" -}}
+          {{- if in $article.url "interu.io" -}}
+            {{- $publisher = "Interu" -}}
+          {{- else if in $article.url "houtwereld.nl" -}}
+            {{- $publisher = "Houtwereld" -}}
+          {{- end -}}
+          {{ partial "publication-row.html" (dict
+            "article" $article
+            "title" $title
+            "description" $description
+            "publisher" $publisher
+            "topics" (slice)
+            "page" $
+          ) }}
+        {{- end }}
+      </section>
+    {{- end }}
 
     <aside class="edb-data-note">
       <p>
         {{ if eq .Language.Lang "nl" }}
-          Onderwerpen, bronnen en relaties worden achter de schermen gekoppeld aan gestructureerde data.
+          Titels, data, auteurschap, bronnen en onderwerprelaties worden vanuit de gecontroleerde publicatiegegevens opgebouwd.
         {{ else }}
-          Topics, sources and relationships are linked to structured data behind the scenes.
+          Titles, dates, authorship, sources and topic relationships are generated from the reviewed publication data.
         {{ end }}
       </p>
     </aside>
