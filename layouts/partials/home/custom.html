@@ -1,0 +1,33 @@
+<div class="edb-home">
+  <section class="edb-home__intro">
+    {{ .Content }}
+  </section>
+
+  <section aria-label="{{ if eq .Language.Lang "nl" }}Hoofdonderwerpen{{ else }}Main topics{{ end }}">
+    <div class="edb-home-grid">
+      {{- range (slice "expertise" "experience" "insights" "speaking" "about") }}
+        {{- with $.Site.GetPage . }}
+          <a class="edb-home-card" href="{{ .RelPermalink }}">
+            <strong>{{ .Title }}</strong>
+            {{ with .Description }}<span>{{ . }}</span>{{ end }}
+          </a>
+        {{- end }}
+      {{- end }}
+    </div>
+  </section>
+
+  {{- $recent := first 4 (where .Site.RegularPages.ByDate.Reverse "Section" "insights") -}}
+  {{- if $recent }}
+    <section>
+      <h2>{{ if eq .Language.Lang "nl" }}Recente publicaties{{ else }}Recent insights{{ end }}</h2>
+      <div class="edb-home-grid">
+        {{ range $recent }}
+          <a class="edb-home-card" href="{{ .RelPermalink }}">
+            <strong>{{ .Title }}</strong>
+            {{ with .Description }}<span>{{ . }}</span>{{ end }}
+          </a>
+        {{ end }}
+      </div>
+    </section>
+  {{- end }}
+</div>
