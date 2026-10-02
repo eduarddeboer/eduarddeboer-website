@@ -1,0 +1,36 @@
+mainSections = ["insights"]
+robots = "index, follow, max-image-preview:large"
+colorScheme = "congo"
+defaultAppearance = "light"
+autoSwitchAppearance = true
+enableSearch = true
+enableCodeCopy = true
+
+[header]
+  layout = "basic"
+  showTitle = true
+
+[footer]
+  showCopyright = true
+  showThemeAttribution = false
+  showAppearanceSwitcher = true
+  showScrollToTop = true
+
+[homepage]
+  layout = "custom"
+  showRecent = false
+
+[article]
+  showDate = true
+  showDateUpdated = true
+  showAuthor = true
+  showBreadcrumbs = true
+  showReadingTime = true
+  showTableOfContents = true
+  showTaxonomies = true
+  showPagination = true
+
+[list]
+  showSummary = true
+  showBreadcrumbs = true
+  groupByYear = false
