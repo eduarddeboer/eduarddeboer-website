@@ -420,6 +420,15 @@
   text-transform: uppercase;
 }
 
+.edb-publication-card__date {
+  display: block;
+  margin-top: .22rem;
+  color: var(--edb-muted);
+  font-size: .64rem;
+  font-variant-numeric: tabular-nums;
+  line-height: 1.3;
+}
+
 .edb-publication-card h3 {
   margin-top: .32rem;
   font-size: 1rem;
@@ -782,6 +791,7 @@
 .dark .edb-hero__body,
 .dark .edb-route-card p,
 .dark .edb-publication-card p,
+.dark .edb-publication-card__date,
 .dark .edb-kg-card p:not(.edb-eyebrow),
 .dark .edb-summary small,
 .dark .edb-proof span {

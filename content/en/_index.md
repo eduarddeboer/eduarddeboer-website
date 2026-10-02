@@ -60,16 +60,6 @@ routes:
 selected_publications_title: "Selected publications"
 selected_publications_label: "All publications"
 selected_publications_url: "/en/insights/"
-selected_publications:
-  - topic: "EUDR"
-    title: "EUDR in practice: from risk assessment to demonstrable due diligence"
-    text: "Practical explanation of information, risk assessment and evidence in the due-diligence process."
-  - topic: "EUDR · EMPco"
-    title: "EUDR and EMPco: when does deforestation-free become a misleading claim?"
-    text: "The boundary between a legal product characteristic and an environmental claim made to customers."
-  - topic: "EUDR · PPWR"
-    title: "EUDR and PPWR: why a wooden pallet can fall under two different rules"
-    text: "How two European regulatory frameworks can apply to the same packaging or timber flow."
 knowledge_graph:
   eyebrow: "Knowledge structure"
   title: "Knowledge graph"
