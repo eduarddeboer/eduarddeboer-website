@@ -56,6 +56,39 @@ def load_snapshot() -> dict:
         raise SystemExit("KG relations must be an array")
     if not isinstance(data["media"], dict):
         raise SystemExit("KG media must be an object")
+
+    entities = data["entities"]
+    if entities:
+        commit = data["source"].get("commit")
+        if not isinstance(commit, str) or not re.fullmatch(r"[0-9a-f]{40}", commit):
+            raise SystemExit("Non-empty KG snapshot must pin a 40-character source commit")
+
+    for entity_id, entity in entities.items():
+        if not isinstance(entity, dict):
+            raise SystemExit(f"KG entity {entity_id!r} must be an object")
+        if entity.get("id") != entity_id:
+            raise SystemExit(f"KG entity key/id mismatch for {entity_id!r}")
+
+    authored_articles = []
+    for entity in entities.values():
+        if entity.get("type") != "Article":
+            continue
+        relations = entity.get("relations") or []
+        if any(
+            relation.get("predicate") == "author"
+            and relation.get("target") == "person/eduard_de_boer"
+            for relation in relations
+        ):
+            for required_field in ("name", "description", "url", "date_published"):
+                if not entity.get(required_field):
+                    raise SystemExit(
+                        f"Authored article {entity.get('id')!r} lacks {required_field}"
+                    )
+            authored_articles.append(entity)
+
+    if entities and len(authored_articles) < 3:
+        raise SystemExit("KG website projection must contain at least three authored articles")
+
     return data
 
 
