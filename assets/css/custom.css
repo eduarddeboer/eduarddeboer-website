@@ -989,3 +989,34 @@ footer .group a {
 #the-top > a[href="#main-content"]:focus-visible {
   left: 1rem !important;
 }
+
+
+/* Lighthouse/WCAG touch-target hardening.
+   Congo intentionally keeps navigation very compact; these overrides preserve
+   its layout while ensuring at least 44px interactive height on touch. */
+#the-top > a[href="#main-content"] {
+  min-height: 44px !important;
+  padding-block: 12px !important;
+  display: inline-flex !important;
+  align-items: center !important;
+}
+
+header nav > div:first-child > a,
+header nav > ul > li > a,
+header nav > ul > li > button,
+footer nav > ul > li > a,
+footer nav > ul > li > button,
+.edb-section-heading > a,
+.group > div[class*="bottom-"] a.w-full,
+.group > div.absolute a.w-full {
+  min-height: 44px !important;
+  padding-top: 12px !important;
+  padding-bottom: 12px !important;
+  display: flex !important;
+  align-items: center !important;
+}
+
+header nav > ul > li,
+footer nav > ul > li {
+  margin-bottom: 0 !important;
+}
