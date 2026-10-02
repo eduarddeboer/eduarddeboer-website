@@ -2,6 +2,7 @@
 title: "Publicaties"
 description: "Artikelen en analyses over EUDR, EUTR, certificering en ketenvraagstukken."
 translationKey: "insights"
+kg_section: "insights"
 ---
 
 Hier verzamel ik artikelen en technische analyses over onderwerpen die in mijn werk terugkomen.
