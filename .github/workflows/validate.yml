@@ -20,12 +20,22 @@ jobs:
     runs-on: ubuntu-latest
     timeout-minutes: 2
     outputs:
-      runs_on: ${{ steps.choose.outputs.runs_on }}
-      target: ${{ steps.choose.outputs.target }}
-      runner_name: ${{ steps.choose.outputs.runner_name }}
+      runs_on: ${{ steps.untrusted.outputs.runs_on || steps.choose.outputs.runs_on }}
+      target: ${{ steps.untrusted.outputs.target || steps.choose.outputs.target }}
+      runner_name: ${{ steps.untrusted.outputs.runner_name || steps.choose.outputs.runner_name }}
     steps:
+      - name: Keep external fork pull requests off self-hosted runners
+        id: untrusted
+        if: github.event_name == 'pull_request' && github.event.pull_request.head.repo.full_name != github.repository
+        shell: bash
+        run: |
+          echo 'runs_on=["ubuntu-latest"]' >> "$GITHUB_OUTPUT"
+          echo 'target=github-hosted-untrusted' >> "$GITHUB_OUTPUT"
+          echo 'runner_name=ubuntu-latest' >> "$GITHUB_OUTPUT"
+
       - name: Prefer an online idle local macOS runner
         id: choose
+        if: github.event_name != 'pull_request' || github.event.pull_request.head.repo.full_name == github.repository
         uses: actions/github-script@v8
         with:
           github-token: ${{ secrets.RUNNER_ROUTER_TOKEN }}
