@@ -1377,3 +1377,53 @@ footer nav > ul > li {
     margin-top: .2rem;
   }
 }
+
+
+/* Publications archive hierarchy. */
+.edb-archive-section-title,
+.edb-publication-media__header h2 {
+  margin: 0;
+  color: var(--edb-ink);
+  font-family: Georgia, Cambria, "Times New Roman", serif;
+  font-size: clamp(1.75rem, 3vw, 2.45rem);
+  font-weight: 500;
+  letter-spacing: -.025em;
+}
+
+.edb-archive-year {
+  margin: 2rem 0 .35rem;
+  color: var(--edb-forest);
+  font-size: .72rem;
+  font-weight: 800;
+  letter-spacing: .14em;
+  text-transform: uppercase;
+}
+
+.edb-publication-media {
+  margin-top: 3.4rem;
+  padding-top: 2rem;
+  border-top: 1px solid var(--edb-line);
+}
+
+.edb-publication-media__header {
+  max-width: 48rem;
+  margin-bottom: .5rem;
+}
+
+.edb-publication-media__header p {
+  margin: .65rem 0 0;
+  color: var(--edb-muted);
+  font-size: .86rem;
+  line-height: 1.6;
+}
+
+@media (max-width: 620px) {
+  .edb-publication-media {
+    margin-top: 2.6rem;
+    padding-top: 1.5rem;
+  }
+
+  .edb-archive-year {
+    margin-top: 1.6rem;
+  }
+}
