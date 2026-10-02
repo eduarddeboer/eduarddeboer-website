@@ -1,0 +1,41 @@
+{{- /* Congo's default schema partial emits a separate WebSite for every
+language homepage and a generic Article for every regular page. The site uses
+one unified JSON-LD graph in extend-head.html instead. Keep only breadcrumbs
+here so structured data has a single source of truth for Person/WebSite/page. */ -}}
+
+{{- define "partials/inline/edbBreadcrumbData" -}}
+  {{- $scratchCtx := .scratch -}}
+  {{- with .parent }}
+    {{ partial "inline/edbBreadcrumbData" (dict "scratch" $scratchCtx "parent" .Parent) }}
+    {{- $scratchCtx.Add "listItem" (slice (dict
+      "@type" "ListItem"
+      "position" ($scratchCtx.Get "count")
+      "name" (.Title | humanize | title)
+      "item" .Permalink
+      ))
+    -}}
+    {{- $scratchCtx.Add "count" 1 -}}
+  {{- end }}
+{{- end -}}
+
+{{- if not .IsHome -}}
+  {{- $scratch := newScratch -}}
+  {{- $scratch.Set "count" 1 -}}
+  {{- partial "inline/edbBreadcrumbData" (dict "scratch" $scratch "parent" .Parent) -}}
+
+  {{- $scratch.Add "listItem" (slice (dict
+    "@type" "ListItem"
+    "position" ($scratch.Get "count")
+    "name" (.Title | humanize | title)
+    "item" .Permalink
+    ))
+  -}}
+
+  {{- $breadcrumb := dict
+    "@context" "https://schema.org"
+    "@type" "BreadcrumbList"
+    "@id" (printf "%s#breadcrumb" .Permalink)
+    "itemListElement" ($scratch.Get "listItem")
+  -}}
+  <script type="application/ld+json">{{ $breadcrumb | jsonify | safeJS }}</script>
+{{- end -}}
