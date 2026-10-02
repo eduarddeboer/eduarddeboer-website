@@ -60,16 +60,6 @@ routes:
 selected_publications_title: "Geselecteerde publicaties"
 selected_publications_label: "Alle publicaties"
 selected_publications_url: "/nl/insights/"
-selected_publications:
-  - topic: "EUDR"
-    title: "EUDR in de praktijk: van risicobeoordeling naar aantoonbare due diligence"
-    text: "Praktische uitleg over informatie, risicoanalyse en bewijs in het due-diligenceproces."
-  - topic: "EUDR · EMPco"
-    title: "EUDR en EMPco: wanneer wordt ontbossingsvrij een misleidende claim?"
-    text: "De grens tussen een juridische eigenschap van een product en een milieuclaim richting afnemer."
-  - topic: "EUDR · PPWR"
-    title: "EUDR en PPWR: waarom een houten pallet onder twee verschillende regels valt"
-    text: "Hoe twee Europese regelgevingskaders tegelijk op dezelfde verpakking of houtstroom kunnen aangrijpen."
 knowledge_graph:
   eyebrow: "Kennisstructuur"
   title: "Knowledge graph"
