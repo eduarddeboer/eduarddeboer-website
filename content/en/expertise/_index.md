@@ -2,6 +2,7 @@
 title: "Expertise"
 description: "Timber legality, EUDR/EUTR, due diligence, traceability and FSC®/PEFC."
 translationKey: "expertise"
+kg_section: "expertise"
 ---
 
 My work focuses on the practical application of rules and controls in international timber supply chains.
