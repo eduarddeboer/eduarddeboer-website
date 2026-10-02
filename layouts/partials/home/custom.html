@@ -2,6 +2,7 @@
 {{- $kg := .Params.knowledge_graph -}}
 {{- $kgEntities := .Site.Data.kg.snapshot.entities -}}
 {{- $articles := slice -}}
+
 {{- range $id, $entity := $kgEntities -}}
   {{- if eq $entity.type "Article" -}}
     {{- $isAuthor := false -}}
@@ -15,6 +16,7 @@
     {{- end -}}
   {{- end -}}
 {{- end -}}
+
 {{- $articles = sort $articles "date_published" "desc" -}}
 {{- $articles = first 3 $articles -}}
 
@@ -91,107 +93,27 @@
           {{- $title := index $publication.name $.Language.Lang | default (index $publication.name "nl") | default (index $publication.name "en") -}}
           {{- $description := index $publication.description $.Language.Lang | default (index $publication.description "nl") | default (index $publication.description "en") -}}
           {{- $topics := slice -}}
+
           {{- range $publication.relations -}}
             {{- if eq .predicate "about" -}}
-              {{- $topicEntity := index $kgEntities .target -}}
+              {{- $targetID := .target -}}
+              {{- $topicEntity := index $kgEntities $targetID -}}
               {{- with $topicEntity -}}
                 {{- $topicLabel := index .name $.Language.Lang | default (index .name "nl") | default (index .name "en") -}}
-                {{- if eq .type "Legislation" -}}
-                  {{- $topicLabel = replaceRE `.*\\(([^)]+)\\){{- $hero := .Params.hero -}}
-{{- $kg := .Params.knowledge_graph -}}
-{{- $kgEntities := .Site.Data.kg.snapshot.entities -}}
-{{- $articles := slice -}}
-{{- range $id, $entity := $kgEntities -}}
-  {{- if eq $entity.type "Article" -}}
-    {{- $isAuthor := false -}}
-    {{- range $entity.relations -}}
-      {{- if and (eq .predicate "author") (eq .target "person/eduard_de_boer") -}}
-        {{- $isAuthor = true -}}
-      {{- end -}}
-    {{- end -}}
-    {{- if $isAuthor -}}
-      {{- $articles = $articles | append $entity -}}
-    {{- end -}}
-  {{- end -}}
-{{- end -}}
-{{- $articles = sort $articles "date_published" "desc" -}}
-{{- $articles = first 3 $articles -}}
-
-<div class="edb-home edb-home--editorial">
-  <section class="edb-hero" aria-labelledby="edb-home-title">
-    <div class="edb-hero__copy">
-      <p class="edb-eyebrow">{{ $hero.eyebrow }}</p>
-      <h1 id="edb-home-title">{{ .Title }}</h1>
-      <p class="edb-hero__subtitle">{{ $hero.subtitle }}</p>
-      <p class="edb-hero__body">{{ $hero.body }}</p>
-      <div class="edb-hero__actions">
-        <a class="edb-button edb-button--primary" href="{{ $hero.primary_url }}">{{ $hero.primary_label }} <span aria-hidden="true">→</span></a>
-        <a class="edb-button edb-button--secondary" href="{{ $hero.secondary_url }}">{{ $hero.secondary_label }}</a>
-      </div>
-    </div>
-
-    <figure class="edb-hero__visual">
-      <img
-        src="{{ $hero.image }}"
-        alt="{{ $hero.image_alt }}"
-        width="384"
-        height="216"
-        loading="eager"
-        fetchpriority="high"
-      >
-      <figcaption>{{ $hero.image_label }}</figcaption>
-    </figure>
-
-    <aside class="edb-summary" aria-label="{{ .Params.quick_facts_title }}">
-      <h2>{{ .Params.quick_facts_title }}</h2>
-      <ul>
-        {{- range .Params.quick_facts }}
-          <li>
-            <span class="edb-summary__mark" aria-hidden="true"></span>
-            <span>
-              <strong>{{ .title }}</strong>
-              <small>{{ .text }}</small>
-            </span>
-          </li>
-        {{- end }}
-      </ul>
-    </aside>
-  </section>
-
-  <section class="edb-proof" aria-label="{{ if eq .Language.Lang "nl" }}Professionele context{{ else }}Professional context{{ end }}">
-    {{- range .Params.proof }}
-      <div class="edb-proof__item">
-        <strong>{{ .title }}</strong>
-        <span>{{ .text }}</span>
-      </div>
-    {{- end }}
-  </section>
-
-  <section class="edb-routes" aria-label="{{ if eq .Language.Lang "nl" }}Hoofdonderwerpen{{ else }}Main topics{{ end }}">
-    {{- range .Params.routes }}
-      <a class="edb-route-card" href="{{ .url }}">
-        <span class="edb-route-card__number">{{ .number }}</span>
-        <h2>{{ .title }}</h2>
-        <p>{{ .text }}</p>
-        <span class="edb-route-card__link">{{ .label }} <span aria-hidden="true">→</span></span>
-      </a>
-    {{- end }}
-  </section>
-
-  <section class="edb-lower-grid">
-    <div class="edb-publications">
-      <header class="edb-section-heading">
-        <h2>{{ .Params.selected_publications_title }}</h2>
-        <a href="{{ .Params.selected_publications_url }}">{{ .Params.selected_publications_label }} <span aria-hidden="true">→</span></a>
-      </header>
-
- "$1" $topicLabel -}}
+                {{- if eq $targetID "legislation/eudr_2023_1115" -}}
+                  {{- $topicLabel = "EUDR" -}}
+                {{- else if eq $targetID "legislation/eutr_995_2010" -}}
+                  {{- $topicLabel = "EUTR" -}}
                 {{- end -}}
                 {{- $topics = $topics | append $topicLabel -}}
               {{- end -}}
             {{- end -}}
           {{- end -}}
-          {{- $topicLine := delimit (first 2 $topics) " · " -}}
+
+          {{- $fallbackTopic := "Publication" -}}
+          {{- if eq $.Language.Lang "nl" }}{{ $fallbackTopic = "Publicatie" }}{{ end -}}
+          {{- $topicLine := delimit (first 2 $topics) " · " | default $fallbackTopic -}}
+
           <a
             class="edb-publication-card"
             href="{{ $publication.url }}"
@@ -199,10 +121,10 @@
             data-kg-id="{{ $publication.id }}"
           >
             <div class="edb-publication-card__visual edb-publication-card__visual--{{ add $index 1 }}">
-              <span>{{ $topicLine | default (cond (eq $.Language.Lang "nl") "Publicatie" "Publication") }}</span>
+              <span>{{ $topicLine }}</span>
             </div>
             <div class="edb-publication-card__content">
-              <span class="edb-publication-card__topic">{{ $topicLine | default (cond (eq $.Language.Lang "nl") "Publicatie" "Publication") }}</span>
+              <span class="edb-publication-card__topic">{{ $topicLine }}</span>
               <time class="edb-publication-card__date" datetime="{{ $publication.date_published }}">{{ dateFormat "02-01-2006" $publication.date_published }}</time>
               <h3>{{ $title }}</h3>
               <p>{{ $description }}</p>
