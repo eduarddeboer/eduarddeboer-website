@@ -29,6 +29,16 @@ The directory `content/` is the Obsidian vault and Hugo content root.
 5. Front matter may link to graph entities through stable IDs; it must not duplicate entire entity records.
 6. Uncertain entity reconciliation belongs in the graph review process, not in published prose.
 
+## Editorial and claims policy
+
+Public copy follows `CONTENT_POLICY.md`.
+
+1. The homepage makes the current professional affiliation with Ingenieursbureau Evan Buytendijk (IEB) explicit.
+2. Generic environmental or sustainability marketing slogans are avoided; public claims should describe specific, verifiable subjects, requirements, evidence or activities.
+3. Terms such as `ontbossingsvrij` / `deforestation-free` are used in a defined legal or otherwise substantiated context, not as decorative marketing language.
+4. Public-facing references to FSC always use the registered trademark form `FSC®`.
+5. CI enforces a narrow set of high-confidence claim-language guardrails plus the FSC® notation rule. Substantive claim review remains a human responsibility.
+
 ## Knowledge-graph build contract
 
 The website consumes only `data/kg/snapshot.json`.
