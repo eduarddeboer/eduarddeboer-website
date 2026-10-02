@@ -12,7 +12,65 @@
       "name": {
         "nl": "Eduard de Boer",
         "en": "Eduard de Boer"
-      }
+      },
+      "description": {
+        "nl": "Consultant en auditor met huidige focus op EUTR/EUDR, supply-chain due diligence, traceerbaarheid en FSC®/PEFC-certificering.",
+        "en": "Consultant and auditor currently focused on EUTR/EUDR, supply-chain due diligence, traceability and FSC®/PEFC certification."
+      },
+      "url": "https://eduarddeboer.com/",
+      "relations": [
+        {
+          "predicate": "worksFor",
+          "target": "organization/ingenieursbureau_evan_buytendijk"
+        },
+        {
+          "predicate": "knowsAbout",
+          "target": "legislation/eudr_2023_1115"
+        },
+        {
+          "predicate": "knowsAbout",
+          "target": "legislation/eutr_995_2010"
+        },
+        {
+          "predicate": "knowsAbout",
+          "target": "organization/fsc"
+        },
+        {
+          "predicate": "knowsAbout",
+          "target": "organization/pefc"
+        }
+      ]
+    },
+    "organization/ingenieursbureau_evan_buytendijk": {
+      "id": "organization/ingenieursbureau_evan_buytendijk",
+      "type": "Organization",
+      "name": {
+        "nl": "Ingenieursbureau Evan Buytendijk (IEB)",
+        "en": "Ingenieursbureau Evan Buytendijk (IEB)"
+      },
+      "description": {
+        "nl": "Nederlands advies- en ingenieursbureau voor bos, hout en houtproducten, met werkzaamheden rond certificering, audits, due diligence, advies en kennisoverdracht.",
+        "en": "Dutch consulting and engineering firm focused on forests, timber and timber products, including certification support, audits, due diligence, advice and training."
+      },
+      "url": "https://www.evanbuytendijk.nl/"
+    },
+    "certification/iso_19011_internal_auditor": {
+      "id": "certification/iso_19011_internal_auditor",
+      "type": "Certification",
+      "name": {
+        "nl": "ISO 19011 Internal Auditor",
+        "en": "ISO 19011 Internal Auditor"
+      },
+      "description": {
+        "nl": "Professionele auditorcredential bij werkzaamheden rond FSC®, PEFC, EUTR en EUDR.",
+        "en": "Professional auditor credential used in work involving FSC®, PEFC, EUTR and EUDR."
+      },
+      "relations": [
+        {
+          "predicate": "about",
+          "target": "person/eduard_de_boer"
+        }
+      ]
     },
     "legislation/eudr_2023_1115": {
       "id": "legislation/eudr_2023_1115",
@@ -20,7 +78,8 @@
       "name": {
         "nl": "Verordening (EU) 2023/1115 (EUDR)",
         "en": "Regulation (EU) 2023/1115 (EUDR)"
-      }
+      },
+      "url": "https://eur-lex.europa.eu/eli/reg/2023/1115/oj"
     },
     "legislation/eutr_995_2010": {
       "id": "legislation/eutr_995_2010",
@@ -28,14 +87,105 @@
       "name": {
         "nl": "Verordening (EU) nr. 995/2010 (EUTR)",
         "en": "Regulation (EU) No 995/2010 (EUTR)"
-      }
+      },
+      "url": "https://eur-lex.europa.eu/eli/reg/2010/995/oj"
+    },
+    "organization/fsc": {
+      "id": "organization/fsc",
+      "type": "Organization",
+      "name": {
+        "nl": "Forest Stewardship Council (FSC®)",
+        "en": "Forest Stewardship Council (FSC®)"
+      },
+      "description": {
+        "nl": "Internationale non-profitorganisatie die normen vaststelt voor bosbeheer en ketens van bosproducten.",
+        "en": "International non-profit organization that sets standards for forest management and forest-product supply chains."
+      },
+      "url": "https://fsc.org/en"
+    },
+    "organization/pefc": {
+      "id": "organization/pefc",
+      "type": "Organization",
+      "name": {
+        "nl": "PEFC",
+        "en": "Programme for the Endorsement of Forest Certification (PEFC)"
+      },
+      "description": {
+        "nl": "Internationale organisatie voor onafhankelijke boscertificering en de erkenning van nationale boscertificeringssystemen.",
+        "en": "International organization supporting independent forest certification and endorsement of national forest certification systems."
+      },
+      "url": "https://www.pefc.org/"
     },
     "defined_term/due_diligence_eudr": {
       "id": "defined_term/due_diligence_eudr",
       "type": "DefinedTerm",
       "name": {
-        "nl": "Zorgvuldigheid in de EUDR",
+        "nl": "Zorgvuldigheid onder de EUDR",
         "en": "EUDR due diligence"
+      },
+      "description": {
+        "nl": "Het EUDR-proces van informatieverzameling, risicobeoordeling en waar nodig risicobeperking.",
+        "en": "The EUDR process of information collection, risk assessment and, where necessary, risk mitigation."
+      }
+    },
+    "defined_term/due_diligence_eutr": {
+      "id": "defined_term/due_diligence_eutr",
+      "type": "DefinedTerm",
+      "name": {
+        "nl": "Zorgvuldigheidsstelsel onder de EUTR",
+        "en": "EUTR due diligence system"
+      },
+      "description": {
+        "nl": "Het EUTR-zorgvuldigheidsstelsel voor informatieverzameling, risicobeoordeling en waar nodig risicobeperking.",
+        "en": "The EUTR due diligence system for information gathering, risk assessment and, where necessary, risk mitigation."
+      }
+    },
+    "defined_term/geolocation_eudr": {
+      "id": "defined_term/geolocation_eudr",
+      "type": "DefinedTerm",
+      "name": {
+        "nl": "Geolocatie onder de EUDR",
+        "en": "Geolocation under the EUDR"
+      },
+      "description": {
+        "nl": "Geografische locatiegegevens waarmee relevante grondstoffen tot productiepercelen kunnen worden herleid.",
+        "en": "Geographic location data used to trace relevant commodities to their plots of production."
+      }
+    },
+    "defined_term/supply_chain_traceability": {
+      "id": "defined_term/supply_chain_traceability",
+      "type": "DefinedTerm",
+      "name": {
+        "nl": "Ketentraceerbaarheid",
+        "en": "Supply-chain traceability"
+      },
+      "description": {
+        "nl": "Het herleidbaar maken van materiaal- en productstromen door opeenvolgende schakels van een keten tot aan de oorsprong.",
+        "en": "Making material and product flows traceable across successive supply-chain stages back to their origin."
+      }
+    },
+    "defined_term/risk_assessment": {
+      "id": "defined_term/risk_assessment",
+      "type": "DefinedTerm",
+      "name": {
+        "nl": "Risicobeoordeling",
+        "en": "Risk assessment"
+      },
+      "description": {
+        "nl": "Het systematisch identificeren, beoordelen en onderbouwen van risico's als basis voor besluitvorming en eventuele risicobeperking.",
+        "en": "The systematic identification, evaluation and substantiation of risks as a basis for decisions and possible mitigation."
+      }
+    },
+    "defined_term/auditing": {
+      "id": "defined_term/auditing",
+      "type": "DefinedTerm",
+      "name": {
+        "nl": "Auditing",
+        "en": "Auditing"
+      },
+      "description": {
+        "nl": "Het systematisch en onafhankelijk onderzoeken van processen, bewijs en beheersmaatregelen aan de hand van vastgestelde criteria.",
+        "en": "The systematic and independent examination of processes, evidence and controls against defined criteria."
       }
     },
     "defined_term/taric": {
@@ -46,20 +196,131 @@
         "en": "TARIC"
       }
     },
-    "defined_term/supply_chain_traceability": {
-      "id": "defined_term/supply_chain_traceability",
-      "type": "DefinedTerm",
+    "creative_work/eudr_guidance_2026": {
+      "id": "creative_work/eudr_guidance_2026",
+      "type": "CreativeWork",
       "name": {
-        "nl": "Ketentraceerbaarheid",
-        "en": "Supply-chain traceability"
+        "nl": "EUDR-leidraad 2026",
+        "en": "EUDR Guidance 2026"
+      },
+      "description": {
+        "nl": "Niet-bindende bekendmaking van de Europese Commissie met geharmoniseerde uitleg over de toepassing van de EUDR.",
+        "en": "Non-binding European Commission guidance providing harmonised explanation of the EUDR."
+      },
+      "url": "https://eur-lex.europa.eu/legal-content/NL/TXT/?uri=CELEX:52026XC03896",
+      "date_published": "2026-07-20"
+    },
+    "creative_work/eudr_faq_version_5_2026": {
+      "id": "creative_work/eudr_faq_version_5_2026",
+      "type": "CreativeWork",
+      "name": {
+        "nl": "EUDR FAQ — versie 5 (april 2026)",
+        "en": "EUDR FAQ — Version 5 (April 2026)"
+      },
+      "description": {
+        "nl": "Praktische uitleg van de diensten van de Europese Commissie over uitvoering van de EUDR.",
+        "en": "Practical implementation guidance from the European Commission services on the EUDR."
+      },
+      "url": "https://environment.ec.europa.eu/publications/faq-eudr-implementation_en"
+    },
+    "creative_work/eutr_guidance_2016": {
+      "id": "creative_work/eutr_guidance_2016",
+      "type": "CreativeWork",
+      "name": {
+        "nl": "Richtsnoeren voor de EU-houtverordening (2016)",
+        "en": "EU Timber Regulation Guidance Document (2016)"
+      },
+      "description": {
+        "nl": "Niet-bindende richtsnoeren van de Europese Commissie met praktische uitleg over de EUTR.",
+        "en": "Non-binding European Commission guidance providing practical clarification of the EUTR."
+      },
+      "url": "https://environment.ec.europa.eu/topics/forests/deforestation/eu-rules-against-illegal-logging_en",
+      "date_published": "2016-02-12"
+    },
+    "creative_work/fsc_regulatory_module_2024": {
+      "id": "creative_work/fsc_regulatory_module_2024",
+      "type": "CreativeWork",
+      "name": {
+        "nl": "FSC® Regulatory Module V1-0",
+        "en": "FSC® Regulatory Module V1-0"
+      },
+      "description": {
+        "nl": "Vrijwillige FSC®-module uit 2024 met aanvullende eisen om certificering beter te laten aansluiten op de EUDR.",
+        "en": "Voluntary 2024 FSC® module adding requirements intended to align certification more closely with the EUDR."
+      },
+      "url": "https://open.fsc.org/entities/publication/5ac4c658-4fb7-4778-af69-22f31b2a4276",
+      "date_published": "2024-06-26"
+    },
+    "country/congo_brazzaville": {
+      "id": "country/congo_brazzaville",
+      "type": "Country",
+      "name": {
+        "nl": "Congo-Brazzaville",
+        "en": "Republic of the Congo"
+      },
+      "description": {
+        "nl": "Republiek Congo in Centraal-Afrika.",
+        "en": "The Republic of the Congo in Central Africa."
       }
     },
-    "defined_term/risk_assessment": {
-      "id": "defined_term/risk_assessment",
-      "type": "DefinedTerm",
+    "country/gabon": {
+      "id": "country/gabon",
+      "type": "Country",
       "name": {
-        "nl": "Risicobeoordeling",
-        "en": "Risk assessment"
+        "nl": "Gabon",
+        "en": "Gabon"
+      },
+      "description": {
+        "nl": "Land in Centraal-Afrika aan de Atlantische Oceaan.",
+        "en": "Country in Central Africa on the Atlantic Ocean."
+      }
+    },
+    "country/ivoorkust": {
+      "id": "country/ivoorkust",
+      "type": "Country",
+      "name": {
+        "nl": "Ivoorkust",
+        "en": "Côte d'Ivoire"
+      },
+      "description": {
+        "nl": "Land in West-Afrika aan de Golf van Guinee.",
+        "en": "Country in West Africa on the Gulf of Guinea."
+      }
+    },
+    "country/india": {
+      "id": "country/india",
+      "type": "Country",
+      "name": {
+        "nl": "India",
+        "en": "India"
+      },
+      "description": {
+        "nl": "Land in Zuid-Azië.",
+        "en": "Country in South Asia."
+      }
+    },
+    "country/libanon": {
+      "id": "country/libanon",
+      "type": "Country",
+      "name": {
+        "nl": "Libanon",
+        "en": "Lebanon"
+      },
+      "description": {
+        "nl": "Land aan de oostkust van de Middellandse Zee.",
+        "en": "Country on the eastern Mediterranean coast."
+      }
+    },
+    "country/noord_macedonie": {
+      "id": "country/noord_macedonie",
+      "type": "Country",
+      "name": {
+        "nl": "Noord-Macedonië",
+        "en": "North Macedonia"
+      },
+      "description": {
+        "nl": "Land in Zuidoost-Europa.",
+        "en": "Country in southeastern Europe."
       }
     },
     "article/linkedin_eudr_taric_codes_2026": {
@@ -69,8 +330,8 @@
         "nl": "EUDR: nieuwe TARIC-codes voor invoer en uitvoer"
       },
       "description": {
-        "nl": "Vakpublicatie van Eduard de Boer over EUTR/EUDR, due diligence en internationale toeleveringsketens.",
-        "en": "Professional publication by Eduard de Boer on EUTR/EUDR, due diligence and international supply chains."
+        "nl": "Vakpublicatie over EUDR, TARIC en de praktische gevolgen voor invoer en uitvoer.",
+        "en": "Professional publication on the EUDR, TARIC and practical import/export implications."
       },
       "url": "https://www.linkedin.com/pulse/eudr-nieuwe-taric-codes-voor-invoer-en-uitvoer-eduard-de-boer-7d8re/",
       "date_published": "2026-09-26",
@@ -100,8 +361,8 @@
         "nl": "EUDR voor hout: uitstel tot 30-06-2027 of toch 30-12-2026?"
       },
       "description": {
-        "nl": "Vakpublicatie van Eduard de Boer over EUTR/EUDR, due diligence en internationale toeleveringsketens.",
-        "en": "Professional publication by Eduard de Boer on EUTR/EUDR, due diligence and international supply chains."
+        "nl": "Vakpublicatie over de EUDR-termijnen voor hout en de overgang tussen EUTR en EUDR.",
+        "en": "Professional publication on EUDR timber deadlines and the transition from EUTR to EUDR."
       },
       "url": "https://www.linkedin.com/pulse/eudr-voor-hout-uitstel-tot-30-06-2027-toch-30-12-2026-eduard-de-boer-qfife/",
       "date_published": "2026-09-03",
@@ -128,8 +389,8 @@
         "en": "China’s new supply-chain security rules: why this is relevant to the EUTR and EUDR"
       },
       "description": {
-        "nl": "Vakpublicatie van Eduard de Boer over EUTR/EUDR, due diligence en internationale toeleveringsketens.",
-        "en": "Professional publication by Eduard de Boer on EUTR/EUDR, due diligence and international supply chains."
+        "nl": "Vakpublicatie over ketenveiligheid, traceerbaarheid en due diligence in de context van EUTR/EUDR.",
+        "en": "Professional publication on supply-chain security, traceability and due diligence in the EUTR/EUDR context."
       },
       "url": "https://nl.linkedin.com/pulse/chinas-nieuwe-ketenveiligheidsregels-waarom-dit-relevant-de-boer-bunle",
       "date_published": "2026-07-08",
@@ -155,9 +416,301 @@
           "target": "defined_term/risk_assessment"
         }
       ]
+    },
+    "article/interu_eudr_risk_assessment": {
+      "id": "article/interu_eudr_risk_assessment",
+      "type": "Article",
+      "name": {
+        "nl": "How To Conduct Effective Risk Assessment for EUDR Compliance",
+        "en": "How To Conduct Effective Risk Assessment for EUDR Compliance"
+      },
+      "description": {
+        "nl": "Externe vakpublicatie over praktische EUDR-risicobeoordeling, due diligence, traceerbaarheid en audits.",
+        "en": "External professional article on practical EUDR risk assessment, due diligence, traceability and audits."
+      },
+      "url": "https://www.interu.io/blog/how-to-conduct-effective-risk-assessment-for-eudr-compliance",
+      "date_published": "2025-07-07",
+      "relations": [
+        {
+          "predicate": "author",
+          "target": "person/eduard_de_boer"
+        },
+        {
+          "predicate": "about",
+          "target": "legislation/eudr_2023_1115"
+        },
+        {
+          "predicate": "about",
+          "target": "defined_term/risk_assessment"
+        },
+        {
+          "predicate": "about",
+          "target": "defined_term/supply_chain_traceability"
+        }
+      ]
+    },
+    "article/ieb_eutr_supplier_audit_congo_2022": {
+      "id": "article/ieb_eutr_supplier_audit_congo_2022",
+      "type": "Article",
+      "name": {
+        "nl": "EUTR leveranciersaudit Congo 2022",
+        "en": "EUTR supplier audit Congo 2022"
+      },
+      "description": {
+        "nl": "Vakpublicatie op de website van IEB over een EUTR-leveranciersaudit in Congo.",
+        "en": "Professional IEB publication about an EUTR supplier audit in Congo."
+      },
+      "url": "https://www.evanbuytendijk.nl/nieuws/2022/eutr-leveranciersaudit-congo-2022/",
+      "date_published": "2022-06-18",
+      "relations": [
+        {
+          "predicate": "author",
+          "target": "person/eduard_de_boer"
+        },
+        {
+          "predicate": "publisher",
+          "target": "organization/ingenieursbureau_evan_buytendijk"
+        },
+        {
+          "predicate": "about",
+          "target": "legislation/eutr_995_2010"
+        },
+        {
+          "predicate": "about",
+          "target": "defined_term/auditing"
+        }
+      ]
+    },
+    "article/ieb_eutr_supplier_audit_india_2023": {
+      "id": "article/ieb_eutr_supplier_audit_india_2023",
+      "type": "Article",
+      "name": {
+        "nl": "EUTR leveranciersaudit India 2023",
+        "en": "EUTR supplier audit India 2023"
+      },
+      "description": {
+        "nl": "Vakpublicatie op de website van IEB over een EUTR-leveranciersaudit in India.",
+        "en": "Professional IEB publication about an EUTR supplier audit in India."
+      },
+      "url": "https://www.evanbuytendijk.nl/nieuws/2023/eutr-leveranciersaudit-india-1/",
+      "date_published": "2023-04-19",
+      "relations": [
+        {
+          "predicate": "author",
+          "target": "person/eduard_de_boer"
+        },
+        {
+          "predicate": "publisher",
+          "target": "organization/ingenieursbureau_evan_buytendijk"
+        },
+        {
+          "predicate": "about",
+          "target": "legislation/eutr_995_2010"
+        },
+        {
+          "predicate": "about",
+          "target": "defined_term/auditing"
+        }
+      ]
+    },
+    "article/ieb_eutr_audit_lebanon_2023": {
+      "id": "article/ieb_eutr_audit_lebanon_2023",
+      "type": "Article",
+      "name": {
+        "nl": "EUTR bedrijfsaudit in Libanon",
+        "en": "EUTR company audit in Lebanon"
+      },
+      "description": {
+        "nl": "Vakpublicatie op de website van IEB over een EUTR-audit in Libanon.",
+        "en": "Professional IEB publication about an EUTR audit in Lebanon."
+      },
+      "url": "https://www.evanbuytendijk.nl/nieuws/2023/eutr-bedrijfsaudit-libanon/",
+      "date_published": "2023-07-30",
+      "relations": [
+        {
+          "predicate": "author",
+          "target": "person/eduard_de_boer"
+        },
+        {
+          "predicate": "publisher",
+          "target": "organization/ingenieursbureau_evan_buytendijk"
+        },
+        {
+          "predicate": "about",
+          "target": "legislation/eutr_995_2010"
+        },
+        {
+          "predicate": "about",
+          "target": "defined_term/auditing"
+        }
+      ]
+    },
+    "event/houtwereld_praktijkdag_2026": {
+      "id": "event/houtwereld_praktijkdag_2026",
+      "type": "Event",
+      "name": {
+        "nl": "Houtwereld Praktijkdag 2026",
+        "en": "Houtwereld Practical Day 2026"
+      },
+      "description": {
+        "nl": "Vakbijeenkomst van Houtwereld op 1 oktober 2026 met een interactieve EUDR-presentatie door Evan Buytendijk en Eduard de Boer.",
+        "en": "Houtwereld industry event on 1 October 2026 including an interactive EUDR presentation by Evan Buytendijk and Eduard de Boer."
+      },
+      "url": "https://www.houtwereld.nl/houtwereld-praktijkdag-2026/",
+      "start_date": "2026-10-01",
+      "relations": [
+        {
+          "predicate": "contributor",
+          "target": "person/eduard_de_boer"
+        },
+        {
+          "predicate": "about",
+          "target": "legislation/eudr_2023_1115"
+        }
+      ]
+    },
+    "creative_work/houtwereld_speaker_profile_eduard_de_boer_2026": {
+      "id": "creative_work/houtwereld_speaker_profile_eduard_de_boer_2026",
+      "type": "CreativeWork",
+      "name": {
+        "nl": "Eduard de Boer — spreker Houtwereld Praktijkdag 2026",
+        "en": "Eduard de Boer — speaker at Houtwereld Practical Day 2026"
+      },
+      "description": {
+        "nl": "Houtwereld-sprekersprofiel waarin Eduard de Boer wordt beschreven als EUTR/EUDR-specialist en FSC®/PEFC-auditor.",
+        "en": "Houtwereld speaker profile describing Eduard de Boer as an EUTR/EUDR specialist and FSC®/PEFC auditor."
+      },
+      "url": "https://www.houtwereld.nl/houtwereld-praktijkdag-2026/sprekers/eduard-de-boer/"
+    },
+    "event/interu_eudr_risk_assessment_webinar": {
+      "id": "event/interu_eudr_risk_assessment_webinar",
+      "type": "Event",
+      "name": {
+        "nl": "EUDR Compliance: Performing Effective Risk Assessments",
+        "en": "EUDR Compliance: Performing Effective Risk Assessments"
+      },
+      "description": {
+        "nl": "Interu-webinar van 3 juli 2025 over praktische EUDR-risicobeoordeling en third-party field audits, met Eduard de Boer als externe EUDR-expert.",
+        "en": "Interu webinar held on 3 July 2025 on practical EUDR risk assessment and third-party field audits, featuring Eduard de Boer as an external EUDR expert."
+      },
+      "url": "https://app.livestorm.co/iov42-interu/eudr-compliance-performing-effective-risk-assessments",
+      "start_date": "2025-07-03"
+    },
+    "tv_series/de_rijdende_rechter": {
+      "id": "tv_series/de_rijdende_rechter",
+      "type": "TVSeries",
+      "name": {
+        "nl": "De Rijdende Rechter",
+        "en": "De Rijdende Rechter"
+      },
+      "description": {
+        "nl": "Nederlands televisieprogramma waarin juridische geschillen worden behandeld en beoordeeld door een rijdende rechter.",
+        "en": "Dutch television programme in which legal disputes are examined and adjudicated by a travelling judge."
+      },
+      "url": "https://kro-ncrv.nl/programmas/de-rijdende-rechter"
+    },
+    "tv_episode/door_het_stof_rijdende_rechter": {
+      "id": "tv_episode/door_het_stof_rijdende_rechter",
+      "type": "TVEpisode",
+      "name": {
+        "nl": "'Door het stof' (De Rijdende Rechter)",
+        "en": "'Door het stof' (De Rijdende Rechter)"
+      },
+      "description": {
+        "nl": "Aflevering waarin Eduard de Boer optrad als reputatiedeskundige.",
+        "en": "Episode in which Eduard de Boer appeared as a reputation expert."
+      },
+      "url": "https://tvblik.nl/de-rijdende-rechter/door-het-stof",
+      "date_published": "2019-04-09"
+    },
+    "tv_episode/gevloerd_rijdende_rechter": {
+      "id": "tv_episode/gevloerd_rijdende_rechter",
+      "type": "TVEpisode",
+      "name": {
+        "nl": "'Gevloerd' (De Rijdende Rechter)",
+        "en": "'Gevloerd' (De Rijdende Rechter)"
+      },
+      "description": {
+        "nl": "Aflevering waarin Eduard de Boer optrad als reputatiedeskundige.",
+        "en": "Episode in which Eduard de Boer appeared as a reputation expert."
+      },
+      "url": "https://tvblik.nl/de-rijdende-rechter/gevloerd",
+      "date_published": "2017-03-21"
+    },
+    "tv_episode/laat_je_niet_kisten_rijdende_rechter": {
+      "id": "tv_episode/laat_je_niet_kisten_rijdende_rechter",
+      "type": "TVEpisode",
+      "name": {
+        "nl": "'Laat je niet kisten' (De Rijdende Rechter)",
+        "en": "'Laat je niet kisten' (De Rijdende Rechter)"
+      },
+      "description": {
+        "nl": "Aflevering waarin Eduard de Boer optrad als reputatiedeskundige.",
+        "en": "Episode in which Eduard de Boer appeared as a reputation expert."
+      },
+      "url": "https://tvblik.nl/de-rijdende-rechter/laat-je-niet-kisten",
+      "date_published": "2019-10-15"
+    },
+    "tv_episode/schutting_van_de_rekening_rijdende_rechter": {
+      "id": "tv_episode/schutting_van_de_rekening_rijdende_rechter",
+      "type": "TVEpisode",
+      "name": {
+        "nl": "'Schutting van de rekening' (De Rijdende Rechter)",
+        "en": "'Schutting van de rekening' (De Rijdende Rechter)"
+      },
+      "description": {
+        "nl": "Aflevering waarin Eduard de Boer optrad als reputatiedeskundige.",
+        "en": "Episode in which Eduard de Boer appeared as a reputation expert."
+      },
+      "url": "https://tvblik.nl/de-rijdende-rechter/schutting-van-de-rekening",
+      "date_published": "2019-05-07"
+    },
+    "tv_episode/t_heen_en_weer_krijgen_rijdende_rechter": {
+      "id": "tv_episode/t_heen_en_weer_krijgen_rijdende_rechter",
+      "type": "TVEpisode",
+      "name": {
+        "nl": "'t Heen en weer krijgen' (De Rijdende Rechter)",
+        "en": "'t Heen en weer krijgen' (De Rijdende Rechter)"
+      },
+      "description": {
+        "nl": "Aflevering waarin Eduard de Boer optrad als reputatiedeskundige.",
+        "en": "Episode in which Eduard de Boer appeared as a reputation expert."
+      },
+      "url": "https://tvblik.nl/de-rijdende-rechter/t-heen-en-weer-krijgen",
+      "date_published": "2018-04-10"
     }
   },
   "relations": [
+    {
+      "subject": "person/eduard_de_boer",
+      "predicate": "worksFor",
+      "target": "organization/ingenieursbureau_evan_buytendijk"
+    },
+    {
+      "subject": "person/eduard_de_boer",
+      "predicate": "knowsAbout",
+      "target": "legislation/eudr_2023_1115"
+    },
+    {
+      "subject": "person/eduard_de_boer",
+      "predicate": "knowsAbout",
+      "target": "legislation/eutr_995_2010"
+    },
+    {
+      "subject": "person/eduard_de_boer",
+      "predicate": "knowsAbout",
+      "target": "organization/fsc"
+    },
+    {
+      "subject": "person/eduard_de_boer",
+      "predicate": "knowsAbout",
+      "target": "organization/pefc"
+    },
+    {
+      "subject": "certification/iso_19011_internal_auditor",
+      "predicate": "about",
+      "target": "person/eduard_de_boer"
+    },
     {
       "subject": "article/linkedin_eudr_taric_codes_2026",
       "predicate": "author",
@@ -217,6 +770,96 @@
       "subject": "article/china_supply_chain_security_eutr_eudr_2026",
       "predicate": "about",
       "target": "defined_term/risk_assessment"
+    },
+    {
+      "subject": "article/interu_eudr_risk_assessment",
+      "predicate": "author",
+      "target": "person/eduard_de_boer"
+    },
+    {
+      "subject": "article/interu_eudr_risk_assessment",
+      "predicate": "about",
+      "target": "legislation/eudr_2023_1115"
+    },
+    {
+      "subject": "article/interu_eudr_risk_assessment",
+      "predicate": "about",
+      "target": "defined_term/risk_assessment"
+    },
+    {
+      "subject": "article/interu_eudr_risk_assessment",
+      "predicate": "about",
+      "target": "defined_term/supply_chain_traceability"
+    },
+    {
+      "subject": "article/ieb_eutr_supplier_audit_congo_2022",
+      "predicate": "author",
+      "target": "person/eduard_de_boer"
+    },
+    {
+      "subject": "article/ieb_eutr_supplier_audit_congo_2022",
+      "predicate": "publisher",
+      "target": "organization/ingenieursbureau_evan_buytendijk"
+    },
+    {
+      "subject": "article/ieb_eutr_supplier_audit_congo_2022",
+      "predicate": "about",
+      "target": "legislation/eutr_995_2010"
+    },
+    {
+      "subject": "article/ieb_eutr_supplier_audit_congo_2022",
+      "predicate": "about",
+      "target": "defined_term/auditing"
+    },
+    {
+      "subject": "article/ieb_eutr_supplier_audit_india_2023",
+      "predicate": "author",
+      "target": "person/eduard_de_boer"
+    },
+    {
+      "subject": "article/ieb_eutr_supplier_audit_india_2023",
+      "predicate": "publisher",
+      "target": "organization/ingenieursbureau_evan_buytendijk"
+    },
+    {
+      "subject": "article/ieb_eutr_supplier_audit_india_2023",
+      "predicate": "about",
+      "target": "legislation/eutr_995_2010"
+    },
+    {
+      "subject": "article/ieb_eutr_supplier_audit_india_2023",
+      "predicate": "about",
+      "target": "defined_term/auditing"
+    },
+    {
+      "subject": "article/ieb_eutr_audit_lebanon_2023",
+      "predicate": "author",
+      "target": "person/eduard_de_boer"
+    },
+    {
+      "subject": "article/ieb_eutr_audit_lebanon_2023",
+      "predicate": "publisher",
+      "target": "organization/ingenieursbureau_evan_buytendijk"
+    },
+    {
+      "subject": "article/ieb_eutr_audit_lebanon_2023",
+      "predicate": "about",
+      "target": "legislation/eutr_995_2010"
+    },
+    {
+      "subject": "article/ieb_eutr_audit_lebanon_2023",
+      "predicate": "about",
+      "target": "defined_term/auditing"
+    },
+    {
+      "subject": "event/houtwereld_praktijkdag_2026",
+      "predicate": "contributor",
+      "target": "person/eduard_de_boer"
+    },
+    {
+      "subject": "event/houtwereld_praktijkdag_2026",
+      "predicate": "about",
+      "target": "legislation/eudr_2023_1115"
     }
   ],
   "media": {}
