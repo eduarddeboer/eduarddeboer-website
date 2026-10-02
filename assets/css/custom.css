@@ -1081,3 +1081,299 @@ footer nav > ul > li {
     min-height: 0;
   }
 }
+
+
+/* Home publications now span the full editorial width; the KG has no
+   standalone promotional panel on the homepage. */
+.edb-home-publications {
+  margin-top: 1.2rem;
+}
+
+/* Editorial publications archive. */
+.edb-publications-page {
+  width: min(100%, 74rem);
+}
+
+.edb-publications-page__intro {
+  max-width: 52rem;
+}
+
+.edb-publications-page__intro h1 {
+  margin: 0;
+  color: var(--edb-ink);
+  font-family: Georgia, Cambria, "Times New Roman", serif;
+  font-size: clamp(2.8rem, 6vw, 5.1rem);
+  font-weight: 500;
+  letter-spacing: -.035em;
+  line-height: .98;
+}
+
+.edb-publications-page__lead {
+  margin-top: 1.25rem;
+  color: var(--edb-muted);
+  font-size: 1rem;
+  line-height: 1.7;
+}
+
+.edb-publications-page__lead p + p {
+  margin-top: .85rem;
+}
+
+.edb-publications-page__count {
+  margin-top: 1rem;
+  color: var(--edb-forest);
+  font-size: .72rem;
+  font-weight: 760;
+  letter-spacing: .08em;
+  text-transform: uppercase;
+}
+
+.edb-publication-archive {
+  margin-top: 2.25rem;
+  border-top: 1px solid var(--edb-line);
+}
+
+.edb-archive-item {
+  display: grid;
+  grid-template-columns: 5.25rem minmax(0, 1fr);
+  gap: 1.4rem;
+  padding: 1.6rem 0;
+  border-bottom: 1px solid var(--edb-line);
+}
+
+.edb-archive-item__date time {
+  display: grid;
+  width: 4.15rem;
+  min-height: 4.65rem;
+  place-items: center;
+  align-content: center;
+  border: 1px solid var(--edb-line);
+  border-radius: .65rem;
+  background: var(--edb-paper);
+  color: var(--edb-muted);
+  font-variant-numeric: tabular-nums;
+  line-height: 1;
+}
+
+.edb-archive-item__date span {
+  color: var(--edb-forest);
+  font-family: Georgia, Cambria, "Times New Roman", serif;
+  font-size: 1.45rem;
+}
+
+.edb-archive-item__date strong {
+  margin-top: .2rem;
+  font-size: .64rem;
+  letter-spacing: .08em;
+  text-transform: uppercase;
+}
+
+.edb-archive-item__date small {
+  margin-top: .25rem;
+  font-size: .62rem;
+}
+
+.edb-archive-item__meta {
+  display: flex;
+  flex-wrap: wrap;
+  gap: .42rem;
+}
+
+.edb-archive-item__meta span {
+  padding: .28rem .5rem;
+  border: 1px solid var(--edb-line);
+  border-radius: 999px;
+  color: var(--edb-muted);
+  font-size: .62rem;
+  font-weight: 730;
+  line-height: 1.2;
+}
+
+.edb-archive-item h2 {
+  max-width: 34ch;
+  margin: .6rem 0 0;
+  font-family: Georgia, Cambria, "Times New Roman", serif;
+  font-size: clamp(1.35rem, 2.2vw, 1.9rem);
+  font-weight: 500;
+  letter-spacing: -.02em;
+  line-height: 1.16;
+}
+
+.edb-archive-item h2 a {
+  color: var(--edb-ink);
+  text-decoration: none;
+}
+
+.edb-archive-item h2 a:hover {
+  color: var(--edb-forest);
+}
+
+.edb-archive-item__body > p {
+  max-width: 68ch;
+  margin: .65rem 0 0;
+  color: var(--edb-muted);
+  font-size: .88rem;
+  line-height: 1.6;
+}
+
+.edb-archive-item__read {
+  display: inline-flex;
+  min-height: 44px;
+  align-items: center;
+  gap: .35rem;
+  margin-top: .7rem;
+  color: var(--edb-forest);
+  font-size: .76rem;
+  font-weight: 760;
+  text-decoration: none;
+}
+
+.edb-publications-page a:focus-visible,
+.edb-context-section a:focus-visible {
+  outline: 3px solid #f0b429;
+  outline-offset: 3px;
+  border-radius: .25rem;
+}
+
+.edb-data-note {
+  max-width: 52rem;
+  margin-top: 1.5rem;
+  padding-top: 1rem;
+  border-top: 1px dotted var(--edb-line);
+  color: var(--edb-muted);
+  font-size: .72rem;
+  line-height: 1.5;
+}
+
+/* KG-derived context is intentionally understated. It supports the page rather
+   than presenting the knowledge graph as a separate product. */
+.edb-context-section {
+  width: min(100%, 74rem);
+  margin-top: 3rem;
+  padding-top: 1.4rem;
+  border-top: 1px solid var(--edb-line);
+}
+
+.edb-context-section__header {
+  max-width: 48rem;
+}
+
+.edb-context-section__header h2,
+.edb-context-group h3,
+.edb-context-item h4 {
+  margin: 0;
+  color: var(--edb-ink);
+}
+
+.edb-context-section__header h2 {
+  font-family: Georgia, Cambria, "Times New Roman", serif;
+  font-size: 1.45rem;
+  font-weight: 500;
+  letter-spacing: -.02em;
+}
+
+.edb-context-section__header p {
+  margin: .45rem 0 0;
+  color: var(--edb-muted);
+  font-size: .82rem;
+  line-height: 1.55;
+}
+
+.edb-context-group {
+  margin-top: 1.45rem;
+}
+
+.edb-context-group h3 {
+  font-size: .78rem;
+  font-weight: 780;
+  letter-spacing: .08em;
+  text-transform: uppercase;
+}
+
+.edb-context-list {
+  margin: .55rem 0 0;
+  padding: 0;
+  border-top: 1px solid var(--edb-line);
+  list-style: none;
+}
+
+.edb-context-item {
+  display: grid;
+  grid-template-columns: minmax(0, 1fr) auto;
+  gap: 1.2rem;
+  align-items: center;
+  padding: .85rem 0;
+  border-bottom: 1px solid var(--edb-line);
+}
+
+.edb-context-item__meta {
+  display: flex;
+  flex-wrap: wrap;
+  gap: .5rem;
+  color: var(--edb-muted);
+  font-size: .58rem;
+  font-weight: 730;
+  letter-spacing: .07em;
+  text-transform: uppercase;
+}
+
+.edb-context-item h4 {
+  margin-top: .25rem;
+  font-family: ui-sans-serif, -apple-system, BlinkMacSystemFont, "Segoe UI", sans-serif;
+  font-size: .9rem;
+  font-weight: 720;
+  letter-spacing: 0;
+}
+
+.edb-context-item p {
+  max-width: 72ch;
+  margin: .28rem 0 0;
+  color: var(--edb-muted);
+  font-size: .72rem;
+  line-height: 1.45;
+}
+
+.edb-context-item__links a {
+  display: inline-flex;
+  min-height: 44px;
+  align-items: center;
+  white-space: nowrap;
+  color: var(--edb-forest);
+  font-size: .7rem;
+  font-weight: 750;
+  text-decoration: none;
+}
+
+.dark .edb-archive-item__date {
+  background: var(--edb-white);
+}
+
+@media (max-width: 620px) {
+  .edb-archive-item {
+    grid-template-columns: 3.7rem minmax(0, 1fr);
+    gap: .9rem;
+    padding: 1.3rem 0;
+  }
+
+  .edb-archive-item__date time {
+    width: 3.45rem;
+    min-height: 4.2rem;
+  }
+
+  .edb-archive-item__date span {
+    font-size: 1.2rem;
+  }
+
+  .edb-context-section {
+    margin-top: 2.2rem;
+  }
+
+  .edb-context-item {
+    grid-template-columns: 1fr;
+    gap: .2rem;
+  }
+
+  .edb-context-item__links a {
+    margin-top: .2rem;
+  }
+}
