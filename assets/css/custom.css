@@ -876,3 +876,10 @@ footer nav li {
     justify-content: flex-end;
   }
 }
+
+
+/* Congo also renders the automatic locale switcher outside footer nav. */
+footer button {
+  min-width: 44px;
+  min-height: 44px;
+}
