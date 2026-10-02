@@ -154,5 +154,7 @@ jobs:
           curl_retry -fsS -D "$headers" -o /dev/null "$BASE_URL/en/"
           grep -Eqi '^x-robots-tag: noindex, nofollow, noarchive' "$headers"
 
-          curl_retry -fsS "$BASE_URL/en/" | grep -q 'Eduard de Boer'
-          curl_retry -fsS "$BASE_URL/nl/" | grep -q 'Eduard de Boer'
+          curl_retry -fsS "$BASE_URL/en/" -o /tmp/staging-en.html
+          curl_retry -fsS "$BASE_URL/nl/" -o /tmp/staging-nl.html
+          grep -q 'Eduard de Boer' /tmp/staging-en.html
+          grep -q 'Eduard de Boer' /tmp/staging-nl.html
