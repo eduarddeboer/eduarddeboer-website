@@ -10,12 +10,12 @@ copyright = "© Eduard de Boer"
   displayName = "EN"
   rtl = false
   dateFormat = "2 January 2006"
-  description = "Independent specialist in timber legality, deforestation-free supply chains and due diligence."
+  description = "Specialist in timber legality, deforestation-free supply chains and due diligence, working at Ingenieursbureau Evan Buytendijk (IEB)."
 
 [params.author]
   name = "Eduard de Boer"
   headline = "Timber legality · deforestation-free supply chains · due diligence"
-  bio = "Independent specialist working at the intersection of timber legality, supply-chain due diligence and sustainability."
+  bio = "Specialist in timber legality, supply-chain due diligence and EUDR/EUTR, working at Ingenieursbureau Evan Buytendijk (IEB)."
   links = [
     { linkedin = "https://www.linkedin.com/in/eduarddeboer/" },
     { github = "https://github.com/eduarddeboer" }
