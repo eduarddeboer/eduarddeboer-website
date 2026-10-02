@@ -1,0 +1,11 @@
+{{- $id := .Get "id" -}}
+{{- if not $id }}{{ errorf "kg-entity shortcode requires id on %s" .Page.File.Path }}{{ end -}}
+{{- $entity := index .Page.Site.Data.kg.snapshot.entities $id -}}
+{{- $label := $id -}}
+{{- with $entity -}}
+  {{- with .name -}}
+    {{- $localized := index . $.Page.Language.Lang -}}
+    {{- if $localized }}{{ $label = $localized }}{{ else if (index . "en") }}{{ $label = index . "en" }}{{ else if (index . "nl") }}{{ $label = index . "nl" }}{{ end -}}
+  {{- end -}}
+{{- end -}}
+<a class="kg-entity-link" href="{{ printf "https://data.eduarddeboer.com/entity/%s" $id }}" rel="describedby external">{{ $label }}</a>
