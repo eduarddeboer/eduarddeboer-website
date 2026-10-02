@@ -3,8 +3,8 @@ robots = "index, follow, max-image-preview:large"
 colorScheme = "congo"
 defaultAppearance = "light"
 autoSwitchAppearance = true
-enableSearch = true
-enableCodeCopy = true
+enableSearch = false
+enableCodeCopy = false
 
 [header]
   layout = "basic"
