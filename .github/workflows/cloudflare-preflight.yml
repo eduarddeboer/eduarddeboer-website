@@ -32,9 +32,9 @@ jobs:
           test -n "$CLOUDFLARE_API_TOKEN"
           echo "Required Cloudflare secrets are configured."
 
-      - name: Verify Cloudflare credentials
+      - name: Verify Cloudflare Pages access
         uses: cloudflare/wrangler-action@v4
         with:
           apiToken: ${{ secrets.CLOUDFLARE_API_TOKEN }}
           accountId: ${{ secrets.CLOUDFLARE_ACCOUNT_ID }}
-          command: whoami
+          command: pages project list --json
