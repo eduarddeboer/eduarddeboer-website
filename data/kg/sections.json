@@ -172,25 +172,57 @@
       "groups": [
         {
           "title": {
-            "nl": "Recente vakpublicaties",
-            "en": "Recent professional publications"
+            "nl": "Eigen vakpublicaties",
+            "en": "Authored professional publications"
           },
           "entities": [
             "article/linkedin_eudr_taric_codes_2026",
             "article/linkedin_eudr_timber_deadlines_2026",
             "article/china_supply_chain_security_eutr_eudr_2026",
-            "article/interu_eudr_risk_assessment"
+            "article/interu_eudr_risk_assessment",
+            "article/ieb_eudr_more_time_eutr_attention_2024",
+            "article/medium_eudr_supply_chain_systems_2024",
+            "article/ieb_eudr_2024_or_2025",
+            "article/ieb_eudr_is_user_guide_2024",
+            "article/ieb_eudr_postponed_12_months_2024",
+            "article/ieb_eudr_multistakeholder_2024_09_24",
+            "article/ieb_eudr_document_codes_2024",
+            "article/ieb_eudr_geolocations_app_2024",
+            "article/ieb_eudr_competent_authorities_2024",
+            "article/ieb_eudr_news_2024_07",
+            "article/ieb_eudr_geojson_2024",
+            "article/ieb_eudr_news_2024_06",
+            "article/ieb_fsc_regulatory_module_eudr_2024",
+            "article/linkedin_india_furniture_nvwa_2024",
+            "article/ieb_eudr_news_2024_05_27",
+            "article/ieb_eudr_news_2024_05_20",
+            "article/ieb_eudr_delayed_postponed_2024",
+            "article/ieb_eudr_soy_2024",
+            "article/ieb_eudr_rubber_2024",
+            "article/ieb_dutch_chocolate_industry_2024",
+            "article/ieb_fsc_houtbouw_van_lingen_2024",
+            "article/ieb_eudr_cocoa_2024",
+            "article/ieb_eudr_coffee_2024",
+            "article/ieb_eudr_green_deal_2024",
+            "article/ieb_bosto_sustainability_2023",
+            "article/ieb_eutr_audit_lebanon_2023",
+            "article/ieb_kooistra_fsc_2023",
+            "article/ieb_maaldrift_fsc_2023",
+            "article/ieb_eutr_supplier_audit_india_2023",
+            "article/ieb_eutr_supplier_audit_congo_2022"
           ]
         },
         {
           "title": {
-            "nl": "Audit- en praktijkpublicaties",
-            "en": "Audit and practice publications"
+            "nl": "Interviews en vakmedia",
+            "en": "Interviews and industry media"
           },
           "entities": [
-            "article/ieb_eutr_audit_lebanon_2023",
-            "article/ieb_eutr_supplier_audit_india_2023",
-            "article/ieb_eutr_supplier_audit_congo_2022"
+            "article/houtwereld_waarom_zoveel_lods_nvwa_2026",
+            "article/houtwereld_inventarisatie_lods_eutr_2026",
+            "article/interu_webinar_qa_eudr_risk_assessment",
+            "article/interu_ai_supply_chain_interview",
+            "article/houtwereld_eudr_geolocatie_app_2024"
           ]
         }
       ]

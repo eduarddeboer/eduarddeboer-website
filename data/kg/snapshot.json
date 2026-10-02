@@ -330,8 +330,8 @@
         "nl": "EUDR: nieuwe TARIC-codes voor invoer en uitvoer"
       },
       "description": {
-        "nl": "Vakpublicatie over EUDR, TARIC en de praktische gevolgen voor invoer en uitvoer.",
-        "en": "Professional publication on the EUDR, TARIC and practical import/export implications."
+        "nl": "Analyse van nieuwe TARIC-codes voor EUDR-goederen en de praktische koppeling tussen douaneaangiften en EUDR-verplichtingen bij invoer en uitvoer.",
+        "en": "Analysis of new TARIC codes for EUDR goods and the practical link between customs declarations and EUDR obligations for imports and exports."
       },
       "url": "https://www.linkedin.com/pulse/eudr-nieuwe-taric-codes-voor-invoer-en-uitvoer-eduard-de-boer-7d8re/",
       "date_published": "2026-09-26",
@@ -361,8 +361,8 @@
         "nl": "EUDR voor hout: uitstel tot 30-06-2027 of toch 30-12-2026?"
       },
       "description": {
-        "nl": "Vakpublicatie over de EUDR-termijnen voor hout en de overgang tussen EUTR en EUDR.",
-        "en": "Professional publication on EUDR timber deadlines and the transition from EUTR to EUDR."
+        "nl": "Analyse van de verschillende EUDR-termijnen voor hout en de overgangsbepalingen die bepalen wanneer 30 december 2026 of 30 juni 2027 relevant is.",
+        "en": "Analysis of the different EUDR timelines for timber and the transitional provisions determining when 30 December 2026 or 30 June 2027 is relevant."
       },
       "url": "https://www.linkedin.com/pulse/eudr-voor-hout-uitstel-tot-30-06-2027-toch-30-12-2026-eduard-de-boer-qfife/",
       "date_published": "2026-09-03",
@@ -389,8 +389,8 @@
         "en": "China’s new supply-chain security rules: why this is relevant to the EUTR and EUDR"
       },
       "description": {
-        "nl": "Vakpublicatie over ketenveiligheid, traceerbaarheid en due diligence in de context van EUTR/EUDR.",
-        "en": "Professional publication on supply-chain security, traceability and due diligence in the EUTR/EUDR context."
+        "nl": "Analyse van nieuwe Chinese regels voor supply-chain security en waarom die relevant zijn voor Europese traceerbaarheid, risicobeoordeling en EUTR/EUDR-due diligence.",
+        "en": "Analysis of new Chinese supply-chain security rules and why they matter for European traceability, risk assessment and EUTR/EUDR due diligence."
       },
       "url": "https://nl.linkedin.com/pulse/chinas-nieuwe-ketenveiligheidsregels-waarom-dit-relevant-de-boer-bunle",
       "date_published": "2026-07-08",
@@ -678,6 +678,942 @@
       },
       "url": "https://tvblik.nl/de-rijdende-rechter/t-heen-en-weer-krijgen",
       "date_published": "2018-04-10"
+    },
+    "article/ieb_eudr_more_time_eutr_attention_2024": {
+      "id": "article/ieb_eudr_more_time_eutr_attention_2024",
+      "type": "Article",
+      "name": {
+        "nl": "Een jaar meer speelruimte voor EUDR maar EUTR meer onder de aandacht!",
+        "en": "One year extra time for EUDR but more attention for EUTR!"
+      },
+      "description": {
+        "nl": "Analyse van het EUDR-uitstel en de praktische betekenis daarvan voor bedrijven die in de overgangsperiode nog met EUTR-verplichtingen te maken hebben.",
+        "en": "Analysis of the EUDR delay and its practical significance for companies still dealing with EUTR obligations during the transition period."
+      },
+      "url": "https://www.evanbuytendijk.nl/nieuws/2024/uitstel-eudr-meer-eutr-controles/",
+      "date_published": "2024-12-18",
+      "relations": [
+        {
+          "predicate": "author",
+          "target": "person/eduard_de_boer"
+        },
+        {
+          "predicate": "publisher",
+          "target": "organization/ingenieursbureau_evan_buytendijk"
+        },
+        {
+          "predicate": "about",
+          "target": "legislation/eudr_2023_1115"
+        },
+        {
+          "predicate": "about",
+          "target": "legislation/eutr_995_2010"
+        }
+      ]
+    },
+    "article/medium_eudr_supply_chain_systems_2024": {
+      "id": "article/medium_eudr_supply_chain_systems_2024",
+      "type": "Article",
+      "name": {
+        "nl": "Voor- en nadelen van EUDR supply-chainmanagementsystemen",
+        "en": "Pros & Cons of EUDR Supply Chain Management Systems"
+      },
+      "description": {
+        "nl": "Analyse van de mogelijkheden en beperkingen van software voor EUDR-ketenbeheer, met nadruk op traceerbaarheid, due diligence en de rol van menselijke beoordeling.",
+        "en": "Analysis of the strengths and limitations of EUDR supply-chain software, focusing on traceability, due diligence and the role of human judgement."
+      },
+      "url": "https://medium.com/@eduarddeboer/pros-cons-of-eudr-supply-chain-management-systems-8eb6598821bf",
+      "date_published": "2024-12-16",
+      "relations": [
+        {
+          "predicate": "author",
+          "target": "person/eduard_de_boer"
+        },
+        {
+          "predicate": "about",
+          "target": "legislation/eudr_2023_1115"
+        },
+        {
+          "predicate": "about",
+          "target": "defined_term/supply_chain_traceability"
+        },
+        {
+          "predicate": "about",
+          "target": "defined_term/due_diligence_eudr"
+        }
+      ]
+    },
+    "article/ieb_eudr_2024_or_2025": {
+      "id": "article/ieb_eudr_2024_or_2025",
+      "type": "Article",
+      "name": {
+        "nl": "EUDR per 2024 of 2025?",
+        "en": "EUDR in 2024 or 2025?"
+      },
+      "description": {
+        "nl": "Uitleg over de toen actuele discussie rond de toepassingsdatum van de EUDR en de gevolgen daarvan voor voorbereiding en compliance.",
+        "en": "Explanation of the then-current discussion on the EUDR application date and its implications for preparation and compliance."
+      },
+      "url": "https://www.evanbuytendijk.nl/nieuws/2024/ingangsdatum-eudr-2024-2025/",
+      "date_published": "2024-11-27",
+      "relations": [
+        {
+          "predicate": "author",
+          "target": "person/eduard_de_boer"
+        },
+        {
+          "predicate": "publisher",
+          "target": "organization/ingenieursbureau_evan_buytendijk"
+        },
+        {
+          "predicate": "about",
+          "target": "legislation/eudr_2023_1115"
+        }
+      ]
+    },
+    "article/ieb_eudr_is_user_guide_2024": {
+      "id": "article/ieb_eudr_is_user_guide_2024",
+      "type": "Article",
+      "name": {
+        "nl": "Handleiding EUDR InformatieSysteem (IS) gepubliceerd",
+        "en": "EUDR Information System User Guide published"
+      },
+      "description": {
+        "nl": "Praktische toelichting op de gepubliceerde gebruikershandleiding voor het EUDR InformatieSysteem en de betekenis daarvan voor het werken met due-diligenceverklaringen.",
+        "en": "Practical explanation of the published EUDR Information System user guide and what it means for working with due diligence statements."
+      },
+      "url": "https://www.evanbuytendijk.nl/nieuws/2024/handleiding-eudr-is/",
+      "date_published": "2024-10-08",
+      "relations": [
+        {
+          "predicate": "author",
+          "target": "person/eduard_de_boer"
+        },
+        {
+          "predicate": "publisher",
+          "target": "organization/ingenieursbureau_evan_buytendijk"
+        },
+        {
+          "predicate": "about",
+          "target": "legislation/eudr_2023_1115"
+        }
+      ]
+    },
+    "article/ieb_eudr_postponed_12_months_2024": {
+      "id": "article/ieb_eudr_postponed_12_months_2024",
+      "type": "Article",
+      "name": {
+        "nl": "EUDR 12 maanden uitgesteld",
+        "en": "EUDR postponed by 12 months"
+      },
+      "description": {
+        "nl": "Bericht en duiding over het voorgestelde uitstel van de toepassing van de EUDR met twaalf maanden.",
+        "en": "Update and interpretation of the proposed twelve-month delay to the application of the EUDR."
+      },
+      "url": "https://www.evanbuytendijk.nl/nieuws/2024/eudr-uitgesteld/",
+      "date_published": "2024-10-02",
+      "relations": [
+        {
+          "predicate": "author",
+          "target": "person/eduard_de_boer"
+        },
+        {
+          "predicate": "publisher",
+          "target": "organization/ingenieursbureau_evan_buytendijk"
+        },
+        {
+          "predicate": "about",
+          "target": "legislation/eudr_2023_1115"
+        }
+      ]
+    },
+    "article/ieb_eudr_multistakeholder_2024_09_24": {
+      "id": "article/ieb_eudr_multistakeholder_2024_09_24",
+      "type": "Article",
+      "name": {
+        "nl": "EUDR Multi-stakeholder meeting op 24 september 2024",
+        "en": "EUDR Multi-stakeholder meeting of 24 September 2024"
+      },
+      "description": {
+        "nl": "Samenvatting van relevante ontwikkelingen uit de EUDR Multi-Stakeholder Platform-bijeenkomst van september 2024.",
+        "en": "Summary of relevant developments from the September 2024 EUDR Multi-Stakeholder Platform meeting."
+      },
+      "url": "https://www.evanbuytendijk.nl/nieuws/2024/202409-multi-stakeholder-meeting/",
+      "date_published": "2024-09-24",
+      "relations": [
+        {
+          "predicate": "author",
+          "target": "person/eduard_de_boer"
+        },
+        {
+          "predicate": "publisher",
+          "target": "organization/ingenieursbureau_evan_buytendijk"
+        },
+        {
+          "predicate": "about",
+          "target": "legislation/eudr_2023_1115"
+        }
+      ]
+    },
+    "article/ieb_eudr_document_codes_2024": {
+      "id": "article/ieb_eudr_document_codes_2024",
+      "type": "Article",
+      "name": {
+        "nl": "EUDR bescheidcodes",
+        "en": "EUDR document codes"
+      },
+      "description": {
+        "nl": "Uitleg over douane- en bescheidcodes die een rol spelen bij de praktische uitvoering van de EUDR.",
+        "en": "Explanation of customs and document codes relevant to the practical implementation of the EUDR."
+      },
+      "url": "https://www.evanbuytendijk.nl/nieuws/2024/eudr-bescheidcodes/",
+      "date_published": "2024-09-12",
+      "relations": [
+        {
+          "predicate": "author",
+          "target": "person/eduard_de_boer"
+        },
+        {
+          "predicate": "publisher",
+          "target": "organization/ingenieursbureau_evan_buytendijk"
+        },
+        {
+          "predicate": "about",
+          "target": "legislation/eudr_2023_1115"
+        }
+      ]
+    },
+    "article/ieb_eudr_geolocations_app_2024": {
+      "id": "article/ieb_eudr_geolocations_app_2024",
+      "type": "Article",
+      "name": {
+        "nl": "Onmisbare tool voor smallholders: IEB geolocaties app voor EUDR-compliance",
+        "en": "Geolocation tool for smallholders: IEB app for EUDR compliance"
+      },
+      "description": {
+        "nl": "Introductie van de IEB-geolocatieapp voor het vastleggen en exporteren van perceelslocaties die binnen de EUDR nodig kunnen zijn.",
+        "en": "Introduction of the IEB geolocation app for recording and exporting plot locations that may be required under the EUDR."
+      },
+      "url": "https://www.evanbuytendijk.nl/nieuws/2024/eudr-geolocations-app/",
+      "date_published": "2024-09-03",
+      "relations": [
+        {
+          "predicate": "author",
+          "target": "person/eduard_de_boer"
+        },
+        {
+          "predicate": "publisher",
+          "target": "organization/ingenieursbureau_evan_buytendijk"
+        },
+        {
+          "predicate": "about",
+          "target": "legislation/eudr_2023_1115"
+        },
+        {
+          "predicate": "about",
+          "target": "defined_term/geolocation_eudr"
+        }
+      ]
+    },
+    "article/ieb_eudr_competent_authorities_2024": {
+      "id": "article/ieb_eudr_competent_authorities_2024",
+      "type": "Article",
+      "name": {
+        "nl": "Bevoegde autoriteiten EUDR",
+        "en": "EUDR competent authorities"
+      },
+      "description": {
+        "nl": "Overzicht van de bevoegde autoriteiten die in de lidstaten verantwoordelijk zijn voor toezicht op de EUDR.",
+        "en": "Overview of the competent authorities responsible for EUDR supervision in the Member States."
+      },
+      "url": "https://www.evanbuytendijk.nl/nieuws/2024/eudr-bevoegde-autoriteiten/",
+      "date_published": "2024-08-05",
+      "relations": [
+        {
+          "predicate": "author",
+          "target": "person/eduard_de_boer"
+        },
+        {
+          "predicate": "publisher",
+          "target": "organization/ingenieursbureau_evan_buytendijk"
+        },
+        {
+          "predicate": "about",
+          "target": "legislation/eudr_2023_1115"
+        }
+      ]
+    },
+    "article/ieb_eudr_news_2024_07": {
+      "id": "article/ieb_eudr_news_2024_07",
+      "type": "Article",
+      "name": {
+        "nl": "EUDR nieuws (juli 2024)",
+        "en": "EUDR news (July 2024)"
+      },
+      "description": {
+        "nl": "Periodieke update met relevante EUDR-ontwikkelingen uit de zomer van 2024.",
+        "en": "Periodic update covering relevant EUDR developments in the summer of 2024."
+      },
+      "url": "https://www.evanbuytendijk.nl/nieuws/2024/eudr-nieuws-202408/",
+      "date_published": "2024-08-01",
+      "relations": [
+        {
+          "predicate": "author",
+          "target": "person/eduard_de_boer"
+        },
+        {
+          "predicate": "publisher",
+          "target": "organization/ingenieursbureau_evan_buytendijk"
+        },
+        {
+          "predicate": "about",
+          "target": "legislation/eudr_2023_1115"
+        }
+      ]
+    },
+    "article/ieb_eudr_geojson_2024": {
+      "id": "article/ieb_eudr_geojson_2024",
+      "type": "Article",
+      "name": {
+        "nl": "EUDR GeoJSON: voor nauwkeurige geolocatiegegevens",
+        "en": "EUDR GeoJSON: for exact geolocations"
+      },
+      "description": {
+        "nl": "Praktische uitleg over GeoJSON als formaat voor het vastleggen en uitwisselen van EUDR-geolocatiegegevens.",
+        "en": "Practical explanation of GeoJSON as a format for recording and exchanging EUDR geolocation data."
+      },
+      "url": "https://www.evanbuytendijk.nl/nieuws/2024/eudr-geojson/",
+      "date_published": "2024-07-07",
+      "relations": [
+        {
+          "predicate": "author",
+          "target": "person/eduard_de_boer"
+        },
+        {
+          "predicate": "publisher",
+          "target": "organization/ingenieursbureau_evan_buytendijk"
+        },
+        {
+          "predicate": "about",
+          "target": "legislation/eudr_2023_1115"
+        },
+        {
+          "predicate": "about",
+          "target": "defined_term/geolocation_eudr"
+        }
+      ]
+    },
+    "article/ieb_eudr_news_2024_06": {
+      "id": "article/ieb_eudr_news_2024_06",
+      "type": "Article",
+      "name": {
+        "nl": "EUDR nieuws (juni 2024)",
+        "en": "EUDR news (June 2024)"
+      },
+      "description": {
+        "nl": "Periodieke update over EUDR-uitvoering, guidance en praktische ontwikkelingen in juni 2024.",
+        "en": "Periodic update on EUDR implementation, guidance and practical developments in June 2024."
+      },
+      "url": "https://www.evanbuytendijk.nl/nieuws/2024/eudr-nieuws-202407/",
+      "date_published": "2024-07-03",
+      "relations": [
+        {
+          "predicate": "author",
+          "target": "person/eduard_de_boer"
+        },
+        {
+          "predicate": "publisher",
+          "target": "organization/ingenieursbureau_evan_buytendijk"
+        },
+        {
+          "predicate": "about",
+          "target": "legislation/eudr_2023_1115"
+        }
+      ]
+    },
+    "article/ieb_fsc_regulatory_module_eudr_2024": {
+      "id": "article/ieb_fsc_regulatory_module_eudr_2024",
+      "type": "Article",
+      "name": {
+        "nl": "FSC® Regulatory Module en de EUDR",
+        "en": "FSC® Regulatory Module and the EUDR"
+      },
+      "description": {
+        "nl": "Analyse van de FSC® Regulatory Module en de manier waarop deze module certificaathouders ondersteunt bij aansluiting op EUDR-vereisten.",
+        "en": "Analysis of the FSC® Regulatory Module and how it supports certificate holders in aligning with EUDR requirements."
+      },
+      "url": "https://www.evanbuytendijk.nl/nieuws/2024/fsc-regulatory-module-eudr/",
+      "date_published": "2024-07-02",
+      "relations": [
+        {
+          "predicate": "author",
+          "target": "person/eduard_de_boer"
+        },
+        {
+          "predicate": "publisher",
+          "target": "organization/ingenieursbureau_evan_buytendijk"
+        },
+        {
+          "predicate": "about",
+          "target": "legislation/eudr_2023_1115"
+        },
+        {
+          "predicate": "about",
+          "target": "organization/fsc"
+        },
+        {
+          "predicate": "about",
+          "target": "creative_work/fsc_regulatory_module_2024"
+        }
+      ]
+    },
+    "article/linkedin_india_furniture_nvwa_2024": {
+      "id": "article/linkedin_india_furniture_nvwa_2024",
+      "type": "Article",
+      "name": {
+        "nl": "Meubelimport uit India onder aandacht van NVWA",
+        "en": "Furniture imports from India under NVWA scrutiny"
+      },
+      "description": {
+        "nl": "Vakpublicatie over EUTR-toezicht op meubelimport uit India en de rol van due diligence, leveranciersinformatie en audits.",
+        "en": "Professional article on EUTR supervision of furniture imports from India and the role of due diligence, supplier information and audits."
+      },
+      "url": "https://nl.linkedin.com/pulse/meubelimport-uit-india-onder-aandacht-van-nvwa-eduard-de-boer-sqo6e",
+      "date_published": "2024-06-05",
+      "relations": [
+        {
+          "predicate": "author",
+          "target": "person/eduard_de_boer"
+        },
+        {
+          "predicate": "about",
+          "target": "legislation/eutr_995_2010"
+        },
+        {
+          "predicate": "about",
+          "target": "legislation/eudr_2023_1115"
+        },
+        {
+          "predicate": "about",
+          "target": "defined_term/auditing"
+        }
+      ]
+    },
+    "article/ieb_eudr_news_2024_05_27": {
+      "id": "article/ieb_eudr_news_2024_05_27",
+      "type": "Article",
+      "name": {
+        "nl": "EUDR nieuws van 27-05-2024",
+        "en": "EUDR news from 27 May 2024"
+      },
+      "description": {
+        "nl": "Korte vakupdate over actuele EUDR-ontwikkelingen eind mei 2024.",
+        "en": "Short professional update on current EUDR developments in late May 2024."
+      },
+      "url": "https://www.evanbuytendijk.nl/nieuws/2024/eudr-nieuws-20240527/",
+      "date_published": "2024-05-27",
+      "relations": [
+        {
+          "predicate": "author",
+          "target": "person/eduard_de_boer"
+        },
+        {
+          "predicate": "publisher",
+          "target": "organization/ingenieursbureau_evan_buytendijk"
+        },
+        {
+          "predicate": "about",
+          "target": "legislation/eudr_2023_1115"
+        }
+      ]
+    },
+    "article/ieb_eudr_news_2024_05_20": {
+      "id": "article/ieb_eudr_news_2024_05_20",
+      "type": "Article",
+      "name": {
+        "nl": "EUDR nieuws van 20-05-2024",
+        "en": "EUDR news from 20 May 2024"
+      },
+      "description": {
+        "nl": "Korte vakupdate over actuele EUDR-ontwikkelingen in mei 2024.",
+        "en": "Short professional update on current EUDR developments in May 2024."
+      },
+      "url": "https://www.evanbuytendijk.nl/nieuws/2024/eudr-nieuws-20240520/",
+      "date_published": "2024-05-20",
+      "relations": [
+        {
+          "predicate": "author",
+          "target": "person/eduard_de_boer"
+        },
+        {
+          "predicate": "publisher",
+          "target": "organization/ingenieursbureau_evan_buytendijk"
+        },
+        {
+          "predicate": "about",
+          "target": "legislation/eudr_2023_1115"
+        }
+      ]
+    },
+    "article/ieb_eudr_delayed_postponed_2024": {
+      "id": "article/ieb_eudr_delayed_postponed_2024",
+      "type": "Article",
+      "name": {
+        "nl": "EUDR vertraagd / uitgesteld?",
+        "en": "EUDR delayed / postponed?"
+      },
+      "description": {
+        "nl": "Analyse van signalen en discussies over mogelijke vertraging of uitstel van de EUDR in 2024.",
+        "en": "Analysis of signals and discussions in 2024 about a possible delay or postponement of the EUDR."
+      },
+      "url": "https://www.evanbuytendijk.nl/nieuws/2024/eudr-vertraagd-uitgesteld/",
+      "date_published": "2024-05-15",
+      "relations": [
+        {
+          "predicate": "author",
+          "target": "person/eduard_de_boer"
+        },
+        {
+          "predicate": "publisher",
+          "target": "organization/ingenieursbureau_evan_buytendijk"
+        },
+        {
+          "predicate": "about",
+          "target": "legislation/eudr_2023_1115"
+        }
+      ]
+    },
+    "article/ieb_eudr_soy_2024": {
+      "id": "article/ieb_eudr_soy_2024",
+      "type": "Article",
+      "name": {
+        "nl": "EUDR: soja",
+        "en": "EUDR: soy"
+      },
+      "description": {
+        "nl": "Toelichting op soja als relevante grondstof binnen de EUDR en de bijbehorende ketenverplichtingen.",
+        "en": "Explanation of soy as a relevant EUDR commodity and the associated supply-chain obligations."
+      },
+      "url": "https://www.evanbuytendijk.nl/nieuws/2024/eudr-soja/",
+      "date_published": "2024-02-12",
+      "relations": [
+        {
+          "predicate": "author",
+          "target": "person/eduard_de_boer"
+        },
+        {
+          "predicate": "publisher",
+          "target": "organization/ingenieursbureau_evan_buytendijk"
+        },
+        {
+          "predicate": "about",
+          "target": "legislation/eudr_2023_1115"
+        }
+      ]
+    },
+    "article/ieb_eudr_rubber_2024": {
+      "id": "article/ieb_eudr_rubber_2024",
+      "type": "Article",
+      "name": {
+        "nl": "EUDR: rubber",
+        "en": "EUDR: natural rubber"
+      },
+      "description": {
+        "nl": "Toelichting op natuurrubber als relevante grondstof binnen de EUDR.",
+        "en": "Explanation of natural rubber as a relevant commodity under the EUDR."
+      },
+      "url": "https://www.evanbuytendijk.nl/nieuws/2024/eudr-rubber/",
+      "date_published": "2024-02-05",
+      "relations": [
+        {
+          "predicate": "author",
+          "target": "person/eduard_de_boer"
+        },
+        {
+          "predicate": "publisher",
+          "target": "organization/ingenieursbureau_evan_buytendijk"
+        },
+        {
+          "predicate": "about",
+          "target": "legislation/eudr_2023_1115"
+        }
+      ]
+    },
+    "article/ieb_dutch_chocolate_industry_2024": {
+      "id": "article/ieb_dutch_chocolate_industry_2024",
+      "type": "Article",
+      "name": {
+        "nl": "Duurzaamheid en innovatie in de Nederlandse chocolade-industrie",
+        "en": "Sustainability and innovation in the Dutch chocolate industry"
+      },
+      "description": {
+        "nl": "Vakpublicatie over de Nederlandse chocolade-industrie in de context van cacao, ketentransparantie en nieuwe EUDR-verplichtingen.",
+        "en": "Professional article on the Dutch chocolate industry in the context of cocoa, supply-chain transparency and new EUDR obligations."
+      },
+      "url": "https://www.evanbuytendijk.nl/nieuws/2024/nederland-chocolade-industrie/",
+      "date_published": "2024-02-02",
+      "relations": [
+        {
+          "predicate": "author",
+          "target": "person/eduard_de_boer"
+        },
+        {
+          "predicate": "publisher",
+          "target": "organization/ingenieursbureau_evan_buytendijk"
+        },
+        {
+          "predicate": "about",
+          "target": "legislation/eudr_2023_1115"
+        }
+      ]
+    },
+    "article/ieb_fsc_houtbouw_van_lingen_2024": {
+      "id": "article/ieb_fsc_houtbouw_van_lingen_2024",
+      "type": "Article",
+      "name": {
+        "nl": "FSC®-groepscertificering bij Houtbouw van Lingen",
+        "en": "FSC® group certification at Houtbouw van Lingen"
+      },
+      "description": {
+        "nl": "Praktijkbericht over toetreding tot FSC®-groepscertificering en de organisatorische betekenis daarvan voor een houtbouwbedrijf.",
+        "en": "Practice-oriented article on joining FSC® group certification and what that means organisationally for a timber construction company."
+      },
+      "url": "https://www.evanbuytendijk.nl/nieuws/2024/groepscertificering-fsc-houtbouw-van-lingen/",
+      "date_published": "2024-01-29",
+      "relations": [
+        {
+          "predicate": "author",
+          "target": "person/eduard_de_boer"
+        },
+        {
+          "predicate": "publisher",
+          "target": "organization/ingenieursbureau_evan_buytendijk"
+        },
+        {
+          "predicate": "about",
+          "target": "organization/fsc"
+        }
+      ]
+    },
+    "article/ieb_eudr_cocoa_2024": {
+      "id": "article/ieb_eudr_cocoa_2024",
+      "type": "Article",
+      "name": {
+        "nl": "EUDR: cacao",
+        "en": "EUDR: cocoa"
+      },
+      "description": {
+        "nl": "Toelichting op cacao als relevante grondstof binnen de EUDR en de gevolgen voor keteninformatie en due diligence.",
+        "en": "Explanation of cocoa as a relevant EUDR commodity and the implications for supply-chain information and due diligence."
+      },
+      "url": "https://www.evanbuytendijk.nl/nieuws/2024/eudr-cacao/",
+      "date_published": "2024-01-28",
+      "relations": [
+        {
+          "predicate": "author",
+          "target": "person/eduard_de_boer"
+        },
+        {
+          "predicate": "publisher",
+          "target": "organization/ingenieursbureau_evan_buytendijk"
+        },
+        {
+          "predicate": "about",
+          "target": "legislation/eudr_2023_1115"
+        },
+        {
+          "predicate": "about",
+          "target": "defined_term/due_diligence_eudr"
+        }
+      ]
+    },
+    "article/ieb_eudr_coffee_2024": {
+      "id": "article/ieb_eudr_coffee_2024",
+      "type": "Article",
+      "name": {
+        "nl": "EUDR: koffie",
+        "en": "EUDR: coffee"
+      },
+      "description": {
+        "nl": "Toelichting op koffie als relevante grondstof binnen de EUDR.",
+        "en": "Explanation of coffee as a relevant commodity under the EUDR."
+      },
+      "url": "https://www.evanbuytendijk.nl/nieuws/2024/eudr-koffie/",
+      "date_published": "2024-01-21",
+      "relations": [
+        {
+          "predicate": "author",
+          "target": "person/eduard_de_boer"
+        },
+        {
+          "predicate": "publisher",
+          "target": "organization/ingenieursbureau_evan_buytendijk"
+        },
+        {
+          "predicate": "about",
+          "target": "legislation/eudr_2023_1115"
+        }
+      ]
+    },
+    "article/ieb_eudr_green_deal_2024": {
+      "id": "article/ieb_eudr_green_deal_2024",
+      "type": "Article",
+      "name": {
+        "nl": "EUDR: cruciaal in Europese Green Deal",
+        "en": "EUDR in the European Green Deal"
+      },
+      "description": {
+        "nl": "Plaatsing van de EUDR binnen het bredere Europese beleidskader voor ontbossing en productketens.",
+        "en": "Positions the EUDR within the broader European policy framework for deforestation and product supply chains."
+      },
+      "url": "https://www.evanbuytendijk.nl/nieuws/2024/eudr-eu-green-deal/",
+      "date_published": "2024-01-16",
+      "relations": [
+        {
+          "predicate": "author",
+          "target": "person/eduard_de_boer"
+        },
+        {
+          "predicate": "publisher",
+          "target": "organization/ingenieursbureau_evan_buytendijk"
+        },
+        {
+          "predicate": "about",
+          "target": "legislation/eudr_2023_1115"
+        }
+      ]
+    },
+    "article/ieb_bosto_sustainability_2023": {
+      "id": "article/ieb_bosto_sustainability_2023",
+      "type": "Article",
+      "name": {
+        "nl": "Bosto BV en FSC®-groepscertificering",
+        "en": "Bosto BV and FSC® group certification"
+      },
+      "description": {
+        "nl": "Praktijkbericht over Bosto BV in de context van FSC®-groepscertificering en verantwoord inkopen van houtproducten.",
+        "en": "Practice-oriented article on Bosto BV in the context of FSC® group certification and responsible sourcing of timber products."
+      },
+      "url": "https://www.evanbuytendijk.nl/nieuws/2023/groepslid-bostobv-kapelle/",
+      "date_published": "2023-08-16",
+      "relations": [
+        {
+          "predicate": "author",
+          "target": "person/eduard_de_boer"
+        },
+        {
+          "predicate": "publisher",
+          "target": "organization/ingenieursbureau_evan_buytendijk"
+        },
+        {
+          "predicate": "about",
+          "target": "organization/fsc"
+        }
+      ]
+    },
+    "article/ieb_kooistra_fsc_2023": {
+      "id": "article/ieb_kooistra_fsc_2023",
+      "type": "Article",
+      "name": {
+        "nl": "Kooistra Geveltechniek behaalt FSC®-certificering",
+        "en": "Kooistra Geveltechniek achieves FSC® certification"
+      },
+      "description": {
+        "nl": "Praktijkbericht over het behalen van FSC®-certificering door Kooistra Geveltechniek.",
+        "en": "Practice-oriented article on Kooistra Geveltechniek achieving FSC® certification."
+      },
+      "url": "https://www.evanbuytendijk.nl/nieuws/2023/kooistra-geveltechniek-bolsward-fsc-gecertificeerd/",
+      "date_published": "2023-06-22",
+      "relations": [
+        {
+          "predicate": "author",
+          "target": "person/eduard_de_boer"
+        },
+        {
+          "predicate": "publisher",
+          "target": "organization/ingenieursbureau_evan_buytendijk"
+        },
+        {
+          "predicate": "about",
+          "target": "organization/fsc"
+        }
+      ]
+    },
+    "article/ieb_maaldrift_fsc_2023": {
+      "id": "article/ieb_maaldrift_fsc_2023",
+      "type": "Article",
+      "name": {
+        "nl": "Nieuw FSC®-groepslid: Timmerfabriek Maaldrift Houtskeletbouw",
+        "en": "New FSC® group member: Timmerfabriek Maaldrift Houtskeletbouw"
+      },
+      "description": {
+        "nl": "Praktijkbericht over toetreding van Timmerfabriek Maaldrift Houtskeletbouw tot FSC®-groepscertificering.",
+        "en": "Practice-oriented article on Timmerfabriek Maaldrift Houtskeletbouw joining FSC® group certification."
+      },
+      "url": "https://www.evanbuytendijk.nl/nieuws/2023/timmerfabriek-maaldrift-houtskeletbouw/",
+      "date_published": "2023-06-02",
+      "relations": [
+        {
+          "predicate": "author",
+          "target": "person/eduard_de_boer"
+        },
+        {
+          "predicate": "publisher",
+          "target": "organization/ingenieursbureau_evan_buytendijk"
+        },
+        {
+          "predicate": "about",
+          "target": "organization/fsc"
+        }
+      ]
+    },
+    "article/interu_ai_supply_chain_interview": {
+      "id": "article/interu_ai_supply_chain_interview",
+      "type": "Article",
+      "name": {
+        "nl": "AI and Supply Chain Management: An Interview with Eduard de Boer",
+        "en": "AI and Supply Chain Management: An Interview with Eduard de Boer"
+      },
+      "description": {
+        "nl": "Interview over AI in supply-chainsoftware, supplier fatigue, EUDR-compliance, traceerbaarheid en de blijvende noodzaak van menselijke expertise bij risicobeoordeling.",
+        "en": "Interview on AI in supply-chain software, supplier fatigue, EUDR compliance, traceability and the continuing need for human expertise in risk assessment."
+      },
+      "url": "https://www.interu.io/blog/ai-and-supply-chain-management-an-interview-with-eduard-de-boer",
+      "date_published": "2024-12-16",
+      "relations": [
+        {
+          "predicate": "contributor",
+          "target": "person/eduard_de_boer"
+        },
+        {
+          "predicate": "about",
+          "target": "legislation/eudr_2023_1115"
+        },
+        {
+          "predicate": "about",
+          "target": "defined_term/supply_chain_traceability"
+        },
+        {
+          "predicate": "about",
+          "target": "defined_term/risk_assessment"
+        }
+      ]
+    },
+    "article/interu_webinar_qa_eudr_risk_assessment": {
+      "id": "article/interu_webinar_qa_eudr_risk_assessment",
+      "type": "Article",
+      "name": {
+        "nl": "Webinar Q&A: What Does Effective EUDR Risk Assessment Really Look Like?",
+        "en": "Webinar Q&A: What Does Effective EUDR Risk Assessment Really Look Like?"
+      },
+      "description": {
+        "nl": "Interu-recap met praktijkvragen en antwoorden uit een webinar over effectieve EUDR-risicobeoordeling met Eduard de Boer als deelnemende expert.",
+        "en": "Interu recap with practical questions and answers from a webinar on effective EUDR risk assessment featuring Eduard de Boer as a participating expert."
+      },
+      "url": "https://www.interu.io/blog/what-does-effective-eudr-risk-assessment-really-look-like",
+      "date_published": "2025-07-08",
+      "relations": [
+        {
+          "predicate": "contributor",
+          "target": "person/eduard_de_boer"
+        },
+        {
+          "predicate": "about",
+          "target": "legislation/eudr_2023_1115"
+        },
+        {
+          "predicate": "about",
+          "target": "defined_term/risk_assessment"
+        }
+      ]
+    },
+    "article/houtwereld_waarom_zoveel_lods_nvwa_2026": {
+      "id": "article/houtwereld_waarom_zoveel_lods_nvwa_2026",
+      "type": "Article",
+      "name": {
+        "nl": "Waarom zoveel LoD’s van de NVWA en hoe voorkom je het?",
+        "en": "Why so many NVWA enforcement orders and how can they be prevented?"
+      },
+      "description": {
+        "nl": "Houtwereld-artikel over terugkerende tekortkomingen bij EUTR-handhaving, gebaseerd op dossiers die door Eduard de Boer zijn geanalyseerd.",
+        "en": "Houtwereld article on recurring shortcomings in EUTR enforcement, based on files analysed by Eduard de Boer."
+      },
+      "url": "https://www.houtwereld.nl/handel/waarom-zoveel-lods-van-de-nvwa-en-hoe-voorkom-je-het/",
+      "date_published": "2026-04-20",
+      "relations": [
+        {
+          "predicate": "contributor",
+          "target": "person/eduard_de_boer"
+        },
+        {
+          "predicate": "about",
+          "target": "legislation/eutr_995_2010"
+        },
+        {
+          "predicate": "about",
+          "target": "defined_term/due_diligence_eutr"
+        }
+      ]
+    },
+    "article/houtwereld_inventarisatie_lods_eutr_2026": {
+      "id": "article/houtwereld_inventarisatie_lods_eutr_2026",
+      "type": "Article",
+      "name": {
+        "nl": "IEB start inventarisatie van LoD’s onder EUTR – oproep aan importeurs",
+        "en": "IEB starts inventory of EUTR enforcement orders — call to importers"
+      },
+      "description": {
+        "nl": "Houtwereld-artikel over een IEB-inventarisatie van EUTR-handhavingstrajecten, met toelichting van Eduard de Boer.",
+        "en": "Houtwereld article on an IEB inventory of EUTR enforcement cases, including comments from Eduard de Boer."
+      },
+      "url": "https://www.houtwereld.nl/handel/wet-en-regelgeving/inventarisatie-van-lods-onder-eutr-oproep-importeurs/",
+      "date_published": "2026-02-03",
+      "relations": [
+        {
+          "predicate": "mentions",
+          "target": "person/eduard_de_boer"
+        },
+        {
+          "predicate": "about",
+          "target": "legislation/eutr_995_2010"
+        },
+        {
+          "predicate": "about",
+          "target": "organization/ingenieursbureau_evan_buytendijk"
+        }
+      ]
+    },
+    "article/houtwereld_eudr_geolocatie_app_2024": {
+      "id": "article/houtwereld_eudr_geolocatie_app_2024",
+      "type": "Article",
+      "name": {
+        "nl": "Bureau van Evan Buytendijk lanceert EUDR-geolocatie app",
+        "en": "Evan Buytendijk firm launches EUDR geolocation app"
+      },
+      "description": {
+        "nl": "Houtwereld-artikel over de IEB-geolocatieapp voor het registreren en exporteren van EUDR-perceelslocaties, met Eduard de Boer genoemd bij het initiatief.",
+        "en": "Houtwereld article about the IEB geolocation app for recording and exporting EUDR plot locations, mentioning Eduard de Boer in connection with the initiative."
+      },
+      "url": "https://www.houtwereld.nl/handel/wet-en-regelgeving/bureau-van-evan-buytendijk-lanceert-eudr-geolocatie-app/",
+      "date_published": "2024-09-05",
+      "relations": [
+        {
+          "predicate": "mentions",
+          "target": "person/eduard_de_boer"
+        },
+        {
+          "predicate": "about",
+          "target": "legislation/eudr_2023_1115"
+        },
+        {
+          "predicate": "about",
+          "target": "defined_term/geolocation_eudr"
+        },
+        {
+          "predicate": "about",
+          "target": "organization/ingenieursbureau_evan_buytendijk"
+        }
+      ]
     }
   },
   "relations": [
@@ -860,6 +1796,536 @@
       "subject": "event/houtwereld_praktijkdag_2026",
       "predicate": "about",
       "target": "legislation/eudr_2023_1115"
+    },
+    {
+      "subject": "article/ieb_eudr_more_time_eutr_attention_2024",
+      "predicate": "author",
+      "target": "person/eduard_de_boer"
+    },
+    {
+      "subject": "article/ieb_eudr_more_time_eutr_attention_2024",
+      "predicate": "publisher",
+      "target": "organization/ingenieursbureau_evan_buytendijk"
+    },
+    {
+      "subject": "article/ieb_eudr_more_time_eutr_attention_2024",
+      "predicate": "about",
+      "target": "legislation/eudr_2023_1115"
+    },
+    {
+      "subject": "article/ieb_eudr_more_time_eutr_attention_2024",
+      "predicate": "about",
+      "target": "legislation/eutr_995_2010"
+    },
+    {
+      "subject": "article/medium_eudr_supply_chain_systems_2024",
+      "predicate": "author",
+      "target": "person/eduard_de_boer"
+    },
+    {
+      "subject": "article/medium_eudr_supply_chain_systems_2024",
+      "predicate": "about",
+      "target": "legislation/eudr_2023_1115"
+    },
+    {
+      "subject": "article/medium_eudr_supply_chain_systems_2024",
+      "predicate": "about",
+      "target": "defined_term/supply_chain_traceability"
+    },
+    {
+      "subject": "article/medium_eudr_supply_chain_systems_2024",
+      "predicate": "about",
+      "target": "defined_term/due_diligence_eudr"
+    },
+    {
+      "subject": "article/ieb_eudr_2024_or_2025",
+      "predicate": "author",
+      "target": "person/eduard_de_boer"
+    },
+    {
+      "subject": "article/ieb_eudr_2024_or_2025",
+      "predicate": "publisher",
+      "target": "organization/ingenieursbureau_evan_buytendijk"
+    },
+    {
+      "subject": "article/ieb_eudr_2024_or_2025",
+      "predicate": "about",
+      "target": "legislation/eudr_2023_1115"
+    },
+    {
+      "subject": "article/ieb_eudr_is_user_guide_2024",
+      "predicate": "author",
+      "target": "person/eduard_de_boer"
+    },
+    {
+      "subject": "article/ieb_eudr_is_user_guide_2024",
+      "predicate": "publisher",
+      "target": "organization/ingenieursbureau_evan_buytendijk"
+    },
+    {
+      "subject": "article/ieb_eudr_is_user_guide_2024",
+      "predicate": "about",
+      "target": "legislation/eudr_2023_1115"
+    },
+    {
+      "subject": "article/ieb_eudr_postponed_12_months_2024",
+      "predicate": "author",
+      "target": "person/eduard_de_boer"
+    },
+    {
+      "subject": "article/ieb_eudr_postponed_12_months_2024",
+      "predicate": "publisher",
+      "target": "organization/ingenieursbureau_evan_buytendijk"
+    },
+    {
+      "subject": "article/ieb_eudr_postponed_12_months_2024",
+      "predicate": "about",
+      "target": "legislation/eudr_2023_1115"
+    },
+    {
+      "subject": "article/ieb_eudr_multistakeholder_2024_09_24",
+      "predicate": "author",
+      "target": "person/eduard_de_boer"
+    },
+    {
+      "subject": "article/ieb_eudr_multistakeholder_2024_09_24",
+      "predicate": "publisher",
+      "target": "organization/ingenieursbureau_evan_buytendijk"
+    },
+    {
+      "subject": "article/ieb_eudr_multistakeholder_2024_09_24",
+      "predicate": "about",
+      "target": "legislation/eudr_2023_1115"
+    },
+    {
+      "subject": "article/ieb_eudr_document_codes_2024",
+      "predicate": "author",
+      "target": "person/eduard_de_boer"
+    },
+    {
+      "subject": "article/ieb_eudr_document_codes_2024",
+      "predicate": "publisher",
+      "target": "organization/ingenieursbureau_evan_buytendijk"
+    },
+    {
+      "subject": "article/ieb_eudr_document_codes_2024",
+      "predicate": "about",
+      "target": "legislation/eudr_2023_1115"
+    },
+    {
+      "subject": "article/ieb_eudr_geolocations_app_2024",
+      "predicate": "author",
+      "target": "person/eduard_de_boer"
+    },
+    {
+      "subject": "article/ieb_eudr_geolocations_app_2024",
+      "predicate": "publisher",
+      "target": "organization/ingenieursbureau_evan_buytendijk"
+    },
+    {
+      "subject": "article/ieb_eudr_geolocations_app_2024",
+      "predicate": "about",
+      "target": "legislation/eudr_2023_1115"
+    },
+    {
+      "subject": "article/ieb_eudr_geolocations_app_2024",
+      "predicate": "about",
+      "target": "defined_term/geolocation_eudr"
+    },
+    {
+      "subject": "article/ieb_eudr_competent_authorities_2024",
+      "predicate": "author",
+      "target": "person/eduard_de_boer"
+    },
+    {
+      "subject": "article/ieb_eudr_competent_authorities_2024",
+      "predicate": "publisher",
+      "target": "organization/ingenieursbureau_evan_buytendijk"
+    },
+    {
+      "subject": "article/ieb_eudr_competent_authorities_2024",
+      "predicate": "about",
+      "target": "legislation/eudr_2023_1115"
+    },
+    {
+      "subject": "article/ieb_eudr_news_2024_07",
+      "predicate": "author",
+      "target": "person/eduard_de_boer"
+    },
+    {
+      "subject": "article/ieb_eudr_news_2024_07",
+      "predicate": "publisher",
+      "target": "organization/ingenieursbureau_evan_buytendijk"
+    },
+    {
+      "subject": "article/ieb_eudr_news_2024_07",
+      "predicate": "about",
+      "target": "legislation/eudr_2023_1115"
+    },
+    {
+      "subject": "article/ieb_eudr_geojson_2024",
+      "predicate": "author",
+      "target": "person/eduard_de_boer"
+    },
+    {
+      "subject": "article/ieb_eudr_geojson_2024",
+      "predicate": "publisher",
+      "target": "organization/ingenieursbureau_evan_buytendijk"
+    },
+    {
+      "subject": "article/ieb_eudr_geojson_2024",
+      "predicate": "about",
+      "target": "legislation/eudr_2023_1115"
+    },
+    {
+      "subject": "article/ieb_eudr_geojson_2024",
+      "predicate": "about",
+      "target": "defined_term/geolocation_eudr"
+    },
+    {
+      "subject": "article/ieb_eudr_news_2024_06",
+      "predicate": "author",
+      "target": "person/eduard_de_boer"
+    },
+    {
+      "subject": "article/ieb_eudr_news_2024_06",
+      "predicate": "publisher",
+      "target": "organization/ingenieursbureau_evan_buytendijk"
+    },
+    {
+      "subject": "article/ieb_eudr_news_2024_06",
+      "predicate": "about",
+      "target": "legislation/eudr_2023_1115"
+    },
+    {
+      "subject": "article/ieb_fsc_regulatory_module_eudr_2024",
+      "predicate": "author",
+      "target": "person/eduard_de_boer"
+    },
+    {
+      "subject": "article/ieb_fsc_regulatory_module_eudr_2024",
+      "predicate": "publisher",
+      "target": "organization/ingenieursbureau_evan_buytendijk"
+    },
+    {
+      "subject": "article/ieb_fsc_regulatory_module_eudr_2024",
+      "predicate": "about",
+      "target": "legislation/eudr_2023_1115"
+    },
+    {
+      "subject": "article/ieb_fsc_regulatory_module_eudr_2024",
+      "predicate": "about",
+      "target": "organization/fsc"
+    },
+    {
+      "subject": "article/ieb_fsc_regulatory_module_eudr_2024",
+      "predicate": "about",
+      "target": "creative_work/fsc_regulatory_module_2024"
+    },
+    {
+      "subject": "article/linkedin_india_furniture_nvwa_2024",
+      "predicate": "author",
+      "target": "person/eduard_de_boer"
+    },
+    {
+      "subject": "article/linkedin_india_furniture_nvwa_2024",
+      "predicate": "about",
+      "target": "legislation/eutr_995_2010"
+    },
+    {
+      "subject": "article/linkedin_india_furniture_nvwa_2024",
+      "predicate": "about",
+      "target": "legislation/eudr_2023_1115"
+    },
+    {
+      "subject": "article/linkedin_india_furniture_nvwa_2024",
+      "predicate": "about",
+      "target": "defined_term/auditing"
+    },
+    {
+      "subject": "article/ieb_eudr_news_2024_05_27",
+      "predicate": "author",
+      "target": "person/eduard_de_boer"
+    },
+    {
+      "subject": "article/ieb_eudr_news_2024_05_27",
+      "predicate": "publisher",
+      "target": "organization/ingenieursbureau_evan_buytendijk"
+    },
+    {
+      "subject": "article/ieb_eudr_news_2024_05_27",
+      "predicate": "about",
+      "target": "legislation/eudr_2023_1115"
+    },
+    {
+      "subject": "article/ieb_eudr_news_2024_05_20",
+      "predicate": "author",
+      "target": "person/eduard_de_boer"
+    },
+    {
+      "subject": "article/ieb_eudr_news_2024_05_20",
+      "predicate": "publisher",
+      "target": "organization/ingenieursbureau_evan_buytendijk"
+    },
+    {
+      "subject": "article/ieb_eudr_news_2024_05_20",
+      "predicate": "about",
+      "target": "legislation/eudr_2023_1115"
+    },
+    {
+      "subject": "article/ieb_eudr_delayed_postponed_2024",
+      "predicate": "author",
+      "target": "person/eduard_de_boer"
+    },
+    {
+      "subject": "article/ieb_eudr_delayed_postponed_2024",
+      "predicate": "publisher",
+      "target": "organization/ingenieursbureau_evan_buytendijk"
+    },
+    {
+      "subject": "article/ieb_eudr_delayed_postponed_2024",
+      "predicate": "about",
+      "target": "legislation/eudr_2023_1115"
+    },
+    {
+      "subject": "article/ieb_eudr_soy_2024",
+      "predicate": "author",
+      "target": "person/eduard_de_boer"
+    },
+    {
+      "subject": "article/ieb_eudr_soy_2024",
+      "predicate": "publisher",
+      "target": "organization/ingenieursbureau_evan_buytendijk"
+    },
+    {
+      "subject": "article/ieb_eudr_soy_2024",
+      "predicate": "about",
+      "target": "legislation/eudr_2023_1115"
+    },
+    {
+      "subject": "article/ieb_eudr_rubber_2024",
+      "predicate": "author",
+      "target": "person/eduard_de_boer"
+    },
+    {
+      "subject": "article/ieb_eudr_rubber_2024",
+      "predicate": "publisher",
+      "target": "organization/ingenieursbureau_evan_buytendijk"
+    },
+    {
+      "subject": "article/ieb_eudr_rubber_2024",
+      "predicate": "about",
+      "target": "legislation/eudr_2023_1115"
+    },
+    {
+      "subject": "article/ieb_dutch_chocolate_industry_2024",
+      "predicate": "author",
+      "target": "person/eduard_de_boer"
+    },
+    {
+      "subject": "article/ieb_dutch_chocolate_industry_2024",
+      "predicate": "publisher",
+      "target": "organization/ingenieursbureau_evan_buytendijk"
+    },
+    {
+      "subject": "article/ieb_dutch_chocolate_industry_2024",
+      "predicate": "about",
+      "target": "legislation/eudr_2023_1115"
+    },
+    {
+      "subject": "article/ieb_fsc_houtbouw_van_lingen_2024",
+      "predicate": "author",
+      "target": "person/eduard_de_boer"
+    },
+    {
+      "subject": "article/ieb_fsc_houtbouw_van_lingen_2024",
+      "predicate": "publisher",
+      "target": "organization/ingenieursbureau_evan_buytendijk"
+    },
+    {
+      "subject": "article/ieb_fsc_houtbouw_van_lingen_2024",
+      "predicate": "about",
+      "target": "organization/fsc"
+    },
+    {
+      "subject": "article/ieb_eudr_cocoa_2024",
+      "predicate": "author",
+      "target": "person/eduard_de_boer"
+    },
+    {
+      "subject": "article/ieb_eudr_cocoa_2024",
+      "predicate": "publisher",
+      "target": "organization/ingenieursbureau_evan_buytendijk"
+    },
+    {
+      "subject": "article/ieb_eudr_cocoa_2024",
+      "predicate": "about",
+      "target": "legislation/eudr_2023_1115"
+    },
+    {
+      "subject": "article/ieb_eudr_cocoa_2024",
+      "predicate": "about",
+      "target": "defined_term/due_diligence_eudr"
+    },
+    {
+      "subject": "article/ieb_eudr_coffee_2024",
+      "predicate": "author",
+      "target": "person/eduard_de_boer"
+    },
+    {
+      "subject": "article/ieb_eudr_coffee_2024",
+      "predicate": "publisher",
+      "target": "organization/ingenieursbureau_evan_buytendijk"
+    },
+    {
+      "subject": "article/ieb_eudr_coffee_2024",
+      "predicate": "about",
+      "target": "legislation/eudr_2023_1115"
+    },
+    {
+      "subject": "article/ieb_eudr_green_deal_2024",
+      "predicate": "author",
+      "target": "person/eduard_de_boer"
+    },
+    {
+      "subject": "article/ieb_eudr_green_deal_2024",
+      "predicate": "publisher",
+      "target": "organization/ingenieursbureau_evan_buytendijk"
+    },
+    {
+      "subject": "article/ieb_eudr_green_deal_2024",
+      "predicate": "about",
+      "target": "legislation/eudr_2023_1115"
+    },
+    {
+      "subject": "article/ieb_bosto_sustainability_2023",
+      "predicate": "author",
+      "target": "person/eduard_de_boer"
+    },
+    {
+      "subject": "article/ieb_bosto_sustainability_2023",
+      "predicate": "publisher",
+      "target": "organization/ingenieursbureau_evan_buytendijk"
+    },
+    {
+      "subject": "article/ieb_bosto_sustainability_2023",
+      "predicate": "about",
+      "target": "organization/fsc"
+    },
+    {
+      "subject": "article/ieb_kooistra_fsc_2023",
+      "predicate": "author",
+      "target": "person/eduard_de_boer"
+    },
+    {
+      "subject": "article/ieb_kooistra_fsc_2023",
+      "predicate": "publisher",
+      "target": "organization/ingenieursbureau_evan_buytendijk"
+    },
+    {
+      "subject": "article/ieb_kooistra_fsc_2023",
+      "predicate": "about",
+      "target": "organization/fsc"
+    },
+    {
+      "subject": "article/ieb_maaldrift_fsc_2023",
+      "predicate": "author",
+      "target": "person/eduard_de_boer"
+    },
+    {
+      "subject": "article/ieb_maaldrift_fsc_2023",
+      "predicate": "publisher",
+      "target": "organization/ingenieursbureau_evan_buytendijk"
+    },
+    {
+      "subject": "article/ieb_maaldrift_fsc_2023",
+      "predicate": "about",
+      "target": "organization/fsc"
+    },
+    {
+      "subject": "article/interu_ai_supply_chain_interview",
+      "predicate": "contributor",
+      "target": "person/eduard_de_boer"
+    },
+    {
+      "subject": "article/interu_ai_supply_chain_interview",
+      "predicate": "about",
+      "target": "legislation/eudr_2023_1115"
+    },
+    {
+      "subject": "article/interu_ai_supply_chain_interview",
+      "predicate": "about",
+      "target": "defined_term/supply_chain_traceability"
+    },
+    {
+      "subject": "article/interu_ai_supply_chain_interview",
+      "predicate": "about",
+      "target": "defined_term/risk_assessment"
+    },
+    {
+      "subject": "article/interu_webinar_qa_eudr_risk_assessment",
+      "predicate": "contributor",
+      "target": "person/eduard_de_boer"
+    },
+    {
+      "subject": "article/interu_webinar_qa_eudr_risk_assessment",
+      "predicate": "about",
+      "target": "legislation/eudr_2023_1115"
+    },
+    {
+      "subject": "article/interu_webinar_qa_eudr_risk_assessment",
+      "predicate": "about",
+      "target": "defined_term/risk_assessment"
+    },
+    {
+      "subject": "article/houtwereld_waarom_zoveel_lods_nvwa_2026",
+      "predicate": "contributor",
+      "target": "person/eduard_de_boer"
+    },
+    {
+      "subject": "article/houtwereld_waarom_zoveel_lods_nvwa_2026",
+      "predicate": "about",
+      "target": "legislation/eutr_995_2010"
+    },
+    {
+      "subject": "article/houtwereld_waarom_zoveel_lods_nvwa_2026",
+      "predicate": "about",
+      "target": "defined_term/due_diligence_eutr"
+    },
+    {
+      "subject": "article/houtwereld_inventarisatie_lods_eutr_2026",
+      "predicate": "mentions",
+      "target": "person/eduard_de_boer"
+    },
+    {
+      "subject": "article/houtwereld_inventarisatie_lods_eutr_2026",
+      "predicate": "about",
+      "target": "legislation/eutr_995_2010"
+    },
+    {
+      "subject": "article/houtwereld_inventarisatie_lods_eutr_2026",
+      "predicate": "about",
+      "target": "organization/ingenieursbureau_evan_buytendijk"
+    },
+    {
+      "subject": "article/houtwereld_eudr_geolocatie_app_2024",
+      "predicate": "mentions",
+      "target": "person/eduard_de_boer"
+    },
+    {
+      "subject": "article/houtwereld_eudr_geolocatie_app_2024",
+      "predicate": "about",
+      "target": "legislation/eudr_2023_1115"
+    },
+    {
+      "subject": "article/houtwereld_eudr_geolocatie_app_2024",
+      "predicate": "about",
+      "target": "defined_term/geolocation_eudr"
+    },
+    {
+      "subject": "article/houtwereld_eudr_geolocatie_app_2024",
+      "predicate": "about",
+      "target": "organization/ingenieursbureau_evan_buytendijk"
     }
   ],
   "media": {}

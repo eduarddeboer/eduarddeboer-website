@@ -1,0 +1,24 @@
+{{- $article := .article -}}
+{{- $page := .page -}}
+{{- $topics := .topics | default (slice) -}}
+<article class="edb-archive-item" data-kg-id="{{ $article.id }}">
+  <div class="edb-archive-item__date">
+    <time datetime="{{ $article.date_published }}">
+      <span>{{ dateFormat "02" $article.date_published }}</span>
+      <strong>{{ dateFormat "Jan" $article.date_published }}</strong>
+      <small>{{ dateFormat "2006" $article.date_published }}</small>
+    </time>
+  </div>
+
+  <div class="edb-archive-item__body">
+    <div class="edb-archive-item__meta">
+      {{- with .publisher }}<span>{{ . }}</span>{{ end -}}
+      {{- range first 3 $topics }}<span>{{ . }}</span>{{ end -}}
+    </div>
+    <h2><a href="{{ $article.url }}" rel="external noopener noreferrer">{{ .title }}</a></h2>
+    {{- with .description }}<p>{{ . }}</p>{{ end -}}
+    <a class="edb-archive-item__read" href="{{ $article.url }}" rel="external noopener noreferrer">
+      {{ if eq $page.Language.Lang "nl" }}Lees publicatie{{ else }}Read publication{{ end }} <span aria-hidden="true">↗</span>
+    </a>
+  </div>
+</article>
