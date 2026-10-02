@@ -149,6 +149,50 @@ def validate_section_projections(snapshot: dict) -> dict:
                     )
                 seen_ids.add(entity_id)
 
+    # Publication archive semantics: keep authorship separate from interviews/media.
+    insights = sections.get("insights") or {}
+    insight_groups = insights.get("groups") or []
+    if len(insight_groups) < 2:
+        raise SystemExit("Insights projection must separate authored publications and media")
+
+    authored_ids = insight_groups[0].get("entities") or []
+    media_ids = insight_groups[1].get("entities") or []
+
+    for entity_id in authored_ids:
+        relations = entities[entity_id].get("relations") or []
+        if not any(
+            relation.get("predicate") == "author"
+            and relation.get("target") == "person/eduard_de_boer"
+            for relation in relations
+        ):
+            raise SystemExit(
+                f"Authored publications group contains non-authored entity {entity_id!r}"
+            )
+
+    for entity_id in media_ids:
+        relations = entities[entity_id].get("relations") or []
+        if any(
+            relation.get("predicate") == "author"
+            and relation.get("target") == "person/eduard_de_boer"
+            for relation in relations
+        ):
+            raise SystemExit(
+                f"Media group must not contain an Eduard-authored article {entity_id!r}"
+            )
+        if not any(
+            relation.get("target") == "person/eduard_de_boer"
+            and relation.get("predicate") in {"contributor", "mentions"}
+            for relation in relations
+        ):
+            raise SystemExit(
+                f"Media group lacks contributor/mentions relation for {entity_id!r}"
+            )
+
+    if len(authored_ids) < 30:
+        raise SystemExit("Current professional publication archive unexpectedly lost authored items")
+    if len(media_ids) < 4:
+        raise SystemExit("Current professional media archive unexpectedly lost contributed items")
+
     # The core public sections must all be mapped.
     required_sections = {"about", "expertise", "experience", "speaking", "insights"}
     missing = required_sections - set(sections)
