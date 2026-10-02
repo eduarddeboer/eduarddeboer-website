@@ -1,0 +1,9 @@
+.DS_Store
+.hugo_build.lock
+public/
+dist/
+resources/_gen/
+content/.obsidian/
+data/kg/*.tmp
+.env
+.dev.vars
