@@ -57,7 +57,7 @@
 .edb-hero {
   position: relative;
   display: grid;
-  grid-template-columns: minmax(0, 1.18fr) minmax(21rem, .82fr) minmax(16rem, .55fr);
+  grid-template-columns: minmax(0, 1.08fr) minmax(22rem, .92fr);
   min-height: 31rem;
   overflow: hidden;
   border: 1px solid var(--edb-line);
