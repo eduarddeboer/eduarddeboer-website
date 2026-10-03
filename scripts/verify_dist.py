@@ -113,6 +113,14 @@ def main() -> None:
     require_unified_structured_data(DIST / "en/index.html", "en")
     require_unified_structured_data(DIST / "nl/index.html", "nl")
 
+    for lang in ("en", "nl"):
+        home = (DIST / lang / "index.html").read_text(encoding="utf-8")
+        for forbidden_home_block in ("edb-summary", "edb-proof"):
+            if forbidden_home_block in home:
+                raise SystemExit(
+                    f"{lang}/index.html: obsolete homepage block {forbidden_home_block!r} returned"
+                )
+
     llms = list(DIST.rglob("llms.txt"))
     if not llms:
         raise SystemExit("No llms.txt output was generated")
