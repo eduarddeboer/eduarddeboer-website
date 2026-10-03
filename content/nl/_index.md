@@ -15,27 +15,27 @@ hero:
   secondary_label: "Lees publicaties"
   secondary_url: "/nl/insights/"
 routes:
-  - number: "01"
+  -
     title: "Expertise"
     text: "EUDR, EUTR, houtlegaliteit, due diligence en ketentraceerbaarheid."
     label: "Bekijk expertise"
     url: "/nl/expertise/"
-  - number: "02"
+  -
     title: "Publicaties"
     text: "Artikelen en analyses over wetgeving, certificering en praktische toepassing."
     label: "Naar publicaties"
     url: "/nl/insights/"
-  - number: "03"
+  -
     title: "Ervaring"
     text: "Internationale ervaring in onder meer Congo, Gabon, Ivoorkust, India, Libanon en Macedonië."
     label: "Lees meer"
     url: "/nl/experience/"
-  - number: "04"
+  -
     title: "Spreken & media"
     text: "Interviews, presentaties en deskundige toelichting over regelgeving en ketens."
     label: "Bekijk optredens"
     url: "/nl/speaking/"
-selected_publications_title: "Geselecteerde publicaties"
+selected_publications_title: "Recente publicaties"
 selected_publications_label: "Alle publicaties"
 selected_publications_url: "/nl/insights/"
 ---
