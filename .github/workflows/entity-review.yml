@@ -91,7 +91,6 @@ jobs:
         uses: actions/setup-python@v6
         with:
           python-version: "3.12"
-          cache: pip
 
       - name: Checkout private KG read-only
         uses: actions/checkout@v7
