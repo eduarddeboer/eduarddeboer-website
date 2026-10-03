@@ -28,10 +28,29 @@
                   {{- $description = index . $.Language.Lang | default (index . "nl") | default (index . "en") -}}
                 {{- end -}}
                 {{- $kgURL := printf "%sentity/%s" $base $entityID -}}
+                {{- $typeLabel := .type -}}
+                {{- if eq $.Language.Lang "nl" -}}
+                  {{- if eq .type "Legislation" }}{{ $typeLabel = "Regelgeving" }}
+                  {{- else if eq .type "DefinedTerm" }}{{ $typeLabel = "Begrip" }}
+                  {{- else if eq .type "Organization" }}{{ $typeLabel = "Organisatie" }}
+                  {{- else if eq .type "Certification" }}{{ $typeLabel = "Kwalificatie" }}
+                  {{- else if eq .type "CreativeWork" }}{{ $typeLabel = "Bron" }}
+                  {{- else if eq .type "Country" }}{{ $typeLabel = "Land" }}
+                  {{- else if eq .type "Article" }}{{ $typeLabel = "Publicatie" }}
+                  {{- else if or (eq .type "TVSeries") (eq .type "TVEpisode") }}{{ $typeLabel = "Media" }}
+                  {{- end -}}
+                {{- else -}}
+                  {{- if eq .type "DefinedTerm" }}{{ $typeLabel = "Concept" }}
+                  {{- else if eq .type "Certification" }}{{ $typeLabel = "Qualification" }}
+                  {{- else if eq .type "CreativeWork" }}{{ $typeLabel = "Source" }}
+                  {{- else if eq .type "Article" }}{{ $typeLabel = "Publication" }}
+                  {{- else if or (eq .type "TVSeries") (eq .type "TVEpisode") }}{{ $typeLabel = "Media" }}
+                  {{- end -}}
+                {{- end -}}
                 <li class="edb-context-item" data-kg-id="{{ $entityID }}">
                   <div class="edb-context-item__body">
                     <div class="edb-context-item__meta">
-                      <span>{{ .type }}</span>
+                      <span>{{ $typeLabel }}</span>
                       {{- with .date_published }}<time datetime="{{ . }}">{{ dateFormat "02-01-2006" . }}</time>{{ end -}}
                       {{- with .start_date }}<time datetime="{{ . }}">{{ dateFormat "02-01-2006" . }}</time>{{ end -}}
                     </div>
