@@ -15,27 +15,27 @@ hero:
   secondary_label: "Read publications"
   secondary_url: "/en/insights/"
 routes:
-  - number: "01"
+  -
     title: "Expertise"
     text: "EUDR, EUTR, timber legality, due diligence and supply-chain traceability."
     label: "Explore expertise"
     url: "/en/expertise/"
-  - number: "02"
+  -
     title: "Publications"
     text: "Articles and analysis on legislation, certification and practical application."
     label: "Browse publications"
     url: "/en/insights/"
-  - number: "03"
+  -
     title: "Experience"
     text: "International experience including Congo, Gabon, Côte d’Ivoire, India, Lebanon and North Macedonia."
     label: "Read more"
     url: "/en/experience/"
-  - number: "04"
+  -
     title: "Speaking & media"
     text: "Interviews, presentations and expert explanation of regulation and supply-chain issues."
     label: "View appearances"
     url: "/en/speaking/"
-selected_publications_title: "Selected publications"
+selected_publications_title: "Recent publications"
 selected_publications_label: "All publications"
 selected_publications_url: "/en/insights/"
 ---
