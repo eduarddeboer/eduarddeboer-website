@@ -7,6 +7,7 @@ enableEmoji = true
 disableHugoGeneratorInject = true
 summaryLength = 28
 timeout = "120s"
+ignoreFiles = ["_templates/"]
 
 [pagination]
   pagerSize = 12
