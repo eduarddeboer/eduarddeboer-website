@@ -281,6 +281,22 @@
       "groups": [
         {
           "title": {
+            "nl": "Professionele focus",
+            "en": "Professional focus"
+          },
+          "schema_relation": "mentions",
+          "entities": [
+            "organization/ingenieursbureau_evan_buytendijk",
+            "legislation/eudr_2023_1115",
+            "legislation/eutr_995_2010",
+            "organization/fsc",
+            "organization/pefc",
+            "defined_term/due_diligence_eudr",
+            "defined_term/supply_chain_traceability"
+          ]
+        },
+        {
+          "title": {
             "nl": "Internationale ervaring",
             "en": "International experience"
           },
