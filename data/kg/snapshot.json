@@ -38,8 +38,78 @@
         {
           "predicate": "knowsAbout",
           "target": "organization/pefc"
+        },
+        {
+          "predicate": "knowsAbout",
+          "target": "defined_term/due_diligence_eudr"
+        },
+        {
+          "predicate": "knowsAbout",
+          "target": "defined_term/due_diligence_eutr"
+        },
+        {
+          "predicate": "knowsAbout",
+          "target": "defined_term/geolocation_eudr"
+        },
+        {
+          "predicate": "knowsAbout",
+          "target": "defined_term/supply_chain_traceability"
+        },
+        {
+          "predicate": "knowsAbout",
+          "target": "defined_term/risk_assessment"
+        },
+        {
+          "predicate": "knowsAbout",
+          "target": "defined_term/auditing"
         }
-      ]
+      ],
+      "same_as": [
+        "https://www.wikidata.org/wiki/Q65610641",
+        "https://www.linkedin.com/in/eduarddeboer/",
+        "https://medium.com/@eduarddeboer",
+        "https://github.com/eduarddeboer/",
+        "https://about.me/eduarddeboer",
+        "https://www.brightlocal.com/author/eduarddeboer/",
+        "https://www.imdb.com/name/nm8412574/",
+        "https://gravatar.com/elrdeboer",
+        "https://www.allround-fotografie.com/over-ons/eduard/",
+        "https://www.reputatiecoaching.nl/over-eduard/",
+        "https://www.youtube.com/user/elrdeboer"
+      ],
+      "identifiers": [
+        {
+          "scheme": "Google Knowledge Graph ID",
+          "value": "/g/11h4q8p22c",
+          "source": "https://www.google.com/search?kgmid=/g/11h4q8p22c"
+        },
+        {
+          "scheme": "ISNI",
+          "value": "000000050261402X",
+          "source": "https://isni.org/isni/000000050261402X"
+        },
+        {
+          "scheme": "IMDb",
+          "value": "nm8412574",
+          "source": "https://www.imdb.com/name/nm8412574/"
+        },
+        {
+          "scheme": "LinkedIn personal profile ID",
+          "value": "eduarddeboer",
+          "source": "https://www.linkedin.com/in/eduarddeboer/"
+        },
+        {
+          "scheme": "GitHub username",
+          "value": "eduarddeboer",
+          "source": "https://github.com/eduarddeboer/"
+        }
+      ],
+      "image": "https://www.evanbuytendijk.nl/uploads/images/team/Eduard-de-Boer.jpg",
+      "main_entity_of_page": "https://www.evanbuytendijk.nl/team/eduard-de-boer/",
+      "job_title": {
+        "nl": "EUDR-specialist / FSC®- en PEFC-auditor",
+        "en": "EUDR specialist / FSC® and PEFC auditor"
+      }
     },
     "organization/ingenieursbureau_evan_buytendijk": {
       "id": "organization/ingenieursbureau_evan_buytendijk",
@@ -52,7 +122,67 @@
         "nl": "Nederlands advies- en ingenieursbureau voor bos, hout en houtproducten, met werkzaamheden rond certificering, audits, due diligence, advies en kennisoverdracht.",
         "en": "Dutch consulting and engineering firm focused on forests, timber and timber products, including certification support, audits, due diligence, advice and training."
       },
-      "url": "https://www.evanbuytendijk.nl/"
+      "url": "https://www.evanbuytendijk.nl/",
+      "same_as": [
+        "https://www.linkedin.com/company/ingenieursbureau-evan-buytendijk/"
+      ],
+      "identifiers": [
+        {
+          "scheme": "Kamer van Koophandel",
+          "value": "08158862",
+          "source": "https://www.evanbuytendijk.nl/over-ons/"
+        },
+        {
+          "scheme": "FSC certificate",
+          "value": "PBN-COC-029615",
+          "source": "https://www.evanbuytendijk.nl/over-ons/"
+        },
+        {
+          "scheme": "FSC trademark licence",
+          "value": "FSC-092624",
+          "source": "https://www.evanbuytendijk.nl/over-ons/"
+        },
+        {
+          "scheme": "PEFC certificate",
+          "value": "PBN-PEFC-COC-029615",
+          "source": "https://www.evanbuytendijk.nl/over-ons/"
+        },
+        {
+          "scheme": "PEFC trademark licence",
+          "value": "PEFC/30-32-236",
+          "source": "https://www.evanbuytendijk.nl/over-ons/"
+        }
+      ],
+      "main_entity_of_page": "https://www.evanbuytendijk.nl/over-ons/",
+      "legal_name": "Ingenieursbureau Evan Buytendijk B.V.",
+      "founding_date": "2007",
+      "alternate_name": {
+        "nl": "IEB",
+        "en": "IEB"
+      },
+      "alternate_names": [
+        "IEB",
+        "Evan Buytendijk BV",
+        "IEBbv"
+      ],
+      "relations": [
+        {
+          "predicate": "knowsAbout",
+          "target": "legislation/eudr_2023_1115"
+        },
+        {
+          "predicate": "knowsAbout",
+          "target": "legislation/eutr_995_2010"
+        },
+        {
+          "predicate": "knowsAbout",
+          "target": "organization/fsc"
+        },
+        {
+          "predicate": "knowsAbout",
+          "target": "organization/pefc"
+        }
+      ]
     },
     "certification/iso_19011_internal_auditor": {
       "id": "certification/iso_19011_internal_auditor",
@@ -79,7 +209,41 @@
         "nl": "Verordening (EU) 2023/1115 (EUDR)",
         "en": "Regulation (EU) 2023/1115 (EUDR)"
       },
-      "url": "https://eur-lex.europa.eu/eli/reg/2023/1115/oj"
+      "url": "https://eur-lex.europa.eu/eli/reg/2023/1115/oj",
+      "same_as": [
+        "https://data.europa.eu/eli/reg/2023/1115/oj",
+        "https://www.wikidata.org/wiki/Q128764653"
+      ],
+      "identifiers": [
+        {
+          "scheme": "CELEX",
+          "value": "32023R1115",
+          "source": "https://eur-lex.europa.eu/eli/reg/2023/1115/oj?locale=nl"
+        },
+        {
+          "scheme": "ELI",
+          "value": "https://data.europa.eu/eli/reg/2023/1115/oj",
+          "source": "https://eur-lex.europa.eu/eli/reg/2023/1115/oj?locale=nl"
+        }
+      ],
+      "legislation_date": "2023-05-31",
+      "alternate_name": {
+        "nl": "EUDR",
+        "en": "EUDR"
+      },
+      "alternate_names": [
+        "EUDR",
+        "EU Deforestation Regulation",
+        "European Union Deforestation Regulation",
+        "EU Deforestation-free Regulation",
+        "2023/1115"
+      ],
+      "relations": [
+        {
+          "predicate": "legislationRepeals",
+          "target": "legislation/eutr_995_2010"
+        }
+      ]
     },
     "legislation/eutr_995_2010": {
       "id": "legislation/eutr_995_2010",
@@ -88,7 +252,40 @@
         "nl": "Verordening (EU) nr. 995/2010 (EUTR)",
         "en": "Regulation (EU) No 995/2010 (EUTR)"
       },
-      "url": "https://eur-lex.europa.eu/eli/reg/2010/995/oj"
+      "url": "https://eur-lex.europa.eu/eli/reg/2010/995/oj",
+      "same_as": [
+        "https://data.europa.eu/eli/reg/2010/995/oj",
+        "https://www.wikidata.org/wiki/Q5454042",
+        "https://en.wikipedia.org/wiki/European_Union_Timber_Regulation",
+        "https://dbpedia.org/resource/European_Union_Timber_Regulation",
+        "https://yago-knowledge.org/resource/European_Union_Timber_Regulation"
+      ],
+      "identifiers": [
+        {
+          "scheme": "CELEX",
+          "value": "32010R0995",
+          "source": "https://eur-lex.europa.eu/eli/reg/2010/995/oj?locale=nl"
+        },
+        {
+          "scheme": "ELI",
+          "value": "https://data.europa.eu/eli/reg/2010/995/oj",
+          "source": "https://eur-lex.europa.eu/eli/reg/2010/995/oj?locale=nl"
+        },
+        {
+          "scheme": "Google Knowledge Graph ID",
+          "value": "/g/1hhzgt9f0",
+          "source": "https://www.wikidata.org/wiki/Q5454042"
+        }
+      ],
+      "legislation_date": "2010-10-20",
+      "alternate_names": [
+        "EUTR",
+        "European Union Timber Regulation",
+        "European Timber Regulation",
+        "EU Timber Regulation",
+        "Europese Houtverordening",
+        "995/2010"
+      ]
     },
     "organization/fsc": {
       "id": "organization/fsc",
@@ -101,7 +298,41 @@
         "nl": "Internationale non-profitorganisatie die normen vaststelt voor bosbeheer en ketens van bosproducten.",
         "en": "International non-profit organization that sets standards for forest management and forest-product supply chains."
       },
-      "url": "https://fsc.org/en"
+      "url": "https://fsc.org/en",
+      "same_as": [
+        "https://www.wikidata.org/wiki/Q748367",
+        "https://nl.wikipedia.org/wiki/Forest_Stewardship_Council",
+        "https://dbpedia.org/resource/Forest_Stewardship_Council"
+      ],
+      "identifiers": [
+        {
+          "scheme": "Google Knowledge Graph ID",
+          "value": "/m/03j_48",
+          "source": "https://www.wikidata.org/wiki/Q748367"
+        },
+        {
+          "scheme": "ISNI",
+          "value": "000000012034014X",
+          "source": "https://isni.org/isni/000000012034014X"
+        },
+        {
+          "scheme": "VIAF",
+          "value": "132331608",
+          "source": "https://viaf.org/viaf/132331608/"
+        },
+        {
+          "scheme": "Library of Congress",
+          "value": "no2004004581",
+          "source": "https://id.loc.gov/authorities/names/no2004004581.html"
+        }
+      ],
+      "main_entity_of_page": "https://fsc.org/en/about-us",
+      "legal_name": "Forest Stewardship Council",
+      "founding_date": "1993",
+      "alternate_names": [
+        "FSC",
+        "FSC International"
+      ]
     },
     "organization/pefc": {
       "id": "organization/pefc",
@@ -114,7 +345,35 @@
         "nl": "Internationale organisatie voor onafhankelijke boscertificering en de erkenning van nationale boscertificeringssystemen.",
         "en": "International organization supporting independent forest certification and endorsement of national forest certification systems."
       },
-      "url": "https://www.pefc.org/"
+      "url": "https://www.pefc.org/",
+      "same_as": [
+        "https://www.wikidata.org/wiki/Q2112204",
+        "https://nl.wikipedia.org/wiki/Programme_for_Endorsement_of_Forest_Certification_Schemes",
+        "https://dbpedia.org/resource/Programme_for_the_Endorsement_of_Forest_Certification"
+      ],
+      "identifiers": [
+        {
+          "scheme": "Freebase ID",
+          "value": "/m/07t8vl",
+          "source": "https://www.wikidata.org/wiki/Q2112204"
+        },
+        {
+          "scheme": "EU Transparency Register",
+          "value": "600488317698-58",
+          "source": "https://www.wikidata.org/wiki/Q2112204"
+        },
+        {
+          "scheme": "UK Parliament thesaurus",
+          "value": "62133",
+          "source": "https://www.wikidata.org/wiki/Q2112204"
+        }
+      ],
+      "legal_name": "Programme for the Endorsement of Forest Certification",
+      "founding_date": "1999",
+      "alternate_names": [
+        "PEFC International",
+        "Programme for the Endorsement of Forest Certification"
+      ]
     },
     "defined_term/due_diligence_eudr": {
       "id": "defined_term/due_diligence_eudr",
@@ -261,7 +520,75 @@
       "description": {
         "nl": "Republiek Congo in Centraal-Afrika.",
         "en": "The Republic of the Congo in Central Africa."
-      }
+      },
+      "same_as": [
+        "https://www.wikidata.org/wiki/Q971",
+        "https://dbpedia.org/resource/Republic_of_the_Congo",
+        "https://kbpedia.org/knowledge-graph/reference-concept/?uri=Congo-Brazzaville",
+        "https://nl.wikipedia.org/wiki/Congo-Brazzaville"
+      ],
+      "identifiers": [
+        {
+          "scheme": "ISO 3166-1 alpha-2",
+          "value": "CG",
+          "source": "https://www.iso.org/obp/ui/#iso:code:3166:CG"
+        },
+        {
+          "scheme": "ISO 3166-1 alpha-3",
+          "value": "COG",
+          "source": "https://www.iso.org/obp/ui/#iso:code:3166:CG"
+        },
+        {
+          "scheme": "ISO 3166-1 numeric",
+          "value": "178",
+          "source": "https://www.iso.org/obp/ui/#iso:code:3166:CG"
+        },
+        {
+          "scheme": "Google Knowledge Graph ID",
+          "value": "/m/01rxw",
+          "source": "https://g.co/kg/m/01rxw"
+        },
+        {
+          "scheme": "EuroVoc",
+          "value": "111",
+          "source": "https://eurovoc.europa.eu/111"
+        },
+        {
+          "scheme": "ISNI",
+          "value": "0000000123242385",
+          "source": "https://isni.org/isni/0000000123242385"
+        },
+        {
+          "scheme": "GeoNames",
+          "value": "2260494",
+          "source": "https://www.geonames.org/2260494/republic-of-the-congo.html"
+        },
+        {
+          "scheme": "OpenStreetMap",
+          "value": "relation/192794",
+          "source": "https://www.openstreetmap.org/relation/192794"
+        },
+        {
+          "scheme": "UNESCO Thesaurus",
+          "value": "concept701",
+          "source": "https://vocabularies.unesco.org/thesaurus/concept701"
+        },
+        {
+          "scheme": "Getty TGN",
+          "value": "1000158",
+          "source": "https://vocab.getty.edu/tgn/1000158"
+        },
+        {
+          "scheme": "UN Thesaurus",
+          "value": "1001232",
+          "source": "https://metadata.un.org/thesaurus/1001232"
+        }
+      ],
+      "main_entity_of_page": "https://nl.wikipedia.org/wiki/Congo-Brazzaville",
+      "alternate_names": [
+        "Congo",
+        "Republiek Congo"
+      ]
     },
     "country/gabon": {
       "id": "country/gabon",
@@ -273,7 +600,79 @@
       "description": {
         "nl": "Land in Centraal-Afrika aan de Atlantische Oceaan.",
         "en": "Country in Central Africa on the Atlantic Ocean."
-      }
+      },
+      "same_as": [
+        "https://www.wikidata.org/wiki/Q1000",
+        "https://dbpedia.org/resource/Gabon",
+        "https://kbpedia.org/knowledge-graph/reference-concept/?uri=Gabon",
+        "https://nl.wikipedia.org/wiki/Gabon"
+      ],
+      "identifiers": [
+        {
+          "scheme": "ISO 3166-1 alpha-2",
+          "value": "GA",
+          "source": "https://www.iso.org/obp/ui/#iso:code:3166:GA"
+        },
+        {
+          "scheme": "ISO 3166-1 alpha-3",
+          "value": "GAB",
+          "source": "https://www.iso.org/obp/ui/#iso:code:3166:GA"
+        },
+        {
+          "scheme": "ISO 3166-1 numeric",
+          "value": "266",
+          "source": "https://www.iso.org/obp/ui/#iso:code:3166:GA"
+        },
+        {
+          "scheme": "Google Knowledge Graph ID",
+          "value": "/m/03548",
+          "source": "https://www.google.com/search?kgmid=/m/03548"
+        },
+        {
+          "scheme": "ISNI",
+          "value": "0000000121956165",
+          "source": "https://isni.org/isni/0000000121956165"
+        },
+        {
+          "scheme": "BabelNet",
+          "value": "bn:00036978n",
+          "source": "https://babelnet.org/synset?id=bn:00036978n&lang=NL"
+        },
+        {
+          "scheme": "EuroVoc",
+          "value": "1124",
+          "source": "https://eurovoc.europa.eu/1124"
+        },
+        {
+          "scheme": "GeoNames",
+          "value": "2400553",
+          "source": "https://www.geonames.org/2400553/gabonese-republic.html"
+        },
+        {
+          "scheme": "Getty TGN",
+          "value": "1000164",
+          "source": "https://vocab.getty.edu/tgn/1000164"
+        },
+        {
+          "scheme": "OpenStreetMap",
+          "value": "relation/192793",
+          "source": "https://www.openstreetmap.org/relation/192793"
+        },
+        {
+          "scheme": "UNESCO Thesaurus",
+          "value": "concept710",
+          "source": "https://vocabularies.unesco.org/thesaurus/concept710"
+        },
+        {
+          "scheme": "UN Thesaurus",
+          "value": "1002578",
+          "source": "https://metadata.un.org/thesaurus/1002578"
+        }
+      ],
+      "main_entity_of_page": "https://nl.wikipedia.org/wiki/Gabon",
+      "alternate_names": [
+        "Republiek Gabon"
+      ]
     },
     "country/ivoorkust": {
       "id": "country/ivoorkust",
@@ -297,7 +696,64 @@
       "description": {
         "nl": "Land in Zuid-Azië.",
         "en": "Country in South Asia."
-      }
+      },
+      "same_as": [
+        "https://www.wikidata.org/wiki/Q668",
+        "https://kbpedia.org/kko/rc/India",
+        "https://dbpedia.org/resource/India",
+        "https://nl.wikipedia.org/wiki/India"
+      ],
+      "identifiers": [
+        {
+          "scheme": "ISO 3166-1 alpha-2",
+          "value": "IN",
+          "source": "https://www.iso.org/obp/ui/#iso:code:3166:IN"
+        },
+        {
+          "scheme": "ISO 3166-1 alpha-3",
+          "value": "IND",
+          "source": "https://www.iso.org/obp/ui/#iso:code:3166:IN"
+        },
+        {
+          "scheme": "ISO 3166-1 numeric",
+          "value": "356",
+          "source": "https://www.iso.org/obp/ui/#iso:code:3166:IN"
+        },
+        {
+          "scheme": "Google Knowledge Graph ID",
+          "value": "/m/03rk0",
+          "source": "https://www.google.com/search?kgmid=/m/03rk0"
+        },
+        {
+          "scheme": "OCLC WorldCat Entity",
+          "value": "E39PBJmdx47cDXrRhBXHtbvPwC",
+          "source": "https://id.oclc.org/worldcat/entity/E39PBJmdx47cDXrRhBXHtbvPwC"
+        },
+        {
+          "scheme": "BabelNet",
+          "value": "bn:00010203n",
+          "source": "https://babelnet.org/synset?id=bn:00010203n&lang=NL"
+        },
+        {
+          "scheme": "EuroVoc",
+          "value": "1338",
+          "source": "https://eurovoc.europa.eu/1338"
+        },
+        {
+          "scheme": "UNESCO Thesaurus",
+          "value": "concept12233",
+          "source": "https://vocabularies.unesco.org/thesaurus/concept12233"
+        },
+        {
+          "scheme": "UN Thesaurus",
+          "value": "1003097",
+          "source": "https://metadata.un.org/thesaurus/1003097"
+        }
+      ],
+      "main_entity_of_page": "https://nl.wikipedia.org/wiki/India",
+      "alternate_names": [
+        "Republiek India"
+      ]
     },
     "country/libanon": {
       "id": "country/libanon",
@@ -1643,9 +2099,64 @@
       "target": "organization/pefc"
     },
     {
+      "subject": "person/eduard_de_boer",
+      "predicate": "knowsAbout",
+      "target": "defined_term/due_diligence_eudr"
+    },
+    {
+      "subject": "person/eduard_de_boer",
+      "predicate": "knowsAbout",
+      "target": "defined_term/due_diligence_eutr"
+    },
+    {
+      "subject": "person/eduard_de_boer",
+      "predicate": "knowsAbout",
+      "target": "defined_term/geolocation_eudr"
+    },
+    {
+      "subject": "person/eduard_de_boer",
+      "predicate": "knowsAbout",
+      "target": "defined_term/supply_chain_traceability"
+    },
+    {
+      "subject": "person/eduard_de_boer",
+      "predicate": "knowsAbout",
+      "target": "defined_term/risk_assessment"
+    },
+    {
+      "subject": "person/eduard_de_boer",
+      "predicate": "knowsAbout",
+      "target": "defined_term/auditing"
+    },
+    {
+      "subject": "organization/ingenieursbureau_evan_buytendijk",
+      "predicate": "knowsAbout",
+      "target": "legislation/eudr_2023_1115"
+    },
+    {
+      "subject": "organization/ingenieursbureau_evan_buytendijk",
+      "predicate": "knowsAbout",
+      "target": "legislation/eutr_995_2010"
+    },
+    {
+      "subject": "organization/ingenieursbureau_evan_buytendijk",
+      "predicate": "knowsAbout",
+      "target": "organization/fsc"
+    },
+    {
+      "subject": "organization/ingenieursbureau_evan_buytendijk",
+      "predicate": "knowsAbout",
+      "target": "organization/pefc"
+    },
+    {
       "subject": "certification/iso_19011_internal_auditor",
       "predicate": "about",
       "target": "person/eduard_de_boer"
+    },
+    {
+      "subject": "legislation/eudr_2023_1115",
+      "predicate": "legislationRepeals",
+      "target": "legislation/eutr_995_2010"
     },
     {
       "subject": "article/linkedin_eudr_taric_codes_2026",
