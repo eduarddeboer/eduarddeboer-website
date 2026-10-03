@@ -9,6 +9,7 @@ ROOT = Path(__file__).resolve().parents[1]
 SNAPSHOT = ROOT / "data/kg/snapshot.json"
 SECTIONS = ROOT / "data/kg/sections.json"
 CONTENT = ROOT / "content"
+AUTHORING_TEMPLATE_DIR = CONTENT / "_templates"
 
 WIKILINK = re.compile(r"\[\[[^\]\n]+\]\]")
 KG_REF = re.compile(r"^kgRef:\s*[\"']?([^\"'\s#]+)", re.MULTILINE)
@@ -352,13 +353,33 @@ def validate_section_projections(snapshot: dict) -> dict:
     return data
 
 
+def is_authoring_template(path: Path) -> bool:
+    try:
+        path.relative_to(AUTHORING_TEMPLATE_DIR)
+        return True
+    except ValueError:
+        return False
+
+
+def content_markdown_files() -> list[Path]:
+    return sorted(
+        path
+        for path in CONTENT.rglob("*.md")
+        if not is_authoring_template(path)
+    )
+
+
 def public_text_files() -> list[Path]:
     files: set[Path] = set()
     for root in PUBLIC_TEXT_ROOTS:
         if not root.exists():
             continue
         for path in root.rglob("*"):
-            if path.is_file() and path.suffix.lower() in PUBLIC_TEXT_SUFFIXES:
+            if (
+                path.is_file()
+                and path.suffix.lower() in PUBLIC_TEXT_SUFFIXES
+                and not is_authoring_template(path)
+            ):
                 files.add(path)
     return sorted(files)
 
@@ -389,7 +410,8 @@ def main() -> None:
     entities = snapshot["entities"]
     problems: list[str] = []
 
-    for path in sorted(CONTENT.rglob("*.md")):
+    content_files = content_markdown_files()
+    for path in content_files:
         text = path.read_text(encoding="utf-8")
         rel = path.relative_to(ROOT)
         if WIKILINK.search(text):
@@ -421,7 +443,7 @@ def main() -> None:
 
     print(
         f"Validated content and KG snapshot: "
-        f"{len(list(CONTENT.rglob('*.md')))} Markdown files, "
+        f"{len(content_files)} published-content Markdown files, "
         f"{len(entities)} projected entities across "
         f"{len(section_data['sections'])} website sections; "
         f"claim and FSC® guardrails passed"

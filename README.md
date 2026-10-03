@@ -24,9 +24,12 @@ Commands:
     node --test tests/edge-worker.test.mjs
     python3 scripts/build.py
     python3 scripts/verify_dist.py
+    python3 scripts/archive_article_urls.py --list-only --output /tmp/wayback-inventory.json
 
-For authoring, open the `content/` directory as an Obsidian vault. Use normal Markdown links rather than Obsidian-only wikilinks so the source remains portable.
+For authoring, open the `content/` directory as an Obsidian vault. Use normal Markdown links rather than Obsidian-only wikilinks so the source remains portable. Shared Templater templates live in `content/_templates/`; see `docs/obsidian-authoring.md`.
 
 Public copy also follows `CONTENT_POLICY.md`. The validator enforces selected environmental-claim guardrails and requires the public trademark form `FSC®`.
 
 See `ARCHITECTURE.md` for the source-of-truth rules and deployment model.
+
+Article source URLs can be preserved with the Wayback workflow described in `docs/wayback-archiving.md`.
