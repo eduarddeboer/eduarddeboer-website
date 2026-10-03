@@ -176,7 +176,11 @@ Je hoeft niet bij iedere verwerking exact dezelfde eenheid terug te vinden. Hout
 
 Maar er moet wel een verklaarbare materiaalstroom zijn.
 
-Als 20 m³ grondstof zonder uitleg 28 m³ eindproduct wordt, helpt een nette leveranciersverklaring je niet veel verder.
+Bij een zagerij kijk ik daarom niet alleen naar het volume van het exportproduct. Van dezelfde stammen kan naast A- of exportkwaliteit ook hout van lagere kwaliteit ontstaan dat lokaal wordt verkocht. Daarnaast heb je zaagverlies, afkortingen, zaagsel en andere residuen. De optelsom hoeft niet op de millimeter nauwkeurig te zijn, maar het verhaal moet fysiek wel kunnen kloppen.
+
+Juist daarom kan een onwaarschijnlijk hoog rendement zo'n nuttig alarmsignaal zijn. Als 25,9 m³ rondhout volgens de administratie 22,4 m³ A-kwaliteit exporthout oplevert, wil ik eerst begrijpen hoe dat kan voordat ik die cijfers als bewijs in een risicobeoordeling gebruik.
+
+Als 20 m³ grondstof zonder uitleg 28 m³ eindproduct wordt, helpt een nette leveranciersverklaring je vanzelfsprekend ook niet veel verder.
 
 ### Bewijst het legaliteits- en ontbossingsbewijs wat je denkt dat het bewijst?
 
