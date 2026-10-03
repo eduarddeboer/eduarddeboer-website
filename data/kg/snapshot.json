@@ -1185,6 +1185,10 @@
       "start_date": "2026-10-01",
       "relations": [
         {
+          "predicate": "organizer",
+          "target": "organization/houtwereld"
+        },
+        {
           "predicate": "contributor",
           "target": "person/eduard_de_boer"
         },
@@ -1205,7 +1209,37 @@
         "nl": "Houtwereld-sprekersprofiel waarin Eduard de Boer wordt beschreven als EUTR/EUDR-specialist en FSC®/PEFC-auditor.",
         "en": "Houtwereld speaker profile describing Eduard de Boer as an EUTR/EUDR specialist and FSC®/PEFC auditor."
       },
-      "url": "https://www.houtwereld.nl/houtwereld-praktijkdag-2026/sprekers/eduard-de-boer/"
+      "url": "https://www.houtwereld.nl/houtwereld-praktijkdag-2026/sprekers/eduard-de-boer/",
+      "relations": [
+        {
+          "predicate": "publisher",
+          "target": "organization/houtwereld"
+        },
+        {
+          "predicate": "about",
+          "target": "person/eduard_de_boer"
+        },
+        {
+          "predicate": "about",
+          "target": "event/houtwereld_praktijkdag_2026"
+        },
+        {
+          "predicate": "mentions",
+          "target": "legislation/eutr_995_2010"
+        },
+        {
+          "predicate": "mentions",
+          "target": "legislation/eudr_2023_1115"
+        },
+        {
+          "predicate": "mentions",
+          "target": "organization/fsc"
+        },
+        {
+          "predicate": "mentions",
+          "target": "organization/pefc"
+        }
+      ]
     },
     "event/interu_eudr_risk_assessment_webinar": {
       "id": "event/interu_eudr_risk_assessment_webinar",
@@ -1219,7 +1253,25 @@
         "en": "Interu webinar held on 3 July 2025 on practical EUDR risk assessment and third-party field audits, featuring Eduard de Boer as an external EUDR expert."
       },
       "url": "https://app.livestorm.co/iov42-interu/eudr-compliance-performing-effective-risk-assessments",
-      "start_date": "2025-07-03"
+      "start_date": "2025-07-03",
+      "relations": [
+        {
+          "predicate": "contributor",
+          "target": "person/eduard_de_boer"
+        },
+        {
+          "predicate": "about",
+          "target": "legislation/eudr_2023_1115"
+        },
+        {
+          "predicate": "about",
+          "target": "defined_term/risk_assessment"
+        },
+        {
+          "predicate": "about",
+          "target": "defined_term/auditing"
+        }
+      ]
     },
     "tv_series/de_rijdende_rechter": {
       "id": "tv_series/de_rijdende_rechter",
@@ -2307,6 +2359,20 @@
           "target": "organization/ingenieursbureau_evan_buytendijk"
         }
       ]
+    },
+    "organization/houtwereld": {
+      "id": "organization/houtwereld",
+      "type": "Organization",
+      "name": {
+        "nl": "Houtwereld",
+        "en": "Houtwereld"
+      },
+      "description": {
+        "nl": "Vakmedium voor de Nederlandse houtbranche, gericht op handel, industrie, bouw, regelgeving, techniek en marktontwikkelingen.",
+        "en": "Trade publication for the Dutch timber sector, covering trade, industry, construction, regulation, technology and market developments."
+      },
+      "url": "https://www.houtwereld.nl/",
+      "main_entity_of_page": "https://www.houtwereld.nl/"
     }
   },
   "relations": [
@@ -2537,6 +2603,11 @@
     },
     {
       "subject": "event/houtwereld_praktijkdag_2026",
+      "predicate": "organizer",
+      "target": "organization/houtwereld"
+    },
+    {
+      "subject": "event/houtwereld_praktijkdag_2026",
       "predicate": "contributor",
       "target": "person/eduard_de_boer"
     },
@@ -2544,6 +2615,61 @@
       "subject": "event/houtwereld_praktijkdag_2026",
       "predicate": "about",
       "target": "legislation/eudr_2023_1115"
+    },
+    {
+      "subject": "creative_work/houtwereld_speaker_profile_eduard_de_boer_2026",
+      "predicate": "publisher",
+      "target": "organization/houtwereld"
+    },
+    {
+      "subject": "creative_work/houtwereld_speaker_profile_eduard_de_boer_2026",
+      "predicate": "about",
+      "target": "person/eduard_de_boer"
+    },
+    {
+      "subject": "creative_work/houtwereld_speaker_profile_eduard_de_boer_2026",
+      "predicate": "about",
+      "target": "event/houtwereld_praktijkdag_2026"
+    },
+    {
+      "subject": "creative_work/houtwereld_speaker_profile_eduard_de_boer_2026",
+      "predicate": "mentions",
+      "target": "legislation/eutr_995_2010"
+    },
+    {
+      "subject": "creative_work/houtwereld_speaker_profile_eduard_de_boer_2026",
+      "predicate": "mentions",
+      "target": "legislation/eudr_2023_1115"
+    },
+    {
+      "subject": "creative_work/houtwereld_speaker_profile_eduard_de_boer_2026",
+      "predicate": "mentions",
+      "target": "organization/fsc"
+    },
+    {
+      "subject": "creative_work/houtwereld_speaker_profile_eduard_de_boer_2026",
+      "predicate": "mentions",
+      "target": "organization/pefc"
+    },
+    {
+      "subject": "event/interu_eudr_risk_assessment_webinar",
+      "predicate": "contributor",
+      "target": "person/eduard_de_boer"
+    },
+    {
+      "subject": "event/interu_eudr_risk_assessment_webinar",
+      "predicate": "about",
+      "target": "legislation/eudr_2023_1115"
+    },
+    {
+      "subject": "event/interu_eudr_risk_assessment_webinar",
+      "predicate": "about",
+      "target": "defined_term/risk_assessment"
+    },
+    {
+      "subject": "event/interu_eudr_risk_assessment_webinar",
+      "predicate": "about",
+      "target": "defined_term/auditing"
     },
     {
       "subject": "tv_episode/door_het_stof_rijdende_rechter",
