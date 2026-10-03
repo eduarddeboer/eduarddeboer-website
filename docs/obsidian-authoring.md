@@ -81,6 +81,12 @@ nl/insights/example/
 
 Do not paste third-party iframe or script embeds into Markdown. Use the site's privacy-preserving media patterns instead.
 
+## Writing voice
+
+Before drafting or substantially editing public prose, use [writing-voice.md](writing-voice.md) as the editorial reference.
+
+The guide is deliberately separate from templates: templates define structure, while the writing-voice guide defines how Eduard's prose should sound and reason. Do not force the prose into a template-driven cadence when the subject needs a more natural narrative or investigative structure.
+
 ## Recommended editing cycle
 
 Before starting:
