@@ -92,20 +92,48 @@ jobs:
         with:
           python-version: "3.12"
 
+      - name: Detect private KG credential
+        id: kg_access
+        shell: bash
+        env:
+          KG_READ_TOKEN: ${{ secrets.KG_READ_TOKEN }}
+        run: |
+          if [[ -n "$KG_READ_TOKEN" ]]; then
+            echo "enabled=true" >> "$GITHUB_OUTPUT"
+          else
+            echo "enabled=false" >> "$GITHUB_OUTPUT"
+          fi
+
       - name: Checkout private KG read-only
+        if: steps.kg_access.outputs.enabled == 'true'
         uses: actions/checkout@v7
         with:
           repository: eduarddeboer/eduarddeboer-kg
           ref: main
           path: _kg
-          token: ${{ secrets.KG_READ_TOKEN || secrets.RUNNER_ROUTER_TOKEN }}
+          token: ${{ secrets.KG_READ_TOKEN }}
           persist-credentials: false
 
       - name: Install resolver dependency
+        if: steps.kg_access.outputs.enabled == 'true'
         run: python -m pip install PyYAML==6.0.3
+
+      - name: Explain inactive private KG review
+        if: steps.kg_access.outputs.enabled != 'true'
+        shell: bash
+        run: |
+          {
+            echo "## Entity review"
+            echo
+            echo "De private KG-review is nog niet geactiveerd: repository secret `KG_READ_TOKEN` ontbreekt."
+            echo "De gewone website-validatie blijft volledig actief."
+            echo
+            echo "Voeg een fine-grained token toe met uitsluitend Contents: Read op `eduarddeboer/eduarddeboer-kg`."
+          } >> "$GITHUB_STEP_SUMMARY"
 
       - name: Review changed Markdown
         id: review
+        if: steps.kg_access.outputs.enabled == 'true'
         shell: bash
         run: |
           set +e
