@@ -54,11 +54,13 @@ Preferred long-term configuration:
 - repository access: only `eduarddeboer/eduarddeboer-kg`;
 - permission: **Contents: Read** only.
 
-During bridge step 2, the workflow can fall back to the already configured
-`RUNNER_ROUTER_TOKEN` so the integration can be exercised without blocking the
-rollout. The checkout uses `persist-credentials: false`. Bridge step 4 will
-replace this compatibility path with a dedicated least-privilege cross-repository
-credential/orchestration mechanism.
+The workflow deliberately does not reuse `RUNNER_ROUTER_TOKEN` for KG content.
+If `KG_READ_TOKEN` is absent, the private-KG review is reported as not yet
+configured and is skipped without weakening the ordinary website validation.
+The checkout uses `persist-credentials: false`.
+
+Bridge step 4 can replace the PAT with a dedicated GitHub App or equivalent
+least-privilege cross-repository orchestration mechanism.
 
 ## Relationship with the pinned website snapshot
 
