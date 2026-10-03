@@ -93,7 +93,9 @@ class EntityReviewTests(unittest.TestCase):
             workflow,
         )
         self.assertIn("repository: eduarddeboer/eduarddeboer-kg", workflow)
-        self.assertIn("secrets.KG_READ_TOKEN || secrets.RUNNER_ROUTER_TOKEN", workflow)
+        self.assertIn("Detect private KG credential", workflow)
+        self.assertIn("token: ${{ secrets.KG_READ_TOKEN }}", workflow)
+        self.assertNotIn("secrets.KG_READ_TOKEN || secrets.RUNNER_ROUTER_TOKEN", workflow)
         self.assertGreaterEqual(workflow.count("persist-credentials: false"), 2)
         self.assertIn("website-entity-review-", workflow)
         self.assertNotIn("entity-review-raw", workflow)
