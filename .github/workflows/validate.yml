@@ -117,6 +117,9 @@ jobs:
       - name: Validate source contracts
         run: python3 scripts/validate.py
 
+      - name: Test entity-review privacy contract
+        run: python3 tests/test_entity_review.py
+
       - name: Validate Wayback URL inventory
         run: python3 scripts/archive_article_urls.py --list-only --output /tmp/wayback-inventory.json
 
