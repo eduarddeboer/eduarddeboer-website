@@ -21,7 +21,12 @@
             "organization/ingenieursbureau_evan_buytendijk",
             "certification/iso_19011_internal_auditor"
           ],
-          "schema_relation": "mentions"
+          "schema_relation": "mentions",
+          "selection_basis": "visible_claim",
+          "selection_note": {
+            "nl": "Werkgever en auditkwalificatie worden expliciet genoemd in de profieltekst.",
+            "en": "Employer and audit qualification are explicitly stated in the profile copy."
+          }
         },
         {
           "title": {
@@ -32,9 +37,18 @@
             "legislation/eudr_2023_1115",
             "legislation/eutr_995_2010",
             "organization/fsc",
-            "organization/pefc"
+            "organization/pefc",
+            "defined_term/due_diligence_eudr",
+            "defined_term/due_diligence_eutr",
+            "defined_term/supply_chain_traceability",
+            "defined_term/auditing"
           ],
-          "schema_relation": "mentions"
+          "schema_relation": "mentions",
+          "selection_basis": "visible_claim",
+          "selection_note": {
+            "nl": "Deze onderwerpen worden expliciet genoemd als huidige inhoudelijke focus en werkwijze.",
+            "en": "These subjects are explicitly stated as current professional focus and working method."
+          }
         }
       ],
       "schema": {
@@ -61,7 +75,12 @@
             "legislation/eudr_2023_1115",
             "legislation/eutr_995_2010"
           ],
-          "schema_relation": "about"
+          "schema_relation": "about",
+          "selection_basis": "visible_claim",
+          "selection_note": {
+            "nl": "Beide verordeningen hebben een eigen inhoudelijke sectie op de pagina.",
+            "en": "Both regulations have their own substantive section on the page."
+          }
         },
         {
           "title": {
@@ -71,12 +90,17 @@
           "entities": [
             "defined_term/due_diligence_eudr",
             "defined_term/due_diligence_eutr",
-            "defined_term/geolocation_eudr",
             "defined_term/supply_chain_traceability",
             "defined_term/risk_assessment",
-            "defined_term/auditing"
+            "defined_term/auditing",
+            "certification/iso_19011_internal_auditor"
           ],
-          "schema_relation": "about"
+          "schema_relation": "about",
+          "selection_basis": "visible_claim",
+          "selection_note": {
+            "nl": "Deze begrippen en auditkwalificatie komen rechtstreeks terug in de expertisebeschrijving.",
+            "en": "These concepts and the audit qualification are stated directly in the expertise copy."
+          }
         },
         {
           "title": {
@@ -91,7 +115,12 @@
             "organization/pefc",
             "creative_work/fsc_regulatory_module_2024"
           ],
-          "schema_relation": "mentions"
+          "schema_relation": "mentions",
+          "selection_basis": "primary_context",
+          "selection_note": {
+            "nl": "Dit zijn primaire of institutionele bronnen die de beschreven expertise rechtstreeks kaderen.",
+            "en": "These are primary or institutional sources that directly frame the expertise described."
+          }
         }
       ],
       "schema": {
@@ -110,6 +139,28 @@
       "groups": [
         {
           "title": {
+            "nl": "Professionele context",
+            "en": "Professional context"
+          },
+          "entities": [
+            "organization/ingenieursbureau_evan_buytendijk",
+            "legislation/eudr_2023_1115",
+            "legislation/eutr_995_2010",
+            "defined_term/due_diligence_eudr",
+            "defined_term/due_diligence_eutr",
+            "defined_term/supply_chain_traceability",
+            "defined_term/auditing",
+            "certification/iso_19011_internal_auditor"
+          ],
+          "schema_relation": "mentions",
+          "selection_basis": "visible_claim",
+          "selection_note": {
+            "nl": "Deze regels, methoden en kwalificatie worden expliciet genoemd in de ervaringspagina.",
+            "en": "These regulations, methods and qualification are explicitly stated on the experience page."
+          }
+        },
+        {
+          "title": {
             "nl": "Landenervaring",
             "en": "Country experience"
           },
@@ -121,19 +172,29 @@
             "country/libanon",
             "country/noord_macedonie"
           ],
-          "schema_relation": "mentions"
+          "schema_relation": "mentions",
+          "selection_basis": "visible_claim",
+          "selection_note": {
+            "nl": "Alle landen worden expliciet in de publieke ervaringsbeschrijving genoemd.",
+            "en": "All countries are explicitly named in the public experience description."
+          }
         },
         {
           "title": {
-            "nl": "Geselecteerde auditpublicaties",
-            "en": "Selected audit publications"
+            "nl": "Openbare praktijkvoorbeelden",
+            "en": "Public practice examples"
           },
           "entities": [
             "article/ieb_eutr_supplier_audit_congo_2022",
             "article/ieb_eutr_supplier_audit_india_2023",
             "article/ieb_eutr_audit_lebanon_2023"
           ],
-          "schema_relation": "mentions"
+          "schema_relation": "mentions",
+          "selection_basis": "primary_context",
+          "selection_note": {
+            "nl": "Deze openbare publicaties onderbouwen concrete auditervaring zonder vertrouwelijke klantinformatie te tonen.",
+            "en": "These public publications substantiate concrete audit experience without exposing confidential client information."
+          }
         }
       ],
       "schema": {
@@ -163,7 +224,12 @@
           ],
           "schema_relation": "hasPart",
           "item_list": true,
-          "schema_id": "professional-speaking"
+          "schema_id": "professional-speaking",
+          "selection_basis": "visible_collection",
+          "selection_note": {
+            "nl": "De gebeurtenissen en profielen worden als concrete vakinhoudelijke bijdragen op deze pagina getoond.",
+            "en": "The events and profiles are shown as concrete professional contributions on this page."
+          }
         },
         {
           "title": {
@@ -180,7 +246,12 @@
           ],
           "schema_relation": "hasPart",
           "item_list": true,
-          "schema_id": "historical-media"
+          "schema_id": "historical-media",
+          "selection_basis": "visible_collection",
+          "selection_note": {
+            "nl": "De serie en afleveringen worden als concrete historische mediaoptredens op deze pagina getoond.",
+            "en": "The series and episodes are shown as concrete historical media appearances on this page."
+          }
         }
       ],
       "schema": {
@@ -241,7 +312,12 @@
           "schema_relation": "hasPart",
           "item_list": true,
           "item_list_order": "https://schema.org/ItemListOrderDescending",
-          "schema_id": "authored-publications"
+          "schema_id": "authored-publications",
+          "selection_basis": "visible_collection",
+          "selection_note": {
+            "nl": "Dit zijn publicaties met Eduard de Boer als expliciete auteur.",
+            "en": "These publications explicitly identify Eduard de Boer as author."
+          }
         },
         {
           "title": {
@@ -258,7 +334,12 @@
           "schema_relation": "hasPart",
           "item_list": true,
           "item_list_order": "https://schema.org/ItemListOrderDescending",
-          "schema_id": "interviews-and-media"
+          "schema_id": "interviews-and-media",
+          "selection_basis": "visible_collection",
+          "selection_note": {
+            "nl": "Dit zijn vakmedia waarin Eduard de Boer contributor, bron of geïnterviewde is, maar niet de auteur.",
+            "en": "These are industry-media items in which Eduard de Boer is a contributor, source or interviewee, but not the author."
+          }
         }
       ],
       "schema": {
@@ -293,7 +374,12 @@
             "organization/pefc",
             "defined_term/due_diligence_eudr",
             "defined_term/supply_chain_traceability"
-          ]
+          ],
+          "selection_basis": "visible_claim",
+          "selection_note": {
+            "nl": "Deze entiteiten komen rechtstreeks terug in de positionering en routekaarten op de homepage.",
+            "en": "These entities are stated directly in the homepage positioning and route cards."
+          }
         },
         {
           "title": {
@@ -308,7 +394,12 @@
             "country/india",
             "country/libanon",
             "country/noord_macedonie"
-          ]
+          ],
+          "selection_basis": "visible_claim",
+          "selection_note": {
+            "nl": "Deze landen worden expliciet genoemd in de route naar internationale ervaring.",
+            "en": "These countries are explicitly named in the route to international experience."
+          }
         }
       ]
     }
