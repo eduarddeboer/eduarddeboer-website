@@ -1,22 +1,9 @@
 {
   "schema_version": 1,
-  "source_commit": "30ca8ad502e9bf22cb95262d0c80f13037fbac58",
   "sections": {
     "about": {
-      "title": {
-        "nl": "Professionele context",
-        "en": "Professional context"
-      },
-      "intro": {
-        "nl": "Deze selectie volgt rechtstreeks uit de inhoud van deze pagina: huidige rol, kwalificaties en vakgebieden.",
-        "en": "This selection follows directly from the content of this page: current role, qualifications and professional focus."
-      },
       "groups": [
         {
-          "title": {
-            "nl": "Huidige professionele context",
-            "en": "Current professional context"
-          },
           "entities": [
             "organization/ingenieursbureau_evan_buytendijk",
             "certification/iso_19011_internal_auditor"
@@ -24,15 +11,15 @@
           "schema_relation": "mentions",
           "selection_basis": "visible_claim",
           "selection_note": {
-            "nl": "Werkgever en auditkwalificatie worden expliciet genoemd in de profieltekst.",
-            "en": "Employer and audit qualification are explicitly stated in the profile copy."
+            "en": "Employer and audit qualification are explicitly stated in the profile copy.",
+            "nl": "Werkgever en auditkwalificatie worden expliciet genoemd in de profieltekst."
+          },
+          "title": {
+            "en": "Current professional context",
+            "nl": "Huidige professionele context"
           }
         },
         {
-          "title": {
-            "nl": "Inhoudelijke focus",
-            "en": "Professional focus"
-          },
           "entities": [
             "legislation/eudr_2023_1115",
             "legislation/eutr_995_2010",
@@ -46,102 +33,31 @@
           "schema_relation": "mentions",
           "selection_basis": "visible_claim",
           "selection_note": {
-            "nl": "Deze onderwerpen worden expliciet genoemd als huidige inhoudelijke focus en werkwijze.",
-            "en": "These subjects are explicitly stated as current professional focus and working method."
+            "en": "These subjects are explicitly stated as current professional focus and working method.",
+            "nl": "Deze onderwerpen worden expliciet genoemd als huidige inhoudelijke focus en werkwijze."
+          },
+          "title": {
+            "en": "Professional focus",
+            "nl": "Inhoudelijke focus"
           }
         }
       ],
-      "schema": {
-        "page_type": "AboutPage",
-        "main_entity": "person/eduard_de_boer"
-      }
-    },
-    "expertise": {
-      "title": {
-        "nl": "Bronnen en context",
-        "en": "Sources and context"
-      },
       "intro": {
-        "nl": "Alleen regelgeving, begrippen en primaire bronnen die rechtstreeks bij de beschreven expertise horen.",
-        "en": "Only legislation, concepts and primary sources directly relevant to the expertise described on this page."
+        "en": "This selection follows directly from the content of this page: current role, qualifications and professional focus.",
+        "nl": "Deze selectie volgt rechtstreeks uit de inhoud van deze pagina: huidige rol, kwalificaties en vakgebieden."
       },
-      "groups": [
-        {
-          "title": {
-            "nl": "Wetgeving",
-            "en": "Legislation"
-          },
-          "entities": [
-            "legislation/eudr_2023_1115",
-            "legislation/eutr_995_2010"
-          ],
-          "schema_relation": "about",
-          "selection_basis": "visible_claim",
-          "selection_note": {
-            "nl": "Beide verordeningen hebben een eigen inhoudelijke sectie op de pagina.",
-            "en": "Both regulations have their own substantive section on the page."
-          }
-        },
-        {
-          "title": {
-            "nl": "Kernbegrippen",
-            "en": "Core concepts"
-          },
-          "entities": [
-            "defined_term/due_diligence_eudr",
-            "defined_term/due_diligence_eutr",
-            "defined_term/supply_chain_traceability",
-            "defined_term/risk_assessment",
-            "defined_term/auditing",
-            "certification/iso_19011_internal_auditor"
-          ],
-          "schema_relation": "about",
-          "selection_basis": "visible_claim",
-          "selection_note": {
-            "nl": "Deze begrippen en auditkwalificatie komen rechtstreeks terug in de expertisebeschrijving.",
-            "en": "These concepts and the audit qualification are stated directly in the expertise copy."
-          }
-        },
-        {
-          "title": {
-            "nl": "Richtsnoeren en certificeringscontext",
-            "en": "Guidance and certification context"
-          },
-          "entities": [
-            "creative_work/eudr_guidance_2026",
-            "creative_work/eudr_faq_version_5_2026",
-            "creative_work/eutr_guidance_2016",
-            "organization/fsc",
-            "organization/pefc",
-            "creative_work/fsc_regulatory_module_2024"
-          ],
-          "schema_relation": "mentions",
-          "selection_basis": "primary_context",
-          "selection_note": {
-            "nl": "Dit zijn primaire of institutionele bronnen die de beschreven expertise rechtstreeks kaderen.",
-            "en": "These are primary or institutional sources that directly frame the expertise described."
-          }
-        }
-      ],
       "schema": {
-        "page_type": "WebPage"
+        "main_entity": "person/eduard_de_boer",
+        "page_type": "AboutPage"
+      },
+      "title": {
+        "en": "Professional context",
+        "nl": "Professionele context"
       }
     },
     "experience": {
-      "title": {
-        "nl": "Landen en praktijkcontext",
-        "en": "Countries and practical context"
-      },
-      "intro": {
-        "nl": "Alleen landen, methoden en openbare praktijkvoorbeelden die rechtstreeks aansluiten op de ervaring die hier wordt beschreven.",
-        "en": "Only countries, methods and public practice examples that directly support the experience described on this page."
-      },
       "groups": [
         {
-          "title": {
-            "nl": "Professionele context",
-            "en": "Professional context"
-          },
           "entities": [
             "organization/ingenieursbureau_evan_buytendijk",
             "legislation/eudr_2023_1115",
@@ -155,15 +71,15 @@
           "schema_relation": "mentions",
           "selection_basis": "visible_claim",
           "selection_note": {
-            "nl": "Deze regels, methoden en kwalificatie worden expliciet genoemd in de ervaringspagina.",
-            "en": "These regulations, methods and qualification are explicitly stated on the experience page."
+            "en": "These regulations, methods and qualification are explicitly stated on the experience page.",
+            "nl": "Deze regels, methoden en kwalificatie worden expliciet genoemd in de ervaringspagina."
+          },
+          "title": {
+            "en": "Professional context",
+            "nl": "Professionele context"
           }
         },
         {
-          "title": {
-            "nl": "Landenervaring",
-            "en": "Country experience"
-          },
           "entities": [
             "country/congo_brazzaville",
             "country/gabon",
@@ -175,15 +91,15 @@
           "schema_relation": "mentions",
           "selection_basis": "visible_claim",
           "selection_note": {
-            "nl": "Alle landen worden expliciet in de publieke ervaringsbeschrijving genoemd.",
-            "en": "All countries are explicitly named in the public experience description."
+            "en": "All countries are explicitly named in the public experience description.",
+            "nl": "Alle landen worden expliciet in de publieke ervaringsbeschrijving genoemd."
+          },
+          "title": {
+            "en": "Country experience",
+            "nl": "Landenervaring"
           }
         },
         {
-          "title": {
-            "nl": "Openbare praktijkvoorbeelden",
-            "en": "Public practice examples"
-          },
           "entities": [
             "article/ieb_eutr_supplier_audit_congo_2022",
             "article/ieb_eutr_supplier_audit_india_2023",
@@ -192,87 +108,159 @@
           "schema_relation": "mentions",
           "selection_basis": "primary_context",
           "selection_note": {
-            "nl": "Deze openbare publicaties onderbouwen concrete auditervaring zonder vertrouwelijke klantinformatie te tonen.",
-            "en": "These public publications substantiate concrete audit experience without exposing confidential client information."
+            "en": "These public publications substantiate concrete audit experience without exposing confidential client information.",
+            "nl": "Deze openbare publicaties onderbouwen concrete auditervaring zonder vertrouwelijke klantinformatie te tonen."
+          },
+          "title": {
+            "en": "Public practice examples",
+            "nl": "Openbare praktijkvoorbeelden"
           }
         }
       ],
+      "intro": {
+        "en": "Only countries, methods and public practice examples that directly support the experience described on this page.",
+        "nl": "Alleen landen, methoden en openbare praktijkvoorbeelden die rechtstreeks aansluiten op de ervaring die hier wordt beschreven."
+      },
       "schema": {
-        "page_type": "WebPage",
-        "main_entity": "person/eduard_de_boer"
+        "main_entity": "person/eduard_de_boer",
+        "page_type": "WebPage"
+      },
+      "title": {
+        "en": "Countries and practical context",
+        "nl": "Landen en praktijkcontext"
       }
     },
-    "speaking": {
-      "title": {
-        "nl": "Gerelateerde bijdragen",
-        "en": "Related contributions"
-      },
-      "intro": {
-        "nl": "Alleen concrete presentaties, interviews en mediaoptredens die op deze pagina als bijdrage worden getoond.",
-        "en": "Only concrete presentations, interviews and media appearances shown on this page as contributions."
-      },
+    "expertise": {
       "groups": [
         {
-          "title": {
-            "nl": "Vakinhoudelijk spreken",
-            "en": "Professional speaking"
-          },
           "entities": [
-            "event/houtwereld_praktijkdag_2026",
-            "creative_work/houtwereld_speaker_profile_eduard_de_boer_2026",
-            "event/interu_eudr_risk_assessment_webinar"
+            "legislation/eudr_2023_1115",
+            "legislation/eutr_995_2010"
           ],
-          "schema_relation": "hasPart",
-          "item_list": true,
-          "schema_id": "professional-speaking",
-          "selection_basis": "visible_collection",
+          "schema_relation": "about",
+          "selection_basis": "visible_claim",
           "selection_note": {
-            "nl": "De gebeurtenissen en profielen worden als concrete vakinhoudelijke bijdragen op deze pagina getoond.",
-            "en": "The events and profiles are shown as concrete professional contributions on this page."
+            "en": "Both regulations have their own substantive section on the page.",
+            "nl": "Beide verordeningen hebben een eigen inhoudelijke sectie op de pagina."
+          },
+          "title": {
+            "en": "Legislation",
+            "nl": "Wetgeving"
           }
         },
         {
-          "title": {
-            "nl": "Historische media",
-            "en": "Historical media"
-          },
           "entities": [
-            "tv_series/de_rijdende_rechter",
-            "tv_episode/gevloerd_rijdende_rechter",
-            "tv_episode/t_heen_en_weer_krijgen_rijdende_rechter",
-            "tv_episode/door_het_stof_rijdende_rechter",
-            "tv_episode/schutting_van_de_rekening_rijdende_rechter",
-            "tv_episode/laat_je_niet_kisten_rijdende_rechter"
+            "defined_term/due_diligence_eudr",
+            "defined_term/due_diligence_eutr",
+            "defined_term/supply_chain_traceability",
+            "defined_term/risk_assessment",
+            "defined_term/auditing",
+            "certification/iso_19011_internal_auditor"
           ],
-          "schema_relation": "hasPart",
-          "item_list": true,
-          "schema_id": "historical-media",
-          "selection_basis": "visible_collection",
+          "schema_relation": "about",
+          "selection_basis": "visible_claim",
           "selection_note": {
-            "nl": "De serie en afleveringen worden als concrete historische mediaoptredens op deze pagina getoond.",
-            "en": "The series and episodes are shown as concrete historical media appearances on this page."
+            "en": "These concepts and the audit qualification are stated directly in the expertise copy.",
+            "nl": "Deze begrippen en auditkwalificatie komen rechtstreeks terug in de expertisebeschrijving."
+          },
+          "title": {
+            "en": "Core concepts",
+            "nl": "Kernbegrippen"
+          }
+        },
+        {
+          "entities": [
+            "creative_work/eudr_guidance_2026",
+            "creative_work/eudr_faq_version_5_2026",
+            "creative_work/eutr_guidance_2016",
+            "organization/fsc",
+            "organization/pefc",
+            "creative_work/fsc_regulatory_module_2024"
+          ],
+          "schema_relation": "mentions",
+          "selection_basis": "primary_context",
+          "selection_note": {
+            "en": "These are primary or institutional sources that directly frame the expertise described.",
+            "nl": "Dit zijn primaire of institutionele bronnen die de beschreven expertise rechtstreeks kaderen."
+          },
+          "title": {
+            "en": "Guidance and certification context",
+            "nl": "Richtsnoeren en certificeringscontext"
           }
         }
       ],
+      "intro": {
+        "en": "Only legislation, concepts and primary sources directly relevant to the expertise described on this page.",
+        "nl": "Alleen regelgeving, begrippen en primaire bronnen die rechtstreeks bij de beschreven expertise horen."
+      },
       "schema": {
-        "page_type": "CollectionPage"
+        "page_type": "WebPage"
+      },
+      "title": {
+        "en": "Sources and context",
+        "nl": "Bronnen en context"
+      }
+    },
+    "home": {
+      "groups": [
+        {
+          "entities": [
+            "organization/ingenieursbureau_evan_buytendijk",
+            "legislation/eudr_2023_1115",
+            "legislation/eutr_995_2010",
+            "organization/fsc",
+            "organization/pefc",
+            "defined_term/due_diligence_eudr",
+            "defined_term/supply_chain_traceability"
+          ],
+          "schema_relation": "mentions",
+          "selection_basis": "visible_claim",
+          "selection_note": {
+            "en": "These entities are stated directly in the homepage positioning and route cards.",
+            "nl": "Deze entiteiten komen rechtstreeks terug in de positionering en routekaarten op de homepage."
+          },
+          "title": {
+            "en": "Professional focus",
+            "nl": "Professionele focus"
+          }
+        },
+        {
+          "entities": [
+            "country/congo_brazzaville",
+            "country/gabon",
+            "country/ivoorkust",
+            "country/india",
+            "country/libanon",
+            "country/noord_macedonie"
+          ],
+          "schema_relation": "mentions",
+          "selection_basis": "visible_claim",
+          "selection_note": {
+            "en": "These countries are explicitly named in the route to international experience.",
+            "nl": "Deze landen worden expliciet genoemd in de route naar internationale ervaring."
+          },
+          "title": {
+            "en": "International experience",
+            "nl": "Internationale ervaring"
+          }
+        }
+      ],
+      "intro": {
+        "en": "Entities explicitly visible on the homepage.",
+        "nl": "Entiteiten die expliciet op de homepage zichtbaar zijn."
+      },
+      "schema": {
+        "main_entity": "person/eduard_de_boer",
+        "page_type": "ProfilePage"
+      },
+      "title": {
+        "en": "Homepage entities",
+        "nl": "Homepage-entiteiten"
       }
     },
     "insights": {
-      "title": {
-        "nl": "Publicatiecontext",
-        "en": "Publication context"
-      },
-      "intro": {
-        "nl": "Onderwerpen en bronnen die aan de publicaties zijn gekoppeld.",
-        "en": "Topics and sources linked to the publications."
-      },
       "groups": [
         {
-          "title": {
-            "nl": "Eigen vakpublicaties",
-            "en": "Authored professional publications"
-          },
           "entities": [
             "article/linkedin_eudr_taric_codes_2026",
             "article/linkedin_eudr_timber_deadlines_2026",
@@ -309,21 +297,21 @@
             "article/ieb_eutr_supplier_audit_india_2023",
             "article/ieb_eutr_supplier_audit_congo_2022"
           ],
-          "schema_relation": "hasPart",
           "item_list": true,
           "item_list_order": "https://schema.org/ItemListOrderDescending",
           "schema_id": "authored-publications",
+          "schema_relation": "hasPart",
           "selection_basis": "visible_collection",
           "selection_note": {
-            "nl": "Dit zijn publicaties met Eduard de Boer als expliciete auteur.",
-            "en": "These publications explicitly identify Eduard de Boer as author."
+            "en": "These publications explicitly identify Eduard de Boer as author.",
+            "nl": "Dit zijn publicaties met Eduard de Boer als expliciete auteur."
+          },
+          "title": {
+            "en": "Authored professional publications",
+            "nl": "Eigen vakpublicaties"
           }
         },
         {
-          "title": {
-            "nl": "Interviews en vakmedia",
-            "en": "Interviews and industry media"
-          },
           "entities": [
             "article/houtwereld_waarom_zoveel_lods_nvwa_2026",
             "article/houtwereld_inventarisatie_lods_eutr_2026",
@@ -331,77 +319,89 @@
             "article/interu_ai_supply_chain_interview",
             "article/houtwereld_eudr_geolocatie_app_2024"
           ],
-          "schema_relation": "hasPart",
           "item_list": true,
           "item_list_order": "https://schema.org/ItemListOrderDescending",
           "schema_id": "interviews-and-media",
+          "schema_relation": "hasPart",
           "selection_basis": "visible_collection",
           "selection_note": {
-            "nl": "Dit zijn vakmedia waarin Eduard de Boer contributor, bron of geïnterviewde is, maar niet de auteur.",
-            "en": "These are industry-media items in which Eduard de Boer is a contributor, source or interviewee, but not the author."
+            "en": "These are industry-media items in which Eduard de Boer is a contributor, source or interviewee, but not the author.",
+            "nl": "Dit zijn vakmedia waarin Eduard de Boer contributor, bron of geïnterviewde is, maar niet de auteur."
+          },
+          "title": {
+            "en": "Interviews and industry media",
+            "nl": "Interviews en vakmedia"
           }
         }
       ],
+      "intro": {
+        "en": "Topics and sources linked to the publications.",
+        "nl": "Onderwerpen en bronnen die aan de publicaties zijn gekoppeld."
+      },
       "schema": {
         "page_type": "CollectionPage"
+      },
+      "title": {
+        "en": "Publication context",
+        "nl": "Publicatiecontext"
       }
     },
-    "home": {
-      "title": {
-        "nl": "Homepage-entiteiten",
-        "en": "Homepage entities"
-      },
-      "intro": {
-        "nl": "Entiteiten die expliciet op de homepage zichtbaar zijn.",
-        "en": "Entities explicitly visible on the homepage."
-      },
-      "schema": {
-        "page_type": "ProfilePage",
-        "main_entity": "person/eduard_de_boer"
-      },
+    "speaking": {
       "groups": [
         {
-          "title": {
-            "nl": "Professionele focus",
-            "en": "Professional focus"
-          },
-          "schema_relation": "mentions",
           "entities": [
-            "organization/ingenieursbureau_evan_buytendijk",
-            "legislation/eudr_2023_1115",
-            "legislation/eutr_995_2010",
-            "organization/fsc",
-            "organization/pefc",
-            "defined_term/due_diligence_eudr",
-            "defined_term/supply_chain_traceability"
+            "event/houtwereld_praktijkdag_2026",
+            "creative_work/houtwereld_speaker_profile_eduard_de_boer_2026",
+            "event/interu_eudr_risk_assessment_webinar"
           ],
-          "selection_basis": "visible_claim",
+          "item_list": true,
+          "schema_id": "professional-speaking",
+          "schema_relation": "hasPart",
+          "selection_basis": "visible_collection",
           "selection_note": {
-            "nl": "Deze entiteiten komen rechtstreeks terug in de positionering en routekaarten op de homepage.",
-            "en": "These entities are stated directly in the homepage positioning and route cards."
+            "en": "The events and profiles are shown as concrete professional contributions on this page.",
+            "nl": "De gebeurtenissen en profielen worden als concrete vakinhoudelijke bijdragen op deze pagina getoond."
+          },
+          "title": {
+            "en": "Professional speaking",
+            "nl": "Vakinhoudelijk spreken"
           }
         },
         {
-          "title": {
-            "nl": "Internationale ervaring",
-            "en": "International experience"
-          },
-          "schema_relation": "mentions",
           "entities": [
-            "country/congo_brazzaville",
-            "country/gabon",
-            "country/ivoorkust",
-            "country/india",
-            "country/libanon",
-            "country/noord_macedonie"
+            "tv_series/de_rijdende_rechter",
+            "tv_episode/gevloerd_rijdende_rechter",
+            "tv_episode/t_heen_en_weer_krijgen_rijdende_rechter",
+            "tv_episode/door_het_stof_rijdende_rechter",
+            "tv_episode/schutting_van_de_rekening_rijdende_rechter",
+            "tv_episode/laat_je_niet_kisten_rijdende_rechter"
           ],
-          "selection_basis": "visible_claim",
+          "item_list": true,
+          "schema_id": "historical-media",
+          "schema_relation": "hasPart",
+          "selection_basis": "visible_collection",
           "selection_note": {
-            "nl": "Deze landen worden expliciet genoemd in de route naar internationale ervaring.",
-            "en": "These countries are explicitly named in the route to international experience."
+            "en": "The series and episodes are shown as concrete historical media appearances on this page.",
+            "nl": "De serie en afleveringen worden als concrete historische mediaoptredens op deze pagina getoond."
+          },
+          "title": {
+            "en": "Historical media",
+            "nl": "Historische media"
           }
         }
-      ]
+      ],
+      "intro": {
+        "en": "Only concrete presentations, interviews and media appearances shown on this page as contributions.",
+        "nl": "Alleen concrete presentaties, interviews en mediaoptredens die op deze pagina als bijdrage worden getoond."
+      },
+      "schema": {
+        "page_type": "CollectionPage"
+      },
+      "title": {
+        "en": "Related contributions",
+        "nl": "Gerelateerde bijdragen"
+      }
     }
-  }
+  },
+  "source_commit": "69cb1f99e9acce0586404a1e240ada7ced2f860c"
 }
