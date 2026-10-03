@@ -1,0 +1,167 @@
+name: Review website entities
+
+on:
+  pull_request:
+    types: [opened, synchronize, reopened, ready_for_review]
+  workflow_dispatch:
+
+permissions:
+  contents: read
+
+concurrency:
+  group: website-entity-review-${{ github.event.pull_request.number || github.ref }}
+  cancel-in-progress: true
+
+jobs:
+  choose-runner:
+    name: Choose preferred runner
+    runs-on: ubuntu-latest
+    timeout-minutes: 2
+    outputs:
+      runs_on: ${{ steps.untrusted.outputs.runs_on || steps.choose.outputs.runs_on }}
+      target: ${{ steps.untrusted.outputs.target || steps.choose.outputs.target }}
+      runner_name: ${{ steps.untrusted.outputs.runner_name || steps.choose.outputs.runner_name }}
+    steps:
+      - name: Keep external fork pull requests off self-hosted runners
+        id: untrusted
+        if: github.event_name == 'pull_request' && github.event.pull_request.head.repo.full_name != github.repository
+        shell: bash
+        run: |
+          echo 'runs_on=["ubuntu-latest"]' >> "$GITHUB_OUTPUT"
+          echo 'target=github-hosted-untrusted' >> "$GITHUB_OUTPUT"
+          echo 'runner_name=ubuntu-latest' >> "$GITHUB_OUTPUT"
+
+      - name: Prefer an online idle local macOS runner
+        id: choose
+        if: github.event_name != 'pull_request' || github.event.pull_request.head.repo.full_name == github.repository
+        uses: actions/github-script@v8
+        with:
+          github-token: ${{ secrets.RUNNER_ROUTER_TOKEN }}
+          script: |
+            const { owner, repo } = context.repo;
+            const { data } = await github.rest.actions.listSelfHostedRunnersForRepo({
+              owner,
+              repo,
+              per_page: 100,
+            });
+
+            const candidates = data.runners.filter((runner) => {
+              const labels = new Set((runner.labels || []).map((label) => label.name));
+              return runner.status === "online"
+                && runner.busy === false
+                && labels.has("self-hosted")
+                && labels.has("macOS");
+            });
+
+            const local = candidates[0] || null;
+            const runsOn = local ? ["self-hosted", "macOS"] : ["ubuntu-latest"];
+            const target = local ? "local" : "github-hosted";
+            const runnerName = local ? local.name : "ubuntu-latest";
+
+            core.setOutput("runs_on", JSON.stringify(runsOn));
+            core.setOutput("target", target);
+            core.setOutput("runner_name", runnerName);
+            core.notice(
+              local
+                ? `Using preferred local runner: ${local.name}`
+                : "No online idle local macOS runner is available; using ubuntu-latest."
+            );
+
+  entity-review:
+    name: Entity review on ${{ needs.choose-runner.outputs.target }}
+    needs: choose-runner
+    if: github.event_name != 'pull_request' || github.event.pull_request.head.repo.full_name == github.repository
+    runs-on: ${{ fromJSON(needs.choose-runner.outputs.runs_on) }}
+    timeout-minutes: 12
+
+    steps:
+      - name: Report selected runner
+        run: |
+          echo "Routing target: ${{ needs.choose-runner.outputs.target }}"
+          echo "Selected runner: ${{ needs.choose-runner.outputs.runner_name }}"
+          echo "Executing on: ${{ runner.name }} (${{ runner.os }}/${{ runner.arch }})"
+
+      - name: Checkout website proposal
+        uses: actions/checkout@v7
+        with:
+          fetch-depth: 0
+          persist-credentials: false
+
+      - name: Python 3.12
+        uses: actions/setup-python@v6
+        with:
+          python-version: "3.12"
+          cache: pip
+
+      - name: Checkout private KG read-only
+        uses: actions/checkout@v7
+        with:
+          repository: eduarddeboer/eduarddeboer-kg
+          ref: main
+          path: _kg
+          token: ${{ secrets.KG_READ_TOKEN || secrets.RUNNER_ROUTER_TOKEN }}
+          persist-credentials: false
+
+      - name: Install resolver dependency
+        run: python -m pip install PyYAML==6.0.3
+
+      - name: Review changed Markdown
+        id: review
+        shell: bash
+        run: |
+          set +e
+          if [[ "${{ github.event_name }}" == "pull_request" ]]; then
+            python3 scripts/entity_review.py \
+              --website-root . \
+              --kg-root _kg \
+              --base-sha "${{ github.event.pull_request.base.sha }}" \
+              --head-sha "${{ github.event.pull_request.head.sha }}" \
+              --json-output /tmp/entity-review.json \
+              --markdown-output /tmp/entity-review.md
+          else
+            python3 scripts/entity_review.py \
+              --website-root . \
+              --kg-root _kg \
+              --all \
+              --json-output /tmp/entity-review.json \
+              --markdown-output /tmp/entity-review.md
+          fi
+          status=$?
+          echo "status=$status" >> "$GITHUB_OUTPUT"
+          exit 0
+
+      - name: Publish sanitized job summary
+        if: always() && steps.review.outputs.status != ''
+        shell: bash
+        run: cat /tmp/entity-review.md >> "$GITHUB_STEP_SUMMARY"
+
+      - name: Upload sanitized review artifact
+        if: always() && steps.review.outputs.status != ''
+        uses: actions/upload-artifact@v4
+        with:
+          name: website-entity-review-${{ github.event.pull_request.number || github.run_id }}
+          path: |
+            /tmp/entity-review.json
+            /tmp/entity-review.md
+          retention-days: 7
+
+      - name: Enforce deterministic entity-link errors
+        if: always() && steps.review.outputs.status != ''
+        shell: bash
+        run: exit "${{ steps.review.outputs.status }}"
+
+  external-fork:
+    name: External fork entity-review boundary
+    if: github.event_name == 'pull_request' && github.event.pull_request.head.repo.full_name != github.repository
+    runs-on: ubuntu-latest
+    timeout-minutes: 2
+    steps:
+      - name: Explain private-KG boundary
+        shell: bash
+        run: |
+          {
+            echo "## Entity review"
+            echo
+            echo "De volledige private KG-review wordt niet uitgevoerd voor een externe fork-PR."
+            echo "De gewone publieke website-validatie blijft wel actief."
+          } >> "$GITHUB_STEP_SUMMARY"
