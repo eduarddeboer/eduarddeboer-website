@@ -3,7 +3,7 @@ title: "De DDS is niet je due diligence"
 description: "Een EUDR-dossier kan tientallen documenten bevatten en toch één essentiële vraag onbeantwoord laten: kun je het product werkelijk terug herleiden naar het bewijs waarop je risicoconclusie rust?"
 date: 2026-10-03
 lastmod: 2026-10-03
-draft: false
+draft: true
 translationKey: "dds-is-niet-je-due-diligence"
 kgRef: ""
 about:
@@ -126,25 +126,23 @@ Dat laatste woordje — de onderlinge relatie — verdient wat mij betreft veel 
 
 Veel problemen worden pas zichtbaar zodra je documenten niet afzonderlijk beoordeelt, maar naast elkaar legt.
 
-Op de kaplijst staat bijvoorbeeld 26,8 m³.
+Stel dat uit de kap- en transportadministratie blijkt dat 43,5 m³ rondhout bij de zagerij is binnengekomen. Uiteindelijk wordt 22,4 m³ A-kwaliteit gezaagd hout voor export in jouw zending geladen.
 
-Volgens het transportdocument is 25,9 m³ bij de zagerij afgeleverd.
+Dat is op zichzelf heel goed voorstelbaar. De opbrengst aan exportkwaliteit ligt dan op ongeveer 51,5% van het ingekomen rondhout. In de praktijk zou ik bij dit soort gezaagd exporthout grofweg maximaal 50 tot 54% A- of exportkwaliteit verwachten. Het overige hout hoeft trouwens niet allemaal afval te zijn: een deel van de lagere kwaliteiten kan bijvoorbeeld op de lokale markt worden verkocht.
 
-Het ontvangstregister vermeldt 25,9 m³. Tot zover geen probleem.
+Maar dan pak je de productieadministratie erbij.
 
-Na verwerking bestaat er 22,4 m³ exporteerbaar gezaagd hout. Ook dat hoeft helemaal niet vreemd te zijn. Bij het verzagen ontstaat immers afval en verlies.
+Daar staat dat voor precies de bundelnummers op jouw packing list slechts 25,9 m³ rondhout aan de productiebatch is toegewezen.
 
-Maar vervolgens blijkt dat de packing list 22,4 m³ vermeldt, terwijl de productieadministratie voor dezelfde bundelnummers uitkomt op 24,1 m³.
+Dan verandert het verhaal opeens behoorlijk. Uit 25,9 m³ rondhout zou volgens die administratie 22,4 m³ exportkwaliteit zijn gekomen. Dat is een rendement van ongeveer 86,5%.
 
-Is dat een fout? Misschien.
+Daar zou bij mij onmiddellijk een vraagteken bij komen te staan.
 
-Een verschil in meetmethode? Kan.
+Is de batchadministratie onvolledig? Is er aanvullend rondhout gebruikt dat niet aan de batch is gekoppeld? Zijn volumes in verschillende stadia of volgens verschillende meetmethoden vastgelegd? Of zijn twee productiebatches door elkaar gelopen?
 
-Hebben twee productiebatches door elkaar gelopen? Ook mogelijk.
+Dat hoef je niet op basis van één percentage meteen als non-compliance te bestempelen. Maar je kunt zo'n verschil ook niet negeren. Het productie-rendement is hier geen wettelijke EUDR-norm; het is een plausibiliteitscontrole waarmee je ontdekt dat de bewijsstukken onderling nog niet goed genoeg aansluiten.
 
-Maar voordat je dat weet, heb je een onzekerheid.
-
-En een risicobeoordeling waarin zo'n onzekerheid niet eens wordt opgemerkt, is iets anders dan een risicobeoordeling waarin het verschil is onderzocht en verklaard.
+En een risicobeoordeling waarin zo'n afwijking niet eens wordt opgemerkt, is iets anders dan een risicobeoordeling waarin het verschil is onderzocht en verklaard.
 
 De hoeveelheid papier verandert daar niets aan.
 
