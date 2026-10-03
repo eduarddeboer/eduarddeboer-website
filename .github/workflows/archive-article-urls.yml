@@ -1,0 +1,88 @@
+name: Archive article URLs
+
+on:
+  push:
+    branches: [main]
+    paths:
+      - "data/kg/snapshot.json"
+      - "scripts/archive_article_urls.py"
+      - ".github/workflows/archive-article-urls.yml"
+  workflow_dispatch:
+    inputs:
+      force:
+        description: "Request a fresh capture even when Wayback already has one"
+        required: false
+        default: false
+        type: boolean
+
+permissions:
+  contents: read
+
+concurrency:
+  group: website-wayback-archive
+  cancel-in-progress: false
+
+jobs:
+  archive:
+    name: Preserve article URLs
+    runs-on: ubuntu-latest
+    timeout-minutes: 20
+
+    steps:
+      - name: Checkout
+        uses: actions/checkout@v7
+
+      - name: Python
+        uses: actions/setup-python@v6
+        with:
+          python-version: "3.12"
+
+      - name: Inventory Article URLs
+        run: python3 scripts/archive_article_urls.py --list-only --output /tmp/wayback-inventory.json
+
+      - name: Submit missing captures
+        env:
+          FORCE_CAPTURE: ${{ github.event_name == 'workflow_dispatch' && inputs.force && 'true' || 'false' }}
+        shell: bash
+        run: |
+          set -euo pipefail
+          args=(--output wayback-report.json)
+          if [[ "$FORCE_CAPTURE" == "true" ]]; then
+            args+=(--force)
+          fi
+          python3 scripts/archive_article_urls.py "${args[@]}"
+
+      - name: Add run summary
+        if: always()
+        shell: bash
+        run: |
+          python3 - <<'PY' >> "$GITHUB_STEP_SUMMARY"
+          import json
+          from pathlib import Path
+
+          path = Path("wayback-report.json")
+          if not path.is_file():
+              print("## Wayback archive")
+              print()
+              print("No report was produced.")
+              raise SystemExit(0)
+
+          report = json.loads(path.read_text(encoding="utf-8"))
+          summary = report.get("summary", {})
+          print("## Wayback archive")
+          print()
+          print(f"- Article URLs checked: {report.get('article_url_count', 0)}")
+          print(f"- Already archived: {summary.get('already_archived', 0)}")
+          print(f"- Newly submitted: {summary.get('submitted', 0)}")
+          print(f"- Failed submissions: {summary.get('failed', 0)}")
+          print(f"- Article entities without a valid URL: {report.get('missing_url_count', 0)}")
+          PY
+
+      - name: Upload archive report
+        if: always()
+        uses: actions/upload-artifact@v4
+        with:
+          name: wayback-report
+          path: wayback-report.json
+          if-no-files-found: warn
+          retention-days: 30
