@@ -14,3 +14,15 @@ Open this `content/` directory as the Obsidian vault.
 - Give corresponding EN/NL pages the same `translationKey`.
 
 A later KG-sync workflow will update `../data/kg/snapshot.json`; that machine-generated file is not part of the Obsidian vault.
+
+## Templater
+
+Shared authoring templates live in `_templates/`. In Obsidian Templater, set **Template folder location** to `_templates`.
+
+Available templates:
+
+- `new-insight.md` — creates an NL or EN insight/article page bundle.
+- `new-page.md` — creates an evergreen page below an existing section.
+- `new-section.md` — creates a new top-level section landing page.
+
+See `../docs/obsidian-authoring.md` for the complete editing and publication workflow.
