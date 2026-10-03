@@ -145,7 +145,20 @@ def validate_section_projections(snapshot: dict) -> dict:
                 f"KG section {section_key!r} main_entity {main_entity!r} is absent from the snapshot"
             )
 
+        seen_in_section: set[str] = set()
+
         for group in groups:
+            selection_basis = group.get("selection_basis")
+            if selection_basis not in {"visible_claim", "primary_context", "visible_collection"}:
+                raise SystemExit(
+                    f"KG section {section_key!r} group lacks a supported selection_basis"
+                )
+            selection_note = group.get("selection_note")
+            if not isinstance(selection_note, dict) or not selection_note.get("nl") or not selection_note.get("en"):
+                raise SystemExit(
+                    f"KG section {section_key!r} group must explain selection in nl and en"
+                )
+
             schema_relation = group.get("schema_relation", "mentions")
             if schema_relation not in {"about", "mentions", "hasPart"}:
                 raise SystemExit(
@@ -166,6 +179,12 @@ def validate_section_projections(snapshot: dict) -> dict:
                     raise SystemExit(
                         f"KG section {section_key!r} references missing entity {entity_id!r}"
                     )
+                if entity_id in seen_in_section:
+                    raise SystemExit(
+                        f"KG section {section_key!r} selects entity {entity_id!r} more than once"
+                    )
+                seen_in_section.add(entity_id)
+
                 entity = entities[entity_id]
                 if not entity.get("type") or not entity.get("name"):
                     raise SystemExit(
@@ -252,6 +271,63 @@ def validate_section_projections(snapshot: dict) -> dict:
             "Homepage schema projection lost visible entities: "
             f"{sorted(missing_home_entities)}"
         )
+
+    required_by_section = {
+        "about": {
+            "organization/ingenieursbureau_evan_buytendijk",
+            "certification/iso_19011_internal_auditor",
+            "legislation/eudr_2023_1115",
+            "legislation/eutr_995_2010",
+            "organization/fsc",
+            "organization/pefc",
+            "defined_term/due_diligence_eudr",
+            "defined_term/due_diligence_eutr",
+            "defined_term/supply_chain_traceability",
+            "defined_term/auditing",
+        },
+        "expertise": {
+            "legislation/eudr_2023_1115",
+            "legislation/eutr_995_2010",
+            "defined_term/due_diligence_eudr",
+            "defined_term/due_diligence_eutr",
+            "defined_term/supply_chain_traceability",
+            "defined_term/risk_assessment",
+            "defined_term/auditing",
+            "certification/iso_19011_internal_auditor",
+            "organization/fsc",
+            "organization/pefc",
+        },
+        "experience": {
+            "organization/ingenieursbureau_evan_buytendijk",
+            "certification/iso_19011_internal_auditor",
+            "legislation/eudr_2023_1115",
+            "legislation/eutr_995_2010",
+            "defined_term/due_diligence_eudr",
+            "defined_term/due_diligence_eutr",
+            "defined_term/supply_chain_traceability",
+            "defined_term/auditing",
+            "country/congo_brazzaville",
+            "country/gabon",
+            "country/ivoorkust",
+            "country/india",
+            "country/libanon",
+            "country/noord_macedonie",
+            "article/ieb_eutr_supplier_audit_congo_2022",
+            "article/ieb_eutr_supplier_audit_india_2023",
+            "article/ieb_eutr_audit_lebanon_2023",
+        },
+    }
+    for section_key, required_ids in required_by_section.items():
+        selected = {
+            entity_id
+            for group in sections[section_key]["groups"]
+            for entity_id in group.get("entities", [])
+        }
+        missing = required_ids - selected
+        if missing:
+            raise SystemExit(
+                f"KG section {section_key!r} lost required page-specific entities: {sorted(missing)}"
+            )
 
     person_relations = entities["person/eduard_de_boer"].get("relations") or []
     person_relation_pairs = {
