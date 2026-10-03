@@ -13,7 +13,7 @@ PERSON_ID = "https://eduarddeboer.com/#person"
 
 def jsonld_nodes(html: str) -> list[dict]:
     blocks = re.findall(
-        r'<script[^>]+type=(?:"application/ld\\+json"|\'application/ld\\+json\'|application/ld\\+json)[^>]*>(.*?)</script>',
+        r'<script[^>]+type=(?:"application/ld\+json"|\'application/ld\+json\'|application/ld\+json)[^>]*>(.*?)</script>',
         html,
         re.I | re.S,
     )
