@@ -299,15 +299,8 @@
   box-shadow: 0 14px 34px rgba(20,54,43,.08);
 }
 
-.edb-route-card__number {
-  color: var(--edb-forest);
-  font-size: .68rem;
-  font-weight: 750;
-  letter-spacing: .14em;
-}
-
 .edb-route-card h2 {
-  margin-top: .58rem;
+  margin-top: 0;
   font-size: 1.65rem;
 }
 
