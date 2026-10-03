@@ -2,26 +2,132 @@
 {{- $websiteID := "https://eduarddeboer.com/#website" -}}
 {{- $graphBase := "https://data.eduarddeboer.com/entity/" -}}
 {{- $pageID := printf "%s#webpage" .Permalink -}}
+{{- $kgEntities := .Site.Data.kg.snapshot.entities -}}
+{{- $sections := .Site.Data.kg.sections.sections -}}
+{{- $sectionKey := .Params.kg_section | default "" -}}
+{{- $section := dict -}}
+{{- if $sectionKey }}{{ $section = index $sections $sectionKey | default (dict) }}{{ end -}}
+{{- $schemaConfig := index $section "schema" | default (dict) -}}
 
 <link rel="describedby" href="https://data.eduarddeboer.com/entity/person/eduard_de_boer">
 {{- with .Params.kgRef }}
 <link rel="describedby" href="{{ printf "%s%s" $graphBase . }}">
 {{- end }}
 
-{{- $sameAs := slice
-  "https://data.eduarddeboer.com/entity/person/eduard_de_boer"
-  "https://www.wikidata.org/wiki/Q65610641"
-  "https://www.linkedin.com/in/eduarddeboer/"
--}}
+{{- $pageType := "WebPage" -}}
+{{- if .IsHome }}{{ $pageType = "ProfilePage" }}{{ end -}}
+{{- with index $schemaConfig "page_type" }}{{ $pageType = . }}{{ end -}}
+{{- if and .IsPage (eq .Section "insights") }}{{ $pageType = "Article" }}{{ end -}}
 
-{{- $person := dict
-  "@type" "Person"
-  "@id" $personID
-  "name" "Eduard de Boer"
-  "url" "https://eduarddeboer.com/"
-  "sameAs" $sameAs
-  "worksFor" (dict "@id" "https://data.eduarddeboer.com/entity/organization/ingenieursbureau_evan_buytendijk")
--}}
+{{- $seedIDs := slice -}}
+{{- $itemListNodes := slice -}}
+{{- $pageRelations := newScratch -}}
+{{- $pageRelations.Set "map" (dict) -}}
+
+{{- range (index $section "groups" | default (slice)) -}}
+  {{- $group := . -}}
+  {{- $groupIDs := $group.entities | default (slice) -}}
+  {{- range $groupIDs }}{{ $seedIDs = $seedIDs | append . }}{{ end -}}
+
+  {{- if (index $group "item_list" | default false) -}}
+    {{- $schemaID := index $group "schema_id" | default (printf "list-%d" (add (len $itemListNodes) 1)) -}}
+    {{- $listID := printf "%s#%s" $.Permalink $schemaID -}}
+    {{- $listName := index $group.title $.Language.Lang | default (index $group.title "nl") | default (index $group.title "en") -}}
+    {{- $listItems := slice -}}
+    {{- range $index, $entityID := $groupIDs -}}
+      {{- $itemURI := printf "%s%s" $graphBase $entityID -}}
+      {{- if eq $entityID "person/eduard_de_boer" }}{{ $itemURI = $personID }}{{ end -}}
+      {{- $listItems = $listItems | append (dict
+        "@type" "ListItem"
+        "position" (add $index 1)
+        "item" (dict "@id" $itemURI)
+      ) -}}
+    {{- end -}}
+    {{- $listNode := dict
+      "@type" "ItemList"
+      "@id" $listID
+      "name" $listName
+      "numberOfItems" (len $groupIDs)
+      "itemListElement" $listItems
+    -}}
+    {{- with index $group "item_list_order" }}{{ $listNode = merge $listNode (dict "itemListOrder" .) }}{{ end -}}
+    {{- $itemListNodes = $itemListNodes | append $listNode -}}
+    {{- $relationMap := $pageRelations.Get "map" -}}
+    {{- $existing := index $relationMap "hasPart" | default (slice) -}}
+    {{- $pageRelations.SetInMap "map" "hasPart" ($existing | append (dict "@id" $listID)) -}}
+  {{- else -}}
+    {{- $predicate := index $group "schema_relation" | default "mentions" -}}
+    {{- $refs := slice -}}
+    {{- range $groupIDs -}}
+      {{- $targetURI := printf "%s%s" $graphBase . -}}
+      {{- if eq . "person/eduard_de_boer" }}{{ $targetURI = $personID }}{{ end -}}
+      {{- $refs = $refs | append (dict "@id" $targetURI) -}}
+    {{- end -}}
+    {{- $relationMap := $pageRelations.Get "map" -}}
+    {{- $existing := index $relationMap $predicate | default (slice) -}}
+    {{- $pageRelations.SetInMap "map" $predicate (append $existing $refs) -}}
+  {{- end -}}
+{{- end -}}
+
+{{- range .Params.about -}}
+  {{- $seedIDs = $seedIDs | append . -}}
+  {{- $relationMap := $pageRelations.Get "map" -}}
+  {{- $existing := index $relationMap "about" | default (slice) -}}
+  {{- $pageRelations.SetInMap "map" "about" ($existing | append (dict "@id" (printf "%s%s" $graphBase .))) -}}
+{{- end -}}
+{{- range .Params.mentions -}}
+  {{- $seedIDs = $seedIDs | append . -}}
+  {{- $relationMap := $pageRelations.Get "map" -}}
+  {{- $existing := index $relationMap "mentions" | default (slice) -}}
+  {{- $pageRelations.SetInMap "map" "mentions" ($existing | append (dict "@id" (printf "%s%s" $graphBase .))) -}}
+{{- end -}}
+
+{{- if .IsHome -}}
+  {{- $articles := slice -}}
+  {{- range $id, $entity := $kgEntities -}}
+    {{- if eq $entity.type "Article" -}}
+      {{- $isAuthor := false -}}
+      {{- range $entity.relations -}}
+        {{- if and (eq .predicate "author") (eq .target "person/eduard_de_boer") }}{{ $isAuthor = true }}{{ end -}}
+      {{- end -}}
+      {{- if $isAuthor }}{{ $articles = $articles | append $entity }}{{ end -}}
+    {{- end -}}
+  {{- end -}}
+  {{- $articles = first 3 (sort $articles "date_published" "desc") -}}
+  {{- range $articles -}}
+    {{- $seedIDs = $seedIDs | append .id -}}
+    {{- $relationMap := $pageRelations.Get "map" -}}
+    {{- $existing := index $relationMap "hasPart" | default (slice) -}}
+    {{- $pageRelations.SetInMap "map" "hasPart" ($existing | append (dict "@id" (printf "%s%s" $graphBase .id))) -}}
+  {{- end -}}
+{{- end -}}
+
+{{- $mainEntityID := index $schemaConfig "main_entity" | default "" -}}
+{{- if $mainEntityID }}{{ $seedIDs = $seedIDs | append $mainEntityID }}{{ end -}}
+{{- $seedIDs = uniq $seedIDs -}}
+
+{{- $relatedIDs := slice -}}
+{{- range $seedIDs -}}
+  {{- $entity := index $kgEntities . -}}
+  {{- with $entity -}}
+    {{- range .relations -}}
+      {{- if index $kgEntities .target }}{{ $relatedIDs = $relatedIDs | append .target }}{{ end -}}
+    {{- end -}}
+  {{- end -}}
+{{- end -}}
+{{- $nodeIDs := union $seedIDs $relatedIDs -}}
+
+{{- $personEntity := index $kgEntities "person/eduard_de_boer" -}}
+{{- $personIncludeRelations := in $seedIDs "person/eduard_de_boer" -}}
+{{- $person := partial "kg-jsonld-entity.html" (dict
+  "entity" $personEntity
+  "lang" .Language.Lang
+  "graphBase" $graphBase
+  "personID" $personID
+  "overrideID" $personID
+  "includeRelations" $personIncludeRelations
+  "allowedTargets" $seedIDs
+) -}}
 
 {{- $website := dict
   "@type" "WebSite"
@@ -33,15 +139,6 @@
   "publisher" (dict "@id" $personID)
 -}}
 
-{{- $pageType := "WebPage" -}}
-{{- if .IsHome -}}
-  {{- $pageType = "ProfilePage" -}}
-{{- else if .IsSection -}}
-  {{- $pageType = "CollectionPage" -}}
-{{- else if and .IsPage (eq .Section "insights") -}}
-  {{- $pageType = "Article" -}}
-{{- end -}}
-
 {{- $pageNode := dict
   "@type" $pageType
   "@id" $pageID
@@ -52,39 +149,47 @@
   "author" (dict "@id" $personID)
 -}}
 
-{{- with .Description }}
-  {{- $pageNode = merge $pageNode (dict "description" .) -}}
-{{- end }}
+{{- with .Description }}{{ $pageNode = merge $pageNode (dict "description" .) }}{{ end -}}
+{{- if not .IsHome }}{{ $pageNode = merge $pageNode (dict "breadcrumb" (dict "@id" (printf "%s#breadcrumb" .Permalink))) }}{{ end -}}
 
-{{- if .IsHome -}}
+{{- if $mainEntityID -}}
+  {{- $mainURI := printf "%s%s" $graphBase $mainEntityID -}}
+  {{- if eq $mainEntityID "person/eduard_de_boer" }}{{ $mainURI = $personID }}{{ end -}}
+  {{- $pageNode = merge $pageNode (dict "mainEntity" (dict "@id" $mainURI)) -}}
+{{- else if .IsHome -}}
   {{- $pageNode = merge $pageNode (dict "mainEntity" (dict "@id" $personID)) -}}
 {{- else -}}
-  {{- with .Params.kgRef }}
-    {{- $pageNode = merge $pageNode (dict "mainEntity" (dict "@id" (printf "%s%s" $graphBase .))) -}}
-  {{- end }}
-{{- end }}
+  {{- with .Params.kgRef }}{{ $pageNode = merge $pageNode (dict "mainEntity" (dict "@id" (printf "%s%s" $graphBase .))) }}{{ end -}}
+{{- end -}}
 
 {{- if eq $pageType "Article" -}}
   {{- $pageNode = merge $pageNode (dict "headline" .Title) -}}
-  {{- with .PublishDate }}
-    {{- $pageNode = merge $pageNode (dict "datePublished" (.Format "2006-01-02T15:04:05-07:00")) -}}
-  {{- end }}
-  {{- with .Lastmod }}
-    {{- $pageNode = merge $pageNode (dict "dateModified" (.Format "2006-01-02T15:04:05-07:00")) -}}
-  {{- end }}
-{{- end }}
+  {{- with .PublishDate }}{{ $pageNode = merge $pageNode (dict "datePublished" (.Format "2006-01-02T15:04:05-07:00")) }}{{ end -}}
+  {{- with .Lastmod }}{{ $pageNode = merge $pageNode (dict "dateModified" (.Format "2006-01-02T15:04:05-07:00")) }}{{ end -}}
+{{- end -}}
 
-{{- with .Params.about }}
-  {{- $items := slice -}}
-  {{- range . }}{{ $items = $items | append (dict "@id" (printf "%s%s" $graphBase .)) }}{{ end -}}
-  {{- $pageNode = merge $pageNode (dict "about" $items) -}}
-{{- end }}
+{{- range $predicate, $items := ($pageRelations.Get "map") -}}
+  {{- $pageNode = merge $pageNode (dict $predicate (uniq $items)) -}}
+{{- end -}}
 
-{{- with .Params.mentions }}
-  {{- $items := slice -}}
-  {{- range . }}{{ $items = $items | append (dict "@id" (printf "%s%s" $graphBase .)) }}{{ end -}}
-  {{- $pageNode = merge $pageNode (dict "mentions" $items) -}}
-{{- end }}
+{{- $entityNodes := slice -}}
+{{- range $nodeIDs -}}
+  {{- $entityID := . -}}
+  {{- if ne $entityID "person/eduard_de_boer" -}}
+    {{- with index $kgEntities $entityID -}}
+      {{- $entityNodes = $entityNodes | append (partial "kg-jsonld-entity.html" (dict
+        "entity" .
+        "lang" $.Language.Lang
+        "graphBase" $graphBase
+        "personID" $personID
+        "includeRelations" (in $seedIDs $entityID)
+        "allowedTargets" $nodeIDs
+      )) -}}
+    {{- end -}}
+  {{- end -}}
+{{- end -}}
 
 {{- $graph := slice $person $website $pageNode -}}
+{{- range $itemListNodes }}{{ $graph = $graph | append . }}{{ end -}}
+{{- range $entityNodes }}{{ $graph = $graph | append . }}{{ end -}}
 <script type="application/ld+json">{{ dict "@context" "https://schema.org" "@graph" $graph | jsonify | safeJS }}</script>

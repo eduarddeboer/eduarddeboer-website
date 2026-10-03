@@ -38,8 +38,78 @@
         {
           "predicate": "knowsAbout",
           "target": "organization/pefc"
+        },
+        {
+          "predicate": "knowsAbout",
+          "target": "defined_term/due_diligence_eudr"
+        },
+        {
+          "predicate": "knowsAbout",
+          "target": "defined_term/due_diligence_eutr"
+        },
+        {
+          "predicate": "knowsAbout",
+          "target": "defined_term/geolocation_eudr"
+        },
+        {
+          "predicate": "knowsAbout",
+          "target": "defined_term/supply_chain_traceability"
+        },
+        {
+          "predicate": "knowsAbout",
+          "target": "defined_term/risk_assessment"
+        },
+        {
+          "predicate": "knowsAbout",
+          "target": "defined_term/auditing"
         }
-      ]
+      ],
+      "same_as": [
+        "https://www.wikidata.org/wiki/Q65610641",
+        "https://www.linkedin.com/in/eduarddeboer/",
+        "https://medium.com/@eduarddeboer",
+        "https://github.com/eduarddeboer/",
+        "https://about.me/eduarddeboer",
+        "https://www.brightlocal.com/author/eduarddeboer/",
+        "https://www.imdb.com/name/nm8412574/",
+        "https://gravatar.com/elrdeboer",
+        "https://www.allround-fotografie.com/over-ons/eduard/",
+        "https://www.reputatiecoaching.nl/over-eduard/",
+        "https://www.youtube.com/user/elrdeboer"
+      ],
+      "identifiers": [
+        {
+          "scheme": "Google Knowledge Graph ID",
+          "value": "/g/11h4q8p22c",
+          "source": "https://www.google.com/search?kgmid=/g/11h4q8p22c"
+        },
+        {
+          "scheme": "ISNI",
+          "value": "000000050261402X",
+          "source": "https://isni.org/isni/000000050261402X"
+        },
+        {
+          "scheme": "IMDb",
+          "value": "nm8412574",
+          "source": "https://www.imdb.com/name/nm8412574/"
+        },
+        {
+          "scheme": "LinkedIn personal profile ID",
+          "value": "eduarddeboer",
+          "source": "https://www.linkedin.com/in/eduarddeboer/"
+        },
+        {
+          "scheme": "GitHub username",
+          "value": "eduarddeboer",
+          "source": "https://github.com/eduarddeboer/"
+        }
+      ],
+      "image": "https://www.evanbuytendijk.nl/uploads/images/team/Eduard-de-Boer.jpg",
+      "main_entity_of_page": "https://www.evanbuytendijk.nl/team/eduard-de-boer/",
+      "job_title": {
+        "nl": "EUDR-specialist / FSC®- en PEFC-auditor",
+        "en": "EUDR specialist / FSC® and PEFC auditor"
+      }
     },
     "organization/ingenieursbureau_evan_buytendijk": {
       "id": "organization/ingenieursbureau_evan_buytendijk",
@@ -52,7 +122,67 @@
         "nl": "Nederlands advies- en ingenieursbureau voor bos, hout en houtproducten, met werkzaamheden rond certificering, audits, due diligence, advies en kennisoverdracht.",
         "en": "Dutch consulting and engineering firm focused on forests, timber and timber products, including certification support, audits, due diligence, advice and training."
       },
-      "url": "https://www.evanbuytendijk.nl/"
+      "url": "https://www.evanbuytendijk.nl/",
+      "same_as": [
+        "https://www.linkedin.com/company/ingenieursbureau-evan-buytendijk/"
+      ],
+      "identifiers": [
+        {
+          "scheme": "Kamer van Koophandel",
+          "value": "08158862",
+          "source": "https://www.evanbuytendijk.nl/over-ons/"
+        },
+        {
+          "scheme": "FSC certificate",
+          "value": "PBN-COC-029615",
+          "source": "https://www.evanbuytendijk.nl/over-ons/"
+        },
+        {
+          "scheme": "FSC trademark licence",
+          "value": "FSC-092624",
+          "source": "https://www.evanbuytendijk.nl/over-ons/"
+        },
+        {
+          "scheme": "PEFC certificate",
+          "value": "PBN-PEFC-COC-029615",
+          "source": "https://www.evanbuytendijk.nl/over-ons/"
+        },
+        {
+          "scheme": "PEFC trademark licence",
+          "value": "PEFC/30-32-236",
+          "source": "https://www.evanbuytendijk.nl/over-ons/"
+        }
+      ],
+      "main_entity_of_page": "https://www.evanbuytendijk.nl/over-ons/",
+      "legal_name": "Ingenieursbureau Evan Buytendijk B.V.",
+      "founding_date": "2007",
+      "alternate_name": {
+        "nl": "IEB",
+        "en": "IEB"
+      },
+      "alternate_names": [
+        "IEB",
+        "Evan Buytendijk BV",
+        "IEBbv"
+      ],
+      "relations": [
+        {
+          "predicate": "knowsAbout",
+          "target": "legislation/eudr_2023_1115"
+        },
+        {
+          "predicate": "knowsAbout",
+          "target": "legislation/eutr_995_2010"
+        },
+        {
+          "predicate": "knowsAbout",
+          "target": "organization/fsc"
+        },
+        {
+          "predicate": "knowsAbout",
+          "target": "organization/pefc"
+        }
+      ]
     },
     "certification/iso_19011_internal_auditor": {
       "id": "certification/iso_19011_internal_auditor",
@@ -79,7 +209,41 @@
         "nl": "Verordening (EU) 2023/1115 (EUDR)",
         "en": "Regulation (EU) 2023/1115 (EUDR)"
       },
-      "url": "https://eur-lex.europa.eu/eli/reg/2023/1115/oj"
+      "url": "https://eur-lex.europa.eu/eli/reg/2023/1115/oj",
+      "same_as": [
+        "https://data.europa.eu/eli/reg/2023/1115/oj",
+        "https://www.wikidata.org/wiki/Q128764653"
+      ],
+      "identifiers": [
+        {
+          "scheme": "CELEX",
+          "value": "32023R1115",
+          "source": "https://eur-lex.europa.eu/eli/reg/2023/1115/oj?locale=nl"
+        },
+        {
+          "scheme": "ELI",
+          "value": "https://data.europa.eu/eli/reg/2023/1115/oj",
+          "source": "https://eur-lex.europa.eu/eli/reg/2023/1115/oj?locale=nl"
+        }
+      ],
+      "legislation_date": "2023-05-31",
+      "alternate_name": {
+        "nl": "EUDR",
+        "en": "EUDR"
+      },
+      "alternate_names": [
+        "EUDR",
+        "EU Deforestation Regulation",
+        "European Union Deforestation Regulation",
+        "EU Deforestation-free Regulation",
+        "2023/1115"
+      ],
+      "relations": [
+        {
+          "predicate": "legislationRepeals",
+          "target": "legislation/eutr_995_2010"
+        }
+      ]
     },
     "legislation/eutr_995_2010": {
       "id": "legislation/eutr_995_2010",
@@ -88,7 +252,40 @@
         "nl": "Verordening (EU) nr. 995/2010 (EUTR)",
         "en": "Regulation (EU) No 995/2010 (EUTR)"
       },
-      "url": "https://eur-lex.europa.eu/eli/reg/2010/995/oj"
+      "url": "https://eur-lex.europa.eu/eli/reg/2010/995/oj",
+      "same_as": [
+        "https://data.europa.eu/eli/reg/2010/995/oj",
+        "https://www.wikidata.org/wiki/Q5454042",
+        "https://en.wikipedia.org/wiki/European_Union_Timber_Regulation",
+        "https://dbpedia.org/resource/European_Union_Timber_Regulation",
+        "https://yago-knowledge.org/resource/European_Union_Timber_Regulation"
+      ],
+      "identifiers": [
+        {
+          "scheme": "CELEX",
+          "value": "32010R0995",
+          "source": "https://eur-lex.europa.eu/eli/reg/2010/995/oj?locale=nl"
+        },
+        {
+          "scheme": "ELI",
+          "value": "https://data.europa.eu/eli/reg/2010/995/oj",
+          "source": "https://eur-lex.europa.eu/eli/reg/2010/995/oj?locale=nl"
+        },
+        {
+          "scheme": "Google Knowledge Graph ID",
+          "value": "/g/1hhzgt9f0",
+          "source": "https://www.wikidata.org/wiki/Q5454042"
+        }
+      ],
+      "legislation_date": "2010-10-20",
+      "alternate_names": [
+        "EUTR",
+        "European Union Timber Regulation",
+        "European Timber Regulation",
+        "EU Timber Regulation",
+        "Europese Houtverordening",
+        "995/2010"
+      ]
     },
     "organization/fsc": {
       "id": "organization/fsc",
@@ -101,7 +298,41 @@
         "nl": "Internationale non-profitorganisatie die normen vaststelt voor bosbeheer en ketens van bosproducten.",
         "en": "International non-profit organization that sets standards for forest management and forest-product supply chains."
       },
-      "url": "https://fsc.org/en"
+      "url": "https://fsc.org/en",
+      "same_as": [
+        "https://www.wikidata.org/wiki/Q748367",
+        "https://nl.wikipedia.org/wiki/Forest_Stewardship_Council",
+        "https://dbpedia.org/resource/Forest_Stewardship_Council"
+      ],
+      "identifiers": [
+        {
+          "scheme": "Google Knowledge Graph ID",
+          "value": "/m/03j_48",
+          "source": "https://www.wikidata.org/wiki/Q748367"
+        },
+        {
+          "scheme": "ISNI",
+          "value": "000000012034014X",
+          "source": "https://isni.org/isni/000000012034014X"
+        },
+        {
+          "scheme": "VIAF",
+          "value": "132331608",
+          "source": "https://viaf.org/viaf/132331608/"
+        },
+        {
+          "scheme": "Library of Congress",
+          "value": "no2004004581",
+          "source": "https://id.loc.gov/authorities/names/no2004004581.html"
+        }
+      ],
+      "main_entity_of_page": "https://fsc.org/en/about-us",
+      "legal_name": "Forest Stewardship Council",
+      "founding_date": "1993",
+      "alternate_names": [
+        "FSC",
+        "FSC International"
+      ]
     },
     "organization/pefc": {
       "id": "organization/pefc",
@@ -114,7 +345,35 @@
         "nl": "Internationale organisatie voor onafhankelijke boscertificering en de erkenning van nationale boscertificeringssystemen.",
         "en": "International organization supporting independent forest certification and endorsement of national forest certification systems."
       },
-      "url": "https://www.pefc.org/"
+      "url": "https://www.pefc.org/",
+      "same_as": [
+        "https://www.wikidata.org/wiki/Q2112204",
+        "https://nl.wikipedia.org/wiki/Programme_for_Endorsement_of_Forest_Certification_Schemes",
+        "https://dbpedia.org/resource/Programme_for_the_Endorsement_of_Forest_Certification"
+      ],
+      "identifiers": [
+        {
+          "scheme": "Freebase ID",
+          "value": "/m/07t8vl",
+          "source": "https://www.wikidata.org/wiki/Q2112204"
+        },
+        {
+          "scheme": "EU Transparency Register",
+          "value": "600488317698-58",
+          "source": "https://www.wikidata.org/wiki/Q2112204"
+        },
+        {
+          "scheme": "UK Parliament thesaurus",
+          "value": "62133",
+          "source": "https://www.wikidata.org/wiki/Q2112204"
+        }
+      ],
+      "legal_name": "Programme for the Endorsement of Forest Certification",
+      "founding_date": "1999",
+      "alternate_names": [
+        "PEFC International",
+        "Programme for the Endorsement of Forest Certification"
+      ]
     },
     "defined_term/due_diligence_eudr": {
       "id": "defined_term/due_diligence_eudr",
@@ -261,7 +520,75 @@
       "description": {
         "nl": "Republiek Congo in Centraal-Afrika.",
         "en": "The Republic of the Congo in Central Africa."
-      }
+      },
+      "same_as": [
+        "https://www.wikidata.org/wiki/Q971",
+        "https://dbpedia.org/resource/Republic_of_the_Congo",
+        "https://kbpedia.org/knowledge-graph/reference-concept/?uri=Congo-Brazzaville",
+        "https://nl.wikipedia.org/wiki/Congo-Brazzaville"
+      ],
+      "identifiers": [
+        {
+          "scheme": "ISO 3166-1 alpha-2",
+          "value": "CG",
+          "source": "https://www.iso.org/obp/ui/#iso:code:3166:CG"
+        },
+        {
+          "scheme": "ISO 3166-1 alpha-3",
+          "value": "COG",
+          "source": "https://www.iso.org/obp/ui/#iso:code:3166:CG"
+        },
+        {
+          "scheme": "ISO 3166-1 numeric",
+          "value": "178",
+          "source": "https://www.iso.org/obp/ui/#iso:code:3166:CG"
+        },
+        {
+          "scheme": "Google Knowledge Graph ID",
+          "value": "/m/01rxw",
+          "source": "https://g.co/kg/m/01rxw"
+        },
+        {
+          "scheme": "EuroVoc",
+          "value": "111",
+          "source": "https://eurovoc.europa.eu/111"
+        },
+        {
+          "scheme": "ISNI",
+          "value": "0000000123242385",
+          "source": "https://isni.org/isni/0000000123242385"
+        },
+        {
+          "scheme": "GeoNames",
+          "value": "2260494",
+          "source": "https://www.geonames.org/2260494/republic-of-the-congo.html"
+        },
+        {
+          "scheme": "OpenStreetMap",
+          "value": "relation/192794",
+          "source": "https://www.openstreetmap.org/relation/192794"
+        },
+        {
+          "scheme": "UNESCO Thesaurus",
+          "value": "concept701",
+          "source": "https://vocabularies.unesco.org/thesaurus/concept701"
+        },
+        {
+          "scheme": "Getty TGN",
+          "value": "1000158",
+          "source": "https://vocab.getty.edu/tgn/1000158"
+        },
+        {
+          "scheme": "UN Thesaurus",
+          "value": "1001232",
+          "source": "https://metadata.un.org/thesaurus/1001232"
+        }
+      ],
+      "main_entity_of_page": "https://nl.wikipedia.org/wiki/Congo-Brazzaville",
+      "alternate_names": [
+        "Congo",
+        "Republiek Congo"
+      ]
     },
     "country/gabon": {
       "id": "country/gabon",
@@ -273,7 +600,79 @@
       "description": {
         "nl": "Land in Centraal-Afrika aan de Atlantische Oceaan.",
         "en": "Country in Central Africa on the Atlantic Ocean."
-      }
+      },
+      "same_as": [
+        "https://www.wikidata.org/wiki/Q1000",
+        "https://dbpedia.org/resource/Gabon",
+        "https://kbpedia.org/knowledge-graph/reference-concept/?uri=Gabon",
+        "https://nl.wikipedia.org/wiki/Gabon"
+      ],
+      "identifiers": [
+        {
+          "scheme": "ISO 3166-1 alpha-2",
+          "value": "GA",
+          "source": "https://www.iso.org/obp/ui/#iso:code:3166:GA"
+        },
+        {
+          "scheme": "ISO 3166-1 alpha-3",
+          "value": "GAB",
+          "source": "https://www.iso.org/obp/ui/#iso:code:3166:GA"
+        },
+        {
+          "scheme": "ISO 3166-1 numeric",
+          "value": "266",
+          "source": "https://www.iso.org/obp/ui/#iso:code:3166:GA"
+        },
+        {
+          "scheme": "Google Knowledge Graph ID",
+          "value": "/m/03548",
+          "source": "https://www.google.com/search?kgmid=/m/03548"
+        },
+        {
+          "scheme": "ISNI",
+          "value": "0000000121956165",
+          "source": "https://isni.org/isni/0000000121956165"
+        },
+        {
+          "scheme": "BabelNet",
+          "value": "bn:00036978n",
+          "source": "https://babelnet.org/synset?id=bn:00036978n&lang=NL"
+        },
+        {
+          "scheme": "EuroVoc",
+          "value": "1124",
+          "source": "https://eurovoc.europa.eu/1124"
+        },
+        {
+          "scheme": "GeoNames",
+          "value": "2400553",
+          "source": "https://www.geonames.org/2400553/gabonese-republic.html"
+        },
+        {
+          "scheme": "Getty TGN",
+          "value": "1000164",
+          "source": "https://vocab.getty.edu/tgn/1000164"
+        },
+        {
+          "scheme": "OpenStreetMap",
+          "value": "relation/192793",
+          "source": "https://www.openstreetmap.org/relation/192793"
+        },
+        {
+          "scheme": "UNESCO Thesaurus",
+          "value": "concept710",
+          "source": "https://vocabularies.unesco.org/thesaurus/concept710"
+        },
+        {
+          "scheme": "UN Thesaurus",
+          "value": "1002578",
+          "source": "https://metadata.un.org/thesaurus/1002578"
+        }
+      ],
+      "main_entity_of_page": "https://nl.wikipedia.org/wiki/Gabon",
+      "alternate_names": [
+        "Republiek Gabon"
+      ]
     },
     "country/ivoorkust": {
       "id": "country/ivoorkust",
@@ -285,7 +684,81 @@
       "description": {
         "nl": "Land in West-Afrika aan de Golf van Guinee.",
         "en": "Country in West Africa on the Gulf of Guinea."
-      }
+      },
+      "same_as": [
+        "https://www.wikidata.org/wiki/Q1008",
+        "https://dbpedia.org/resource/Ivory_Coast",
+        "https://kbpedia.org/knowledge-graph/reference-concept/?uri=IvoryCoast",
+        "https://nl.wikipedia.org/wiki/Ivoorkust"
+      ],
+      "identifiers": [
+        {
+          "scheme": "ISO 3166-1 alpha-2",
+          "value": "CI",
+          "source": "https://www.iso.org/obp/ui/#iso:code:3166:CI"
+        },
+        {
+          "scheme": "ISO 3166-1 alpha-3",
+          "value": "CIV",
+          "source": "https://www.iso.org/obp/ui/#iso:code:3166:CI"
+        },
+        {
+          "scheme": "ISO 3166-1 numeric",
+          "value": "384",
+          "source": "https://www.iso.org/obp/ui/#iso:code:3166:CI"
+        },
+        {
+          "scheme": "Google Knowledge Graph ID",
+          "value": "/m/0fv4v",
+          "source": "https://www.google.com/search?kgmid=/m/0fv4v"
+        },
+        {
+          "scheme": "ISNI",
+          "value": "0000000123317877",
+          "source": "https://isni.org/isni/0000000123317877"
+        },
+        {
+          "scheme": "BabelNet",
+          "value": "bn:00023043n",
+          "source": "https://babelnet.org/synset?id=bn:00023043n&lang=NL"
+        },
+        {
+          "scheme": "EuroVoc",
+          "value": "249",
+          "source": "https://eurovoc.europa.eu/249"
+        },
+        {
+          "scheme": "GeoNames",
+          "value": "2287781",
+          "source": "https://www.geonames.org/2287781/republic-of-cote-d-ivoire.html"
+        },
+        {
+          "scheme": "Getty TGN",
+          "value": "1000168",
+          "source": "https://vocab.getty.edu/tgn/1000168"
+        },
+        {
+          "scheme": "OpenStreetMap",
+          "value": "relation/192779",
+          "source": "https://www.openstreetmap.org/relation/192779"
+        },
+        {
+          "scheme": "UNESCO Thesaurus",
+          "value": "concept703",
+          "source": "https://vocabularies.unesco.org/thesaurus/concept703"
+        },
+        {
+          "scheme": "UN Thesaurus",
+          "value": "1001339",
+          "source": "https://metadata.un.org/thesaurus/1001339"
+        }
+      ],
+      "main_entity_of_page": "https://nl.wikipedia.org/wiki/Ivoorkust",
+      "alternate_names": [
+        "Republiek Côte d'Ivoire",
+        "Côte d'Ivoire",
+        "Elpenbeenkust"
+      ]
     },
     "country/india": {
       "id": "country/india",
@@ -297,7 +770,64 @@
       "description": {
         "nl": "Land in Zuid-Azië.",
         "en": "Country in South Asia."
-      }
+      },
+      "same_as": [
+        "https://www.wikidata.org/wiki/Q668",
+        "https://kbpedia.org/kko/rc/India",
+        "https://dbpedia.org/resource/India",
+        "https://nl.wikipedia.org/wiki/India"
+      ],
+      "identifiers": [
+        {
+          "scheme": "ISO 3166-1 alpha-2",
+          "value": "IN",
+          "source": "https://www.iso.org/obp/ui/#iso:code:3166:IN"
+        },
+        {
+          "scheme": "ISO 3166-1 alpha-3",
+          "value": "IND",
+          "source": "https://www.iso.org/obp/ui/#iso:code:3166:IN"
+        },
+        {
+          "scheme": "ISO 3166-1 numeric",
+          "value": "356",
+          "source": "https://www.iso.org/obp/ui/#iso:code:3166:IN"
+        },
+        {
+          "scheme": "Google Knowledge Graph ID",
+          "value": "/m/03rk0",
+          "source": "https://www.google.com/search?kgmid=/m/03rk0"
+        },
+        {
+          "scheme": "OCLC WorldCat Entity",
+          "value": "E39PBJmdx47cDXrRhBXHtbvPwC",
+          "source": "https://id.oclc.org/worldcat/entity/E39PBJmdx47cDXrRhBXHtbvPwC"
+        },
+        {
+          "scheme": "BabelNet",
+          "value": "bn:00010203n",
+          "source": "https://babelnet.org/synset?id=bn:00010203n&lang=NL"
+        },
+        {
+          "scheme": "EuroVoc",
+          "value": "1338",
+          "source": "https://eurovoc.europa.eu/1338"
+        },
+        {
+          "scheme": "UNESCO Thesaurus",
+          "value": "concept12233",
+          "source": "https://vocabularies.unesco.org/thesaurus/concept12233"
+        },
+        {
+          "scheme": "UN Thesaurus",
+          "value": "1003097",
+          "source": "https://metadata.un.org/thesaurus/1003097"
+        }
+      ],
+      "main_entity_of_page": "https://nl.wikipedia.org/wiki/India",
+      "alternate_names": [
+        "Republiek India"
+      ]
     },
     "country/libanon": {
       "id": "country/libanon",
@@ -309,7 +839,77 @@
       "description": {
         "nl": "Land aan de oostkust van de Middellandse Zee.",
         "en": "Country on the eastern Mediterranean coast."
-      }
+      },
+      "same_as": [
+        "https://www.wikidata.org/wiki/Q822",
+        "https://dbpedia.org/resource/Lebanon",
+        "https://nl.wikipedia.org/wiki/Libanon"
+      ],
+      "identifiers": [
+        {
+          "scheme": "ISO 3166-1 alpha-2",
+          "value": "LB",
+          "source": "https://www.iso.org/obp/ui/#iso:code:3166:LB"
+        },
+        {
+          "scheme": "ISO 3166-1 alpha-3",
+          "value": "LBN",
+          "source": "https://www.iso.org/obp/ui/#iso:code:3166:LB"
+        },
+        {
+          "scheme": "ISO 3166-1 numeric",
+          "value": "422",
+          "source": "https://www.iso.org/obp/ui/#iso:code:3166:LB"
+        },
+        {
+          "scheme": "Google Knowledge Graph ID",
+          "value": "/m/04hqz",
+          "source": "https://www.google.com/search?kgmid=/m/04hqz"
+        },
+        {
+          "scheme": "ISNI",
+          "value": "0000000123420559",
+          "source": "https://isni.org/isni/0000000123420559"
+        },
+        {
+          "scheme": "BabelNet",
+          "value": "bn:00050469n",
+          "source": "https://babelnet.org/synset?id=bn%3A00050469n&lang=NL"
+        },
+        {
+          "scheme": "EuroVoc",
+          "value": "161",
+          "source": "https://eurovoc.europa.eu/161"
+        },
+        {
+          "scheme": "GeoNames",
+          "value": "272103",
+          "source": "https://www.geonames.org/272103/lebanon.html"
+        },
+        {
+          "scheme": "OpenStreetMap",
+          "value": "relation/184843",
+          "source": "https://www.openstreetmap.org/relation/184843"
+        },
+        {
+          "scheme": "UNESCO Thesaurus",
+          "value": "concept843",
+          "source": "https://vocabularies.unesco.org/thesaurus/concept843"
+        },
+        {
+          "scheme": "Getty TGN",
+          "value": "1000126",
+          "source": "https://vocab.getty.edu/tgn/1000126"
+        },
+        {
+          "scheme": "UN Thesaurus",
+          "value": "1003666",
+          "source": "https://metadata.un.org/thesaurus/1003666"
+        }
+      ],
+      "alternate_names": [
+        "Republiek Libanon"
+      ]
     },
     "country/noord_macedonie": {
       "id": "country/noord_macedonie",
@@ -321,7 +921,32 @@
       "description": {
         "nl": "Land in Zuidoost-Europa.",
         "en": "Country in southeastern Europe."
-      }
+      },
+      "same_as": [
+        "https://www.wikidata.org/wiki/Q221"
+      ],
+      "identifiers": [
+        {
+          "scheme": "ISO 3166-1 alpha-2",
+          "value": "MK",
+          "source": "https://www.iso.org/obp/ui/#iso:code:3166:MK"
+        },
+        {
+          "scheme": "ISO 3166-1 alpha-3",
+          "value": "MKD",
+          "source": "https://www.iso.org/obp/ui/#iso:code:3166:MK"
+        },
+        {
+          "scheme": "ISO 3166-1 numeric",
+          "value": "807",
+          "source": "https://www.iso.org/obp/ui/#iso:code:3166:MK"
+        }
+      ],
+      "alternate_names": [
+        "Macedonië",
+        "Republic of North Macedonia",
+        "Republic of Macedonia"
+      ]
     },
     "article/linkedin_eudr_taric_codes_2026": {
       "id": "article/linkedin_eudr_taric_codes_2026",
@@ -560,6 +1185,10 @@
       "start_date": "2026-10-01",
       "relations": [
         {
+          "predicate": "organizer",
+          "target": "organization/houtwereld"
+        },
+        {
           "predicate": "contributor",
           "target": "person/eduard_de_boer"
         },
@@ -580,7 +1209,37 @@
         "nl": "Houtwereld-sprekersprofiel waarin Eduard de Boer wordt beschreven als EUTR/EUDR-specialist en FSC®/PEFC-auditor.",
         "en": "Houtwereld speaker profile describing Eduard de Boer as an EUTR/EUDR specialist and FSC®/PEFC auditor."
       },
-      "url": "https://www.houtwereld.nl/houtwereld-praktijkdag-2026/sprekers/eduard-de-boer/"
+      "url": "https://www.houtwereld.nl/houtwereld-praktijkdag-2026/sprekers/eduard-de-boer/",
+      "relations": [
+        {
+          "predicate": "publisher",
+          "target": "organization/houtwereld"
+        },
+        {
+          "predicate": "about",
+          "target": "person/eduard_de_boer"
+        },
+        {
+          "predicate": "about",
+          "target": "event/houtwereld_praktijkdag_2026"
+        },
+        {
+          "predicate": "mentions",
+          "target": "legislation/eutr_995_2010"
+        },
+        {
+          "predicate": "mentions",
+          "target": "legislation/eudr_2023_1115"
+        },
+        {
+          "predicate": "mentions",
+          "target": "organization/fsc"
+        },
+        {
+          "predicate": "mentions",
+          "target": "organization/pefc"
+        }
+      ]
     },
     "event/interu_eudr_risk_assessment_webinar": {
       "id": "event/interu_eudr_risk_assessment_webinar",
@@ -594,7 +1253,25 @@
         "en": "Interu webinar held on 3 July 2025 on practical EUDR risk assessment and third-party field audits, featuring Eduard de Boer as an external EUDR expert."
       },
       "url": "https://app.livestorm.co/iov42-interu/eudr-compliance-performing-effective-risk-assessments",
-      "start_date": "2025-07-03"
+      "start_date": "2025-07-03",
+      "relations": [
+        {
+          "predicate": "contributor",
+          "target": "person/eduard_de_boer"
+        },
+        {
+          "predicate": "about",
+          "target": "legislation/eudr_2023_1115"
+        },
+        {
+          "predicate": "about",
+          "target": "defined_term/risk_assessment"
+        },
+        {
+          "predicate": "about",
+          "target": "defined_term/auditing"
+        }
+      ]
     },
     "tv_series/de_rijdende_rechter": {
       "id": "tv_series/de_rijdende_rechter",
@@ -607,7 +1284,17 @@
         "nl": "Nederlands televisieprogramma waarin juridische geschillen worden behandeld en beoordeeld door een rijdende rechter.",
         "en": "Dutch television programme in which legal disputes are examined and adjudicated by a travelling judge."
       },
-      "url": "https://kro-ncrv.nl/programmas/de-rijdende-rechter"
+      "url": "https://kro-ncrv.nl/programmas/de-rijdende-rechter",
+      "same_as": [
+        "https://www.wikidata.org/wiki/Q14850021"
+      ],
+      "identifiers": [
+        {
+          "scheme": "TheTVDB series ID",
+          "value": "221231",
+          "source": "https://thetvdb.com/series/221231-show"
+        }
+      ]
     },
     "tv_episode/door_het_stof_rijdende_rechter": {
       "id": "tv_episode/door_het_stof_rijdende_rechter",
@@ -621,7 +1308,17 @@
         "en": "Episode in which Eduard de Boer appeared as a reputation expert."
       },
       "url": "https://tvblik.nl/de-rijdende-rechter/door-het-stof",
-      "date_published": "2019-04-09"
+      "date_published": "2019-04-09",
+      "relations": [
+        {
+          "predicate": "contributor",
+          "target": "person/eduard_de_boer"
+        },
+        {
+          "predicate": "isPartOf",
+          "target": "tv_series/de_rijdende_rechter"
+        }
+      ]
     },
     "tv_episode/gevloerd_rijdende_rechter": {
       "id": "tv_episode/gevloerd_rijdende_rechter",
@@ -635,7 +1332,17 @@
         "en": "Episode in which Eduard de Boer appeared as a reputation expert."
       },
       "url": "https://tvblik.nl/de-rijdende-rechter/gevloerd",
-      "date_published": "2017-03-21"
+      "date_published": "2017-03-21",
+      "relations": [
+        {
+          "predicate": "contributor",
+          "target": "person/eduard_de_boer"
+        },
+        {
+          "predicate": "isPartOf",
+          "target": "tv_series/de_rijdende_rechter"
+        }
+      ]
     },
     "tv_episode/laat_je_niet_kisten_rijdende_rechter": {
       "id": "tv_episode/laat_je_niet_kisten_rijdende_rechter",
@@ -649,7 +1356,21 @@
         "en": "Episode in which Eduard de Boer appeared as a reputation expert."
       },
       "url": "https://tvblik.nl/de-rijdende-rechter/laat-je-niet-kisten",
-      "date_published": "2019-10-15"
+      "date_published": "2019-10-15",
+      "same_as": [
+        "https://www.imdb.com/title/tt14821218/",
+        "https://www.wikidata.org/wiki/Q107177484"
+      ],
+      "relations": [
+        {
+          "predicate": "contributor",
+          "target": "person/eduard_de_boer"
+        },
+        {
+          "predicate": "isPartOf",
+          "target": "tv_series/de_rijdende_rechter"
+        }
+      ]
     },
     "tv_episode/schutting_van_de_rekening_rijdende_rechter": {
       "id": "tv_episode/schutting_van_de_rekening_rijdende_rechter",
@@ -663,7 +1384,21 @@
         "en": "Episode in which Eduard de Boer appeared as a reputation expert."
       },
       "url": "https://tvblik.nl/de-rijdende-rechter/schutting-van-de-rekening",
-      "date_published": "2019-05-07"
+      "date_published": "2019-05-07",
+      "same_as": [
+        "https://www.imdb.com/title/tt14821224/",
+        "https://www.wikidata.org/wiki/Q107177558"
+      ],
+      "relations": [
+        {
+          "predicate": "contributor",
+          "target": "person/eduard_de_boer"
+        },
+        {
+          "predicate": "isPartOf",
+          "target": "tv_series/de_rijdende_rechter"
+        }
+      ]
     },
     "tv_episode/t_heen_en_weer_krijgen_rijdende_rechter": {
       "id": "tv_episode/t_heen_en_weer_krijgen_rijdende_rechter",
@@ -677,7 +1412,17 @@
         "en": "Episode in which Eduard de Boer appeared as a reputation expert."
       },
       "url": "https://tvblik.nl/de-rijdende-rechter/t-heen-en-weer-krijgen",
-      "date_published": "2018-04-10"
+      "date_published": "2018-04-10",
+      "relations": [
+        {
+          "predicate": "contributor",
+          "target": "person/eduard_de_boer"
+        },
+        {
+          "predicate": "isPartOf",
+          "target": "tv_series/de_rijdende_rechter"
+        }
+      ]
     },
     "article/ieb_eudr_more_time_eutr_attention_2024": {
       "id": "article/ieb_eudr_more_time_eutr_attention_2024",
@@ -1614,6 +2359,20 @@
           "target": "organization/ingenieursbureau_evan_buytendijk"
         }
       ]
+    },
+    "organization/houtwereld": {
+      "id": "organization/houtwereld",
+      "type": "Organization",
+      "name": {
+        "nl": "Houtwereld",
+        "en": "Houtwereld"
+      },
+      "description": {
+        "nl": "Vakmedium voor de Nederlandse houtbranche, gericht op handel, industrie, bouw, regelgeving, techniek en marktontwikkelingen.",
+        "en": "Trade publication for the Dutch timber sector, covering trade, industry, construction, regulation, technology and market developments."
+      },
+      "url": "https://www.houtwereld.nl/",
+      "main_entity_of_page": "https://www.houtwereld.nl/"
     }
   },
   "relations": [
@@ -1643,9 +2402,64 @@
       "target": "organization/pefc"
     },
     {
+      "subject": "person/eduard_de_boer",
+      "predicate": "knowsAbout",
+      "target": "defined_term/due_diligence_eudr"
+    },
+    {
+      "subject": "person/eduard_de_boer",
+      "predicate": "knowsAbout",
+      "target": "defined_term/due_diligence_eutr"
+    },
+    {
+      "subject": "person/eduard_de_boer",
+      "predicate": "knowsAbout",
+      "target": "defined_term/geolocation_eudr"
+    },
+    {
+      "subject": "person/eduard_de_boer",
+      "predicate": "knowsAbout",
+      "target": "defined_term/supply_chain_traceability"
+    },
+    {
+      "subject": "person/eduard_de_boer",
+      "predicate": "knowsAbout",
+      "target": "defined_term/risk_assessment"
+    },
+    {
+      "subject": "person/eduard_de_boer",
+      "predicate": "knowsAbout",
+      "target": "defined_term/auditing"
+    },
+    {
+      "subject": "organization/ingenieursbureau_evan_buytendijk",
+      "predicate": "knowsAbout",
+      "target": "legislation/eudr_2023_1115"
+    },
+    {
+      "subject": "organization/ingenieursbureau_evan_buytendijk",
+      "predicate": "knowsAbout",
+      "target": "legislation/eutr_995_2010"
+    },
+    {
+      "subject": "organization/ingenieursbureau_evan_buytendijk",
+      "predicate": "knowsAbout",
+      "target": "organization/fsc"
+    },
+    {
+      "subject": "organization/ingenieursbureau_evan_buytendijk",
+      "predicate": "knowsAbout",
+      "target": "organization/pefc"
+    },
+    {
       "subject": "certification/iso_19011_internal_auditor",
       "predicate": "about",
       "target": "person/eduard_de_boer"
+    },
+    {
+      "subject": "legislation/eudr_2023_1115",
+      "predicate": "legislationRepeals",
+      "target": "legislation/eutr_995_2010"
     },
     {
       "subject": "article/linkedin_eudr_taric_codes_2026",
@@ -1789,6 +2603,11 @@
     },
     {
       "subject": "event/houtwereld_praktijkdag_2026",
+      "predicate": "organizer",
+      "target": "organization/houtwereld"
+    },
+    {
+      "subject": "event/houtwereld_praktijkdag_2026",
       "predicate": "contributor",
       "target": "person/eduard_de_boer"
     },
@@ -1796,6 +2615,111 @@
       "subject": "event/houtwereld_praktijkdag_2026",
       "predicate": "about",
       "target": "legislation/eudr_2023_1115"
+    },
+    {
+      "subject": "creative_work/houtwereld_speaker_profile_eduard_de_boer_2026",
+      "predicate": "publisher",
+      "target": "organization/houtwereld"
+    },
+    {
+      "subject": "creative_work/houtwereld_speaker_profile_eduard_de_boer_2026",
+      "predicate": "about",
+      "target": "person/eduard_de_boer"
+    },
+    {
+      "subject": "creative_work/houtwereld_speaker_profile_eduard_de_boer_2026",
+      "predicate": "about",
+      "target": "event/houtwereld_praktijkdag_2026"
+    },
+    {
+      "subject": "creative_work/houtwereld_speaker_profile_eduard_de_boer_2026",
+      "predicate": "mentions",
+      "target": "legislation/eutr_995_2010"
+    },
+    {
+      "subject": "creative_work/houtwereld_speaker_profile_eduard_de_boer_2026",
+      "predicate": "mentions",
+      "target": "legislation/eudr_2023_1115"
+    },
+    {
+      "subject": "creative_work/houtwereld_speaker_profile_eduard_de_boer_2026",
+      "predicate": "mentions",
+      "target": "organization/fsc"
+    },
+    {
+      "subject": "creative_work/houtwereld_speaker_profile_eduard_de_boer_2026",
+      "predicate": "mentions",
+      "target": "organization/pefc"
+    },
+    {
+      "subject": "event/interu_eudr_risk_assessment_webinar",
+      "predicate": "contributor",
+      "target": "person/eduard_de_boer"
+    },
+    {
+      "subject": "event/interu_eudr_risk_assessment_webinar",
+      "predicate": "about",
+      "target": "legislation/eudr_2023_1115"
+    },
+    {
+      "subject": "event/interu_eudr_risk_assessment_webinar",
+      "predicate": "about",
+      "target": "defined_term/risk_assessment"
+    },
+    {
+      "subject": "event/interu_eudr_risk_assessment_webinar",
+      "predicate": "about",
+      "target": "defined_term/auditing"
+    },
+    {
+      "subject": "tv_episode/door_het_stof_rijdende_rechter",
+      "predicate": "contributor",
+      "target": "person/eduard_de_boer"
+    },
+    {
+      "subject": "tv_episode/door_het_stof_rijdende_rechter",
+      "predicate": "isPartOf",
+      "target": "tv_series/de_rijdende_rechter"
+    },
+    {
+      "subject": "tv_episode/gevloerd_rijdende_rechter",
+      "predicate": "contributor",
+      "target": "person/eduard_de_boer"
+    },
+    {
+      "subject": "tv_episode/gevloerd_rijdende_rechter",
+      "predicate": "isPartOf",
+      "target": "tv_series/de_rijdende_rechter"
+    },
+    {
+      "subject": "tv_episode/laat_je_niet_kisten_rijdende_rechter",
+      "predicate": "contributor",
+      "target": "person/eduard_de_boer"
+    },
+    {
+      "subject": "tv_episode/laat_je_niet_kisten_rijdende_rechter",
+      "predicate": "isPartOf",
+      "target": "tv_series/de_rijdende_rechter"
+    },
+    {
+      "subject": "tv_episode/schutting_van_de_rekening_rijdende_rechter",
+      "predicate": "contributor",
+      "target": "person/eduard_de_boer"
+    },
+    {
+      "subject": "tv_episode/schutting_van_de_rekening_rijdende_rechter",
+      "predicate": "isPartOf",
+      "target": "tv_series/de_rijdende_rechter"
+    },
+    {
+      "subject": "tv_episode/t_heen_en_weer_krijgen_rijdende_rechter",
+      "predicate": "contributor",
+      "target": "person/eduard_de_boer"
+    },
+    {
+      "subject": "tv_episode/t_heen_en_weer_krijgen_rijdende_rechter",
+      "predicate": "isPartOf",
+      "target": "tv_series/de_rijdende_rechter"
     },
     {
       "subject": "article/ieb_eudr_more_time_eutr_attention_2024",

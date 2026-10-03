@@ -2,6 +2,7 @@
 title: "Publications"
 description: "Articles and analysis on the EUDR, EUTR, FSC®, certification, auditing and international timber supply chains."
 translationKey: "insights"
+kg_section: "insights"
 ---
 
 This section brings together my current professional publications on regulation, due diligence, traceability, auditing and certification in international timber supply chains.

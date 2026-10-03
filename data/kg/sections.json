@@ -20,7 +20,8 @@
           "entities": [
             "organization/ingenieursbureau_evan_buytendijk",
             "certification/iso_19011_internal_auditor"
-          ]
+          ],
+          "schema_relation": "mentions"
         },
         {
           "title": {
@@ -32,9 +33,14 @@
             "legislation/eutr_995_2010",
             "organization/fsc",
             "organization/pefc"
-          ]
+          ],
+          "schema_relation": "mentions"
         }
-      ]
+      ],
+      "schema": {
+        "page_type": "AboutPage",
+        "main_entity": "person/eduard_de_boer"
+      }
     },
     "expertise": {
       "title": {
@@ -54,7 +60,8 @@
           "entities": [
             "legislation/eudr_2023_1115",
             "legislation/eutr_995_2010"
-          ]
+          ],
+          "schema_relation": "about"
         },
         {
           "title": {
@@ -68,7 +75,8 @@
             "defined_term/supply_chain_traceability",
             "defined_term/risk_assessment",
             "defined_term/auditing"
-          ]
+          ],
+          "schema_relation": "about"
         },
         {
           "title": {
@@ -82,9 +90,13 @@
             "organization/fsc",
             "organization/pefc",
             "creative_work/fsc_regulatory_module_2024"
-          ]
+          ],
+          "schema_relation": "mentions"
         }
-      ]
+      ],
+      "schema": {
+        "page_type": "WebPage"
+      }
     },
     "experience": {
       "title": {
@@ -108,7 +120,8 @@
             "country/india",
             "country/libanon",
             "country/noord_macedonie"
-          ]
+          ],
+          "schema_relation": "mentions"
         },
         {
           "title": {
@@ -119,9 +132,14 @@
             "article/ieb_eutr_supplier_audit_congo_2022",
             "article/ieb_eutr_supplier_audit_india_2023",
             "article/ieb_eutr_audit_lebanon_2023"
-          ]
+          ],
+          "schema_relation": "mentions"
         }
-      ]
+      ],
+      "schema": {
+        "page_type": "WebPage",
+        "main_entity": "person/eduard_de_boer"
+      }
     },
     "speaking": {
       "title": {
@@ -142,7 +160,10 @@
             "event/houtwereld_praktijkdag_2026",
             "creative_work/houtwereld_speaker_profile_eduard_de_boer_2026",
             "event/interu_eudr_risk_assessment_webinar"
-          ]
+          ],
+          "schema_relation": "hasPart",
+          "item_list": true,
+          "schema_id": "professional-speaking"
         },
         {
           "title": {
@@ -156,9 +177,15 @@
             "tv_episode/door_het_stof_rijdende_rechter",
             "tv_episode/schutting_van_de_rekening_rijdende_rechter",
             "tv_episode/laat_je_niet_kisten_rijdende_rechter"
-          ]
+          ],
+          "schema_relation": "hasPart",
+          "item_list": true,
+          "schema_id": "historical-media"
         }
-      ]
+      ],
+      "schema": {
+        "page_type": "CollectionPage"
+      }
     },
     "insights": {
       "title": {
@@ -210,7 +237,11 @@
             "article/ieb_maaldrift_fsc_2023",
             "article/ieb_eutr_supplier_audit_india_2023",
             "article/ieb_eutr_supplier_audit_congo_2022"
-          ]
+          ],
+          "schema_relation": "hasPart",
+          "item_list": true,
+          "item_list_order": "https://schema.org/ItemListOrderDescending",
+          "schema_id": "authored-publications"
         },
         {
           "title": {
@@ -223,6 +254,60 @@
             "article/interu_webinar_qa_eudr_risk_assessment",
             "article/interu_ai_supply_chain_interview",
             "article/houtwereld_eudr_geolocatie_app_2024"
+          ],
+          "schema_relation": "hasPart",
+          "item_list": true,
+          "item_list_order": "https://schema.org/ItemListOrderDescending",
+          "schema_id": "interviews-and-media"
+        }
+      ],
+      "schema": {
+        "page_type": "CollectionPage"
+      }
+    },
+    "home": {
+      "title": {
+        "nl": "Homepage-entiteiten",
+        "en": "Homepage entities"
+      },
+      "intro": {
+        "nl": "Entiteiten die expliciet op de homepage zichtbaar zijn.",
+        "en": "Entities explicitly visible on the homepage."
+      },
+      "schema": {
+        "page_type": "ProfilePage",
+        "main_entity": "person/eduard_de_boer"
+      },
+      "groups": [
+        {
+          "title": {
+            "nl": "Professionele focus",
+            "en": "Professional focus"
+          },
+          "schema_relation": "mentions",
+          "entities": [
+            "organization/ingenieursbureau_evan_buytendijk",
+            "legislation/eudr_2023_1115",
+            "legislation/eutr_995_2010",
+            "organization/fsc",
+            "organization/pefc",
+            "defined_term/due_diligence_eudr",
+            "defined_term/supply_chain_traceability"
+          ]
+        },
+        {
+          "title": {
+            "nl": "Internationale ervaring",
+            "en": "International experience"
+          },
+          "schema_relation": "mentions",
+          "entities": [
+            "country/congo_brazzaville",
+            "country/gabon",
+            "country/ivoorkust",
+            "country/india",
+            "country/libanon",
+            "country/noord_macedonie"
           ]
         }
       ]

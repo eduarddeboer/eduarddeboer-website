@@ -50,3 +50,43 @@ A KG refresh is a controlled content change:
 5. deploy the exact validated website artifact.
 
 The site never fetches live KG data at request time.
+
+
+## Contextual JSON-LD projection
+
+The human-readable site and the structured-data graph use the same pinned KG
+projection, but they serve different audiences.
+
+For each page:
+
+1. visible, editorially relevant KG entities are the **seed entities**;
+2. the page node links those seeds with the most accurate Schema.org relation
+   (`about`, `mentions`, `hasPart`, `mainEntity`, etc.);
+3. each seed entity is emitted as a compact JSON-LD node;
+4. direct relation targets of a seed are also emitted so relationships such as
+   `Article -> about -> Legislation`, `TVEpisode -> contributor -> Person` and
+   `Person -> knowsAbout -> DefinedTerm` resolve inside the same graph;
+5. expansion stops after that direct target. The website never recursively dumps
+   the complete knowledge graph into a page.
+
+The canonical website Person node remains `https://eduarddeboer.com/#person`.
+KG relations that target `person/eduard_de_boer` are reconciled to that node.
+The Person node in turn uses `sameAs` to connect to the canonical KG entity URI
+and reviewed external identities.
+
+### Page semantics
+
+- Home: `ProfilePage` with Eduard de Boer as `mainEntity`, visible professional
+  entities as `mentions`, and the three visible latest publications as `hasPart`.
+- About: `AboutPage` with Eduard de Boer as `mainEntity`.
+- Expertise: `WebPage` with substantive legislation/concepts under `about` and
+  guidance/certification context under `mentions`.
+- Experience: `WebPage` with Eduard de Boer as `mainEntity`, plus visible
+  countries and selected audit publications.
+- Speaking & media: `CollectionPage` with explicit `ItemList` collections.
+- Publications: `CollectionPage` with separate authored-publication and
+  interview/media `ItemList` collections.
+
+CI validates both the source projection contract and the generated JSON-LD in the
+production-canonical Hugo artifact. A page may not silently show a configured KG
+entity while omitting it from its structured-data projection.

@@ -2,6 +2,7 @@
 title: "Publicaties"
 description: "Artikelen en analyses over EUDR, EUTR, FSC®, certificering, audits en internationale houtketens."
 translationKey: "insights"
+kg_section: "insights"
 ---
 
 Hier verzamel ik mijn huidige vakpublicaties over regelgeving, due diligence, traceerbaarheid, audits en certificering in internationale houtketens.

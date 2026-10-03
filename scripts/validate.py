@@ -131,7 +131,31 @@ def validate_section_projections(snapshot: dict) -> dict:
         if not isinstance(groups, list) or not groups:
             raise SystemExit(f"KG section {section_key!r} must contain groups")
 
+        schema_config = section.get("schema") or {}
+        if not isinstance(schema_config, dict):
+            raise SystemExit(f"KG section {section_key!r} schema config must be an object")
+        page_type = schema_config.get("page_type")
+        if page_type not in {"ProfilePage", "AboutPage", "WebPage", "CollectionPage"}:
+            raise SystemExit(
+                f"KG section {section_key!r} must define a supported schema page_type"
+            )
+        main_entity = schema_config.get("main_entity")
+        if main_entity and main_entity not in entities:
+            raise SystemExit(
+                f"KG section {section_key!r} main_entity {main_entity!r} is absent from the snapshot"
+            )
+
         for group in groups:
+            schema_relation = group.get("schema_relation", "mentions")
+            if schema_relation not in {"about", "mentions", "hasPart"}:
+                raise SystemExit(
+                    f"KG section {section_key!r} has unsupported schema_relation "
+                    f"{schema_relation!r}"
+                )
+            if group.get("item_list") and not group.get("schema_id"):
+                raise SystemExit(
+                    f"KG section {section_key!r} item-list group must define schema_id"
+                )
             ids = group.get("entities")
             if not isinstance(ids, list) or not ids:
                 raise SystemExit(
@@ -194,12 +218,60 @@ def validate_section_projections(snapshot: dict) -> dict:
         raise SystemExit("Current professional media archive unexpectedly lost contributed items")
 
     # The core public sections must all be mapped.
-    required_sections = {"about", "expertise", "experience", "speaking", "insights"}
+    required_sections = {"home", "about", "expertise", "experience", "speaking", "insights"}
     missing = required_sections - set(sections)
     if missing:
         raise SystemExit(
             f"KG section projection lacks required sections: {sorted(missing)}"
         )
+
+    home = sections["home"]
+    home_ids = {
+        entity_id
+        for group in home["groups"]
+        for entity_id in group.get("entities", [])
+    }
+    required_home_entities = {
+        "organization/ingenieursbureau_evan_buytendijk",
+        "legislation/eudr_2023_1115",
+        "legislation/eutr_995_2010",
+        "organization/fsc",
+        "organization/pefc",
+        "defined_term/due_diligence_eudr",
+        "defined_term/supply_chain_traceability",
+        "country/congo_brazzaville",
+        "country/gabon",
+        "country/ivoorkust",
+        "country/india",
+        "country/libanon",
+        "country/noord_macedonie",
+    }
+    missing_home_entities = required_home_entities - home_ids
+    if missing_home_entities:
+        raise SystemExit(
+            "Homepage schema projection lost visible entities: "
+            f"{sorted(missing_home_entities)}"
+        )
+
+    person_relations = entities["person/eduard_de_boer"].get("relations") or []
+    person_relation_pairs = {
+        (relation.get("predicate"), relation.get("target"))
+        for relation in person_relations
+    }
+    for target in {
+        "organization/ingenieursbureau_evan_buytendijk",
+        "legislation/eudr_2023_1115",
+        "legislation/eutr_995_2010",
+        "organization/fsc",
+        "organization/pefc",
+        "defined_term/due_diligence_eudr",
+        "defined_term/supply_chain_traceability",
+    }:
+        predicate = "worksFor" if target == "organization/ingenieursbureau_evan_buytendijk" else "knowsAbout"
+        if (predicate, target) not in person_relation_pairs:
+            raise SystemExit(
+                f"Canonical Person projection lacks {predicate} -> {target}"
+            )
 
     return data
 

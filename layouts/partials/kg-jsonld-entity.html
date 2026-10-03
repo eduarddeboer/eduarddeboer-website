@@ -1,0 +1,82 @@
+{{- $entity := .entity -}}
+{{- $lang := .lang -}}
+{{- $graphBase := .graphBase -}}
+{{- $personID := .personID -}}
+{{- $overrideID := .overrideID | default "" -}}
+{{- $includeRelations := .includeRelations | default false -}}
+{{- $allowedTargets := .allowedTargets | default (slice) -}}
+{{- $isPerson := eq $entity.id "person/eduard_de_boer" -}}
+
+{{- $nodeID := printf "%s%s" $graphBase $entity.id -}}
+{{- if $overrideID }}{{ $nodeID = $overrideID }}{{ end -}}
+{{- $name := index $entity.name $lang | default (index $entity.name "nl") | default (index $entity.name "en") -}}
+
+{{- $node := dict
+  "@type" $entity.type
+  "@id" $nodeID
+  "name" $name
+-}}
+
+{{- with $entity.description -}}
+  {{- $description := index . $lang | default (index . "nl") | default (index . "en") -}}
+  {{- with $description }}{{ $node = merge $node (dict "description" .) }}{{ end -}}
+{{- end -}}
+
+{{- with $entity.url }}{{ $node = merge $node (dict "url" .) }}{{ end -}}
+{{- with $entity.image }}{{ $node = merge $node (dict "image" .) }}{{ end -}}
+{{- with $entity.legal_name }}{{ $node = merge $node (dict "legalName" .) }}{{ end -}}
+{{- with $entity.founding_date }}{{ $node = merge $node (dict "foundingDate" .) }}{{ end -}}
+{{- with $entity.legislation_date }}{{ $node = merge $node (dict "legislationDate" .) }}{{ end -}}
+{{- with $entity.date_published }}{{ $node = merge $node (dict "datePublished" .) }}{{ end -}}
+{{- with $entity.start_date }}{{ $node = merge $node (dict "startDate" .) }}{{ end -}}
+
+{{- with $entity.job_title -}}
+  {{- $value := index . $lang | default (index . "nl") | default (index . "en") -}}
+  {{- with $value }}{{ $node = merge $node (dict "jobTitle" .) }}{{ end -}}
+{{- end -}}
+
+{{- $alternateNames := slice -}}
+{{- with $entity.alternate_name -}}
+  {{- $value := index . $lang | default (index . "nl") | default (index . "en") -}}
+  {{- with $value }}{{ $alternateNames = $alternateNames | append . }}{{ end -}}
+{{- end -}}
+{{- range $entity.alternate_names }}{{ $alternateNames = $alternateNames | append . }}{{ end -}}
+{{- $alternateNames = uniq $alternateNames -}}
+{{- if $alternateNames }}{{ $node = merge $node (dict "alternateName" $alternateNames) }}{{ end -}}
+
+{{- $sameAs := slice -}}
+{{- if $isPerson }}{{ $sameAs = $sameAs | append (printf "%s%s" $graphBase $entity.id) }}{{ end -}}
+{{- range $entity.same_as }}{{ $sameAs = $sameAs | append . }}{{ end -}}
+{{- $sameAs = uniq $sameAs -}}
+{{- if $sameAs }}{{ $node = merge $node (dict "sameAs" $sameAs) }}{{ end -}}
+
+{{- $identifiers := slice -}}
+{{- range $entity.identifiers -}}
+  {{- $identifier := dict "@type" "PropertyValue" "propertyID" .scheme "value" .value -}}
+  {{- with .source }}{{ $identifier = merge $identifier (dict "url" .) }}{{ end -}}
+  {{- $identifiers = $identifiers | append $identifier -}}
+{{- end -}}
+{{- if $identifiers }}{{ $node = merge $node (dict "identifier" $identifiers) }}{{ end -}}
+
+{{- if and (not $isPerson) $entity.main_entity_of_page -}}
+  {{- $node = merge $node (dict "mainEntityOfPage" $entity.main_entity_of_page) -}}
+{{- end -}}
+
+{{- if $includeRelations -}}
+  {{- $relationScratch := newScratch -}}
+  {{- $relationScratch.Set "map" (dict) -}}
+  {{- range $entity.relations -}}
+    {{- if or (not $allowedTargets) (in $allowedTargets .target) -}}
+      {{- $targetURI := printf "%s%s" $graphBase .target -}}
+      {{- if eq .target "person/eduard_de_boer" }}{{ $targetURI = $personID }}{{ end -}}
+      {{- $relationMap := $relationScratch.Get "map" -}}
+      {{- $existing := index $relationMap .predicate | default (slice) -}}
+      {{- $relationScratch.SetInMap "map" .predicate ($existing | append (dict "@id" $targetURI)) -}}
+    {{- end -}}
+  {{- end -}}
+  {{- range $predicate, $items := ($relationScratch.Get "map") -}}
+    {{- $node = merge $node (dict $predicate $items) -}}
+  {{- end -}}
+{{- end -}}
+
+{{- return $node -}}

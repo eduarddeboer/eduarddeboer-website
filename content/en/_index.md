@@ -2,6 +2,7 @@
 title: "Eduard de Boer"
 description: "Specialist in timber legality, deforestation-free supply chains and due diligence, working at Ingenieursbureau Evan Buytendijk (IEB)."
 translationKey: "home"
+kg_section: "home"
 hero:
   eyebrow: "Working at Ingenieursbureau Evan Buytendijk (IEB)"
   subtitle: "Specialist in timber legality, deforestation-free supply chains and due diligence"

@@ -2,6 +2,7 @@
 title: "Eduard de Boer"
 description: "Specialist in houtlegaliteit, ontbossingsvrije ketens en due diligence, werkzaam bij Ingenieursbureau Evan Buytendijk (IEB)."
 translationKey: "home"
+kg_section: "home"
 hero:
   eyebrow: "Werkzaam bij Ingenieursbureau Evan Buytendijk (IEB)"
   subtitle: "Specialist in houtlegaliteit, ontbossingsvrije ketens en due diligence"
