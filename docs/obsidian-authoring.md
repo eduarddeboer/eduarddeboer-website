@@ -8,14 +8,14 @@ The website is designed so that the Hugo `content/` directory is also the Obsidi
 2. In Obsidian choose **Open folder as vault** and select the repository's `content/` directory.
 3. Enable **Community plugins**, install **Templater**, and enable it.
 4. In **Settings → Templater** set **Template folder location** to:
-   `.templates`
+   `_templates`
 5. Prefer manual template creation instead of automatic folder rules. In Templater's **Template Hotkeys**, add the templates you use frequently. This exposes a **Create** command for each template that can also receive an Obsidian hotkey.
 
-The repository ignores `content/.obsidian/`, so local workspace/plugin settings do not become website source. The shared templates in `content/.templates/` are versioned in Git.
+The repository ignores `content/.obsidian/`, so local workspace/plugin settings do not become website source. The shared templates in `content/_templates/` are versioned in Git.
 
 ## Included templates
 
-### `.templates/new-insight.md`
+### `_templates/new-insight.md`
 
 Use this for a substantive article or analysis in **Publicaties / Insights**.
 
@@ -32,7 +32,7 @@ It then creates a Hugo leaf bundle at:
 
 Put page-owned images and other local media in that same `<slug>/` folder.
 
-### `.templates/new-page.md`
+### `_templates/new-page.md`
 
 Use this for an evergreen content page below an existing section such as Expertise, Experience, Speaking or About.
 
@@ -40,7 +40,7 @@ It creates:
 
 `<lang>/<section>/<slug>/index.md`
 
-### `.templates/new-section.md`
+### `_templates/new-section.md`
 
 Use this only when a genuinely new top-level section is needed. It creates:
 
