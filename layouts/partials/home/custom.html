@@ -44,30 +44,8 @@
       <figcaption>{{ $hero.image_label }}</figcaption>
     </figure>
 
-    <aside class="edb-summary" aria-label="{{ .Params.quick_facts_title }}">
-      <h2>{{ .Params.quick_facts_title }}</h2>
-      <ul>
-        {{- range .Params.quick_facts }}
-          <li>
-            <span class="edb-summary__mark" aria-hidden="true"></span>
-            <span>
-              <strong>{{ .title }}</strong>
-              <small>{{ .text }}</small>
-            </span>
-          </li>
-        {{- end }}
-      </ul>
-    </aside>
   </section>
 
-  <section class="edb-proof" aria-label="{{ if eq .Language.Lang "nl" }}Professionele context{{ else }}Professional context{{ end }}">
-    {{- range .Params.proof }}
-      <div class="edb-proof__item">
-        <strong>{{ .title }}</strong>
-        <span>{{ .text }}</span>
-      </div>
-    {{- end }}
-  </section>
 
   <section class="edb-routes" aria-label="{{ if eq .Language.Lang "nl" }}Hoofdonderwerpen{{ else }}Main topics{{ end }}">
     {{- range .Params.routes }}
