@@ -51,3 +51,12 @@ Internal identifiers, filenames and source-code symbols are not public copy and 
 3. the existing portability, privacy and knowledge-graph contracts.
 
 The automated list is intentionally narrow. It is a guardrail, not a substitute for substantive review of claims in context.
+
+
+## Editorial voice
+
+Public prose must also follow [docs/writing-voice.md](docs/writing-voice.md).
+
+That guide defines the site's authorial voice: direct, personal, investigative, practical and evidence-led. It is the default reference for drafting and editing new articles, especially when AI is used as an editorial assistant.
+
+The style guide does not override factual, legal, trademark, evidence or claim requirements in this content policy.
