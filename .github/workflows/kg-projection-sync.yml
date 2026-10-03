@@ -1,0 +1,243 @@
+name: Sync production KG projection
+
+on:
+  schedule:
+    - cron: "17 * * * *"
+  workflow_dispatch:
+
+permissions:
+  contents: write
+  pull-requests: write
+
+concurrency:
+  group: website-kg-projection-sync
+  cancel-in-progress: false
+
+jobs:
+  choose-runner:
+    name: Choose preferred runner
+    runs-on: ubuntu-latest
+    timeout-minutes: 2
+    outputs:
+      runs_on: ${{ steps.choose.outputs.runs_on }}
+      target: ${{ steps.choose.outputs.target }}
+      runner_name: ${{ steps.choose.outputs.runner_name }}
+    steps:
+      - name: Prefer an online idle local macOS runner
+        id: choose
+        uses: actions/github-script@v8
+        with:
+          github-token: ${{ secrets.RUNNER_ROUTER_TOKEN }}
+          script: |
+            const { owner, repo } = context.repo;
+            const { data } = await github.rest.actions.listSelfHostedRunnersForRepo({
+              owner,
+              repo,
+              per_page: 100,
+            });
+            const candidates = data.runners.filter((runner) => {
+              const labels = new Set((runner.labels || []).map((label) => label.name));
+              return runner.status === "online"
+                && runner.busy === false
+                && labels.has("self-hosted")
+                && labels.has("macOS");
+            });
+            const local = candidates[0] || null;
+            core.setOutput(
+              "runs_on",
+              JSON.stringify(local ? ["self-hosted", "macOS"] : ["ubuntu-latest"])
+            );
+            core.setOutput("target", local ? "local" : "github-hosted");
+            core.setOutput("runner_name", local ? local.name : "ubuntu-latest");
+
+  sync:
+    name: Sync KG projection on ${{ needs.choose-runner.outputs.target }}
+    needs: choose-runner
+    runs-on: ${{ fromJSON(needs.choose-runner.outputs.runs_on) }}
+    timeout-minutes: 15
+
+    steps:
+      - name: Report selected runner
+        run: |
+          echo "Routing target: ${{ needs.choose-runner.outputs.target }}"
+          echo "Selected runner: ${{ needs.choose-runner.outputs.runner_name }}"
+          echo "Executing on: ${{ runner.name }} (${{ runner.os }}/${{ runner.arch }})"
+
+      - name: Checkout trusted website main
+        uses: actions/checkout@v7
+        with:
+          ref: main
+          fetch-depth: 0
+
+      - name: Python 3.12
+        uses: actions/setup-python@v6
+        with:
+          python-version: "3.12"
+
+      - name: Fetch exact production KG handoff
+        id: handoff
+        shell: bash
+        run: |
+          set -euo pipefail
+          snapshot_status="$(
+            curl -sS -L -o /tmp/kg-site-snapshot.json -w '%{http_code}'               https://data.eduarddeboer.com/site-snapshot.json
+          )"
+          manifest_status="$(
+            curl -sS -L -o /tmp/kg-release-manifest.json -w '%{http_code}'               https://data.eduarddeboer.com/release-manifest.json
+          )"
+          if [[ "$snapshot_status" != "200" || "$manifest_status" != "200" ]]; then
+            echo "available=false" >> "$GITHUB_OUTPUT"
+            {
+              echo "## KG projection sync"
+              echo
+              echo "Production handoff is not available yet."
+              echo
+              echo "- site-snapshot.json HTTP: $snapshot_status"
+              echo "- release-manifest.json HTTP: $manifest_status"
+              echo
+              echo "No website files were changed."
+            } >> "$GITHUB_STEP_SUMMARY"
+            exit 0
+          fi
+          echo "available=true" >> "$GITHUB_OUTPUT"
+
+      - name: Compare semantic projection
+        id: compare
+        if: steps.handoff.outputs.available == 'true'
+        shell: bash
+        run: |
+          set -euo pipefail
+          python3 scripts/sync_kg_projection.py             /tmp/kg-site-snapshot.json             /tmp/kg-release-manifest.json             --status-json /tmp/kg-sync-status.json
+          python3 - /tmp/kg-sync-status.json >> "$GITHUB_OUTPUT" <<'PY'
+          import json
+          import sys
+          status = json.load(open(sys.argv[1], encoding="utf-8"))
+          print("changed=" + ("true" if status["changed"] else "false"))
+          print("candidate_commit=" + status["candidate_commit"])
+          print("candidate_digest=" + status["candidate_semantic_sha256"])
+          PY
+
+      - name: Report no semantic drift
+        if: steps.handoff.outputs.available == 'true' && steps.compare.outputs.changed != 'true'
+        shell: bash
+        run: |
+          {
+            echo "## KG projection sync"
+            echo
+            echo "No semantic website-projection drift detected."
+            echo
+            echo "A KG commit change by itself does not create a website PR."
+            echo
+            echo "Production KG commit: ${{ steps.compare.outputs.candidate_commit }}"
+            echo "Semantic SHA-256: ${{ steps.compare.outputs.candidate_digest }}"
+          } >> "$GITHUB_STEP_SUMMARY"
+
+      - name: Prepare stable sync branch
+        if: steps.compare.outputs.changed == 'true'
+        id: branch
+        shell: bash
+        run: |
+          set -euo pipefail
+          BRANCH="bridge/kg-projection-sync"
+          git config user.name "github-actions[bot]"
+          git config user.email "41898282+github-actions[bot]@users.noreply.github.com"
+          git fetch origin main
+          if git ls-remote --exit-code --heads origin "$BRANCH" >/dev/null 2>&1; then
+            git fetch origin "$BRANCH:refs/remotes/origin/$BRANCH"
+            git checkout -B "$BRANCH" "refs/remotes/origin/$BRANCH"
+            git merge --no-edit origin/main
+          else
+            git checkout -B "$BRANCH" origin/main
+          fi
+          echo "name=$BRANCH" >> "$GITHUB_OUTPUT"
+
+      - name: Apply validated production projection
+        if: steps.compare.outputs.changed == 'true'
+        id: apply
+        shell: bash
+        run: |
+          set -euo pipefail
+          python3 scripts/sync_kg_projection.py             /tmp/kg-site-snapshot.json             /tmp/kg-release-manifest.json             --apply             --status-json /tmp/kg-sync-applied.json
+          python3 scripts/validate.py
+          python3 tests/test_kg_projection_sync.py
+          git add -- data/kg/snapshot.json data/kg/sections.json
+          if git diff --cached --quiet; then
+            echo "committed=false" >> "$GITHUB_OUTPUT"
+          else
+            git commit -m "data: refresh KG website projection"
+            git push -u origin "${{ steps.branch.outputs.name }}"
+            echo "committed=true" >> "$GITHUB_OUTPUT"
+          fi
+
+      - name: Open or refresh website snapshot PR
+        if: steps.compare.outputs.changed == 'true'
+        uses: actions/github-script@v8
+        env:
+          SYNC_BRANCH: ${{ steps.branch.outputs.name }}
+          KG_COMMIT: ${{ steps.compare.outputs.candidate_commit }}
+          KG_DIGEST: ${{ steps.compare.outputs.candidate_digest }}
+        with:
+          script: |
+            const { owner, repo } = context.repo;
+            const branch = process.env.SYNC_BRANCH;
+            const kgCommit = process.env.KG_COMMIT;
+            const digest = process.env.KG_DIGEST;
+            const title = "Sync production KG website projection";
+            const body = [
+              "## Automated KG projection refresh",
+              "",
+              "Production KG commit: " + kgCommit,
+              "Semantic projection SHA-256: " + digest,
+              "",
+              "This PR updates only the pinned KG website snapshot and the matching section source commit.",
+              "",
+              "The production snapshot and production release manifest were required to pin the same KG commit before this branch was updated.",
+              "",
+              "Normal website validation, contextual JSON-LD checks, quality gates and Mobile Lighthouse remain authoritative.",
+              "",
+              "**This PR is never auto-merged.**",
+            ].join("\n");
+            const existing = await github.paginate(github.rest.pulls.list, {
+              owner,
+              repo,
+              state: "open",
+              head: owner + ":" + branch,
+              base: "main",
+              per_page: 100,
+            });
+            if (existing.length) {
+              await github.rest.pulls.update({
+                owner,
+                repo,
+                pull_number: existing[0].number,
+                title,
+                body,
+              });
+              core.notice("Updated website sync PR #" + existing[0].number);
+              return;
+            }
+            const created = await github.rest.pulls.create({
+              owner,
+              repo,
+              title,
+              head: branch,
+              base: "main",
+              body,
+              draft: false,
+            });
+            core.notice("Opened website sync PR #" + created.data.number);
+
+      - name: Summarize proposed semantic drift
+        if: steps.compare.outputs.changed == 'true'
+        shell: bash
+        run: |
+          {
+            echo "## KG projection sync"
+            echo
+            echo "Semantic drift detected and prepared for website review."
+            echo
+            echo "Production KG commit: ${{ steps.compare.outputs.candidate_commit }}"
+            echo "Semantic SHA-256: ${{ steps.compare.outputs.candidate_digest }}"
+            echo
+            echo "No automatic merge or publication was performed."
+          } >> "$GITHUB_STEP_SUMMARY"
