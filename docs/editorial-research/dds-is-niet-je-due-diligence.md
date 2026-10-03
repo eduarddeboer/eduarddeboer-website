@@ -124,6 +124,20 @@ Scenario:
 
 This case avoids naming a real client or presenting client-specific confidential details.
 
+## Practitioner yield benchmarks supplied by Eduard
+
+These are practical screening benchmarks from Eduard's field experience, not legal EUDR thresholds. They should be used as plausibility checks and, if presented as universal factual claims in public copy, independently sourced or carefully qualified.
+
+### Sawn timber from roundwood
+- Maximum practical recovery of A-/export-quality sawn timber: approximately 50–54% of roundwood input.
+- Remaining material is not necessarily all waste; lower grades may be sold on the local market, with the rest consisting of sawmill losses, offcuts, residues and other outputs.
+- A claimed export-quality recovery substantially above this range should trigger investigation of batch allocation, measurement basis, product mix and possible mixing of production lots.
+
+### Peeled veneer / plywood input
+- Approximate absolute maximum peeling recovery for veneer: around 80%.
+- In the Cambodian factory previously audited by Eduard, approximately 70% was achieved and regarded as a good result.
+- This benchmark is especially relevant for future composite-product, veneer and plywood input-output reconciliation examples.
+
 ## Desired analytical movement
 
 1. Start with a dossier that looks complete.
