@@ -684,7 +684,81 @@
       "description": {
         "nl": "Land in West-Afrika aan de Golf van Guinee.",
         "en": "Country in West Africa on the Gulf of Guinea."
-      }
+      },
+      "same_as": [
+        "https://www.wikidata.org/wiki/Q1008",
+        "https://dbpedia.org/resource/Ivory_Coast",
+        "https://kbpedia.org/knowledge-graph/reference-concept/?uri=IvoryCoast",
+        "https://nl.wikipedia.org/wiki/Ivoorkust"
+      ],
+      "identifiers": [
+        {
+          "scheme": "ISO 3166-1 alpha-2",
+          "value": "CI",
+          "source": "https://www.iso.org/obp/ui/#iso:code:3166:CI"
+        },
+        {
+          "scheme": "ISO 3166-1 alpha-3",
+          "value": "CIV",
+          "source": "https://www.iso.org/obp/ui/#iso:code:3166:CI"
+        },
+        {
+          "scheme": "ISO 3166-1 numeric",
+          "value": "384",
+          "source": "https://www.iso.org/obp/ui/#iso:code:3166:CI"
+        },
+        {
+          "scheme": "Google Knowledge Graph ID",
+          "value": "/m/0fv4v",
+          "source": "https://www.google.com/search?kgmid=/m/0fv4v"
+        },
+        {
+          "scheme": "ISNI",
+          "value": "0000000123317877",
+          "source": "https://isni.org/isni/0000000123317877"
+        },
+        {
+          "scheme": "BabelNet",
+          "value": "bn:00023043n",
+          "source": "https://babelnet.org/synset?id=bn:00023043n&lang=NL"
+        },
+        {
+          "scheme": "EuroVoc",
+          "value": "249",
+          "source": "https://eurovoc.europa.eu/249"
+        },
+        {
+          "scheme": "GeoNames",
+          "value": "2287781",
+          "source": "https://www.geonames.org/2287781/republic-of-cote-d-ivoire.html"
+        },
+        {
+          "scheme": "Getty TGN",
+          "value": "1000168",
+          "source": "https://vocab.getty.edu/tgn/1000168"
+        },
+        {
+          "scheme": "OpenStreetMap",
+          "value": "relation/192779",
+          "source": "https://www.openstreetmap.org/relation/192779"
+        },
+        {
+          "scheme": "UNESCO Thesaurus",
+          "value": "concept703",
+          "source": "https://vocabularies.unesco.org/thesaurus/concept703"
+        },
+        {
+          "scheme": "UN Thesaurus",
+          "value": "1001339",
+          "source": "https://metadata.un.org/thesaurus/1001339"
+        }
+      ],
+      "main_entity_of_page": "https://nl.wikipedia.org/wiki/Ivoorkust",
+      "alternate_names": [
+        "Republiek Côte d'Ivoire",
+        "Côte d'Ivoire",
+        "Elpenbeenkust"
+      ]
     },
     "country/india": {
       "id": "country/india",
@@ -765,7 +839,77 @@
       "description": {
         "nl": "Land aan de oostkust van de Middellandse Zee.",
         "en": "Country on the eastern Mediterranean coast."
-      }
+      },
+      "same_as": [
+        "https://www.wikidata.org/wiki/Q822",
+        "https://dbpedia.org/resource/Lebanon",
+        "https://nl.wikipedia.org/wiki/Libanon"
+      ],
+      "identifiers": [
+        {
+          "scheme": "ISO 3166-1 alpha-2",
+          "value": "LB",
+          "source": "https://www.iso.org/obp/ui/#iso:code:3166:LB"
+        },
+        {
+          "scheme": "ISO 3166-1 alpha-3",
+          "value": "LBN",
+          "source": "https://www.iso.org/obp/ui/#iso:code:3166:LB"
+        },
+        {
+          "scheme": "ISO 3166-1 numeric",
+          "value": "422",
+          "source": "https://www.iso.org/obp/ui/#iso:code:3166:LB"
+        },
+        {
+          "scheme": "Google Knowledge Graph ID",
+          "value": "/m/04hqz",
+          "source": "https://www.google.com/search?kgmid=/m/04hqz"
+        },
+        {
+          "scheme": "ISNI",
+          "value": "0000000123420559",
+          "source": "https://isni.org/isni/0000000123420559"
+        },
+        {
+          "scheme": "BabelNet",
+          "value": "bn:00050469n",
+          "source": "https://babelnet.org/synset?id=bn%3A00050469n&lang=NL"
+        },
+        {
+          "scheme": "EuroVoc",
+          "value": "161",
+          "source": "https://eurovoc.europa.eu/161"
+        },
+        {
+          "scheme": "GeoNames",
+          "value": "272103",
+          "source": "https://www.geonames.org/272103/lebanon.html"
+        },
+        {
+          "scheme": "OpenStreetMap",
+          "value": "relation/184843",
+          "source": "https://www.openstreetmap.org/relation/184843"
+        },
+        {
+          "scheme": "UNESCO Thesaurus",
+          "value": "concept843",
+          "source": "https://vocabularies.unesco.org/thesaurus/concept843"
+        },
+        {
+          "scheme": "Getty TGN",
+          "value": "1000126",
+          "source": "https://vocab.getty.edu/tgn/1000126"
+        },
+        {
+          "scheme": "UN Thesaurus",
+          "value": "1003666",
+          "source": "https://metadata.un.org/thesaurus/1003666"
+        }
+      ],
+      "alternate_names": [
+        "Republiek Libanon"
+      ]
     },
     "country/noord_macedonie": {
       "id": "country/noord_macedonie",
@@ -777,7 +921,32 @@
       "description": {
         "nl": "Land in Zuidoost-Europa.",
         "en": "Country in southeastern Europe."
-      }
+      },
+      "same_as": [
+        "https://www.wikidata.org/wiki/Q221"
+      ],
+      "identifiers": [
+        {
+          "scheme": "ISO 3166-1 alpha-2",
+          "value": "MK",
+          "source": "https://www.iso.org/obp/ui/#iso:code:3166:MK"
+        },
+        {
+          "scheme": "ISO 3166-1 alpha-3",
+          "value": "MKD",
+          "source": "https://www.iso.org/obp/ui/#iso:code:3166:MK"
+        },
+        {
+          "scheme": "ISO 3166-1 numeric",
+          "value": "807",
+          "source": "https://www.iso.org/obp/ui/#iso:code:3166:MK"
+        }
+      ],
+      "alternate_names": [
+        "Macedonië",
+        "Republic of North Macedonia",
+        "Republic of Macedonia"
+      ]
     },
     "article/linkedin_eudr_taric_codes_2026": {
       "id": "article/linkedin_eudr_taric_codes_2026",
@@ -1063,7 +1232,17 @@
         "nl": "Nederlands televisieprogramma waarin juridische geschillen worden behandeld en beoordeeld door een rijdende rechter.",
         "en": "Dutch television programme in which legal disputes are examined and adjudicated by a travelling judge."
       },
-      "url": "https://kro-ncrv.nl/programmas/de-rijdende-rechter"
+      "url": "https://kro-ncrv.nl/programmas/de-rijdende-rechter",
+      "same_as": [
+        "https://www.wikidata.org/wiki/Q14850021"
+      ],
+      "identifiers": [
+        {
+          "scheme": "TheTVDB series ID",
+          "value": "221231",
+          "source": "https://thetvdb.com/series/221231-show"
+        }
+      ]
     },
     "tv_episode/door_het_stof_rijdende_rechter": {
       "id": "tv_episode/door_het_stof_rijdende_rechter",
@@ -1077,7 +1256,17 @@
         "en": "Episode in which Eduard de Boer appeared as a reputation expert."
       },
       "url": "https://tvblik.nl/de-rijdende-rechter/door-het-stof",
-      "date_published": "2019-04-09"
+      "date_published": "2019-04-09",
+      "relations": [
+        {
+          "predicate": "contributor",
+          "target": "person/eduard_de_boer"
+        },
+        {
+          "predicate": "isPartOf",
+          "target": "tv_series/de_rijdende_rechter"
+        }
+      ]
     },
     "tv_episode/gevloerd_rijdende_rechter": {
       "id": "tv_episode/gevloerd_rijdende_rechter",
@@ -1091,7 +1280,17 @@
         "en": "Episode in which Eduard de Boer appeared as a reputation expert."
       },
       "url": "https://tvblik.nl/de-rijdende-rechter/gevloerd",
-      "date_published": "2017-03-21"
+      "date_published": "2017-03-21",
+      "relations": [
+        {
+          "predicate": "contributor",
+          "target": "person/eduard_de_boer"
+        },
+        {
+          "predicate": "isPartOf",
+          "target": "tv_series/de_rijdende_rechter"
+        }
+      ]
     },
     "tv_episode/laat_je_niet_kisten_rijdende_rechter": {
       "id": "tv_episode/laat_je_niet_kisten_rijdende_rechter",
@@ -1105,7 +1304,21 @@
         "en": "Episode in which Eduard de Boer appeared as a reputation expert."
       },
       "url": "https://tvblik.nl/de-rijdende-rechter/laat-je-niet-kisten",
-      "date_published": "2019-10-15"
+      "date_published": "2019-10-15",
+      "same_as": [
+        "https://www.imdb.com/title/tt14821218/",
+        "https://www.wikidata.org/wiki/Q107177484"
+      ],
+      "relations": [
+        {
+          "predicate": "contributor",
+          "target": "person/eduard_de_boer"
+        },
+        {
+          "predicate": "isPartOf",
+          "target": "tv_series/de_rijdende_rechter"
+        }
+      ]
     },
     "tv_episode/schutting_van_de_rekening_rijdende_rechter": {
       "id": "tv_episode/schutting_van_de_rekening_rijdende_rechter",
@@ -1119,7 +1332,21 @@
         "en": "Episode in which Eduard de Boer appeared as a reputation expert."
       },
       "url": "https://tvblik.nl/de-rijdende-rechter/schutting-van-de-rekening",
-      "date_published": "2019-05-07"
+      "date_published": "2019-05-07",
+      "same_as": [
+        "https://www.imdb.com/title/tt14821224/",
+        "https://www.wikidata.org/wiki/Q107177558"
+      ],
+      "relations": [
+        {
+          "predicate": "contributor",
+          "target": "person/eduard_de_boer"
+        },
+        {
+          "predicate": "isPartOf",
+          "target": "tv_series/de_rijdende_rechter"
+        }
+      ]
     },
     "tv_episode/t_heen_en_weer_krijgen_rijdende_rechter": {
       "id": "tv_episode/t_heen_en_weer_krijgen_rijdende_rechter",
@@ -1133,7 +1360,17 @@
         "en": "Episode in which Eduard de Boer appeared as a reputation expert."
       },
       "url": "https://tvblik.nl/de-rijdende-rechter/t-heen-en-weer-krijgen",
-      "date_published": "2018-04-10"
+      "date_published": "2018-04-10",
+      "relations": [
+        {
+          "predicate": "contributor",
+          "target": "person/eduard_de_boer"
+        },
+        {
+          "predicate": "isPartOf",
+          "target": "tv_series/de_rijdende_rechter"
+        }
+      ]
     },
     "article/ieb_eudr_more_time_eutr_attention_2024": {
       "id": "article/ieb_eudr_more_time_eutr_attention_2024",
@@ -2307,6 +2544,56 @@
       "subject": "event/houtwereld_praktijkdag_2026",
       "predicate": "about",
       "target": "legislation/eudr_2023_1115"
+    },
+    {
+      "subject": "tv_episode/door_het_stof_rijdende_rechter",
+      "predicate": "contributor",
+      "target": "person/eduard_de_boer"
+    },
+    {
+      "subject": "tv_episode/door_het_stof_rijdende_rechter",
+      "predicate": "isPartOf",
+      "target": "tv_series/de_rijdende_rechter"
+    },
+    {
+      "subject": "tv_episode/gevloerd_rijdende_rechter",
+      "predicate": "contributor",
+      "target": "person/eduard_de_boer"
+    },
+    {
+      "subject": "tv_episode/gevloerd_rijdende_rechter",
+      "predicate": "isPartOf",
+      "target": "tv_series/de_rijdende_rechter"
+    },
+    {
+      "subject": "tv_episode/laat_je_niet_kisten_rijdende_rechter",
+      "predicate": "contributor",
+      "target": "person/eduard_de_boer"
+    },
+    {
+      "subject": "tv_episode/laat_je_niet_kisten_rijdende_rechter",
+      "predicate": "isPartOf",
+      "target": "tv_series/de_rijdende_rechter"
+    },
+    {
+      "subject": "tv_episode/schutting_van_de_rekening_rijdende_rechter",
+      "predicate": "contributor",
+      "target": "person/eduard_de_boer"
+    },
+    {
+      "subject": "tv_episode/schutting_van_de_rekening_rijdende_rechter",
+      "predicate": "isPartOf",
+      "target": "tv_series/de_rijdende_rechter"
+    },
+    {
+      "subject": "tv_episode/t_heen_en_weer_krijgen_rijdende_rechter",
+      "predicate": "contributor",
+      "target": "person/eduard_de_boer"
+    },
+    {
+      "subject": "tv_episode/t_heen_en_weer_krijgen_rijdende_rechter",
+      "predicate": "isPartOf",
+      "target": "tv_series/de_rijdende_rechter"
     },
     {
       "subject": "article/ieb_eudr_more_time_eutr_attention_2024",
