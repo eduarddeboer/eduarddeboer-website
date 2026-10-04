@@ -5,10 +5,10 @@ translationKey: "about"
 kg_section: "about"
 ---
 
-I am **Eduard de Boer** and work at **Ingenieursbureau Evan Buytendijk (IEB)**. My current professional focus is timber legality, EUDR/EUTR, due diligence, traceability and FSC®/PEFC.
+I am **Eduard de Boer** and work at **Ingenieursbureau Evan Buytendijk (IEB)**. Much of my work comes down to a fairly simple question: **can you demonstrate that a conclusion is sound?**
 
-My approach is evidence-oriented: a conclusion should be traceable to a requirement, source, document or verifiable observation. I combine legal and normative analysis with practical knowledge of international timber supply chains.
+In EUDR/EUTR, timber legality, traceability and certification, that takes more than collecting documents. You need to know which requirement applies, what evidence supports it, how that evidence connects to the product and where uncertainties remain.
 
-I am an **ISO 19011 Internal Auditor** and have experience with audits, due-diligence systems, manuals, training and supply-chain research.
+I combine legal and normative analysis with practical knowledge of international timber supply chains. I am an **ISO 19011 Internal Auditor** and work with audits, due-diligence systems, manuals, training and supply-chain investigations.
 
-This personal website is my own knowledge and publication layer. It complements rather than replaces the professional context and services of IEB.
+On this site I publish analysis and observations from that field. IEB remains my professional context; this is my personal place for in-depth analysis and publication.
