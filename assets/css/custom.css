@@ -1420,3 +1420,13 @@ footer nav > ul > li {
     margin-top: 1.6rem;
   }
 }
+
+
+/* Registered trademark marks in visitor-facing copy. */
+.edb-trademark {
+  position: relative;
+  top: -.35em;
+  font-size: .62em;
+  line-height: 0;
+  vertical-align: baseline;
+}
