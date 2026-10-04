@@ -1,0 +1,5 @@
+{{- $text := printf "%v" . -}}
+{{- $html := $text | htmlEscape -}}
+{{- $html = replaceRE `Forest Stewardship Council®?` `Forest Stewardship Council<sup class="edb-trademark">®</sup>` $html -}}
+{{- $html = replaceRE `FSC®?` `FSC<sup class="edb-trademark">®</sup>` $html -}}
+{{- $html | safeHTML -}}

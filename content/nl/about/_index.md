@@ -5,10 +5,10 @@ translationKey: "about"
 kg_section: "about"
 ---
 
-Ik ben **Eduard de Boer** en werk bij **Ingenieursbureau Evan Buytendijk (IEB)**. Mijn huidige inhoudelijke focus ligt op houtlegaliteit, EUDR/EUTR, due diligence, traceerbaarheid en FSC®/PEFC.
+Ik ben **Eduard de Boer** en werk bij **Ingenieursbureau Evan Buytendijk (IEB)**. Mijn werk draait vaak om een vrij eenvoudige vraag: **kun je aantonen dat een conclusie klopt?**
 
-Mijn werkwijze is sterk bewijsgericht: een conclusie moet herleidbaar zijn tot een eis, bron, document of controleerbare observatie. Daarbij combineer ik juridische en normatieve analyse met praktische kennis van internationale houtketens.
+Bij EUDR/EUTR, houtlegaliteit, traceerbaarheid en certificering betekent dat meer dan documenten verzamelen. Je moet weten welke eis geldt, welk bewijs die eis ondersteunt, hoe dat bewijs aansluit op het product en waar onzekerheden blijven bestaan.
 
-Ik ben **ISO 19011 Internal Auditor** en heb ervaring met audits, due-diligencesystemen, handboeken, trainingen en ketenonderzoek.
+Ik combineer juridische en normatieve analyse met praktische kennis van internationale houtketens. Ik ben **ISO 19011 Internal Auditor** en werk met audits, due-diligencesystemen, handboeken, trainingen en ketenonderzoek.
 
-Deze persoonlijke site is mijn eigen kennis- en publicatielaag. De dienstverlening en professionele context van IEB blijven herkenbaar en worden niet vervangen door deze website.
+Op deze site publiceer ik analyses en inzichten uit dat vakgebied. IEB blijft mijn professionele context; dit is mijn persoonlijke plek om inhoud te verdiepen en te publiceren.

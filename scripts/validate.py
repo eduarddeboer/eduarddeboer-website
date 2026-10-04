@@ -22,7 +22,9 @@ PUBLIC_TEXT_ROOTS = (
     ROOT / "static",
 )
 PUBLIC_TEXT_SUFFIXES = {".md", ".html", ".toml", ".json", ".xml", ".txt"}
-UNMARKED_FSC = re.compile(r"(?<![\w®])FSC(?!®|\w)")
+TRADEMARK_RENDER = r"(?:®|\{\{<\s*trademark\s*>\}\}|<sup\b)"
+UNMARKED_FSC = re.compile(rf"(?<![\w®])FSC(?!\w|{TRADEMARK_RENDER})")
+UNMARKED_FSC_FULL = re.compile(rf"Forest Stewardship Council(?!{TRADEMARK_RENDER})")
 VAGUE_MARKETING_CLAIMS = (
     re.compile(r"\bduurzame\s+toekomst\b", re.IGNORECASE),
     re.compile(r"\bduurzame\s+impact\b", re.IGNORECASE),
@@ -392,7 +394,15 @@ def validate_public_claims(problems: list[str]) -> None:
         match = UNMARKED_FSC.search(text)
         if match:
             problems.append(
-                f"{rel}: public-facing 'FSC' must be written as 'FSC®'"
+                f"{rel}: public-facing 'FSC' must use the registered mark; "
+                "render it as a superscript in visible HTML"
+            )
+
+        match = UNMARKED_FSC_FULL.search(text)
+        if match:
+            problems.append(
+                f"{rel}: public-facing 'Forest Stewardship Council' must use "
+                "the registered mark as a superscript in visible HTML"
             )
 
         for pattern in VAGUE_MARKETING_CLAIMS:
@@ -446,7 +456,7 @@ def main() -> None:
         f"{len(content_files)} published-content Markdown files, "
         f"{len(entities)} projected entities across "
         f"{len(section_data['sections'])} website sections; "
-        f"claim and FSC® guardrails passed"
+        f"claim and FSC trademark guardrails passed"
     )
 
 

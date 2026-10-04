@@ -38,7 +38,7 @@
       </div>
       <p class="edb-publications-page__count">
         {{ len $authored }}
-        {{ if eq .Language.Lang "nl" }}eigen vakpublicaties in dit overzicht{{ else }}authored professional publications in this overview{{ end }}
+        {{ if eq .Language.Lang "nl" }}publicaties van mijn hand{{ else }}publications I authored{{ end }}
       </p>
     </header>
 
@@ -125,9 +125,9 @@
           <h2 id="edb-media-title">{{ if eq .Language.Lang "nl" }}Interviews & vakmedia{{ else }}Interviews & industry media{{ end }}</h2>
           <p>
             {{ if eq .Language.Lang "nl" }}
-              Artikelen waarin ik als geïnterviewde, bron of inhoudelijk bijdrager voorkom. Deze staan bewust los van publicaties waarvan ik zelf auteur ben.
+              Hier ben ik niet de auteur, maar kom ik aan het woord als geïnterviewde, bron of inhoudelijk bijdrager.
             {{ else }}
-              Articles in which I appear as an interviewee, source or professional contributor. These are deliberately separated from publications I authored.
+              I am not the author of these pieces; I appear as an interviewee, source or subject-matter expert.
             {{ end }}
           </p>
         </header>
@@ -153,15 +153,5 @@
         {{- end }}
       </section>
     {{- end }}
-
-    <aside class="edb-data-note">
-      <p>
-        {{ if eq .Language.Lang "nl" }}
-          Titels, data, auteurschap, bronnen en onderwerprelaties worden vanuit de gecontroleerde publicatiegegevens opgebouwd.
-        {{ else }}
-          Titles, dates, authorship, sources and topic relationships are generated from the reviewed publication data.
-        {{ end }}
-      </p>
-    </aside>
   </div>
 {{ end }}

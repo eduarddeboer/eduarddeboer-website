@@ -12,11 +12,11 @@
 
   <div class="edb-archive-item__body">
     <div class="edb-archive-item__meta">
-      {{- with .publisher }}<span>{{ . }}</span>{{ end -}}
-      {{- range first 3 $topics }}<span>{{ . }}</span>{{ end -}}
+      {{- with .publisher }}<span>{{ partial "trademark-text.html" . }}</span>{{ end -}}
+      {{- range first 3 $topics }}<span>{{ partial "trademark-text.html" . }}</span>{{ end -}}
     </div>
-    <h2><a href="{{ $article.url }}" rel="external noopener noreferrer">{{ .title }}</a></h2>
-    {{- with .description }}<p>{{ . }}</p>{{ end -}}
+    <h2><a href="{{ $article.url }}" rel="external noopener noreferrer">{{ partial "trademark-text.html" .title }}</a></h2>
+    {{- with .description }}<p>{{ partial "trademark-text.html" . }}</p>{{ end -}}
     <a class="edb-archive-item__read" href="{{ $article.url }}" rel="external noopener noreferrer">
       {{ if eq $page.Language.Lang "nl" }}Lees publicatie{{ else }}Read publication{{ end }} <span aria-hidden="true">↗</span>
     </a>

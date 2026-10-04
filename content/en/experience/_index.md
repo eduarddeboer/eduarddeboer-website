@@ -5,16 +5,10 @@ translationKey: "experience"
 kg_section: "experience"
 ---
 
-I work at **Ingenieursbureau Evan Buytendijk (IEB)** on timber legality, due diligence, EUDR/EUTR and certification.
+My work brings regulation and the reality of international timber supply chains together. I have worked on supply chains and assignments involving **Congo, Gabon, Côte d’Ivoire, India, Lebanon and North Macedonia**.
 
-## International supply chains
+Sometimes that starts behind a desk, with documents and transaction flows. Sometimes at a supplier or production site. The question remains the same: **can you reconstruct where a product came from and what the conclusion on legality and risk is based on?**
 
-My work has included supply chains and assignments involving **Congo, Gabon, Côte d’Ivoire, India, Lebanon and North Macedonia**.
+My work includes supplier audits, traceability checks, review of forest and harvesting documentation, risk analysis and support for due-diligence systems.
 
-The practical work ranges from document and risk analysis to supplier audits, traceability checks, review of forest and harvesting documentation and support for due-diligence systems.
-
-## Audit approach
-
-I am an ISO 19011 Internal Auditor. My audit approach is evidence-focused: what requirement applies, what evidence supports the conclusion, where are the uncertainties and which controls or mitigation measures are needed?
-
-This section will be expanded with selected, verifiable examples without publishing confidential client information.
+As an ISO 19011 Internal Auditor, I systematically look at requirements, evidence, uncertainties and controls.

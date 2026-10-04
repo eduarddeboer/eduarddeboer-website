@@ -54,17 +54,13 @@
                       {{- with .date_published }}<time datetime="{{ . }}">{{ dateFormat "02-01-2006" . }}</time>{{ end -}}
                       {{- with .start_date }}<time datetime="{{ . }}">{{ dateFormat "02-01-2006" . }}</time>{{ end -}}
                     </div>
-                    <h4>{{ $name }}</h4>
-                    {{- with $description }}<p>{{ . }}</p>{{ end -}}
+                    <h4>{{ partial "trademark-text.html" $name }}</h4>
+                    {{- with $description }}<p>{{ partial "trademark-text.html" . }}</p>{{ end -}}
                   </div>
                   <div class="edb-context-item__links">
                     {{- with .url }}
                       <a href="{{ . }}" rel="external noopener noreferrer">
                         {{ if eq $.Language.Lang "nl" }}Bron{{ else }}Source{{ end }} <span aria-hidden="true">↗</span>
-                      </a>
-                    {{- else }}
-                      <a href="{{ $kgURL }}" rel="noopener noreferrer">
-                        {{ if eq $.Language.Lang "nl" }}Meer context{{ else }}More context{{ end }} <span aria-hidden="true">→</span>
                       </a>
                     {{- end }}
                   </div>

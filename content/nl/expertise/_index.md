@@ -1,26 +1,24 @@
 ---
 title: "Expertise"
-description: "Houtlegaliteit, EUDR/EUTR, due diligence, traceerbaarheid en FSC®/PEFC."
+description: "Houtlegaliteit, EUDR/EUTR, due diligence, traceerbaarheid en certificering."
 translationKey: "expertise"
 kg_section: "expertise"
 ---
 
-Mijn werk richt zich op de praktische toepassing van regels en controles in internationale houtketens.
+Mijn werk begint meestal niet met de vraag of een document aanwezig is, maar met de vraag wat dat document eigenlijk moet bewijzen.
 
 ## EUDR en EUTR
 
-Analyse van verplichtingen, due-diligenceprocessen, informatievereisten, risicobeoordeling, risicobeperking en dossieropbouw.
+Van wettelijke verplichting naar werkbaar due-diligenceproces: informatie verzamelen, risico's beoordelen, risico's beperken en kunnen onderbouwen waarom een conclusie gerechtvaardigd is.
 
 ## Houtlegaliteit en traceerbaarheid
 
-Beoordeling van herkomst, leveranciersinformatie, documenten, transactiestromen en de aansluiting tussen fysiek product en administratief bewijs.
+Waar komt het product werkelijk vandaan? Ik beoordeel leveranciersinformatie, documenten en transactiestromen en kijk vooral of het fysieke product en het administratieve bewijs aantoonbaar bij elkaar horen.
 
-## FSC® en PEFC
+## FSC{{< trademark >}} en PEFC
 
-Ondersteuning bij Chain of Custody, multisite- en projectvraagstukken, Controlled Wood en de relatie tussen certificering en wettelijke due diligence.
+Chain of Custody, multisite, projectcertificering en Controlled Wood, maar ook de grens tussen wat certificering aannemelijk maakt en wat wettelijke due diligence daarnaast nog vereist.
 
 ## Audits en systemen
 
-Ontwerp, implementatie en toetsing van due-diligencesystemen, procedures, controlevragen en bewijsstructuren. ISO 19011 vormt daarbij een belangrijk auditkader.
-
-De verdiepende pagina's worden stapsgewijs gekoppeld aan regelgeving, standaarden, landen en bronmateriaal in de knowledge graph.
+Een systeem werkt pas als het ook toetsbaar is. Ik ontwerp, implementeer en beoordeel due-diligencesystemen, procedures, controlevragen en bewijsstructuren, met ISO 19011 als belangrijk auditkader.
