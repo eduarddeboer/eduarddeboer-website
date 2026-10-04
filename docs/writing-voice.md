@@ -331,5 +331,6 @@ Current target:
 Visitor-facing copy should describe the subject, the evidence and Eduard's professional perspective — not the site's technical architecture.
 
 - Do not mention the knowledge graph in visitor-facing prose. The small footer link to the knowledge graph is the deliberate exception.
+- Do not render entity lists, relation projections or automatically generated knowledge-graph context blocks as visitor-facing sections. The graph may drive JSON-LD, metadata and editorial recommendations invisibly; visible modules must have a clear reader purpose such as related reading or primary sources.
 - Do not describe sections as being under development, coming later, progressively expanded or otherwise unfinished. Publish what exists; a website is continuously evolving by definition.
 - In visible copy, render the registered trademark symbol after **FSC** and **Forest Stewardship Council** as superscript, never at the normal baseline. In Markdown use `FSC{{< trademark >}}` or `Forest Stewardship Council{{< trademark >}}`. Where superscript markup is unavailable, such as plain-text metadata, use the name without the registered symbol rather than `FSC®` at full size.
