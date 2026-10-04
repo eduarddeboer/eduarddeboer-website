@@ -324,3 +324,12 @@ should be used to refine this file.
 Current target:
 
 > Eduard's natural voice + current technical maturity + tighter modern editing.
+
+
+## Site-level copy conventions
+
+Visitor-facing copy should describe the subject, the evidence and Eduard's professional perspective — not the site's technical architecture.
+
+- Do not mention the knowledge graph in visitor-facing prose. The small footer link to the knowledge graph is the deliberate exception.
+- Do not describe sections as being under development, coming later, progressively expanded or otherwise unfinished. Publish what exists; a website is continuously evolving by definition.
+- In visible copy, render the registered trademark symbol after **FSC** and **Forest Stewardship Council** as superscript, never at the normal baseline. In Markdown use `FSC{{< trademark >}}` or `Forest Stewardship Council{{< trademark >}}`. Where superscript markup is unavailable, such as plain-text metadata, use the name without the registered symbol rather than `FSC®` at full size.
