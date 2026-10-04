@@ -97,13 +97,13 @@
             data-kg-id="{{ $publication.id }}"
           >
             <div class="edb-publication-card__visual edb-publication-card__visual--{{ add $index 1 }}">
-              <span>{{ $topicLine }}</span>
+              <span>{{ partial "trademark-text.html" $topicLine }}</span>
             </div>
             <div class="edb-publication-card__content">
               <span class="edb-publication-card__topic">{{ $topicLine }}</span>
               <time class="edb-publication-card__date" datetime="{{ $publication.date_published }}">{{ dateFormat "02-01-2006" $publication.date_published }}</time>
-              <h3>{{ $title }}</h3>
-              <p>{{ $description }}</p>
+              <h3>{{ partial "trademark-text.html" $title }}</h3>
+              <p>{{ partial "trademark-text.html" $description }}</p>
               <span class="edb-publication-card__arrow" aria-hidden="true">→</span>
             </div>
           </a>
