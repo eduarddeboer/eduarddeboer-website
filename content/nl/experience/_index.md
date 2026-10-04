@@ -5,16 +5,10 @@ translationKey: "experience"
 kg_section: "experience"
 ---
 
-Ik werk bij **Ingenieursbureau Evan Buytendijk (IEB)** aan vraagstukken rond houtlegaliteit, due diligence, EUDR/EUTR en certificering.
+Mijn werk brengt regelgeving en de werkelijkheid van internationale houtketens bij elkaar. Ik heb gewerkt aan ketens en opdrachten in onder meer **Congo, Gabon, Ivoorkust, India, Libanon en Macedonië**.
 
-## Internationale ketens
+Soms begint dat achter een bureau, met documenten en transactiestromen. Soms bij een leverancier of productielocatie. De vraag blijft hetzelfde: **kun je reconstrueren waar een product vandaan komt en waarop de conclusie over legaliteit en risico is gebaseerd?**
 
-Mijn werkzaamheden hebben onder meer betrekking gehad op ketens en opdrachten in **Congo, Gabon, Ivoorkust, India, Libanon en Macedonië**.
+Mijn werkzaamheden omvatten onder meer leveranciersaudits, traceerbaarheidscontroles, beoordeling van bos- en kapdocumenten, risicoanalyse en ondersteuning bij due-diligencesystemen.
 
-De praktijk varieert van document- en risicoanalyse tot leveranciersaudits, traceerbaarheidscontroles, beoordeling van bos- en kapdocumenten en ondersteuning bij due-diligencesystemen.
-
-## Auditbenadering
-
-Ik ben ISO 19011 Internal Auditor. Bij audits ligt de nadruk op aantoonbaarheid: welke eis geldt, welk bewijs ondersteunt de conclusie, waar zitten onzekerheden en welke beheersmaatregelen zijn nodig?
-
-Deze sectie wordt verder uitgebouwd met geselecteerde, verifieerbare voorbeelden zonder vertrouwelijke klantinformatie te publiceren.
+Als ISO 19011 Internal Auditor kijk ik daarbij systematisch naar eisen, bewijs, onzekerheden en beheersmaatregelen.
