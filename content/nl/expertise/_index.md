@@ -1,6 +1,6 @@
 ---
 title: "Expertise"
-description: "Houtlegaliteit, EUDR/EUTR, due diligence, traceerbaarheid en FSC/PEFC."
+description: "Houtlegaliteit, EUDR/EUTR, due diligence, traceerbaarheid en certificering."
 translationKey: "expertise"
 kg_section: "expertise"
 ---
