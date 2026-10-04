@@ -1,6 +1,6 @@
 ---
 title: "Expertise"
-description: "Timber legality, EUDR/EUTR, due diligence, traceability and FSC/PEFC."
+description: "Timber legality, EUDR/EUTR, due diligence, traceability and certification."
 translationKey: "expertise"
 kg_section: "expertise"
 ---
