@@ -5,8 +5,6 @@ translationKey: "speaking"
 kg_section: "speaking"
 ---
 
-Naast schriftelijke analyses geef ik toelichting in gesprekken, presentaties, trainingen en media.
+Niet alles laat zich het beste in een artikel uitleggen. Ik geef ook trainingen en presentaties en word gevraagd voor interviews en deskundige toelichting.
 
-De site zal hier geselecteerde actuele en historische bijdragen tonen, waaronder mijn eerdere optredens als reputatiedeskundige in **De Rijdende Rechter** en relevante vakinhoudelijke interviews.
-
-Video en audio worden privacy-first aangeboden: externe players worden pas na een expliciete actie geladen.
+Hier verzamel ik geselecteerde vakinhoudelijke bijdragen en eerdere mediaoptredens, waaronder mijn optredens als reputatiedeskundige in **De Rijdende Rechter**.
