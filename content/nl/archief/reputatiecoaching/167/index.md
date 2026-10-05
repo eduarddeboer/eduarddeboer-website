@@ -6,6 +6,9 @@ episode: 167
 historical: true
 archivePeriod: 2012–2016
 transcriptStatus: shownotes
+feature: __archive_feature_disabled__
+cover: __archive_cover_disabled__
+thumbnail: __archive_thumbnail_disabled__
 showAuthor: false
 showReadingTime: false
 showTableOfContents: true
