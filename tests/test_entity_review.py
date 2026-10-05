@@ -101,6 +101,10 @@ class EntityReviewTests(unittest.TestCase):
         self.assertNotIn("entity-review-raw", workflow)
         self.assertIn("Choose preferred runner", workflow)
         self.assertIn("fromJSON(needs.choose-runner.outputs.runs_on)", workflow)
+        self.assertIn("Reuse persistent Python 3.12 environment on local Mac", workflow)
+        self.assertIn("/opt/homebrew/bin/python3.12", workflow)
+        self.assertIn("/Users/kg-runner/.cache/eduard-website-ci", workflow)
+        self.assertIn("needs.choose-runner.outputs.target != 'local'", workflow)
 
 
 if __name__ == "__main__":

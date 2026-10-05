@@ -172,3 +172,20 @@ class ProjectionSyncTests(unittest.TestCase):
 
 if __name__ == "__main__":
     unittest.main()
+
+
+class LocalRunnerWorkflowTests(unittest.TestCase):
+    def test_validate_workflow_avoids_setup_python_on_local_macos(self) -> None:
+        workflow = (ROOT / ".github/workflows/validate.yml").read_text(encoding="utf-8")
+        self.assertIn("Reuse local Python 3.12", workflow)
+        self.assertIn("/opt/homebrew/bin/python3.12", workflow)
+        self.assertIn("needs.choose-runner.outputs.target != 'local'", workflow)
+        self.assertIn("uses: actions/setup-python@v6", workflow)
+
+    def test_projection_sync_avoids_setup_python_on_local_macos(self) -> None:
+        workflow = (ROOT / ".github/workflows/kg-projection-sync.yml").read_text(
+            encoding="utf-8"
+        )
+        self.assertIn("Reuse local Python 3.12", workflow)
+        self.assertIn("/opt/homebrew/bin/python3.12", workflow)
+        self.assertIn("needs.choose-runner.outputs.target != 'local'", workflow)
