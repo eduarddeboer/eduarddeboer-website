@@ -177,22 +177,69 @@ jobs:
         shell: bash
         run: |
           set -euo pipefail
-          rm -rf _reputatiecoaching_source
           git config user.name "github-actions[bot]"
           git config user.email "41898282+github-actions[bot]@users.noreply.github.com"
-          git add -- \
-            content/nl/archief/reputatiecoaching \
-            static/podcast/reputatiecoaching.xml \
-            static/media/archive/reputatiecoaching \
-            data/archive/reputatiecoaching-import.json
-          if git diff --cached --quiet; then
-            echo "changed=false" >> "$GITHUB_OUTPUT"
-            exit 0
-          fi
-          git commit -m "archive: import 167 ReputatieCoaching podcasts [archive-import]"
-          git pull --rebase origin "$GITHUB_REF_NAME"
-          git push
-          echo "changed=true" >> "$GITHUB_OUTPUT"
+          branch="$GITHUB_REF_NAME"
+
+          regenerate_on_latest_head() {
+            /tmp/reputatiecoaching-import-venv/bin/python \
+              scripts/import_reputatiecoaching_archive.py \
+              _reputatiecoaching_source
+            python3 scripts/validate.py
+
+            pages="$(find content/nl/archief/reputatiecoaching -mindepth 2 -maxdepth 2 -name index.md | wc -l | tr -d ' ')"
+            test "$pages" = "167"
+
+            /tmp/reputatiecoaching-import-venv/bin/python - <<'PY'
+          import json
+          import xml.etree.ElementTree as ET
+          from pathlib import Path
+
+          manifest = json.loads(Path("data/archive/reputatiecoaching-import.json").read_text())
+          assert manifest["validation"]["episode_pages"] == 167
+          assert manifest["validation"]["rss_items"] == 167
+          assert manifest["validation"]["full_transcript_episodes"] == 152
+          assert manifest["validation"]["shownotes_episodes"] == 15
+          assert len(ET.parse("static/podcast/reputatiecoaching.xml").findall("./channel/item")) == 167
+          PY
+          }
+
+          for attempt in 1 2 3; do
+            git fetch origin "$branch"
+            remote_sha="$(git rev-parse "origin/$branch")"
+            local_sha="$(git rev-parse HEAD)"
+
+            if [[ "$local_sha" != "$remote_sha" ]]; then
+              echo "Branch advanced while the import was running; regenerating on latest head (attempt $attempt)."
+              git reset --hard "$remote_sha"
+              regenerate_on_latest_head
+            fi
+
+            git add -- \
+              content/nl/archief/reputatiecoaching \
+              static/podcast/reputatiecoaching.xml \
+              static/media/archive/reputatiecoaching \
+              data/archive/reputatiecoaching-import.json
+
+            if git diff --cached --quiet; then
+              rm -rf _reputatiecoaching_source
+              echo "changed=false" >> "$GITHUB_OUTPUT"
+              exit 0
+            fi
+
+            git commit -m "archive: import 167 ReputatieCoaching podcasts [archive-import]"
+
+            if git push origin "HEAD:$branch"; then
+              rm -rf _reputatiecoaching_source
+              echo "changed=true" >> "$GITHUB_OUTPUT"
+              exit 0
+            fi
+
+            echo "Push lost a race; refreshing branch and regenerating before retry."
+          done
+
+          echo "::error::Could not publish generated archive after 3 attempts because the branch kept moving."
+          exit 1
 
       - name: Trigger CI for generated archive commit
         if: steps.commit.outputs.changed == 'true'
