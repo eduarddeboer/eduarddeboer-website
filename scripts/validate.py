@@ -12,7 +12,7 @@ SECTIONS = ROOT / "data/kg/sections.json"
 CONTENT = ROOT / "content"
 AUTHORING_TEMPLATE_DIR = CONTENT / "_templates"
 HISTORICAL_ARCHIVE_DIR = CONTENT / "nl" / "archive" / "reputatiecoaching"
-HISTORICAL_ARCHIVE_ROOT = CONTENT / "nl" / "archief" / "reputatiecoaching"
+HISTORICAL_ARCHIVE_ROOT = HISTORICAL_ARCHIVE_DIR
 REPUTATIECOACHING_FEED = ROOT / "static" / "podcast" / "reputatiecoaching.xml"
 
 WIKILINK = re.compile(r"\[\[[^\]\n]+\]\]")
