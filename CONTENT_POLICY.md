@@ -67,3 +67,14 @@ Content under `content/nl/archief/reputatiecoaching/` is a dated historical arch
 
 This exception is deliberately narrow. Current wrapper text, navigation and all non-archive website copy remain subject to the normal policy. Historical archive pages also remain subject to structural, privacy and security validation: no raw scripts/iframes, no hidden third-party embeds, and portable Markdown only.
 
+
+
+## Historical archives
+
+Material under `content/nl/archive/reputatiecoaching/` is preserved as dated historical source material. It is intentionally separated from current professional publications and positioning.
+
+- Preserve the original meaning, wording and publication date wherever practical.
+- Clearly label the material as historical and do not present it as current advice.
+- Modern claim-language and trademark copy-editing rules do not retroactively rewrite historical transcripts.
+- General security, privacy, markup and build-integrity checks still apply.
+- Technical migrations may repair links, media references and embeds without changing the substantive historical record.
