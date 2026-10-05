@@ -354,8 +354,7 @@ def _legacy_path(value: str) -> str | None:
     path = parsed.path or "/"
     if not path.startswith("/"):
         return None
-    path = re.sub(r"/+$", "", path) or "/"
-    return path
+    return re.sub(r"/+$", "", path) or "/"
 
 
 def rewrite_historical_links(
@@ -408,7 +407,14 @@ def rewrite_historical_links(
 
         archive_target = "https://web.archive.org/web/*/" + urllib.parse.quote(
             original,
-            safe=":/?&=%;,+@!def strip_duplicate_title(body: str, title: str) -> str:
+            safe=":/?&=%;,+@!~",
+        )
+        return f"[{label}]({archive_target})"
+
+    return MD_LINK.sub(repl, body)
+
+
+def strip_duplicate_title(body: str, title: str) -> str:
     lines = body.lstrip().splitlines()
     if lines and lines[0].startswith("# "):
         lhs = re.sub(r"\W+", "", lines[0][2:].lower())
