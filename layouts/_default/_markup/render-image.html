@@ -11,7 +11,8 @@
     {{- $maxRel := index $mediaMax $rel | default $rel -}}
     {{- $src = printf "https://reputatiecoaching.pages.dev/wp-content/uploads/%s" $maxRel -}}
   {{- else if and (not (hasPrefix $path "/")) (not (hasPrefix $path "http://")) (not (hasPrefix $path "https://")) -}}
-    {{- $src = printf "https://reputatiecoaching.pages.dev/%d/%s" (int .Page.Params.episode) $path -}}
+    {{- $episodePath := replaceRE "^0+" "" (printf "%v" .Page.Params.episode) -}}
+    {{- $src = printf "https://reputatiecoaching.pages.dev/%s/%s" $episodePath $path -}}
   {{- end -}}
 {{- end -}}
 
