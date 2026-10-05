@@ -138,6 +138,43 @@ jobs:
             echo "kind=public-static-mirror" >> "$GITHUB_OUTPUT"
           fi
 
+      - name: Refresh reviewed KG staging projection for archive review
+        shell: bash
+        run: |
+          set -euo pipefail
+          curl -fsSL \
+            https://staging.eduarddeboer-kg-preview.pages.dev/site-snapshot.json \
+            -o /tmp/kg-site-snapshot.json
+          curl -fsSL \
+            https://staging.eduarddeboer-kg-preview.pages.dev/release-manifest.json \
+            -o /tmp/kg-release-manifest.json
+          python3 scripts/sync_kg_projection.py \
+            /tmp/kg-site-snapshot.json \
+            /tmp/kg-release-manifest.json \
+            --apply \
+            --status-json /tmp/kg-archive-sync.json
+          python3 - <<'PY'
+          import json
+          from pathlib import Path
+
+          snapshot = json.loads(Path("data/kg/snapshot.json").read_text())
+          manifest = json.loads(Path("/tmp/kg-release-manifest.json").read_text())
+          assert snapshot["source"]["commit"] == manifest["commit_sha"]
+          podcast_ids = [
+              entity_id
+              for entity_id in snapshot["entities"]
+              if entity_id.startswith("podcast_episode/reputatiecoaching_")
+          ]
+          assert len(podcast_ids) == 167, len(podcast_ids)
+          print(
+              "Using reviewed KG staging projection",
+              snapshot["source"]["commit"],
+              "with",
+              len(podcast_ids),
+              "podcast episodes",
+          )
+          PY
+
       - name: Generate historical archive and RSS
         shell: bash
         run: |
@@ -219,7 +256,9 @@ jobs:
               content/nl/archief/reputatiecoaching \
               static/podcast/reputatiecoaching.xml \
               static/media/archive/reputatiecoaching \
-              data/archive/reputatiecoaching-import.json
+              data/archive/reputatiecoaching-import.json \
+              data/kg/snapshot.json \
+              data/kg/sections.json
 
             if git diff --cached --quiet; then
               rm -rf _reputatiecoaching_source
