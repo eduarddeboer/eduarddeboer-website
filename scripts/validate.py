@@ -3,6 +3,7 @@ from __future__ import annotations
 
 import json
 import re
+import xml.etree.ElementTree as ET
 from pathlib import Path
 
 ROOT = Path(__file__).resolve().parents[1]
@@ -10,6 +11,8 @@ SNAPSHOT = ROOT / "data/kg/snapshot.json"
 SECTIONS = ROOT / "data/kg/sections.json"
 CONTENT = ROOT / "content"
 AUTHORING_TEMPLATE_DIR = CONTENT / "_templates"
+HISTORICAL_ARCHIVE_ROOT = CONTENT / "nl" / "archief" / "reputatiecoaching"
+REPUTATIECOACHING_FEED = ROOT / "static" / "podcast" / "reputatiecoaching.xml"
 
 WIKILINK = re.compile(r"\[\[[^\]\n]+\]\]")
 KG_REF = re.compile(r"^kgRef:\s*[\"']?([^\"'\s#]+)", re.MULTILINE)
@@ -386,8 +389,21 @@ def public_text_files() -> list[Path]:
     return sorted(files)
 
 
+def is_historical_reputatiecoaching(path: Path) -> bool:
+    try:
+        path.relative_to(HISTORICAL_ARCHIVE_ROOT)
+        return True
+    except ValueError:
+        return False
+
+
 def validate_public_claims(problems: list[str]) -> None:
     for path in public_text_files():
+        # Historical ReputatieCoaching copy is intentionally preserved as a
+        # dated archive. Current claim/trademark wording rules must not silently
+        # rewrite history; structural/privacy validation still runs in main().
+        if is_historical_reputatiecoaching(path):
+            continue
         text = path.read_text(encoding="utf-8")
         rel = path.relative_to(ROOT)
 
@@ -412,6 +428,43 @@ def validate_public_claims(problems: list[str]) -> None:
                     f"{rel}: vague environmental/sustainability marketing claim "
                     f"{match.group(0)!r}; use specific, verifiable wording"
                 )
+
+
+
+def validate_reputatiecoaching_feed(problems: list[str]) -> None:
+    if not REPUTATIECOACHING_FEED.exists():
+        return
+    try:
+        root = ET.parse(REPUTATIECOACHING_FEED).getroot()
+    except ET.ParseError as exc:
+        problems.append(f"static/podcast/reputatiecoaching.xml: invalid XML: {exc}")
+        return
+    items = root.findall("./channel/item")
+    if len(items) != 167:
+        problems.append(
+            "static/podcast/reputatiecoaching.xml: expected 167 podcast items, "
+            f"found {len(items)}"
+        )
+    seen: set[str] = set()
+    for item in items:
+        guid = (item.findtext("guid") or "").strip()
+        enclosure = item.find("enclosure")
+        if not guid or guid in seen:
+            problems.append(
+                "static/podcast/reputatiecoaching.xml: every item needs a unique guid"
+            )
+        seen.add(guid)
+        if enclosure is None:
+            problems.append(
+                f"static/podcast/reputatiecoaching.xml: {guid or 'item'} has no enclosure"
+            )
+            continue
+        url = enclosure.attrib.get("url", "")
+        mime = enclosure.attrib.get("type", "")
+        if not url.startswith("https://archive.org/") or mime != "audio/mpeg":
+            problems.append(
+                f"static/podcast/reputatiecoaching.xml: {guid or 'item'} has an invalid audio enclosure"
+            )
 
 
 def main() -> None:
@@ -447,6 +500,7 @@ def main() -> None:
                 )
 
     validate_public_claims(problems)
+    validate_reputatiecoaching_feed(problems)
 
     if problems:
         raise SystemExit("\n".join(problems))
