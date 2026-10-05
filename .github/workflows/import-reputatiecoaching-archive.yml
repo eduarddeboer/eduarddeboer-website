@@ -1,0 +1,213 @@
+name: Import ReputatieCoaching archive
+
+on:
+  push:
+    branches:
+      - archive/reputatiecoaching-podcasts
+    paths:
+      - ".github/workflows/import-reputatiecoaching-archive.yml"
+      - "scripts/import_reputatiecoaching_archive.py"
+      - "data/archive/reputatiecoaching-source.csv"
+  workflow_dispatch:
+
+permissions:
+  contents: write
+
+concurrency:
+  group: website-reputatiecoaching-archive-import
+  cancel-in-progress: false
+
+jobs:
+  choose-runner:
+    if: github.actor != 'github-actions[bot]'
+    runs-on: ubuntu-latest
+    timeout-minutes: 2
+    outputs:
+      runs_on: ${{ steps.choose.outputs.runs_on }}
+      target: ${{ steps.choose.outputs.target }}
+      runner_name: ${{ steps.choose.outputs.runner_name }}
+    steps:
+      - name: Prefer an online idle local macOS runner
+        id: choose
+        uses: actions/github-script@v8
+        with:
+          github-token: ${{ secrets.RUNNER_ROUTER_TOKEN }}
+          script: |
+            const { owner, repo } = context.repo;
+            const { data } = await github.rest.actions.listSelfHostedRunnersForRepo({
+              owner,
+              repo,
+              per_page: 100,
+            });
+            const candidates = data.runners.filter((runner) => {
+              const labels = new Set((runner.labels || []).map((label) => label.name));
+              return runner.status === "online"
+                && runner.busy === false
+                && labels.has("self-hosted")
+                && labels.has("macOS");
+            });
+            const local = candidates[0] || null;
+            core.setOutput("runs_on", JSON.stringify(local ? ["self-hosted", "macOS"] : ["ubuntu-latest"]));
+            core.setOutput("target", local ? "local" : "github-hosted");
+            core.setOutput("runner_name", local ? local.name : "ubuntu-latest");
+
+  import:
+    needs: choose-runner
+    runs-on: ${{ fromJSON(needs.choose-runner.outputs.runs_on) }}
+    timeout-minutes: 35
+    env:
+      RC_READ_TOKEN: ${{ secrets.RUNNER_ROUTER_TOKEN }}
+    steps:
+      - name: Report selected runner
+        run: |
+          echo "Routing target: ${{ needs.choose-runner.outputs.target }}"
+          echo "Selected runner: ${{ needs.choose-runner.outputs.runner_name }}"
+
+      - name: Checkout website archive branch
+        uses: actions/checkout@v7
+        with:
+          fetch-depth: 0
+
+      - name: Python 3.12 on GitHub-hosted fallback
+        if: needs.choose-runner.outputs.target != 'local'
+        uses: actions/setup-python@v6
+        with:
+          python-version: "3.12"
+
+      - name: Prepare Python environment
+        shell: bash
+        run: |
+          set -euo pipefail
+          if [[ "${{ needs.choose-runner.outputs.target }}" == "local" ]]; then
+            PYTHON=/opt/homebrew/bin/python3.12
+          else
+            PYTHON=python3
+          fi
+          test -x "$PYTHON" || command -v "$PYTHON"
+          "$PYTHON" -m venv /tmp/reputatiecoaching-import-venv
+          /tmp/reputatiecoaching-import-venv/bin/python -m pip install --upgrade pip
+          /tmp/reputatiecoaching-import-venv/bin/pip install \
+            "PyYAML==6.0.3" \
+            "Pillow>=10,<13" \
+            "beautifulsoup4>=4.12,<5" \
+            "markdownify>=0.13,<2"
+
+      - name: Checkout the best available historical source
+        id: source
+        shell: bash
+        run: |
+          set -euo pipefail
+          rm -rf _reputatiecoaching_source
+
+          private_ok=false
+          if [[ -n "${RC_READ_TOKEN:-}" ]]; then
+            status="$(
+              curl -sS -o /dev/null -w '%{http_code}' \
+                -H "Authorization: Bearer $RC_READ_TOKEN" \
+                -H "Accept: application/vnd.github+json" \
+                https://api.github.com/repos/eduarddeboer/reputatiecoaching.nl || true
+            )"
+            if [[ "$status" == "200" ]]; then
+              auth="$(printf 'x-access-token:%s' "$RC_READ_TOKEN" | base64 | tr -d '\n')"
+              if git -c "http.extraHeader=AUTHORIZATION: basic $auth" clone \
+                --depth 1 \
+                https://github.com/eduarddeboer/reputatiecoaching.nl.git \
+                _reputatiecoaching_source; then
+                private_ok=true
+              fi
+            fi
+          fi
+
+          if [[ "$private_ok" != "true" ]] && command -v gh >/dev/null 2>&1 && gh auth status >/dev/null 2>&1; then
+            if gh repo clone eduarddeboer/reputatiecoaching.nl _reputatiecoaching_source -- --depth 1; then
+              private_ok=true
+            fi
+          fi
+
+          if [[ "$private_ok" == "true" ]]; then
+            echo "kind=private-normalized-source" >> "$GITHUB_OUTPUT"
+          else
+            rm -rf _reputatiecoaching_source
+            git clone --depth 1 \
+              https://github.com/reputatiecoaching/reputatiecoaching.github.io.git \
+              _reputatiecoaching_source
+            echo "kind=public-static-mirror" >> "$GITHUB_OUTPUT"
+          fi
+
+      - name: Generate historical archive and RSS
+        shell: bash
+        run: |
+          set -euo pipefail
+          /tmp/reputatiecoaching-import-venv/bin/python \
+            scripts/import_reputatiecoaching_archive.py \
+            _reputatiecoaching_source
+          python3 scripts/validate.py
+
+      - name: Verify generated archive contract
+        shell: bash
+        run: |
+          set -euo pipefail
+          pages="$(find content/nl/archief/reputatiecoaching -mindepth 2 -maxdepth 2 -name index.md | wc -l | tr -d ' ')"
+          test "$pages" = "167"
+          /tmp/reputatiecoaching-import-venv/bin/python - <<'PY'
+          import json
+          import xml.etree.ElementTree as ET
+          from pathlib import Path
+
+          manifest = json.loads(Path("data/archive/reputatiecoaching-import.json").read_text())
+          assert manifest["validation"]["episode_pages"] == 167
+          assert manifest["validation"]["rss_items"] == 167
+          assert manifest["validation"]["full_transcript_episodes"] == 152
+          assert manifest["validation"]["shownotes_episodes"] == 15
+          assert len(ET.parse("static/podcast/reputatiecoaching.xml").findall("./channel/item")) == 167
+          print(json.dumps({
+              "source": manifest["source_kind"],
+              "images": manifest["image_count"],
+              "missing_images": manifest["missing_image_count"],
+              "feed_lengths_resolved": manifest["feed"]["enclosure_lengths_resolved"],
+          }, ensure_ascii=False))
+          PY
+
+      - name: Commit generated archive
+        id: commit
+        shell: bash
+        run: |
+          set -euo pipefail
+          rm -rf _reputatiecoaching_source
+          git config user.name "github-actions[bot]"
+          git config user.email "41898282+github-actions[bot]@users.noreply.github.com"
+          git add -- \
+            content/nl/archief/reputatiecoaching \
+            static/podcast/reputatiecoaching.xml \
+            static/media/archive/reputatiecoaching \
+            data/archive/reputatiecoaching-import.json
+          if git diff --cached --quiet; then
+            echo "changed=false" >> "$GITHUB_OUTPUT"
+            exit 0
+          fi
+          git commit -m "archive: import 167 ReputatieCoaching podcasts [archive-import]"
+          git push
+          echo "changed=true" >> "$GITHUB_OUTPUT"
+
+      - name: Summarize import
+        shell: bash
+        run: |
+          {
+            echo "## ReputatieCoaching historical archive"
+            echo
+            echo "Source: ${{ steps.source.outputs.kind }}"
+            echo
+            /tmp/reputatiecoaching-import-venv/bin/python - <<'PY'
+          import json
+          from pathlib import Path
+          data = json.loads(Path("data/archive/reputatiecoaching-import.json").read_text())
+          print(f"- Episode pages: {data['validation']['episode_pages']}")
+          print(f"- Full-transcript episodes: {data['validation']['full_transcript_episodes']}")
+          print(f"- Shownotes episodes: {data['validation']['shownotes_episodes']}")
+          print(f"- Localized historical images: {data['image_count']}")
+          print(f"- Image references not found locally: {data['missing_image_count']}")
+          print(f"- RSS items: {data['validation']['rss_items']}")
+          print(f"- RSS enclosure lengths resolved: {data['feed']['enclosure_lengths_resolved']}")
+          print(f"- RSS enclosure lengths unresolved: {len(data['feed']['enclosure_lengths_unresolved'])}")
+          PY
+          } >> "$GITHUB_STEP_SUMMARY"
