@@ -478,6 +478,36 @@ def validate_reputatiecoaching_feed(problems: list[str]) -> None:
             )
 
 
+
+def validate_reputatiecoaching_build_contract(problems: list[str]) -> None:
+    legacy_source = ROOT / "data" / "archive" / "reputatiecoaching-source.csv"
+    canonical_source = ROOT / "source_data" / "archive" / "reputatiecoaching-source.csv"
+
+    if legacy_source.exists():
+        problems.append(
+            "data/archive/reputatiecoaching-source.csv: raw CSV source must stay outside "
+            "Hugo data/; use source_data/archive/reputatiecoaching-source.csv"
+        )
+    if REPUTATIECOACHING_FEED.exists() and not canonical_source.exists():
+        problems.append(
+            "source_data/archive/reputatiecoaching-source.csv: historical source inventory is missing"
+        )
+
+    pages = sorted(HISTORICAL_ARCHIVE_ROOT.glob("[0-9][0-9][0-9]/index.md"))
+    if pages and len(pages) != 167:
+        problems.append(
+            f"content/nl/archief/reputatiecoaching: expected 167 generated episode pages, found {len(pages)}"
+        )
+
+    for path in pages:
+        text = path.read_text(encoding="utf-8")
+        frontmatter = re.match(r"\A---\s*\n(.*?)\n---\s*\n", text, re.DOTALL)
+        if frontmatter and re.search(r"^audio\s*:", frontmatter.group(1), re.MULTILINE):
+            problems.append(
+                f"{path.relative_to(ROOT)}: top-level audio frontmatter collides with "
+                "Congo/OpenGraph; keep audio in the archive shortcode/feed instead"
+            )
+
 def main() -> None:
     snapshot = load_snapshot()
     section_data = validate_section_projections(snapshot)
@@ -512,6 +542,7 @@ def main() -> None:
 
     validate_public_claims(problems)
     validate_reputatiecoaching_feed(problems)
+    validate_reputatiecoaching_build_contract(problems)
 
     if problems:
         raise SystemExit("\n".join(problems))
