@@ -1204,8 +1204,8 @@
         "Republiek Congo"
       ],
       "description": {
-        "en": "The Republic of the Congo is a country in Africa.",
-        "nl": "De Republiek Congo, ook bekend als Congo-Brazzaville, is een land in Centraal-Afrika."
+        "en": "The Republic of the Congo lies in Central Africa and has a short Atlantic coastline. It borders Gabon, Cameroon, the Central African Republic, the Democratic Republic of the Congo and Angola's Cabinda exclave.",
+        "nl": "Congo-Brazzaville ligt in Centraal-Afrika en heeft een korte kust aan de Atlantische Oceaan. Het grenst aan Gabon, Kameroen, de Centraal-Afrikaanse Republiek, Congo-Kinshasa en de Angolese exclave Cabinda."
       },
       "id": "country/congo_brazzaville",
       "identifiers": [
@@ -1284,8 +1284,8 @@
         "Republiek Gabon"
       ],
       "description": {
-        "en": "Gabon, officially the Gabonese Republic, is a country in Central Africa on the Atlantic Ocean.",
-        "nl": "Gabon, officieel de Republiek Gabon, is een land in Centraal-Afrika aan de Atlantische Oceaan."
+        "en": "Gabon is a country in Middle Africa. It borders Cameroon, Congo and Equatorial Guinea.",
+        "nl": "Gabon is een land in Centraal-Afrika. Het grenst aan Kameroen, Congo en Equatoriaal-Guinea."
       },
       "id": "country/gabon",
       "identifiers": [
@@ -1369,8 +1369,8 @@
         "Republiek India"
       ],
       "description": {
-        "en": "India is a country in Asia.",
-        "nl": "India, officieel de Republiek India (Hindi: भारत गणराज्य, Bhārat Gaṇarājya, Engels: Republic of India), is een land in Zuid-Azië."
+        "en": "India is a country in Southern Asia. It borders Bangladesh, Bhutan, Myanmar, China, Nepal and Pakistan.",
+        "nl": "India is een land in Zuid-Azië. Het grenst aan Bangladesh, Bhutan, Myanmar, China, Nepal en Pakistan."
       },
       "id": "country/india",
       "identifiers": [
@@ -1441,8 +1441,8 @@
         "Elpenbeenkust"
       ],
       "description": {
-        "en": "Côte d'Ivoire is a country in Africa.",
-        "nl": "Ivoorkust, officieel de Republiek Côte d'Ivoire (verouderd: Elpenbeenkust), is een land in Afrika dat grenst aan Liberia, Guinee, Mali, Burkina Faso, Ghana en de Golf van Guinee."
+        "en": "Côte d'Ivoire is a country in West Africa with a coastline on the Gulf of Guinea. It borders Liberia, Guinea, Mali, Burkina Faso and Ghana.",
+        "nl": "Ivoorkust is een land in West-Afrika met een kust aan de Golf van Guinee. Het grenst aan Liberia, Guinee, Mali, Burkina Faso en Ghana."
       },
       "id": "country/ivoorkust",
       "identifiers": [
@@ -1526,8 +1526,8 @@
         "Republiek Libanon"
       ],
       "description": {
-        "en": "Lebanon is a country in Asia.",
-        "nl": "Libanon, officieel de Republiek Libanon, is een klein en dichtbevolkt land gelegen aan de uiterste oostkust van de Middellandse Zee in Azië."
+        "en": "Lebanon is a country in Western Asia. It borders Israel and Syria.",
+        "nl": "Libanon is een land in West-Azië. Het grenst aan Israël en Syrië."
       },
       "id": "country/libanon",
       "identifiers": [
@@ -1612,8 +1612,8 @@
         "Republic of Macedonia"
       ],
       "description": {
-        "en": "North Macedonia is a country in southeastern Europe.",
-        "nl": "Noord-Macedonië is een land in Zuidoost-Europa."
+        "en": "North Macedonia is a landlocked country in Southeast Europe. It borders Albania, Bulgaria, Greece, Kosovo and Serbia.",
+        "nl": "Noord-Macedonië is een geheel door land omgeven land in Southeast Europe. Het grenst aan Albanië, Bulgarije, Griekenland, Kosovo en Servië."
       },
       "id": "country/noord_macedonie",
       "identifiers": [
@@ -3502,7 +3502,7 @@
   ],
   "schema_version": 1,
   "source": {
-    "commit": "69cb1f99e9acce0586404a1e240ada7ced2f860c",
+    "commit": "9a4a63cf1397eb104e1a754f49c5787b0efb0d15",
     "production_base": "https://data.eduarddeboer.com/",
     "repository": "eduarddeboer/eduarddeboer-kg"
   }
