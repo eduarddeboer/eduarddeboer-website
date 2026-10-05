@@ -3,6 +3,8 @@ title: '44: Google vernieuwt mobiele advertenties en welkom Google Hummingbird. 
 date: '2013-09-30T06:30:26+00:00'
 description: '**** Wow, wat gaat de tijd toch snel. Dit is podcast 44 en over 8 podcasts zit ik op nummer 52 (dat kan ik zelfs uit mijn hoofd uitrekenen) en dat betekent dat ik dan alweer een jaar lang elke week een podcast heb uitgebracht, zelfs tijdens mijn zomervakantie. Afgelopen week ben ik er echter niet aan toe gekomen om artikelen te schrijven voor de site. Ik ben even druk met drie projecten.'
 episode: 44
+kgRef: podcast_episode/reputatiecoaching_044
+source_url: https://www.reputatiecoaching.nl/44
 historical: true
 archivePeriod: 2012–2016
 transcriptStatus: full
@@ -17,8 +19,6 @@ showTaxonomies: false
 
 > **Historisch archief.** Deze aflevering verscheen op 30-09-2013 als onderdeel van ReputatieCoaching (2012–2016). De oorspronkelijke tekst is hieronder historisch bewaard. Diensten, contactgegevens, links, tools en adviezen kunnen inmiddels verouderd zijn.
 
-{{< audio src="https://archive.org/download/20130930-reputatie-coaching-podcast-044/20130930-ReputatieCoaching-Podcast-044.mp3" title="ReputatieCoaching Podcast #044" >}}
-
 **Transcriptiestatus:** Volledige transcriptie uit het oorspronkelijke archief.
 
 \*\**Historische afbeelding niet beschikbaar: ReputatieCoaching Podcast*
@@ -32,17 +32,17 @@ De andere onderwerpen voor vandaag… Ik kan er niet omheen: tuurlijk heb ik wee
 
 Afgelopen week las ik ook een interessant artikel over de gevolgen van inconsistente data van lokale bedrijfsvermeldingen. En via lokale vermeldingen kom je dan ook op reviews uit. Ook daar heb ik weer wat leuke dingen over te melden.
 
-Ook in deze podcast komt weer een aantal artikelen en externe websites aan bod. Ik noem een aantal links in de podcast, maar in de transcriptie van deze podcast vind je onderaan een lijstje van links naar alle sites en artikelen waar ik nieuws vandaan heb, of die ik in een andere context noem. Je kunt de volledige transcriptie van deze podcast vinden op: [www.reputatiecoaching.nl/44/](https://www.reputatiecoaching.nl/44/).
+Ook in deze podcast komt weer een aantal artikelen en externe websites aan bod. Ik noem een aantal links in de podcast, maar in de transcriptie van deze podcast vind je onderaan een lijstje van links naar alle sites en artikelen waar ik nieuws vandaan heb, of die ik in een andere context noem. Je kunt de volledige transcriptie van deze podcast vinden op: [www.reputatiecoaching.nl/44/](/nl/archief/reputatiecoaching/044/).
 
 Ik zei het al: op het moment ben ik erg druk met een drietal projecten die vrijwel al mijn aandacht opeisen. Het ene project behelst het opzetten van een soort van videomarketing bij een opdrachtgever, waar ik nu niet verder in detail op kan ingaan, vanwege de vertrouwelijkheid ervan. Het andere is het produceren van een flinke partij nieuwe, verse content om een bedrijf uit het Oosten van het land beter op de kaart te zetten. Ook op dat project rust een embargo voor wat betreft het communiceren van details erover naar de buitenwereld. Het laatste project is een redesign van onze fotografie website: [www.allround-fotografie.com](http://www.allround-fotografie.com).
 
 Het ontwerp van deze site stamt al uit begin 2009 en dat is volgens Internet-maatstaven een eeuwigheid geleden. Dus is die site aan een herontwerp toe.
 
-Maar ja, de oude site is ooit gemaakt in het CMS Expression Engine: een mooi Content Management Systeem, maar desondanks wil ik de site omzetten naar WordPress. Dus moet alle content handmatig worden overgezet, temeer daar ik een aantal nieuwe features in de site inbouw, waar ik je meer over zal vertellen, als de site ‘live’ is. De nieuwe site zal evenals [www.reputatiecoaching.nl](https://www.reputatiecoaching.nl/41/) gebruik maken van het Genesis framework met daarop een commercieel child theme.
+Maar ja, de oude site is ooit gemaakt in het CMS Expression Engine: een mooi Content Management Systeem, maar desondanks wil ik de site omzetten naar WordPress. Dus moet alle content handmatig worden overgezet, temeer daar ik een aantal nieuwe features in de site inbouw, waar ik je meer over zal vertellen, als de site ‘live’ is. De nieuwe site zal evenals [www.reputatiecoaching.nl](/nl/archief/reputatiecoaching/041/) gebruik maken van het Genesis framework met daarop een commercieel child theme.
 
 Ik ben in korte tijd namelijk zo enorm gecharmeerd geraakt van het Genesis framework en de performance ervan, dat ik eigenlijk geen ander framework meer wil voor mijn WordPress sites.
 
-In de opening zei ik het al: morgen begint het vierde kwartaal. Dat betekent dat er weer een ReputatieCoaching Podcast boek aankomt. Maar zoals ik al een aantal keren heb aangekondigd, zal het boek niet standaard in PDF voor iedereen te downloaden zijn. Als je het wilt downloaden om te lezen op je eReader of tablet, dan adviseer ik je om je te abonneren op de ReputatieCoaching nieuwsbrief. Dit doe je, door te surfen naar: [www.reputatiecoaching.nl/nieuwsbrief/](https://www.reputatiecoaching.nl/nieuwsbrief/) en daar je voornaam en E-mailadres in te vullen. De rest gaat dan vanzelf. Ik beloof je plechtig dat ik je niet zal spammen en natuurlijk kun je je te allen tijde uitschrijven. Maar daar ga ik natuurlijk niet van uit.
+In de opening zei ik het al: morgen begint het vierde kwartaal. Dat betekent dat er weer een ReputatieCoaching Podcast boek aankomt. Maar zoals ik al een aantal keren heb aangekondigd, zal het boek niet standaard in PDF voor iedereen te downloaden zijn. Als je het wilt downloaden om te lezen op je eReader of tablet, dan adviseer ik je om je te abonneren op de ReputatieCoaching nieuwsbrief. Dit doe je, door te surfen naar: [www.reputatiecoaching.nl/nieuwsbrief/](https://web.archive.org/web/*/https://www.reputatiecoaching.nl/nieuwsbrief/) en daar je voornaam en E-mailadres in te vullen. De rest gaat dan vanzelf. Ik beloof je plechtig dat ik je niet zal spammen en natuurlijk kun je je te allen tijde uitschrijven. Maar daar ga ik natuurlijk niet van uit.
 
 En waar of hoe het boek verder uit gaat komen, dat houd ik nog even als een verrassing, tot het zover is en ik zeker weet dat het lukt, wat ik wilde realiseren.
 
@@ -92,7 +92,7 @@ Volgens Google doet zij dit om de privacy van haar gebruikers te beschermen. Maa
 
 ## Google Places Zakelijk vernieuwd!
 
-Als laatste topic over Google heb nieuws over het oude Google Places, ofwel Google+ Lokaal. En tegenwoordig heet het dan Google Places Zakelijk. Hoewel ik er in [podcast 19](https://www.reputatiecoaching.nl/19/) en in [podcast 24](https://www.reputatiecoaching.nl/24/) al over schreef, is het dan eindelijk zover: de nieuwe interface is ook beschikbaar in Nederland. Een paar dagen geleden kwam ik nog op de oude en gedateerde “Google Places” pagina terecht.
+Als laatste topic over Google heb nieuws over het oude Google Places, ofwel Google+ Lokaal. En tegenwoordig heet het dan Google Places Zakelijk. Hoewel ik er in [podcast 19](/nl/archief/reputatiecoaching/019/) en in [podcast 24](/nl/archief/reputatiecoaching/024/) al over schreef, is het dan eindelijk zover: de nieuwe interface is ook beschikbaar in Nederland. Een paar dagen geleden kwam ik nog op de oude en gedateerde “Google Places” pagina terecht.
 
 *Historische afbeelding niet beschikbaar: 20130929-Allround-Fotografie*
 
@@ -144,7 +144,7 @@ Bij alle grote sites werkt dit echt niet meer. Zoals ik al zei: ook negatieve re
 
 Uit een ander onderzoek is gebleken dat 68% van de consumenten meer vertrouwen heeft in de vertoonde reviews, als er niet alleen goede maar ook slechte beoordelingen tussen staan.
 
-In [podcast 32](https://www.reputatiecoaching.nl/32/) vertelde ik je over de Google carrousel, die al operationeel is in Noord-Amerika. In Nederland is die er nog niet. Maar het Amerikaanse bedrijf Digital Marketing Works heeft [onderzoek](http://blog.digitalmarketingworks.com/2013/09/reviews-are-brass-ring-on-googles.html) gedaan naar de belangrijkste factoren die de positie van bedrijven in de carrousel beïnvloeden. Daarvoor hebben ze meer dan 4.500 zoekresultaten onderzocht in de hotelindustrie, in 47 steden in de VS. Uit dit onderzoek zijn vier belangrijke punten naar boven gekomen:
+In [podcast 32](/nl/archief/reputatiecoaching/032/) vertelde ik je over de Google carrousel, die al operationeel is in Noord-Amerika. In Nederland is die er nog niet. Maar het Amerikaanse bedrijf Digital Marketing Works heeft [onderzoek](http://blog.digitalmarketingworks.com/2013/09/reviews-are-brass-ring-on-googles.html) gedaan naar de belangrijkste factoren die de positie van bedrijven in de carrousel beïnvloeden. Daarvoor hebben ze meer dan 4.500 zoekresultaten onderzocht in de hotelindustrie, in 47 steden in de VS. Uit dit onderzoek zijn vier belangrijke punten naar boven gekomen:
 
 ```
   * Reviews: zowel de kwantiteit, als de kwaliteit is één van de belangrijkste factoren.
@@ -163,7 +163,7 @@ Ik heb het dan over duplicate content: de content die jij met zoveel zorg hebt b
 
 Het gevolg is dan vaak dat die site wel hoog scoort en jouw site omlaag zakt in de zoekresultaten. Dat is dan desastreus voor jouw site en jouw imago.
 
-Controleer jij wel eens of jouw content niet gescraped wordt door andere sites, die er vervolgens klinkende munt uit willen slaan? Heb je wel eens jouw content elders gevonden, terwijl jij het niet daar had gepost en ook geen toestemming had gegeven om het te kopiëren? Laat het me weten: post je reactie onderaan de show notes, die je kunt vinden op: [www.reputatiecoaching.nl/44/](https://www.reputatiecoaching.nl/44/).
+Controleer jij wel eens of jouw content niet gescraped wordt door andere sites, die er vervolgens klinkende munt uit willen slaan? Heb je wel eens jouw content elders gevonden, terwijl jij het niet daar had gepost en ook geen toestemming had gegeven om het te kopiëren? Laat het me weten: post je reactie onderaan de show notes, die je kunt vinden op: [www.reputatiecoaching.nl/44/](/nl/archief/reputatiecoaching/044/).
 
 Het is mij wel eens overkomen: een fotograaf uit Tilburg had alle content van Allround Fotografie, inclusief de prijzen etc. letterlijk gekopieerd! Ik heb hem een mailtje gestuurd, waarin ik schreef dat ik verwachtte dat hij binnen een week de content offline zou hebben genomen, of volledig zou hebben herschreven. Anders zou ik andere maatregelen nemen. Inderdaad was binnen een week de content herschreven.
 
@@ -177,7 +177,7 @@ De tweede methode: Google Alerts instellen. Je kunt zoeken op letterlijke tekst 
 
 Een andere, wat minder bekende methode is via Copyscape. Die service kun je vinden op [www.copyscape.com](http://www.copyscape.com/). Daar kun je gratis de URL van een pagina van je site invullen en dan vertelt Copyscape jou, of ze ergens anders dezelfde content kunnen vinden. Je kunt Copyscape je ook automatisch laten waarschuwen als jouw content zonder jouw toestemming zomaar ergens op Internet opduikt. Daarvoor moet je dan echter wel betalen.
 
-Om te voorkomen dat Google jouw site bestraft voor de duplicate content, is het aan te raden om voor elke site écht [Google Authorship](https://www.reputatiecoaching.nl/wiki/google-authorship/) in te stellen. Als je dan ook nog eens elke nieuwe blogpost deelt op Google+, dan vergroot je je kans dat Google jouw content blijft zien als de originele content en voorkom je dus dat jouw content in de zoekresultaten keldert.
+Om te voorkomen dat Google jouw site bestraft voor de duplicate content, is het aan te raden om voor elke site écht [Google Authorship](https://web.archive.org/web/*/https://www.reputatiecoaching.nl/wiki/google-authorship/) in te stellen. Als je dan ook nog eens elke nieuwe blogpost deelt op Google+, dan vergroot je je kans dat Google jouw content blijft zien als de originele content en voorkom je dus dat jouw content in de zoekresultaten keldert.
 
 Als je de podcast leuk vindt en je hebt inderdaad wat aan alle informatie die ik met je deel, help mij dan met het verder verbeteren en promoten van deze podcast. Deel ‘m op Twitter, like ‘m op Facebook of geef een “+1” op Google+.
 
@@ -185,11 +185,11 @@ Het zou helemaal super zijn, als je een bericht achterlaat op iTunes of LinkedIn
 
 Als je dat te lastig vindt, of als je de podcast beluistert terwijl je in de auto zit en je hebt acuut een vraag, spreek dan een boodschap in op de ReputatieCoaching Hotline, op nummer: 084 - 883 15 56. Mogelijk behandel ik je vraag of probleem dan in een artikel of in de podcast.
 
-Als laatste kun je je ook inschrijven voor de nieuwsbrief. Dan ontvang je altijd als eerste het laatste nieuws wat ik publiceer en automatisch elk kwartaal het ReputatieCoaching Podcast Boek van het afgelopen kwartaal. Surf daartoe naar [www.reputatiecoaching.nl/nieuwsbrief/](https://www.reputatiecoaching.nl/nieuwsbrief/) en schrijf je meteen in.
+Als laatste kun je je ook inschrijven voor de nieuwsbrief. Dan ontvang je altijd als eerste het laatste nieuws wat ik publiceer en automatisch elk kwartaal het ReputatieCoaching Podcast Boek van het afgelopen kwartaal. Surf daartoe naar [www.reputatiecoaching.nl/nieuwsbrief/](https://web.archive.org/web/*/https://www.reputatiecoaching.nl/nieuwsbrief/) en schrijf je meteen in.
 
 En je kunt ook rechtstreeks op de website een voicemail achterlaten, door op de tab aan de rechterkant van elke pagina te klikken, en je bericht in te spreken.
 
-Dit was [ReputatieCoaching Podcast aflevering 44](https://www.reputatiecoaching.nl/44/) en mijn naam is [Eduard de Boer](http://nl.linkedin.com/in/eduarddeboer/nl). Ik wens je de komende week weer succes met het werken aan je reputatie, zodat je meteen je reputatie voor jou kunt laten werken!
+Dit was [ReputatieCoaching Podcast aflevering 44](/nl/archief/reputatiecoaching/044/) en mijn naam is [Eduard de Boer](http://nl.linkedin.com/in/eduarddeboer/nl). Ik wens je de komende week weer succes met het werken aan je reputatie, zodat je meteen je reputatie voor jou kunt laten werken!
 
 Tot volgende week!
 
@@ -198,7 +198,7 @@ Doei!
 Links die in deze podcast aan bod komen:
 
 ```
-  * [Google Authorship instellen](https://www.reputatiecoaching.nl/wiki/google-authorship/)
+  * [Google Authorship instellen](https://web.archive.org/web/*/https://www.reputatiecoaching.nl/wiki/google-authorship/)
   * [Google Webmaster Tools](https://www.google.com/webmasters/tools/?hl=nl‎)
   * [Google Alerts](http://www.google.com/alerts)
   * [Copyscape](http://www.copyscape.com/)

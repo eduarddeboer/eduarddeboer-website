@@ -3,6 +3,8 @@ title: '135: 10 geleerde lessen op Androidplanet.nl, Iphoned.nl en smartphone.nl
 date: '2015-07-02T06:30:10+00:00'
 description: 'Ik ontving eergisteren weer een leuke mail van Martin Stevens, de fotograaf uit Rotterdam: hij werd weer eens telefonisch lastiggevallen door een bedrijfsvermeldingssite op een naar zwendel riekende manier. Daar begin in de podcast van vandaag mee. Daarna vertel ik je hoe je een mooie vanity URL kunt claimen op Foursquare. Verder heb ik bij Google samen met een ondernemer die ik begeleid een paar dubbele locaties op Google Maps gerapporteerd.'
 episode: 135
+kgRef: podcast_episode/reputatiecoaching_135
+source_url: https://www.reputatiecoaching.nl/135
 historical: true
 archivePeriod: 2012–2016
 transcriptStatus: full
@@ -17,8 +19,6 @@ showTaxonomies: false
 
 > **Historisch archief.** Deze aflevering verscheen op 2-07-2015 als onderdeel van ReputatieCoaching (2012–2016). De oorspronkelijke tekst is hieronder historisch bewaard. Diensten, contactgegevens, links, tools en adviezen kunnen inmiddels verouderd zijn.
 
-{{< audio src="https://archive.org/download/20150702-reputatie-coaching-podcast-135/20150702-ReputatieCoaching-Podcast-135.mp3" title="ReputatieCoaching Podcast #135" >}}
-
 **Transcriptiestatus:** Volledige transcriptie uit het oorspronkelijke archief.
 
 **![ReputatieCoaching Podcast](ReputatieCoaching-Podcast-135.png)
@@ -30,7 +30,7 @@ Ik ontving eergisteren weer een leuke mail van Martin Stevens, de fotograaf uit 
 
 Hallo en hartelijk welkom bij deze aflevering van de ReputatieCoaching Podcast. Ik ben Eduard de Boer, ReputatieCoach. Dit is dé podcast die jou helpt om meer business te genereren, doordat jouw website beter gevonden wordt, zowel lokaal als landelijk en doordat ik je uitleg hoe je je online reputatie kunt verbeteren. Dit alles helpt je om je bedrijf en jezelf beter op de online kaart te plaatsen.
 
-De podcast kun je vinden op [www.reputatiecoaching.nl/135](https://www.reputatiecoaching.nl/135/). Daar vind je niet alleen de tekst, maar ook video’s waar ik het in deze uitzending over heb, alsmede afbeeldingen, links enzovoorts. Bovendien is de podcast te beluisteren in [iTunes](https://www.reputatiecoaching.nl/itunes), op [Stitcher](https://www.reputatiecoaching.nl/stitcher) en ook op [TuneIn Radio](http://tunein.com/radio/ReputatieCoaching-Podcast-p655084/). Ik raad je aan om je op één van die drie kanalen te abonneren op de podcast, zodat je geen aflevering hoeft te missen!
+De podcast kun je vinden op [www.reputatiecoaching.nl/135](/nl/archief/reputatiecoaching/135/). Daar vind je niet alleen de tekst, maar ook video’s waar ik het in deze uitzending over heb, alsmede afbeeldingen, links enzovoorts. Bovendien is de podcast te beluisteren in [iTunes](https://web.archive.org/web/*/https://www.reputatiecoaching.nl/itunes), op [Stitcher](https://web.archive.org/web/*/https://www.reputatiecoaching.nl/stitcher) en ook op [TuneIn Radio](http://tunein.com/radio/ReputatieCoaching-Podcast-p655084/). Ik raad je aan om je op één van die drie kanalen te abonneren op de podcast, zodat je geen aflevering hoeft te missen!
 
 Laat ik dan nu overgaan op de onderwerpen voor vandaag…
 
@@ -93,7 +93,7 @@ Eerder deze week kwam ik voor een bedrijf met een paar locaties maar liefst vier
 
 Tot op heden lukte het altijd om dubbele pagina’s te claimen of te laten claimen door de bedrijfseigenaar, om ze daarna te verwijderen. Maar voor deze ging dat niet en dus heb ik ’m in Google gerapporteerd als “dubbele vermelding”, met een verwijzing naar de originele Google+ Mijn Bedrijf pagina.
 
-Dat doe je in Google Maps door te klikken op de locatie en daarna op de tekst “Een bewerking voorstellen”. Voor een dubbele pagina klik je op “Plaats is permanent gesloten of bestaat niet”, zodat er “Ja” naast komt te staan. Dan selecteer je “Dubbele vermelding”, zoals je kunt zien op het plaatje, dat ik in de show notes op [www.reputatiecoaching.nl/135](https://www.reputatiecoaching.nl/135/) heb opgenomen:
+Dat doe je in Google Maps door te klikken op de locatie en daarna op de tekst “Een bewerking voorstellen”. Voor een dubbele pagina klik je op “Plaats is permanent gesloten of bestaat niet”, zodat er “Ja” naast komt te staan. Dan selecteer je “Dubbele vermelding”, zoals je kunt zien op het plaatje, dat ik in de show notes op [www.reputatiecoaching.nl/135](/nl/archief/reputatiecoaching/135/) heb opgenomen:
 
 ![Dubbele vermelding op Google Mijn Bedrijf](20150701-maps-dubbele-vermelding.png)
 
@@ -106,7 +106,7 @@ Nu ben ik benieuwd of ik ook nog een bevestiging krijg, als de actie daadwerkeli
 ## Facebook verlengt duur van de “view” van een video naar 10 seconden
 
 *Historische afbeelding niet beschikbaar: Facebook*
-In [podcast 128](https://www.reputatiecoaching.nl/128/) vertelde ik je over de verschillen in definitie en tijdsduur van zogenaamde video “views” op de diverse platformen. Zo vond Facebook toen dat een gebruiker een video had bekeken, als de video tenminste drie seconden had gespeeld. Dat is natuurlijk wel erg kort en zo kom je als ondernemer natuurlijk wel heel snel op een groot aantal “views”.
+In [podcast 128](/nl/archief/reputatiecoaching/128/) vertelde ik je over de verschillen in definitie en tijdsduur van zogenaamde video “views” op de diverse platformen. Zo vond Facebook toen dat een gebruiker een video had bekeken, als de video tenminste drie seconden had gespeeld. Dat is natuurlijk wel erg kort en zo kom je als ondernemer natuurlijk wel heel snel op een groot aantal “views”.
 
 Het nadeel was ook dat videomarketeers op Facebook heel hoge kosten maakten, doordat video’s al heel snel werden gemarkeerd als “bekeken”, nog voordat de video goed en wel was bekeken.
 
@@ -138,7 +138,7 @@ Als je de podcast leuk vindt en je wilt nog meer op de hoogte blijven, volg me d
 
 Heb je inderdaad wat aan alle informatie die ik met je deel, help mij dan met het verder verbeteren en promoten van deze podcast. Abonneer je op de podcast, zodat je altijd meteen de nieuwste uitzending krijgt voorgeschoteld.
 
-Zoek de podcast op, in [iTunes](https://www.reputatiecoaching.nl/itunes) of [Stitcher](https://www.reputatiecoaching.nl/stitcher), geef de podcast een sterrenbeoordeling en laat ook je reactie achter. Door de podcast te beoordelen op iTunes en/of Stitcher breng je de podcast onder de aandacht van een breder publiek.
+Zoek de podcast op, in [iTunes](https://web.archive.org/web/*/https://www.reputatiecoaching.nl/itunes) of [Stitcher](https://web.archive.org/web/*/https://www.reputatiecoaching.nl/stitcher), geef de podcast een sterrenbeoordeling en laat ook je reactie achter. Door de podcast te beoordelen op iTunes en/of Stitcher breng je de podcast onder de aandacht van een breder publiek.
 
 Je kunt me verder helpen, door de podcast aan te bevelen bij vrienden of collega’s, waarvan je denkt dat ze er hun voordeel mee kunnen doen, of door ’m te delen op Twitter, like’n en delen op Facebook of een “+1” te geven op Google+.
 
@@ -146,7 +146,7 @@ En vergeet niet: ik ben hier om je te helpen! Als je een vraag of een probleem h
 
 Als je dat te lastig vindt, of als je de podcast beluistert terwijl je in de auto zit en je hebt acuut een vraag, spreek dan een boodschap in op de ReputatieCoaching Hotline, op nummer: 084 - 883 15 56. Mogelijk behandel ik je vraag of probleem dan in een artikel of in de podcast.
 
-En je kunt ook rechtstreeks op de website een voicemail achterlaten, door op de tab aan de rechterkant van elke pagina te klikken, en je bericht in te spreken. Dit was [ReputatieCoaching Podcast aflevering 135](https://www.reputatiecoaching.nl/135/) en mijn naam is [Eduard de Boer](http://nl.linkedin.com/in/eduarddeboer/nl).
+En je kunt ook rechtstreeks op de website een voicemail achterlaten, door op de tab aan de rechterkant van elke pagina te klikken, en je bericht in te spreken. Dit was [ReputatieCoaching Podcast aflevering 135](/nl/archief/reputatiecoaching/135/) en mijn naam is [Eduard de Boer](http://nl.linkedin.com/in/eduarddeboer/nl).
 
 Ik wens je de komende week weer succes met het werken aan je reputatie, zodat je meteen je reputatie voor jou kunt laten werken!
 
@@ -157,8 +157,8 @@ Doei!
 Links naar content die in deze podcast aan bod komt:
 
 ```
-  * [ReputatieCoaching Podcast in iTunes](https://www.reputatiecoaching.nl/itunes)
-  * [ReputatieCoaching Podcast op Stitcher](https://www.reputatiecoaching.nl/stitcher)
+  * [ReputatieCoaching Podcast in iTunes](https://web.archive.org/web/*/https://www.reputatiecoaching.nl/itunes)
+  * [ReputatieCoaching Podcast op Stitcher](https://web.archive.org/web/*/https://www.reputatiecoaching.nl/stitcher)
   * [ReputatieCoaching Podcast op TuneIn Radio](http://tunein.com/radio/ReputatieCoaching-Podcast-p655084/)
   * [ReputatieCoaching Podcast RSS-feed](https://feeds.reputatiecoaching.nl/ReputatieCoachingPodcast)
   * [BigSpark](http://bigspark.com/)

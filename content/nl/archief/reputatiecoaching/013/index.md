@@ -3,6 +3,8 @@ title: Podcast Aflevering 13 (25-02-2013)
 date: '2013-02-25T20:32:48+00:00'
 description: 'ReputatieCoaching Podcast nummer dertien! De ReputatieCoaching Podcast is voor iedereen die wil werken aan zijn of haar online reputatie, zodat ze hun reputatie voor hen kunnen laten werken! In andere woorden: ik help zowel kleine zelfstandigen als grote bedrijven hun reputatie te verbeteren, de omzet en daarmee de winst te vergroten door hun vindbaarheid op Internet te verbeteren. Mijn naam is Eduard de Boer -ook wel bekend als de ReputatieCoach- en ik ben je host voor vandaag!'
 episode: 13
+kgRef: podcast_episode/reputatiecoaching_013
+source_url: https://www.reputatiecoaching.nl/13
 historical: true
 archivePeriod: 2012–2016
 transcriptStatus: full
@@ -16,8 +18,6 @@ showTaxonomies: false
 ---
 
 > **Historisch archief.** Deze aflevering verscheen op 25-02-2013 als onderdeel van ReputatieCoaching (2012–2016). De oorspronkelijke tekst is hieronder historisch bewaard. Diensten, contactgegevens, links, tools en adviezen kunnen inmiddels verouderd zijn.
-
-{{< audio src="https://archive.org/download/20130225-reputatie-coaching-podcast-013/20130225-ReputatieCoaching-Podcast-013.mp3" title="ReputatieCoaching Podcast #013" >}}
 
 **Transcriptiestatus:** Volledige transcriptie uit het oorspronkelijke archief.
 
@@ -70,11 +70,11 @@ Je bent natuurlijk weer nieuwsgierig naar de onderwerpen die ik vandaag voor je 
 
 *Als het echter te doel is om je klanten te behouden, doe dit alles dan vooral niet, Nee, dan moet je je klanten pamperen, koesteren, in de watten te leggen en je sociaal opstellen. Ofwel: wees een goed, gul, eerlijk en ethisch persoon! Als je dat combineert met goede content en je zorgt er ook voor dat je die content goed onder de aandacht brengt van de juiste doelgroep, dan positioneer je jezelf maximaal voor succes!*
 
-*Ik had het zojuist over sociale betrokkenheid bij je lezers en luisteraars. Als jij wat hebt aan de informatie en je vind het leuk om naar de podcast te luisteren, dan kun je een bericht achterlaten op onze Facebookpagina, op: [www.reputatiecoaching.nl/facebook](https://www.reputatiecoaching.nl/facebook) of op onze Google+ pagina, op: [www.reputatiecoaching.nl/gplus](https://www.reputatiecoaching.nl/gplus) (dat is dus g-p-l-u-s).*
+*Ik had het zojuist over sociale betrokkenheid bij je lezers en luisteraars. Als jij wat hebt aan de informatie en je vind het leuk om naar de podcast te luisteren, dan kun je een bericht achterlaten op onze Facebookpagina, op: [www.reputatiecoaching.nl/facebook](https://web.archive.org/web/*/https://www.reputatiecoaching.nl/facebook) of op onze Google+ pagina, op: [www.reputatiecoaching.nl/gplus](https://web.archive.org/web/*/https://www.reputatiecoaching.nl/gplus) (dat is dus g-p-l-u-s).*
 
 *Ga vandaag nog naar iTunes en maak een account aan, als je die nog niet hebt. Beoordeel dan deze podcast op iTunes en stuur een berichtje naar [podcast@reputatiecoaching.nl](mailto:podcast@reputatiecoaching.nl), dat je een recensie hebt gegeven. Zit je achter je computer en heb je Twitter of Tweetdeck of iets dergelijks geopend, stuur dan een tweet met je mening met hashtag “repcoach”, dus #repcoach erbij.*
 
-*Geef gerust een recensie. En als je opmerkingen hebt over deze podcast, laat die dan op de website onderaan de transcriptie achter. Je kunt de transcriptie van deze podcast snel online vinden door te surfen naar: [www.reputatiecoaching.nl/13](https://www.reputatiecoaching.nl/13). Als je ergens een recensie hebt geplaatst, stuur me dan een mailtje zodat ik je recensie kan vermelden in de podcast.*
+*Geef gerust een recensie. En als je opmerkingen hebt over deze podcast, laat die dan op de website onderaan de transcriptie achter. Je kunt de transcriptie van deze podcast snel online vinden door te surfen naar: [www.reputatiecoaching.nl/13](/nl/archief/reputatiecoaching/013/). Als je ergens een recensie hebt geplaatst, stuur me dan een mailtje zodat ik je recensie kan vermelden in de podcast.*
 
 *Heb je een vraag of probleem met betrekking tot je online reputatie: stuur dan een mailtje naar [podcast@reputatiecoaching.nl](mailto:podcast@reputatiecoaching.nl) of spreek een boodschap in op de ReputatieCoaching Hotline, op: 084 - 883 15 56. Mogelijk behandel ik je vraag of probleem dan in een artikel of in de podcast.*
 
@@ -113,7 +113,7 @@ Je bent natuurlijk weer nieuwsgierig naar de onderwerpen die ik vandaag voor je 
   2. _**Plaats, regio of provincie in de titel van de webpagina waar je Google+ Local vermelding naar verwijst** – Als je slechts één bedrijfslocatie hebt, laat je je Google+ Local pagina hoogstwaarschijnlijk verwijzen naar je home pagina. Als je meerdere locaties hebt, dan moet je een aparte pagina op je website hebben, per locatie. En elke Google+ Local vermelding moet dan verwijzen naar de desbetreffende individuele pagina op je website. Vergeet dan ook niet de plaats, provincie en eventueel het adres en/of telefoonnummer van elke locatie in de paginatitel van elke pagina te zetten._
   3. _**NAPT op website stemt overeen met NAPT op Google+ Local** – Google houdt van consistentie. Dus zorg ervoor dat al je bedrijfsvermeldingen (Naam, Adres, Postcode/Paats en Telefoonnumer) overal hetzelfde is. Gebruik ook indien mogelijk zoveel mogelijk dezelfde formatting en schrijfwijze. Dus schrijf telefoonnummers overal hetzelfde en gebruik altijd “ … en …” of “... & …”, maar gebruik het consistent. Overweeg ook of je je bedrijfsvermelding (Naam, Adres, Postcode/Plaats en Telefoonnummer) bijvoorbeeld overal in de zijbalk of in de footer van elke pagina plaatst. Dit kan helpen._
   4. _**Product of dienst en locatie in de URL van de webpagina** – Als je Google+ Local pagina naar de homepagina van je website verwijst, kan dit niet, maar als je meerdere locaties hebt en je hebt op je website ook een individuele pagina per locatie, dan zou je de product/dienst en/of locatie ook in je URL kunnen gebruiken._
-  5. _**NAPT in schema.org opmaak** – Ik heb in [podcast 3](https://www.reputatiecoaching.nl/3/) en [podcast 5](https://www.reputatiecoaching.nl/5/) al verteld over schema.org. Als je je adres op je website vermeldt, zorg er dan voor dat je web designer deze zogezegd “onderwater” correct markeert door middel van schema.org tags. Dit is niet zichtbaar voor de mensen die je webpagina’s bezoeken, maar het helpt zoekmachines om dat stukje tekst te identificeren als het adres van je bedrijf._
+  5. _**NAPT in schema.org opmaak** – Ik heb in [podcast 3](/nl/archief/reputatiecoaching/003/) en [podcast 5](/nl/archief/reputatiecoaching/005/) al verteld over schema.org. Als je je adres op je website vermeldt, zorg er dan voor dat je web designer deze zogezegd “onderwater” correct markeert door middel van schema.org tags. Dit is niet zichtbaar voor de mensen die je webpagina’s bezoeken, maar het helpt zoekmachines om dat stukje tekst te identificeren als het adres van je bedrijf._
 ```
 
 \_Ook vermeldingen op andere sites spelen een rol bij de positie van jouw bedrijf in de lokale zoekresultaten. Waar vroeger het aantal links naar je site ongeveer de enige factor was die je positie bepaalde, spelen tegenwoordig “citations” een heel belangrijke rol. Citations zijn bedrijfsvermeldingen, waarin de NAPT gegevens worden getoond. Het artikel beschrijft de volgende top-5 zogenaamde “offsite” aspecten:\*\*\*\*

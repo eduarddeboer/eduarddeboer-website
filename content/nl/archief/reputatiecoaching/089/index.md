@@ -3,6 +3,8 @@ title: '89: SSL helpt ranking, Penguin op vakantie. Hoelang duurt scoren in loka
 date: '2014-08-14T06:30:12+00:00'
 description: Om te beginnen heeft Google onlangs expliciet aangegeven dat zij een nieuw ranking signaal in gebruik heeft genomen en verder lijkt de Google Penguin al ruim 10 maanden op vakantie te zijn. En hoeveel reviewsterretjes is echt te weinig voor een lokaal bedrijf? Ik vertel het je zometeen! Hoelang duurt het om te scoren in de lokale resultaten? Ook die vraag komt zometeen aan bod, evenals de vraag of externe harddisks goedkoper zijn dan cloudopslag, of niet.
 episode: 89
+kgRef: podcast_episode/reputatiecoaching_089
+source_url: https://www.reputatiecoaching.nl/89
 historical: true
 archivePeriod: 2012–2016
 transcriptStatus: full
@@ -17,8 +19,6 @@ showTaxonomies: false
 
 > **Historisch archief.** Deze aflevering verscheen op 14-08-2014 als onderdeel van ReputatieCoaching (2012–2016). De oorspronkelijke tekst is hieronder historisch bewaard. Diensten, contactgegevens, links, tools en adviezen kunnen inmiddels verouderd zijn.
 
-{{< audio src="https://archive.org/download/20140814-reputatie-coaching-podcast-089/20140814-ReputatieCoaching-Podcast-089.mp3" title="ReputatieCoaching Podcast #089" >}}
-
 **Transcriptiestatus:** Volledige transcriptie uit het oorspronkelijke archief.
 
 ***Historische afbeelding niet beschikbaar: ReputatieCoaching Podcast*
@@ -30,7 +30,7 @@ Hallo en hartelijk welkom bij deze aflevering van de ReputatieCoaching Podcast. 
 
 Als persoon kun je met de diverse tips aan de slag om bijvoorbeeld je online reputatie als fruitteler, magazijnbeheerder, meubelstoffeerder, schapenscheerder, schoorsteenveger, wijnboer of wat dan ook te verbeteren.
 
-De podcast kun je vinden op [www.reputatiecoaching.nl/89](https://www.reputatiecoaching.nl/89/). Daar vind je niet alleen de tekst, maar ook video’s waar ik het in deze uitzending over heb, alsmede afbeeldingen, links enzovoorts. Bovendien is de podcast te beluisteren in [iTunes](https://www.reputatiecoaching.nl/itunes) en op [Stitcher](https://www.reputatiecoaching.nl/stitcher). Daar kun je je dus ook abonneren op de wekelijkse podcast.
+De podcast kun je vinden op [www.reputatiecoaching.nl/89](/nl/archief/reputatiecoaching/089/). Daar vind je niet alleen de tekst, maar ook video’s waar ik het in deze uitzending over heb, alsmede afbeeldingen, links enzovoorts. Bovendien is de podcast te beluisteren in [iTunes](https://web.archive.org/web/*/https://www.reputatiecoaching.nl/itunes) en op [Stitcher](https://web.archive.org/web/*/https://www.reputatiecoaching.nl/stitcher). Daar kun je je dus ook abonneren op de wekelijkse podcast.
 
 Laat ik dan nu overgaan op de onderwerpen voor vandaag…
 
@@ -64,7 +64,7 @@ In de show notes heb ik het stukje video waarin John Mueller dit vertelt, opgeno
 
 ## Hoeveel sterretjes is te weinig voor een lokaal bedrijf?
 
-In [podcast 84](https://www.reputatiecoaching.nl/84/) vertelde ik over de acceptatie van en het vertrouwen in online reviews door Internetgebruikers. Dat was op basis van een onderzoek dat was uitgevoerd door BrightLocal.
+In [podcast 84](/nl/archief/reputatiecoaching/084/) vertelde ik over de acceptatie van en het vertrouwen in online reviews door Internetgebruikers. Dat was op basis van een onderzoek dat was uitgevoerd door BrightLocal.
 
 Op basis van die gegevens heeft BrightLocal nu weer een paar interessante statistieken gepubliceerd, die ik graag met je deel. Dit keer gaat het erom hoeveel sterretjes eigenlijk te weinig is voor consumenten, om zaken te willen doen met een lokaal bedrijf.
 
@@ -113,7 +113,7 @@ In de sector en locatie waarin minder concurrentie is, zegt 95% dat het mogelijk
 
 [![Hoelang duurt lokale SEO?](20140814-Scenario-1a.jpg)](https://lh5.googleusercontent.com/-zVKILomNc4U/U-zLTcdnmAI/AAAAAAAABGU/H9qITYM0WN0/w633-h403-no/20140814-Scenario-1b.jpg)
 
-Het onderzoek is aardig omvangrijk en leuk om eens op je gemak te lezen. Ik heb de link naar het artikel “[How long does it take to rank in local search?](http://www.brightlocal.com/2014/07/29/long-take-rank-local-search/)” opgenomen in de show notes, op [www.reputatiecoaching.nl/89](https://www.reputatiecoaching.nl/89/).
+Het onderzoek is aardig omvangrijk en leuk om eens op je gemak te lezen. Ik heb de link naar het artikel “[How long does it take to rank in local search?](http://www.brightlocal.com/2014/07/29/long-take-rank-local-search/)” opgenomen in de show notes, op [www.reputatiecoaching.nl/89](/nl/archief/reputatiecoaching/089/).
 
 Ik noem je nog een paar interessante resultaten:
 
@@ -149,7 +149,7 @@ Maar als je meer wilt opslaan dan 1 TB, dan zijn cloudoplossingen grappig genoeg
 
 ## Domineer de lokale resultaten
 
-Zojuist had ik het over ranken in de lokale zoekresultaten. Al surfend op Internet kwam ik afgelopen week een leuke infographic tegen, met als titel “Rule the local results!”. Deze infographic heb ik in de show notes, op [www.reputatiecoaching.nl/89](https://www.reputatiecoaching.nl/89/) opgenomen:
+Zojuist had ik het over ranken in de lokale zoekresultaten. Al surfend op Internet kwam ik afgelopen week een leuke infographic tegen, met als titel “Rule the local results!”. Deze infographic heb ik in de show notes, op [www.reputatiecoaching.nl/89](/nl/archief/reputatiecoaching/089/) opgenomen:
 
 [![20140814-Infographic-Rule-Local-Results](20140814-Infographic-Rule-Local-Results.jpg)](/wp-content/uploads/2014/08/20140814-Infographic-Rule-Local-Results.jpg)
 
@@ -218,7 +218,7 @@ Met deze bijzondere video’s en de vijf videotips kom ik dan weer aan het einde
 
 Als je de podcast leuk vindt en je wilt nog meer op de hoogte blijven, volg me dan ook op Twitter, via [@reputatiecoach1](https://twitter.com/reputatiecoach1).
 
-Heb je inderdaad wat aan alle informatie die ik met je deel, help mij dan met het verder verbeteren en promoten van deze podcast. Surf daarvoor naar [iTunes](https://www.reputatiecoaching.nl/itunes) of [Stitcher](https://www.reputatiecoaching.nl/stitcher), geef de podcast een sterrenbeoordeling en laat ook je reactie achter. Door de podcast te beoordelen op iTunes en/of Stitcher breng je de podcast onder de aandacht van een breder publiek.
+Heb je inderdaad wat aan alle informatie die ik met je deel, help mij dan met het verder verbeteren en promoten van deze podcast. Surf daarvoor naar [iTunes](https://web.archive.org/web/*/https://www.reputatiecoaching.nl/itunes) of [Stitcher](https://web.archive.org/web/*/https://www.reputatiecoaching.nl/stitcher), geef de podcast een sterrenbeoordeling en laat ook je reactie achter. Door de podcast te beoordelen op iTunes en/of Stitcher breng je de podcast onder de aandacht van een breder publiek.
 
 Je kunt me verder helpen, door de podcast aan te bevelen bij vrienden of collega’s, waarvan je denkt dat ze er hun voordeel mee kunnen doen, of door ’m te delen op Twitter, like’n en delen op Facebook of een “+1” te geven op Google+.
 
@@ -226,7 +226,7 @@ En vergeet niet: ik ben hier om je te helpen! Als je een vraag of een probleem h
 
 Als je dat te lastig vindt, of als je de podcast beluistert terwijl je in de auto zit en je hebt acuut een vraag, spreek dan een boodschap in op de ReputatieCoaching Hotline, op nummer: 084 - 883 15 56. Mogelijk behandel ik je vraag of probleem dan in een artikel of in de podcast.
 
-En je kunt ook rechtstreeks op de website een voicemail achterlaten, door op de tab aan de rechterkant van elke pagina te klikken, en je bericht in te spreken. Dit was [ReputatieCoaching Podcast aflevering 89](https://www.reputatiecoaching.nl/89/) en ik ben [Eduard de Boer](http://nl.linkedin.com/in/eduarddeboer/nl).
+En je kunt ook rechtstreeks op de website een voicemail achterlaten, door op de tab aan de rechterkant van elke pagina te klikken, en je bericht in te spreken. Dit was [ReputatieCoaching Podcast aflevering 89](/nl/archief/reputatiecoaching/089/) en ik ben [Eduard de Boer](http://nl.linkedin.com/in/eduarddeboer/nl).
 
 Ik wens je de komende week weer succes met het werken aan je reputatie, zodat je meteen je reputatie voor jou kunt laten werken!
 
@@ -237,8 +237,8 @@ Doei!
 Links naar content die in deze podcast aan bod komt:
 
 ```
-  * [ReputatieCoaching Podcast in iTunes](https://www.reputatiecoaching.nl/itunes)
-  * [ReputatieCoaching Podcast op Stitcher](https://www.reputatiecoaching.nl/stitcher)
+  * [ReputatieCoaching Podcast in iTunes](https://web.archive.org/web/*/https://www.reputatiecoaching.nl/itunes)
+  * [ReputatieCoaching Podcast op Stitcher](https://web.archive.org/web/*/https://www.reputatiecoaching.nl/stitcher)
   * [ReputatieCoaching Podcast RSS-feed](https://feeds.reputatiecoaching.nl/ReputatieCoachingPodcast)
   * “[Cloud storage vs. external hard drives: Which really offers the best bang for your buck?](http://www.pcworld.com/article/2451774/cloud-storage-vs-external-hard-drives-which-really-offers-the-best-bang-for-your-buck.html)” (PC World, 10 juli 2014)
   * “[How long does it take to rank in local search?](http://www.brightlocal.com/2014/07/29/long-take-rank-local-search/)” (BrightLocal, 29 juli 2014)

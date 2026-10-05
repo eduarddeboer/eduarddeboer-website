@@ -3,6 +3,8 @@ title: '124: Training van @JeanetBathoorn op #SMC055, oTranscribe voor transcrip
 date: '2015-04-16T06:30:22+00:00'
 description: Afgelopen maandag was ik bij de Social Media Club avond en ik begin de podcast van vandaag met je daar iets over te vertellen. Verder heb ik een tweetal leuke tooltips, die mogelijk voor jou interessant kunnen zijn. De eerste tip gaat over het maken van transcripties en de tweede gaat over het beter tegenhouden van spamberichten in je WordPress site. Vorige week kreeg ik van iemand de vraag waarom ik zoveel moeite doe om wekelijks de podcast uit te brengen en van elke podcast bovendien nog eens een volledige transcriptie te posten.
 episode: 124
+kgRef: podcast_episode/reputatiecoaching_124
+source_url: https://www.reputatiecoaching.nl/124
 historical: true
 archivePeriod: 2012–2016
 transcriptStatus: full
@@ -17,8 +19,6 @@ showTaxonomies: false
 
 > **Historisch archief.** Deze aflevering verscheen op 16-04-2015 als onderdeel van ReputatieCoaching (2012–2016). De oorspronkelijke tekst is hieronder historisch bewaard. Diensten, contactgegevens, links, tools en adviezen kunnen inmiddels verouderd zijn.
 
-{{< audio src="https://archive.org/download/20150416-reputatie-coaching-podcast-124/20150416-ReputatieCoaching-Podcast-124.mp3" title="ReputatieCoaching Podcast #124" >}}
-
 **Transcriptiestatus:** Volledige transcriptie uit het oorspronkelijke archief.
 
 **![ReputatieCoaching Podcast](ReputatieCoaching-Podcast-124.png)
@@ -30,7 +30,7 @@ Afgelopen maandag was ik bij de Social Media Club avond en ik begin de podcast v
 
 Hallo en hartelijk welkom bij deze aflevering van de ReputatieCoaching Podcast. Ik ben Eduard de Boer, ReputatieCoach. Dit is dé podcast die jou helpt om meer business te genereren, doordat jouw website beter gevonden wordt, zowel lokaal als landelijk en doordat ik je uitleg hoe je je online reputatie kunt verbeteren. Dit alles helpt je om je bedrijf en jezelf beter op de online kaart te plaatsen.
 
-De podcast kun je vinden op [www.reputatiecoaching.nl/124](https://www.reputatiecoaching.nl/124/). Daar vind je niet alleen de tekst, maar ook video’s waar ik het in deze uitzending over heb, alsmede afbeeldingen, links enzovoorts. Bovendien is de podcast te beluisteren in [iTunes](https://www.reputatiecoaching.nl/itunes), op [Stitcher](https://www.reputatiecoaching.nl/stitcher) en op [TuneIn Radio](http://tunein.com/radio/ReputatieCoaching-Podcast-p655084/). Ik raad je aan om je op één van die drie kanalen te abonneren op de podcast, zodat je geen aflevering hoeft te missen!
+De podcast kun je vinden op [www.reputatiecoaching.nl/124](/nl/archief/reputatiecoaching/124/). Daar vind je niet alleen de tekst, maar ook video’s waar ik het in deze uitzending over heb, alsmede afbeeldingen, links enzovoorts. Bovendien is de podcast te beluisteren in [iTunes](https://web.archive.org/web/*/https://www.reputatiecoaching.nl/itunes), op [Stitcher](https://web.archive.org/web/*/https://www.reputatiecoaching.nl/stitcher) en op [TuneIn Radio](http://tunein.com/radio/ReputatieCoaching-Podcast-p655084/). Ik raad je aan om je op één van die drie kanalen te abonneren op de podcast, zodat je geen aflevering hoeft te missen!
 
 ## Verhuizing naar een nieuwe server
 
@@ -52,12 +52,12 @@ Als alle sites over zijn gezet, heb ik de volgende voordelen:
   5. Ik bespaar meer dan € 1.200 per jaar.
 ```
 
-Heb jij een aantal websites? Hoeveel? Hoe heb jij e.e.a. ingeregeld? Vertel het eens onderaan de show notes van deze podcast, die je kunt vinden op [www.reputatiecoaching.nl/124](https://www.reputatiecoaching.nl/124/) of stuur een mailtje naar [podcast@reputatiecoaching.nl](mailto:podcast@reputatiecoaching.nl).
+Heb jij een aantal websites? Hoeveel? Hoe heb jij e.e.a. ingeregeld? Vertel het eens onderaan de show notes van deze podcast, die je kunt vinden op [www.reputatiecoaching.nl/124](/nl/archief/reputatiecoaching/124/) of stuur een mailtje naar [podcast@reputatiecoaching.nl](mailto:podcast@reputatiecoaching.nl).
 
 ## Zit jij op SoundCloud?
 
 ![SoundCloud](soundcloud.png)
-Nog een puntje en hier verneem ik ook graag je reactie op… Zoals ik altijd in de introductie vertel, ontsluit ik de podcasts via [iTunes](https://www.reputatiecoaching.nl/itunes), [Stitcher](https://www.reputatiecoaching.nl/stitcher) en sinds enige tijd via [TuneIn Radio](http://tunein.com/radio/ReputatieCoaching-Podcast-p655084/). Je hoort/leest overal op Internet, dat je dáár moet zijn, waar je publiek is, dat je wilt bereiken. Het is lastiger om je publiek naar jou toe te trekken. Daarom mijn vraag: “Waar beluister jij de podcast en wáár zie je de audioversie van de podcast het liefst?”.
+Nog een puntje en hier verneem ik ook graag je reactie op… Zoals ik altijd in de introductie vertel, ontsluit ik de podcasts via [iTunes](https://web.archive.org/web/*/https://www.reputatiecoaching.nl/itunes), [Stitcher](https://web.archive.org/web/*/https://www.reputatiecoaching.nl/stitcher) en sinds enige tijd via [TuneIn Radio](http://tunein.com/radio/ReputatieCoaching-Podcast-p655084/). Je hoort/leest overal op Internet, dat je dáár moet zijn, waar je publiek is, dat je wilt bereiken. Het is lastiger om je publiek naar jou toe te trekken. Daarom mijn vraag: “Waar beluister jij de podcast en wáár zie je de audioversie van de podcast het liefst?”.
 
 SoundCloud is een enorm populaire dienst voor audio en inmiddels ook voor podcasts. Ik heb echter geen idee of jij gebruik maakt van SoundCloud. Doe je dat? Luister jij veel naar audio via SoundCloud? En zou je liever de podcast via SoundClound beluisteren? Laat het eens weten, wat ik ben wel erg nieuwsgierig.
 
@@ -79,7 +79,7 @@ Bovendien neem ik vaak een audiorecorder mee naar andere presentaties, zoals afg
 
 Helaas is er nog geen goede Nederlandstalige spraakherkenning waar ik de audio in kan omzetten naar tekst. En als ik dus tekst wil maken van een audio-opname, moet ik dat zelf doen… Handmatig. Dat is erg bewerkelijk. Ik weet dat er aparte apparatuur voor is met voetschakelaars om de audio te starten, terug te “spoelen” enzovoorts. Maar dat zag ik niet zo zitten. Dus ben ik ooit op zoek gegaan en kwam verschillende programma’s voor mijn iMac tegen, die ongeveer deden wat ik wilde. Maar geen van alle vond ik echt prettig werken.
 
-Al zoekende vond ik de site [otranscribe.com](http://www.otranscribe.com). Zoals altijd vind je de link naar deze site in de show notes van deze podcast, op [www.reputatiecoaching.nl/124](https://www.reputatiecoaching.nl/124/). oTranscribe is een webbased service, waarin je simpelweg je audio of video kunt uploaden en dan naar hartelust het afspelen kunt starten en stoppen, door op de ESC-knop te drukken. In het venster eronder kun je de transcriptie meetypen.
+Al zoekende vond ik de site [otranscribe.com](http://www.otranscribe.com). Zoals altijd vind je de link naar deze site in de show notes van deze podcast, op [www.reputatiecoaching.nl/124](/nl/archief/reputatiecoaching/124/). oTranscribe is een webbased service, waarin je simpelweg je audio of video kunt uploaden en dan naar hartelust het afspelen kunt starten en stoppen, door op de ESC-knop te drukken. In het venster eronder kun je de transcriptie meetypen.
 
 [![Openingsscherm van oTranscribe](20150416-otranscribe-openingscherm.png)](https://lh4.googleusercontent.com/-u1G9DTB5sjE/VS5f9OtynII/AAAAAAAAB-s/wfK6adsiC-I/w873-h743-no/20150416-otranscribe-openingscherm.png)
 
@@ -111,7 +111,7 @@ De volledige transcriptie post ik altijd op de website en wel om de volgende red
 
 Ik weet het, veel podcasters uit het buitenland dwingen je bijna om naar de podcast te luisteren en zij posten derhalve slechts een korte samenvatting op hun website. Zelf heb ik daar mijn bedenkingen over, voornamelijk omdat ik vind dat iedereen de content op de door hem of haar gewenste wijze moet kunnen consumeren.
 
-Maar doe denk jij erover? Ga even naar de show notes op [www.reputatiecoaching.nl/124](https://www.reputatiecoaching.nl/124/) en laat het me weten. Want ik heb daar een formulier met slechts twee vragen opgenomen. De eerste vraag gaat over de gewenste manier voor consumptie van content en verder geef ik je nog de mogelijkheid een opmerking toe te voegen. Ik vraag je dus verder niet om je mailadres of andere gegevens: het is een geheel anoniem onderzoekje:
+Maar doe denk jij erover? Ga even naar de show notes op [www.reputatiecoaching.nl/124](/nl/archief/reputatiecoaching/124/) en laat het me weten. Want ik heb daar een formulier met slechts twee vragen opgenomen. De eerste vraag gaat over de gewenste manier voor consumptie van content en verder geef ik je nog de mogelijkheid een opmerking toe te voegen. Ik vraag je dus verder niet om je mailadres of andere gegevens: het is een geheel anoniem onderzoekje:
 
 ## Tooltip: WP-Spamshield voor betere bescherming tegen spamreacties
 
@@ -164,7 +164,7 @@ Als dit soort twijfels en gedachten wel eens door jouw hoofd spoken en als die j
 \*\*De audio van Jeanet Bathoorn over hoe je deze beperkende overtuigingen
 “omdenkt” in positieve overtuigingen, vind je terug in de audio.
 Abonneer je op de podcast in:
-[iTunes](https://www.reputatiecoaching.nl/itunes), op [Stitcher](https://www.reputatiecoaching.nl/stitcher) of op [TuneIn Radio](http://tunein.com/radio/ReputatieCoaching-Podcast-p655084/)!!\*\*Een leuke spreuk die ik nog aan het verhaal van Jeanet Bathoorn heb overgehouden is:
+[iTunes](https://web.archive.org/web/*/https://www.reputatiecoaching.nl/itunes), op [Stitcher](https://web.archive.org/web/*/https://www.reputatiecoaching.nl/stitcher) of op [TuneIn Radio](http://tunein.com/radio/ReputatieCoaching-Podcast-p655084/)!!\*\*Een leuke spreuk die ik nog aan het verhaal van Jeanet Bathoorn heb overgehouden is:
 
 *“There are 7 days in a week. Someday isn’t one of them."*
 
@@ -174,7 +174,7 @@ Als je de podcast leuk vindt en je wilt nog meer op de hoogte blijven, volg me d
 
 Heb je inderdaad wat aan alle informatie die ik met je deel, help mij dan met het verder verbeteren en promoten van deze podcast. Abonneer je op de podcast, zodat je altijd meteen de nieuwste uitzending krijgt voorgeschoteld.
 
-Zoek de podcast op, in [iTunes](https://www.reputatiecoaching.nl/itunes) of [Stitcher](https://www.reputatiecoaching.nl/stitcher), geef de podcast een sterrenbeoordeling en laat je reactie achter. Door de podcast te beoordelen op iTunes en/of Stitcher breng je de podcast onder de aandacht van een breder publiek.
+Zoek de podcast op, in [iTunes](https://web.archive.org/web/*/https://www.reputatiecoaching.nl/itunes) of [Stitcher](https://web.archive.org/web/*/https://www.reputatiecoaching.nl/stitcher), geef de podcast een sterrenbeoordeling en laat je reactie achter. Door de podcast te beoordelen op iTunes en/of Stitcher breng je de podcast onder de aandacht van een breder publiek.
 
 Je kunt me verder helpen, door de podcast aan te bevelen bij vrienden of collega’s, waarvan je denkt dat ze er hun voordeel mee kunnen doen, of door ’m te delen op Twitter, like’n en delen op Facebook of een “+1” te geven op Google+.
 
@@ -182,7 +182,7 @@ En vergeet niet: ik ben hier om je te helpen! Als je een vraag of een probleem h
 
 Als je dat te lastig vindt, of als je de podcast beluistert terwijl je in de auto zit en je hebt acuut een vraag, spreek dan een boodschap in op de ReputatieCoaching Hotline, op nummer: 084 - 883 15 56. Mogelijk behandel ik je vraag of probleem dan in een artikel of in de podcast.
 
-En je kunt rechtstreeks op de website een voicemail achterlaten, door op de tab aan de rechterkant van elke pagina te klikken, en je bericht in te spreken. Dit was [ReputatieCoaching Podcast aflevering 124](https://www.reputatiecoaching.nl/124/) en mijn naam is [Eduard de Boer](http://nl.linkedin.com/in/eduarddeboer/nl).
+En je kunt rechtstreeks op de website een voicemail achterlaten, door op de tab aan de rechterkant van elke pagina te klikken, en je bericht in te spreken. Dit was [ReputatieCoaching Podcast aflevering 124](/nl/archief/reputatiecoaching/124/) en mijn naam is [Eduard de Boer](http://nl.linkedin.com/in/eduarddeboer/nl).
 
 Ik wens je de komende week weer succes met het werken aan je reputatie, zodat je meteen je reputatie voor jou kunt laten werken!
 
@@ -193,8 +193,8 @@ Doei!
 Links naar content die in deze podcast aan bod komt:
 
 ```
-  * [ReputatieCoaching Podcast in iTunes](https://www.reputatiecoaching.nl/itunes)
-  * [ReputatieCoaching Podcast op Stitcher](https://www.reputatiecoaching.nl/stitcher)
+  * [ReputatieCoaching Podcast in iTunes](https://web.archive.org/web/*/https://www.reputatiecoaching.nl/itunes)
+  * [ReputatieCoaching Podcast op Stitcher](https://web.archive.org/web/*/https://www.reputatiecoaching.nl/stitcher)
   * [ReputatieCoaching Podcast op TuneIn Radio](http://tunein.com/radio/ReputatieCoaching-Podcast-p655084/)
   * [ReputatieCoaching Podcast RSS-feed](https://feeds.reputatiecoaching.nl/ReputatieCoachingPodcast)
   * [otranscribe](http://www.otranscribe.com) (voor het maken van een transcriptie van audio en/of video)

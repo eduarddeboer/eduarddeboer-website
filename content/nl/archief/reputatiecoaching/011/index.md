@@ -3,6 +3,8 @@ title: Podcast Aflevering 11 (11-02-2013)
 date: '2013-02-11T22:59:30+00:00'
 description: ReputatieCoaching Podcast nummer elf! Hallo en welkom bij de ReputatieCoaching Podcast! In deze podcast deel ik nieuws uit de Internet en Content Marketing wereld en geef ik praktische tips over hoe je vandaag al kunt beginnen met het verder opbouwen van je online reputatie en het vergroten van je vindbaarheid op Internet. Mijn naam is Eduard de Boer -ook wel bekend als de ReputatieCoach- en ik ben je host voor vandaag!
 episode: 11
+kgRef: podcast_episode/reputatiecoaching_011
+source_url: https://www.reputatiecoaching.nl/11
 historical: true
 archivePeriod: 2012–2016
 transcriptStatus: full
@@ -17,8 +19,6 @@ showTaxonomies: false
 
 > **Historisch archief.** Deze aflevering verscheen op 11-02-2013 als onderdeel van ReputatieCoaching (2012–2016). De oorspronkelijke tekst is hieronder historisch bewaard. Diensten, contactgegevens, links, tools en adviezen kunnen inmiddels verouderd zijn.
 
-{{< audio src="https://archive.org/download/20130211-reputatie-coaching-podcast-011/20130211-ReputatieCoaching-Podcast-011.mp3" title="ReputatieCoaching Podcast #011" >}}
-
 **Transcriptiestatus:** Volledige transcriptie uit het oorspronkelijke archief.
 
 ***ReputatieCoaching Podcast nummer elf!***
@@ -28,7 +28,7 @@ Hallo en welkom bij de ReputatieCoaching Podcast! In deze podcast deel ik nieuws
 
 *Allereerst mijn excuses voor een omissie in de podcast van vorige week. Ik had toen beloofd te vertellen over de introductiecursus “Zoekmachine marketing” die ik aan het uitwerken ben. Deze podcast komt dit echt aan bod!*
 
-*Voor deze podcast heb ik verder weer een aantal leuke onderwerpen. Als eerste kom ik nog terug met een recent praktijkvoorbeeld over iets wat ik in [podcast 9](https://www.reputatiecoaching.nl/9) heb verteld. Ten tweede de ervaring die een luisteraar van deze podcast had op basis van de tips en trucs aangaande reputatie etc. Dan de recensie die contentmarketing spreker Arend Landman schreef over boek “Reputatie onder druk” dat is geschreven door Frank Peters. Als vierde onderwerp vertel ik deze podcast dan toch echt over de introductiecursus “Zoekmachine marketing” en ik sluit vandaag af met een aantal adviezen over hoe je per direct een stuk beter kunt zijn in alles wat je doet, hetgeen dus ook weer helpt bij de reputatie.*
+*Voor deze podcast heb ik verder weer een aantal leuke onderwerpen. Als eerste kom ik nog terug met een recent praktijkvoorbeeld over iets wat ik in [podcast 9](/nl/archief/reputatiecoaching/009/) heb verteld. Ten tweede de ervaring die een luisteraar van deze podcast had op basis van de tips en trucs aangaande reputatie etc. Dan de recensie die contentmarketing spreker Arend Landman schreef over boek “Reputatie onder druk” dat is geschreven door Frank Peters. Als vierde onderwerp vertel ik deze podcast dan toch echt over de introductiecursus “Zoekmachine marketing” en ik sluit vandaag af met een aantal adviezen over hoe je per direct een stuk beter kunt zijn in alles wat je doet, hetgeen dus ook weer helpt bij de reputatie.*
 
 *Steeds meer mensen weten de ReputatieCoaching Podcast te vinden. Zo had ik vorige week op donderdag op die ene dag maar liefst 13 downloads! Tot voor die tijd stond het dagrecord op 9 downloads. Je kunt dat weinig vinden, maar zelf ben ik uitermate tevreden, alhoewel natuurlijk altijd meer luisteraars van harte welkom zijn! Wekelijks zijn er vele tientallen downloads. Het is dus alsof ik één keer per week in een zaaltje over ReputatieCoaching kom vertellen en dat er dan elke week tientallen mensen komen luisteren!*
 
@@ -36,9 +36,9 @@ Hallo en welkom bij de ReputatieCoaching Podcast! In deze podcast deel ik nieuws
 
 *Ga vandaag nog naar iTunes en maak een account aan, als je die nog niet hebt. Beoordeel dan deze podcast op iTunes en stuur een berichtje naar [podcast@reputatiecoaching.nl](mailto:podcast@reputatiecoaching.nl), dat je een recensie hebt gegeven. Zit je achter je computer en heb je Twitter of Tweetdeck of iets dergelijks geopend, stuur dan een tweet met je mening met hashtag “repcoach”, dus **#repcoach** erbij.*
 
-*Als je wat hebt aan de informatie en je vind het leuk om naar de podcast te luisteren, dan kun je een bericht achterlaten op onze Facebookpagina, op: [www.reputatiecoaching.nl/facebook](https://www.reputatiecoaching.nl/facebook) of op onze Google+ pagina, op: [www.reputatiecoaching.nl/gplus](https://www.reputatiecoaching.nl/gplus) (dat is dus g-p-l-u-s).*
+*Als je wat hebt aan de informatie en je vind het leuk om naar de podcast te luisteren, dan kun je een bericht achterlaten op onze Facebookpagina, op: [www.reputatiecoaching.nl/facebook](https://web.archive.org/web/*/https://www.reputatiecoaching.nl/facebook) of op onze Google+ pagina, op: [www.reputatiecoaching.nl/gplus](https://web.archive.org/web/*/https://www.reputatiecoaching.nl/gplus) (dat is dus g-p-l-u-s).*
 
-*Geef gerust een recensie. En als je opmerkingen hebt over deze podcast, laat die dan op de website onderaan de transcriptie achter. Je kunt de transcriptie van deze podcast snel online vinden door te surfen naar: [www.reputatiecoaching.nl/podcast-11](https://www.reputatiecoaching.nl/podcast-11/) . Als je ergens een recensie hebt geplaatst, stuur me dan een mailtje zodat ik je recensie kan vermelden in de podcast.*
+*Geef gerust een recensie. En als je opmerkingen hebt over deze podcast, laat die dan op de website onderaan de transcriptie achter. Je kunt de transcriptie van deze podcast snel online vinden door te surfen naar: [www.reputatiecoaching.nl/podcast-11](https://web.archive.org/web/*/https://www.reputatiecoaching.nl/podcast-11/) . Als je ergens een recensie hebt geplaatst, stuur me dan een mailtje zodat ik je recensie kan vermelden in de podcast.*
 
 *Heb je een vraag of probleem met betrekking tot je online reputatie: stuur dan een mailtje naar [podcast@reputatiecoaching.nl](mailto:podcast@reputatiecoaching.nl) of spreek een boodschap in op de ReputatieCoaching Hotline, op: 084 - 883 15 56. Mogelijk behandel ik je vraag of probleem dan in een artikel of in de podcast.*
 
@@ -50,7 +50,7 @@ Hallo en welkom bij de ReputatieCoaching Podcast! In deze podcast deel ik nieuws
 
 *Deze metafoor illustreert best aardig wat de houding van het leeuwendeel van het MKB is ten aanzien van online marketing. En dat, terwijl ze met relatief weinig investeringen en inspanning significant meer bezoekers kunnen trekken naar hun website(s) en naar hun winkel en zo meer omzet genereren. Het is jammer, maar al die prospects die zij laten zitten, gaan naar hun concurrenten.*
 
-*In [podcast 9 van twee weken geleden](https://www.reputatiecoaching.nl/9/) vertelde ik hoe een Amerikaanse baseball speler al in 2007 via Internet zijn reputatie wist te redden na een onhandige uitlating op televisie. Afgelopen vrijdag maakte ik zelf een dergelijk geval mee: ik was bij een uitvaartplechtigheid van een oom van mijn vrouw. In het uitvaartcentrum “Den en Rust” in Bilthoven werd duidelijk dat men alle bloemstukken die reeds waren bezorgd, inclusief de kransen van de directe familie was vergeten. Deze bloemstukken bleken nog in het rouwcentrum in IJsselstein te staan, per auto minstens 30 minuten enkele reis en het was nota bene vrijdagmiddag tegen half vijf!*
+*In [podcast 9 van twee weken geleden](/nl/archief/reputatiecoaching/009/) vertelde ik hoe een Amerikaanse baseball speler al in 2007 via Internet zijn reputatie wist te redden na een onhandige uitlating op televisie. Afgelopen vrijdag maakte ik zelf een dergelijk geval mee: ik was bij een uitvaartplechtigheid van een oom van mijn vrouw. In het uitvaartcentrum “Den en Rust” in Bilthoven werd duidelijk dat men alle bloemstukken die reeds waren bezorgd, inclusief de kransen van de directe familie was vergeten. Deze bloemstukken bleken nog in het rouwcentrum in IJsselstein te staan, per auto minstens 30 minuten enkele reis en het was nota bene vrijdagmiddag tegen half vijf!*
 
 *Dat was natuurlijk extreem pijnlijk voor zowel de uitvaartonderneming in kwestie, als voor de familieleden.  Ik vreesde hier een deuk voor de reputatie van de uitvaartonderneming.*
 

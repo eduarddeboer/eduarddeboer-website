@@ -3,6 +3,8 @@ title: '147: ReputatieCoach geïnterviewd. Performance en DNS perikelen. Google 
 date: '2015-09-24T06:30:27+00:00'
 description: '**Vandaag is de podcast weer eens gevuld met een aantal nieuwtjes. Zo heb ik afgelopen week meegemaakt hoe een website bijna ten onder ging aan haar eigen succes, waardoor ik stantepede met een oplossing moest komen.** “Bij de timmerman thuis, piepen de deuren” luidt het gezegde… Dat klopt… Ook ik ben niet perfect, daarover zometeen meer. Google liet eerder deze week telefoonnummers zien in de lokale resultaten, maar haalde ze daarna ook meteen weer weg.'
 episode: 147
+kgRef: podcast_episode/reputatiecoaching_147
+source_url: https://www.reputatiecoaching.nl/147
 historical: true
 archivePeriod: 2012–2016
 transcriptStatus: full
@@ -17,11 +19,9 @@ showTaxonomies: false
 
 > **Historisch archief.** Deze aflevering verscheen op 24-09-2015 als onderdeel van ReputatieCoaching (2012–2016). De oorspronkelijke tekst is hieronder historisch bewaard. Diensten, contactgegevens, links, tools en adviezen kunnen inmiddels verouderd zijn.
 
-{{< audio src="https://archive.org/download/20150924-reputatie-coaching-podcast-147/20150924-ReputatieCoaching-Podcast-147.mp3" title="ReputatieCoaching Podcast #147" >}}
-
 **Transcriptiestatus:** Volledige transcriptie uit het oorspronkelijke archief.
 
-\*\*[*Historische afbeelding niet beschikbaar: ReputatieCoaching Podcast*](https://www.reputatiecoaching.nl/wp-content/uploads/2012/12/Reputatie-Coaching-Podcast-logo-200x200.jpg)Vandaag is de podcast weer eens gevuld met een aantal nieuwtjes. Zo heb ik afgelopen week meegemaakt hoe een website bijna ten onder ging aan haar eigen succes, waardoor ik stantepede met een oplossing moest komen.\*\*
+\*\*[*Historische afbeelding niet beschikbaar: ReputatieCoaching Podcast*](https://web.archive.org/web/*/https://www.reputatiecoaching.nl/wp-content/uploads/2012/12/Reputatie-Coaching-Podcast-logo-200x200.jpg)Vandaag is de podcast weer eens gevuld met een aantal nieuwtjes. Zo heb ik afgelopen week meegemaakt hoe een website bijna ten onder ging aan haar eigen succes, waardoor ik stantepede met een oplossing moest komen.\*\*
 
 **“Bij de timmerman thuis, piepen de deuren” luidt het gezegde… Dat klopt… Ook ik ben niet perfect, daarover zometeen meer.**
 
@@ -33,7 +33,7 @@ showTaxonomies: false
 
 Hallo en hartelijk welkom bij deze aflevering van de ReputatieCoaching Podcast. Ik ben Eduard de Boer, ReputatieCoach. Dit is dé podcast die jou helpt om meer business te genereren, doordat jouw website beter gevonden wordt, zowel lokaal als landelijk en doordat ik je uitleg hoe je je online reputatie kunt verbeteren. Dit alles helpt je om je bedrijf en jezelf beter op de online kaart te plaatsen.
 
-De podcast kun je vinden op [www.reputatiecoaching.nl/147](https://www.reputatiecoaching.nl/147/). Daar vind je niet alleen de tekst, maar ook video’s waar ik het in deze uitzending over heb, alsmede afbeeldingen, links enzovoorts. Bovendien is de podcast te beluisteren in [iTunes](https://www.reputatiecoaching.nl/itunes), op [Stitcher](https://www.reputatiecoaching.nl/stitcher) en ook op [TuneIn Radio](http://tunein.com/radio/ReputatieCoaching-Podcast-p655084/). Ik raad je aan om je op één van die drie kanalen te abonneren op de podcast, zodat je geen aflevering hoeft te missen!
+De podcast kun je vinden op [www.reputatiecoaching.nl/147](/nl/archief/reputatiecoaching/147/). Daar vind je niet alleen de tekst, maar ook video’s waar ik het in deze uitzending over heb, alsmede afbeeldingen, links enzovoorts. Bovendien is de podcast te beluisteren in [iTunes](https://web.archive.org/web/*/https://www.reputatiecoaching.nl/itunes), op [Stitcher](https://web.archive.org/web/*/https://www.reputatiecoaching.nl/stitcher) en ook op [TuneIn Radio](http://tunein.com/radio/ReputatieCoaching-Podcast-p655084/). Ik raad je aan om je op één van die drie kanalen te abonneren op de podcast, zodat je geen aflevering hoeft te missen!
 
 Laat ik dan nu overgaan op de onderwerpen voor vandaag…
 
@@ -69,7 +69,7 @@ Binnenkort zal ik je eens iets meer hierover uitleggen, over hoe ik het precies 
 
 ## DNS records niet goed: “Bij de timmerman thuis, piepen de deuren”
 
-[*Historische afbeelding niet beschikbaar: DNS*](https://www.reputatiecoaching.nl/wp-content/uploads/2015/09/dns.jpg)Jeroen Kooij meldde mij een tijdje geleden al dat reputatiecoaching.nl, dus zonder de ‘www’ niet werkte. Ik had daar nooit bij stilgestaan, omdat Mac OS X volgens mij automatisch probeert een website te benaderen door er zelf ‘www’ voor te zetten, als een gebruiker dat niet doet.
+[*Historische afbeelding niet beschikbaar: DNS*](https://web.archive.org/web/*/https://www.reputatiecoaching.nl/wp-content/uploads/2015/09/dns.jpg)Jeroen Kooij meldde mij een tijdje geleden al dat reputatiecoaching.nl, dus zonder de ‘www’ niet werkte. Ik had daar nooit bij stilgestaan, omdat Mac OS X volgens mij automatisch probeert een website te benaderen door er zelf ‘www’ voor te zetten, als een gebruiker dat niet doet.
 
 Ik dacht het toen te hebben opgelost, door een “\*” record aan te maken in de DNS. Maar afgelopen week maakte tandarts Dennis mij er op attent, dat de website nog steeds niet werkte, als je er geen ‘www’ voor zette.
 
@@ -91,7 +91,7 @@ We hebben allemaal te vroeg gejuicht…
 
 ## Instagram al meer dan 400 gebruikers
 
-[*Historische afbeelding niet beschikbaar: Instagram*](https://www.reputatiecoaching.nl/wp-content/uploads/2015/03/logo-instagram.png)Instagram groeit als kool, en is al geruime tijd het aantal gebruikers van Twitter voorbij gestreefd. Recent liet Instagram weten dat het op dit moment meer dan 400 miljoen actieve gebruikers heeft.
+[*Historische afbeelding niet beschikbaar: Instagram*](https://web.archive.org/web/*/https://www.reputatiecoaching.nl/wp-content/uploads/2015/03/logo-instagram.png)Instagram groeit als kool, en is al geruime tijd het aantal gebruikers van Twitter voorbij gestreefd. Recent liet Instagram weten dat het op dit moment meer dan 400 miljoen actieve gebruikers heeft.
 
 Ik kan je vertellen dat ik ook meer met Instagram doe, dan met Twitter. Twitter lijkt inmiddels gedegradeerd tot een soort van nieuwsticker, waar mensen af en toe op kijken om te zien wat het laatste nieuws is. Van echte interactie tussen mensen of bedrijven en mensen lijkt steeds minder sprake.
 
@@ -119,7 +119,7 @@ Heb je inderdaad wat aan alle informatie die ik met je deel, help mij dan met he
 
 Op de website kun je me een berichtje sturen en zelfs een gratis consult inboeken. Ook kun je me bellen op 084–8831556 en zelfs rechtstreeks op de website een voicemail achterlaten.
 
-Dit was [ReputatieCoaching Podcast aflevering 147](https://www.reputatiecoaching.nl/147/) en mijn naam is [Eduard de Boer](http://nl.linkedin.com/in/eduarddeboer/nl).
+Dit was [ReputatieCoaching Podcast aflevering 147](/nl/archief/reputatiecoaching/147/) en mijn naam is [Eduard de Boer](http://nl.linkedin.com/in/eduarddeboer/nl).
 
 Ik wens je de komende week weer succes met het werken aan je reputatie, zodat je meteen je reputatie voor jou kunt laten werken!
 
@@ -130,8 +130,8 @@ Doei!
 Links naar content die in deze podcast aan bod komt:
 
 ```
-  * [ReputatieCoaching Podcast in iTunes](https://www.reputatiecoaching.nl/itunes)
-  * [ReputatieCoaching Podcast op Stitcher](https://www.reputatiecoaching.nl/stitcher)
+  * [ReputatieCoaching Podcast in iTunes](https://web.archive.org/web/*/https://www.reputatiecoaching.nl/itunes)
+  * [ReputatieCoaching Podcast op Stitcher](https://web.archive.org/web/*/https://www.reputatiecoaching.nl/stitcher)
   * [ReputatieCoaching Podcast op TuneIn Radio](http://tunein.com/radio/ReputatieCoaching-Podcast-p655084/)
   * [ReputatieCoaching Podcast RSS-feed](https://feeds.reputatiecoaching.nl/ReputatieCoachingPodcast)
 ```

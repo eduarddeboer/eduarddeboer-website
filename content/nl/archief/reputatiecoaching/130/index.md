@@ -3,6 +3,8 @@ title: '130: Makelaars falen zonder reviewstrategie! BackWPup handleiding verstu
 date: '2015-05-28T06:30:52+00:00'
 description: 'Ja, alweer podcast aflevering 130! Ik weet nog goed dat ik 30 weken geleden in podcast 100 het interview had met Emile Ratelband over de reputatie… Nou ja… laat ik het “issues” noemen, die hij heeft doorgemaakt. En inmiddels ben ik alweer 30 weken verder: de tijd vliegt! De podcast van vandaag had eigenlijk netjes om 08:30 uur online moeten komen en dat is niet gelukt. Hoe dat komt, hoor je zo.'
 episode: 130
+kgRef: podcast_episode/reputatiecoaching_130
+source_url: https://www.reputatiecoaching.nl/130
 historical: true
 archivePeriod: 2012–2016
 transcriptStatus: full
@@ -17,12 +19,10 @@ showTaxonomies: false
 
 > **Historisch archief.** Deze aflevering verscheen op 28-05-2015 als onderdeel van ReputatieCoaching (2012–2016). De oorspronkelijke tekst is hieronder historisch bewaard. Diensten, contactgegevens, links, tools en adviezen kunnen inmiddels verouderd zijn.
 
-{{< audio src="https://archive.org/download/20150528-reputatie-coaching-podcast-130/20150528-ReputatieCoaching-Podcast-130.mp3" title="ReputatieCoaching Podcast #130" >}}
-
 **Transcriptiestatus:** Volledige transcriptie uit het oorspronkelijke archief.
 
 **![ReputatieCoaching Podcast](ReputatieCoaching-Podcast-130.png)
-Ja, alweer podcast aflevering 130! Ik weet nog goed dat ik 30 weken geleden in [podcast 100](https://www.reputatiecoaching.nl/100/) het interview had met Emile Ratelband over de reputatie… Nou ja… laat ik het “issues” noemen, die hij heeft doorgemaakt. En inmiddels ben ik alweer 30 weken verder: de tijd vliegt!**
+Ja, alweer podcast aflevering 130! Ik weet nog goed dat ik 30 weken geleden in [podcast 100](/nl/archief/reputatiecoaching/100/) het interview had met Emile Ratelband over de reputatie… Nou ja… laat ik het “issues” noemen, die hij heeft doorgemaakt. En inmiddels ben ik alweer 30 weken verder: de tijd vliegt!**
 
 **De podcast van vandaag had eigenlijk netjes om 08:30 uur online moeten komen en dat is niet gelukt. Hoe dat komt, hoor je zo.**
 
@@ -30,7 +30,7 @@ Ja, alweer podcast aflevering 130! Ik weet nog goed dat ik 30 weken geleden in [
 
 **Afgelopen week heb ik de handleiding over het backuppen van je WordPress-site met BackWPup inclusief de link naar de instructievideo naar alle abonnees gestuurd. Dus als het goed is hebben meer webmasters inmiddels hun website veiliggesteld op Dropbox.**
 
-**Ik meldde je twee weken geleden in [podcast 128](https://www.reputatiecoaching.nl/128/) al dat ik grote schommelingen waarnam in de lokale zoekresultaten. En dat zie ik nog steeds. Mogelijk hangt dit samen met het feit dat Google haar Mapmaker-omgeving tijdelijk heeft afgesloten voor updates… Google geeft zelf ook hints in die richting.**
+**Ik meldde je twee weken geleden in [podcast 128](/nl/archief/reputatiecoaching/128/) al dat ik grote schommelingen waarnam in de lokale zoekresultaten. En dat zie ik nog steeds. Mogelijk hangt dit samen met het feit dat Google haar Mapmaker-omgeving tijdelijk heeft afgesloten voor updates… Google geeft zelf ook hints in die richting.**
 
 **Een categorie ondernemers die nog niet echt veel lijkt te doen met reviews, zijn de makelaars. Ik laat je zien waar niet alleen makelaars in Apeldoorn maar ook in de rest van Nederland op dit moment tekort schieten en hoe zij dit kunnen verbeteren.**
 
@@ -38,7 +38,7 @@ Ja, alweer podcast aflevering 130! Ik weet nog goed dat ik 30 weken geleden in [
 
 Hallo en hartelijk welkom bij deze aflevering van de ReputatieCoaching Podcast. Ik ben Eduard de Boer, ReputatieCoach. Dit is dé podcast die jou helpt om meer business te genereren, doordat jouw website beter gevonden wordt, zowel lokaal als landelijk en doordat ik je uitleg hoe je je online reputatie kunt verbeteren. Dit alles helpt je om je bedrijf en jezelf beter op de online kaart te plaatsen.
 
-De podcast kun je vinden op [www.reputatiecoaching.nl/130](https://www.reputatiecoaching.nl/130/). Daar vind je niet alleen de tekst, maar ook video’s waar ik het in deze uitzending over heb, alsmede afbeeldingen, links enzovoorts. Bovendien is de podcast te beluisteren in [iTunes](https://www.reputatiecoaching.nl/itunes), op [Stitcher](https://www.reputatiecoaching.nl/stitcher) en ook op [TuneIn Radio](http://tunein.com/radio/ReputatieCoaching-Podcast-p655084/). Ik raad je aan om je op één van die drie kanalen te abonneren op de podcast, zodat je geen aflevering hoeft te missen!
+De podcast kun je vinden op [www.reputatiecoaching.nl/130](/nl/archief/reputatiecoaching/130/). Daar vind je niet alleen de tekst, maar ook video’s waar ik het in deze uitzending over heb, alsmede afbeeldingen, links enzovoorts. Bovendien is de podcast te beluisteren in [iTunes](https://web.archive.org/web/*/https://www.reputatiecoaching.nl/itunes), op [Stitcher](https://web.archive.org/web/*/https://www.reputatiecoaching.nl/stitcher) en ook op [TuneIn Radio](http://tunein.com/radio/ReputatieCoaching-Podcast-p655084/). Ik raad je aan om je op één van die drie kanalen te abonneren op de podcast, zodat je geen aflevering hoeft te missen!
 
 Laat ik dan nu overgaan op de onderwerpen voor vandaag…
 
@@ -62,22 +62,22 @@ Ik hoop dat je me het niet kwalijk neemt, maar ik verwacht ook niet dat je elke 
 
 Dat is wel een voordeel van podcasts. Je kunt je niet echt permitteren om een week over te slaan, als je niet het risico wilt lopen om luisteraars c.q. abonnees te verliezen, maar het is aan de andere kant geen halszaak als de podcast wel op de geplande dag, maar dan iets later live komt… Toch?
 
-Als jij er anders over denkt, dan hoor/lees ik dat graag. Dus bij deze de vraag of jij het erg vindt, als de podcast af en toe eens niet precies om 08:30 uur ’s ochtends live komt, maar wat later. Maar jou dat echt uit? Laat het me weten onderaan de transcriptie van deze podcast, op [www.reputatiecoaching.nl/130](https://www.reputatiecoaching.nl/130/).
+Als jij er anders over denkt, dan hoor/lees ik dat graag. Dus bij deze de vraag of jij het erg vindt, als de podcast af en toe eens niet precies om 08:30 uur ’s ochtends live komt, maar wat later. Maar jou dat echt uit? Laat het me weten onderaan de transcriptie van deze podcast, op [www.reputatiecoaching.nl/130](/nl/archief/reputatiecoaching/130/).
 
 ## “Denk als een uitgever, gedraag je als een uitgever” door Cor Hospes bij #SMC055
 
 *Historische afbeelding niet beschikbaar: Cor Hospes*
 In april was ik ook weer op de maandelijkse Social Media Club Apeldoorn avond, alwaar zowel Jeanet Bathoorn als Cor Hospes een presentatie gaven. Topic van de avond was “Content is #king en #queen”.
 
-De presentatie van Jeanet over “[De 9 WHY’s van Content Marketing](https://www.reputatiecoaching.nl/de-9-whys-van-content-marketing-door-jeanetbathoorn-tijdens-smc055/)” kun je elders beluisteren c.q. nalezen. De link daar naartoe vind je in de show notes van deze podcast.
+De presentatie van Jeanet over “[De 9 WHY’s van Content Marketing](https://web.archive.org/web/*/https://www.reputatiecoaching.nl/de-9-whys-van-content-marketing-door-jeanetbathoorn-tijdens-smc055/)” kun je elders beluisteren c.q. nalezen. De link daar naartoe vind je in de show notes van deze podcast.
 
-Terugkomend op de presentatie van Cor Hospes. Het onderwerp van zijn presentatie was “[Denk als een uitgever, gedraag je als een uitgever!](https://www.reputatiecoaching.nl/denk-als-een-uitgever-gedraag-je-als-een-uitgever-door-cor-hospes-bij-smc055/)”. Hij had zijn presentatie onderverdeeld in 11 concrete handvatten. Deze heb ik in video’s verwerkt met zijn audio eronder. Ook die link vind je terug in de show notes van deze podcast.
+Terugkomend op de presentatie van Cor Hospes. Het onderwerp van zijn presentatie was “[Denk als een uitgever, gedraag je als een uitgever!](https://web.archive.org/web/*/https://www.reputatiecoaching.nl/denk-als-een-uitgever-gedraag-je-als-een-uitgever-door-cor-hospes-bij-smc055/)”. Hij had zijn presentatie onderverdeeld in 11 concrete handvatten. Deze heb ik in video’s verwerkt met zijn audio eronder. Ook die link vind je terug in de show notes van deze podcast.
 
 In het artikel over zijn presentatie vind je ook nog eens de transcriptie van de presentatie “[Denk Als Een Uitgever, Gedraag Je Als Een Uitgever](https://www.scribd.com/doc/266502035/Denk-Als-Een-Uitgever-Gedraag-Je-Als-Een-Uitgever-Door-Cor-Hospes)”: maar liefst zo’n 17 pagina’s aan waardevolle content. Lees dat op je gemak door en doe er je voordeel mee!
 
 ## Handleiding BackWPup is verstuurd
 
-Herinner je je nog het topic “Baas over je eigen infra en je eigen data” in [podcast 127](https://www.reputatiecoaching.nl/127/)? Daarin benadrukte ik nogmaals de essentie van het maken van backups. Maar dat was niet alles, want ik deed je in [podcast 128](https://www.reputatiecoaching.nl/128/) een belofte… Ik vertelde je dat ik bezig was met het uitwerken van een handleiding om je zo snel mogelijk op gang te helpen met het maken van backups van je WordPress-site naar Dropbox.
+Herinner je je nog het topic “Baas over je eigen infra en je eigen data” in [podcast 127](/nl/archief/reputatiecoaching/127/)? Daarin benadrukte ik nogmaals de essentie van het maken van backups. Maar dat was niet alles, want ik deed je in [podcast 128](/nl/archief/reputatiecoaching/128/) een belofte… Ik vertelde je dat ik bezig was met het uitwerken van een handleiding om je zo snel mogelijk op gang te helpen met het maken van backups van je WordPress-site naar Dropbox.
 
 *Historische afbeelding niet beschikbaar: How To Backup A Wordpress Site*
 
@@ -91,7 +91,7 @@ Binnenkort kunnen de abonnees nog meer van dit soort waardevolle content tegemoe
 
 ## Google verexcuseert zich voor het lokale resultaat op de zoekterm “nigga house”
 
-Vorige week donderdag net nadat ik [podcast 129](https://www.reputatiecoaching.nl/129/) had uitgebracht, publiceerde Google een openlijk excuus voor de rotzooi die ze heeft weten te creëren, of beter gezegd: “laten creëren”….
+Vorige week donderdag net nadat ik [podcast 129](/nl/archief/reputatiecoaching/129/) had uitgebracht, publiceerde Google een openlijk excuus voor de rotzooi die ze heeft weten te creëren, of beter gezegd: “laten creëren”….
 
 Het bleek namelijk, dat als je op Google Maps zocht op de zoekterm “nigga house” of “nigger house”, de lokale vermelding van het Witte Huis, waar de gekleurde president Barack Obama op dit moment zit, werd vertoond.
 
@@ -128,11 +128,11 @@ Laat ik het vervolgens vanuit lokale SEO perspectief beschouwen…
 
 Ten eerste een disclaimer: je moet altijd oppassen met het correleren van gegevens en hier direct conclusies aan verbinden voor wat betreft oorzaak / gevolg.
 
-Ik meldde je twee weken geleden in [podcast 128](https://www.reputatiecoaching.nl/128/) al dat ik grote veranderingen had waargenomen in de lokale zoekresultaten. Toen stond Allround Fotografie na lange tijd opeens op de “A”-positie. Ik kan je vertellen dat in de anderhalve week daarna er heel veel schommelingen plaatsvonden. Soms stond Allround Fotografie op “A”, soms op “B”, soms op “E” en soms was het helemaal niet te vinden in de 7 lokale resultaten. Maar zo ongeveer sinds een week staat de vermelding steady op de “A”-positie.
+Ik meldde je twee weken geleden in [podcast 128](/nl/archief/reputatiecoaching/128/) al dat ik grote veranderingen had waargenomen in de lokale zoekresultaten. Toen stond Allround Fotografie na lange tijd opeens op de “A”-positie. Ik kan je vertellen dat in de anderhalve week daarna er heel veel schommelingen plaatsvonden. Soms stond Allround Fotografie op “A”, soms op “B”, soms op “E” en soms was het helemaal niet te vinden in de 7 lokale resultaten. Maar zo ongeveer sinds een week staat de vermelding steady op de “A”-positie.
 
 Ik houd natuurlijk meer lokale resultaten nauwlettend in de gaten. Zo kijk ik onder andere naar tandartsen in diverse plaatsen in Nederland. En ook de volgorde van de lokale resultaten van de tandartsen in Apeldoorn is flink door elkaar geschud. Zo is de tandarts die tot voor zo’n twee weken op “A” stond, “gedegradeerd” naar de vijfde positie. De vermeldingen op “B” en “C” zijn hetzelfde gebleven. En opeens staan op posities “A”, “D”, “F” en “G” tandartsen vermeld, die voorheen helemaal niet in de 7 lokale resultaten werden vertoond.
 
-En ook de makelaars in Apeldoorn worden door elkaar geschud. In de show notes op [www.reputatiecoaching.nl/130](https://www.reputatiecoaching.nl/130/) heb ik een tweetal screenshots opgenomen van de lokale resultaten voor de zoekterm “makelaar apeldoorn”. Het linker overzicht is van 11 februari en het rechter overzicht van vandaag, 28 mei:
+En ook de makelaars in Apeldoorn worden door elkaar geschud. In de show notes op [www.reputatiecoaching.nl/130](/nl/archief/reputatiecoaching/130/) heb ik een tweetal screenshots opgenomen van de lokale resultaten voor de zoekterm “makelaar apeldoorn”. Het linker overzicht is van 11 februari en het rechter overzicht van vandaag, 28 mei:
 
 [![Makelaar Apeldoorn in de zoekresultaten op 11 februari en 28 mei 2015](20150528-SERP-makelaar-apeldoorn.jpg)](https://lh5.googleusercontent.com/-FnUM63SY2WY/VWcJgVfsq3I/AAAAAAAACOA/0QJ0nLODnTo/w1007-h496-no/20150528-SERP-makelaar-apeldoorn.jpg)
 
@@ -146,7 +146,7 @@ Volgens mij is Google nog niet gereed met alle aanpassingen, want zo is Google M
 
 Ik had het zojuist over makelaars, in dit geval in Apeldoorn. Het blijft verwonderlijk dat de meeste makelaars nog steeds niet begrijpen hoe de huidige online wereld functioneert en hoeveel waarde mensen hechten aan reviews. Want vrijwel geen enkele makelaar is echt bezig reviews te verzamelen, noch reageren ze op reviews.
 
-In [podcast 108](https://www.reputatiecoaching.nl/108/) in december 2014 kwam dit ook al eens aan bod. Toen vertelde ik je over hoe makelaar Jeroen Reinders alom tegenwoordig is op alle sociale media. In de screenshot die je in de show notes van podcast 108 kunt zien, stond Hendriks Makelaardij toen ook al op “A”, evenals nu, maar had toen nog geen reviews.
+In [podcast 108](/nl/archief/reputatiecoaching/108/) in december 2014 kwam dit ook al eens aan bod. Toen vertelde ik je over hoe makelaar Jeroen Reinders alom tegenwoordig is op alle sociale media. In de screenshot die je in de show notes van podcast 108 kunt zien, stond Hendriks Makelaardij toen ook al op “A”, evenals nu, maar had toen nog geen reviews.
 
 Guess what? Hendriks Makelaardij heeft er sinds december maar liefst één review bij! Alleen denk ik dat dit niet een review is van iemand waar ze het aan hebben gevraagd, of die persoon een review wilde posten.
 
@@ -187,7 +187,7 @@ De eerste makelaar die in een stad hiermee hard aan de slag gaat, kan volgens mi
 
 ## Ad-blockers: zegen of molensteen?
 
-Weet je nog dat ik het in [podcast 108](https://www.reputatiecoaching.nl/108/) had over de Chrome extensie “AdBlock Plus”? Dat is een extensie die zijn uiterste best doet om zoveel mogelijk reclame te blokkeren. En daar worden mediabedrijven niet blij van, want die verdienen een deel van hun omzet aan reclame. Als er geen advertenties meer worden vertoond, krijgen ze minder kliks en dalen dus hun inkomsten.
+Weet je nog dat ik het in [podcast 108](/nl/archief/reputatiecoaching/108/) had over de Chrome extensie “AdBlock Plus”? Dat is een extensie die zijn uiterste best doet om zoveel mogelijk reclame te blokkeren. En daar worden mediabedrijven niet blij van, want die verdienen een deel van hun omzet aan reclame. Als er geen advertenties meer worden vertoond, krijgen ze minder kliks en dalen dus hun inkomsten.
 
 In april hebben de Duitse bedrijven Zeit Online en Handelsblatt een proces aangespannen tegen AdBlock Plus, maar hebben dat verloren. In de show notes heb ik twee screenshots opgenomen. De eerste is van een artikel op Handelsblatt zonder gebruik te maken van AdBlock Plus:
 
@@ -199,7 +199,7 @@ De tweede screenshot laat het effect van AdBlock Plus heel duidelijk zien. Kijk 
 
 RTL en ProSiebenSat1 dachten meer geluk te hebben en daagden het bedrijf achter AdBlock Plus ook voor de rechter. Maar ook zij vingen bot. Volgens de rechtbank mogen gebruikers zelf bepalen of zij advertenties willen blokkeren of niet.
 
-Wat vind jij hiervan? Gebruik jij al een ad-blocker? Zo nee, is dat bewust of onbewust? Of stoor jij je helemaal niet aan alle reclame en aan het feit dat je op YouTube eerst altijd verplicht bent een aantal seconden naar een advertentie te kijken? Laat het me weten onderaan de show notes van deze podcast, op [www.reputatiecoaching.nl/130](https://www.reputatiecoaching.nl/130/).
+Wat vind jij hiervan? Gebruik jij al een ad-blocker? Zo nee, is dat bewust of onbewust? Of stoor jij je helemaal niet aan alle reclame en aan het feit dat je op YouTube eerst altijd verplicht bent een aantal seconden naar een advertentie te kijken? Laat het me weten onderaan de show notes van deze podcast, op [www.reputatiecoaching.nl/130](/nl/archief/reputatiecoaching/130/).
 
 Met dit topic over ad-blockers bekeken vanuit twee perspectieven: die van de eindgebruiker en die van de mediabedrijven, kom ik aan het einde van deze podcast.
 
@@ -207,7 +207,7 @@ Als je de podcast leuk vindt en je wilt nog meer op de hoogte blijven, volg me d
 
 Heb je inderdaad wat aan alle informatie die ik met je deel, help mij dan met het verder verbeteren en promoten van deze podcast. Abonneer je op de podcast, zodat je altijd meteen de nieuwste uitzending krijgt voorgeschoteld.
 
-Zoek de podcast op, in [iTunes](https://www.reputatiecoaching.nl/itunes) of [Stitcher](https://www.reputatiecoaching.nl/stitcher), geef de podcast een sterrenbeoordeling en laat ook je reactie achter. Door de podcast te beoordelen op iTunes en/of Stitcher breng je de podcast onder de aandacht van een breder publiek.
+Zoek de podcast op, in [iTunes](https://web.archive.org/web/*/https://www.reputatiecoaching.nl/itunes) of [Stitcher](https://web.archive.org/web/*/https://www.reputatiecoaching.nl/stitcher), geef de podcast een sterrenbeoordeling en laat ook je reactie achter. Door de podcast te beoordelen op iTunes en/of Stitcher breng je de podcast onder de aandacht van een breder publiek.
 
 Je kunt me verder helpen, door de podcast aan te bevelen bij vrienden of collega’s, waarvan je denkt dat ze er hun voordeel mee kunnen doen, of door ’m te delen op Twitter, like’n en delen op Facebook of een “+1” te geven op Google+.
 
@@ -215,7 +215,7 @@ En vergeet niet: ik ben hier om je te helpen! Als je een vraag of een probleem h
 
 Als je dat te lastig vindt, of als je de podcast beluistert terwijl je in de auto zit en je hebt acuut een vraag, spreek dan een boodschap in op de ReputatieCoaching Hotline, op nummer: 084 - 883 15 56. Mogelijk behandel ik je vraag of probleem dan in een artikel of in de podcast.
 
-En je kunt ook rechtstreeks op de website een voicemail achterlaten, door op de tab aan de rechterkant van elke pagina te klikken, en je bericht in te spreken. Dit was [ReputatieCoaching Podcast aflevering 130](https://www.reputatiecoaching.nl/130/) en mijn naam is [Eduard de Boer](http://nl.linkedin.com/in/eduarddeboer/nl).
+En je kunt ook rechtstreeks op de website een voicemail achterlaten, door op de tab aan de rechterkant van elke pagina te klikken, en je bericht in te spreken. Dit was [ReputatieCoaching Podcast aflevering 130](/nl/archief/reputatiecoaching/130/) en mijn naam is [Eduard de Boer](http://nl.linkedin.com/in/eduarddeboer/nl).
 
 Ik wens je de komende week weer succes met het werken aan je reputatie, zodat je meteen je reputatie voor jou kunt laten werken!
 
@@ -226,10 +226,10 @@ Doei!
 Links naar content die in deze podcast aan bod komt:
 
 ```
-  * [ReputatieCoaching Podcast in iTunes](https://www.reputatiecoaching.nl/itunes)
-  * [ReputatieCoaching Podcast op Stitcher](https://www.reputatiecoaching.nl/stitcher)
+  * [ReputatieCoaching Podcast in iTunes](https://web.archive.org/web/*/https://www.reputatiecoaching.nl/itunes)
+  * [ReputatieCoaching Podcast op Stitcher](https://web.archive.org/web/*/https://www.reputatiecoaching.nl/stitcher)
   * [ReputatieCoaching Podcast op TuneIn Radio](http://tunein.com/radio/ReputatieCoaching-Podcast-p655084/)
   * [ReputatieCoaching Podcast RSS-feed](https://feeds.reputatiecoaching.nl/ReputatieCoachingPodcast)
-  * “[De 9 WHY’s van Content Marketing](https://www.reputatiecoaching.nl/de-9-whys-van-content-marketing-door-jeanetbathoorn-tijdens-smc055/)” (Jeanet Bathoorn, tijdens #SMC055, 14 april 2015)
+  * “[De 9 WHY’s van Content Marketing](https://web.archive.org/web/*/https://www.reputatiecoaching.nl/de-9-whys-van-content-marketing-door-jeanetbathoorn-tijdens-smc055/)” (Jeanet Bathoorn, tijdens #SMC055, 14 april 2015)
   * “[Sorry for our Google Maps search mess up](http://google-latlong.blogspot.nl/2015/05/sorry-for-our-google-maps-search-mess-up.html)” (Google Maps blog, 21 mei 2015)
 ```

@@ -3,6 +3,8 @@ title: '64: Valentijnsdag is commercieel, Yahoo partner van Yelp, Yelp vernieuwt
 date: '2014-02-17T07:30:34+00:00'
 description: Afgelopen vrijdag was het Valentijnsdag… Heb jij nog kaarten of e-mails ontvangen van stille aanbidders of aanbidsters? Heb je je partner een kadootje gegeven of hebben jullie samen iets leuks gedaan? Hoewel het verhaal van priester Valentijn teruggaat tot 269 na Christus, is het tegenwoordig een uiterst commerciële aangelegenheid. Is het nog wel intessant om veel tijd, geld en energie te steken in marketing voor Valentijnsdag? Straks een aantal statistieken om je te helpen met je keuze voor volgend jaar.
 episode: 64
+kgRef: podcast_episode/reputatiecoaching_064
+source_url: https://www.reputatiecoaching.nl/64
 historical: true
 archivePeriod: 2012–2016
 transcriptStatus: full
@@ -16,8 +18,6 @@ showTaxonomies: false
 ---
 
 > **Historisch archief.** Deze aflevering verscheen op 17-02-2014 als onderdeel van ReputatieCoaching (2012–2016). De oorspronkelijke tekst is hieronder historisch bewaard. Diensten, contactgegevens, links, tools en adviezen kunnen inmiddels verouderd zijn.
-
-{{< audio src="https://archive.org/download/20140217-reputatie-coaching-podcast-064/20140217-ReputatieCoaching-Podcast-064.mp3" title="ReputatieCoaching Podcast #064" >}}
 
 **Transcriptiestatus:** Volledige transcriptie uit het oorspronkelijke archief.
 
@@ -34,7 +34,7 @@ Hallo en hartelijk welkom bij deze aflevering van de ReputatieCoaching Podcast. 
 
 Als persoon kun je met de diverse tips aan de slag om bijvoorbeeld je online reputatie als verkoopspecialist, voeger, cameraman, autospuiter, betonstaalvlechter of wat dan ook te verbeteren.
 
-In deze podcast noem ik een aantal sites, video’s en verwijs ik naar verschillende artikelen. De links naar al deze content èn de volledige transcriptie van de podcast vind je op [www.reputatiecoaching.nl/64](https://www.reputatiecoaching.nl/64/). Je kunt de podcast niet alleen rechtstreeks beluisteren op [www.reputatiecoaching.nl](http://www.reputatiecoaching.nl), maar ook op zowel iTunes, als op Stitcher. Surf hiertoe respectievelijk naar [www.reputatiecoaching.nl/itunes](https://www.reputatiecoaching.nl/itunes) of naar [www.reputatiecoaching.nl/stitcher](https://www.reputatiecoaching.nl/stitcher).
+In deze podcast noem ik een aantal sites, video’s en verwijs ik naar verschillende artikelen. De links naar al deze content èn de volledige transcriptie van de podcast vind je op [www.reputatiecoaching.nl/64](/nl/archief/reputatiecoaching/064/). Je kunt de podcast niet alleen rechtstreeks beluisteren op [www.reputatiecoaching.nl](https://web.archive.org/web/*/http://www.reputatiecoaching.nl), maar ook op zowel iTunes, als op Stitcher. Surf hiertoe respectievelijk naar [www.reputatiecoaching.nl/itunes](https://web.archive.org/web/*/https://www.reputatiecoaching.nl/itunes) of naar [www.reputatiecoaching.nl/stitcher](https://web.archive.org/web/*/https://www.reputatiecoaching.nl/stitcher).
 
 Mocht je de podcast in een andere podcatcher of podcastplayer willen beluisteren, dan kun je je op de feed [feeds.reputatiecoaching.nl/reputatiecoachingpodcast](https://feeds.reputatiecoaching.nl/ReputatieCoachingPodcast) abonneren. Al deze links vind je ook in de show notes van deze podcast, alsmede op de website.
 
@@ -48,7 +48,7 @@ Het is namelijk veel beter om “slechts” oprecht geïnteresseerde 500 bezoeke
 
 Vanavond ga ik naar het evenement [#SMC055](http://www.smcapeldoorn.nl) in het centrum van Apeldoorn. Vorige week vertelde ik je wat er op het programma staat. Ik zal m’n best doen e.e.a te Tweeten. Volg me daartoe op Twitter, op [@reputatiecoach1](https://twitter.com/reputatiecoach1). Ik ga er sowieso één of meer artikelen over schrijven, dus mocht ik er niet aan toekomen, of zie jij geen kans me te volgen op Twitter, dan is er nog geen man overboord.
 
-Als laatste over vorige week: vergeet niet dat je een taart en één uur coaching kunt winnen, als jij degene bent die de meeste verbeteradviezen opstuurt voor de video’s die ik vorige week met je deelde in de transcriptie van [podcast 63](https://www.reputatiecoaching.nl/63/). De actie duurt nog tot 28 februari en je kunt je adviezen sturen naar: [podcast@reputatiecoaching.nl](mailto:podcast@reputatiecoaching.nl).
+Als laatste over vorige week: vergeet niet dat je een taart en één uur coaching kunt winnen, als jij degene bent die de meeste verbeteradviezen opstuurt voor de video’s die ik vorige week met je deelde in de transcriptie van [podcast 63](/nl/archief/reputatiecoaching/063/). De actie duurt nog tot 28 februari en je kunt je adviezen sturen naar: [podcast@reputatiecoaching.nl](mailto:podcast@reputatiecoaching.nl).
 
 Bekijk de video’s en ga op zoek naar alle verbeterpunten. Wie weet krijg jij op 3 maart aanstaande te horen dat jij de taart en het uur coaching hebt gewonnen!
 
@@ -91,7 +91,7 @@ Wij nuchtere Nederlanders vinden het steeds meer zonde van het geld om iets te o
 In heel 2013 werd in 116 talen maar liefst *481 miljoen keer* “**Ik hou van je**” getweet:
 
 [Historische afbeelding: 481 miljoen keer -ik hou van je- getweet in 116 talen!'](https://pbs.twimg.com/media/BgdBu7_CEAEwjyQ.jpg)
-Twitter heeft de onderverdeling per land gegeven. Deze heb ik in de show notes op [www.reputatiecoaching.nl/64](https://www.reputatiecoaching.nl/64/) opgenomen:
+Twitter heeft de onderverdeling per land gegeven. Deze heb ik in de show notes op [www.reputatiecoaching.nl/64](/nl/archief/reputatiecoaching/064/) opgenomen:
 
 [Historische afbeelding: I love you Tweets - onderverdeeld per land](https://g.twimg.com/blog/blog/image/valentine_location.jpg)
 Daaruit blijkt dat Nederland wereldwijd op de 6e plaats staat! Ter vergelijking: de Amerikanen staan op de 26e plaats!
@@ -116,22 +116,22 @@ Maar de vraag is: moet je je als ondernemer op basis van deze statistieken volge
 Voor de liefhebbers: de afgelopen tijd heb ik op Pinterest meer dan 70 [infographics over Valentijnsdag](http://www.pinterest.com/valentijnsdag/infographics/) verzameld.
 
 [Historische afbeelding: Infographics Valentijnsdag](https://lh3.googleusercontent.com/-yLfwYjPajWo/Uv9tc47iiwI/AAAAAAAAAaw/fNk18i_xNoQ/w882-h1071-no/Valentijnsdag+infographics+20140214.png)
-De link naar het pinbord vind je in de show notes op [www.reputatiecoaching.nl/64](https://www.reputatiecoaching.nl/64/)…
+De link naar het pinbord vind je in de show notes op [www.reputatiecoaching.nl/64](/nl/archief/reputatiecoaching/064/)…
 
 ## Opnieuw probleem met BackWPup
 
-Net als omstreeks [oktober 2013](https://www.reputatiecoaching.nl/47/) heb ik ook nu wederom problemen met [BackWPup](https://www.reputatiecoaching.nl/backwpup), de plugin die ik heb draaien voor het automatisch maken van backups van [www.reputatiecoaching.nl](http://www.reputatiecoaching.nl). Ik zie dit keer echter geen fouten in de logfiles, maar ik zag anderhalve week geleden wel dat de laatste backup op 30 januari had gedraaid, dus ik hield een vinger aan de pols.
+Net als omstreeks [oktober 2013](/nl/archief/reputatiecoaching/047/) heb ik ook nu wederom problemen met [BackWPup](https://web.archive.org/web/*/https://www.reputatiecoaching.nl/backwpup), de plugin die ik heb draaien voor het automatisch maken van backups van [www.reputatiecoaching.nl](https://web.archive.org/web/*/http://www.reputatiecoaching.nl). Ik zie dit keer echter geen fouten in de logfiles, maar ik zag anderhalve week geleden wel dat de laatste backup op 30 januari had gedraaid, dus ik hield een vinger aan de pols.
 
 Vannacht constateerde ik dat er nog steeds geen backups werden gemaakt, dus heb ik eerst maar eens handmatig een volledige backup-job opgestart. Dat ging goed, evenals de database-only backup die ik daarna opstartte. Technisch werkt de plugin dus nog wel, alleen startte die niet meer automatisch op de geplande tijdstippen.
 
 Dit lijkt te zijn begonnen toen ik een aantal oudere versies van de backups heb weggegooid en ook in WordPress alle logfiles heb verwijderd. Nu staan er weer logfiles en volgens de plugin zal deze morgen weer draaien. Dan ben ik benieuwd of ik morgen wel weer een nieuwe backup op Dropbox zie verschijnen. Als dat niet het geval is, zal ik een nieuwe backup-job aanmaken om te zien of die wellicht wel draait. En mocht dat ook niet het geval zijn, dan ga ik de volledige plugin eens verwijderen en opnieuw installeren, want ik kan op Internet namelijk geen vergelijkbare problemen vinden.
 
-Vraagje: gebruik jij ook BackWPup voor het automatisch maken van je backups van je WordPress site? Heb jij al gecontroleerd of de backups gewoon elke keer lopen en daadwerkelijk een backupbestand aanmaken? Controleer het eens en laat me weten of de plugin het bij jou nog wel doet! Je kunt je reactie achterlaten in de show notes van deze podcast, op: [www.reputatiecoaching.nl/64](https://www.reputatiecoaching.nl/64/).
+Vraagje: gebruik jij ook BackWPup voor het automatisch maken van je backups van je WordPress site? Heb jij al gecontroleerd of de backups gewoon elke keer lopen en daadwerkelijk een backupbestand aanmaken? Controleer het eens en laat me weten of de plugin het bij jou nog wel doet! Je kunt je reactie achterlaten in de show notes van deze podcast, op: [www.reputatiecoaching.nl/64](/nl/archief/reputatiecoaching/064/).
 
 ## Yahoo nu partnership met Yelp
 
 *Historische afbeelding niet beschikbaar: Logo Yelp*
-Zo’n anderhalve week geleden publiceerde ik het artikel met het nieuws dat [Microsoft US$15 miljoen investeert in Foursquare](https://www.reputatiecoaching.nl/foursquare-ontvangt-us15-miljoen-van-microsoft-ruil-voor-locatiedata/) voor het gebruik van de locatiedatabase van Foursquare. Afgelopen week maakte Marissa Mayer, de CEO van Yahoo, bekend dat Yahoo gaat samenwerken met Yelp voor het verbeteren en uitbreiden van de zoekresultaten van Yahoo.
+Zo’n anderhalve week geleden publiceerde ik het artikel met het nieuws dat [Microsoft US$15 miljoen investeert in Foursquare](https://web.archive.org/web/*/https://www.reputatiecoaching.nl/foursquare-ontvangt-us15-miljoen-van-microsoft-ruil-voor-locatiedata/) voor het gebruik van de locatiedatabase van Foursquare. Afgelopen week maakte Marissa Mayer, de CEO van Yahoo, bekend dat Yahoo gaat samenwerken met Yelp voor het verbeteren en uitbreiden van de zoekresultaten van Yahoo.
 
 Hoewel veel mensen Yahoo kennen van naam, is Yahoo in Nederland natuurlijk geen serieuze speler in de arena van zoekmachines, ondanks dat je na enig zoeken de Belgische versie van Yahoo kunt vinden die in het Nederlands is. Maar in andere landen is Yahoo nog best populair. Het is ook niet voor niets dat Marissa Mayer, die eerst bij Google werkte, is aangetrokken om het bedrijf af te stoffen en weer florissant te maken.
 
@@ -145,7 +145,7 @@ In de show notes van deze podcast heb ik een Engelstalige video van Wall Street 
 
 De exacte gegevens, zoals bijvoorbeeld hoe e.e.a. financieel is overeengekomen, zijn niet bekend.
 
-Met behulp van de instructievideo “[Bedrijf toevoegen op Yelp](https://www.reputatiecoaching.nl/bedrijf-toevoegen-op-yelp-instructievideo/)” kun je je eigen bedrijf aanmelden op Yelp, om zo je lokale presence te verbeteren. Om je vermelding het beste te laten uitkomen heb ik nog een zestal tips voor je:
+Met behulp van de instructievideo “[Bedrijf toevoegen op Yelp](https://web.archive.org/web/*/https://www.reputatiecoaching.nl/bedrijf-toevoegen-op-yelp-instructievideo/)” kun je je eigen bedrijf aanmelden op Yelp, om zo je lokale presence te verbeteren. Om je vermelding het beste te laten uitkomen heb ik nog een zestal tips voor je:
 
 ```
   1. _Geef zoveel mogelijk informatie_ – Als je je bedrijf eenmaal hebt geclaimd op Yelp, kun je nog veel meer gegevens invoeren, dan dat je standaard via bijvoorbeeld de Yelp app kunt aanleveren. Vul alles in… werkelijk elk veld! Hoe meer informatie je geeft, des te groter de kans dat je goed wordt gevonden en dat een prospect contact met je opneemt of naar je bedrijf komt.
@@ -208,11 +208,11 @@ Als laatste spreekt Matt de verwachting uit dat het team wel altijd werk zal hou
 
 Als je de podcast leuk vindt en je hebt inderdaad wat aan alle informatie die ik met je deel, help mij dan met het verder verbeteren en promoten van deze podcast. Deel ‘m op Twitter, like ‘m op Facebook of geef een “+1” op Google+. Het zou helemaal super zijn, als je een bericht achterlaat op iTunes of LinkedIn.
 
-Als je een vraag of een probleem hebt met betrekking tot je online reputatie of de vindbaarheid van je website, kun je reageren onderaan de show notes op [www.reputatiecoaching.nl/64](https://www.reputatiecoaching.nl/64/) of je kunt een mailtje sturen naar [podcast@reputatiecoaching.nl](mailto:podcast@reputatiecoaching.nl).
+Als je een vraag of een probleem hebt met betrekking tot je online reputatie of de vindbaarheid van je website, kun je reageren onderaan de show notes op [www.reputatiecoaching.nl/64](/nl/archief/reputatiecoaching/064/) of je kunt een mailtje sturen naar [podcast@reputatiecoaching.nl](mailto:podcast@reputatiecoaching.nl).
 
 Als je dat te lastig vindt, of als je de podcast beluistert terwijl je in de auto zit en je hebt acuut een vraag, spreek dan een boodschap in op de ReputatieCoaching Hotline, op nummer: 084 - 883 15 56. Mogelijk behandel ik je vraag of probleem dan in een artikel of in de podcast.
 
-En je kunt ook rechtstreeks op de website een voicemail achterlaten, door op de tab aan de rechterkant van elke pagina te klikken, en je bericht in te spreken. Dit was [ReputatieCoaching Podcast aflevering 64](https://www.reputatiecoaching.nl/64/) en mijn naam is [Eduard de Boer](http://nl.linkedin.com/in/eduarddeboer/nl).
+En je kunt ook rechtstreeks op de website een voicemail achterlaten, door op de tab aan de rechterkant van elke pagina te klikken, en je bericht in te spreken. Dit was [ReputatieCoaching Podcast aflevering 64](/nl/archief/reputatiecoaching/064/) en mijn naam is [Eduard de Boer](http://nl.linkedin.com/in/eduarddeboer/nl).
 
 Ik wens je de komende week weer succes met het werken aan je reputatie, zodat je meteen je reputatie voor jou kunt laten werken!
 
@@ -223,8 +223,8 @@ Doei!
 Links naar content die in deze podcast aan bod komt:
 
 ```
-  * [ReputatieCoaching Podcast in iTunes](https://www.reputatiecoaching.nl/itunes)
-  * [ReputatieCoaching Podcast op Stitcher](https://www.reputatiecoaching.nl/stitcher)
+  * [ReputatieCoaching Podcast in iTunes](https://web.archive.org/web/*/https://www.reputatiecoaching.nl/itunes)
+  * [ReputatieCoaching Podcast op Stitcher](https://web.archive.org/web/*/https://www.reputatiecoaching.nl/stitcher)
   * [ReputatieCoaching Podcast RSS-feed](https://feeds.reputatiecoaching.nl/ReputatieCoachingPodcast)
   * “[Yahoo to Partner With Yelp on Local Search](http://online.wsj.com/news/articles/SB10001424052702304680904579371263386333816)” (Wall Street Journal, 10 februari 2014)
   * “[Yelp’s New Interface in Your Face!](http://officialblog.yelp.com/2014/02/yelps-new-interface-in-your-face.html)” (Yelp blog, 11 februari 2014)

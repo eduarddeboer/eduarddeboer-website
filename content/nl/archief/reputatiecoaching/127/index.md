@@ -3,6 +3,8 @@ title: '127: Baas over je eigen infrastructuur en je eigen data. Belangeloos fot
 date: '2015-05-07T06:30:24+00:00'
 description: 'Op het moment dat deze podcast uitkomt zit ik in de bus richting Duitsland om een paar dagen lang foto’s te maken. Daarover zo meer. Positieve reviews ontvangen is leuk! En reageren op zowel negatieve als positieve reviews loont! Meer over reviews: ik heb een voorbeeld van een succesvolle reviewstrategie en een voorbeeld van een minder succesvolle methode om reviews te verzamelen. De podcast van vandaag sluit ik af met een omvangrijk topic over het belang van “eigen baas zijn” over je infrastructuur en je data om daarmee schade in geval van calamiteiten te minimaliseren.'
 episode: 127
+kgRef: podcast_episode/reputatiecoaching_127
+source_url: https://www.reputatiecoaching.nl/127
 historical: true
 archivePeriod: 2012–2016
 transcriptStatus: full
@@ -17,8 +19,6 @@ showTaxonomies: false
 
 > **Historisch archief.** Deze aflevering verscheen op 7-05-2015 als onderdeel van ReputatieCoaching (2012–2016). De oorspronkelijke tekst is hieronder historisch bewaard. Diensten, contactgegevens, links, tools en adviezen kunnen inmiddels verouderd zijn.
 
-{{< audio src="https://archive.org/download/20150507-reputatie-coaching-podcast-127/20150507-ReputatieCoaching-Podcast-127.mp3" title="ReputatieCoaching Podcast #127" >}}
-
 **Transcriptiestatus:** Volledige transcriptie uit het oorspronkelijke archief.
 
 *Historische afbeelding niet beschikbaar: ReputatieCoaching Podcast*
@@ -26,7 +26,7 @@ showTaxonomies: false
 
 Hallo en hartelijk welkom bij deze aflevering van de ReputatieCoaching Podcast. Ik ben Eduard de Boer, ReputatieCoach. Dit is dé podcast die jou helpt om meer business te genereren, doordat jouw website beter gevonden wordt, zowel lokaal als landelijk en doordat ik je uitleg hoe je je online reputatie kunt verbeteren. Dit alles helpt je om je bedrijf en jezelf beter op de online kaart te plaatsen.
 
-De podcast kun je vinden op [www.reputatiecoaching.nl/127](https://www.reputatiecoaching.nl/127/). Daar vind je niet alleen de tekst, maar ook video’s waar ik het in deze uitzending over heb, alsmede afbeeldingen, links enzovoorts. Bovendien is de podcast te beluisteren in [iTunes](https://www.reputatiecoaching.nl/itunes), op [Stitcher](https://www.reputatiecoaching.nl/stitcher) en ook op [TuneIn Radio](http://tunein.com/radio/ReputatieCoaching-Podcast-p655084/). Ik raad je aan om je op één van die drie kanalen te abonneren op de podcast, zodat je geen aflevering hoeft te missen!
+De podcast kun je vinden op [www.reputatiecoaching.nl/127](/nl/archief/reputatiecoaching/127/). Daar vind je niet alleen de tekst, maar ook video’s waar ik het in deze uitzending over heb, alsmede afbeeldingen, links enzovoorts. Bovendien is de podcast te beluisteren in [iTunes](https://web.archive.org/web/*/https://www.reputatiecoaching.nl/itunes), op [Stitcher](https://web.archive.org/web/*/https://www.reputatiecoaching.nl/stitcher) en ook op [TuneIn Radio](http://tunein.com/radio/ReputatieCoaching-Podcast-p655084/). Ik raad je aan om je op één van die drie kanalen te abonneren op de podcast, zodat je geen aflevering hoeft te missen!
 
 Laat ik dan nu overgaan op de onderwerpen voor vandaag…
 
@@ -72,7 +72,7 @@ Weet je hoe Foto Romp het nog iets beter zou kunnen doen? Door niet alleen de pe
 
 Wat kun je hier verder nog uit leren? Om Martin te citeren:
 
-En sommige bedrijven begrijpen ook heel goed, hoe je moet omgaan met negatieve reviews. Zo vertelde ik je ondere andere in [podcast 67](https://www.reputatiecoaching.nl/67/) en [podcast 79](https://www.reputatiecoaching.nl/79/) hoe je moet omgaan met negatieve reviews. Martin deelde nog een leuke ervaring met me, dit keer nadat hij een minder positieve review had geplaatst:
+En sommige bedrijven begrijpen ook heel goed, hoe je moet omgaan met negatieve reviews. Zo vertelde ik je ondere andere in [podcast 67](/nl/archief/reputatiecoaching/067/) en [podcast 79](/nl/archief/reputatiecoaching/079/) hoe je moet omgaan met negatieve reviews. Martin deelde nog een leuke ervaring met me, dit keer nadat hij een minder positieve review had geplaatst:
 
 Zojuist heeft Drukwerkdeal bewezen hoe goed je met een minder goede review kan omgaan. Binnen 5 minuten na het posten van mijn kritische review werd ik gebeld door Karlijn van Drukwerkdeal. De zeer vriendelijke dame had een luisterend oor, was duidelijk niet bezig met ontkenning maar wilde graag weten wat er verbeterd kon worden. Ze beloofde ook zeker aan de slag te gaan met mijn kritieken.
 
@@ -80,7 +80,7 @@ Het effect is dat mijn review per direct “outdated” is. Natuurlijk, de ervar
 
 Zoals je ziet dienen reviews niet om een bedrijf de grond in te boren. Je hoop dat men er iets van leert, van jouw feedback. Als ondernemer moet je dus eigenlijk ontzettend blij zijn met elke feedback, omdat je dat kunt gebruiken voor het verbeteren van de kwaliteit van je producten en/of je dienstverlening.
 
-Tja, herinner je je nog mijn video en verhaal over onze ervaringen met de “Vision” zonnebrandcrème? Ik vertelde het eerst over deze ervaring in [podcast 88](https://www.reputatiecoaching.nl/88/). Later kwam het ook weer even aan bod in respectievelijk [podcast 96](https://www.reputatiecoaching.nl/96/) en [podcast 121](https://www.reputatiecoaching.nl/121/). Toen zegde men mij toe twee flacons op te sturen. Die ontving ik vlak daarna al per post met daarbij een kaartje met daarop de volgende handgeschreven tekst:
+Tja, herinner je je nog mijn video en verhaal over onze ervaringen met de “Vision” zonnebrandcrème? Ik vertelde het eerst over deze ervaring in [podcast 88](/nl/archief/reputatiecoaching/088/). Later kwam het ook weer even aan bod in respectievelijk [podcast 96](/nl/archief/reputatiecoaching/096/) en [podcast 121](/nl/archief/reputatiecoaching/121/). Toen zegde men mij toe twee flacons op te sturen. Die ontving ik vlak daarna al per post met daarbij een kaartje met daarop de volgende handgeschreven tekst:
 
 [![Kaartje Vision zonnebrandcrème](20150330-Vision-Imgroma-kaartje.png)](https://lh6.googleusercontent.com/-7fNfsGPuRZU/VUkUEgu6StI/AAAAAAAACJs/TT5ibg8b82w/w600-h286-no/20150330-Vision-Imgroma-kaartje.png)
 
@@ -112,7 +112,7 @@ En als je het niet weet, verzamel dan reviews op branchespecifieke sites, gratis
 
 ## Apple Maps Connect officieel in Nederland
 
-Vorige week vertelde ik je in [podcast 126](https://www.reputatiecoaching.nl/126/) dat Apple Maps Connect inmiddels ook actief was in Nederland en dat ik er nog geen officiële bevestigingsmail van had ontvangen. Hoewel de dienst al enige tijd operationeel was in Nederland, ontving ik drie dagen geleden een mail van Apple met daarin onder andere de tekst: “**Goed nieuws! Apple Maps Connect voor het midden- en kleinbedrijf (mkb) is nu in meer landen beschikbaar**”:
+Vorige week vertelde ik je in [podcast 126](/nl/archief/reputatiecoaching/126/) dat Apple Maps Connect inmiddels ook actief was in Nederland en dat ik er nog geen officiële bevestigingsmail van had ontvangen. Hoewel de dienst al enige tijd operationeel was in Nederland, ontving ik drie dagen geleden een mail van Apple met daarin onder andere de tekst: “**Goed nieuws! Apple Maps Connect voor het midden- en kleinbedrijf (mkb) is nu in meer landen beschikbaar**”:
 
 [![Mail van Apple Maps Connect](20150504-MapsConnect-mail.png)](https://lh3.googleusercontent.com/-UtnYzh9h5lk/VUkUEtuSuPI/AAAAAAAACJg/vZdxGzOo7Ts/w575-h648-no/20150504-MapsConnect-mail.png)
 
@@ -299,7 +299,7 @@ Als je de podcast leuk vindt en je wilt nog meer op de hoogte blijven, volg me d
 
 Heb je inderdaad wat aan alle informatie die ik met je deel, help mij dan met het verder verbeteren en promoten van deze podcast. Abonneer je op de podcast, zodat je altijd meteen de nieuwste uitzending krijgt voorgeschoteld.
 
-Zoek de podcast op, in [iTunes](https://www.reputatiecoaching.nl/itunes) of [Stitcher](https://www.reputatiecoaching.nl/stitcher), geef de podcast een sterrenbeoordeling en laat ook je reactie achter. Door de podcast te beoordelen op iTunes en/of Stitcher breng je de podcast onder de aandacht van een breder publiek.
+Zoek de podcast op, in [iTunes](https://web.archive.org/web/*/https://www.reputatiecoaching.nl/itunes) of [Stitcher](https://web.archive.org/web/*/https://www.reputatiecoaching.nl/stitcher), geef de podcast een sterrenbeoordeling en laat ook je reactie achter. Door de podcast te beoordelen op iTunes en/of Stitcher breng je de podcast onder de aandacht van een breder publiek.
 
 Je kunt me verder helpen, door de podcast aan te bevelen bij vrienden of collega’s, waarvan je denkt dat ze er hun voordeel mee kunnen doen, of door ’m te delen op Twitter, like’n en delen op Facebook of een “+1” te geven op Google+.
 
@@ -307,7 +307,7 @@ En vergeet niet: ik ben hier om je te helpen! Als je een vraag of een probleem h
 
 Als je dat te lastig vindt, of als je de podcast beluistert terwijl je in de auto zit en je hebt acuut een vraag, spreek dan een boodschap in op de ReputatieCoaching Hotline, op nummer: 084 - 883 15 56. Mogelijk behandel ik je vraag of probleem dan in een artikel of in de podcast.
 
-En je kunt ook rechtstreeks op de website een voicemail achterlaten, door op de tab aan de rechterkant van elke pagina te klikken, en je bericht in te spreken. Dit was [ReputatieCoaching Podcast aflevering 127](https://www.reputatiecoaching.nl/127/) en mijn naam is [Eduard de Boer](http://nl.linkedin.com/in/eduarddeboer/nl).
+En je kunt ook rechtstreeks op de website een voicemail achterlaten, door op de tab aan de rechterkant van elke pagina te klikken, en je bericht in te spreken. Dit was [ReputatieCoaching Podcast aflevering 127](/nl/archief/reputatiecoaching/127/) en mijn naam is [Eduard de Boer](http://nl.linkedin.com/in/eduarddeboer/nl).
 
 Ik wens je de komende week weer succes met het werken aan je reputatie, zodat je meteen je reputatie voor jou kunt laten werken!
 
@@ -318,8 +318,8 @@ Doei!
 Links naar content die in deze podcast aan bod komt:
 
 ```
-  * [ReputatieCoaching Podcast in iTunes](https://www.reputatiecoaching.nl/itunes)
-  * [ReputatieCoaching Podcast op Stitcher](https://www.reputatiecoaching.nl/stitcher)
+  * [ReputatieCoaching Podcast in iTunes](https://web.archive.org/web/*/https://www.reputatiecoaching.nl/itunes)
+  * [ReputatieCoaching Podcast op Stitcher](https://web.archive.org/web/*/https://www.reputatiecoaching.nl/stitcher)
   * [ReputatieCoaching Podcast op TuneIn Radio](http://tunein.com/radio/ReputatieCoaching-Podcast-p655084/)
   * [ReputatieCoaching Podcast RSS-feed](https://feeds.reputatiecoaching.nl/ReputatieCoachingPodcast)
   * [BackWPup](https://wordpress.org/plugins/backwpup/) (Backup plugin voor WordPress)

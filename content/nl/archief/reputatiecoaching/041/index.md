@@ -3,6 +3,8 @@ title: '41: Site vernieuwd! Microsoft koopt Nokia, 10.000 links voor US$5. Meerd
 date: '2013-09-09T06:30:39+00:00'
 description: Hallo en hartelijk welkom bij deze 41e aflevering van de ReputatieCoaching Podcast. Mijn naam is Eduard de Boer, ook bekend als de ReputatieCoach. Dit is dé podcast die je moet beluisteren als je wilt werken aan je online reputatie en je online vindbaarheid wilt verbeteren. Dit alles kan je helpen om jezelf beter op de online kaart te plaatsen, waardoor je als bedrijf meer business kunt doen. Ook als persoon kun je met de diverse tips aan de slag om bijvoorbeeld je online reputatie als accountant, banketbakker, ICT’er, artiest of wat dan ook te verbeteren.
 episode: 41
+kgRef: podcast_episode/reputatiecoaching_041
+source_url: https://www.reputatiecoaching.nl/41
 historical: true
 archivePeriod: 2012–2016
 transcriptStatus: full
@@ -16,8 +18,6 @@ showTaxonomies: false
 ---
 
 > **Historisch archief.** Deze aflevering verscheen op 9-09-2013 als onderdeel van ReputatieCoaching (2012–2016). De oorspronkelijke tekst is hieronder historisch bewaard. Diensten, contactgegevens, links, tools en adviezen kunnen inmiddels verouderd zijn.
-
-{{< audio src="https://archive.org/download/20130909-reputatie-coaching-podcast-041/20130909-ReputatieCoaching-Podcast-041.mp3" title="ReputatieCoaching Podcast #041" >}}
 
 **Transcriptiestatus:** Volledige transcriptie uit het oorspronkelijke archief.
 
@@ -58,7 +58,7 @@ De site voelde meteen ook een stuk sneller, dus naast dat ik geïnteresseerd was
 
 Ik liep wel tegen een paar kleine dingetjes aan, die ik nog moet fixen. Zo is het hoofddeel van de blogposts iets smaller dan voorheen en nu steken video’s iets uit aan de rechterkant. Dus moet ik met terugwerkende kracht de artikelen waar video’s in staan, deze iets kleiner tonen op de pagina: in plaats van 640 bij 360 pixels, moet ik ze nu op 600 bij 340 pixels weergeven.
 
-Zelf ben ik supertevreden over het resultaat! Ik ben echter wel benieuwd wat jij vindt van het huidige design. Vind je het prettiger leesbaar en ervaar jij ook dat de site een stuk sneller is? Laat het me weten als een reactie onderaan de transcriptie van deze podcast. Die kun je vinden op [www.reputatiecoaching.nl/41](https://www.reputatiecoaching.nl/41/).
+Zelf ben ik supertevreden over het resultaat! Ik ben echter wel benieuwd wat jij vindt van het huidige design. Vind je het prettiger leesbaar en ervaar jij ook dat de site een stuk sneller is? Laat het me weten als een reactie onderaan de transcriptie van deze podcast. Die kun je vinden op [www.reputatiecoaching.nl/41](/nl/archief/reputatiecoaching/041/).
 
 ## Microsoft koopt Nokia
 
@@ -70,7 +70,7 @@ Terugkomend op waarom dit mogelijk interessant is: Nokia heeft het kaartenmateri
 
 Hoewel Bing Maps en Bing Local in Nederland nog niet echt voorhanden zijn, is mijn advies voor jou om je bedrijf nu toch ook alvast wel aan te melden op [Here.com](http://here.com/). Dan sta je er alvast vermeld, dat kan nooit kwaad! Als je je hebt aangemeld, zal Nokia naar het bedrijfsadres een kaartje sturen met een PIN-code om je aanmelding te bevestigen. Maar mocht je de wachttijd bij Google Maps al lang vinden, bereid je dan maar voor op een nog veel langere tijd bij Nokia. Ik moest zo’n zes of zeven weken wachten op het kaartje…
 
-Oh, mocht je op zoek zijn naar de links van deze sites die ik hiervoor allemaal heb genoemd, die kun je vinden onderaan de show notes op [www.reputatiecoaching.nl/41/](https://www.reputatiecoaching.nl/41/).
+Oh, mocht je op zoek zijn naar de links van deze sites die ik hiervoor allemaal heb genoemd, die kun je vinden onderaan de show notes op [www.reputatiecoaching.nl/41/](/nl/archief/reputatiecoaching/041/).
 
 ## 10.000 links voor US$ 5?!
 
@@ -186,9 +186,9 @@ Met deze “10 tips voor betere social media updates” kom ik dan weer aan het 
 
 Als je een vraag of een probleem hebt met betrekking tot je online reputatie of de vindbaarheid van je website, kun je een mailtje sturen naar [podcast@reputatiecoaching.nl](mailto:podcast@reputatiecoaching.nl). Als je dat te lastig vindt, of als je de podcast beluistert terwijl je in de auto zit en je hebt acuut een vraag, spreek dan een boodschap in op de ReputatieCoaching Hotline, op nummer: 084 - 883 15 56. Mogelijk behandel ik je vraag of probleem dan in een artikel of in de podcast.
 
-Als laatste kun je je ook inschrijven voor de nieuwsbrief. Dan ontvang je altijd als eerste het laatste nieuws wat ik publiceer en automatisch elk kwartaal het ReputatieCoaching Podcast Boek van het afgelopen kwartaal. Surf daartoe naar [www.reputatiecoaching.nl/nieuwsbrief](https://www.reputatiecoaching.nl/41/) en schrijf je meteen in.
+Als laatste kun je je ook inschrijven voor de nieuwsbrief. Dan ontvang je altijd als eerste het laatste nieuws wat ik publiceer en automatisch elk kwartaal het ReputatieCoaching Podcast Boek van het afgelopen kwartaal. Surf daartoe naar [www.reputatiecoaching.nl/nieuwsbrief](/nl/archief/reputatiecoaching/041/) en schrijf je meteen in.
 
-En je kunt ook rechtstreeks op de website een voicemail achterlaten, door op de tab aan de rechterkant van elke pagina te klikken, en je bericht in te spreken. Dit was [ReputatieCoaching Podast aflevering 41](https://www.reputatiecoaching.nl/41/) en mijn naam is [Eduard de Boer](http://nl.linkedin.com/in/eduarddeboer/nl).
+En je kunt ook rechtstreeks op de website een voicemail achterlaten, door op de tab aan de rechterkant van elke pagina te klikken, en je bericht in te spreken. Dit was [ReputatieCoaching Podast aflevering 41](/nl/archief/reputatiecoaching/041/) en mijn naam is [Eduard de Boer](http://nl.linkedin.com/in/eduarddeboer/nl).
 
 Ik wens je de komende week weer succes met het werken aan je reputatie, zodat je meteen je reputatie voor jou kunt laten werken!
 

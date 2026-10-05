@@ -3,6 +3,8 @@ title: '102: Podcast bromvrij! Gratis mailhosting bij Zoho. Over de Knowledge Gr
 date: '2014-11-13T07:30:09+00:00'
 description: Eindelijk ben ik de zachte brom in audio kwijt; daarover zo meer. Google Apps voor Business is allang niet meer gratis en sinds enige tijd kun je mail voor je eigen domein ook niet meer gratis laten binnenkomen op outlook.com of het voormalige hotmail.com. Maar ik heb weer een gratis alternatief gevonden. Waarom zou je als bedrijf een bedrijfspanorama laten maken? Ik geef je 10 goede redenen. Verder adviseer ik je dezelfde profielfoto te gebruiken over alle social media sites voor een hogere AuthorRank.
 episode: 102
+kgRef: podcast_episode/reputatiecoaching_102
+source_url: https://www.reputatiecoaching.nl/102
 historical: true
 archivePeriod: 2012–2016
 transcriptStatus: full
@@ -17,8 +19,6 @@ showTaxonomies: false
 
 > **Historisch archief.** Deze aflevering verscheen op 13-11-2014 als onderdeel van ReputatieCoaching (2012–2016). De oorspronkelijke tekst is hieronder historisch bewaard. Diensten, contactgegevens, links, tools en adviezen kunnen inmiddels verouderd zijn.
 
-{{< audio src="https://archive.org/download/20141113-reputatie-coaching-podcast-102/20141113-ReputatieCoaching-Podcast-102.mp3" title="ReputatieCoaching Podcast #102" >}}
-
 **Transcriptiestatus:** Volledige transcriptie uit het oorspronkelijke archief.
 
 ***Historische afbeelding niet beschikbaar: ReputatieCoaching Podcast*
@@ -26,7 +26,7 @@ Eindelijk ben ik de zachte brom in audio kwijt; daarover zo meer. Google Apps vo
 
 Hallo en hartelijk welkom bij deze aflevering van de ReputatieCoaching Podcast. Ik ben Eduard de Boer, ReputatieCoach. Dit is dé podcast die jou helpt meer business te genereren, doordat jouw website beter gevonden wordt, zowel lokaal als landelijk en doordat ik je uitleg hoe je je online reputatie kunt verbeteren. Dit alles helpt je jouw bedrijf en jezelf als persoon beter op de online kaart te plaatsen.
 
-De podcast kun je vinden op [www.reputatiecoaching.nl/102](https://www.reputatiecoaching.nl/102/). Daar vind je niet alleen de tekst, maar ook video’s waar ik het in deze uitzending over heb, alsmede afbeeldingen, links enzovoorts. Bovendien is de podcast te beluisteren in [iTunes](https://www.reputatiecoaching.nl/itunes), op [Stitcher](https://www.reputatiecoaching.nl/stitcher) en ook op [TuneIn Radio](http://tunein.com/radio/ReputatieCoaching-Podcast-p655084/). Daar kun je je ook abonneren op de wekelijkse podcast. Veel mensen vinden het ideaal de wekelijkse afleveringen van de podcast op hun gemak te beluisteren, terwijl ze autorijden, reizen met het Openbaar Vervoer of terwijl ze trainen in de sportschool.
+De podcast kun je vinden op [www.reputatiecoaching.nl/102](/nl/archief/reputatiecoaching/102/). Daar vind je niet alleen de tekst, maar ook video’s waar ik het in deze uitzending over heb, alsmede afbeeldingen, links enzovoorts. Bovendien is de podcast te beluisteren in [iTunes](https://web.archive.org/web/*/https://www.reputatiecoaching.nl/itunes), op [Stitcher](https://web.archive.org/web/*/https://www.reputatiecoaching.nl/stitcher) en ook op [TuneIn Radio](http://tunein.com/radio/ReputatieCoaching-Podcast-p655084/). Daar kun je je ook abonneren op de wekelijkse podcast. Veel mensen vinden het ideaal de wekelijkse afleveringen van de podcast op hun gemak te beluisteren, terwijl ze autorijden, reizen met het Openbaar Vervoer of terwijl ze trainen in de sportschool.
 
 Laat ik dan nu overgaan op de onderwerpen voor vandaag…
 
@@ -113,7 +113,7 @@ Voor de rest kun je je kansen vergroten door:
 
 ```
   * **Een vermelding te krijgen op Wikipedia** – Als je bijvoorbeeld zoekt op “Eduard de Boer” vind je niet alleen mijn Google+ pagina, maar ook die van Alexander Comitas, een componist die in het gewone leven ook “Eduard de Boer” heet. Meestal worden zijn gegevens in de Knowledge Graph vertoond, ik denk doordat hij wordt vermeld op Wikipedia.
-  * **Verzamel veel citations** – Dit is een stuk gemakkelijker dan vermeld te worden op Wikipedia, als je daar niet al op staat. Je kunt zelf op basis van alle adviezen die ik in de podcasts en op de site [www.reputatiecoaching.nl](/) geef, binnen een paar dagen op de belangrijkste citation sites vermeld staan. Daarna is het een kwestie van afwachten.
+  * **Verzamel veel citations** – Dit is een stuk gemakkelijker dan vermeld te worden op Wikipedia, als je daar niet al op staat. Je kunt zelf op basis van alle adviezen die ik in de podcasts en op de site [www.reputatiecoaching.nl](https://web.archive.org/web/*/https://www.reputatiecoaching.nl/) geef, binnen een paar dagen op de belangrijkste citation sites vermeld staan. Daarna is het een kwestie van afwachten.
   * **Verzamel reviews** – Zeker als je vijf reviews of meer hebt, wordt de kans groter, dat jouw zakelijke Google+ pagina wordt vertoond in de Knowledge Graph, omdat dan ook de reviewsterretjes verschijnen.
   * **Verzamel volgers op Google+** – Als je niet actief bent op Google+, wordt dit lastig. Wellicht een idee actief te worden op Google+?
   * **Wordt actief op Google+** – Post tenminste eenmaal per week of twee weken een update op Google+. Deze wordt namelijk onderaan in de Knowledge Graph vertoond. Het is ook een teken aan Google en natuurlijk aan Internetters, dat jouw bedrijf actief is. Dit vergroot je kans vertoond te worden. Na 2–3 weken verdwijnt de vermelding van de Google+ update weer van je Knowledge Graph.
@@ -217,13 +217,13 @@ Niet alleen mobiele websites zullen meer verkopen registreren. Ook het mobiel sh
 
 Zelf zie ik in Nederland wel het belang van responsive of mobiele websites, die de mobiele gebruiker een optimale ervaring bieden. We zijn als mensen nu eenmaal gemakzuchtig en surfen graag via onze mobiele apparaten langs de potentiële aankopen, terwijl we onderuitgezakt op de bank zitten.
 
-Maar ik vraag me af of wij met z’n allen in Nederland ook zo massaal via mobiele apps onze research en inkopen doen. Hoe denk jij hierover? Ben jij iemand die liever surft langs alle mobiele sites van online retailers, of gebruik jij liever de app van elke afzonderlijke retailer? Ik ben heel benieuwd! Laat het me weten onderaan de show notes, op [www.reputatiecoaching.nl/102](https://www.reputatiecoaching.nl/102/).
+Maar ik vraag me af of wij met z’n allen in Nederland ook zo massaal via mobiele apps onze research en inkopen doen. Hoe denk jij hierover? Ben jij iemand die liever surft langs alle mobiele sites van online retailers, of gebruik jij liever de app van elke afzonderlijke retailer? Ik ben heel benieuwd! Laat het me weten onderaan de show notes, op [www.reputatiecoaching.nl/102](/nl/archief/reputatiecoaching/102/).
 
 En met het nogmaals benadrukken van het belang van mobiele websites, kom ik dan weer aan het einde van deze podcast. Ik hoop dat er voor jou ook weer nuttige en bruikbare content tussen zat.
 
 Als je de podcast leuk vindt en je wilt nog meer op de hoogte blijven, volg me dan ook op Twitter, via [@reputatiecoach1](https://twitter.com/reputatiecoach1).
 
-Heb je inderdaad wat aan alle informatie die ik met je deel, help mij dan met het verder verbeteren en promoten van deze podcast. Surf daarvoor naar [iTunes](https://www.reputatiecoaching.nl/itunes) of [Stitcher](https://www.reputatiecoaching.nl/stitcher), geef de podcast een sterrenbeoordeling en laat ook je reactie achter. Door de podcast te beoordelen op iTunes en/of Stitcher breng je de podcast onder de aandacht van een breder publiek.
+Heb je inderdaad wat aan alle informatie die ik met je deel, help mij dan met het verder verbeteren en promoten van deze podcast. Surf daarvoor naar [iTunes](https://web.archive.org/web/*/https://www.reputatiecoaching.nl/itunes) of [Stitcher](https://web.archive.org/web/*/https://www.reputatiecoaching.nl/stitcher), geef de podcast een sterrenbeoordeling en laat ook je reactie achter. Door de podcast te beoordelen op iTunes en/of Stitcher breng je de podcast onder de aandacht van een breder publiek.
 
 Je kunt me verder helpen, door de podcast aan te bevelen bij vrienden of collega’s, waarvan je denkt dat ze er hun voordeel mee kunnen doen, of door ’m te delen op Twitter, like’n en delen op Facebook of een “+1” te geven op Google+.
 
@@ -231,7 +231,7 @@ En vergeet niet: ik ben hier om jou te helpen! Als jij een vraag of een probleem
 
 Als je dat te lastig vindt, of als je de podcast beluistert terwijl je in de auto zit en je hebt acuut een vraag, spreek dan een boodschap in op de ReputatieCoaching Hotline, op nummer: 084 - 883 15 56. Mogelijk behandel ik je vraag of probleem dan in een artikel of in de podcast.
 
-En je kunt ook rechtstreeks op de website een voicemail achterlaten, door op de tab aan de rechterkant van elke pagina te klikken, en je bericht in te spreken. Dit was [ReputatieCoaching Podcast aflevering 102](https://www.reputatiecoaching.nl/102/) en mijn naam is [Eduard de Boer](http://nl.linkedin.com/in/eduarddeboer/nl).
+En je kunt ook rechtstreeks op de website een voicemail achterlaten, door op de tab aan de rechterkant van elke pagina te klikken, en je bericht in te spreken. Dit was [ReputatieCoaching Podcast aflevering 102](/nl/archief/reputatiecoaching/102/) en mijn naam is [Eduard de Boer](http://nl.linkedin.com/in/eduarddeboer/nl).
 
 Ik wens je de komende week weer succes met het werken aan je reputatie, zodat je meteen je reputatie voor jou kunt laten werken!
 
@@ -242,8 +242,8 @@ Doei!
 Links naar content die in deze podcast aan bod komt:
 
 ```
-  * [ReputatieCoaching Podcast in iTunes](https://www.reputatiecoaching.nl/itunes)
-  * [ReputatieCoaching Podcast op Stitcher](https://www.reputatiecoaching.nl/stitcher)
+  * [ReputatieCoaching Podcast in iTunes](https://web.archive.org/web/*/https://www.reputatiecoaching.nl/itunes)
+  * [ReputatieCoaching Podcast op Stitcher](https://web.archive.org/web/*/https://www.reputatiecoaching.nl/stitcher)
   * [ReputatieCoaching Podcast op TuneIn Radio](http://tunein.com/radio/ReputatieCoaching-Podcast-p655084/)
   * [ReputatieCoaching Podcast RSS-feed](https://feeds.reputatiecoaching.nl/ReputatieCoachingPodcast)
   * [Zoho](https://www.zoho.com/)

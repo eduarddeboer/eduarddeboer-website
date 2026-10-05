@@ -3,6 +3,8 @@ title: '67: de 5 W''s & 1 H van contentmarketing, bedrijf verwijderen van Intern
 date: '2014-03-10T07:30:41+00:00'
 description: Vandaag begin ik eerst even met een korte terugblik op de podcast van vorige week met nog wat additionele tips voor het produceren van content. Daarna behandel ik de vraag “Hoe kun je je bedrijf van Internet verwijderen?”. Deze vraag ontving ik afgelopen week als reactie op een bepaalde blogpost. Welke dat was, dat hoor je zometeen… En wist je dat negatieve reviews ook positief kunnen zijn?! Hoe dat kan, leg ik je uit na de gebruikersvraag.
 episode: 67
+kgRef: podcast_episode/reputatiecoaching_067
+source_url: https://www.reputatiecoaching.nl/67
 historical: true
 archivePeriod: 2012–2016
 transcriptStatus: full
@@ -17,22 +19,20 @@ showTaxonomies: false
 
 > **Historisch archief.** Deze aflevering verscheen op 10-03-2014 als onderdeel van ReputatieCoaching (2012–2016). De oorspronkelijke tekst is hieronder historisch bewaard. Diensten, contactgegevens, links, tools en adviezen kunnen inmiddels verouderd zijn.
 
-{{< audio src="https://archive.org/download/20140310-reputatie-coaching-podcast-067/20140310-ReputatieCoaching-Podcast-067.mp3" title="ReputatieCoaching Podcast #067" >}}
-
 **Transcriptiestatus:** Volledige transcriptie uit het oorspronkelijke archief.
 
 ***Historische afbeelding niet beschikbaar: ReputatieCoaching Podcast*
-Vandaag begin ik eerst even met een korte terugblik op de [podcast van vorige week](https://www.reputatiecoaching.nl/66/) met nog wat additionele tips voor het produceren van content. Daarna behandel ik de vraag “Hoe kun je je bedrijf van Internet verwijderen?”. Deze vraag ontving ik afgelopen week als reactie op een bepaalde blogpost. Welke dat was, dat hoor je zometeen… En wist je dat negatieve reviews ook positief kunnen zijn?! Hoe dat kan, leg ik je uit na de gebruikersvraag. Als laatste heb ik groot nieuws van Getty Images, dat de wereld van fotografen en foto’s behoorlijk op z’n kop zet!**
+Vandaag begin ik eerst even met een korte terugblik op de [podcast van vorige week](/nl/archief/reputatiecoaching/066/) met nog wat additionele tips voor het produceren van content. Daarna behandel ik de vraag “Hoe kun je je bedrijf van Internet verwijderen?”. Deze vraag ontving ik afgelopen week als reactie op een bepaalde blogpost. Welke dat was, dat hoor je zometeen… En wist je dat negatieve reviews ook positief kunnen zijn?! Hoe dat kan, leg ik je uit na de gebruikersvraag. Als laatste heb ik groot nieuws van Getty Images, dat de wereld van fotografen en foto’s behoorlijk op z’n kop zet!**
 
 Hallo en hartelijk welkom bij deze aflevering van de ReputatieCoaching Podcast. Mijn naam is Eduard de Boer, ook bekend als de ReputatieCoach. Dit is dé podcast die je moet beluisteren als je meer wilt leren over online reputatie en reputatiemanagement en ook als je wilt werken aan je online reputatie en je online vindbaarheid wilt verbeteren. Dit alles kan je helpen om jezelf beter op de online kaart te plaatsen, waardoor je als bedrijf meer business kunt doen.
 
 Als persoon kun je met de diverse tips aan de slag om bijvoorbeeld je online reputatie als woonbegeleider, ongediertebestrijder, faunabeheerder, justitieassistent, schadebeheerder of wat dan ook te verbeteren.
 
-De volledige transcriptie (dat is gewoon een ander woord voor “tekst”) van deze podcast kun je vinden op [www.reputatiecoaching.nl/67](https://www.reputatiecoaching.nl/67/). Daar vind je niet alleen de tekst, maar ook video’s waar ik het in deze uitzending over heb, alsmede afbeeldingen, links enzovoorts.
+De volledige transcriptie (dat is gewoon een ander woord voor “tekst”) van deze podcast kun je vinden op [www.reputatiecoaching.nl/67](/nl/archief/reputatiecoaching/067/). Daar vind je niet alleen de tekst, maar ook video’s waar ik het in deze uitzending over heb, alsmede afbeeldingen, links enzovoorts.
 
 ## Terugblik podcast #66
 
-In de [podcast van vorige week](https://www.reputatiecoaching.nl/66/) vertelde ik je, hoe je in één uur een blogpost kunt schrijven. Heb je het al geprobeerd? En is het je gelukt? Laat het me weten en reageer onderaan de show notes van deze podcast.
+In de [podcast van vorige week](/nl/archief/reputatiecoaching/066/) vertelde ik je, hoe je in één uur een blogpost kunt schrijven. Heb je het al geprobeerd? En is het je gelukt? Laat het me weten en reageer onderaan de show notes van deze podcast.
 
 Ik heb een extra tip voor het schrijven van leesbare en begrijpbare teksten en het produceren van betere content in het algemeen: **concentreer je op de 5 W’s en de H**.
 
@@ -69,7 +69,7 @@ Dan nu over op de onderwerpen voor vandaag…
 
 Afgelopen week had ik een bijzondere en leerzame ervaring, die maar eens te meer bewees hoe content soms onbedoeld goed kan scoren, hoe dit semi-ongewenste effecten kan hebben en ook hoe slecht sommige mensen lezen.
 
-Tijdens mijn zomervakantie van vorig jaar heb ik in de “[Summer seven](https://www.reputatiecoaching.nl/zomerserie-summer-seven-instructievideos-voor-betere-lokale-seo/)” 7 instructievideo’s gepost, die je kunnen helpen bij het verbeteren van je lokale vindbaarheid. Eén van die video’s liet zien hoe je je bedrijf kon [aanmelden op ‘opendi.nl’](https://www.reputatiecoaching.nl/bedrijf-aanmelden-op-opendi-nl-instructievideo/).
+Tijdens mijn zomervakantie van vorig jaar heb ik in de “[Summer seven](https://web.archive.org/web/*/https://www.reputatiecoaching.nl/zomerserie-summer-seven-instructievideos-voor-betere-lokale-seo/)” 7 instructievideo’s gepost, die je kunnen helpen bij het verbeteren van je lokale vindbaarheid. Eén van die video’s liet zien hoe je je bedrijf kon [aanmelden op ‘opendi.nl’](https://web.archive.org/web/*/https://www.reputatiecoaching.nl/bedrijf-aanmelden-op-opendi-nl-instructievideo/).
 
 Op deze video ontving ik een paar dagen geleden de volgende reactie:
 
@@ -81,7 +81,7 @@ Tja, ik vond het onbeleefd om hier niets mee te doen, maar ik had ook niet zo 1�
 
 Ik kreeg een mevrouw aan de lijn die nogmaals zei, dat ze graag wilde dat ik de vermelding verwijderde. Daarop legde ik haar uit dat ik niets te maken had met opendi.nl en dus begreep zij weer niet waarom mijn site dan bovenaan in de zoekresultaten stond, terwijl ik niet het bedrijf vertegenwoordigde.
 
-Het bleek dat ze op Google had gezocht op “bedrijfsvermelding opendi” en inderdaad: daarbij scoort mijn artikel met instructievideo van 21 augustus 2013 de eerste plaats! Sterker nog: alle tien de resultaten op de eerste pagina zijn van [www.reputatiecoaching.nl](http://www.reputatiecoaching.nl). In de show notes heb ik hiervan een screenshot opgenomen, zodat je dit kunt zien. Dus kan ik me goed voorstellen dat die mevrouw het idee had dat mijn site van opendi.nl was.
+Het bleek dat ze op Google had gezocht op “bedrijfsvermelding opendi” en inderdaad: daarbij scoort mijn artikel met instructievideo van 21 augustus 2013 de eerste plaats! Sterker nog: alle tien de resultaten op de eerste pagina zijn van [www.reputatiecoaching.nl](https://web.archive.org/web/*/http://www.reputatiecoaching.nl). In de show notes heb ik hiervan een screenshot opgenomen, zodat je dit kunt zien. Dus kan ik me goed voorstellen dat die mevrouw het idee had dat mijn site van opendi.nl was.
 
 [Historische afbeelding: Bedrijfsvermelding opendi.nl op Google](https://lh6.googleusercontent.com/-MDLP0H_AVrQ/UxxTE6elTfI/AAAAAAAAAec/3FUB_MUmZ3g/w876-no/20140309-Bedrijfsvermelding-opendi.png)
 Terug naar het gesprek: het bleek dat die mevrouw met haar man tot zo’n 15 jaar geleden een bedrijf in zonnebanken had, terwijl ze dus al jaren niets meer met zonnebanken doet. Toch wordt ze nog steeds gebeld door mensen die op zoek zijn naar een zonnebank.
@@ -140,7 +140,7 @@ En mócht je dan ooit een negatieve review krijgen, dan moet je proberen deze om
 Om te beginnen omvat het verzamelen van reviews meer dan alleen maar om reviews vragen of vertellen dat je bedrijf op bepaalde review sites vermeld staat. Je moet namelijk actief de diverse review sites in de gaten houden. Wat ook helpt, is wat ik in het verleden al eens heb verteld: het monitoren van wat er over je bedrijf wordt geschreven door bijvoorbeeld gebruik te maken van Google Alerts.
 
 [Historische afbeelding: Positieve review](https://lh6.googleusercontent.com/-xHQN2rlqyZQ/UxyNO6pyweI/AAAAAAAAAgk/aZdmw-Xw0Lg/s200-no/Positief-thumbs-up.png)
-Maar goed, terug naar reviewmanagement. Ik raad je aan de grote review sites zo eens per één a twee weken te bekijken. Maak een aparte folder in je bookmarks, waarin je de links naar je bedrijfsvermeldingen op de diverse review sites opslaat. En reserveer bij voorkeur een vast moment in je agenda. Dan kun je alle bookmarks snel één voor één nalopen om te zien wat er wordt geschreven. Als je bent begonnen met het [opschonen van je citations of bedrijfsvermeldingen](https://www.reputatiecoaching.nl/werkinstructie-opschonen-citations/), dan heb je deze lijst al en hoef je de desbetreffende sites alleen maar even te bookmarken.
+Maar goed, terug naar reviewmanagement. Ik raad je aan de grote review sites zo eens per één a twee weken te bekijken. Maak een aparte folder in je bookmarks, waarin je de links naar je bedrijfsvermeldingen op de diverse review sites opslaat. En reserveer bij voorkeur een vast moment in je agenda. Dan kun je alle bookmarks snel één voor één nalopen om te zien wat er wordt geschreven. Als je bent begonnen met het [opschonen van je citations of bedrijfsvermeldingen](https://web.archive.org/web/*/https://www.reputatiecoaching.nl/werkinstructie-opschonen-citations/), dan heb je deze lijst al en hoef je de desbetreffende sites alleen maar even te bookmarken.
 
 Meld je ook als bedrijf aan op de sites, waar dat kan. Zo kun je dan netjes uit naam van je bedrijf of onderneming reageren. Reageer overigens niet alleen op negatieve reviews, maar ook op positieve! Dat laat zien dat je een betrokken ondernemer bent!
 
@@ -172,7 +172,7 @@ Maar goed, jarenlang hebben ook veel Nederlandse bloggers honderden en zelfs dui
 
 Maar nu lijkt Getty Images het roer volledig om te gooien. Want in plaats van bloggers of webmasters die hun foto’s gebruiken te vervolgen, biedt Getty Images de mogelijkheid om de [foto’s gratis te embedden op je website](http://techcrunch.com/2014/03/05/getty-images/).
 
-Ik zal je uitleggen hoe dat werkt… Surf om te beginnen naar [www.gettyimages.nl](http://www.gettyimages.nl/). De exacte link vind je in de transcriptie van deze podcast op [www.reputatiecoaching.nl/67](https://www.reputatiecoaching.nl/67/). Ga daar lekker op zoek in de miljoenen foto’s, naar díe foto, die jij graag op je website of in je artikel wilt embedden.
+Ik zal je uitleggen hoe dat werkt… Surf om te beginnen naar [www.gettyimages.nl](http://www.gettyimages.nl/). De exacte link vind je in de transcriptie van deze podcast op [www.reputatiecoaching.nl/67](/nl/archief/reputatiecoaching/067/). Ga daar lekker op zoek in de miljoenen foto’s, naar díe foto, die jij graag op je website of in je artikel wilt embedden.
 
 Beweeg je muis over de thumbnail en klik op de “embed”-knop. Welke dat is, kun je bekijken in de screenshot in de show notes:
 
@@ -204,7 +204,7 @@ Als je de podcast leuk vindt en je hebt inderdaad wat aan alle informatie die ik
 
 Als je een vraag of een probleem hebt met betrekking tot je online reputatie of de vindbaarheid van je website, kun je een mailtje sturen naar [podcast@reputatiecoaching.nl](mailto:podcast@reputatiecoaching.nl). Als je dat te lastig vindt, of als je de podcast beluistert terwijl je in de auto zit en je hebt acuut een vraag, spreek dan een boodschap in op de ReputatieCoaching Hotline, op nummer: 084 - 883 15 56. Mogelijk behandel ik je vraag of probleem dan in een artikel of in de podcast.
 
-En je kunt ook rechtstreeks op de website een voicemail achterlaten, door op de tab aan de rechterkant van elke pagina te klikken, en je bericht in te spreken. Dit was [ReputatieCoaching Podcast aflevering 67](https://www.reputatiecoaching.nl/67/) en mijn naam is [Eduard de Boer](http://nl.linkedin.com/in/eduarddeboer/nl).
+En je kunt ook rechtstreeks op de website een voicemail achterlaten, door op de tab aan de rechterkant van elke pagina te klikken, en je bericht in te spreken. Dit was [ReputatieCoaching Podcast aflevering 67](/nl/archief/reputatiecoaching/067/) en mijn naam is [Eduard de Boer](http://nl.linkedin.com/in/eduarddeboer/nl).
 
 Ik wens je de komende week weer succes met het werken aan je reputatie, zodat je meteen je reputatie voor jou kunt laten werken!
 
@@ -215,8 +215,8 @@ Doei!
 Links naar content die in deze podcast aan bod komt:
 
 ```
-  * [ReputatieCoaching Podcast in iTunes](https://www.reputatiecoaching.nl/itunes)
-  * [ReputatieCoaching Podcast op Stitcher](https://www.reputatiecoaching.nl/stitcher)
+  * [ReputatieCoaching Podcast in iTunes](https://web.archive.org/web/*/https://www.reputatiecoaching.nl/itunes)
+  * [ReputatieCoaching Podcast op Stitcher](https://web.archive.org/web/*/https://www.reputatiecoaching.nl/stitcher)
   * [ReputatieCoaching Podcast RSS-feed](https://feeds.reputatiecoaching.nl/ReputatieCoachingPodcast)
   * [XOIP](http://www.xoip.com/)
   * [Getty Images](http://www.gettyimages.nl/)

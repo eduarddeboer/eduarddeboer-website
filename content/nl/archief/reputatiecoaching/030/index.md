@@ -3,6 +3,8 @@ title: '30: Instagram doet video, Pinterest tips en Nederlandse taal'
 date: '2013-06-22T17:30:20+00:00'
 description: Hallo en hartelijk welkom bij de bekendste Nederlandstalige podcast over reputatiemanagement en reputatiecoaching, het verbeteren van je online vindbaarheid en optimalisatie van je website voor zoekmachines. De podcast van vandaag staat voor een groot deel in het teken van de Nederlandse taal. Maar eerst heb ik wat nieuws voor je uit de diverse media. Het al het nieuws heeft betrekking op foto’s en video. Mijn naam is Eduard de Boer –bekend als de ReputatieCoach– en ik ben je host voor vandaag!
 episode: 30
+kgRef: podcast_episode/reputatiecoaching_030
+source_url: https://www.reputatiecoaching.nl/30
 historical: true
 archivePeriod: 2012–2016
 transcriptStatus: full
@@ -16,8 +18,6 @@ showTaxonomies: false
 ---
 
 > **Historisch archief.** Deze aflevering verscheen op 22-06-2013 als onderdeel van ReputatieCoaching (2012–2016). De oorspronkelijke tekst is hieronder historisch bewaard. Diensten, contactgegevens, links, tools en adviezen kunnen inmiddels verouderd zijn.
-
-{{< audio src="https://archive.org/download/20130622-reputatie-coaching-podcast-030/20130622-ReputatieCoaching-Podcast-030.mp3" title="ReputatieCoaching Podcast #030" >}}
 
 **Transcriptiestatus:** Volledige transcriptie uit het oorspronkelijke archief.
 
@@ -72,7 +72,7 @@ Voordat ik in de Nederlandse taal duik, heb ik nog een lokale SEO tip voor je. E
 
 Vermelding op beide sites worden door de zoekmachines beschouwd als waardevol en dat draagt dan dus bij aan de verbetering van je lokale vindbaarheid.
 
-Beide video’s vind je op de site, maar heb ik voor de volledigheid ook opgenomen in de transcriptie van deze podcast, die je kunt vinden op [www.reputatiecoaching.nl/30](https://www.reputatiecoaching.nl/30).
+Beide video’s vind je op de site, maar heb ik voor de volledigheid ook opgenomen in de transcriptie van deze podcast, die je kunt vinden op [www.reputatiecoaching.nl/30](/nl/archief/reputatiecoaching/030/).
 
 ### MisterWhat
 
@@ -90,7 +90,7 @@ Hoewel leerlingen natuurlijk het liefst een zo makkelijk mogelijk examen willen,
 
 De vraag is of je de oorzaak hiervan moet zoeken in het onderwijs, in de bezuinigingen van de regering of of in iets anders. Veel van de mensen die hebben gereageerd op het artikel denken in ieder geval dat het fout is gegaan bij de invoering van de [Mammoetwet](http://nl.wikipedia.org/wiki/Mammoetwet) op 1 augustus 1968.
 
-In 2006 schreef Trouw al dat zelfs leerkrachten in spé niet meer konden rekenen en een jaar later was in 2007 op nu.nl te lezen dat tweederde van de pabostudenten was gezakt voor de taaltoets. Overigens, de links naar deze artikelen vind je allemaal in de show notes, op [www.reputatiecoaching.nl/30](https://www.reputatiecoaching.nl/30).
+In 2006 schreef Trouw al dat zelfs leerkrachten in spé niet meer konden rekenen en een jaar later was in 2007 op nu.nl te lezen dat tweederde van de pabostudenten was gezakt voor de taaltoets. Overigens, de links naar deze artikelen vind je allemaal in de show notes, op [www.reputatiecoaching.nl/30](/nl/archief/reputatiecoaching/030/).
 
 Taal is continu aan verandering onderhevig en soms moet je ook als blogger even in figuurlijke zin op je vingers worden getikt over de schrijfwijze van bepaalde woorden. Ik vind dat je als blogger je uiterste best moet doen, om zo foutloos mogelijk te schrijven. Natuurlijk kunnen er soms typefouten tussendoor glippen. Maar mijns inziens draagt een foutloze of vrijwel foutloze tekst bij aan een betere reputatie.
 
@@ -165,9 +165,9 @@ Als je de podcast leuk vindt en je hebt inderdaad wat aan alle informatie die ik
 
 Als je een vraag of een probleem hebt met betrekking tot je online reputatie of de vindbaarheid van je website, kun je een mailtje sturen naar [podcast@reputatiecoaching.nl](mailto:podcast@reputatiecoaching.nl). Als je dat te lastig vindt, of als je de podcast beluistert terwijl je in de auto zit en je hebt acuut een vraag, spreek dan een boodschap in op de ReputatieCoaching Hotline, op nummer: 084 - 883 15 56. Mogelijk behandel ik je vraag of probleem dan in een artikel of in de podcast.
 
-Als laatste kun je je ook inschrijven voor de nieuwsbrief. Dan ontvang je altijd als eerste het laatste nieuws wat ik publiceer en automatisch elk kwartaal het ReputatieCoaching Podcast Boek van het afgelopen kwartaal. Surf daartoe naar [www.reputatiecoaching.nl/nieuwsbrief](https://www.reputatiecoaching.nl/nieuwsbrief) en schrijf je meteen in.
+Als laatste kun je je ook inschrijven voor de nieuwsbrief. Dan ontvang je altijd als eerste het laatste nieuws wat ik publiceer en automatisch elk kwartaal het ReputatieCoaching Podcast Boek van het afgelopen kwartaal. Surf daartoe naar [www.reputatiecoaching.nl/nieuwsbrief](https://web.archive.org/web/*/https://www.reputatiecoaching.nl/nieuwsbrief) en schrijf je meteen in.
 
-En je kunt rechtstreeks op de website een voicemail achterlaten, door op de tab aan de rechterkant van elke pagina te klikken, en je bericht in te spreken. Dit was [ReputatieCoaching Podast aflevering 30](https://www.reputatiecoaching.nl/30) en mijn naam is [Eduard de Boer](http://nl.linkedin.com/in/eduarddeboer).
+En je kunt rechtstreeks op de website een voicemail achterlaten, door op de tab aan de rechterkant van elke pagina te klikken, en je bericht in te spreken. Dit was [ReputatieCoaching Podast aflevering 30](/nl/archief/reputatiecoaching/030/) en mijn naam is [Eduard de Boer](http://nl.linkedin.com/in/eduarddeboer).
 
 Ik wens iedereen de komende week weer succes met het werken aan je reputatie, zodat je meteen je reputatie voor jou kunt laten werken!
 

@@ -3,6 +3,8 @@ title: '108: Kerstcadeau voor jou! Review Media Company nader belicht. Makelaar 
 date: '2014-12-27T07:30:48+00:00'
 description: Ik weet dat belofte schuld maakt en ik had vorige week toegezegd dat ik op 1e Kerstdag toch een podcast zou uitbrengen. Helaas is dat door alle drukte toch niet gelukt. Bovendien kreeg ik van diverse kanten te horen dat tijdens Kerstmis waarschijnlijk toch niemand zou gaan luisteren. Dus breng ik nu op 3e Kerstdag alsnog de podcast uit. Excuses voor deze vertraging! Ik begin deze podcast met je een kadootje te geven.
 episode: 108
+kgRef: podcast_episode/reputatiecoaching_108
+source_url: https://www.reputatiecoaching.nl/108
 historical: true
 archivePeriod: 2012–2016
 transcriptStatus: full
@@ -17,8 +19,6 @@ showTaxonomies: false
 
 > **Historisch archief.** Deze aflevering verscheen op 27-12-2014 als onderdeel van ReputatieCoaching (2012–2016). De oorspronkelijke tekst is hieronder historisch bewaard. Diensten, contactgegevens, links, tools en adviezen kunnen inmiddels verouderd zijn.
 
-{{< audio src="https://archive.org/download/20141227-reputatie-coaching-podcast-108/20141227-ReputatieCoaching-Podcast-108.mp3" title="ReputatieCoaching Podcast #108" >}}
-
 **Transcriptiestatus:** Volledige transcriptie uit het oorspronkelijke archief.
 
 ***Historische afbeelding niet beschikbaar: ReputatieCoaching Podcast*
@@ -28,7 +28,7 @@ Ik weet dat belofte schuld maakt en ik had vorige week toegezegd dat ik op 1e Ke
 
 Hallo en hartelijk welkom bij deze aflevering van de ReputatieCoaching Podcast. Ik ben Eduard de Boer, ReputatieCoach. Dit is dé podcast die jou helpt om meer business te genereren, doordat jouw website beter gevonden wordt, zowel lokaal als landelijk en doordat ik je uitleg hoe je je online reputatie kunt verbeteren. Dit alles helpt je om je bedrijf en jezelf beter op de online kaart te plaatsen.
 
-De podcast kun je vinden op [www.reputatiecoaching.nl/108](https://www.reputatiecoaching.nl/108/). Daar vind je niet alleen de tekst, maar ook video’s waar ik het in deze uitzending over heb, alsmede afbeeldingen, links enzovoorts. Bovendien is de podcast te beluisteren in [iTunes](https://www.reputatiecoaching.nl/itunes), op [Stitcher](https://www.reputatiecoaching.nl/stitcher) en ook op [TuneIn Radio](http://tunein.com/radio/ReputatieCoaching-Podcast-p655084/). Daar kun je je dus ook abonneren op de wekelijkse podcast. Veel mensen vinden het ideaal om de wekelijkse afleveringen van de podcast op hun gemak te beluisteren, terwijl ze wandelen, fietsen, trainen in de sportschool of autorijden.
+De podcast kun je vinden op [www.reputatiecoaching.nl/108](/nl/archief/reputatiecoaching/108/). Daar vind je niet alleen de tekst, maar ook video’s waar ik het in deze uitzending over heb, alsmede afbeeldingen, links enzovoorts. Bovendien is de podcast te beluisteren in [iTunes](https://web.archive.org/web/*/https://www.reputatiecoaching.nl/itunes), op [Stitcher](https://web.archive.org/web/*/https://www.reputatiecoaching.nl/stitcher) en ook op [TuneIn Radio](http://tunein.com/radio/ReputatieCoaching-Podcast-p655084/). Daar kun je je dus ook abonneren op de wekelijkse podcast. Veel mensen vinden het ideaal om de wekelijkse afleveringen van de podcast op hun gemak te beluisteren, terwijl ze wandelen, fietsen, trainen in de sportschool of autorijden.
 
 Laat ik dan nu overgaan op de onderwerpen voor vandaag…
 
@@ -81,7 +81,7 @@ Nou ja, laten we eerlijk zijn: vaak zie je een overdosis aan advertenties en pop
   4. Sneller bijvoorbeeld YouTube video’s kunt bekijken, doordat je niet meer hoeft te wachten tot de reclame voorbij is.
 ```
 
-De keus is aan jou. Doe hier je voordeel mee. Vertel me eens? Waar gaat jouw voorkeur naar uit? Laat het weten onderaan de show notes, op [www.reputatiecoaching.nl/108](https://www.reputatiecoaching.nl/108/).
+De keus is aan jou. Doe hier je voordeel mee. Vertel me eens? Waar gaat jouw voorkeur naar uit? Laat het weten onderaan de show notes, op [www.reputatiecoaching.nl/108](/nl/archief/reputatiecoaching/108/).
 
 ## Webinar “Internetmarketing voor Fotografen (deel 3)” : Citations
 
@@ -195,7 +195,7 @@ Ook kun je daar een video bekijken, waarin de resultaten van het onderzoek worde
 
 Als je de podcast leuk vindt en je wilt nog meer op de hoogte blijven, volg me dan ook op Twitter, via [@reputatiecoach1](https://twitter.com/reputatiecoach1).
 
-Heb je inderdaad wat aan alle informatie die ik met je deel, help mij dan met het verder verbeteren en promoten van deze podcast. Surf daarvoor naar [iTunes](https://www.reputatiecoaching.nl/itunes) of [Stitcher](https://www.reputatiecoaching.nl/stitcher), geef de podcast een sterrenbeoordeling en laat ook je reactie achter. Door de podcast te beoordelen op iTunes en/of Stitcher breng je de podcast onder de aandacht van een breder publiek.
+Heb je inderdaad wat aan alle informatie die ik met je deel, help mij dan met het verder verbeteren en promoten van deze podcast. Surf daarvoor naar [iTunes](https://web.archive.org/web/*/https://www.reputatiecoaching.nl/itunes) of [Stitcher](https://web.archive.org/web/*/https://www.reputatiecoaching.nl/stitcher), geef de podcast een sterrenbeoordeling en laat ook je reactie achter. Door de podcast te beoordelen op iTunes en/of Stitcher breng je de podcast onder de aandacht van een breder publiek.
 
 Je kunt me verder helpen, door de podcast aan te bevelen bij vrienden of collega’s, waarvan je denkt dat ze er hun voordeel mee kunnen doen, of door ’m te delen op Twitter, like’n en delen op Facebook of een “+1” te geven op Google+.
 
@@ -203,7 +203,7 @@ En vergeet niet: ik ben hier om je te helpen! Als je een vraag of een probleem h
 
 Als je dat te lastig vindt, of als je de podcast beluistert terwijl je in de auto zit en je hebt acuut een vraag, spreek dan een boodschap in op de ReputatieCoaching Hotline, op nummer: 084 - 883 15 56. Mogelijk behandel ik je vraag of probleem dan in een artikel of in de podcast.
 
-En je kunt ook rechtstreeks op de website een voicemail achterlaten, door op de tab aan de rechterkant van elke pagina te klikken, en je bericht in te spreken. Dit was [ReputatieCoaching Podcast aflevering 108](https://www.reputatiecoaching.nl/108/) en mijn naam is [Eduard de Boer](http://nl.linkedin.com/in/eduarddeboer/nl).
+En je kunt ook rechtstreeks op de website een voicemail achterlaten, door op de tab aan de rechterkant van elke pagina te klikken, en je bericht in te spreken. Dit was [ReputatieCoaching Podcast aflevering 108](/nl/archief/reputatiecoaching/108/) en mijn naam is [Eduard de Boer](http://nl.linkedin.com/in/eduarddeboer/nl).
 
 Ik wens je de komende week weer succes met het werken aan je reputatie, zodat je meteen je reputatie voor jou kunt laten werken!
 
@@ -214,8 +214,8 @@ Doei!
 Links naar content die in deze podcast aan bod komt:
 
 ```
-  * [ReputatieCoaching Podcast in iTunes](https://www.reputatiecoaching.nl/itunes)
-  * [ReputatieCoaching Podcast op Stitcher](https://www.reputatiecoaching.nl/stitcher)
+  * [ReputatieCoaching Podcast in iTunes](https://web.archive.org/web/*/https://www.reputatiecoaching.nl/itunes)
+  * [ReputatieCoaching Podcast op Stitcher](https://web.archive.org/web/*/https://www.reputatiecoaching.nl/stitcher)
   * [ReputatieCoaching Podcast op TuneIn Radio](http://tunein.com/radio/ReputatieCoaching-Podcast-p655084/)
   * [ReputatieCoaching Podcast RSS-feed](https://feeds.reputatiecoaching.nl/ReputatieCoachingPodcast)
   * [Review Media Company](http://www.reviewmediacompany.com)

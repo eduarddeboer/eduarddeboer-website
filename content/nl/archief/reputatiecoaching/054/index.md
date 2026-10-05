@@ -3,6 +3,8 @@ title: '54: 50 GB in de cloud, Facebook pagina''s, Klout voor bedrijven, Google+
 date: '2013-12-09T20:30:49+00:00'
 description: Voordat ik van start ga met deze podcast even excuses voor het wat latere verschijnen. Je moet weten dat ik de podcast altijd op zondag samenstel, inspreek, opneem en klaar zet, zodat die maandagmorgen automatisch om 08:30 uur live gaat. Echter, ik was gisteren gevloerd door de griep en zag geen kans om zo’n acht tot negen uur bijna onafgebroken eraan te werken. Inmiddels voel ik me weer een stuk beter en ben ik weer in staat je te fatsoenlijk te woord te staan.
 episode: 54
+kgRef: podcast_episode/reputatiecoaching_054
+source_url: https://www.reputatiecoaching.nl/54
 historical: true
 archivePeriod: 2012–2016
 transcriptStatus: full
@@ -17,8 +19,6 @@ showTaxonomies: false
 
 > **Historisch archief.** Deze aflevering verscheen op 9-12-2013 als onderdeel van ReputatieCoaching (2012–2016). De oorspronkelijke tekst is hieronder historisch bewaard. Diensten, contactgegevens, links, tools en adviezen kunnen inmiddels verouderd zijn.
 
-{{< audio src="https://archive.org/download/20131209-reputatie-coaching-podcast-054/20131209-ReputatieCoaching-Podcast-054.mp3" title="ReputatieCoaching Podcast #054" >}}
-
 **Transcriptiestatus:** Volledige transcriptie uit het oorspronkelijke archief.
 
 ***Historische afbeelding niet beschikbaar: ReputatieCoaching Podcast*
@@ -28,7 +28,7 @@ Voordat ik van start ga met deze podcast even excuses voor het wat latere versch
 
 **De onderwerpen voor vandaag… Als eerste heb ik een leuke en bovenal nuttige tip voor je, waar je gratis 50 GB aan opslagcapaciteit in de cloud kunt krijgen. Dan kom ik nogmaals terug op Facebook profielen versus Facebook pagina’s en ook op Klout, want Klout kan nu ook een Klout-score aan bedrijven toekennen! Maar niet voor lang. Ook bestaat Hyves niet meer in de vorm, waarin het eerst bestond en wordt Google+ voor mij steeds meer een bron van nieuws. “Content stitching is uit”, zegt Matt Cutts. Ik sluit de podcast van vandaag af met een stuk of 8 tips om extra op te vallen met je blog. Deze tips komen van een infographic, waarop je meer dan 120 tips kunt lezen.**
 
-Al deze onderwerpen komen aan bod in deze 54e aflevering van de ReputatieCoaching Podcast. Je kunt de volledige transcriptie van deze podcast op je gemak nalezen op de site. Elke transcriptie is gemakkelijk te vinden, door te surfen naar [www.reputatiecoaching.nl](/) - slash - en dan het nummer van de podcast, in dit geval 54. Dus surf naar [www.reputatiecoaching.nl/54](https://www.reputatiecoaching.nl/54/) voor de volledige tekst van deze podcast.
+Al deze onderwerpen komen aan bod in deze 54e aflevering van de ReputatieCoaching Podcast. Je kunt de volledige transcriptie van deze podcast op je gemak nalezen op de site. Elke transcriptie is gemakkelijk te vinden, door te surfen naar [www.reputatiecoaching.nl](https://web.archive.org/web/*/https://www.reputatiecoaching.nl/) - slash - en dan het nummer van de podcast, in dit geval 54. Dus surf naar [www.reputatiecoaching.nl/54](/nl/archief/reputatiecoaching/054/) voor de volledige tekst van deze podcast.
 
 In elk geval hartelijk welkom bij deze aflevering van de ReputatieCoaching Podcast. Mijn naam is Eduard de Boer, ook bekend als de ReputatieCoach. Dit is dé podcast die je moet beluisteren als je meer wilt leren over online reputatie en reputatiemanagement en ook als je wilt werken aan je online reputatie en je online vindbaarheid wilt verbeteren. Dit alles kan je helpen om jezelf beter op de online kaart te plaatsen, waardoor je als bedrijf meer business kunt doen.
 
@@ -51,7 +51,7 @@ Wellicht heb je hier iets aan, voor als je een offsite backup wilt van je gegeve
 ## Facebook pagina of Facebook profiel?
 
 *Historische afbeelding niet beschikbaar: Bedrijfspagina maken op Facebook*
-Bijna een jaar geleden heb ik een instructievideo gepost over hoe je een [Facebookpagina kunt aanmaken voor je bedrijf of organisatie](https://www.reputatiecoaching.nl/maak-je-eigen-bedrijfspagina-op-facebook-instructievideo/). Toevallig zag ik ook afgelopen week weer een voorbeeld van een organisatie die een persoonlijk Facebookprofiel gebruikt. Ik weet zeker dat er duizenden kleine organisaties, ondernemers en bedrijven uit het MKB-segment in Nederland zijn die dit doen, maar hier betrof het nota bene een lokale overheidsorganisatie, te weten de [gemeente Overbetuwe](https://www.facebook.com/gemeente.overbetuwe).
+Bijna een jaar geleden heb ik een instructievideo gepost over hoe je een [Facebookpagina kunt aanmaken voor je bedrijf of organisatie](https://web.archive.org/web/*/https://www.reputatiecoaching.nl/maak-je-eigen-bedrijfspagina-op-facebook-instructievideo/). Toevallig zag ik ook afgelopen week weer een voorbeeld van een organisatie die een persoonlijk Facebookprofiel gebruikt. Ik weet zeker dat er duizenden kleine organisaties, ondernemers en bedrijven uit het MKB-segment in Nederland zijn die dit doen, maar hier betrof het nota bene een lokale overheidsorganisatie, te weten de [gemeente Overbetuwe](https://www.facebook.com/gemeente.overbetuwe).
 
 Je moet weten dat Facebook het in principe niet toestaat dat je als organisatie of bedrijf een profiel gebruikt. Met een Facebookpagina heb je bovendien een aantal voordelen:
 
@@ -66,7 +66,7 @@ Je moet weten dat Facebook het in principe niet toestaat dat je als organisatie 
 
 ## Klout-score voor bedrijven
 
-Een bijkomend voordeel is dat je een Facebookpagina ook kunt koppelen aan een Klout bedrijfsprofiel. In [podcast 8](https://www.reputatiecoaching.nl/8/) heb ik je al eens over Klout verteld. Toen was Klout alleen nog maar voor individuen. Ik zeg het je eerlijk: ergens heb ik tussen podcast 8 en een week geleden nieuws over Klout gemist, in elk geval dat ze nu ook een Klout-score voor bedrijven hebben.
+Een bijkomend voordeel is dat je een Facebookpagina ook kunt koppelen aan een Klout bedrijfsprofiel. In [podcast 8](/nl/archief/reputatiecoaching/008/) heb ik je al eens over Klout verteld. Toen was Klout alleen nog maar voor individuen. Ik zeg het je eerlijk: ergens heb ik tussen podcast 8 en een week geleden nieuws over Klout gemist, in elk geval dat ze nu ook een Klout-score voor bedrijven hebben.
 
 [[Historische afbeelding: Klout score van Allround Fotografie bij aanmelden](https://lh5.googleusercontent.com/5c83F7T5Inh-OM6XdPrAXtI7A6WQEAZDNpEArnQEprE=w484-h222-p-no)](http://www.klout.com/AllroundFoto)
 
@@ -125,7 +125,7 @@ In het verleden heb ik ook wel eens sites gemaakt, waar dit gebeurde en inderdaa
 
 Ook hierin kunnen we het algemene adagium van Google horen doorklinken: schrijf goede, relevante, unieke content die mensen graag lezen. Als je dat doet, dan is Google echt je vriend.
 
-Maar nu kan ik me goed voorstellen dat je je afvraagt of het wel goed is wat ik hier doe met de podcast en de transcriptie. Loop ik met het promoten van andermans content en overig nieuws geen risico, dat de site [www.reputatiecoaching.nl](/) wordt gezien als een soortgelijke site?
+Maar nu kan ik me goed voorstellen dat je je afvraagt of het wel goed is wat ik hier doe met de podcast en de transcriptie. Loop ik met het promoten van andermans content en overig nieuws geen risico, dat de site [www.reputatiecoaching.nl](https://web.archive.org/web/*/https://www.reputatiecoaching.nl/) wordt gezien als een soortgelijke site?
 
 Ik verwacht dat ik geen risico loop. Reden is dat ik zelf *nieuwe* content schrijf en dat met jullie deel, de luisteraars van de podcast en de lezers van het weblog, om daarmee jullie te informeren. Ik kopieer en plak eigenlijk nagenoeg geen tekst van andere sites, hooguit eens een citaat hier of daar. Maar daar is niets mis mee. En ik vermeld eigenlijk altijd netjes mijn bronnen.
 
@@ -133,7 +133,7 @@ Google kan echt wel onderscheiden of ik zinnige tekst schrijf, of onzin. En ook 
 
 Ik wil me geen te grote broek aan trekken, maar binnen de kaders zoals Matt Cutts die schetst in de video, doe ik dus ik zekere zin hetzelfde als Wikipedia, maar dan op een ander vlak en met andere content.
 
-Dus nee, ik verwacht niet dat de site [www.reputatiecoaching.nl](/) risico loopt om te worden gezien als een site waarop irrelevante, onzinnige en onbruikbare content staat, die een samenraapsel is van -tig andere sites.
+Dus nee, ik verwacht niet dat de site [www.reputatiecoaching.nl](https://web.archive.org/web/*/https://www.reputatiecoaching.nl/) risico loopt om te worden gezien als een site waarop irrelevante, onzinnige en onbruikbare content staat, die een samenraapsel is van -tig andere sites.
 
 Kun jij zoiets doen? Tuurlijk? Pak een onderwerp wat je ligt, waar je een passie voor hebt en lees je helemaal suf. Ga op basis van de dingen die je leest je blogartikelen schrijven of je podcast inspreken en blijf zelf op de hoogte van alle ontwikkelingen in de hele wereld, die je dan vervolgens met je publiek deelt.
 
@@ -157,16 +157,16 @@ Ik ga ze hier niet alle 120 voorlezen, maar ik heb er een paar leuke, nuttige of
   * **Converteer je blogpost naar PDF en post die op diverse document sharing sites** – Hier ben ik het minder mee eens, want als je dit doet, is dat pure duplicate content, ook al is het in een ander formaat. Het is op dit moment niet zo, dat je ervoor wordt afgestraft, maar zelf betwijfel ik het nut van de extra inspanning die je hiervoor moet doen. Mijn advies is om enkele specifieke en bovenal originele en unieke documenten te maken en díe op de document sharing sites te plaatsen. Let er dan wel op, dat je meteen ook daar je profiel goed invult en je bedrijfsvermelding, bestaande uit naam, adres, postcode, plaats en telefoonnummer er juist bij zet. En niet alleen in het profiel, maar ook in het document dat je uploadt.
   * **Maak “pinnable” infographics** – Tja, gemakkelijk gezegd, maar dat is echt niet voor iedereen weggelegd. Mijn advies is om leuke infographics te zoeken, die te gebruiken in je weblog en er een originele tekst bij te schrijven, net als ik nu doe. Vervolgens pin je dan de infographic op een relevant Pinterest-bord van je.
   * **Link ook naar “oudere” artikelen op je site** – Je ziet dat ik dat ook continu doe: ik praat heel vaak over eerder uitgezonden podcasts of reeds gepubliceerde artikelen en ik link er dan ook naartoe. Dit helpt om ook oudere artikelen vaker onder de aandacht te brengen.
-  * **Gebruik “YARPP”, ofwel “Yet Another Related Post Plugin”** – Helemaal mee eens. In podcast 26 schreef ik ook over [“Yet Another Related Post Plugin” (YARPP)](https://www.reputatiecoaching.nl/26/). Zie je? Daar doe ik het weer: linken naar een ouder weblog artikel, in dit geval [podcast 26](https://www.reputatiecoaching.nl/26/).
+  * **Gebruik “YARPP”, ofwel “Yet Another Related Post Plugin”** – Helemaal mee eens. In podcast 26 schreef ik ook over [“Yet Another Related Post Plugin” (YARPP)](/nl/archief/reputatiecoaching/026/). Zie je? Daar doe ik het weer: linken naar een ouder weblog artikel, in dit geval [podcast 26](/nl/archief/reputatiecoaching/026/).
 ```
 
 Als je de podcast leuk vindt en je hebt inderdaad wat aan alle informatie die ik met je deel, help mij dan met het verder verbeteren en promoten van deze podcast. Deel ‘m op Twitter, like ‘m op Facebook of geef een “+1” op Google+. Het zou helemaal super zijn, als je een bericht achterlaat op iTunes of LinkedIn.
 
 Als je een vraag of een probleem hebt met betrekking tot je online reputatie of de vindbaarheid van je website, kun je een mailtje sturen naar [podcast@reputatiecoaching.nl](mailto:podcast@reputatiecoaching.nl). Als je dat te lastig vindt, of als je de podcast beluistert terwijl je in de auto zit en je hebt acuut een vraag, spreek dan een boodschap in op de ReputatieCoaching Hotline, op nummer: 084 - 883 15 56. Mogelijk behandel ik je vraag of probleem dan in een artikel of in de podcast.
 
-Als laatste kun je je ook inschrijven voor de nieuwsbrief. Dan ontvang je altijd als eerste het laatste nieuws wat ik publiceer en automatisch elk kwartaal het ReputatieCoaching Podcast Boek van het afgelopen kwartaal. Surf daartoe naar [www.reputatiecoaching.nl/nieuwsbrief/](https://www.reputatiecoaching.nl/nieuwsbrief/) en schrijf je meteen in.
+Als laatste kun je je ook inschrijven voor de nieuwsbrief. Dan ontvang je altijd als eerste het laatste nieuws wat ik publiceer en automatisch elk kwartaal het ReputatieCoaching Podcast Boek van het afgelopen kwartaal. Surf daartoe naar [www.reputatiecoaching.nl/nieuwsbrief/](https://web.archive.org/web/*/https://www.reputatiecoaching.nl/nieuwsbrief/) en schrijf je meteen in.
 
-En je kunt ook rechtstreeks op de website een voicemail achterlaten, door op de tab aan de rechterkant van elke pagina te klikken, en je bericht in te spreken. Dit was [ReputatieCoaching Podcast aflevering 54](https://www.reputatiecoaching.nl/54/) en mijn naam is [Eduard de Boer](http://nl.linkedin.com/in/eduarddeboer/nl).
+En je kunt ook rechtstreeks op de website een voicemail achterlaten, door op de tab aan de rechterkant van elke pagina te klikken, en je bericht in te spreken. Dit was [ReputatieCoaching Podcast aflevering 54](/nl/archief/reputatiecoaching/054/) en mijn naam is [Eduard de Boer](http://nl.linkedin.com/in/eduarddeboer/nl).
 
 Ik wens je de komende week weer succes met het werken aan je reputatie, zodat je meteen je reputatie voor jou kunt laten werken!
 

@@ -5,6 +5,8 @@
   "source_repository": "reputatiecoaching/reputatiecoaching.github.io",
   "historical_period": "2012–2016",
   "episodes": 167,
+  "kg_source_commit": "794319608f742a36ccb18202fe412aa0b7f5187b",
+  "audio_source": "data/kg/snapshot.json",
   "images": [
     {
       "episode": 1,
@@ -7191,14 +7193,8 @@
   "feed": {
     "path": "static/podcast/reputatiecoaching.xml",
     "items": 167,
-    "enclosure_lengths_resolved": 162,
-    "enclosure_lengths_unresolved": [
-      22,
-      38,
-      49,
-      61,
-      79
-    ]
+    "enclosure_lengths_resolved": 167,
+    "enclosure_lengths_unresolved": []
   },
   "validation": {
     "episode_pages": 167,

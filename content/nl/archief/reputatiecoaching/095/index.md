@@ -3,6 +3,8 @@ title: '95: Haat ons restaurant! Panoramio Exit! Leuke Leerzame Links mailing, W
 date: '2014-09-25T06:30:25+00:00'
 description: '**Ik heb veel positieve reacties gekregen op het interview met Brenda Kok, vorige week. Dus daarover zo meer. Vorige week heb ik voor het eerst een zevental Leuke Leerzame Links gestuurd, naar de mensen die zich hebben geabonneerd op de nieuwsbrief. Tot op heden had die mailing een openingspercentage van maar liefst 43,8%. Verder heb ik de afgelopen drie weken vijf keer de vraag gehad, of ik wellicht een cursus podcasting kan samenstellen.'
 episode: 95
+kgRef: podcast_episode/reputatiecoaching_095
+source_url: https://www.reputatiecoaching.nl/95
 historical: true
 archivePeriod: 2012–2016
 transcriptStatus: full
@@ -17,8 +19,6 @@ showTaxonomies: false
 
 > **Historisch archief.** Deze aflevering verscheen op 25-09-2014 als onderdeel van ReputatieCoaching (2012–2016). De oorspronkelijke tekst is hieronder historisch bewaard. Diensten, contactgegevens, links, tools en adviezen kunnen inmiddels verouderd zijn.
 
-{{< audio src="https://archive.org/download/20140925-reputatie-coaching-podcast-095/20140925-ReputatieCoaching-Podcast-095.mp3" title="ReputatieCoaching Podcast #095" >}}
-
 **Transcriptiestatus:** Volledige transcriptie uit het oorspronkelijke archief.
 
 \*\**Historische afbeelding niet beschikbaar: ReputatieCoaching Podcast*
@@ -28,12 +28,12 @@ Hallo en hartelijk welkom bij deze aflevering van de ReputatieCoaching Podcast. 
 
 Als persoon kun je met de diverse tips aan de slag om bijvoorbeeld je online reputatie als salarisadministrateur, leraar basisonderwijs, kleuterjuf, webdesigner, Big Data consultant of wat dan ook te verbeteren.
 
-De podcast kun je vinden op [www.reputatiecoaching.nl/95](https://www.reputatiecoaching.nl/95/). Daar vind je niet alleen de tekst, maar ook video’s waar ik het in deze uitzending over heb, alsmede afbeeldingen, links enzovoorts. Bovendien is de podcast te beluisteren in [iTunes](https://www.reputatiecoaching.nl/itunes) en op [Stitcher](https://www.reputatiecoaching.nl/stitcher). Daar kun je je dus ook abonneren op de wekelijkse podcast. Veel mensen vinden het ideaal om de wekelijkse afleveringen van de podcast op hun gemak te beluisteren, terwijl ze autorijden.
+De podcast kun je vinden op [www.reputatiecoaching.nl/95](/nl/archief/reputatiecoaching/095/). Daar vind je niet alleen de tekst, maar ook video’s waar ik het in deze uitzending over heb, alsmede afbeeldingen, links enzovoorts. Bovendien is de podcast te beluisteren in [iTunes](https://web.archive.org/web/*/https://www.reputatiecoaching.nl/itunes) en op [Stitcher](https://web.archive.org/web/*/https://www.reputatiecoaching.nl/stitcher). Daar kun je je dus ook abonneren op de wekelijkse podcast. Veel mensen vinden het ideaal om de wekelijkse afleveringen van de podcast op hun gemak te beluisteren, terwijl ze autorijden.
 
 ## Terugblik naar podcast 94: Interview met Brenda Kok
 
 *Historische afbeelding niet beschikbaar: Brenda-Kok*
-Laat ik eerst nog even terugkijken naar de vorige podcast… In [podcast 94](https://www.reputatiecoaching.nl/94/) had ik Brenda Kok van [Sparkling Professionals](http://www.sparklingprofessionals.com) te gast. Zij vertelde honderuit over videomarketing, video SEO, en gaf drie hele praktische en nuttige tips voor ondernemers die willen starten met video. Deze praktische tips waren:
+Laat ik eerst nog even terugkijken naar de vorige podcast… In [podcast 94](/nl/archief/reputatiecoaching/094/) had ik Brenda Kok van [Sparkling Professionals](http://www.sparklingprofessionals.com) te gast. Zij vertelde honderuit over videomarketing, video SEO, en gaf drie hele praktische en nuttige tips voor ondernemers die willen starten met video. Deze praktische tips waren:
 
 ```
   1. Begin vandaag nog met video.
@@ -41,7 +41,7 @@ Laat ik eerst nog even terugkijken naar de vorige podcast… In [podcast 94](htt
   3. Bezint eer ge begint.
 ```
 
-Als je hier meer over wilt weten en veel meer wilt horen over videomarketing, dan raad ik je aan om echt [podcast 94](https://www.reputatiecoaching.nl/94/) te beluisteren, als je dat nog niet hebt gedaan. En als je het al wel gedaan hebt, dan kan het heus geen kwaad om ’m nogmaals te beluisteren. Zelf heb ik er afgelopen week de tijd voor genomen en ik heb er toch ook weer een paar voor mij waardevolle takeaways uit kunnen halen.
+Als je hier meer over wilt weten en veel meer wilt horen over videomarketing, dan raad ik je aan om echt [podcast 94](/nl/archief/reputatiecoaching/094/) te beluisteren, als je dat nog niet hebt gedaan. En als je het al wel gedaan hebt, dan kan het heus geen kwaad om ’m nogmaals te beluisteren. Zelf heb ik er afgelopen week de tijd voor genomen en ik heb er toch ook weer een paar voor mij waardevolle takeaways uit kunnen halen.
 
 Ondanks dat het interview maar liefst zo’n 48 minuten duurde, heb ik een paar heel positieve reacties ontvangen. Zo schreven Robert en Hans dat ik wel vaker dit soort toppers mag interviewen wat hen betreft en dat zij het niet te lang vonden. Lang is tenslotte relatief: het wordt pas lang of langdradig, als je er niets meer van opsteekt, van wat de persoon die wordt geïnterviewd, vertelt. En dat was volgens mij voor de meeste luisteraars absoluut niet het geval.
 
@@ -53,7 +53,7 @@ Laat ik dan nu overgaan op de onderwerpen voor vandaag…
 
 Vorige week was het dan eindelijk zo ver: ik heb voor het eerst een paar Leuke Leerzame Links gestuurd naar de mensen die zich hebben geabonneerd op de nieuwsbrief. Afgaand op het vrij grote percentage mensen dat de mail in de eerste paar dagen heeft geopend, denk ik dat het wel in de smaak viel.
 
-Helaas heb ik nog geen reacties terug gehad. Wel heeft één persoon zich meteen uitgeschreven, nadat ik de mail heb verstuurd. Maar ik denk dat dat meer over de interesse van die persoon zegt, dan over de mail. Althans, dat hoop ik. Heb jij de mail ontvangen? Vertel me wat je ervan vond. Je kunt antwoorden op de mail, of je reactie achterlaten op [www.reputatiecoaching.nl/95](https://www.reputatiecoaching.nl/95/).
+Helaas heb ik nog geen reacties terug gehad. Wel heeft één persoon zich meteen uitgeschreven, nadat ik de mail heb verstuurd. Maar ik denk dat dat meer over de interesse van die persoon zegt, dan over de mail. Althans, dat hoop ik. Heb jij de mail ontvangen? Vertel me wat je ervan vond. Je kunt antwoorden op de mail, of je reactie achterlaten op [www.reputatiecoaching.nl/95](/nl/archief/reputatiecoaching/095/).
 
 In die mail heb ik toegezegd dat ik mijn best doe om net vóór het weekend, of anders tijdens het weekend, een mail te sturen met daarin de Leuke Leerzame Links, die helaas de podcast niet hebben gehaald om welke reden dan ook.
 
@@ -77,7 +77,7 @@ Terugkomend op mijn vraag of jij al WebP gebruikt, mocht je er überhaupt al van
 
 En mocht je dan toch eens willen experimenteren met het omzetten van je afbeeldingen naar WebP, dan kan dat ook nog niet zomaar 1–2–3. Want het aantal programma’s dat iets voor je kan betekenen, is op dit moment ook nog erg beperkt. Op de Engelstalige pagina over [WebP op Wikipedia](https://developers.google.com/speed/webp/?csw=1) kun je lezen dat slechts een handjevol programma’s er iets mee kan. Zo kunnen Photoshop, GIMP en Paint.NET alleen met behulp van plugins iets doen met WebP afbeeldingen.
 
-Met andere woorden: WebP biedt kansen, maar is nog geen “mainstream”, zoals men dat in het Engels zegt als het iets niet wijdverbreid is. In de show notes op [www.reputatiecoaching.nl/95](https://www.reputatiecoaching.nl/95/) heb ik wat links opgenomen naar meer informatie over WebP.
+Met andere woorden: WebP biedt kansen, maar is nog geen “mainstream”, zoals men dat in het Engels zegt als het iets niet wijdverbreid is. In de show notes op [www.reputatiecoaching.nl/95](/nl/archief/reputatiecoaching/095/) heb ik wat links opgenomen naar meer informatie over WebP.
 
 ## Logo Yelp
 
@@ -199,7 +199,7 @@ Ten aanzien van de podcast kan ik je alvast vertellen dat het geen invloed heeft
 
 Met deze aankondiging kom ik dan weer aan het einde van deze podcast. Ik hoop dat je de podcast leuk vindt en je wilt nog meer op de hoogte blijven. Als dat zo is, volg me dan op Twitter, via [@reputatiecoach1](https://twitter.com/reputatiecoach1).
 
-Heb je inderdaad wat aan alle informatie die ik met je deel, help mij dan met het verder verbeteren en promoten van deze podcast. Surf daarvoor naar [iTunes](https://www.reputatiecoaching.nl/itunes) of [Stitcher](https://www.reputatiecoaching.nl/stitcher), geef de podcast een sterrenbeoordeling en laat ook je reactie achter. Door de podcast te beoordelen op iTunes en/of Stitcher breng je de podcast onder de aandacht van een breder publiek.
+Heb je inderdaad wat aan alle informatie die ik met je deel, help mij dan met het verder verbeteren en promoten van deze podcast. Surf daarvoor naar [iTunes](https://web.archive.org/web/*/https://www.reputatiecoaching.nl/itunes) of [Stitcher](https://web.archive.org/web/*/https://www.reputatiecoaching.nl/stitcher), geef de podcast een sterrenbeoordeling en laat ook je reactie achter. Door de podcast te beoordelen op iTunes en/of Stitcher breng je de podcast onder de aandacht van een breder publiek.
 
 Je kunt me verder helpen, door de podcast aan te bevelen bij vrienden of collega’s, waarvan je denkt dat ze er hun voordeel mee kunnen doen, of door ’m te delen op Twitter, like’n en delen op Facebook of een “+1” te geven op Google+.
 
@@ -207,7 +207,7 @@ En vergeet niet: ik ben hier om je te helpen! Als je een vraag of een probleem h
 
 Als je dat te lastig vindt, of als je de podcast beluistert terwijl je in de auto zit en je hebt acuut een vraag, spreek dan een boodschap in op de ReputatieCoaching Hotline, op nummer: 084 - 883 15 56. Mogelijk behandel ik je vraag of probleem dan in een artikel of in de podcast.
 
-En je kunt ook rechtstreeks op de website een voicemail achterlaten, door op de tab aan de rechterkant van elke pagina te klikken, en je bericht in te spreken. Dit was [ReputatieCoaching Podcast aflevering 95](https://www.reputatiecoaching.nl/95/) en ik ben [Eduard de Boer](http://nl.linkedin.com/in/eduarddeboer/nl).
+En je kunt ook rechtstreeks op de website een voicemail achterlaten, door op de tab aan de rechterkant van elke pagina te klikken, en je bericht in te spreken. Dit was [ReputatieCoaching Podcast aflevering 95](/nl/archief/reputatiecoaching/095/) en ik ben [Eduard de Boer](http://nl.linkedin.com/in/eduarddeboer/nl).
 
 Ik wens je de komende week weer succes met het werken aan je reputatie, zodat je meteen je reputatie voor jou kunt laten werken!
 
@@ -218,8 +218,8 @@ Doei!
 Links naar content die in deze podcast aan bod komt:
 
 ```
-  * [ReputatieCoaching Podcast in iTunes](https://www.reputatiecoaching.nl/itunes)
-  * [ReputatieCoaching Podcast op Stitcher](https://www.reputatiecoaching.nl/stitcher)
+  * [ReputatieCoaching Podcast in iTunes](https://web.archive.org/web/*/https://www.reputatiecoaching.nl/itunes)
+  * [ReputatieCoaching Podcast op Stitcher](https://web.archive.org/web/*/https://www.reputatiecoaching.nl/stitcher)
   * [ReputatieCoaching Podcast RSS-feed](https://feeds.reputatiecoaching.nl/ReputatieCoachingPodcast)
   * [WebP](https://developers.google.com/speed/webp/?csw=1) pagina van Google Developers
   * [Nederlandstalige](http://nl.wikipedia.org/wiki/WebP) en [Engelse](https://en.wikipedia.org/wiki/WebP) WebP pagina’s op Wikipedia

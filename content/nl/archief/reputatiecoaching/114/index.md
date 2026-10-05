@@ -3,6 +3,8 @@ title: '114: Laadtijd website meten en trage website verbeteren. Interview met B
 date: '2015-02-05T07:30:30+00:00'
 description: '**Afgelopen week heb ik een tweetal instructievideo’s gemaakt om de laadtijd van je website te meten en te verbeteren of te versnellen. Daarover zometeen meer. Luisteraar Chris kwam bij mij, omdat zijn site zo traag was. Hoe ik dat heb opgelost, vertel ik je zo. Soms gebruik ik een CDN, dat is de afkorting voor Content Delivery Network voor websites en ik vertel je kort iets over Amazon Cloudfront.** Ik wil meer webinars gaan organiseren, waarin ik in ga op vragen of problemen van luisteraars.'
 episode: 114
+kgRef: podcast_episode/reputatiecoaching_114
+source_url: https://www.reputatiecoaching.nl/114
 historical: true
 archivePeriod: 2012–2016
 transcriptStatus: full
@@ -17,17 +19,15 @@ showTaxonomies: false
 
 > **Historisch archief.** Deze aflevering verscheen op 5-02-2015 als onderdeel van ReputatieCoaching (2012–2016). De oorspronkelijke tekst is hieronder historisch bewaard. Diensten, contactgegevens, links, tools en adviezen kunnen inmiddels verouderd zijn.
 
-{{< audio src="https://archive.org/download/20150205-reputatie-coaching-podcast-114/20150205-ReputatieCoaching-Podcast-114.mp3" title="ReputatieCoaching Podcast #114" >}}
-
 **Transcriptiestatus:** Volledige transcriptie uit het oorspronkelijke archief.
 
-\*\*[*Historische afbeelding niet beschikbaar: ReputatieCoaching Podcast*](https://www.reputatiecoaching.nl/wp-content/uploads/2012/12/Reputatie-Coaching-Podcast-logo-200x200.jpg)Afgelopen week heb ik een tweetal instructievideo’s gemaakt om de laadtijd van je website te meten en te verbeteren of te versnellen. Daarover zometeen meer. Luisteraar Chris kwam bij mij, omdat zijn site zo traag was. Hoe ik dat heb opgelost, vertel ik je zo. Soms gebruik ik een CDN, dat is de afkorting voor Content Delivery Network voor websites en ik vertel je kort iets over Amazon Cloudfront.\*\*
+\*\*[*Historische afbeelding niet beschikbaar: ReputatieCoaching Podcast*](https://web.archive.org/web/*/https://www.reputatiecoaching.nl/wp-content/uploads/2012/12/Reputatie-Coaching-Podcast-logo-200x200.jpg)Afgelopen week heb ik een tweetal instructievideo’s gemaakt om de laadtijd van je website te meten en te verbeteren of te versnellen. Daarover zometeen meer. Luisteraar Chris kwam bij mij, omdat zijn site zo traag was. Hoe ik dat heb opgelost, vertel ik je zo. Soms gebruik ik een CDN, dat is de afkorting voor Content Delivery Network voor websites en ik vertel je kort iets over Amazon Cloudfront.\*\*
 
 **Ik wil meer webinars gaan organiseren, waarin ik in ga op vragen of problemen van luisteraars. Dus blijf mij mailen en bellen met je problemen en vragen! Verder heb ik nog twee terugblikken die ik je vorig jaar al had toegezegd en een interview met Bill Tancer, de wereldwijde reviewexpert en New York Times bestselling auteur. Als laatste onderwerp voor vandaag heb ik een nieuwtje waar jij als lokaal opererende ondernemer of zorgverlener je voordeel mee kunt doen!**
 
 Hallo en hartelijk welkom bij deze aflevering van de ReputatieCoaching Podcast. Ik ben Eduard de Boer, ReputatieCoach. Ik leer je hoe je je online zichtbaarheid, vindbaarheid en je online reputatie kunt verbeteren, waardoor je als bedrijf meer business kunt doen.
 
-De podcast kun je vinden op [www.reputatiecoaching.nl/114](https://www.reputatiecoaching.nl/114/). Daar vind je niet alleen de tekst, maar ook video’s waar ik het in deze uitzending over heb, alsmede afbeeldingen, links enzovoorts. Bovendien is de podcast te beluisteren in [iTunes](https://www.reputatiecoaching.nl/itunes) en op [Stitcher](https://www.reputatiecoaching.nl/stitcher). Daar kun je je dus ook abonneren op de wekelijkse podcast.
+De podcast kun je vinden op [www.reputatiecoaching.nl/114](/nl/archief/reputatiecoaching/114/). Daar vind je niet alleen de tekst, maar ook video’s waar ik het in deze uitzending over heb, alsmede afbeeldingen, links enzovoorts. Bovendien is de podcast te beluisteren in [iTunes](https://web.archive.org/web/*/https://www.reputatiecoaching.nl/itunes) en op [Stitcher](https://web.archive.org/web/*/https://www.reputatiecoaching.nl/stitcher). Daar kun je je dus ook abonneren op de wekelijkse podcast.
 
 Laat ik dan nu overgaan op de onderwerpen voor vandaag…
 
@@ -91,7 +91,7 @@ Vaak kun je een tijdje gratis gebruik maken van de dienst om diverse tests uit t
 
 ## Webinars over problemen en vragen van lezers en luisteraars
 
-[*Historische afbeelding niet beschikbaar: Webinar Internetmarketing voor Fotografen*](https://www.reputatiecoaching.nl/wp-content/uploads/2014/12/Webinar.png)De feedback op de serie van vijf webinars over “Internetmarketing voor Fotografen” was ver boven verwachting. De mensen die de webinars hebben gekeken waren vol lof over de content en de kwaliteit van de inhoud. Ze hebben er allemaal veel van opgestoken en de eerste successen worden nu ook geboekt.
+[*Historische afbeelding niet beschikbaar: Webinar Internetmarketing voor Fotografen*](https://web.archive.org/web/*/https://www.reputatiecoaching.nl/wp-content/uploads/2014/12/Webinar.png)De feedback op de serie van vijf webinars over “Internetmarketing voor Fotografen” was ver boven verwachting. De mensen die de webinars hebben gekeken waren vol lof over de content en de kwaliteit van de inhoud. Ze hebben er allemaal veel van opgestoken en de eerste successen worden nu ook geboekt.
 
 Het leuke is dat twee fotografen inmiddels vanuit de kelder van de lokale resultaten bijna in het 7-pack staan. Dat is het lijstje met zeven lokale bedrijven, gelabeld “A” tot en met “G”.
 
@@ -105,7 +105,7 @@ Kom op! Je hebt vorige week al gehoord dat Herman uit Hazerswoude zijn problemen
 
 ## Terugkoppeling “Haat ons restaurant”
 
-Herinner je je nog het restaurant “Botto Italian Bistro” uit [podcast 95](https://www.reputatiecoaching.nl/95/)? Toen vertelde ik dat dat restaurant het niet eens is de praktijken van Yelp in de Verenigde Staten die bijna lijken op chantage en daarom iedereen vraagt het restaurant te haten op Yelp en te beoordellen met slechts één ster.
+Herinner je je nog het restaurant “Botto Italian Bistro” uit [podcast 95](/nl/archief/reputatiecoaching/095/)? Toen vertelde ik dat dat restaurant het niet eens is de praktijken van Yelp in de Verenigde Staten die bijna lijken op chantage en daarom iedereen vraagt het restaurant te haten op Yelp en te beoordellen met slechts één ster.
 
 In podcast 95 had het restaurant op Yelp maar liefst 1.111 reviews en had het inderdaad maar één ster. Het is duidelijk dat Yelp heeft ingegrepen, want toen ik zojuist ging kijken zag ik dat het restaurant op dit moment op Yelp slechts 115 reviews heeft met een gemiddelde score van drie sterren:
 
@@ -133,7 +133,7 @@ Tenslotte wil ik ten sterkste benadrukken dat dit incident, waar de restaurantho
 
 ## Terugkoppeling analyse bandenbedrijf uit Apeldoorn
 
-Dan een andere terugkoppeling die ik je nog schuldig was vanuit een podcast van vorig jaar. In [podcast 96](https://www.reputatiecoaching.nl/96/) van 2 oktober 2014 vertelde ik je dat ik een korte analyse had gedaan van de site van een autobandenbedrijf uit Apeldoorn. Ook zou ik toen nog eens een avond op bezoek gaan om wat ideeën door te spreken. Daar is het door diverse omstandigheden nooit van gekomen en die afspraak is verplaatst naar het voorjaar. Dus dat is uitgesteld en hou je nog van me tegoed.
+Dan een andere terugkoppeling die ik je nog schuldig was vanuit een podcast van vorig jaar. In [podcast 96](/nl/archief/reputatiecoaching/096/) van 2 oktober 2014 vertelde ik je dat ik een korte analyse had gedaan van de site van een autobandenbedrijf uit Apeldoorn. Ook zou ik toen nog eens een avond op bezoek gaan om wat ideeën door te spreken. Daar is het door diverse omstandigheden nooit van gekomen en die afspraak is verplaatst naar het voorjaar. Dus dat is uitgesteld en hou je nog van me tegoed.
 
 ## Interview met Bill Tancer
 
@@ -219,11 +219,11 @@ Wacht niet te lang. De belangrijkste reden hiervoor is dat ik maar één onderne
 
 Dus, als jij er ook van overtuigd bent dat je naar de top van de lokale zoekresultaten moet stijgen, neem dan contact op. Dan kan ik je vertellen of ik mogelijkheden zie, wat het ongeveer gaat kosten enzovoorts… Nogmaals: wacht niet te lang!
 
-En met deze kleine commercial kom ik dan aan het einde van deze podcast. Ik hoop dat je ook hier weer wat van hebt opgestoken. Laat me eens weten wat jij uit deze podcast hebt meegenomen om iets mee te doen in jouw bedrijf! Reageer onderaan de show notes op [www.reputatiecoaching.nl/114](https://www.reputatiecoaching.nl/114/).
+En met deze kleine commercial kom ik dan aan het einde van deze podcast. Ik hoop dat je ook hier weer wat van hebt opgestoken. Laat me eens weten wat jij uit deze podcast hebt meegenomen om iets mee te doen in jouw bedrijf! Reageer onderaan de show notes op [www.reputatiecoaching.nl/114](/nl/archief/reputatiecoaching/114/).
 
 Als je de podcast leuk vindt en je wilt nog meer op de hoogte blijven, volg me dan ook op Twitter, via [@reputatiecoach1](https://twitter.com/reputatiecoach1).
 
-Heb je inderdaad wat aan alle informatie die ik met je deel, help mij dan met het verder verbeteren en promoten van deze podcast. Surf daarvoor naar [iTunes](https://www.reputatiecoaching.nl/itunes) of [Stitcher](https://www.reputatiecoaching.nl/stitcher), geef de podcast een sterrenbeoordeling en laat ook je reactie achter. Door de podcast te beoordelen op iTunes en/of Stitcher breng je de podcast onder de aandacht van een breder publiek.
+Heb je inderdaad wat aan alle informatie die ik met je deel, help mij dan met het verder verbeteren en promoten van deze podcast. Surf daarvoor naar [iTunes](https://web.archive.org/web/*/https://www.reputatiecoaching.nl/itunes) of [Stitcher](https://web.archive.org/web/*/https://www.reputatiecoaching.nl/stitcher), geef de podcast een sterrenbeoordeling en laat ook je reactie achter. Door de podcast te beoordelen op iTunes en/of Stitcher breng je de podcast onder de aandacht van een breder publiek.
 
 Je kunt me verder helpen, door de podcast aan te bevelen bij vrienden of collega’s, waarvan je denkt dat ze er hun voordeel mee kunnen doen, of door ’m te delen op Twitter, like’n en delen op Facebook of een “+1” te geven op Google+.
 
@@ -231,7 +231,7 @@ En vergeet niet: ik ben hier om je te helpen! Als je een vraag of een probleem h
 
 Als je dat te lastig vindt, of als je de podcast beluistert terwijl je in de auto zit en je hebt acuut een vraag, spreek dan een boodschap in op de ReputatieCoaching Hotline, op nummer: 084 - 883 15 56. Mogelijk behandel ik je vraag of probleem dan in een artikel of in de podcast.
 
-En je kunt ook rechtstreeks op de website een voicemail achterlaten, door op de tab aan de rechterkant van elke pagina te klikken, en je bericht in te spreken. Dit was [ReputatieCoaching Podcast aflevering 114](https://www.reputatiecoaching.nl/114/) en mijn naam is [Eduard de Boer](http://nl.linkedin.com/in/eduarddeboer/nl).
+En je kunt ook rechtstreeks op de website een voicemail achterlaten, door op de tab aan de rechterkant van elke pagina te klikken, en je bericht in te spreken. Dit was [ReputatieCoaching Podcast aflevering 114](/nl/archief/reputatiecoaching/114/) en mijn naam is [Eduard de Boer](http://nl.linkedin.com/in/eduarddeboer/nl).
 
 Ik wens je de komende week weer succes met het werken aan je reputatie, zodat je meteen je reputatie voor jou kunt laten werken!
 
@@ -242,8 +242,8 @@ Doei!
 Links naar content die in deze podcast aan bod komt:
 
 ```
-  * [ReputatieCoaching Podcast in iTunes](https://www.reputatiecoaching.nl/itunes)
-  * [ReputatieCoaching Podcast op Stitcher](https://www.reputatiecoaching.nl/stitcher)
+  * [ReputatieCoaching Podcast in iTunes](https://web.archive.org/web/*/https://www.reputatiecoaching.nl/itunes)
+  * [ReputatieCoaching Podcast op Stitcher](https://web.archive.org/web/*/https://www.reputatiecoaching.nl/stitcher)
   * [ReputatieCoaching Podcast RSS-feed](https://feeds.reputatiecoaching.nl/ReputatieCoachingPodcast)
   * [W3 Total Cache Plugin voor WordPress](https://wordpress.org/plugins/w3-total-cache/)
   * “[What Brands Need To Know About Online Reviews: 5 Questions With NYT Bestselling Author Bill Tancer](http://marketingland.com/brands-need-know-online-reviews-5-questions-nyt-bestselling-author-bill-tancer-116921)” (Marketing Land, 4 februari 2015)

@@ -3,6 +3,8 @@ title: Podcast Aflevering 21 (20-04-2013)
 date: '2013-04-20T22:55:34+00:00'
 description: ReputatieCoaching Podcast aflevering 21! De ReputatieCoaching Podcast wordt populair! Op dit moment zie ik tussen de 100 en 150 downloads per week! _ ** Afgelopen week vroeg iemand mij hoe je een goede domeinnaam moest kiezen, dus daarover meer in deze podcast. Terwijl je naar deze podcast luistert, wordt WordPress aangevallen door een botnet. Dus pas op en blijf zeker luisteren!**_ _ ** En ben je benieuwd naar welk Nederlandse bedrijf de beste reputatie heeft?
 episode: 21
+kgRef: podcast_episode/reputatiecoaching_021
+source_url: https://www.reputatiecoaching.nl/21
 historical: true
 archivePeriod: 2012–2016
 transcriptStatus: full
@@ -17,8 +19,6 @@ showTaxonomies: false
 
 > **Historisch archief.** Deze aflevering verscheen op 20-04-2013 als onderdeel van ReputatieCoaching (2012–2016). De oorspronkelijke tekst is hieronder historisch bewaard. Diensten, contactgegevens, links, tools en adviezen kunnen inmiddels verouderd zijn.
 
-{{< audio src="https://archive.org/download/20130420-reputatie-coaching-podcast-021/20130420-ReputatieCoaching-Podcast-021.mp3" title="ReputatieCoaching Podcast #021" >}}
-
 **Transcriptiestatus:** Volledige transcriptie uit het oorspronkelijke archief.
 
 ***ReputatieCoaching Podcast aflevering 21!***
@@ -31,7 +31,7 @@ De ReputatieCoaching Podcast wordt populair! Op dit moment zie ik tussen de 100 
 
 *Allereerst mijn excuses dat deze podcast wat later is verschenen dan normaal. Het is nu zaterdagavond, half elf en ik ben pas nu de podcast aan het inspreken. Dat kwam doordat onze zoon vandaag jarig is en we vanavond bezoek hadden. Ik kon dus niet eerder de podcast opnemen.*
 
-*Voordat ik overga op het nieuws en de tips voor vandaag wil ik nog even terugblikken naar de podcast van vorige week en dan met name naar het [interview met Philippine Wouters, de community manager van Yelp Nederland](https://www.reputatiecoaching.nl/20/).*
+*Voordat ik overga op het nieuws en de tips voor vandaag wil ik nog even terugblikken naar de podcast van vorige week en dan met name naar het [interview met Philippine Wouters, de community manager van Yelp Nederland](/nl/archief/reputatiecoaching/020/).*
 
 *Ik ben benieuwd of je nu al naar Yelp hebt gekeken en helemaal of je je inmiddels hebt ingeschreven op Yelp. Als dat nog niet het geval is: doe het gewoon en begin met het posten van tips en reviews. Voeg mij ook toe als vriend op Yelp, dan blijven we op de hoogte van elkaars reviews.*
 
@@ -41,13 +41,13 @@ De ReputatieCoaching Podcast wordt populair! Op dit moment zie ik tussen de 100 
 
 *Daarvoor ben ik jullie dus ook heel dankbaar! En ga vooral zo door met het aanbevelen van de podcast aan mensen in je omgeving. Toevallig raakte ik eerder deze week in gesprek met een directrice van een lokaal kinderdagverblijf hier in Apeldoorn en zij gaf meteen te kennen dat ze uitermate geïnteresseerd was in meer kennis en informatie over hoe zij haar kinderdagverblijven beter kan laten vinden om daarmee de reputatie te verbeteren. Dus welkom Rianne als nieuwe luisteraar van de podcast.*
 
-*Nu ik het toch even over de podcast heb: als je deze podcast leuk vindt, laat het me dan weten. Vertel erover aan je familie, vrienden of collega’s of laat een review achter op iTunes. Ook stel ik het op prijs als je een bericht achterlaat op onze Facebookpagina, op: [www.reputatiecoaching.nl/facebook](https://www.reputatiecoaching.nl/facebook). Like dit artikel en deel het op Facebook, of klik op “+1” onderaan dit artikel om het te delen op Google+. Je mag ook een bericht achterlaten op de Google+ pagina. De Google+ pagina kun je vinden op: [www.reputatiecoaching.nl/gplus](https://www.reputatiecoaching.nl/gplus) (dat is “g-p-l-u-s”).*
+*Nu ik het toch even over de podcast heb: als je deze podcast leuk vindt, laat het me dan weten. Vertel erover aan je familie, vrienden of collega’s of laat een review achter op iTunes. Ook stel ik het op prijs als je een bericht achterlaat op onze Facebookpagina, op: [www.reputatiecoaching.nl/facebook](https://web.archive.org/web/*/https://www.reputatiecoaching.nl/facebook). Like dit artikel en deel het op Facebook, of klik op “+1” onderaan dit artikel om het te delen op Google+. Je mag ook een bericht achterlaten op de Google+ pagina. De Google+ pagina kun je vinden op: [www.reputatiecoaching.nl/gplus](https://web.archive.org/web/*/https://www.reputatiecoaching.nl/gplus) (dat is “g-p-l-u-s”).*
 
-*Je kunt natuurlijk ook een leuke recensie achterlaten op op mijn LinkedIn-profiel, op: [www.reputatiecoaching.nl/linkedin](https://www.reputatiecoaching.nl/linkedin).*
+*Je kunt natuurlijk ook een leuke recensie achterlaten op op mijn LinkedIn-profiel, op: [www.reputatiecoaching.nl/linkedin](https://web.archive.org/web/*/https://www.reputatiecoaching.nl/linkedin).*
 
 *Of post simpelweg een reactie, onderaan de transcriptie van deze podcast.*
 
-*Als je opmerkingen hebt over deze podcast, laat die dan op de website onderaan de transcriptie achter. Je kunt de transcriptie van deze podcast snel online vinden door te surfen naar: [www.reputatiecoaching.nl/21/](https://www.reputatiecoaching.nl/21/). Als je ergens een recensie hebt geplaatst, stuur dan een mailtje naar [podcast@reputatiecoaching.nl](mailto:podcast@reputatiecoaching.nl), zodat ik je recensie kan vermelden in de podcast.*
+*Als je opmerkingen hebt over deze podcast, laat die dan op de website onderaan de transcriptie achter. Je kunt de transcriptie van deze podcast snel online vinden door te surfen naar: [www.reputatiecoaching.nl/21/](/nl/archief/reputatiecoaching/021/). Als je ergens een recensie hebt geplaatst, stuur dan een mailtje naar [podcast@reputatiecoaching.nl](mailto:podcast@reputatiecoaching.nl), zodat ik je recensie kan vermelden in de podcast.*
 
 *Wat ook van invloed kan zijn op je reputatie en je vindbaarheid op Internet, is de domeinnaam die je kiest voor je website. Kies je een domeinnaam met streepjes tussen verschillende woorden, dan kan het lastig zijn om de website en gelieerde e-mailadressen te communiceren. En let je even niet op, dan kan jouw domeinnaam opeens ook heel andere bedrijfsactiviteiten suggereren aan je potentiële klanten, of aan de zoekmachines.*
 
@@ -109,7 +109,7 @@ De ReputatieCoaching Podcast wordt populair! Op dit moment zie ik tussen de 100 
   1.
 ```
 
-***Maak backups** – ik kan het niet vaak genoeg herhalen, maar met [BackWPup](https://www.reputatiecoaching.nl/backwpup/) of andere plugins kun je jouw WordPress blog automatisch met een door jou gekozen frequentie op een alternatieve locatie veiligstellen. Als er dan iets gebeurt met je site, hoef je alleen maar de meest recente of een erg recente backup terug te zetten, waarna je meteen weer in business bent.*
+***Maak backups** – ik kan het niet vaak genoeg herhalen, maar met [BackWPup](https://web.archive.org/web/*/https://www.reputatiecoaching.nl/backwpup/) of andere plugins kun je jouw WordPress blog automatisch met een door jou gekozen frequentie op een alternatieve locatie veiligstellen. Als er dan iets gebeurt met je site, hoef je alleen maar de meest recente of een erg recente backup terug te zetten, waarna je meteen weer in business bent.*
 
 ```
   2.

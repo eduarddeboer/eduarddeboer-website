@@ -3,6 +3,8 @@ title: '#005: Recensies op Yelp, Google Maps iPhone, Facebook "in de buurt" en m
 date: '2012-12-31T12:00:37+00:00'
 description: In de laatste podcast van 2012 heb ik nog een paar leuke onderwerpen voor je… Ten eerste iets meer over recensies op Yelp en Google Maps op de iPhone. Ook vertel ik je hoe je 1 miljard YouTube views kunt kwijtraken en dat Instagram jouw foto’s wereldwijd mag gaan verkopen! En ik heb nieuws over de Google Data Highlighter en een leuk speureendje. Hartelijk welkom bij de laatste ReputatieCoaching Podcast van 2012.
 episode: 5
+kgRef: podcast_episode/reputatiecoaching_005
+source_url: https://www.reputatiecoaching.nl/5
 historical: true
 archivePeriod: 2012–2016
 transcriptStatus: full
@@ -17,13 +19,11 @@ showTaxonomies: false
 
 > **Historisch archief.** Deze aflevering verscheen op 31-12-2012 als onderdeel van ReputatieCoaching (2012–2016). De oorspronkelijke tekst is hieronder historisch bewaard. Diensten, contactgegevens, links, tools en adviezen kunnen inmiddels verouderd zijn.
 
-{{< audio src="https://archive.org/download/20121231-reputatie-coaching-podcast-005/20121231-ReputatieCoaching-Podcast-005.mp3" title="ReputatieCoaching Podcast #005" >}}
-
 **Transcriptiestatus:** Volledige transcriptie uit het oorspronkelijke archief.
 
 **In de laatste podcast van 2012 heb ik nog een paar leuke onderwerpen voor je… Ten eerste iets meer over recensies op Yelp en Google Maps op de iPhone. Ook vertel ik je hoe je 1 miljard YouTube views kunt kwijtraken en dat Instagram jouw foto’s wereldwijd mag gaan verkopen! En ik heb nieuws over de Google Data Highlighter en een leuk speureendje.**
 
-[*Historische afbeelding niet beschikbaar: ReputatieCoaching Podcast Aflevering 5 (31-12-2012)*](https://www.reputatiecoaching.nl/wp-content/uploads/2012/12/Reputatie-Coaching-Podcast-logo-200x200.jpg)
+[*Historische afbeelding niet beschikbaar: ReputatieCoaching Podcast Aflevering 5 (31-12-2012)*](https://web.archive.org/web/*/https://www.reputatiecoaching.nl/wp-content/uploads/2012/12/Reputatie-Coaching-Podcast-logo-200x200.jpg)
 
 Hartelijk welkom bij de laatste ReputatieCoaching Podcast van 2012. Vandaag is het 31 december 2012 en vannacht om middernacht begint 2013. Het kan dus zijn dat je af en toe wat knallen op de achtergrond hoort. Ik hoop dat je een goede Kerst hebt gehad en er klaar voor bent om op gepaste wijze afscheid te nemen van het oude jaar. Mijn naam is Eduard de Boer –ook wel bekend als de ReputatieCoach– en ik ben de host voor vandaag!
 
@@ -37,7 +37,7 @@ Al verder lezend over lokale SEO kwam ik meerdere malen tegen dat Google Maps in
 
 De overige onderwerpen van deze podcast op een rijtje:
 
-- [Recensies op Yelp](https://www.reputatiecoaching.nl/recensies-op-yelp/) \* [2 miljard views op YouTube weg…](https://www.reputatiecoaching.nl/2-miljard-views-op-youtube-weg/) \* [Aanpassing Instagram voorwaarden](https://www.reputatiecoaching.nl/aanpassing-instagram-voorwaarden/) \* [Facebook Nearby concurrent voor Google+, Foursquare en Yelp?](https://www.reputatiecoaching.nl/facebook-nearby-concurrent-voor-google-foursquare-en-yelp/) \* [Subdirectories of subdomeinen?](https://www.reputatiecoaching.nl/subdirectories-of-subdomeinen-voor-je-website/) \* [Google Structured Data Highlighter](https://www.reputatiecoaching.nl/google-structured-data-highlighter/) \* [DuckDuckGo](https://www.reputatiecoaching.nl/wiki/duckduckgo/)
+- [Recensies op Yelp](https://web.archive.org/web/*/https://www.reputatiecoaching.nl/recensies-op-yelp/) \* [2 miljard views op YouTube weg…](https://web.archive.org/web/*/https://www.reputatiecoaching.nl/2-miljard-views-op-youtube-weg/) \* [Aanpassing Instagram voorwaarden](https://web.archive.org/web/*/https://www.reputatiecoaching.nl/aanpassing-instagram-voorwaarden/) \* [Facebook Nearby concurrent voor Google+, Foursquare en Yelp?](https://web.archive.org/web/*/https://www.reputatiecoaching.nl/facebook-nearby-concurrent-voor-google-foursquare-en-yelp/) \* [Subdirectories of subdomeinen?](https://web.archive.org/web/*/https://www.reputatiecoaching.nl/subdirectories-of-subdomeinen-voor-je-website/) \* [Google Structured Data Highlighter](https://web.archive.org/web/*/https://www.reputatiecoaching.nl/google-structured-data-highlighter/) \* [DuckDuckGo](https://web.archive.org/web/*/https://www.reputatiecoaching.nl/wiki/duckduckgo/)
 
 [*Historische afbeelding niet beschikbaar: DuckDuckGo*](http://duckduckgo.nl)
 

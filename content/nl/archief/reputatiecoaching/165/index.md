@@ -3,6 +3,8 @@ title: '165: Vermijd NetwerkProfiel van DTG! Gehackte site, wat dan? Onbeperkte 
 date: '2016-04-23T07:26:12+00:00'
 description: '**Eerder deze week was de site van mijn broer gehackt en was hij 924 blogposts kwijt. Dat was wel even schrikken! Ik vertel je zijn relaas. Laatst ontving ik de uitnodiging om mij aan te melden voor de Local Guides Summit in San Francisco in september dit jaar.** Jalwa was jarenlang gratis, maar wordt nu opeens commercieel. Eergisteren kreeg ik voor ’t eerst een mailtje met wat statistieken over mijn foto’s op Google Maps.'
 episode: 165
+kgRef: podcast_episode/reputatiecoaching_165
+source_url: https://www.reputatiecoaching.nl/vermijd-netwerkprofiel-van-dtg-gehackte-site-wat-dan-onbeperkte-opslag-bij-amazon-en-statistieken-van-fotos-op-google-maps/
 historical: true
 archivePeriod: 2012–2016
 transcriptStatus: shownotes
@@ -17,11 +19,9 @@ showTaxonomies: false
 
 > **Historisch archief.** Deze aflevering verscheen op 23-04-2016 als onderdeel van ReputatieCoaching (2012–2016). De oorspronkelijke tekst is hieronder historisch bewaard. Diensten, contactgegevens, links, tools en adviezen kunnen inmiddels verouderd zijn.
 
-{{< audio src="https://archive.org/download/20160421-reputatie-coaching-podcast-165/20160421-ReputatieCoaching-Podcast-165.mp3" title="ReputatieCoaching Podcast #165" >}}
-
 **Transcriptiestatus:** Oorspronkelijke shownotes. Vanaf aflevering 153 werd de podcast niet meer volledig uitgeschreven.
 
-\*\*[*Historische afbeelding niet beschikbaar: ReputatieCoaching Podcast*](https://www.reputatiecoaching.nl/wp-content/uploads/2012/12/Reputatie-Coaching-Podcast-logo-200x200.jpg)Eerder deze week was de site van mijn broer gehackt en was hij 924 blogposts kwijt. Dat was wel even schrikken! Ik vertel je zijn relaas. Laatst ontving ik de uitnodiging om mij aan te melden voor de Local Guides Summit in San Francisco in september dit jaar.\*\*
+\*\*[*Historische afbeelding niet beschikbaar: ReputatieCoaching Podcast*](https://web.archive.org/web/*/https://www.reputatiecoaching.nl/wp-content/uploads/2012/12/Reputatie-Coaching-Podcast-logo-200x200.jpg)Eerder deze week was de site van mijn broer gehackt en was hij 924 blogposts kwijt. Dat was wel even schrikken! Ik vertel je zijn relaas. Laatst ontving ik de uitnodiging om mij aan te melden voor de Local Guides Summit in San Francisco in september dit jaar.\*\*
 
 **Jalwa was jarenlang gratis, maar wordt nu opeens commercieel. Eergisteren kreeg ik voor ’t eerst een mailtje met wat statistieken over mijn foto’s op Google Maps. Daar stond ik behoorlijk van te kijken!**
 

@@ -3,6 +3,8 @@ title: Podcast Aflevering 7 (14-01-2013)
 date: '2013-01-14T22:36:38+00:00'
 description: 'Hallo en welkom bij alweer de zevende ReputatieCoaching Podcast. Zojuist heb ik onze hond uitgelaten voor zijn laatste ronde vandaag en doordat het op dit moment buiten vriest ben ik weer helemaal fris en fruitig! Mijn naam is Eduard de Boer -ook wel bekend als de ReputatieCoach- en ik ben je host voor vandaag! Eerst een overzicht van de onderwerpen waar ik vandaag wat over vertel. Ten eerste: reviews, ten tweede: WordPress 3.'
 episode: 7
+kgRef: podcast_episode/reputatiecoaching_007
+source_url: https://www.reputatiecoaching.nl/7
 historical: true
 archivePeriod: 2012–2016
 transcriptStatus: full
@@ -17,19 +19,17 @@ showTaxonomies: false
 
 > **Historisch archief.** Deze aflevering verscheen op 14-01-2013 als onderdeel van ReputatieCoaching (2012–2016). De oorspronkelijke tekst is hieronder historisch bewaard. Diensten, contactgegevens, links, tools en adviezen kunnen inmiddels verouderd zijn.
 
-{{< audio src="https://archive.org/download/20130114-reputatie-coaching-podcast-aflevering-007/20130114-ReputatieCoaching-Podcast-Aflevering-007.mp3" title="ReputatieCoaching Podcast #007" >}}
-
 **Transcriptiestatus:** Volledige transcriptie uit het oorspronkelijke archief.
 
 **Hallo en welkom bij alweer de zevende ReputatieCoaching Podcast. Zojuist heb ik onze hond uitgelaten voor zijn laatste ronde vandaag en doordat het op dit moment buiten vriest ben ik weer helemaal fris en fruitig! Mijn naam is Eduard de Boer -ook wel bekend als de ReputatieCoach- en ik ben je host voor vandaag!**
 
-[*Historische afbeelding niet beschikbaar: ReputatieCoaching Podcast Aflevering 7 (14-01-2013)*](https://www.reputatiecoaching.nl/podcast-7/)
+[*Historische afbeelding niet beschikbaar: ReputatieCoaching Podcast Aflevering 7 (14-01-2013)*](https://web.archive.org/web/*/https://www.reputatiecoaching.nl/podcast-7/)
 
 Eerst een overzicht van de onderwerpen waar ik vandaag wat over vertel. Ten eerste: reviews, ten tweede: WordPress 3.5 issues en als derde onderwerp: het belang van een eigen Facebook pagina voor je bedrijf. Wat in 2013 nog veel belangrijker wordt, dan het al was in 2012, is video. Dus ik heb ook wat tips voor je, hoe je zou kunnen beginnen met videomarketing. Verder heb ik deze week het verzoek gekregen om een offerte uit te brengen voor een reputatieverbeteringsproject voor een bedrijventerrein ergens in Nederland waar geesten zouden huizen. De podcast van vandaag sluit ik af met een tip, voor het geval je binnenkort op reis gaat met je laptop.
 
-Meer eerst: je kunt helpen met het promoten van de ReputatieCoaching Podcast. Als je wat hebt aan de informatie en je vindt het leuk om naar de podcast te luisteren, laat dan bijvoorbeeld een recensie achter in iTunes, of op Google+. Je kunt onze Google+ pagina vinden op: [www.reputatiecoaching.nl/gplus](https://www.reputatiecoaching.nl/gplus) (dat mag zowel g-p-l-u-s zijn als de letter “g” met een plustekentje). Ook kun je een bericht achterlaten op onze Facebookpagina, die je kunt vinden op: [www.reputatiecoaching.nl/facebook](https://www.reputatiecoaching.nl/facebook/) .
+Meer eerst: je kunt helpen met het promoten van de ReputatieCoaching Podcast. Als je wat hebt aan de informatie en je vindt het leuk om naar de podcast te luisteren, laat dan bijvoorbeeld een recensie achter in iTunes, of op Google+. Je kunt onze Google+ pagina vinden op: [www.reputatiecoaching.nl/gplus](https://web.archive.org/web/*/https://www.reputatiecoaching.nl/gplus) (dat mag zowel g-p-l-u-s zijn als de letter “g” met een plustekentje). Ook kun je een bericht achterlaten op onze Facebookpagina, die je kunt vinden op: [www.reputatiecoaching.nl/facebook](https://web.archive.org/web/*/https://www.reputatiecoaching.nl/facebook/) .
 
-Geef gerust een recensie. En als je opmerkingen hebt over deze podcast, laat dan op de website onderaan de transcriptie je reactie of opmerkingen achter. Je kunt de podcast snel online vinden door te surfen naar: [www.reputatiecoaching.nl/podcast-7](https://www.reputatiecoaching.nl/podcast-7/) .
+Geef gerust een recensie. En als je opmerkingen hebt over deze podcast, laat dan op de website onderaan de transcriptie je reactie of opmerkingen achter. Je kunt de podcast snel online vinden door te surfen naar: [www.reputatiecoaching.nl/podcast-7](https://web.archive.org/web/*/https://www.reputatiecoaching.nl/podcast-7/) .
 
 Reviews zijn niet alleen belangrijk om te scoren in de zoekmachines, maar nog belangrijker voor je reputatie. Ik kan het niet vaak genoeg zeggen. Dus ik adviseer niet alleen mijn opdrachtgevers om recensies of reviews te verzamelen op diverse sites, ik vraag jullie als luisteraars van de podcast en lezers van het weblog ook om een recensie te posten.
 
@@ -41,7 +41,7 @@ En naar aanleiding van de instructievideo over het instellen van Google Authorsh
 
 De onderwerpen van deze podcast op een rijtje:
 
-- [Vanity URL voor je Facebookpagina](https://www.reputatiecoaching.nl/vanity-url-voor-je-facebookpagina/) \* [2013 wordt het jaar van de video](https://www.reputatiecoaching.nl/2013-wordt-het-jaar-van-de-video/)
+- [Vanity URL voor je Facebookpagina](https://web.archive.org/web/*/https://www.reputatiecoaching.nl/vanity-url-voor-je-facebookpagina/) \* [2013 wordt het jaar van de video](https://web.archive.org/web/*/https://www.reputatiecoaching.nl/2013-wordt-het-jaar-van-de-video/)
 
 Reviews zijn echt van essentieel belang! Dus als jij nog geen recensies van je klanten of patiënten verzamelt: begin er nu nog aan! De komende tijd zul je die steeds meer nodig hebben om nog gevonden te worden in de zoekmachines.
 
@@ -78,4 +78,4 @@ Doei!
 
 Hieronder het overzicht van de links die in de podcast aan bod komen:
 
-- [PreyProject](http://www.preyproject.com) \* [The Easiest Way to a First-Page Ranking on Google](http://blogs.forrester.com/interactive_marketing/2009/01/the-easiest-way.html) (Forrester, 8 januari 2009) \* [YubiKey](https://www.reputatiecoaching.nl/yubikey/) \* [LastPass](https://www.reputatiecoaching.nl/lastpass/) \* [KeePass](https://www.reputatiecoaching.nl/keepass/)
+- [PreyProject](http://www.preyproject.com) \* [The Easiest Way to a First-Page Ranking on Google](http://blogs.forrester.com/interactive_marketing/2009/01/the-easiest-way.html) (Forrester, 8 januari 2009) \* [YubiKey](https://web.archive.org/web/*/https://www.reputatiecoaching.nl/yubikey/) \* [LastPass](https://web.archive.org/web/*/https://www.reputatiecoaching.nl/lastpass/) \* [KeePass](https://web.archive.org/web/*/https://www.reputatiecoaching.nl/keepass/)

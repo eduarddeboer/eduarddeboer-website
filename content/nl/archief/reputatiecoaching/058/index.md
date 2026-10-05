@@ -3,6 +3,8 @@ title: '58: Google Publishership voor meer exposure, robots.txt, interviews als 
 date: '2014-01-06T07:30:49+00:00'
 description: Allereerst nog de beste wensen voor 2014! Ik wens je een fantastisch jaar met een immer toenemende positieve reputatie! ** Waar ik benieuwd naar ben is of je de jaarwisseling goed bent doorgekomen en ook ben ik nieuwsgierig of jij nog goede voornemens hebt. Zelf heb ik niets met het bepalen van goede voornemens op 1 januari. Ik vind namelijk dat je continu bezig moet zijn met jezelf te verbeteren; volgens mij zou dat een ongoing proces moeten zijn.
 episode: 58
+kgRef: podcast_episode/reputatiecoaching_058
+source_url: https://www.reputatiecoaching.nl/58
 historical: true
 archivePeriod: 2012–2016
 transcriptStatus: full
@@ -16,8 +18,6 @@ showTaxonomies: false
 ---
 
 > **Historisch archief.** Deze aflevering verscheen op 6-01-2014 als onderdeel van ReputatieCoaching (2012–2016). De oorspronkelijke tekst is hieronder historisch bewaard. Diensten, contactgegevens, links, tools en adviezen kunnen inmiddels verouderd zijn.
-
-{{< audio src="https://archive.org/download/20140106-reputatie-coaching-podcast-058/20140106-ReputatieCoaching-Podcast-058.mp3" title="ReputatieCoaching Podcast #058" >}}
 
 **Transcriptiestatus:** Volledige transcriptie uit het oorspronkelijke archief.
 
@@ -36,9 +36,9 @@ Hartelijk welkom bij deze eerste aflevering van de ReputatieCoaching Podcast van
 
 Als persoon kun je met de diverse tips aan de slag om bijvoorbeeld je online reputatie als waarzegger, toneelschrijver, ornitoloog, geodeet, horlogemaker of wat dan ook te verbeteren.
 
-Ik heb ook jouw hulp en feedback nodig, zodat ik precies díe inhoud kan brengen, waar jij behoefte aan hebt en wat jou kan helpen om jouw bedrijf in 2014 naar “the next level” te brengen. Als je vragen hebt naar aanleiding van deze podcast kun je achterlaten onderaan de show notes, die je kunt vinden op [www.reputatiecoaching.nl/58](https://www.reputatiecoaching.nl/58/).
+Ik heb ook jouw hulp en feedback nodig, zodat ik precies díe inhoud kan brengen, waar jij behoefte aan hebt en wat jou kan helpen om jouw bedrijf in 2014 naar “the next level” te brengen. Als je vragen hebt naar aanleiding van deze podcast kun je achterlaten onderaan de show notes, die je kunt vinden op [www.reputatiecoaching.nl/58](/nl/archief/reputatiecoaching/058/).
 
-Wat ik ook enorm zou waarderen, is als je een beoordeling of review achterlaat, op iTunes door te surfen naar [www.reputatiecoaching.nl/review](https://www.reputatiecoaching.nl/review/) of een recensie te schrijven op LinkedIn.
+Wat ik ook enorm zou waarderen, is als je een beoordeling of review achterlaat, op iTunes door te surfen naar [www.reputatiecoaching.nl/review](https://web.archive.org/web/*/https://www.reputatiecoaching.nl/review/) of een recensie te schrijven op LinkedIn.
 
 ## Google Publishership
 
@@ -46,7 +46,7 @@ Ik zei het al: het eerste onderwerp voor vandaag is Google Publishership. Google
 
 Laat ik eerst het verschil uitleggen tussen deze twee termen. Google Authorship is een mechanisme dat is bedoeld voor individuele auteurs c.q. bloggers of schrijvers, om aan Google kenbaar te maken dat je de auteur van een bepaalde blogpost bent. Het is dan ook echt bedoeld voor blog posts en artikelen, beslist niet voor de homepagina van je site, de contactpagina of productpagina’s.
 
-Nee, het mag volgens de richtlijnen van Google alleen worden gebruikt voor artikel-achtige content. In het verleden heb ik het al vaker gehad over Google Authorship. Het enige wat ik nog wel even extra wil benadrukken, is dat je Google Authorship per artikel of blogpost moet aangeven. Mocht je meer willen weten over Google Authorship, dan is de instructievideo “[Google Authorship instellen](https://www.reputatiecoaching.nl/wiki/google-authorship/)” een goed startpunt. Verder wil ik er in deze podcast niet induiken.
+Nee, het mag volgens de richtlijnen van Google alleen worden gebruikt voor artikel-achtige content. In het verleden heb ik het al vaker gehad over Google Authorship. Het enige wat ik nog wel even extra wil benadrukken, is dat je Google Authorship per artikel of blogpost moet aangeven. Mocht je meer willen weten over Google Authorship, dan is de instructievideo “[Google Authorship instellen](https://web.archive.org/web/*/https://www.reputatiecoaching.nl/wiki/google-authorship/)” een goed startpunt. Verder wil ik er in deze podcast niet induiken.
 
 Google Publishership daarentegen is bedoeld voor bedrijven, om aan te geven dat zij de uitgever zijn van een bepaalde *website*. Daarom hoef je Google Publishership ook maar alleen op de voorpagina of hoofdpagina van je website aan te geven. Sterker nog: je mag van Google niet eens Publishership claimen op onderliggende pagina’s! Ik weet niet of je ervoor gestraft wordt, maar het is in elk geval niet de bedoeling.
 
@@ -62,7 +62,7 @@ Want waar ik naartoe wil, is wat dit Publishership je kan brengen. Want als je h
 
 [![Exposure voor Allround Fotografie](20140106-AllroundFotografie.png)](https://lh5.googleusercontent.com/-9ZUWivt5NpU/UspT6KUvBeI/AAAAAAAAASA/Ow6c0HEMSp0/w1061-h936-no/20140106-AllroundFotografie.png)
 
-Over de show notes… Je kunt de volledige transcriptie van deze podcast vinden op [www.reputatiecoaching.nl/58](https://www.reputatiecoaching.nl/58/). Daar vind je bovendien ook afbeeldingen, video’s en links naar achterliggende artikelen waar ik het in deze podcast over heb.
+Over de show notes… Je kunt de volledige transcriptie van deze podcast vinden op [www.reputatiecoaching.nl/58](/nl/archief/reputatiecoaching/058/). Daar vind je bovendien ook afbeeldingen, video’s en links naar achterliggende artikelen waar ik het in deze podcast over heb.
 
 Terugkomend op Publishership: als je dit werkend hebt, dan krijg je aan de rechterkant van de zoekresultaten dus een blok dat lijkt op wat ik in de show notes heb opgenomen. Hierin staat de profielfoto met een link naar andere foto’s die je op je Google+ pagina hebt gepost, evenals een kleine versie van de kaart die je bedrijfslocatie aangeeft en mogelijk ook de “Streetview”-link, of een link om dankzij een bedrijfspanorama bij een bedrijf binnen te kijken.
 
@@ -214,9 +214,9 @@ Als je de podcast leuk vindt en je hebt inderdaad wat aan alle informatie die ik
 
 Als je een vraag of een probleem hebt met betrekking tot je online reputatie of de vindbaarheid van je website, kun je een mailtje sturen naar [podcast@reputatiecoaching.nl](mailto:podcast@reputatiecoaching.nl). Als je dat te lastig vindt, of als je de podcast beluistert terwijl je in de auto zit en je hebt acuut een vraag, spreek dan een boodschap in op de ReputatieCoaching Hotline, op nummer: 084 - 883 15 56. Mogelijk behandel ik je vraag of probleem dan in een artikel of in de podcast.
 
-Als laatste kun je je ook inschrijven voor de nieuwsbrief. Dan ontvang je altijd als eerste het laatste nieuws wat ik publiceer en automatisch elk kwartaal het ReputatieCoaching Podcast Boek van het afgelopen kwartaal. Surf daartoe naar [www.reputatiecoaching.nl/nieuwsbrief/](https://www.reputatiecoaching.nl/nieuwsbrief/) en schrijf je meteen in.
+Als laatste kun je je ook inschrijven voor de nieuwsbrief. Dan ontvang je altijd als eerste het laatste nieuws wat ik publiceer en automatisch elk kwartaal het ReputatieCoaching Podcast Boek van het afgelopen kwartaal. Surf daartoe naar [www.reputatiecoaching.nl/nieuwsbrief/](https://web.archive.org/web/*/https://www.reputatiecoaching.nl/nieuwsbrief/) en schrijf je meteen in.
 
-En je kunt ook rechtstreeks op de website een voicemail achterlaten, door op de tab aan de rechterkant van elke pagina te klikken, en je bericht in te spreken. Dit was [ReputatieCoaching Podcast aflevering 58](https://www.reputatiecoaching.nl/58/) en mijn naam is [Eduard de Boer](http://nl.linkedin.com/in/eduarddeboer/nl).
+En je kunt ook rechtstreeks op de website een voicemail achterlaten, door op de tab aan de rechterkant van elke pagina te klikken, en je bericht in te spreken. Dit was [ReputatieCoaching Podcast aflevering 58](/nl/archief/reputatiecoaching/058/) en mijn naam is [Eduard de Boer](http://nl.linkedin.com/in/eduarddeboer/nl).
 
 Ik wens je de komende week weer succes met het werken aan je reputatie, zodat je meteen je reputatie voor jou kunt laten werken!
 

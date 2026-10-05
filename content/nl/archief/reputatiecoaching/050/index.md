@@ -3,6 +3,8 @@ title: '50: Google review score van 4,6? Meer over Google+ vanity URLs, Hyves te
 date: '2013-11-11T06:30:30+00:00'
 description: Hallo, leuk dat je erbij bent om te luisteren naar deze 50e aflevering van de ReputatieCoaching Podcast! Vandaag is het 11 november, de 315e dag van 2013. We hebben na vandaag nog 50 dagen te gaan en dan is alweer 2014. Vandaag is het Sint Maarten, vernoemd naar Martinus van Tours. Ook is het een feestdag op het eiland Sint Maarten, omdat het op 11 november 1493 door Columbus zou zijn ontdekt.
 episode: 50
+kgRef: podcast_episode/reputatiecoaching_050
+source_url: https://www.reputatiecoaching.nl/50
 historical: true
 archivePeriod: 2012–2016
 transcriptStatus: full
@@ -16,8 +18,6 @@ showTaxonomies: false
 ---
 
 > **Historisch archief.** Deze aflevering verscheen op 11-11-2013 als onderdeel van ReputatieCoaching (2012–2016). De oorspronkelijke tekst is hieronder historisch bewaard. Diensten, contactgegevens, links, tools en adviezen kunnen inmiddels verouderd zijn.
-
-{{< audio src="https://archive.org/download/20131111-reputatie-coaching-podcast-050/20131111-ReputatieCoaching-Podcast-050.mp3" title="ReputatieCoaching Podcast #050" >}}
 
 **Transcriptiestatus:** Volledige transcriptie uit het oorspronkelijke archief.
 
@@ -38,7 +38,7 @@ Tenslotte heb ik wederom twee educatieve video’s van Matt Cutts. De ene video 
 
 Frank Grootaarts is eigenaar van Grootaarts Euronics, een electronicawinkel in Nijmegen. Dat is tenminste de informatie die ik over zijn bedrijf op zijn Zakelijke Google+ pagina zie. En gelukkig klopt dat met wat ik ook op zijn website [www.grootaarts-nijmegen.nl](http://www.grootaarts-nijmegen.nl) aan content aantref.
 
-Frank is een trouwe luisteraar van de podcast en hij stelde in [podcast 37](https://www.reputatiecoaching.nl/37/) de vraag hoe hij zijn [bedrijf op Apple Maps](https://www.reputatiecoaching.nl/4/) vermeld kon krijgen. Toen heb ik Frank verteld dat je je bedrijf in elk geval zowel moet aanmelden op Yelp, als op TomTom Places, om zo snel mogelijk op Apple kaarten te komen. Inmiddels heb ik geleerd dat er ook nog andere manieren zijn, maar daar wil ik je verder niet mee vermoeien.
+Frank is een trouwe luisteraar van de podcast en hij stelde in [podcast 37](/nl/archief/reputatiecoaching/037/) de vraag hoe hij zijn [bedrijf op Apple Maps](/nl/archief/reputatiecoaching/004/) vermeld kon krijgen. Toen heb ik Frank verteld dat je je bedrijf in elk geval zowel moet aanmelden op Yelp, als op TomTom Places, om zo snel mogelijk op Apple kaarten te komen. Inmiddels heb ik geleerd dat er ook nog andere manieren zijn, maar daar wil ik je verder niet mee vermoeien.
 
 Het bericht van Frank Grootaarts uit Nijmegen op onze Facebookpagina was als volgt:
 
@@ -64,7 +64,7 @@ Het is heel verstandig om de reviews te spreiden, om zodoende niet op één paar
 
 Mijn advies is: blijf ze spreiden!
 
-De overige vragen behandel ik in de komende podcast, nummer 50. Die kun je vanaf maandag 11 november om 08:30 uur vinden op: [www.reputatiecoaching.nl/50/](https://www.reputatiecoaching.nl/50/)
+De overige vragen behandel ik in de komende podcast, nummer 50. Die kun je vanaf maandag 11 november om 08:30 uur vinden op: [www.reputatiecoaching.nl/50/](/nl/archief/reputatiecoaching/050/)
 
 In die podcast heb ik ook nog een paar extra bonustips voor je, waar je je voordeel mee kunt doen.
 
@@ -82,7 +82,7 @@ Toen ik dat eerder deze week intypte, zag ik meteen jouw bedrijf eruit springen 
 
 Ik ben benieuwd of je inmiddels ook al wat meer verkeer op je website ziet. In de show notes heb ik voor de andere luisteraars een screenshot opgenomen:
 
-[*Historische afbeelding niet beschikbaar: 20131105-Electronica-Nijmegen-local*](https://www.reputatiecoaching.nl/wp-content/uploads/2013/11/20131105-Electronica-Nijmegen-local.png)
+[*Historische afbeelding niet beschikbaar: 20131105-Electronica-Nijmegen-local*](https://web.archive.org/web/*/https://www.reputatiecoaching.nl/wp-content/uploads/2013/11/20131105-Electronica-Nijmegen-local.png)
 
 Eerst het antwoord op je vraag, hoe Google aan de 4,6 komt. Op je Google+ Zakelijke pagina zie ik dat je 3 beoordelingen van 5 sterren hebt ontvangen en twee van 4 sterren. Dat is bij elkaar 23. En als je dan het gemiddelde bepaalt (23 gedeeld door 5) levert dat 4,6. Dat is ontzettend goed!
 
@@ -112,21 +112,21 @@ Welnu, dat laatste doe je heel goed en moet je vooral mee door blijven gaan. Maa
 Dan heb ik nog een paar praktische tips, waar je verder je voordeel mee kunt doen, Frank:
 
 ```
-  1. **Claim je Google+ vanity URL zo snel mogelijk** – Als je snel bent, kun je nog +grootaarts claimen, omdat je de website grootaarts.com, bij je zakelijke Google+ pagina hebt vermeld. Als je de .nl-domainnaam zou hebben gebruikt, zou zo ongeveer de enig mogelijke vanity URL zijn: +grootaartseuronicsnl . Dat is niet bijster gemakkelijk te communiceren, dus volgens mij is +Grootaarts het beste. Hoe je dit moet doen, kun je in het artikel “[Google+ vanity URL claimen](https://www.reputatiecoaching.nl/google-vanity-url-claimen/)” op de ReputatieCoaching website vinden. In de show notes heb ik een link er naartoe opgenomen. Ook in de [vorige podcast](https://www.reputatiecoaching.nl/nieuwsbrief/) heb ik er nog iets meer over verteld.
+  1. **Claim je Google+ vanity URL zo snel mogelijk** – Als je snel bent, kun je nog +grootaarts claimen, omdat je de website grootaarts.com, bij je zakelijke Google+ pagina hebt vermeld. Als je de .nl-domainnaam zou hebben gebruikt, zou zo ongeveer de enig mogelijke vanity URL zijn: +grootaartseuronicsnl . Dat is niet bijster gemakkelijk te communiceren, dus volgens mij is +Grootaarts het beste. Hoe je dit moet doen, kun je in het artikel “[Google+ vanity URL claimen](https://web.archive.org/web/*/https://www.reputatiecoaching.nl/google-vanity-url-claimen/)” op de ReputatieCoaching website vinden. In de show notes heb ik een link er naartoe opgenomen. Ook in de [vorige podcast](https://web.archive.org/web/*/https://www.reputatiecoaching.nl/nieuwsbrief/) heb ik er nog iets meer over verteld.
   2. **Gebruik 1 company URL** – Ik zie dat je tenminste twee URL’s in de markt zet: zowel grootaarts.com, als grootaarts-nijmegen.nl. Voor het beste resultaat, adviseer ik je te kiezen voor eentje. Ik zou gaan voor grootaarts.com. Dat levert je namelijk op Google+ de mooiste (en tevens korte) vanity URL op!
   3. **Foto’s, foto’s en meer foto’s!** – Leuk je verschillende profielen en vermeldingen overal op met foto’s en waar mogelijk met het logo van je bedrijf. Dat doet het goed voor wat betreft het doorklikken naar jouw content.
   4. **Laat een Google Bedrijfspanorama maken** – Niet omdat ik toevallig een vertrouwde Google Bedrijfsfotograaf ben… (nou ja, wel een beetje), maar je concurrent “Technica” heeft al een [bedrijfspanorama](http://www.bedrijfspanoramas.nl) op Google Maps en op zijn Zakelijke Google+ pagina staan. Bij hen zie je dus in de lokale zoekresultaten al de tekst “Binnenkijken” staan. De overige concurrenten in de lijst van “C” tot en met “G” hebben nog geen bedrijfspanorama. Neem even contact met me op, als je daar interesse voor hebt.
   5. **Claim en verifieer je Zakelijke Google+ pagina** – Als je dat doet, ontvang je van Google+ een 6-cijferige PIN-code om je eigenaarschap te verifiëren. Wanneer je die PIN-code hebt ingetypt, verschijnt er een V-tje ofwel een ‘vinkje’ naast je bedrijfsnaam op Google+.
   6. **Pimp je Zakelijke Google+ pagina** – Als je een bedrijfspanorama laat maken, krijg je sowieso een aantal mooie foto’s van je bedrijf die je zou kunnen gebruiken voor het pimpen van je Google+ pagina. Ik zou zowel een mooie omslagfoto van bijvoorbeeld de voorgevel van je winkel posten, als een foto van jou zelf als bedrijfseigenaar. Die verschijnt dan links in het rondje.
-  7. **Vul ook je eigen Google+ profiel** – Want als ik nu op Google+ zoek op “Frank Grootaarts”, zie ik er vier vermeld staan, allevier zonder foto. Dat maakt de juiste selecteren wel erg lastig. Bovendien kun je Google Authorship instellen voor je website, als je een foto bij je Google+ profiel hebt staan. In het artikel “[Click Through Rate (CTR) verhogen met goede foto’s](https://www.reputatiecoaching.nl/click-through-rate-ctr-verhogen-met-goede-fotos/)” kun je nalezen wat het effect kan zijn van goede foto’s en in de “[Instructievideo voor het instellen van Google Authorship](https://www.reputatiecoaching.nl/wiki/google-authorship/)” is te zien hoe je Google Authorship instelt.
+  7. **Vul ook je eigen Google+ profiel** – Want als ik nu op Google+ zoek op “Frank Grootaarts”, zie ik er vier vermeld staan, allevier zonder foto. Dat maakt de juiste selecteren wel erg lastig. Bovendien kun je Google Authorship instellen voor je website, als je een foto bij je Google+ profiel hebt staan. In het artikel “[Click Through Rate (CTR) verhogen met goede foto’s](https://web.archive.org/web/*/https://www.reputatiecoaching.nl/click-through-rate-ctr-verhogen-met-goede-fotos/)” kun je nalezen wat het effect kan zijn van goede foto’s en in de “[Instructievideo voor het instellen van Google Authorship](https://web.archive.org/web/*/https://www.reputatiecoaching.nl/wiki/google-authorship/)” is te zien hoe je Google Authorship instelt.
   8. **Ga videoreviews / videoinstructies publiceren** – Ik zou unboxing video’s gaan maken van je producten, evenals videoreviews en -beoordelingen in combinatie met videoinstructies. Ook zou je andersoortige video’s kunnen maken. Dit kost je wat werk, maar als je het goed doet, kun je je video’s wellicht goed laten scoren in de zoekresultaten om zo ook verkeer naar je site te trekken. Er staan grappig genoeg nog amper video’s online van producten uit jouw assortiment. Ik heb er snel even een paar gecontroleerd, en ik denk écht dat daar kansen liggen!
 ```
 
-Als er vraag naar is over hoe je video’s goed kunt laten ranken in de zoekresultaten, wil ik daar wel eens een webinar over organiseren, waarin ik dat uitleg. Ik kan je in elk geval vertellen dat het vaak relatief eenvoudig is om video’s hoog te laten ranken. Willen jullie weten hoe je je video’s goed kunt laten scoren, reageer dan onderaan de show notes van deze 50e podcast, die je kunt vinden op [www.reputatiecoaching.nl/50/](https://www.reputatiecoaching.nl/50/).
+Als er vraag naar is over hoe je video’s goed kunt laten ranken in de zoekresultaten, wil ik daar wel eens een webinar over organiseren, waarin ik dat uitleg. Ik kan je in elk geval vertellen dat het vaak relatief eenvoudig is om video’s hoog te laten ranken. Willen jullie weten hoe je je video’s goed kunt laten scoren, reageer dan onderaan de show notes van deze 50e podcast, die je kunt vinden op [www.reputatiecoaching.nl/50/](/nl/archief/reputatiecoaching/050/).
 
 ## Hoe claim je een andere Google+ vanity URL?
 
-Als tweede vraag die van Bart de Boer uit Eerbeek. Bart is –net als ik– een vertrouwde Google Bedrijfsfotograaf. Zijn bedrijfsnaam is foto2b.nl. Naar aanleiding van mijn artikel over [claimen van je Google+ vanity URL](https://www.reputatiecoaching.nl/google-vanity-url-claimen/) meldde hij me dat hij alleen maar kon kiezen uit +Foto2bNL of +Foto2BEerbeek. Verder had hij geen keus, terwijl hij juist vanwege zijn Google bedrijfsfotografieactiviteiten +Foto2B360 als vanity URL wilde.
+Als tweede vraag die van Bart de Boer uit Eerbeek. Bart is –net als ik– een vertrouwde Google Bedrijfsfotograaf. Zijn bedrijfsnaam is foto2b.nl. Naar aanleiding van mijn artikel over [claimen van je Google+ vanity URL](https://web.archive.org/web/*/https://www.reputatiecoaching.nl/google-vanity-url-claimen/) meldde hij me dat hij alleen maar kon kiezen uit +Foto2bNL of +Foto2BEerbeek. Verder had hij geen keus, terwijl hij juist vanwege zijn Google bedrijfsfotografieactiviteiten +Foto2B360 als vanity URL wilde.
 
 Ik heb hem verteld over de beperkingen die Google aan de vanity URL’s heeft gesteld. Alleen domeinnamen die eindigen op .com kunnen iets kiezen zonder COM erachter. Alle landspecifieke domeinnamen krijgen geforceerd bijvoorbeeld BE, DE of NL aan het einde van de vanity URL. Dat was althans wat ik had begrepen. Maar het bleek dus dat Bart ook Eerbeek erachter mocht kiezen. Ik denk dat dat komt doordat Eerbeek natuurlijk een unieke suffix is, die verder niet voorkomt.
 
@@ -157,7 +157,7 @@ In de screenshot met mijn persoonlijke URL zie je overigens dat Google echt goog
 
 ## Hyves wordt een Games netwerk
 
-[*Historische afbeelding niet beschikbaar: RIP-Hyves-2013*](https://www.reputatiecoaching.nl/wp-content/uploads/2013/11/RIP-Hyves-2013.png)Hyves is opgericht in september 2004 en pas toen Hyves al een paar jaar operationeel was, heb ik me ooit ook aangemeld. Net zoals met een aantal andere sociale netwerken, wilde ik het uitproberen en heb een relatief korte tijd persoonlijke updates et cetera gepost, maar het daarna voor persoonlijke contacten al snel verlaten. Op dat moment was ik echter nog niet actief op Facebook, dat kwam pas later.
+[*Historische afbeelding niet beschikbaar: RIP-Hyves-2013*](https://web.archive.org/web/*/https://www.reputatiecoaching.nl/wp-content/uploads/2013/11/RIP-Hyves-2013.png)Hyves is opgericht in september 2004 en pas toen Hyves al een paar jaar operationeel was, heb ik me ooit ook aangemeld. Net zoals met een aantal andere sociale netwerken, wilde ik het uitproberen en heb een relatief korte tijd persoonlijke updates et cetera gepost, maar het daarna voor persoonlijke contacten al snel verlaten. Op dat moment was ik echter nog niet actief op Facebook, dat kwam pas later.
 
 Maar ik heb het wel lange tijd gebruikt voor AllroundFotografie: zo bleef ik in contact met gefotografeerde bruidsparen en andere opdrachtgevers en postte ik foto’s en flitsende diashows van fotoreportages. In de hoogtijdagen van Hyves scoorde de content die je daar postte ook heel goed in de zoekmachines. Maar sinds de populariteit van Facebook ook in Nederland serieuze vormen aannam, ging het snel bergafwaarts met Hyves. Dat is dan ook de reden dat Hyves het roer omgooit.
 
@@ -166,7 +166,7 @@ Hyves wordt een Games netwerk en stopt met het sociale netwerk. Je kunt al je co
 Vanaf 2 december heb je geen toegang meer tot je Hyves profiel en netwerkpagina’s. Er kunnen dus geen krabbels of status updates meer geplaatst worden of foto’s en blogs gedeeld worden.
 Actieve Hyves gamers kunnen vanaf 2 december blijven inloggen met hun Hyves account. Zodoende blijft de spelstatus (je voortgang en credits) behouden.
 
-Meer hierover kun je lezen op de site van Hyves, waarvan ik de link onderaan in de show notes heb opgenomen. Deze show notes vind je op [www.reputatiecoaching.nl/50/](https://www.reputatiecoaching.nl/50/).
+Meer hierover kun je lezen op de site van Hyves, waarvan ik de link onderaan in de show notes heb opgenomen. Deze show notes vind je op [www.reputatiecoaching.nl/50/](/nl/archief/reputatiecoaching/050/).
 
 ## Nieuwe Facebook “Like” Google+ Share buttons
 
@@ -174,7 +174,7 @@ Facebook kondigde eerder deze week een nieuwe “Like” button aan. De welbeken
 
 In de show notes vind je diverse afbeeldingen van de nieuwe “Like” en “Share” buttons van Facebook:
 
-[*Historische afbeelding niet beschikbaar: new-like-share-button-collage*](https://www.reputatiecoaching.nl/wp-content/uploads/2013/11/new-like-share-button-collage.jpg)
+[*Historische afbeelding niet beschikbaar: new-like-share-button-collage*](https://web.archive.org/web/*/https://www.reputatiecoaching.nl/wp-content/uploads/2013/11/new-like-share-button-collage.jpg)
 
 Terwijl Facebook dit met aardig wat tam-tam aankondigde, veranderde Google+ ook haar “Share” button, maar dan in alle stilte. Paul Lindner van Google postte het volgende bericht:
 
@@ -204,7 +204,7 @@ Eerder deze week kondigde YouTube aan, dat je van deze nieuwe features gebruik k
 
 ## Matt Cutts: schema.org bij video’s van YouTube?
 
-De eerste video van Matt Cutts van vandaag gaat over schema.org in relatie tot video’s. [Schema.org](http://schema.org) is een manier om in website content aan te geven waar het over gaat. Daarmee geef je dus zoekmachines meer informatie over in dit geval bijvoorbeeld video’s. Maar ook [Google Authorship](https://www.reputatiecoaching.nl/wiki/google-authorship/) is een vorm van markup.
+De eerste video van Matt Cutts van vandaag gaat over schema.org in relatie tot video’s. [Schema.org](http://schema.org) is een manier om in website content aan te geven waar het over gaat. Daarmee geef je dus zoekmachines meer informatie over in dit geval bijvoorbeeld video’s. Maar ook [Google Authorship](https://web.archive.org/web/*/https://www.reputatiecoaching.nl/wiki/google-authorship/) is een vorm van markup.
 
 [*Historische afbeelding niet beschikbaar: schema-org*](http://schema.org)
 
@@ -222,15 +222,15 @@ Maar je moet je verder geen zorgen maken of het één beter is dan het ander. He
 
 Met deze twee video’s kom ik dan weer aan het einde van deze 50e podcast. Doordat ik twee vragen heb beantwoord kwam ik iets minder toe aan het nieuws van afgelopen week. Er waren op zich wel wat interessante zaken te melden, maar die kunnen ook wachten tot volgende week of een andere podcast.
 
-Waar ik echter wel benieuwd naar ben, is wat jij als luisteraar leuker vindt: nieuws, het beantwoorden van vragen, of een mix van beide. Laat het me weten en post je reactie onderaan de show notes op: [www.reputatiecoaching.nl/50/](https://www.reputatiecoaching.nl/50/).
+Waar ik echter wel benieuwd naar ben, is wat jij als luisteraar leuker vindt: nieuws, het beantwoorden van vragen, of een mix van beide. Laat het me weten en post je reactie onderaan de show notes op: [www.reputatiecoaching.nl/50/](/nl/archief/reputatiecoaching/050/).
 
 Als je de podcast leuk vindt en je hebt inderdaad wat aan alle informatie die ik met je deel, help mij dan met het verder verbeteren en promoten van deze podcast. Deel ‘m op Twitter, like ‘m op Facebook of geef een “+1” op Google+. Het zou helemaal super zijn, als je een bericht achterlaat op iTunes of LinkedIn.
 
 Als je een vraag of een probleem hebt met betrekking tot je online reputatie of de vindbaarheid van je website, kun je een mailtje sturen naar [podcast@reputatiecoaching.nl](mailto:podcast@reputatiecoaching.nl). Als je dat te lastig vindt, of als je de podcast beluistert terwijl je in de auto zit en je hebt acuut een vraag, spreek dan een boodschap in op de ReputatieCoaching Hotline, op nummer: 084 - 883 15 56. Mogelijk behandel ik je vraag of probleem dan in een artikel of in de podcast.
 
-Als laatste kun je je ook inschrijven voor de nieuwsbrief. Dan ontvang je altijd als eerste het laatste nieuws wat ik publiceer en automatisch elk kwartaal het ReputatieCoaching Podcast Boek van het afgelopen kwartaal. Surf daartoe naar [www.reputatiecoaching.nl/nieuwsbrief/](https://www.reputatiecoaching.nl/nieuwsbrief/) en schrijf je meteen in.
+Als laatste kun je je ook inschrijven voor de nieuwsbrief. Dan ontvang je altijd als eerste het laatste nieuws wat ik publiceer en automatisch elk kwartaal het ReputatieCoaching Podcast Boek van het afgelopen kwartaal. Surf daartoe naar [www.reputatiecoaching.nl/nieuwsbrief/](https://web.archive.org/web/*/https://www.reputatiecoaching.nl/nieuwsbrief/) en schrijf je meteen in.
 
-En je kunt ook rechtstreeks op de website een voicemail achterlaten, door op de tab aan de rechterkant van elke pagina te klikken, en je bericht in te spreken. Dit was [ReputatieCoaching Podast aflevering 50](https://www.reputatiecoaching.nl/50/) en mijn naam is [Eduard de Boer](http://nl.linkedin.com/in/eduarddeboer/nl).
+En je kunt ook rechtstreeks op de website een voicemail achterlaten, door op de tab aan de rechterkant van elke pagina te klikken, en je bericht in te spreken. Dit was [ReputatieCoaching Podast aflevering 50](/nl/archief/reputatiecoaching/050/) en mijn naam is [Eduard de Boer](http://nl.linkedin.com/in/eduarddeboer/nl).
 
 Ik wens je de komende week weer succes met het werken aan je reputatie, zodat je meteen je reputatie voor jou kunt laten werken!
 
@@ -244,7 +244,7 @@ Overzicht van de links die in deze podcast aan bod komen:
   * [Download al je Hyves content](http://www.hyves.nl/bedankt)
   * “[Hyves wordt Games netwerk](http://hyvesredactie.hyves.nl/blog/58698603/Hyves_wordt_Games_netwerk/8QP5/)” (Hyves, 31 oktober 2013)
   * “[Introducing new Like and Share buttons](https://developers.facebook.com/blog/post/2013/11/06/introducing-new-like-and-share-buttons/)” (Facebook Developer Blog, 6 november 2013)
-  * “[Instructievideo voor het instellen van Google Authorship](https://www.reputatiecoaching.nl/wiki/google-authorship/)” (ReputatieCoaching, 16 december 2012)
-  * “[Click Through Rate (CTR) verhogen met goede foto’s](https://www.reputatiecoaching.nl/click-through-rate-ctr-verhogen-met-goede-fotos/)” (ReputatieCoaching, 19 december 2012)
-  * “[Google+ vanity URL claimen](https://www.reputatiecoaching.nl/google-vanity-url-claimen/)” (ReputatieCoaching, 30 oktober 2013)
+  * “[Instructievideo voor het instellen van Google Authorship](https://web.archive.org/web/*/https://www.reputatiecoaching.nl/wiki/google-authorship/)” (ReputatieCoaching, 16 december 2012)
+  * “[Click Through Rate (CTR) verhogen met goede foto’s](https://web.archive.org/web/*/https://www.reputatiecoaching.nl/click-through-rate-ctr-verhogen-met-goede-fotos/)” (ReputatieCoaching, 19 december 2012)
+  * “[Google+ vanity URL claimen](https://web.archive.org/web/*/https://www.reputatiecoaching.nl/google-vanity-url-claimen/)” (ReputatieCoaching, 30 oktober 2013)
 ```

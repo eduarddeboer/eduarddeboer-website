@@ -3,6 +3,8 @@ title: '160: 1e podcast van 2016 live! Podcasts worden populair! Wugly en Tsu in
 date: '2016-01-14T07:30:06+00:00'
 description: Het is een ietwat laat, dat weet ik. Maar alsnog de beste wensen voor 2016! Ik wens je toe dat al je dromen dit jaar mogen uitkomen! De afgelopen paar weken is er geen podcast uitgekomen. Ik had dat beter vooraf kunnen melden, want ik kreeg vanuit verschillende hoeken de vraag of alles wel goed is… Iedereen dank voor de bezorgdheid! Alles is prima! Ik ben de feestdagen goed doorgekomen en ik hoop jij ook.
 episode: 160
+kgRef: podcast_episode/reputatiecoaching_160
+source_url: https://www.reputatiecoaching.nl/160
 historical: true
 archivePeriod: 2012–2016
 transcriptStatus: shownotes
@@ -16,8 +18,6 @@ showTaxonomies: false
 ---
 
 > **Historisch archief.** Deze aflevering verscheen op 14-01-2016 als onderdeel van ReputatieCoaching (2012–2016). De oorspronkelijke tekst is hieronder historisch bewaard. Diensten, contactgegevens, links, tools en adviezen kunnen inmiddels verouderd zijn.
-
-{{< audio src="https://archive.org/download/20160114-reputatie-coaching-podcast-160/20160114-ReputatieCoaching-Podcast-160.mp3" title="ReputatieCoaching Podcast #160" >}}
 
 **Transcriptiestatus:** Oorspronkelijke shownotes. Vanaf aflevering 153 werd de podcast niet meer volledig uitgeschreven.
 
@@ -49,13 +49,13 @@ De onderwerpen voor vandaag… Podcasts worden zo populair dat zelfs de Volkskra
   * Geciteerd in USA Today!
 ```
 
-Instructievideo over [bedrijf aanmelden op fotoshoottarieven.nl](https://www.reputatiecoaching.nl/bedrijf-aanmelden-op-fotoshoottarieven-nl/):
+Instructievideo over [bedrijf aanmelden op fotoshoottarieven.nl](https://web.archive.org/web/*/https://www.reputatiecoaching.nl/bedrijf-aanmelden-op-fotoshoottarieven-nl/):
 
 Links naar content elders op Internet die in deze podcast aan bod komt:
 
 ```
-  * [ReputatieCoaching Podcast in iTunes](https://www.reputatiecoaching.nl/itunes)
-  * [ReputatieCoaching Podcast op Stitcher](https://www.reputatiecoaching.nl/stitcher)
+  * [ReputatieCoaching Podcast in iTunes](https://web.archive.org/web/*/https://www.reputatiecoaching.nl/itunes)
+  * [ReputatieCoaching Podcast op Stitcher](https://web.archive.org/web/*/https://www.reputatiecoaching.nl/stitcher)
   * [ReputatieCoaching Podcast op TuneIn Radio](http://tunein.com/radio/ReputatieCoaching-Podcast-p655084/)
   * [ReputatieCoaching Podcast RSS-feed](https://feeds.reputatiecoaching.nl/ReputatieCoachingPodcast)
   * [Wugly](https://www.wugly.nl)

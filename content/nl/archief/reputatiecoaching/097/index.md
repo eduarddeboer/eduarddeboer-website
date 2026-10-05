@@ -3,6 +3,8 @@ title: '97: GRATIS LinkedIn Premium, Ello en Google+ nieuws. Nieuwe cookiewet is
 date: '2014-10-09T06:30:07+00:00'
 description: 'Nog voor het krieken van de dageraad stond ik gistermorgen op: de wekker van mijn iPhone speelde een melodietje om vijf uur en waarom? Om weer lekker aan de slag te gaan met het uitwerken van de onderwerpen voor deze 97e podcast. Reden is dat ik op het moment een volle agenda heb met veel taken die mijn aandacht en tijd eisen. Dan moeten soms andere zaken wijken. Maar ik doe het allemaal met plezier en ik wilde er zeker van zijn dat ik je ook vanochtend om half negen toch weer een podcast kan bieden.'
 episode: 97
+kgRef: podcast_episode/reputatiecoaching_097
+source_url: https://www.reputatiecoaching.nl/97
 historical: true
 archivePeriod: 2012–2016
 transcriptStatus: full
@@ -17,8 +19,6 @@ showTaxonomies: false
 
 > **Historisch archief.** Deze aflevering verscheen op 9-10-2014 als onderdeel van ReputatieCoaching (2012–2016). De oorspronkelijke tekst is hieronder historisch bewaard. Diensten, contactgegevens, links, tools en adviezen kunnen inmiddels verouderd zijn.
 
-{{< audio src="https://archive.org/download/20141009-reputatie-coaching-podcast-097/20141009-ReputatieCoaching-Podcast-097.mp3" title="ReputatieCoaching Podcast #097" >}}
-
 **Transcriptiestatus:** Volledige transcriptie uit het oorspronkelijke archief.
 
 *Historische afbeelding niet beschikbaar: ReputatieCoaching Podcast*
@@ -28,14 +28,14 @@ showTaxonomies: false
 
 Hallo en hartelijk welkom bij deze aflevering van de ReputatieCoaching Podcast. Ik ben Eduard de Boer, ReputatieCoach.
 
-De podcast kun je vinden op [www.reputatiecoaching.nl/97](https://www.reputatiecoaching.nl/97/). Daar vind je niet alleen de tekst, maar ook video’s waar ik het in deze uitzending over heb, alsmede afbeeldingen, links enzovoorts. Bovendien is de podcast te beluisteren in [iTunes](https://www.reputatiecoaching.nl/itunes) en op [Stitcher](https://www.reputatiecoaching.nl/stitcher). Daar kun je je dus ook abonneren op de wekelijkse podcast. Veel mensen vinden het ideaal om de wekelijkse afleveringen van de podcast op hun gemak te beluisteren, terwijl ze autorijden.
+De podcast kun je vinden op [www.reputatiecoaching.nl/97](/nl/archief/reputatiecoaching/097/). Daar vind je niet alleen de tekst, maar ook video’s waar ik het in deze uitzending over heb, alsmede afbeeldingen, links enzovoorts. Bovendien is de podcast te beluisteren in [iTunes](https://web.archive.org/web/*/https://www.reputatiecoaching.nl/itunes) en op [Stitcher](https://web.archive.org/web/*/https://www.reputatiecoaching.nl/stitcher). Daar kun je je dus ook abonneren op de wekelijkse podcast. Veel mensen vinden het ideaal om de wekelijkse afleveringen van de podcast op hun gemak te beluisteren, terwijl ze autorijden.
 
 Laat ik dan nu overgaan op de onderwerpen voor vandaag…
 
 ## 14-Daagse Video Challenge van Brenda Kok
 
 ![14-Daagse Video Challenge door Brenda Kok](20141009-Video-Challenge-Badge.png)
-In [podcast 94](https://www.reputatiecoaching.nl/94/) had ik Brenda Kok te gast vanuit Vietnam. Zij houdt bezig met alles wat over online video gaat, dus van Google Hangouts en Hangouts on Air, YouTube en videomarketing.
+In [podcast 94](/nl/archief/reputatiecoaching/094/) had ik Brenda Kok te gast vanuit Vietnam. Zij houdt bezig met alles wat over online video gaat, dus van Google Hangouts en Hangouts on Air, YouTube en videomarketing.
 
 Als onderdeel van haar gratis dienstverlening om zichzelf op de kaart te zetten heeft zij in april dit jaar een 30-daagse video challenge georganiseerd, waarin mensen op een respectvolle en opbouwende manier kunnen leren om beter en natuurlijker te presenteren voor de camera. In podcast 94 vertelde Brenda hier ook over.
 
@@ -113,7 +113,7 @@ Tot zover de belangrijkste punten uit het interview met David Besbris.
 
 ## Zit jij al op Ello?
 
-Zit jij al op [Ello](http://ello.co)]? Ik nog niet… Ik heb me wel aangemeld, zodra ik erover las, maar tot op heden heb ik helaas nog geen Ello invite mogen ontvangen, om er ervaring mee op te doen. Na mijn aanmelding ontving ik de mail, die ik ook in de show notes op [www.reputatiecoaching.nl/97](https://www.reputatiecoaching.nl/97/) heb opgenomen:
+Zit jij al op [Ello](http://ello.co)]? Ik nog niet… Ik heb me wel aangemeld, zodra ik erover las, maar tot op heden heb ik helaas nog geen Ello invite mogen ontvangen, om er ervaring mee op te doen. Na mijn aanmelding ontving ik de mail, die ik ook in de show notes op [www.reputatiecoaching.nl/97](/nl/archief/reputatiecoaching/097/) heb opgenomen:
 
 [![Mail van Ello](20141009-Ello-mail.png)](https://lh6.googleusercontent.com/-j7buE8gj95M/VDYPIAYRsoI/AAAAAAAABM0/IFctkv_UA5A/w502-h457-no/20141009-Ello-mail.png)
 
@@ -181,7 +181,7 @@ Het voorstel moet nog wel door de Eerste Kamer worden goedgekeurd. Maar de verwa
 
 Flash is tegenwoordig achterhaalde technologie. Vrijwel alles wat je vroeger moest programmeren in Flash, kun je tegenwoordig met HTML5 en CSS3. Mocht je dat niets zeggen, vergeet dat dan maar gewoon snel weer.
 
-In [podcast 85](https://www.reputatiecoaching.nl/85/) vertelde ik je al dat Google toen was begonnen met het waarschuwen op mobiele apparaten die geen Flash ondersteunen in de Verenigde Staten, als iemand naar een Engelstalige site surfde, waarvoor Flash vereist was.
+In [podcast 85](/nl/archief/reputatiecoaching/085/) vertelde ik je al dat Google toen was begonnen met het waarschuwen op mobiele apparaten die geen Flash ondersteunen in de Verenigde Staten, als iemand naar een Engelstalige site surfde, waarvoor Flash vereist was.
 
 Maar eergisteren schreef Pierre Far van Google op Google+, dat Google dit nu verder gaat uitbreiden:
 
@@ -195,7 +195,7 @@ Want zodra die melding ook in de Nederlandstalige zoekresultaten zal worden vert
 
 Als ReputatieCoach krijg ik nu concurrentie van Google in het advies over het goed online zetten van je lokale bedrijf… Google heeft op haar Webmasters YouTubekanaal een zestal video’s geplaatst, die je helpen je bedrijf beter online te promoten.
 
-In de show notes op [www.reputatiecoaching.nl/97](https://www.reputatiecoaching.nl/97/) heb ik de playlist met deze video’s opgenomen:
+In de show notes op [www.reputatiecoaching.nl/97](/nl/archief/reputatiecoaching/097/) heb ik de playlist met deze video’s opgenomen:
 
 ```
   1. Introduction and hot topics
@@ -214,7 +214,7 @@ Is het je trouwens opgevallen dat de intro van de podcast iets is aangepast? Op 
 
 Als je de podcast leuk vindt en je wilt nog meer op de hoogte blijven, volg me dan ook op Twitter, via [@reputatiecoach1](https://twitter.com/reputatiecoach1).
 
-Heb je inderdaad wat aan alle informatie die ik met je deel, help mij dan met het verder verbeteren en promoten van deze podcast. Surf daarvoor naar [iTunes](https://www.reputatiecoaching.nl/itunes) of [Stitcher](https://www.reputatiecoaching.nl/stitcher), geef de podcast een sterrenbeoordeling en laat ook je reactie achter. Door de podcast te beoordelen op iTunes en/of Stitcher breng je de podcast onder de aandacht van een breder publiek.
+Heb je inderdaad wat aan alle informatie die ik met je deel, help mij dan met het verder verbeteren en promoten van deze podcast. Surf daarvoor naar [iTunes](https://web.archive.org/web/*/https://www.reputatiecoaching.nl/itunes) of [Stitcher](https://web.archive.org/web/*/https://www.reputatiecoaching.nl/stitcher), geef de podcast een sterrenbeoordeling en laat ook je reactie achter. Door de podcast te beoordelen op iTunes en/of Stitcher breng je de podcast onder de aandacht van een breder publiek.
 
 Je kunt me verder helpen, door de podcast aan te bevelen bij vrienden of collega’s, waarvan je denkt dat ze er hun voordeel mee kunnen doen, of door ’m te delen op Twitter, like’n en delen op Facebook of een “+1” te geven op Google+.
 
@@ -222,7 +222,7 @@ En vergeet niet: ik ben hier om je te helpen! Als je een vraag of een probleem h
 
 Als je dat te lastig vindt, of als je de podcast beluistert terwijl je in de auto zit en je hebt acuut een vraag, spreek dan een boodschap in op de ReputatieCoaching Hotline, op nummer: 084 - 883 15 56. Mogelijk behandel ik je vraag of probleem dan in een artikel of in de podcast.
 
-En je kunt ook rechtstreeks op de website een voicemail achterlaten, door op de tab aan de rechterkant van elke pagina te klikken, en je bericht in te spreken. Dit was [ReputatieCoaching Podcast aflevering 97](https://www.reputatiecoaching.nl/97/) en mijn naam is [Eduard de Boer](http://nl.linkedin.com/in/eduarddeboer/nl).
+En je kunt ook rechtstreeks op de website een voicemail achterlaten, door op de tab aan de rechterkant van elke pagina te klikken, en je bericht in te spreken. Dit was [ReputatieCoaching Podcast aflevering 97](/nl/archief/reputatiecoaching/097/) en mijn naam is [Eduard de Boer](http://nl.linkedin.com/in/eduarddeboer/nl).
 
 Ik wens je de komende week weer succes met het werken aan je reputatie, zodat je meteen je reputatie voor jou kunt laten werken!
 
@@ -233,8 +233,8 @@ Doei!
 Links naar content die in deze podcast aan bod komt:
 
 ```
-  * [ReputatieCoaching Podcast in iTunes](https://www.reputatiecoaching.nl/itunes)
-  * [ReputatieCoaching Podcast op Stitcher](https://www.reputatiecoaching.nl/stitcher)
+  * [ReputatieCoaching Podcast in iTunes](https://web.archive.org/web/*/https://www.reputatiecoaching.nl/itunes)
+  * [ReputatieCoaching Podcast op Stitcher](https://web.archive.org/web/*/https://www.reputatiecoaching.nl/stitcher)
   * [ReputatieCoaching Podcast RSS-feed](https://feeds.reputatiecoaching.nl/ReputatieCoachingPodcast)
   * [Google Locatiegeschiedenis](https://www.google.com/locationhistory/)
   * [Facebook Local Awareness Ads](https://www.facebook.com/business/a/local-awareness)

@@ -3,6 +3,8 @@ title: Podcast Aflevering 6 (07-01-2013)
 date: '2013-01-07T22:40:20+00:00'
 description: Hartelijk welkom bij de eerste ReputatieCoaching Podcast van 2013. Ik wens je een fantastisch jaar toe. En? Heb je veel voornemens voor dit jaar? Goede voornemens? Ga je dit jaar ook werken aan het verbeteren van je online vindbaarheid en je reputatie? Ik heb ook vandaag in ieder geval weer een aantal onderwerpen voor je, waarvan ik denk dat ze interessant en/of leerzaam zijn. Mijn naam is Eduard de Boer –ook wel bekend als de ReputatieCoach– en ik ben de host voor vandaag!
 episode: 6
+kgRef: podcast_episode/reputatiecoaching_006
+source_url: https://www.reputatiecoaching.nl/6
 historical: true
 archivePeriod: 2012–2016
 transcriptStatus: full
@@ -16,8 +18,6 @@ showTaxonomies: false
 ---
 
 > **Historisch archief.** Deze aflevering verscheen op 7-01-2013 als onderdeel van ReputatieCoaching (2012–2016). De oorspronkelijke tekst is hieronder historisch bewaard. Diensten, contactgegevens, links, tools en adviezen kunnen inmiddels verouderd zijn.
-
-{{< audio src="https://archive.org/download/20130107-reputatie-coaching-podcast-006/20130107-ReputatieCoaching-Podcast-006.mp3" title="ReputatieCoaching Podcast #006" >}}
 
 **Transcriptiestatus:** Volledige transcriptie uit het oorspronkelijke archief.
 
@@ -49,7 +49,7 @@ Recentelijk meldde Facebook dat er in totaal wereldwijd slechts zo’n 13 miljoe
 
 De onderwerpen van deze podcast op een rijtje:
 
-- [Je bedrijf online verhuizen](https://www.reputatiecoaching.nl/je-bedrijf-online-verhuizen/) \* [Klanten werven op Facebook](https://www.reputatiecoaching.nl/klanten-werven-op-facebook/)
+- [Je bedrijf online verhuizen](https://web.archive.org/web/*/https://www.reputatiecoaching.nl/je-bedrijf-online-verhuizen/) \* [Klanten werven op Facebook](https://web.archive.org/web/*/https://www.reputatiecoaching.nl/klanten-werven-op-facebook/)
 
 Nu ik het over lokale presence heb: sta jij al met je bedrijf op de kaart bij TomTom Places? De afgelopen week heb ik een video online gezet, waar ik je laat zien hoe je je bedrijf kunt aanmelden op TomTom Places, mocht je daar niet geregistreerd zijn. In deze video meld ik een pedicure uit Roosendaal aan. In de uren daarna (behalve toen ik sliep) heb ik geregeld gecontroleerd of het bedrijf al vindbaar was.
 

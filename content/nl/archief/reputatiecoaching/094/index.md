@@ -3,6 +3,8 @@ title: '94: Interview met Brenda Kok van Sparkling Professionals'
 date: '2014-09-18T06:30:25+00:00'
 description: 'De podcast van vandaag heeft eens een ietwat afwijkende format, vergeleken met alle vorige podcasts. Ik heb vorige week namelijk Brenda Kok van Sparkling Professionals geïnterviewd. En dat interview is nogal lang geworden. Ik waarschuw je dus ook alvast vooraf: deze podcast aflevering duurt zo’n 52 minuten. Hallo en hartelijk welkom bij deze aflevering van de ReputatieCoaching Podcast. Ik ben Eduard de Boer, ReputatieCoach. Dit is dé podcast die jou helpt om meer business te genereren, doordat jouw website beter gevonden wordt, zowel lokaal als landelijk en doordat ik je uitleg hoe je je online reputatie kunt verbeteren.'
 episode: 94
+kgRef: podcast_episode/reputatiecoaching_094
+source_url: https://www.reputatiecoaching.nl/94
 historical: true
 archivePeriod: 2012–2016
 transcriptStatus: full
@@ -17,8 +19,6 @@ showTaxonomies: false
 
 > **Historisch archief.** Deze aflevering verscheen op 18-09-2014 als onderdeel van ReputatieCoaching (2012–2016). De oorspronkelijke tekst is hieronder historisch bewaard. Diensten, contactgegevens, links, tools en adviezen kunnen inmiddels verouderd zijn.
 
-{{< audio src="https://archive.org/download/20140918-reputatie-coaching-podcast-094/20140918-ReputatieCoaching-Podcast-094.mp3" title="ReputatieCoaching Podcast #094" >}}
-
 **Transcriptiestatus:** Volledige transcriptie uit het oorspronkelijke archief.
 
 ***Historische afbeelding niet beschikbaar: ReputatieCoaching Podcast*
@@ -26,9 +26,9 @@ De podcast van vandaag heeft eens een ietwat afwijkende format, vergeleken met a
 
 Hallo en hartelijk welkom bij deze aflevering van de ReputatieCoaching Podcast. Ik ben Eduard de Boer, ReputatieCoach. Dit is dé podcast die jou helpt om meer business te genereren, doordat jouw website beter gevonden wordt, zowel lokaal als landelijk en doordat ik je uitleg hoe je je online reputatie kunt verbeteren. Dit alles kan je helpen om je bedrijf en jezelf beter op de online kaart te plaatsen. Maar als persoon kun je met de diverse tips ook aan de slag om je online reputatie te verbeteren.
 
-Deze podcast kun je vinden op [www.reputatiecoaching.nl/94](https://www.reputatiecoaching.nl/94/). Daar vind je de vragen van het interview. De podcast is te beluisteren op de website, in [iTunes](https://www.reputatiecoaching.nl/itunes) en op [Stitcher](https://www.reputatiecoaching.nl/stitcher). Daar kun je je dus ook abonneren op de wekelijkse podcast. Veel mensen vinden het ideaal om de wekelijkse afleveringen van de podcast op hun gemak te beluisteren, terwijl ze autorijden, wandelen, trainen in de sportschool of terwijl ze fietsen.
+Deze podcast kun je vinden op [www.reputatiecoaching.nl/94](/nl/archief/reputatiecoaching/094/). Daar vind je de vragen van het interview. De podcast is te beluisteren op de website, in [iTunes](https://web.archive.org/web/*/https://www.reputatiecoaching.nl/itunes) en op [Stitcher](https://web.archive.org/web/*/https://www.reputatiecoaching.nl/stitcher). Daar kun je je dus ook abonneren op de wekelijkse podcast. Veel mensen vinden het ideaal om de wekelijkse afleveringen van de podcast op hun gemak te beluisteren, terwijl ze autorijden, wandelen, trainen in de sportschool of terwijl ze fietsen.
 
-[*Historische afbeelding niet beschikbaar: Brenda Kok van Sparkling Professionals*](https://www.reputatiecoaching.nl/wp-content/uploads/2014/09/Brenda-Kok.jpg)Laat ik dan nu overgaan naar het interview met Brenda Kok. Ik weet niet meer hoe het zo gekomen is, maar ooit liep ik in virtuele zin tegen [Brenda Kok](https://nl.linkedin.com/in/brendakok/nl) aan en nam haar op in één van mijn kringen op Google+. Vanaf dat moment verschenen haar berichten op Google+ dus ook op mijn tijdlijn. En die ging ik lezen op haar website, met de welluidende titel “[Sparkling Professionals](http://www.sparklingprofesisonals.com)”.
+[*Historische afbeelding niet beschikbaar: Brenda Kok van Sparkling Professionals*](https://web.archive.org/web/*/https://www.reputatiecoaching.nl/wp-content/uploads/2014/09/Brenda-Kok.jpg)Laat ik dan nu overgaan naar het interview met Brenda Kok. Ik weet niet meer hoe het zo gekomen is, maar ooit liep ik in virtuele zin tegen [Brenda Kok](https://nl.linkedin.com/in/brendakok/nl) aan en nam haar op in één van mijn kringen op Google+. Vanaf dat moment verschenen haar berichten op Google+ dus ook op mijn tijdlijn. En die ging ik lezen op haar website, met de welluidende titel “[Sparkling Professionals](http://www.sparklingprofesisonals.com)”.
 
 Naarmate ik meer las en meer video’s op haar YouTube-kanaal [Sparkling TV](https://www.youtube.com/user/Sparklingprofs) bekeek, raakte ik meer en meer geïnteresseerd in datgene waar Brenda mee bezig is.
 
@@ -61,7 +61,7 @@ Ik hoop dat je deze podcast niet TE lang vond. En waar ik helemaal benieuwd naar
 
 Als je de podcast leuk vindt en je wilt nog meer op de hoogte blijven, volg me dan ook op Twitter, via [@reputatiecoach1](https://twitter.com/reputatiecoach1).
 
-Heb je inderdaad wat aan alle informatie die ik met je deel, help mij dan met het verder verbeteren en promoten van deze podcast. Surf daarvoor naar [iTunes](https://www.reputatiecoaching.nl/itunes) of [Stitcher](https://www.reputatiecoaching.nl/stitcher), geef de podcast een sterrenbeoordeling en laat ook je reactie achter. Door de podcast te beoordelen op iTunes en/of Stitcher breng je de podcast onder de aandacht van een breder publiek.
+Heb je inderdaad wat aan alle informatie die ik met je deel, help mij dan met het verder verbeteren en promoten van deze podcast. Surf daarvoor naar [iTunes](https://web.archive.org/web/*/https://www.reputatiecoaching.nl/itunes) of [Stitcher](https://web.archive.org/web/*/https://www.reputatiecoaching.nl/stitcher), geef de podcast een sterrenbeoordeling en laat ook je reactie achter. Door de podcast te beoordelen op iTunes en/of Stitcher breng je de podcast onder de aandacht van een breder publiek.
 
 Je kunt me verder helpen, door de podcast aan te bevelen bij vrienden of collega’s, waarvan je denkt dat ze er hun voordeel mee kunnen doen, of door ’m te delen op Twitter, like’n en delen op Facebook of een “+1” te geven op Google+.
 
@@ -69,7 +69,7 @@ En vergeet niet: ik ben hier om je te helpen! Als je een vraag of een probleem h
 
 Als je dat te lastig vindt, of als je de podcast beluistert terwijl je in de auto zit en je hebt acuut een vraag, spreek dan een boodschap in op de ReputatieCoaching Hotline, op nummer: 084 - 883 15 56. Mogelijk behandel ik je vraag of probleem dan in een artikel of in de podcast.
 
-En je kunt ook rechtstreeks op de website een voicemail achterlaten, door op de tab aan de rechterkant van elke pagina te klikken, en je bericht in te spreken. Dit was [ReputatieCoaching Podcast aflevering 94](https://www.reputatiecoaching.nl/94/) en mijn naam is [Eduard de Boer](http://nl.linkedin.com/in/eduarddeboer/nl).
+En je kunt ook rechtstreeks op de website een voicemail achterlaten, door op de tab aan de rechterkant van elke pagina te klikken, en je bericht in te spreken. Dit was [ReputatieCoaching Podcast aflevering 94](/nl/archief/reputatiecoaching/094/) en mijn naam is [Eduard de Boer](http://nl.linkedin.com/in/eduarddeboer/nl).
 
 Ik wens je de komende week weer succes met het werken aan je reputatie, zodat je meteen je reputatie voor jou kunt laten werken!
 
@@ -80,8 +80,8 @@ Doei!
 Links naar content die in deze podcast aan bod komt:
 
 ```
-  * [ReputatieCoaching Podcast in iTunes](https://www.reputatiecoaching.nl/itunes)
-  * [ReputatieCoaching Podcast op Stitcher](https://www.reputatiecoaching.nl/stitcher)
+  * [ReputatieCoaching Podcast in iTunes](https://web.archive.org/web/*/https://www.reputatiecoaching.nl/itunes)
+  * [ReputatieCoaching Podcast op Stitcher](https://web.archive.org/web/*/https://www.reputatiecoaching.nl/stitcher)
   * [ReputatieCoaching Podcast RSS-feed](https://feeds.reputatiecoaching.nl/ReputatieCoachingPodcast)
   * [Sparkling Professionals website](http://www.sparklingprofesisonals.com) (de website van Brenda Kok)
   * [Sparkling Professionals op YouTube](https://www.youtube.com/user/Sparklingprofs) (bijbehorende YouTube-kanaal van Brenda Kok)

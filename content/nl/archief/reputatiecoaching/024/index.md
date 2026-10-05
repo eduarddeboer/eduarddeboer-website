@@ -3,6 +3,8 @@ title: '24: Waarom lokale SEO? Hoe versnel je je WordPress site? Nieuws van Goog
 date: '2013-05-11T22:30:18+00:00'
 description: 'Deze week in het nieuws: de onstuitbare groei van WordPress, het waarom van lokale SEO, veranderingen bij Google en Google Maps en hoe je de prestaties van jouw WordPress kun verbeteren en versnellen.** ** Mijn naam is Eduard de Boer –ook wel bekend als de ReputatieCoach– en ik ben je host voor vandaag! Zoals je weet ben ik een grote liefhebber van WordPress en inmiddels heb ik vrijwel alle sites die ik ooit in het verleden heb gemaakt en die nog steeds live zijn, overgezet op WordPress.'
 episode: 24
+kgRef: podcast_episode/reputatiecoaching_024
+source_url: https://www.reputatiecoaching.nl/24
 historical: true
 archivePeriod: 2012–2016
 transcriptStatus: full
@@ -17,8 +19,6 @@ showTaxonomies: false
 
 > **Historisch archief.** Deze aflevering verscheen op 11-05-2013 als onderdeel van ReputatieCoaching (2012–2016). De oorspronkelijke tekst is hieronder historisch bewaard. Diensten, contactgegevens, links, tools en adviezen kunnen inmiddels verouderd zijn.
 
-{{< audio src="https://archive.org/download/20130511-reputatie-coaching-podcast-024/20130511-ReputatieCoaching-Podcast-024.mp3" title="ReputatieCoaching Podcast #024" >}}
-
 **Transcriptiestatus:** Volledige transcriptie uit het oorspronkelijke archief.
 
 **Deze week in het nieuws: de onstuitbare groei van WordPress, het waarom van lokale SEO, veranderingen bij Google en Google Maps en hoe je de prestaties van jouw WordPress kun verbeteren en versnellen.**\*\*
@@ -31,11 +31,11 @@ showTaxonomies: false
 
 Een tijdje geleden werd bekend dat het marktaandeel van WordPress ten opzichte van vorig jaar weer met een paar procent is gegroeid. In 2012 bedroeg het marktaandeel van WordPress al 48% en dit jaar zit het op 52%. De afgelopen vijf jaar is de toepassing van WordPress met 63% gestegen! Deze gegevens komen van het bekende bedrijf Royal Pingdom.
 
-Terwijl ik deze podcast maak, zijn er volgens WordPress.com zelf, al meer dan 65 miljoen WordPress sites. Grappig genoeg schreef ik zelf op 27 november vorig jaar in het artikel “[Waarom bloggen in WordPress?](https://www.reputatiecoaching.nl/waarom-bloggen-in-wordpress/)” dat er toen ruim 58 miljoen WordPress sites waren. In die paar maanden zijn er dus alweer meer dan 7 miljoen bijgekomen.
+Terwijl ik deze podcast maak, zijn er volgens WordPress.com zelf, al meer dan 65 miljoen WordPress sites. Grappig genoeg schreef ik zelf op 27 november vorig jaar in het artikel “[Waarom bloggen in WordPress?](https://web.archive.org/web/*/https://www.reputatiecoaching.nl/waarom-bloggen-in-wordpress/)” dat er toen ruim 58 miljoen WordPress sites waren. In die paar maanden zijn er dus alweer meer dan 7 miljoen bijgekomen.
 
 In dit artikel kun je dus ook nog eens rustig nalezen, waarom je mijns inziens het beste voor WordPress kunt kiezen, als je overweegt een website of weblog te gaan lanceren.
 
-In de transcriptie op de website heb ik een grafiek opgenomen, waarin je kunt zien wat het marktaandeel van verschillende Content Management Systemen is. Je kunt de show notes van deze podcast overigens vinden op [www.reputatiecoaching.nl/24/](https://www.reputatiecoaching.nl/24/).
+In de transcriptie op de website heb ik een grafiek opgenomen, waarin je kunt zien wat het marktaandeel van verschillende Content Management Systemen is. Je kunt de show notes van deze podcast overigens vinden op [www.reputatiecoaching.nl/24/](/nl/archief/reputatiecoaching/024/).
 
 [Historische afbeelding: bekijk bron](https://lh6.googleusercontent.com/3Vf3vNW7nDxmvIS4Dpj0tzcMjFNYrPf4BTViCtnO1xPaCsG8zNj5miUgIrmBE9kfy5ZOhxypLdtRiIrfl4ndDQ2w4aCrClO34n80FBwtfQYf2IyQ7zNsTc3tEA)
 
@@ -47,7 +47,7 @@ Afgelopen week werd mij de vraag gesteld waarom ik zo ontzettend vaak benadruk d
 
 Hoewel ik dit in het verleden al eens kort heb genoemd, wil ik hier toch eens wat dieper op in gaan. Deze toelichting is vooral belangrijk voor mensen die een fysieke winkel hebben of voornamelijk lokaal of in de regio werkzaam zijn en het is iets minder van toepassing op webshops.
 
-Om je verder te helpen om te scoren in de lokale zoekresultaten heb ik trouwens deze week weer een korte instructievideo gemaakt (volgens mij was het de kortste van al mijn instructievideo’s) over hoe je je [bedrijf kunt toevoegen of aanmelden op Yalwa](https://www.reputatiecoaching.nl/bedrijf-aanmelden-op-yalwa/). Yalwa is ook typisch zo’n site die niet bijster veel mensen kennen, maar die wel flink meetelt in het bepalen van je positie in de lokale zoekresultaten.
+Om je verder te helpen om te scoren in de lokale zoekresultaten heb ik trouwens deze week weer een korte instructievideo gemaakt (volgens mij was het de kortste van al mijn instructievideo’s) over hoe je je [bedrijf kunt toevoegen of aanmelden op Yalwa](https://web.archive.org/web/*/https://www.reputatiecoaching.nl/bedrijf-aanmelden-op-yalwa/). Yalwa is ook typisch zo’n site die niet bijster veel mensen kennen, maar die wel flink meetelt in het bepalen van je positie in de lokale zoekresultaten.
 
 Maar laat ik er eens induiken, in de lokale SEO. Lokale SEO heeft als doel ervoor te zorgen dat je om te beginnen “lokaal” goed vindbaar bent.
 
@@ -73,7 +73,7 @@ Maak dus ook niet de fout om bij de ene bedrijfsvermelding je mobiele nummer te 
 
 Zo heb ik in de instructievideo waar ik het eerder over had een pedicure aangemeld op Yalwa. Stel dat die pedicure twee vestigingen zou hebben gehad, dan had ze op de website dus twee pagina’s moeten hebben (één per vestiging en met een eigen telefoonnummer) en had ik dus ook beide vestigingen op Yalwa moeten aanmelden.
 
-In het artikel “[Fouten in je bedrijfsvermelding fataal voor je online reputatie](https://www.reputatiecoaching.nl/fouten-in-je-bedrijfsvermelding-fataal-voor-je-online-reputatie/)” van 4 december 2012 schreef ik het ook al: als er fouten zitten in je bedrijfsvermeldingen (in het Engels “citations” genoemd), heb je minder kans om goed te scoren in de lokale resultaten. En als je lokaal belabberd scoort, is de kans dat je hoog gaat scoren in de organische zoekresultaten, heel gering.
+In het artikel “[Fouten in je bedrijfsvermelding fataal voor je online reputatie](https://web.archive.org/web/*/https://www.reputatiecoaching.nl/fouten-in-je-bedrijfsvermelding-fataal-voor-je-online-reputatie/)” van 4 december 2012 schreef ik het ook al: als er fouten zitten in je bedrijfsvermeldingen (in het Engels “citations” genoemd), heb je minder kans om goed te scoren in de lokale resultaten. En als je lokaal belabberd scoort, is de kans dat je hoog gaat scoren in de organische zoekresultaten, heel gering.
 
 ## Trouwambtenaar in Apeldoorn klimt hogerop
 
@@ -97,7 +97,7 @@ De snelste manier om dan ook hogerop te komen in de zoekresultaten is al je bedr
 
 Ga pas daarna je gegevens ook op andere websites en directories invoeren. Zo begin je je promotie met een schone lei. Als je handig bent, volg je mijn instructievideo’s. Want in een aantal van die video’s geef ik ook nog wel eens praktische tips voor het aanmelden bij de desbetreffende site. Je kunt in één keer naar al mijn video’s door te surfen naar: [www.youtube.com/reputatiecoaching](https://www.youtube.com/reputatiecoaching).
 
-In [podcast 22](https://www.reputatiecoaching.nl/22/) liet ik je weten dat ik een mailtje had gekregen van Oskar met vragen over concrete acties voor het verbeteren van de vindbaarheid van de site van zijn winkel en ook van zijn webshop. Het eerste wat mij opviel is, dat op de hoofdpagina staat “Oskar’s Interieursadvies” (dus met een ‘s’ tussen ‘interieur’ en ‘advies’, terwijl zijn bedrijfsvermeldingen op alle andere sites op Internet, inclusief de Google+ Lokaal vermelding, de sites openingstijden.com, telefoongids.nl en talloze andere sites, deze ‘s’ niet bevatten. Ik kan je garanderen dat het corrigeren van deze kleine typefout op de hoofdpagina van zijn website, over een tijdje al zal resulteren in een verbetering van zijn vindbaarheid!
+In [podcast 22](/nl/archief/reputatiecoaching/022/) liet ik je weten dat ik een mailtje had gekregen van Oskar met vragen over concrete acties voor het verbeteren van de vindbaarheid van de site van zijn winkel en ook van zijn webshop. Het eerste wat mij opviel is, dat op de hoofdpagina staat “Oskar’s Interieursadvies” (dus met een ‘s’ tussen ‘interieur’ en ‘advies’, terwijl zijn bedrijfsvermeldingen op alle andere sites op Internet, inclusief de Google+ Lokaal vermelding, de sites openingstijden.com, telefoongids.nl en talloze andere sites, deze ‘s’ niet bevatten. Ik kan je garanderen dat het corrigeren van deze kleine typefout op de hoofdpagina van zijn website, over een tijdje al zal resulteren in een verbetering van zijn vindbaarheid!
 
 Zoals beloofd ga ik hier binnenkort veel dieper op in. Op dit moment ben ik nog bezig met de laatste stukken voor het actieplan. Zodra ik daar meer nieuws over heb, zal ik je het op de site en in de podcast laten weten.
 
@@ -131,7 +131,7 @@ Verzamel reviews of recensies en zoveel als je kunt. Wedt daarbij niet op één 
 ```
 
 **Helpen foto’s bij het hoger scoren?**
-Ja, in een aantal gevallen helpen foto’s ook met het hoger scoren in zowel de lokale, als de organische zoekresultaten. Als je bijvoorbeeld op de site “allebedrijvenin.nl” je bedrijfslogo uploadt, wordt je na enige tijd vrijwel altijd getoond boven alle andere bedrijfsvermeldingen, waarbij een foto ontbreekt. En gebruik natuurlijk de foto’s die je al van geotags hebt voorzien. Bekijk daarvoor de instructievideo “[Geotag je bedrijfsfoto’s met Picasa voor betere lokale vindbaarheid](https://www.reputatiecoaching.nl/geotag-je-bedrijfsfotos-met-picasa/)”. Dit kan nooit kwaad en kan in sommige gevallen bijdragen tot een betere vindbaarheid.
+Ja, in een aantal gevallen helpen foto’s ook met het hoger scoren in zowel de lokale, als de organische zoekresultaten. Als je bijvoorbeeld op de site “allebedrijvenin.nl” je bedrijfslogo uploadt, wordt je na enige tijd vrijwel altijd getoond boven alle andere bedrijfsvermeldingen, waarbij een foto ontbreekt. En gebruik natuurlijk de foto’s die je al van geotags hebt voorzien. Bekijk daarvoor de instructievideo “[Geotag je bedrijfsfoto’s met Picasa voor betere lokale vindbaarheid](https://web.archive.org/web/*/https://www.reputatiecoaching.nl/geotag-je-bedrijfsfotos-met-picasa/)”. Dit kan nooit kwaad en kan in sommige gevallen bijdragen tot een betere vindbaarheid.
 
 ```
   5.
@@ -147,7 +147,7 @@ Ik wil niet de indruk wekken dat ik elke uitzending alleen maar nieuws heb over 
 
 ## Google Places for Business
 
-Laat ik beginnen met Google Places for Business. In podcast 19 meldde ik dat de interface voor [Google Places for Business](https://www.reputatiecoaching.nl/19/) drastisch was vernieuwd en reeds in de Verenigde Staten beschikbaar was. Op dat moment was nog onbekend wanneer deze interface zou worden uitgerold naar de rest van de wereld.
+Laat ik beginnen met Google Places for Business. In podcast 19 meldde ik dat de interface voor [Google Places for Business](/nl/archief/reputatiecoaching/019/) drastisch was vernieuwd en reeds in de Verenigde Staten beschikbaar was. Op dat moment was nog onbekend wanneer deze interface zou worden uitgerold naar de rest van de wereld.
 
 Nou, het goede nieuws is: de interface komt inmiddels ook naar Europa. [Mike Blumenthal schreef in zijn blogpost van 7 mei](http://blumenthals.com/blog/2013/05/07/google-local-tidbits-dashboard-going-world-widenew-hotel-restaurant-carousel-being-seen/) dat de interface inmiddels ook beschikbaar is voor NIEUWE gebruikers in het Verenigd Koninkrijk en Ierland. Nu nog even afwachten tot die ook in Nederland beschikbaar komt.
 

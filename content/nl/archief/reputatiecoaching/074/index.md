@@ -3,6 +3,8 @@ title: '74: Facebook posts ranken in Google en Google+ op lager pitje! Kleine si
 date: '2014-04-28T06:30:44+00:00'
 description: Vorige week beweerde ik dat Facebook posts niet door Google werden geïndexeerd. Dat moet ik vandaag rechtzetten. Ook heb ik deze week een vernieuwingsslag doorgevoerd in mijn “opnamestudio”. Google+ lijkt op een lager pitje gezet en bovendien heeft Google reviews van alle Zagat gebruikers verwijderd. Facebook neemt de app “Moves” over, terwijl Pinterest afgelopen week “begeleid zoeken” introduceerde. Wat dat is, vertel ik je zometeen. En Matt Cutts benadrukt nogmaals letterlijk dat goede content je helpt om hogerop te komen in de zoekresultaten… Zelfs als kleine site!
 episode: 74
+kgRef: podcast_episode/reputatiecoaching_074
+source_url: https://www.reputatiecoaching.nl/74
 historical: true
 archivePeriod: 2012–2016
 transcriptStatus: full
@@ -17,8 +19,6 @@ showTaxonomies: false
 
 > **Historisch archief.** Deze aflevering verscheen op 28-04-2014 als onderdeel van ReputatieCoaching (2012–2016). De oorspronkelijke tekst is hieronder historisch bewaard. Diensten, contactgegevens, links, tools en adviezen kunnen inmiddels verouderd zijn.
 
-{{< audio src="https://archive.org/download/20140428-reputatie-coaching-podcast-074/20140428-ReputatieCoaching-Podcast-074.mp3" title="ReputatieCoaching Podcast #074" >}}
-
 **Transcriptiestatus:** Volledige transcriptie uit het oorspronkelijke archief.
 
 ***Historische afbeelding niet beschikbaar: ReputatieCoaching Podcast*
@@ -28,11 +28,11 @@ Hallo en hartelijk welkom bij deze aflevering van de ReputatieCoaching Podcast. 
 
 Als persoon kun je met de diverse tips aan de slag om bijvoorbeeld je online reputatie als instrumentmaker, jongleur, acrobaat, klompenmaker, hotelportier, literatuurcriticus of wat dan ook te verbeteren.
 
-De podcast kun je vinden op [www.reputatiecoaching.nl/74](https://www.reputatiecoaching.nl/74/). Daar vind je niet alleen de volledige tekst, maar ook video’s waar ik het in deze uitzending over heb, alsmede afbeeldingen, links enzovoorts.
+De podcast kun je vinden op [www.reputatiecoaching.nl/74](/nl/archief/reputatiecoaching/074/). Daar vind je niet alleen de volledige tekst, maar ook video’s waar ik het in deze uitzending over heb, alsmede afbeeldingen, links enzovoorts.
 
-Bovendien is de podcast te beluisteren in [iTunes](https://www.reputatiecoaching.nl/itunes) en op [Stitcher](https://www.reputatiecoaching.nl/stitcher). Daar kun je je dus ook abonneren op de wekelijkse podcast. Veel mensen maken daar dankbaar gebruik van en vinden het ideaal om de wekelijkse afleveringen van de podcast op hun gemak te beluisteren, terwijl ze autorijden of in de sportschool aan het trainen zijn.
+Bovendien is de podcast te beluisteren in [iTunes](https://web.archive.org/web/*/https://www.reputatiecoaching.nl/itunes) en op [Stitcher](https://web.archive.org/web/*/https://www.reputatiecoaching.nl/stitcher). Daar kun je je dus ook abonneren op de wekelijkse podcast. Veel mensen maken daar dankbaar gebruik van en vinden het ideaal om de wekelijkse afleveringen van de podcast op hun gemak te beluisteren, terwijl ze autorijden of in de sportschool aan het trainen zijn.
 
-Ik zei het al in de intro: ik moet iets rechtzetten. Vorige week vertelde ik in [podcast 73](https://www.reputatiecoaching.nl/73/) dat Google geen berichten van Facebook indexeerde. Dat was onjuist. Deze uitlating had ik gebaseerd op het feit dat ik al meer dan een jaar eigenlijk nooit Facebook posts tegenkwam in de zoekresulaten. Verder had ik daar nooit onderzoek naar gedaan.
+Ik zei het al in de intro: ik moet iets rechtzetten. Vorige week vertelde ik in [podcast 73](/nl/archief/reputatiecoaching/073/) dat Google geen berichten van Facebook indexeerde. Dat was onjuist. Deze uitlating had ik gebaseerd op het feit dat ik al meer dan een jaar eigenlijk nooit Facebook posts tegenkwam in de zoekresulaten. Verder had ik daar nooit onderzoek naar gedaan.
 
 Maar eerder deze week zocht ik op Google op het trefwoord “bedrijfspanorama” en viel bijna figuurlijk van mijn stoel, door wat ik zag:
 
@@ -44,7 +44,7 @@ Tot zover de rectificatie ten aanzien van het ranken van Facebook posts in Googl
 
 ## Terugblik podcast 73
 
-En over Facebook gesproken: ik hoop dat je het niet vervelend vond, dat ik je [vorige week](https://www.reputatiecoaching.nl/73/) met zoveel nieuws over Facebook heb overladen. Deze week heb ik slechts één Facebook nieuwtje voor je, die ik zo met je deel. Het belangrijkste topic van vorige week is denk ik wel dat Facebook zich verder gaat richten op reviews van lokale bedrijven.
+En over Facebook gesproken: ik hoop dat je het niet vervelend vond, dat ik je [vorige week](/nl/archief/reputatiecoaching/073/) met zoveel nieuws over Facebook heb overladen. Deze week heb ik slechts één Facebook nieuwtje voor je, die ik zo met je deel. Het belangrijkste topic van vorige week is denk ik wel dat Facebook zich verder gaat richten op reviews van lokale bedrijven.
 
 Hoewel ik zelf nog geen reviewsterretjes in de Facebook zoekresultaten op Google heb gezien van bedrijven uit mijn directe omgeving, heb ik ze al wel gezien bij andere bedrijven. Dus neem ik aan dat bij een bepaald minimum aantal reviews of een bepaalde hoeveelheid sociale interactie, Facebook de sterretjes wel met schema.org zal weergeven, waardoor ze in de zoekresultaten op Google zullen opduiken.
 
@@ -60,7 +60,7 @@ Maar ik zag ook de pagina van bijvoorbeeld “Restaurant De Brugwachter” hier 
 
 Aan de andere kant hadden pagina’s met sterretjes in Google soms een lagere score dan 4,4 dus het kon ook niet aan de score liggen. Ook enig zoekwerk op Google leverde niet echt zinnige informatie op. Dus het is mij in elk geval nog niet duidelijk waardoor je de reviewsterretjes van Facebook in de zoekresultaten op Google vertoond kunt krijgen.
 
-Heb jij een idee? Laat het me weten onderaan de show notes op [www.reputatiecoaching.nl/74](https://www.reputatiecoaching.nl/74/).
+Heb jij een idee? Laat het me weten onderaan de show notes op [www.reputatiecoaching.nl/74](/nl/archief/reputatiecoaching/074/).
 
 Oh, voordat ik overga op de onderwerpen voor vandaag, eerst even een aardige update. Althans, ik vind het leuk. Deze week heb ik een nieuwe mixer binnengekregen om zo nog meer mogelijkheden te hebben voor audio-opnames enzovoorts.
 
@@ -70,7 +70,7 @@ Maar naast dat mengpaneel had ik ook een aparte microfoonvoorversterker in gebru
 
 Inmiddels was de microfoonvoorversterker al een tijdje kapot… Hij deed het nog wel, maar hij had twee standen: niets of volledige voorversterking. Dus moest ik nogal erg met de andere instellingen rommelen om er toch nog audio van enige kwaliteit uit te krijgen. Dat ging goed, maar ik had er een beetje genoeg van.
 
-[![XENYX 1622FX USB](20140429-XENYX-1622USB.jpg)](https://lh5.googleusercontent.com/-ZZkSb6sKlls/U12KPlvtpOI/AAAAAAAAAqo/ev9scoCODKI/s800-no/20140429-XENYX-1622USB.jpg)Toen zag ik afgelopen week bij BAX-shop.nl een mooie mixer in de aanbieding en ik kon het niet laten om ’m te kopen. Het was zelfs mogelijk om hem dezelfde avond te laten bezorgen, waar ik natuurlijk gebruikt van maakte. ’s Avonds arriveerde het pakket omstreeks 20:00 uur en kon ik aan de slag. Op YouTube had ik ter voorbereiding al wat HOW-TO video’s bekeken, zodat ik tenminste een beetje thuis was met al die knoppen, want deze is namelijk wel iets groter dan mijn vorige mixer. In de show notes, die je kunt vinden op [www.reputatiecoaching.nl/74](https://www.reputatiecoaching.nl/74/) heb ik zowel een plaatje opgenomen van de vorige mixer, als van de nieuwe mixer. Ik hoef je niet te vragen de verschillen te zoeken…
+[![XENYX 1622FX USB](20140429-XENYX-1622USB.jpg)](https://lh5.googleusercontent.com/-ZZkSb6sKlls/U12KPlvtpOI/AAAAAAAAAqo/ev9scoCODKI/s800-no/20140429-XENYX-1622USB.jpg)Toen zag ik afgelopen week bij BAX-shop.nl een mooie mixer in de aanbieding en ik kon het niet laten om ’m te kopen. Het was zelfs mogelijk om hem dezelfde avond te laten bezorgen, waar ik natuurlijk gebruikt van maakte. ’s Avonds arriveerde het pakket omstreeks 20:00 uur en kon ik aan de slag. Op YouTube had ik ter voorbereiding al wat HOW-TO video’s bekeken, zodat ik tenminste een beetje thuis was met al die knoppen, want deze is namelijk wel iets groter dan mijn vorige mixer. In de show notes, die je kunt vinden op [www.reputatiecoaching.nl/74](/nl/archief/reputatiecoaching/074/) heb ik zowel een plaatje opgenomen van de vorige mixer, als van de nieuwe mixer. Ik hoef je niet te vragen de verschillen te zoeken…
 
 Dus ik hoop dat je ook als luisteraar nu merkt dat de kwaliteit van de audio is verbeterd. Laat het me weten en post een reactie onderaan de show notes van deze podcast.
 
@@ -78,7 +78,7 @@ Laat ik dan nu overgaan op de onderwerpen voor vandaag…
 
 ## Facebook neemt “Moves” over
 
-[![Moves op iPhone 5S](moves-on-iphone5s.jpg)](https://lh5.googleusercontent.com/-aHXUaqemfhc/U12MCYThHHI/AAAAAAAAArI/ChGvMKUkeaA/w558-h1180-no/moves-on-iphone5s.jpg)Facebook is druk bezig met overnames. Laatst vertelde ik je in podcast 65 dat [Facebook WhatsApp](https://www.reputatiecoaching.nl/65/) had gekocht en een paar weken geleden kocht Facebook het bedrijf “Oculus VR”. Afgelopen week kwam in het nieuws dat Facebook weer een mobiele app heeft gekocht en dit keer betreft het “Moves”.
+[![Moves op iPhone 5S](moves-on-iphone5s.jpg)](https://lh5.googleusercontent.com/-aHXUaqemfhc/U12MCYThHHI/AAAAAAAAArI/ChGvMKUkeaA/w558-h1180-no/moves-on-iphone5s.jpg)Facebook is druk bezig met overnames. Laatst vertelde ik je in podcast 65 dat [Facebook WhatsApp](/nl/archief/reputatiecoaching/065/) had gekocht en een paar weken geleden kocht Facebook het bedrijf “Oculus VR”. Afgelopen week kwam in het nieuws dat Facebook weer een mobiele app heeft gekocht en dit keer betreft het “Moves”.
 
 “Moves” is een bewegingsapp, waarmee iPhone- en Androidgebruikers hun gangen kunnen bijhouden. Zo kan de app bijhouden hoeveel stappen je per dag doet, hoeveel je hardloopt, hoeveel kilometer je fietst of autorijdt, hoeveel calorieën je verbrandt enzovoorts.
 
@@ -146,7 +146,7 @@ En dit soort berichten moet voor jou toch echt een signaal zijn om het verzamele
 
 En ik ga nog even door over reviews in relatie tot Google… In de USA is Google op dit moment aan het experimenteren met de [vermelding van volledige reviews in het knowledge graph panel](http://www.searchenginejournal.com/google-reportedly-displaying-customer-reviews-knowledge-graph-local-searches/103471/), die je vaak aan de zijkant van de zoekresultaten ziet.
 
-In de show notes op [www.reputatiecoaching.nl/74](https://www.reputatiecoaching.nl/74/), zie je hier een voorbeeld van. Zoals ik al zei: het lijkt erop, alsof dit op dit moment alleen in de USA actief is, want in Nederland heb ik nog geen bedrijf kunnen vinden, waarbij ik een dergelijke vermelding met reviews heb kunnen vinden.
+In de show notes op [www.reputatiecoaching.nl/74](/nl/archief/reputatiecoaching/074/), zie je hier een voorbeeld van. Zoals ik al zei: het lijkt erop, alsof dit op dit moment alleen in de USA actief is, want in Nederland heb ik nog geen bedrijf kunnen vinden, waarbij ik een dergelijke vermelding met reviews heb kunnen vinden.
 
 [![Knowledge Graph panel met volledige reviews](Reviews-in-knowledge-graph-panel.png)](https://lh6.googleusercontent.com/-d8XiEdgyok8/U12IwkmUQYI/AAAAAAAAAqM/iBmxKw5tZFs/w393-h749-no/Reviews-in-knowledge-graph-panel.png)
 
@@ -194,7 +194,7 @@ Met deze wijze woorden sluit ik ook deze podcast dan weer af.
 
 Als je de podcast leuk vindt en je wilt nog meer op de hooge blijven, volg me dan ook op Twitter, via [@reputatiecoach1](https://twitter.com/reputatiecoach1).
 
-Als je wat hebt aan alle informatie die ik met je deel, dan hoor of lees ik dat graag. Help mij met het verder verbeteren en promoten van deze podcast. Surf dan naar [iTunes](https://www.reputatiecoaching.nl/itunes) of [Stitcher](https://www.reputatiecoaching.nl/stitcher), geef de podcast een sterrenbeoordeling en geef ook je reactie. Door de podcast te beoordelen op iTunes en/of Stitcher breng je de podcast namelijk onder de aandacht van een breder publiek.
+Als je wat hebt aan alle informatie die ik met je deel, dan hoor of lees ik dat graag. Help mij met het verder verbeteren en promoten van deze podcast. Surf dan naar [iTunes](https://web.archive.org/web/*/https://www.reputatiecoaching.nl/itunes) of [Stitcher](https://web.archive.org/web/*/https://www.reputatiecoaching.nl/stitcher), geef de podcast een sterrenbeoordeling en geef ook je reactie. Door de podcast te beoordelen op iTunes en/of Stitcher breng je de podcast namelijk onder de aandacht van een breder publiek.
 
 Je kunt me ook verder helpen, door de podcast aan te bevelen bij vrienden of collega’s, waarvan je denkt dat ze er hun voordeel mee kunnen doen, of door ’m te delen op Twitter, like’n en delen op Facebook of een “+1” te geven op Google+.
 
@@ -202,7 +202,7 @@ En vergeet niet: ik ben hier om je te helpen! Als je een vraag of een probleem h
 
 Als je dat te lastig vindt, of als je de podcast beluistert terwijl je in de auto zit en je hebt acuut een vraag, spreek dan een boodschap in op de ReputatieCoaching Hotline, op nummer: 084 - 883 15 56. Mogelijk behandel ik je vraag of probleem dan in een artikel of in de podcast.
 
-En je kunt ook rechtstreeks op de website een voicemail achterlaten, door op de tab aan de rechterkant van elke pagina te klikken, en je bericht in te spreken. Dit was [ReputatieCoaching Podcast aflevering 74](https://www.reputatiecoaching.nl/74/) en mijn naam is [Eduard de Boer](http://nl.linkedin.com/in/eduarddeboer/nl).
+En je kunt ook rechtstreeks op de website een voicemail achterlaten, door op de tab aan de rechterkant van elke pagina te klikken, en je bericht in te spreken. Dit was [ReputatieCoaching Podcast aflevering 74](/nl/archief/reputatiecoaching/074/) en mijn naam is [Eduard de Boer](http://nl.linkedin.com/in/eduarddeboer/nl).
 
 Volg het advies van Matt Cutts waar ik het zojuist over had: blijf goede content produceren, want uiteindelijk is dat de beste manier om hogerop te komen in de zoekresultaten.
 
@@ -215,8 +215,8 @@ Doei!
 Links naar content die in deze podcast aan bod komt:
 
 ```
-  * [ReputatieCoaching Podcast in iTunes](https://www.reputatiecoaching.nl/itunes)
-  * [ReputatieCoaching Podcast op Stitcher](https://www.reputatiecoaching.nl/stitcher)
+  * [ReputatieCoaching Podcast in iTunes](https://web.archive.org/web/*/https://www.reputatiecoaching.nl/itunes)
+  * [ReputatieCoaching Podcast op Stitcher](https://web.archive.org/web/*/https://www.reputatiecoaching.nl/stitcher)
   * [ReputatieCoaching Podcast RSS-feed](https://feeds.reputatiecoaching.nl/ReputatieCoachingPodcast)
   * [Moves App](http://www.moves-app.com) voor iOS en Android
   * “[Google just got ZAGAT Rated!](http://googleblog.blogspot.nl/2011/09/google-just-got-zagat-rated.html)” (Official Google Blog, 8 september 2011)

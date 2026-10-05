@@ -3,6 +3,8 @@ title: '31: Reputatie Berner Sennen, einde Google Reader, SEO voor Slideshare, r
 date: '2013-07-01T22:50:10+00:00'
 description: ReputatieCoaching Podcast aflevering 31! Hallo en hartelijk welkom bij dé bekendste Nederlandstalige podcast over reputatiemanagement en reputatiecoaching, het verbeteren van je online vindbaarheid en optimalisatie van je website voor zoekmachines. Vandaag geen interview, maar wel weer veel nieuws. Echter, door omstandigheden die ik in het blog heb gemeld is deze podcast wat later verschenen dan gepland, waarmee ik zo na de intro begin. Maar laat ik je de onderwerpen voor vandaag vertellen….
 episode: 31
+kgRef: podcast_episode/reputatiecoaching_031
+source_url: https://www.reputatiecoaching.nl/31
 historical: true
 archivePeriod: 2012–2016
 transcriptStatus: full
@@ -16,8 +18,6 @@ showTaxonomies: false
 ---
 
 > **Historisch archief.** Deze aflevering verscheen op 1-07-2013 als onderdeel van ReputatieCoaching (2012–2016). De oorspronkelijke tekst is hieronder historisch bewaard. Diensten, contactgegevens, links, tools en adviezen kunnen inmiddels verouderd zijn.
-
-{{< audio src="https://archive.org/download/20130701-reputatie-coaching-podcast-031/20130701-ReputatieCoaching-Podcast-031.mp3" title="ReputatieCoaching Podcast #031" >}}
 
 **Transcriptiestatus:** Volledige transcriptie uit het oorspronkelijke archief.
 
@@ -58,13 +58,13 @@ Maar goed, je luistert niet naar de podcast om over de gezondheidsreputatie van 
 
 Vandaag was het dan zover: Google is gestopt met haar product Google Reader, de wereldwijd bekende en voorheen vreselijk populaire RSS-reader. Toen dit werd aangekondigd kwam dit als een shock voor de community. Veel bedrijven sprongen snel in deze markt en ik ging op zoek naar een alternatief, omdat ik zelf ook op tientallen RSS-feeds ben geabonneerd en ik daarmee mijn nieuws snel en efficiënt vergaar.
 
-In [podcast 16](https://www.reputatiecoaching.nl/16/) vertelde ik je dat ik nog twijfelde tussen Feedly en de door Digg beloofde opvolger van Google Reader. In de tussentijd heb ik nog een aantal andere RSS-readers bekeken en nu werk ik de afgelopen twee weken al uitsluitend met Feedly. Dat is dus ook de RSS-reader waar mijn keuze op is gevallen. Een deel van de keyboard shortcuts zijn hetzelfde, als die van Google Reader. Wel moest ik even wennen aan de andere manier waarop alle RSS-berichten worden weergegeven, als je er doorheen bladert.
+In [podcast 16](/nl/archief/reputatiecoaching/016/) vertelde ik je dat ik nog twijfelde tussen Feedly en de door Digg beloofde opvolger van Google Reader. In de tussentijd heb ik nog een aantal andere RSS-readers bekeken en nu werk ik de afgelopen twee weken al uitsluitend met Feedly. Dat is dus ook de RSS-reader waar mijn keuze op is gevallen. Een deel van de keyboard shortcuts zijn hetzelfde, als die van Google Reader. Wel moest ik even wennen aan de andere manier waarop alle RSS-berichten worden weergegeven, als je er doorheen bladert.
 
 Maar nu ik er eenmaal aan gewend ben, kan ik er prima mee werken. Ooit had ik je beloofd om je te laten zien hoe ik met Google Reader werkte om snel onderwerpen en leuke content te vinden voor artikelen of voor in de podcast. Maar toen bekend werd dat Google haar Reader zou opheffen, heb ik dit maar even uitgesteld. Dus zodra ik binnenkort nog iets beter met Feedly uit de voeten kan, zal ik daarin het beloofde laten zien.
 
 ## Abonneer je op de nieuwsbrief
 
-Mocht jij in de tussentijd graag automatisch op de hoogte blijven van nieuwe artikelen, instructievideo’s en ReputatieCoaching Podcast boeken, dan adviseer ik je om je gratis te abonneren op al het ReputatieCoaching Nieuws, op: [www.reputatiecoaching.nl/nieuwsbrief](https://www.reputatiecoaching.nl/nieuwsbrief). Dat is het allergemakkelijkste. Sinds deze week hoef je niet meer per se je naam en e-mailadres in te vullen, maar kun je je nog sneller aanmelden via Facebook. Als je al bent ingelogd op Facebook, kun je je nu met slechts twee muisklikken aanmelden voor al het gratis ReputatieCoaching nieuws.
+Mocht jij in de tussentijd graag automatisch op de hoogte blijven van nieuwe artikelen, instructievideo’s en ReputatieCoaching Podcast boeken, dan adviseer ik je om je gratis te abonneren op al het ReputatieCoaching Nieuws, op: [www.reputatiecoaching.nl/nieuwsbrief](https://web.archive.org/web/*/https://www.reputatiecoaching.nl/nieuwsbrief). Dat is het allergemakkelijkste. Sinds deze week hoef je niet meer per se je naam en e-mailadres in te vullen, maar kun je je nog sneller aanmelden via Facebook. Als je al bent ingelogd op Facebook, kun je je nu met slechts twee muisklikken aanmelden voor al het gratis ReputatieCoaching nieuws.
 
 En vanaf het tweede kwartaal van 2013 komt het ReputatieCoaching Podcast boek ook niet meer standaard als download beschikbaar. Als jij de PDF-versie wilt kunnen downloaden om nog eens op je gemak op je eReader na te lezen, dan moet je je abonneren op de nieuwsbrief. Dan krijg je automatisch een mail met de link waar je het boek kunt downloaden, zodra het boek beschikbaar is.
 
@@ -110,7 +110,7 @@ Het is goed mogelijk dat Google zelf een foto kiest om te tonen. Dus is het van 
 
 ## DuckDuckGo naar 3 miljoen in 8 dagen
 
-Nieuws over DuckDuckGo… Ik meldde in [podcast 29](https://www.reputatiecoaching.nl/29/) dat DuckDuckGo enorm groeide en inmiddels al meer dan 2 miljoen zoekpogingen per dag verwerkte. Toen kwam opeens in het nieuws dat de NSA –de Amerikaanse veiligheidsdienst– met PRISM vrijwel het hele Internet in de gaten houdt, nam het aantal dagelijkse zoekpogingen op DuckDuckGo binnen acht dagen met 50% toe. Dus slechts acht dagen nadat deze zoekmachine 2 miljoen zoekpogingen per dag verwerkte, zaten ze al op de 3 miljoen per dag!
+Nieuws over DuckDuckGo… Ik meldde in [podcast 29](/nl/archief/reputatiecoaching/029/) dat DuckDuckGo enorm groeide en inmiddels al meer dan 2 miljoen zoekpogingen per dag verwerkte. Toen kwam opeens in het nieuws dat de NSA –de Amerikaanse veiligheidsdienst– met PRISM vrijwel het hele Internet in de gaten houdt, nam het aantal dagelijkse zoekpogingen op DuckDuckGo binnen acht dagen met 50% toe. Dus slechts acht dagen nadat deze zoekmachine 2 miljoen zoekpogingen per dag verwerkte, zaten ze al op de 3 miljoen per dag!
 
 Reden hiervoor is, dat je op DuckDuckGo nog wel anoniem kunt surfen. Volgens hun zeggen houden zij niet bij wat gebruikers zoeken om de scores van websites te bepalen. Althans, de zoekgegevens zijn niet te herleiden tot individuen of bepaalde IP-adressen, zoals op alle andere social media sites en zoekmachines.
 
@@ -122,7 +122,7 @@ Zoals je op de afbeelding in de show notes kunt zien, kun je het verkeer op Duck
 
 Op CNBC werd dit ook nog eens extra belicht: daar werd DuckDuckGo oprichter en CEO [Gabriel Weinberg geïnterviewd](http://www.cnbc.com/id/100825956). Ik heb de desbetreffende video opgenomen in de show notes.
 
-De show notes kun je trouwens vinden op [www.reputatiecoaching.nl/31](https://www.reputatiecoaching.nl/31).
+De show notes kun je trouwens vinden op [www.reputatiecoaching.nl/31](/nl/archief/reputatiecoaching/031/).
 
 Meteen doorpakkend op haar succes heeft DuckDuckGo ook een gratis app gelanceerd voor de iPhone en iPod Touch. De app heet “[Search & Stories](https://itunes.apple.com/nl/app/duckduckgo-search-stories/id663592361?mt=8&ign-mpt=uo%3D2)”. Natuurlijk heb ik zelf de app ook meteen gedownload. De stories zijn vooralsnog niet toegespitst op de Nederlandstalige markt, dus daarvoor hoef je de app niet te downloaden. Mijn advies is om voorlopig gewoon een op Nederland gerichte nieuwsapp te blijven gebruiken.
 
@@ -182,7 +182,7 @@ dan zie je dat het zelfs mogelijk is op de hele voorpagina van Google te dominer
 
 Het moge duidelijk zijn dat dit dus ook kansen voor jou biedt, als je jouw content beter wilt laten scoren in de zoekmachines. Als je vragen hierover hebt, aarzel dan niet en stuur een mailtje naar [podcast@reputatiecoaching.nl](mailto:podcast@reputatiecoaching.nl). Laat anders een bericht achter, onderaan de show notes, of spreek een voicemail in. Dat kan via de website en ook via de ReputatieCoaching Hotline, op nummer: 084 - 883 15 56.
 
-Heb jij nog meer tips voor het goed laten scoren van je Slideshare content in de zoekresultaten, deel ze dan op [www.reputatiecoaching.nl/31](https://www.reputatiecoaching.nl/31).
+Heb jij nog meer tips voor het goed laten scoren van je Slideshare content in de zoekresultaten, deel ze dan op [www.reputatiecoaching.nl/31](/nl/archief/reputatiecoaching/031/).
 
 ## Siri gebruikt Bing in iOS 7
 
@@ -196,7 +196,7 @@ In beide gevallen geldt dus: als jouw site niet goed scoort op Bing, dan mis je 
 
 ## Verloren reviews in Yelp laten reïncarneren
 
-Yelp is goed voor het verzamelen van reviews. Dit kun je nogmaals beluisteren in het interview met Philippine Wouters –de community manager van Yelp– in [podcast 20](https://www.reputatiecoaching.nl/20/). En zoals ik in mijn [instructievideo voor het aanmelden van je bedrijf op Yelp](https://www.reputatiecoaching.nl/bedrijf-toevoegen-op-yelp-instructievideo/) ook vertel, helpt een bedrijfsvermelding op Yelp om op Apple Maps op de iPhone, iPad en iPod te komen.
+Yelp is goed voor het verzamelen van reviews. Dit kun je nogmaals beluisteren in het interview met Philippine Wouters –de community manager van Yelp– in [podcast 20](/nl/archief/reputatiecoaching/020/). En zoals ik in mijn [instructievideo voor het aanmelden van je bedrijf op Yelp](https://web.archive.org/web/*/https://www.reputatiecoaching.nl/bedrijf-toevoegen-op-yelp-instructievideo/) ook vertel, helpt een bedrijfsvermelding op Yelp om op Apple Maps op de iPhone, iPad en iPod te komen.
 
 Maar je moet oppassen met iedereen te pas en te onpas vragen om zich aan te melden op Yelp, zodat ze een review voor jouw bedrijf en diensten kunnen posten. Want als de persoon in kwestie daarna niets meer doet met of op Yelp, dan is de kans erg groot dat het review verdwijnt naar de zogenaamde “gefilterde reviews”…
 
@@ -284,9 +284,9 @@ Wat doet deze module? Als je het goed bekijkt, zit hij tussen de webserver, waar
 
 Dit heeft dus een positief effect op de gebruiker, die daardoor eerder geneigd is meer op je site te lezen, of de aangeboden pagina daadwerkelijk te bekijken, vooraleer hij of zij op de “Back”-knop klikt.
 
-Grappig genoeg was de site [www.reputatiecoaching.nl](https://www.reputatiecoaching.nl) een uitzondering: die begon allerlei problemen te vertonen, zodra ik de software activeerde. Dus heb ik de software voor die site uitgeschakeld, tot ik weet wat de oorzaak is. Dat was tot op heden de enige site die ik niet kon versnellen met deze module.
+Grappig genoeg was de site [www.reputatiecoaching.nl](https://web.archive.org/web/*/https://www.reputatiecoaching.nl) een uitzondering: die begon allerlei problemen te vertonen, zodra ik de software activeerde. Dus heb ik de software voor die site uitgeschakeld, tot ik weet wat de oorzaak is. Dat was tot op heden de enige site die ik niet kon versnellen met deze module.
 
-Ik denk dat het komt door het WordPress template wat ik voor die site gebruik, maar ik kan het nog niet precies aanwijzen. Mogelijk ga ik in de toekomst het template voor [www.reputatiecoaching.nl](https://www.reputatiecoaching.nl) vervangen, waarna de software wel goed werkt!
+Ik denk dat het komt door het WordPress template wat ik voor die site gebruik, maar ik kan het nog niet precies aanwijzen. Mogelijk ga ik in de toekomst het template voor [www.reputatiecoaching.nl](https://web.archive.org/web/*/https://www.reputatiecoaching.nl) vervangen, waarna de software wel goed werkt!
 
 Het is op dit moment nog te vroeg om conclusies te trekken, want deze software is pas operationeel sinds eind vorige week. Maar zoals bij elke verandering: ik houd precies bij wanneer ik iets verander en dan houd ik alles extra goed in de gaten. Zodra ik zicht heb op de mogelijke effecten, dan deel ik ze zo snel mogelijk met je, zodat jij er ook je voordeel mee kunt doen.
 
@@ -298,9 +298,9 @@ Als je de podcast leuk vindt en je hebt inderdaad wat aan alle informatie die ik
 
 Als je een vraag of een probleem hebt met betrekking tot je online reputatie of de vindbaarheid van je website, kun je een mailtje sturen naar [podcast@reputatiecoaching.nl](mailto:podcast@reputatiecoaching.nl). Als je dat te lastig vindt, of als je de podcast beluistert terwijl je in de auto zit en je hebt acuut een vraag, spreek dan een boodschap in op de ReputatieCoaching Hotline, op nummer: 084 - 883 15 56. Mogelijk behandel ik je vraag of probleem dan in een artikel of in de podcast.
 
-Als laatste kun je je ook inschrijven voor de nieuwsbrief. Dan ontvang je altijd als eerste het laatste nieuws wat ik publiceer en automatisch elk kwartaal het ReputatieCoaching Podcast Boek van het afgelopen kwartaal. Surf daartoe naar [www.reputatiecoaching.nl/nieuwsbrief](https://www.reputatiecoaching.nl/nieuwsbrief) en schrijf je meteen in.
+Als laatste kun je je ook inschrijven voor de nieuwsbrief. Dan ontvang je altijd als eerste het laatste nieuws wat ik publiceer en automatisch elk kwartaal het ReputatieCoaching Podcast Boek van het afgelopen kwartaal. Surf daartoe naar [www.reputatiecoaching.nl/nieuwsbrief](https://web.archive.org/web/*/https://www.reputatiecoaching.nl/nieuwsbrief) en schrijf je meteen in.
 
-En je kunt rechtstreeks op de website een voicemail achterlaten, door op de tab aan de rechterkant van elke pagina te klikken, en je bericht in te spreken. Dit was [ReputatieCoaching Podast aflevering 31](https://www.reputatiecoaching.nl/31) en mijn naam is [Eduard de Boer](http://nl.linkedin.com/in/eduarddeboer).
+En je kunt rechtstreeks op de website een voicemail achterlaten, door op de tab aan de rechterkant van elke pagina te klikken, en je bericht in te spreken. Dit was [ReputatieCoaching Podast aflevering 31](/nl/archief/reputatiecoaching/031/) en mijn naam is [Eduard de Boer](http://nl.linkedin.com/in/eduarddeboer).
 
 Ik wens iedereen de komende week weer succes met het werken aan je reputatie, zodat je meteen je reputatie voor jou kunt laten werken!
 

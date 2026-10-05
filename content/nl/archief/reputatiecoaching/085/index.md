@@ -3,6 +3,8 @@ title: '85: Facebook niet meer nummer 1, boete voor negatieve review en Google v
 date: '2014-07-17T06:30:37+00:00'
 description: In de show vandaag begin ik met een korte terugblik op de podcast van vorige week en dan in het bijzonder op het verdwijnen van de Authorship profielfoto’s uit de zoekresultaten en problemen met de ‘robots.txt’-file. Als tweede heb ik, net als vorige week, weer een praktijktip, gebaseerd op een concreet probleem dat ik afgelopen week heb opgelost. Aan het begin van deze week heb ik een presentatie gegeven aan de leden van de JCI, de Juniorkamer in Apeldoorn; daarover zo meer.
 episode: 85
+kgRef: podcast_episode/reputatiecoaching_085
+source_url: https://www.reputatiecoaching.nl/85
 historical: true
 archivePeriod: 2012–2016
 transcriptStatus: full
@@ -17,8 +19,6 @@ showTaxonomies: false
 
 > **Historisch archief.** Deze aflevering verscheen op 17-07-2014 als onderdeel van ReputatieCoaching (2012–2016). De oorspronkelijke tekst is hieronder historisch bewaard. Diensten, contactgegevens, links, tools en adviezen kunnen inmiddels verouderd zijn.
 
-{{< audio src="https://archive.org/download/20140717-reputatie-coaching-podcast-085/20140717-ReputatieCoaching-Podcast-085.mp3" title="ReputatieCoaching Podcast #085" >}}
-
 **Transcriptiestatus:** Volledige transcriptie uit het oorspronkelijke archief.
 
 ***Historische afbeelding niet beschikbaar: ReputatieCoaching Podcast*
@@ -28,11 +28,11 @@ Hallo en hartelijk welkom bij deze aflevering van de ReputatieCoaching Podcast. 
 
 Als persoon kun je met de diverse tips aan de slag om bijvoorbeeld je online reputatie als columnist, ergotherapeut, heilsoldaat, acrobaat, bankdirecteur of wat dan ook te verbeteren.
 
-De podcast kun je vinden op [www.reputatiecoaching.nl/85](https://www.reputatiecoaching.nl/85/). Daar vind je niet alleen de tekst, maar ook video’s waar ik het in deze uitzending over heb, alsmede afbeeldingen, links enzovoorts. Bovendien is de podcast te beluisteren in [iTunes](https://www.reputatiecoaching.nl/itunes) en op [Stitcher](https://www.reputatiecoaching.nl/stitcher). Daar kun je je dus ook abonneren op de wekelijkse podcast. Veel mensen vinden het ideaal om de wekelijkse afleveringen van de podcast op hun gemak te beluisteren, terwijl ze autorijden.
+De podcast kun je vinden op [www.reputatiecoaching.nl/85](/nl/archief/reputatiecoaching/085/). Daar vind je niet alleen de tekst, maar ook video’s waar ik het in deze uitzending over heb, alsmede afbeeldingen, links enzovoorts. Bovendien is de podcast te beluisteren in [iTunes](https://web.archive.org/web/*/https://www.reputatiecoaching.nl/itunes) en op [Stitcher](https://web.archive.org/web/*/https://www.reputatiecoaching.nl/stitcher). Daar kun je je dus ook abonneren op de wekelijkse podcast. Veel mensen vinden het ideaal om de wekelijkse afleveringen van de podcast op hun gemak te beluisteren, terwijl ze autorijden.
 
 ## Terugblik op podcast 84
 
-Vorige week in [podcast 84](https://www.reputatiecoaching.nl/84/) vertelde ik je over een artikel van WordStream, waarin werd verondersteld dat Google de Authorship profielfoto’s heeft verwijderd om zo meer kliks te genereren op de advertenties. Dat was toen een vermoeden.
+Vorige week in [podcast 84](/nl/archief/reputatiecoaching/084/) vertelde ik je over een artikel van WordStream, waarin werd verondersteld dat Google de Authorship profielfoto’s heeft verwijderd om zo meer kliks te genereren op de advertenties. Dat was toen een vermoeden.
 
 Inmiddels heeft WordStream aangetoond dat het verwijderen van de profielfoto’s een verhoging in CTR op de advertenties realiseert van 44,8%! Moet je voorstellen wat dit voor effect heeft op de advertentieinkomsten van Google! Die worden opeens bijna anderhalf keer zo groot! (Dat is tenminste, als je ervan uitgaat dat andere factoren ongewijzigd blijven).
 
@@ -189,7 +189,7 @@ Ik zal je nog even wat meer statistieken geven tot en met de 10e plaats:
   8. Tumblr.com 25,598,422
 ```
 
-De exacte getallen vind je terug in de show notes, op [www.reputatiecoaching.nl/85](https://www.reputatiecoaching.nl/85/).
+De exacte getallen vind je terug in de show notes, op [www.reputatiecoaching.nl/85](/nl/archief/reputatiecoaching/085/).
 
 Hoewel Google+ nog onder éénderde van het volume van Facebook zit, staat het toch al wel op de vierde plaats. Je kunt zien dat je de gegevens van een dergelijk onderzoek niet zomaar 1:1 mag doortrekken naar Nederland, want ik verwacht dat weinig Nederlanders vorige maand op de site “answers.yahoo.com” hebben zitten grasduinen… Een andere waarvan ik niet had verwacht, dat die er tussen zou staan, is MySpace.com. MySpace is lange tijd uit de lucht geweest en is volgens mij een goed jaar geleden weer actief geworden. Die doen het dus niet zo slecht, ondanks dat ze ooit op sterven na dood waren.
 
@@ -207,7 +207,7 @@ Dus: wees er volgende week ook weer bij, want het belooft een interessant interv
 
 Als je de podcast leuk vindt en je wilt nog meer op de hoogte blijven, volg me dan ook op Twitter, via [@reputatiecoach1](https://twitter.com/reputatiecoach1).
 
-Heb je inderdaad wat aan alle informatie die ik met je deel, help mij dan met het verder verbeteren en promoten van deze podcast. Surf daarvoor naar [iTunes](https://www.reputatiecoaching.nl/itunes) of [Stitcher](https://www.reputatiecoaching.nl/stitcher), geef de podcast een sterrenbeoordeling en laat ook je reactie achter. Door de podcast te beoordelen op iTunes en/of Stitcher breng je de podcast onder de aandacht van een breder publiek.
+Heb je inderdaad wat aan alle informatie die ik met je deel, help mij dan met het verder verbeteren en promoten van deze podcast. Surf daarvoor naar [iTunes](https://web.archive.org/web/*/https://www.reputatiecoaching.nl/itunes) of [Stitcher](https://web.archive.org/web/*/https://www.reputatiecoaching.nl/stitcher), geef de podcast een sterrenbeoordeling en laat ook je reactie achter. Door de podcast te beoordelen op iTunes en/of Stitcher breng je de podcast onder de aandacht van een breder publiek.
 
 Je kunt me verder helpen, door de podcast aan te bevelen bij vrienden of collega’s, waarvan je denkt dat ze er hun voordeel mee kunnen doen, of door ’m te delen op Twitter, like’n en delen op Facebook of een “+1” te geven op Google+.
 
@@ -215,7 +215,7 @@ En vergeet niet: ik ben hier om je te helpen! Als je een vraag of een probleem h
 
 Als je dat te lastig vindt, of als je de podcast beluistert terwijl je in de auto zit en je hebt acuut een vraag, spreek dan een boodschap in op de ReputatieCoaching Hotline, op nummer: 084 - 883 15 56. Mogelijk behandel ik je vraag of probleem dan in een artikel of in de podcast.
 
-En je kunt ook rechtstreeks op de website een voicemail achterlaten, door op de tab aan de rechterkant van elke pagina te klikken, en je bericht in te spreken. Dit was [ReputatieCoaching Podcast aflevering 85](https://www.reputatiecoaching.nl/85/) en mijn naam is [Eduard de Boer](http://nl.linkedin.com/in/eduarddeboer/nl).
+En je kunt ook rechtstreeks op de website een voicemail achterlaten, door op de tab aan de rechterkant van elke pagina te klikken, en je bericht in te spreken. Dit was [ReputatieCoaching Podcast aflevering 85](/nl/archief/reputatiecoaching/085/) en mijn naam is [Eduard de Boer](http://nl.linkedin.com/in/eduarddeboer/nl).
 
 Ik wens je de komende week weer succes met het werken aan je reputatie, zodat je meteen je reputatie voor jou kunt laten werken!
 
@@ -226,7 +226,7 @@ Doei!
 Links naar content die in deze podcast aan bod komt:
 
 ```
-  * [ReputatieCoaching Podcast in iTunes](https://www.reputatiecoaching.nl/itunes)
-  * [ReputatieCoaching Podcast op Stitcher](https://www.reputatiecoaching.nl/stitcher)
+  * [ReputatieCoaching Podcast in iTunes](https://web.archive.org/web/*/https://www.reputatiecoaching.nl/itunes)
+  * [ReputatieCoaching Podcast op Stitcher](https://web.archive.org/web/*/https://www.reputatiecoaching.nl/stitcher)
   * [ReputatieCoaching Podcast RSS-feed](https://feeds.reputatiecoaching.nl/ReputatieCoachingPodcast)
 ```

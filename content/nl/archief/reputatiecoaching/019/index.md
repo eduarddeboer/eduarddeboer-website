@@ -3,6 +3,8 @@ title: Podcast Aflevering 19 (06-04-2013)
 date: '2013-04-06T18:00:40+00:00'
 description: 'ReputatieCoaching Podcast aflevering 19! Vorige week had ik een leuk interview met Gé Bouma van Bouma Webteksten. Zij heeft veel waardevolle informatie met ons gedeeld over reputatiemanagement: hoe je je online en offline reputatie moet bewaken en wat je kunt doen in het geval van reputatieschade. Zij heeft me afgelopen week een aantal leuke reputatiegerelateerde zaken toegestuurd, waarover ik komende week een blogbericht ga schrijven. In deze podcast heb ik geen interview, maar wel weer een aantal wetenswaardige tips en nieuwsberichten uit de wereld van online marketing, reputatiemanagement en zoek machine optimalisatie.'
 episode: 19
+kgRef: podcast_episode/reputatiecoaching_019
+source_url: https://www.reputatiecoaching.nl/19
 historical: true
 archivePeriod: 2012–2016
 transcriptStatus: full
@@ -16,8 +18,6 @@ showTaxonomies: false
 ---
 
 > **Historisch archief.** Deze aflevering verscheen op 6-04-2013 als onderdeel van ReputatieCoaching (2012–2016). De oorspronkelijke tekst is hieronder historisch bewaard. Diensten, contactgegevens, links, tools en adviezen kunnen inmiddels verouderd zijn.
-
-{{< audio src="https://archive.org/download/20130406-reputatie-coaching-podcast-019/20130406-ReputatieCoaching-Podcast-019.mp3" title="ReputatieCoaching Podcast #019" >}}
 
 **Transcriptiestatus:** Volledige transcriptie uit het oorspronkelijke archief.
 
@@ -75,11 +75,11 @@ Vorige week had ik een leuk interview met Gé Bouma van Bouma Webteksten. Zij he
 
 *Samenvattend: ik raad je aan om eens de links onderaan de show notes te volgen en iets meer te lezen over wie er wel een kopie mag maken van je identiteitsbewijs. Zo sta je sterker in je schoenen als je een discussie hierover aangaat en kun je mogelijk reputatieschade voorkomen.*
 
-*Je kunt de transcriptie met de show notes van deze podcast vinden, door te surfen naar: [www.reputatiecoaching.nl/19](https://www.reputatiecoaching.nl/19). Daar vind je dus zowel de tekst van de podcast als nog wat afbeeldingen, foto’s en de diverse links die in deze podcast aan bod komen.*
+*Je kunt de transcriptie met de show notes van deze podcast vinden, door te surfen naar: [www.reputatiecoaching.nl/19](/nl/archief/reputatiecoaching/019/). Daar vind je dus zowel de tekst van de podcast als nog wat afbeeldingen, foto’s en de diverse links die in deze podcast aan bod komen.*
 
-*Nu ik het toch even over deze podcast heb: als je de podcast leuk vindt, laat het me dan weten. Vertel erover aan je vrienden of collega’s of laat een review achter op iTunes. Ook stel ik het op prijs als je een bericht achterlaat op onze Facebookpagina, op: [www.reputatiecoaching.nl/facebook](https://www.reputatiecoaching.nl/facebook). Of geef een “+1” op Google+. De Google+ pagina kun je vinden op: [www.reputatiecoaching.nl/gplus](https://www.reputatiecoaching.nl/gplus) (dat is “g-p-l-u-s”).*
+*Nu ik het toch even over deze podcast heb: als je de podcast leuk vindt, laat het me dan weten. Vertel erover aan je vrienden of collega’s of laat een review achter op iTunes. Ook stel ik het op prijs als je een bericht achterlaat op onze Facebookpagina, op: [www.reputatiecoaching.nl/facebook](https://web.archive.org/web/*/https://www.reputatiecoaching.nl/facebook). Of geef een “+1” op Google+. De Google+ pagina kun je vinden op: [www.reputatiecoaching.nl/gplus](https://web.archive.org/web/*/https://www.reputatiecoaching.nl/gplus) (dat is “g-p-l-u-s”).*
 
-*Je kunt ook een leuke recensie achterlaten op op mijn LinkedIn-profiel, op: [www.reputatiecoaching.nl/linkedin](https://www.reputatiecoaching.nl/linkedin).*
+*Je kunt ook een leuke recensie achterlaten op op mijn LinkedIn-profiel, op: [www.reputatiecoaching.nl/linkedin](https://web.archive.org/web/*/https://www.reputatiecoaching.nl/linkedin).*
 
 *Natuurlijk kun je ook simpelweg een reactie posten, onderaan de transcriptie van deze podcast.*
 
@@ -96,7 +96,7 @@ Vorige week had ik een leuk interview met Gé Bouma van Bouma Webteksten. Zij he
 
 *Waarschijnlijk komt dit mede doordat Apple Maps nog niet echt supervolledig is, qua bedrijven die erin te vinden zijn. Ik ben echt benieuwd wanneer Apple hier nu eens iets aan gaat doen, en wat ze er überhaupt aan gaan doen. Ik wacht wel af.*
 
-*Dit brengt me nog eventjes op de twee instructievideo’s die ik ooit heb gemaakt, die je kunnen helpen om je bedrijf op Apple Maps te krijgen, als je daar nog niet staat vermeld. Controleer dus eerst of jouw bedrijf op Apple Maps is te vinden. Zo niet, [meld dan als eerste je bedrijf aan op Yelp](https://www.reputatiecoaching.nl/bedrijf-toevoegen-op-yelp-instructievideo/). Ga daarna naar TomTom Places, om je [bedrijf op TomTom aan te melden](https://www.reputatiecoaching.nl/zet-je-bedrijf-op-de-kaart-van-tomtom/). Dan is de kans groot, dat je bedrijf binnen een paar weken vindbaar is in Apple Maps. In de show notes heb ik nog een keertje gelinkt naar die instructievideo’s.*
+*Dit brengt me nog eventjes op de twee instructievideo’s die ik ooit heb gemaakt, die je kunnen helpen om je bedrijf op Apple Maps te krijgen, als je daar nog niet staat vermeld. Controleer dus eerst of jouw bedrijf op Apple Maps is te vinden. Zo niet, [meld dan als eerste je bedrijf aan op Yelp](https://web.archive.org/web/*/https://www.reputatiecoaching.nl/bedrijf-toevoegen-op-yelp-instructievideo/). Ga daarna naar TomTom Places, om je [bedrijf op TomTom aan te melden](https://web.archive.org/web/*/https://www.reputatiecoaching.nl/zet-je-bedrijf-op-de-kaart-van-tomtom/). Dan is de kans groot, dat je bedrijf binnen een paar weken vindbaar is in Apple Maps. In de show notes heb ik nog een keertje gelinkt naar die instructievideo’s.*
 
 *Het laatste nieuwtje over Facebook is dat Facebook binnenkort net als Twitter, Google+, Pinterest en nog een paar social media sites ook de zogenaamde hashtags gaat ondersteunen. Zo kunnen mensen Facebook berichten van tags voorzien, waardoor de berichten later gemakkelijker zijn te vinden. Ook kan dit Facebook helpen trends te herkennen, net als de trending topics op Twitter. En zo kan Facebook langzaamaan de “gepersonaliseerde krant” voor iedere gebruiker worden, een lang gekoesterde droom van Mark Zuckerberg, de oprichter van Facebook.*
 
@@ -116,7 +116,7 @@ Vorige week had ik een leuk interview met Gé Bouma van Bouma Webteksten. Zij he
 
 *Dus neem me alsjeblieft niet kwalijk dat ik nog niet alle ins en outs en de verschillen etc. kan benoemen. Ook hier ga ik in duiken en ik kom er zeker op terug, zodra het voor mij allemaal weer duidelijk is.*
 
-*Ik gebruik nog steeds Google Reader, voor het lezen van de RSS-feeds. Maar zoals ik in podcast 16 al vertelde, [stopt Google op 1 juli met Google Reader](https://www.reputatiecoaching.nl/podcast-16/). Inmiddels ben ik ook al met diverse andere RSS-readers aan het experimenteren. Ik had ooit lang geleden al eens beloofd een video te maken over hoe ik Google Reader gebruikte voor het scannen en lezen van al het nieuws, maar daar is nu natuurlijk een beetje de klad in gekomen. Zodra ik mijn keuze heb gemaakt, zal in een instructievideo mijn werkwijze op dat moment laen zien, met de RSS-reader die ik dan gebruik.*
+*Ik gebruik nog steeds Google Reader, voor het lezen van de RSS-feeds. Maar zoals ik in podcast 16 al vertelde, [stopt Google op 1 juli met Google Reader](https://web.archive.org/web/*/https://www.reputatiecoaching.nl/podcast-16/). Inmiddels ben ik ook al met diverse andere RSS-readers aan het experimenteren. Ik had ooit lang geleden al eens beloofd een video te maken over hoe ik Google Reader gebruikte voor het scannen en lezen van al het nieuws, maar daar is nu natuurlijk een beetje de klad in gekomen. Zodra ik mijn keuze heb gemaakt, zal in een instructievideo mijn werkwijze op dat moment laen zien, met de RSS-reader die ik dan gebruik.*
 
 \_[\*\*[Historische afbeelding: bekijk bron](https://lh6.googleusercontent.com/NffsrYfDuH8FJLa7uiX7O6Nm-bhrI5DBWl_AVVrkwazRjRB2zVCnmd1VotISRYPuxMN6Qw5xeWg9f1l0Ut0pcwZGozztzO4qnJAcSx0xHYN5ET2GOdtg_fPJHg)
 \*\*](http://partnerprogramma.bol.com/click/click?p=1&t=url&s=&url=http%3A//www.bol.com/nl/p/get-social-in-business/9200000006307325/&f=TXL&name=GetSocialinBusiness)Maar al lezend liep ik vanmiddag tegen een leuk artikel aan op FrankWatching.nl. De titel van het artikel is: “[De 5 A’s voor werkzoekenden: word een online persoonlijkheid](https://www.frankwatching.com/archive/2013/04/04/werkvinders-zo-word-je-een-online-persoonlijkheid/)” en het is geschreven door Jeanet Bathoorn. Jeanet is een social media expert, auteur, trainer en internationaal spreker. Ze is in januari met haar boek “Get social in business” ook genomineerd voor Managementboek van het jaar.\_
@@ -155,7 +155,7 @@ Vorige week had ik een leuk interview met Gé Bouma van Bouma Webteksten. Zij he
 
 *In het artikel stond de tweede “A” voor “Alert”. Hier heb ik nog een leuke tip over. Die heet ook letterlijk “Google Alerts”. Je kunt deze dienst vinden op [www.google.nl/alerts](http://www.google.nl/alerts). Met deze dienst kun je heel goed op de hoogte blijven wat er wereldwijd speelt ten aanzien van bepaalde onderwerpen die voor jou van belang zijn.*
 
-*Zo kan ik me goed voorstellen, dat je als bedrijf in het kader van reputatiemanagement precies wilt weten, wat er waar over jouw bedrijf wordt geschreven. Zodra jouw bedrijfsnaam ergens op Internet opduikt, wil je graag een signaaltje krijgen, zodat je kunt nalezen wat er over je bedrijf wordt gezegd, waarna je er op kunt reageren. Zoals Gé Bouma ook in de [vorige podcast](https://www.reputatiecoaching.nl/podcast-18/) vertelde, kun je op deze manier veel reputatieschade in de kiem smoren, nog voordat het escaleert.*
+*Zo kan ik me goed voorstellen, dat je als bedrijf in het kader van reputatiemanagement precies wilt weten, wat er waar over jouw bedrijf wordt geschreven. Zodra jouw bedrijfsnaam ergens op Internet opduikt, wil je graag een signaaltje krijgen, zodat je kunt nalezen wat er over je bedrijf wordt gezegd, waarna je er op kunt reageren. Zoals Gé Bouma ook in de [vorige podcast](https://web.archive.org/web/*/https://www.reputatiecoaching.nl/podcast-18/) vertelde, kun je op deze manier veel reputatieschade in de kiem smoren, nog voordat het escaleert.*
 
 \_Als je naar de URL [www.google.nl/alerts](http://www.google.nl/alerts) gaat, zie je het scherm, zoals ik dat in de show notes heb opgenomen.[Historische afbeelding: bekijk bron](https://lh4.googleusercontent.com/gm843wTSuNm0l-zD-r406vxXF-kDSeHgjNNKXg-rE9xkQSumk86ZQ-JodsaAhWbpkmGFhtQpHKGgxsh3N0yS0q8JMJoN8WuVRI7ZggGIJOb06ShZGn2SXo6IFg)
 \_
@@ -180,7 +180,7 @@ Vorige week had ik een leuk interview met Gé Bouma van Bouma Webteksten. Zij he
 
 *Deze gratis dienst van Google kan je dus ook helpen met het bewaken van je eigen online reputatie en mijn advies is: kijk er eens naar en zie of je er iets zinnigs mee kunt. Ik vind de service erg handig en ik maak er dan ook dankbaar gebruik van.*
 
-*Als je opmerkingen hebt over deze podcast, laat die dan op de website onderaan de transcriptie achter. Je kunt de transcriptie van deze podcast snel online vinden door te surfen naar: [www.reputatiecoaching.nl/19/](https://www.reputatiecoaching.nl/19/). Als je ergens een recensie hebt geplaatst, stuur me dan een mailtje zodat ik je recensie kan vermelden in de podcast.*
+*Als je opmerkingen hebt over deze podcast, laat die dan op de website onderaan de transcriptie achter. Je kunt de transcriptie van deze podcast snel online vinden door te surfen naar: [www.reputatiecoaching.nl/19/](/nl/archief/reputatiecoaching/019/). Als je ergens een recensie hebt geplaatst, stuur me dan een mailtje zodat ik je recensie kan vermelden in de podcast.*
 
 *Als je een vraag of een probleem hebt met betrekking tot je online reputatie, stuur dan een mailtje naar [podcast@reputatiecoaching.nl](mailto:podcast@reputatiecoaching.nl) of spreek een boodschap in op de ReputatieCoaching Hotline, op: 084 - 883 15 56. Mogelijk behandel ik je vraag of probleem dan in een artikel of in de podcast.*
 

@@ -3,6 +3,8 @@ title: '145: Spammy backlinks? Podcast nu op SoundCloud! Tooltip voor het bewake
 date: '2015-09-10T06:30:20+00:00'
 description: Allereerst excuses voor het later verschijnen van deze podcast. Hoe dat komt, leg ik zo uit. Dan heb ik een recent geval van reputatieschade, dat kortstondig van alle media wereldwijd vrijwel onverdeelde aandacht kreeg, maar nog lang na zal denderen voor de betrokkene. Ik heb afgelopen anderhalve week al tweemaal moeten helpen bij het opschonen van een zogenaamd “spammy” linkprofiel. Daar wil ik je iets meer over vertellen, inclusief het disavowen van spammy backlinks bij Google.
 episode: 145
+kgRef: podcast_episode/reputatiecoaching_145
+source_url: https://www.reputatiecoaching.nl/145
 historical: true
 archivePeriod: 2012–2016
 transcriptStatus: full
@@ -17,8 +19,6 @@ showTaxonomies: false
 
 > **Historisch archief.** Deze aflevering verscheen op 10-09-2015 als onderdeel van ReputatieCoaching (2012–2016). De oorspronkelijke tekst is hieronder historisch bewaard. Diensten, contactgegevens, links, tools en adviezen kunnen inmiddels verouderd zijn.
 
-{{< audio src="https://archive.org/download/20150910-reputatie-coaching-podcast-145/20150910-ReputatieCoaching-Podcast-145.mp3" title="ReputatieCoaching Podcast #145" >}}
-
 **Transcriptiestatus:** Volledige transcriptie uit het oorspronkelijke archief.
 
 ***Historische afbeelding niet beschikbaar: ReputatieCoaching Podcast*
@@ -30,7 +30,7 @@ Allereerst excuses voor het later verschijnen van deze podcast. Hoe dat komt, le
 
 Hallo en hartelijk welkom bij deze aflevering van de ReputatieCoaching Podcast. Ik ben Eduard de Boer, ReputatieCoach. Dit is dé podcast die jou helpt om meer business te genereren, doordat jouw website beter gevonden wordt, zowel lokaal als landelijk en doordat ik je uitleg hoe je je online reputatie kunt verbeteren. Dit alles helpt je om je bedrijf en jezelf beter op de online kaart te plaatsen.
 
-De podcast kun je vinden op [www.reputatiecoaching.nl/145](https://www.reputatiecoaching.nl/145/). Daar vind je niet alleen de tekst, maar ook video’s waar ik het in deze uitzending over heb, alsmede afbeeldingen, links enzovoorts. Bovendien is de podcast te beluisteren in [iTunes](https://www.reputatiecoaching.nl/itunes), op [Stitcher](https://www.reputatiecoaching.nl/stitcher) en op [TuneIn Radio](http://tunein.com/radio/ReputatieCoaching-Podcast-p655084/). Bovendien kun je inmiddels de eerste 15 podcasts ook beluisteren op [SoundCloud](https://soundcloud.com/reputatiecoaching).
+De podcast kun je vinden op [www.reputatiecoaching.nl/145](/nl/archief/reputatiecoaching/145/). Daar vind je niet alleen de tekst, maar ook video’s waar ik het in deze uitzending over heb, alsmede afbeeldingen, links enzovoorts. Bovendien is de podcast te beluisteren in [iTunes](https://web.archive.org/web/*/https://www.reputatiecoaching.nl/itunes), op [Stitcher](https://web.archive.org/web/*/https://www.reputatiecoaching.nl/stitcher) en op [TuneIn Radio](http://tunein.com/radio/ReputatieCoaching-Podcast-p655084/). Bovendien kun je inmiddels de eerste 15 podcasts ook beluisteren op [SoundCloud](https://soundcloud.com/reputatiecoaching).
 
 Ik raad je aan om je op één van deze kanalen te abonneren op de podcast, zodat je geen aflevering hoeft te missen! Wacht nog heel even met SoundCloud. Want als ik eenmaal alle podcasts ook daar heb geüpload, dan ga ik vanaf dat moment elke nieuwe podcast ook verspreiden via SoundCloud.
 
@@ -48,7 +48,7 @@ Hoewel ik vrijwel geen trouwreportages meer doe, heb ik toen aangeboden een voll
 
 Nia haar moeder is eerst vroeg in de ochtend nog naar de kapper gegaan, waarna het gezin helemaal vanuit Groningen naar Apeldoorn is gekomen. Ze hebben eerst bij ons thuis koffie gedronken, waarna ik hen mee heb genomen, de hei op. Het was vandaag een prachtige dag: licht bewolkt, blauwe lucht, zonneschijn… Dus wat wil je nog meer. Het was DE perfecte dag om je trouwdag nogmaals te beleven!
 
-In de show notes, op [www.reputatiecoaching.nl/145](https://www.reputatiecoaching.nl/145/) heb ik een foto opgenomen van het gezin, waarin je kunt zien hoe ze genieten van het herbeleven van hun trouwdag, dit keer onder veel positievere omstandigheden!
+In de show notes, op [www.reputatiecoaching.nl/145](/nl/archief/reputatiecoaching/145/) heb ik een foto opgenomen van het gezin, waarin je kunt zien hoe ze genieten van het herbeleven van hun trouwdag, dit keer onder veel positievere omstandigheden!
 
 [Historische afbeelding: Against Cancer Trouwreportage](https://lh3.googleusercontent.com/7xJmfgHDhEErZExSqvg2wjpuuYBCrVqMVqgZFxXUbhhoWHIL9abd=w600-no)
 
@@ -187,7 +187,7 @@ In juni liet Facebook nog weten dat het record op 968 miljoen stond, maar dat is
 *Historische afbeelding niet beschikbaar: RepWarn*
 Soms kom je een leuke tool tegen, eentje waar je echt iets aan hebt. Dit keer liep ik tegen een soort van eigen zoekmachine aan, en niet zomaar eentje! Maar voordat je te enthousiast wordt even een waarschuwing: deze tool is niet gratis! Hij kost US$97 per maand en is daarmee ook niet voor iedereen weggelegd… Gelukkig kun je ’m ook voor US$1 gedurende 7 dagen uitproberen.
 
-Ik heb het over de deze week uitgekomen [RepWarn](https://www.reputatiecoaching.nl/repwarn). Dit is een Reputatie Management en Keyword Monitoring Tool. Als je Google Alerts kent… en TalkWalker… Dan is dit de volgende generatie tool.
+Ik heb het over de deze week uitgekomen [RepWarn](https://web.archive.org/web/*/https://www.reputatiecoaching.nl/repwarn). Dit is een Reputatie Management en Keyword Monitoring Tool. Als je Google Alerts kent… en TalkWalker… Dan is dit de volgende generatie tool.
 
 RepWarn houdt het web 24x7 in de gaten. Het kan je bedrijfsnaam monitoren, je producten, mensen en zelfs je concurrenten en hun producten. Wat dacht je van het in de gaten houden van de citations van je concurrenten? Dat kun je simpelweg instellen en je krijg automatisch elke dag e-mail updates met wat er nieuw is gevonden.
 
@@ -195,7 +195,7 @@ Ook kun je het inzetten om gemakkelijk nieuwe bestemmingen voor je citations te 
 
 Binnenkort zal ik een demonstratievideo maken van RepWarn om je te laten zien hoe krachtig het is en hoe je het zoal kunt inzetten voor zowel het beschermen van je huidige business (lees: je reputatie), alsmede voor het vinden van nieuwe leads en dergelijke.
 
-Kijk eens naar [RepWarn](https://www.reputatiecoaching.nl/repwarn) en vertel me onderaan de show notes op [www.reputatiecoaching.nl/145](https://www.reputatiecoaching.nl/145/) of het je iets lijkt. Als je wilt kan ik eens een zoekopdracht voor je uitzetten om je te laten zien wat er zoal naar boven komt.
+Kijk eens naar [RepWarn](https://web.archive.org/web/*/https://www.reputatiecoaching.nl/repwarn) en vertel me onderaan de show notes op [www.reputatiecoaching.nl/145](/nl/archief/reputatiecoaching/145/) of het je iets lijkt. Als je wilt kan ik eens een zoekopdracht voor je uitzetten om je te laten zien wat er zoal naar boven komt.
 
 En met deze tooltip kom ik dan weer aan het einde van deze podcast.
 
@@ -205,7 +205,7 @@ Heb je inderdaad wat aan alle informatie die ik met je deel, help mij dan met he
 
 Op de website kun je me een berichtje sturen en zelfs een gratis consult inboeken. Ook kun je me bellen op 084–8831556 en zelfs rechtstreeks op de website een voicemail achterlaten.
 
-Dit was [ReputatieCoaching Podcast aflevering 145](https://www.reputatiecoaching.nl/145/) en mijn naam is [Eduard de Boer](http://nl.linkedin.com/in/eduarddeboer/nl).
+Dit was [ReputatieCoaching Podcast aflevering 145](/nl/archief/reputatiecoaching/145/) en mijn naam is [Eduard de Boer](http://nl.linkedin.com/in/eduarddeboer/nl).
 
 Ik wens je de komende week weer succes met het werken aan je reputatie, zodat je meteen je reputatie voor jou kunt laten werken!
 
@@ -216,8 +216,8 @@ Doei!
 Links naar content die in deze podcast aan bod komt:
 
 ```
-  * [ReputatieCoaching Podcast in iTunes](https://www.reputatiecoaching.nl/itunes)
-  * [ReputatieCoaching Podcast op Stitcher](https://www.reputatiecoaching.nl/stitcher)
+  * [ReputatieCoaching Podcast in iTunes](https://web.archive.org/web/*/https://www.reputatiecoaching.nl/itunes)
+  * [ReputatieCoaching Podcast op Stitcher](https://web.archive.org/web/*/https://www.reputatiecoaching.nl/stitcher)
   * [ReputatieCoaching Podcast op TuneIn Radio](http://tunein.com/radio/ReputatieCoaching-Podcast-p655084/)
   * [ReputatieCoaching Podcast op Soundcloud](https://soundcloud.com/reputatiecoaching)
   * [ReputatieCoaching Podcast RSS-feed](https://feeds.reputatiecoaching.nl/ReputatieCoachingPodcast)

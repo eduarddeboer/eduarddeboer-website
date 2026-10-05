@@ -3,6 +3,8 @@ title: '153: Podcast nieuwe stijl! Podcast binnenkort op Google Play Music?! Nie
 date: '2015-11-05T07:30:40+00:00'
 description: 'De podcast van vandaag is een experiment: na meer dan 150 afleveringen verander ik eens van stijl! Voorheen werkte ik de podcast letterlijk uit, maar deze aflevering is voor het eerst free format! In zekere zin dan. Want ter voorbereiding van de show zoek ik een aantal onderwerpen die ik met je wil delen en daar schrijf ik dan wat bullets voor op. Aan de hand daarvan vertel ik nu mijn verhaal.'
 episode: 153
+kgRef: podcast_episode/reputatiecoaching_153
+source_url: https://www.reputatiecoaching.nl/153
 historical: true
 archivePeriod: 2012–2016
 transcriptStatus: shownotes
@@ -16,8 +18,6 @@ showTaxonomies: false
 ---
 
 > **Historisch archief.** Deze aflevering verscheen op 5-11-2015 als onderdeel van ReputatieCoaching (2012–2016). De oorspronkelijke tekst is hieronder historisch bewaard. Diensten, contactgegevens, links, tools en adviezen kunnen inmiddels verouderd zijn.
-
-{{< audio src="https://archive.org/download/20151105-reputatie-coaching-podcast-153/20151105-ReputatieCoaching-Podcast-153.mp3" title="ReputatieCoaching Podcast #153" >}}
 
 **Transcriptiestatus:** Oorspronkelijke shownotes. Vanaf aflevering 153 werd de podcast niet meer volledig uitgeschreven.
 
@@ -49,7 +49,7 @@ Hieronder een samenvatting van de onderwerpen die in deze podcast aan bod komen:
     11. **Google Maps op iOS stelt vragen over lokale restaurants** – Ik was het nog niet eerder tegengekomen, maar opeens kreeg ik allerhande vragen over restaurants van Google.
 ```
 
-\*\* [Vragen over lokale restaurants in Google Maps op iOS](https://www.reputatiecoaching.nl//www.slideshare.net/ReputatieCoaching/vragen-over-lokale-restaurants-in-google-maps-op-ios) \*\* from **[Eduard de Boer](https://www.reputatiecoaching.nl//www.slideshare.net/ReputatieCoaching)**
+\*\* [Vragen over lokale restaurants in Google Maps op iOS](https://web.archive.org/web/*/https://www.slideshare.net/ReputatieCoaching/vragen-over-lokale-restaurants-in-google-maps-op-ios) \*\* from **[Eduard de Boer](https://web.archive.org/web/*/https://www.slideshare.net/ReputatieCoaching)**
 
 **Hoe vond je dit format? Mis je eigenlijk de volledige transcriptie?
 Laat het me weten onderaan de show notes van deze podcast.**
@@ -57,8 +57,8 @@ Laat het me weten onderaan de show notes van deze podcast.**
 Links naar content die in deze podcast aan bod komt:
 
 ```
-    * [ReputatieCoaching Podcast in iTunes](https://www.reputatiecoaching.nl/itunes)
-    * [ReputatieCoaching Podcast op Stitcher](https://www.reputatiecoaching.nl/stitcher)
+    * [ReputatieCoaching Podcast in iTunes](https://web.archive.org/web/*/https://www.reputatiecoaching.nl/itunes)
+    * [ReputatieCoaching Podcast op Stitcher](https://web.archive.org/web/*/https://www.reputatiecoaching.nl/stitcher)
     * [ReputatieCoaching Podcast op TuneIn Radio](http://tunein.com/radio/ReputatieCoaching-Podcast-p655084/)
     * [ReputatieCoaching Podcast RSS-feed](https://feeds.reputatiecoaching.nl/ReputatieCoachingPodcast)
     * [Aanmelden van je podcast bij Google Play Music](http://g.co/podcastportal)

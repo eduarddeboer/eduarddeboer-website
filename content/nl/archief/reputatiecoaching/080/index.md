@@ -3,6 +3,8 @@ title: '80: DuckDuckGo in Safari, SEO fout nr. 1 en PageRank uitleg. Workshop me
 date: '2014-06-09T06:30:56+00:00'
 description: Tjonge, nog twintig podcasts en ik heb er alweer honderd geproduceerd… Wat vliegt de tijd! Maar vandaag hebben we dus de tachtigste podcast. Twee weken geleden had ik het nog over DuckDuckGo en vandaag heb ik een nieuwtje, dat DuckDuckGo wellicht een enorme boost kan geven. Het tweede onderwerp voor vandaag is de vraag of een keyword in je domein nodig is om te ranken in de zoekresultaten en ook heb ik dit keer weer een paar video’s met vragen en antwoorden door Matt Cutts.
 episode: 80
+kgRef: podcast_episode/reputatiecoaching_080
+source_url: https://www.reputatiecoaching.nl/80
 historical: true
 archivePeriod: 2012–2016
 transcriptStatus: full
@@ -17,8 +19,6 @@ showTaxonomies: false
 
 > **Historisch archief.** Deze aflevering verscheen op 9-06-2014 als onderdeel van ReputatieCoaching (2012–2016). De oorspronkelijke tekst is hieronder historisch bewaard. Diensten, contactgegevens, links, tools en adviezen kunnen inmiddels verouderd zijn.
 
-{{< audio src="https://archive.org/download/20140609-reputatie-coaching-podcast-080/20140609-ReputatieCoaching-Podcast-080.mp3" title="ReputatieCoaching Podcast #080" >}}
-
 **Transcriptiestatus:** Volledige transcriptie uit het oorspronkelijke archief.
 
 ***Historische afbeelding niet beschikbaar: ReputatieCoaching Podcast*
@@ -32,7 +32,7 @@ Hallo en hartelijk welkom bij deze aflevering van de ReputatieCoaching Podcast. 
 
 Als persoon kun je met de diverse tips aan de slag om bijvoorbeeld je online reputatie als zweminstructeur, reisbureaumedewerker, matroos, binnenhuisstylist, hoofdverpleegkundige of wat dan ook te verbeteren.
 
-De podcast kun je online vinden op [www.reputatiecoaching.nl/80](https://www.reputatiecoaching.nl/80/). Daar vind je niet alleen de tekst, maar ook video’s waar ik het in deze uitzending over heb, alsmede afbeeldingen, links enzovoorts. Bovendien is de podcast te beluisteren in [iTunes](https://www.reputatiecoaching.nl/itunes) en op [Stitcher](https://www.reputatiecoaching.nl/stitcher). Daar kun je je dus ook abonneren op de wekelijkse podcast. Veel mensen vinden het ideaal om de wekelijkse afleveringen van de podcast op hun gemak te beluisteren, terwijl ze autorijden, hardlopen, mountainbiken of trainen in de sportschool.
+De podcast kun je online vinden op [www.reputatiecoaching.nl/80](/nl/archief/reputatiecoaching/080/). Daar vind je niet alleen de tekst, maar ook video’s waar ik het in deze uitzending over heb, alsmede afbeeldingen, links enzovoorts. Bovendien is de podcast te beluisteren in [iTunes](https://web.archive.org/web/*/https://www.reputatiecoaching.nl/itunes) en op [Stitcher](https://web.archive.org/web/*/https://www.reputatiecoaching.nl/stitcher). Daar kun je je dus ook abonneren op de wekelijkse podcast. Veel mensen vinden het ideaal om de wekelijkse afleveringen van de podcast op hun gemak te beluisteren, terwijl ze autorijden, hardlopen, mountainbiken of trainen in de sportschool.
 
 ## Terugblik podcast 79: compressor.io
 
@@ -42,7 +42,7 @@ Als ik terugkijk naar [podcast 79](https://www.reputatiecoaching.nl79/), dan den
 
 Zo heb ik met alle afbeeldingen in de transcriptie van de podcast van vorige week meer dan 1 MB bespaard. En wees je ervan bewust dat ik dit dus bespaar bij elke keer dat de pagina van [podcast 79](https://www.reputatiecoaching.nl79/) wordt gedownload en bekeken door een bezoeker! Elke keer! Moet je je voorstellen wat dat scheelt op jaarbasis!
 
-Wie weet zie je zoveel potentiële besparing, dat je al je afbeeldingen van je website één voor één gaat optimaliseren! Laat het me weten, onderaan de show notes op [www.reputatiecoaching.nl/80](https://www.reputatiecoaching.nl/80/).
+Wie weet zie je zoveel potentiële besparing, dat je al je afbeeldingen van je website één voor één gaat optimaliseren! Laat het me weten, onderaan de show notes op [www.reputatiecoaching.nl/80](/nl/archief/reputatiecoaching/080/).
 
 ## Workshop “Bodylogics” door Emile Ratelband
 
@@ -128,7 +128,7 @@ In essentie kun je dus zeggen dat Google op dat moment terugvalt op de beoordeli
 
 Kort geleden werd een interessante en aan PageRank-gerelateerde vraag gesteld aan Matt Cutts. Deze vraag luidde als volgt:
 
-Ook de video waarin Matt Cutts deze vraag beantwoordt, heb ik opgenomen in de show notes, op [www.reputatiecoaching.nl/80](https://www.reputatiecoaching.nl/80/):
+Ook de video waarin Matt Cutts deze vraag beantwoordt, heb ik opgenomen in de show notes, op [www.reputatiecoaching.nl/80](/nl/archief/reputatiecoaching/080/):
 
 In het Engels is hiervoor een mooie term: “splitting hair stuff”, in het Nederlands vrij vertaald als “muggenzifterij”.
 
@@ -221,7 +221,7 @@ Bij deze training komt ook een handout, waarin ik precies uit de doeken doe, hoe
 
 Natuurlijk kan ik niet garanderen dat je video daadwerkelijk op de voorpagina belandt met de juiste zoektermen, maar ik leer je wel hoe je je kansen vergroot.
 
-Deze kennis ga ik echter niet op de website zelf publiceren en ook niet in de podcast behandelen. Dit wordt het eerste stuk content dat ik enkel en alleen met de abonnees op de mailinglist deel. Dus: schrijf je nu meteen in voor de mailinglist, zodat ik je vaker van dit soort nuttige informatie kan voorzien. Je kunt je inschrijven voor de mailinglist, door op de voorpagina van [www.reputatiecoaching.nl](/) je voornaam en mailadres in te geven en te klikken op “Abonneer nu”. Ook kun je je in de zijbalk aan de rechterkant van elke pagina inschrijven.
+Deze kennis ga ik echter niet op de website zelf publiceren en ook niet in de podcast behandelen. Dit wordt het eerste stuk content dat ik enkel en alleen met de abonnees op de mailinglist deel. Dus: schrijf je nu meteen in voor de mailinglist, zodat ik je vaker van dit soort nuttige informatie kan voorzien. Je kunt je inschrijven voor de mailinglist, door op de voorpagina van [www.reputatiecoaching.nl](https://web.archive.org/web/*/https://www.reputatiecoaching.nl/) je voornaam en mailadres in te geven en te klikken op “Abonneer nu”. Ook kun je je in de zijbalk aan de rechterkant van elke pagina inschrijven.
 
 Let op: deze kennis is uniek. Als je ooit eens hebt gekeken hoe goed de meeste van mijn video’s scoren, dan schrijf je je meteen in, want het is een bijzondere kans!
 
@@ -229,7 +229,7 @@ Met deze aankondiging over de handout en kennis over video SEO kom ik dan weer a
 
 Als je de podcast leuk vindt en je wilt nog meer op de hooge blijven, volg me dan op Twitter, via [@reputatiecoach1](https://twitter.com/reputatiecoach1).
 
-En heb je inderdaad wat aan alle informatie die ik met je deel, help mij dan met het verder verbeteren en promoten van deze podcast. Surf daarvoor naar [iTunes](https://www.reputatiecoaching.nl/itunes) of [Stitcher](https://www.reputatiecoaching.nl/stitcher), geef de podcast een sterrenbeoordeling en laat ook je reactie achter. Door de podcast te beoordelen op iTunes en/of Stitcher breng je de podcast onder de aandacht van een breder publiek.
+En heb je inderdaad wat aan alle informatie die ik met je deel, help mij dan met het verder verbeteren en promoten van deze podcast. Surf daarvoor naar [iTunes](https://web.archive.org/web/*/https://www.reputatiecoaching.nl/itunes) of [Stitcher](https://web.archive.org/web/*/https://www.reputatiecoaching.nl/stitcher), geef de podcast een sterrenbeoordeling en laat ook je reactie achter. Door de podcast te beoordelen op iTunes en/of Stitcher breng je de podcast onder de aandacht van een breder publiek.
 
 Je kunt me verder helpen, door de podcast aan te bevelen bij vrienden of collega’s, waarvan je denkt dat ze er hun voordeel mee kunnen doen, of door ’m te delen op Twitter, like’n en delen op Facebook of een “+1” te geven op Google+.
 
@@ -237,7 +237,7 @@ En vergeet niet: ik ben hier om je te helpen! Als je een vraag of een probleem h
 
 Als je dat te lastig vindt, of als je de podcast beluistert terwijl je in de auto zit en je hebt acuut een vraag, spreek dan een boodschap in op de ReputatieCoaching Hotline, op nummer: 084 - 883 15 56. Mogelijk behandel ik je vraag of probleem dan in een artikel of in de podcast.
 
-En je kunt ook rechtstreeks op de website een voicemail achterlaten, door op de tab aan de rechterkant van elke pagina te klikken, en je bericht in te spreken. Dit was [ReputatieCoaching Podcast aflevering 80](https://www.reputatiecoaching.nl/80/) en mijn naam is [Eduard de Boer](http://nl.linkedin.com/in/eduarddeboer/nl).
+En je kunt ook rechtstreeks op de website een voicemail achterlaten, door op de tab aan de rechterkant van elke pagina te klikken, en je bericht in te spreken. Dit was [ReputatieCoaching Podcast aflevering 80](/nl/archief/reputatiecoaching/080/) en mijn naam is [Eduard de Boer](http://nl.linkedin.com/in/eduarddeboer/nl).
 
 Ik wens je de komende week weer succes met het werken aan je reputatie, zodat je meteen je reputatie voor jou kunt laten werken!
 
@@ -248,8 +248,8 @@ Doei!
 Links naar content die in deze podcast aan bod komt:
 
 ```
-  * [ReputatieCoaching Podcast in iTunes](https://www.reputatiecoaching.nl/itunes)
-  * [ReputatieCoaching Podcast op Stitcher](https://www.reputatiecoaching.nl/stitcher)
+  * [ReputatieCoaching Podcast in iTunes](https://web.archive.org/web/*/https://www.reputatiecoaching.nl/itunes)
+  * [ReputatieCoaching Podcast op Stitcher](https://web.archive.org/web/*/https://www.reputatiecoaching.nl/stitcher)
   * [ReputatieCoaching Podcast RSS-feed](https://feeds.reputatiecoaching.nl/ReputatieCoachingPodcast)
   * “[Uw site overzetten, verplaatsen of migreren](https://support.google.com/webmasters/topic/6029673?hl=nl)” (Google Webmasterhulpprogramma’s)
 ```

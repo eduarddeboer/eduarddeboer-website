@@ -3,6 +3,8 @@ title: '167: Artikel in de MOZ top 10! Google Mijn Bedrijf vermeldingen optimali
 date: '2016-05-05T06:30:04+00:00'
 description: Het is vandaag Hemelvaartsdag 2016 en ook nog eens Bevrijdingsdag. Heb jij nog bijzondere plannen? Ben je vandaag gaan dauwtrappen, of heb je je vanochtend vroeg nog eens een keertje omgedraaid, omdat je toch vrij was? Ik heb vandaag in elk geval weer een aantal onderwerpen voor je geselecteerd, die ik graag met je wil delen. Zo begin ik met twee tips van de week. Waarom twee? Euh, nou ja, 1 vond ik te weinig en 3 wat teveel… Is dat een goed antwoord?
 episode: 167
+kgRef: podcast_episode/reputatiecoaching_167
+source_url: https://www.reputatiecoaching.nl/artikel-moztop-10-mijn-bedrijf-vermeldingen-optimaliseren-spreid-je-reviews/
 historical: true
 archivePeriod: 2012–2016
 transcriptStatus: shownotes
@@ -16,8 +18,6 @@ showTaxonomies: false
 ---
 
 > **Historisch archief.** Deze aflevering verscheen op 5-05-2016 als onderdeel van ReputatieCoaching (2012–2016). De oorspronkelijke tekst is hieronder historisch bewaard. Diensten, contactgegevens, links, tools en adviezen kunnen inmiddels verouderd zijn.
-
-{{< audio src="https://archive.org/download/20160505-reputatie-coaching-podcast-167/20160505-ReputatieCoaching-Podcast-167.mp3" title="ReputatieCoaching Podcast #167" >}}
 
 **Transcriptiestatus:** Oorspronkelijke shownotes. Vanaf aflevering 153 werd de podcast niet meer volledig uitgeschreven.
 
@@ -50,7 +50,7 @@ Een luisteraar van de podcast was druk bezig met zich uit te schrijven van aller
 
 Een ander artikel dat ik eerder deze week op het blog van Whitespark heb gepubliceerd, is getiteld: “[How to Use Aggregate Review Schema to Get Stars in the Search Results for Local Businesses](http://www.whitespark.ca/blog/post/83-how-to-use-aggregate-review-schema-to-get-stars-in-the-serps)":
 
-[*Historische afbeelding niet beschikbaar: Reviewsterren in de zoekresultaten*](https://www.reputatiecoaching.nl/wp-content/uploads/2016/05/20160429-invisalign-yonkers.png)
+[*Historische afbeelding niet beschikbaar: Reviewsterren in de zoekresultaten*](https://web.archive.org/web/*/https://www.reputatiecoaching.nl/wp-content/uploads/2016/05/20160429-invisalign-yonkers.png)
 
 ## Google verwijdert rich snippets bij pagina’s met vliegtickets
 

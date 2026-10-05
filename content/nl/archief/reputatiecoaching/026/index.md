@@ -3,6 +3,8 @@ title: '26: 3 weken geen iTunes update, Yahoo! timmert aan de weg, Google Maps e
 date: '2013-05-25T20:53:03+00:00'
 description: Vandaag is het 25 mei 2013 en bestaat de podcast precies een half jaar. Want dit is ReputatieCoaching Podcast aflevering 26! Vandaag eerst een excuses van mijn kant voor de mensen die de podcast via iTunes of Stitcher beluisteren. Daarna allereerst nieuws uit de markt en wel over Yahoo! Twitter heeft haar beveiliging op een hoger niveau gebracht en ook wordt de cookiewet weer aangepast. Eerder deze week kreeg ik toegang tot de bèta-versie van Google Maps, dus daarover zometeen ook meer!
 episode: 26
+kgRef: podcast_episode/reputatiecoaching_026
+source_url: https://www.reputatiecoaching.nl/26
 historical: true
 archivePeriod: 2012–2016
 transcriptStatus: full
@@ -16,8 +18,6 @@ showTaxonomies: false
 ---
 
 > **Historisch archief.** Deze aflevering verscheen op 25-05-2013 als onderdeel van ReputatieCoaching (2012–2016). De oorspronkelijke tekst is hieronder historisch bewaard. Diensten, contactgegevens, links, tools en adviezen kunnen inmiddels verouderd zijn.
-
-{{< audio src="https://archive.org/download/20130525-reputatie-coaching-podcast-026/20130525-ReputatieCoaching-Podcast-026.mp3" title="ReputatieCoaching Podcast #026" >}}
 
 **Transcriptiestatus:** Volledige transcriptie uit het oorspronkelijke archief.
 
@@ -62,7 +62,7 @@ Tumblr is gelanceerd in 2007 en maakt het mogelijk om heel makkelijk en snel een
 
 Hoewel in Nederland niet ontzettend bekend, is Tumblr in de Verenigde Staten bij jongeren onder de 25 jaar al populairder dan Facebook. Toch heeft Tumblr in Nederland al zo’n 7 miljoen bezoekers per maand. Nu las ik laatst ergens dat veel jongeren Facebook alweer verlaten, omdat hun ouders er ook “op zitten” en hen dus in de gaten kunnen houden. Veel jongeren stellen dit niet echt op prijs en verhuizen dus naar een bloggingplatform, waar hun ouders nog geen kennis van hebben.
 
-US$ 1,1 miljard is wel erg veel voor een bedrijf dat vorig jaar slechts 13 miljoen Amerikaanse dollars heeft omgezet. Maar het lijkt erop, alsof Yahoo! is begonnen aan een comeback in het social media geweld. Heb jij al een Tumblr blog? Deel het onderaan de show notes van deze podcast. De show notes kun je overigens vinden op [www.reputatiecoaching.nl/26.](https://www.reputatiecoaching.nl/26/)
+US$ 1,1 miljard is wel erg veel voor een bedrijf dat vorig jaar slechts 13 miljoen Amerikaanse dollars heeft omgezet. Maar het lijkt erop, alsof Yahoo! is begonnen aan een comeback in het social media geweld. Heb jij al een Tumblr blog? Deel het onderaan de show notes van deze podcast. De show notes kun je overigens vinden op [www.reputatiecoaching.nl/26.](/nl/archief/reputatiecoaching/026/)
 
 ## Flickr biedt GRATIS 1 TB voor opslag foto’s
 
@@ -86,7 +86,7 @@ Maar dat was het dus niet: ik heb voor een deel dezelfde slides gebruikt als de 
 
 ## 2-factor authenticatie op Twitter
 
-Twitter is de laatste tijd nogal vaak negatief in het nieuws geweest, omdat er telkens accounts werden gehacked. Soms wel met honderdduizenden te gelijk. In [podcast 23](https://www.reputatiecoaching.nl/23) kondigde ik al aan dat ik ergens had gelezen dat Twitter bezig was met de implementatie van zogenaamde 2-factor authenticatie. Dit houdt in dat je naast je wachtwoord dus een tweede stukje data nodig hebt, om in te kunnen loggen.
+Twitter is de laatste tijd nogal vaak negatief in het nieuws geweest, omdat er telkens accounts werden gehacked. Soms wel met honderdduizenden te gelijk. In [podcast 23](/nl/archief/reputatiecoaching/023/) kondigde ik al aan dat ik ergens had gelezen dat Twitter bezig was met de implementatie van zogenaamde 2-factor authenticatie. Dit houdt in dat je naast je wachtwoord dus een tweede stukje data nodig hebt, om in te kunnen loggen.
 
 Sinds afgelopen woensdag –dat was 22 mei– heeft Twitter nu daadwerkelijk een extra beveiliging ingebouwd. Je moet die wel eerst zelf aanzetten, maar dat lijkt me logisch, omdat je anders natuurlijk niet zou kunnen inloggen.
 
@@ -120,7 +120,7 @@ Hoewel de privacy van gebruikers en internetters nooit mag worden aangetast volg
 
 Dit zijn zogenaamde “functionele cookies” en als het wetsvoorstel wordt aangenomen, hoeft voor deze typen cookies geen toestemming meer te worden gevraagd. Gebruikers gaan dan dus impliciet akkoord, dat dit soort cookies op de computer worden opgeslagen.
 
-Echter kan het in de toekomst wel lastiger worden om gegevens te meten met behulp van cookies. Zoals ik [podcast 14](https://www.reputatiecoaching.nl/14) al meldde, blokkeert Firefox vanaf versie 22 de zogenaamde “third party cookies”. Dat houdt dus in dat vanaf die versie Firefox cookies die niet van de website komen, die de internetter bezoekt, niet meer accepteert. Ook hiervoor zijn natuurlijk workarounds te verzinnen, maar toch zal het wel impact hebben.
+Echter kan het in de toekomst wel lastiger worden om gegevens te meten met behulp van cookies. Zoals ik [podcast 14](/nl/archief/reputatiecoaching/014/) al meldde, blokkeert Firefox vanaf versie 22 de zogenaamde “third party cookies”. Dat houdt dus in dat vanaf die versie Firefox cookies die niet van de website komen, die de internetter bezoekt, niet meer accepteert. Ook hiervoor zijn natuurlijk workarounds te verzinnen, maar toch zal het wel impact hebben.
 
 Terugkomend op de typen cookies: “analytische cookies” dienen dus voor het bijhouden van niet-persoonlijke statistieken. Hieronder vallen bijvoorbeeld de cookies die je krijgt van websites die Google Analytics of Clicky gebruiken voor het meten van bezoekersaantallen enzovoorts. “Affiliate cookies” zijn cookies die dienen om door affiliates gegenereerde verkopen te kunnen traceren en de affiliates te belonen. “A/B-testing cookies” zijn cookies die worden gebruikt om zogenaamde “A/B-tests” te kunnen doen. Dit zijn tests waarbij webmasters of webmarketeers experimenteren met kleine aanpassingen op hun website. Door bijvoorbeeld de ene gebruiker een groene button te tonen en de andere gebruiker een oranje, kunnen ze meten welke knop leidt tot de meeste verkopen.
 
@@ -150,13 +150,13 @@ Het kan ook zijn dat Google de dienst wil kopen, om het vervolgens de figuurlijk
 
 ## Toegelaten tot nieuwe Google Maps
 
-Verder over Google Maps. Ik vertelde in [podcast 25](https://www.reputatiecoaching.nl/25) dat Google Maps totaal vernieuwd was, en Google de vernieuwde Maps had gepresenteerd tijdens de Google I/O, eerder in mei. Toen heb ik meteen mij aangemeld om van de beta versie van Google Maps gebruik te kunnen maken. Afgelopen week ontving ik een mailtje van Google Maps, dat mijn verzoek was gehoord en ik was toegelaten tot de nieuwe Google Maps.
+Verder over Google Maps. Ik vertelde in [podcast 25](/nl/archief/reputatiecoaching/025/) dat Google Maps totaal vernieuwd was, en Google de vernieuwde Maps had gepresenteerd tijdens de Google I/O, eerder in mei. Toen heb ik meteen mij aangemeld om van de beta versie van Google Maps gebruik te kunnen maken. Afgelopen week ontving ik een mailtje van Google Maps, dat mijn verzoek was gehoord en ik was toegelaten tot de nieuwe Google Maps.
 
 Mijn eerste indruk was ook: “Wow!”. Het ziet er namelijk echt een stuk mooier uit dan de Google Maps die we al jaren kennen. Om je een eerste indruk te geven van de aanpassingen, heb ik in de show notes een afbeelding van de oude Google Maps geplaatst van mijn adres, en een afbeelding van de nieuwe Google Maps.
 
-[*Historische afbeelding niet beschikbaar: maps-origineel*](https://www.reputatiecoaching.nl/wp-content/uploads/2013/05/maps-origineel.png)
+[*Historische afbeelding niet beschikbaar: maps-origineel*](https://web.archive.org/web/*/https://www.reputatiecoaching.nl/wp-content/uploads/2013/05/maps-origineel.png)
 
-[*Historische afbeelding niet beschikbaar: maps-nieuw*](https://www.reputatiecoaching.nl/wp-content/uploads/2013/05/maps-nieuw.png)
+[*Historische afbeelding niet beschikbaar: maps-nieuw*](https://web.archive.org/web/*/https://www.reputatiecoaching.nl/wp-content/uploads/2013/05/maps-nieuw.png)
 
 Wat meteen opvalt in de nieuwe Maps is de carrousel met foto’s onder de kaart. Dit zijn Streetview foto’s van punten in de directe omgeving van het opgevraagde adres. En als je een bepaald adres opvraagt, waarbij zowel Streetview beelden beschikbaar zijn, als een [bedrijfspanorama](http://www.bedrijfspanoramas.nl) van de binnenkant van het bedrijf en extra foto’s, wordt dit nu ook veel mooier en beter weergegeven.
 

@@ -3,6 +3,8 @@ title: '166: Quickscan website cateringbedrijf, leuke mail van Google, aangemeld
 date: '2016-04-28T06:30:48+00:00'
 description: '**Vorige week heb ik een foutje gemaakt in het bericht over de foto’s die ik heb gepost op Google Maps en dan met name ten aanzien van de statistieken. Dat zet ik vandaag eerst recht. Verder een kleine update over mijn gebruik van Amazon Cloud Drive.** Eerder deze week ontving ik een leuke mail van Google, die mij erg aangenaam veraste! Over Google gesproken: ik heb me vandaag ook aangemeld voor de Local Guides Summit 2016 in San Francisco.'
 episode: 166
+kgRef: podcast_episode/reputatiecoaching_166
+source_url: https://www.reputatiecoaching.nl/quickscan-website-cateringbedrijf-google-top-contributor-lgsummit16/
 historical: true
 archivePeriod: 2012–2016
 transcriptStatus: shownotes
@@ -17,11 +19,9 @@ showTaxonomies: false
 
 > **Historisch archief.** Deze aflevering verscheen op 28-04-2016 als onderdeel van ReputatieCoaching (2012–2016). De oorspronkelijke tekst is hieronder historisch bewaard. Diensten, contactgegevens, links, tools en adviezen kunnen inmiddels verouderd zijn.
 
-{{< audio src="https://archive.org/download/20160428-reputatie-coaching-podcast-166/20160428-ReputatieCoaching-Podcast-166.mp3" title="ReputatieCoaching Podcast #166" >}}
-
 **Transcriptiestatus:** Oorspronkelijke shownotes. Vanaf aflevering 153 werd de podcast niet meer volledig uitgeschreven.
 
-\*\*[*Historische afbeelding niet beschikbaar: ReputatieCoaching Podcast*](https://www.reputatiecoaching.nl/wp-content/uploads/2012/12/Reputatie-Coaching-Podcast-logo-200x200.jpg)Vorige week heb ik een foutje gemaakt in het bericht over de foto’s die ik heb gepost op Google Maps en dan met name ten aanzien van de statistieken. Dat zet ik vandaag eerst recht. Verder een kleine update over mijn gebruik van Amazon Cloud Drive.\*\*
+\*\*[*Historische afbeelding niet beschikbaar: ReputatieCoaching Podcast*](https://web.archive.org/web/*/https://www.reputatiecoaching.nl/wp-content/uploads/2012/12/Reputatie-Coaching-Podcast-logo-200x200.jpg)Vorige week heb ik een foutje gemaakt in het bericht over de foto’s die ik heb gepost op Google Maps en dan met name ten aanzien van de statistieken. Dat zet ik vandaag eerst recht. Verder een kleine update over mijn gebruik van Amazon Cloud Drive.\*\*
 
 **Eerder deze week ontving ik een leuke mail van Google, die mij erg aangenaam veraste! Over Google gesproken: ik heb me vandaag ook aangemeld voor de Local Guides Summit 2016 in San Francisco.**
 
@@ -91,7 +91,7 @@ Voor een cateringbedrijf uit Apeldoorn heb ik een korte analyse uitgevoerd van h
 
 Wil je mijn bevindingen, tips en aanbevelingen horen, luister dan naar de podcast…
 
-Eén aspect wil ik hier met je delen, dat is het feit dat de homepage maar liefst 2,4 MB was. Binnen 5 minuten had ik dat teruggebracht naar 1,6MB. Hoe? Enkel door de [bestandsgrootte van een vijftal foto’s op de homepage te verkleinen](https://www.reputatiecoaching.nl/bestandsgrootte-foto-verkleinen-op-mac-pc-en-linux-met-compressor-io-instructievideo/) met behulp van [compressor.io](https://compressor.io):
+Eén aspect wil ik hier met je delen, dat is het feit dat de homepage maar liefst 2,4 MB was. Binnen 5 minuten had ik dat teruggebracht naar 1,6MB. Hoe? Enkel door de [bestandsgrootte van een vijftal foto’s op de homepage te verkleinen](https://web.archive.org/web/*/https://www.reputatiecoaching.nl/bestandsgrootte-foto-verkleinen-op-mac-pc-en-linux-met-compressor-io-instructievideo/) met behulp van [compressor.io](https://compressor.io):
 
 ## Kijk ook eens op…
 

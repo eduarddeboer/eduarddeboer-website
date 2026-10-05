@@ -3,6 +3,8 @@ title: '101: Verschil tussen links en citations. Grote commerciële reviewsites 
 date: '2014-11-06T07:30:26+00:00'
 description: De 100e podcast van vorige week was een groot succes. Dus ik begin vandaag met een korte terugblik op die aflevering. Twee weken geleden ben ik overigens geïnterviewd over reviewmanagement en reputatie en ik vertel je waar je het interview kunt lezen. Sommige ondernemers halen links en citations door elkaar, dus in deze podcast leg ik het verschil uit. Wat doe je met een slechte review voor een service die je niet eens verleent?
 episode: 101
+kgRef: podcast_episode/reputatiecoaching_101
+source_url: https://www.reputatiecoaching.nl/101
 historical: true
 archivePeriod: 2012–2016
 transcriptStatus: full
@@ -17,8 +19,6 @@ showTaxonomies: false
 
 > **Historisch archief.** Deze aflevering verscheen op 6-11-2014 als onderdeel van ReputatieCoaching (2012–2016). De oorspronkelijke tekst is hieronder historisch bewaard. Diensten, contactgegevens, links, tools en adviezen kunnen inmiddels verouderd zijn.
 
-{{< audio src="https://archive.org/download/20141106-reputatie-coaching-podcast-101/20141106-ReputatieCoaching-Podcast-101.mp3" title="ReputatieCoaching Podcast #101" >}}
-
 **Transcriptiestatus:** Volledige transcriptie uit het oorspronkelijke archief.
 
 ***Historische afbeelding niet beschikbaar: ReputatieCoaching Podcast*
@@ -30,7 +30,7 @@ De 100e podcast van vorige week was een groot succes. Dus ik begin vandaag met e
 
 Hallo en hartelijk welkom bij deze aflevering van de ReputatieCoaching Podcast. Ik ben Eduard de Boer, ReputatieCoach. Dit is dé podcast die jou helpt om meer business te genereren, doordat jouw website beter gevonden wordt, zowel lokaal als landelijk en doordat ik je uitleg hoe je je online reputatie kunt verbeteren. Dit alles kan je helpen om je bedrijf en jezelf beter op de online kaart te plaatsen.
 
-De podcast kun je vinden op [www.reputatiecoaching.nl/101](https://www.reputatiecoaching.nl/101/). Daar vind je niet alleen de tekst, maar ook video’s waar ik het in deze uitzending over heb, alsmede afbeeldingen, links enzovoorts. Bovendien is de podcast te beluisteren in [iTunes](https://www.reputatiecoaching.nl/itunes), op [Stitcher](https://www.reputatiecoaching.nl/stitcher) en ook op [TuneIn Radio](http://tunein.com/radio/ReputatieCoaching-Podcast-p655084/). Daar kun je je dus ook abonneren op de wekelijkse podcast. Veel mensen vinden het ideaal om de wekelijkse afleveringen van de podcast op hun gemak te beluisteren, terwijl ze autorijden, fietsen of trainen in de sportschool.
+De podcast kun je vinden op [www.reputatiecoaching.nl/101](/nl/archief/reputatiecoaching/101/). Daar vind je niet alleen de tekst, maar ook video’s waar ik het in deze uitzending over heb, alsmede afbeeldingen, links enzovoorts. Bovendien is de podcast te beluisteren in [iTunes](https://web.archive.org/web/*/https://www.reputatiecoaching.nl/itunes), op [Stitcher](https://web.archive.org/web/*/https://www.reputatiecoaching.nl/stitcher) en ook op [TuneIn Radio](http://tunein.com/radio/ReputatieCoaching-Podcast-p655084/). Daar kun je je dus ook abonneren op de wekelijkse podcast. Veel mensen vinden het ideaal om de wekelijkse afleveringen van de podcast op hun gemak te beluisteren, terwijl ze autorijden, fietsen of trainen in de sportschool.
 
 ## Terugblik podcast 100
 
@@ -39,9 +39,9 @@ Vorige week beleefde de podcast haar 100e uitzending. Emile Ratelband was te gas
 
 Maar het gaat natuurlijk om de inhoud, het verhaal dat Emile vertelde. Daar zaten veel pareltjes tussen, waar eenieder wel iets mee kan. De aflevering was dan ook een succes: binnen afzienbare tijd was de aflevering meer dan 100 keer beluisterd! En in één week is het ook al de meest beluisterde aflevering ooit!
 
-Ben je nieuwsgierig en heb je het interview nog niet beluisterd? Surf dan naar [www.reputatiecoaching.nl/100](https://www.reputatiecoaching.nl/100/) om het interview met Emile Ratelband alsnog te beluisteren.
+Ben je nieuwsgierig en heb je het interview nog niet beluisterd? Surf dan naar [www.reputatiecoaching.nl/100](/nl/archief/reputatiecoaching/100/) om het interview met Emile Ratelband alsnog te beluisteren.
 
-Wat vond je trouwens van dat interview? Moet ik meer van dit type BN’ers in de show uitnodigen om te interviewen? Laat het me weten onderaan de transcriptie van deze podcast, op [www.reputatiecoaching.nl/101](https://www.reputatiecoaching.nl/101/).
+Wat vond je trouwens van dat interview? Moet ik meer van dit type BN’ers in de show uitnodigen om te interviewen? Laat het me weten onderaan de transcriptie van deze podcast, op [www.reputatiecoaching.nl/101](/nl/archief/reputatiecoaching/101/).
 
 Laat ik dan nu overgaan op de onderwerpen voor vandaag…
 
@@ -101,7 +101,7 @@ Mensen lezen vaak minder dan de helft van wat er feitelijk aan tekst wordt getoo
 
 Hij verwees me naar de Yelp-pagina van een restaurant in Kansas City, Missouri in de VS. Het restaurant kreeg een negatieve review op Yelp voor een dienst die ze helemaal niet verleent! En de grap is ook nog eens, dat dit expliciet op de Yelp-pagina van het restaurant staat vermeld!
 
-De review heb ik opgenomen in de show notes van deze podcast, op [www.reputatiecoaching.nl/101](https://www.reputatiecoaching.nl/101/):
+De review heb ik opgenomen in de show notes van deze podcast, op [www.reputatiecoaching.nl/101](/nl/archief/reputatiecoaching/101/):
 
 [![Komische review op Yelp](20141006-review-voltaire-1.png)](https://lh5.googleusercontent.com/-XKSZ7kumvrU/VFsMA-xZ_BI/AAAAAAAABRI/d9rkGJfpwMQ/w641-h702-no/20141006-review-voltaire-1.png)De reden dat de schrijfster van de review zo negatief was en dus het minimum van één ster heeft gegeven, is dat het restaurant niet de mogelijkheid biedt om eten mee te nemen; het biedt dus geen “take out food”. Elk restaurant kan besluiten geen “take out” te bieden en dit restaurant is daarmee dan ook zeker niet uniek.
 
@@ -145,7 +145,7 @@ Leadingcourses is een groot succes, want op dit moment is de site al in 8 talen 
 
 Tja, zo heb je sites voor het beoordelen van vergaderlocaties, golfbanen, pedicures, fotografen en ook artsen. Daarmee kom ik op een minder leuk nieuwtje.
 
-Je weet dat ik diverse [tandartsen help met marketing](https://www.reputatiecoaching.nl/marketing-voor-tandartsen/), en met resultaat mag ik wel zeggen! Dat heb je in de opening van deze podcast al wel gehoord van tandarts Dennis uit Culemborg. Een site waar ik in het verleden altijd een bedrijfsvermelding aanmaakte (en waar je ook reviews kon verzamelen), was artsned.nl.
+Je weet dat ik diverse [tandartsen help met marketing](https://web.archive.org/web/*/https://www.reputatiecoaching.nl/marketing-voor-tandartsen/), en met resultaat mag ik wel zeggen! Dat heb je in de opening van deze podcast al wel gehoord van tandarts Dennis uit Culemborg. Een site waar ik in het verleden altijd een bedrijfsvermelding aanmaakte (en waar je ook reviews kon verzamelen), was artsned.nl.
 
 Helaas ontving ik eergisteren een mailtje dat artsned.nl per direct is opgehouden te bestaan en dat de makers ervan, de gebruikers verwijzen naar zorgkaartnederland.nl. Hieruit blijkt dat het wel erg moeilijk is een niet commerciële en branchespecifieke reviewsite in de lucht te houden.
 
@@ -192,7 +192,7 @@ Tja, ik klaag niet hoor! Dat ligt niet in mijn aard! Maar met deze veel rustiger
 
 
 
-Ik noemde net het woord “inbox”. Een paar dagen geleden heb ik je uitgenodigd om mij een mailtje te sturen, als jij per direct een uitnodiging wilt voor Google Inbox, het nieuwe mailsysteem of mailprogramma van Google. Dat aanbod geldt nog steeds. Als je een review post voor de [ReputatieCoaching Podcast op iTunes](https://www.reputatiecoaching.nl/itunes) en mij een mailtje stuurt met je Gmail-adres, dan nodig ik jou uit voor Google Inbox.
+Ik noemde net het woord “inbox”. Een paar dagen geleden heb ik je uitgenodigd om mij een mailtje te sturen, als jij per direct een uitnodiging wilt voor Google Inbox, het nieuwe mailsysteem of mailprogramma van Google. Dat aanbod geldt nog steeds. Als je een review post voor de [ReputatieCoaching Podcast op iTunes](https://web.archive.org/web/*/https://www.reputatiecoaching.nl/itunes) en mij een mailtje stuurt met je Gmail-adres, dan nodig ik jou uit voor Google Inbox.
 
 Oh, nog een nieuwtje. Gisteravond zag ik al surfend opeens de zwarte carrousel voorbij flitsen in de Nederlandse zoekresultaten. Eerst kon ik het niet reproduceren, maar later is het me wel gelukt. Ik denk dat Google aan het testen is en ik heb het gevoel dat de carrousel binnenkort ook in Nederland massaal zichtbaar wordt…
 
@@ -204,7 +204,7 @@ En daarmee kom ik dan vandaag echt weer aan het einde van deze podcast.
 
 Als je de podcast leuk vindt en je wilt nog meer op de hoogte blijven, volg me dan ook op Twitter, via [@reputatiecoach1](https://twitter.com/reputatiecoach1).
 
-Heb je inderdaad wat aan alle informatie die ik met je deel, help mij dan met het verder verbeteren en promoten van deze podcast. Surf daarvoor naar [iTunes](https://www.reputatiecoaching.nl/itunes) of [Stitcher](https://www.reputatiecoaching.nl/stitcher), geef de podcast een sterrenbeoordeling en laat ook je reactie achter. Door de podcast te beoordelen op iTunes en/of Stitcher breng je de podcast onder de aandacht van een breder publiek.
+Heb je inderdaad wat aan alle informatie die ik met je deel, help mij dan met het verder verbeteren en promoten van deze podcast. Surf daarvoor naar [iTunes](https://web.archive.org/web/*/https://www.reputatiecoaching.nl/itunes) of [Stitcher](https://web.archive.org/web/*/https://www.reputatiecoaching.nl/stitcher), geef de podcast een sterrenbeoordeling en laat ook je reactie achter. Door de podcast te beoordelen op iTunes en/of Stitcher breng je de podcast onder de aandacht van een breder publiek.
 
 Je kunt me verder helpen, door de podcast aan te bevelen bij vrienden of collega’s, waarvan je denkt dat ze er hun voordeel mee kunnen doen, of door ’m te delen op Twitter, like’n en delen op Facebook of een “+1” te geven op Google+.
 
@@ -212,7 +212,7 @@ En vergeet niet: ik ben hier om je te helpen! Als je een vraag of een probleem h
 
 Als je dat te lastig vindt, of als je de podcast beluistert terwijl je in de auto zit en je hebt acuut een vraag, spreek dan een boodschap in op de ReputatieCoaching Hotline, op nummer: 084 - 883 15 56. Mogelijk behandel ik je vraag of probleem dan in een artikel of in de podcast.
 
-En je kunt ook rechtstreeks op de website een voicemail achterlaten, door op de tab aan de rechterkant van elke pagina te klikken, en je bericht in te spreken. Dit was [ReputatieCoaching Podcast aflevering 101](https://www.reputatiecoaching.nl/101/) en mijn naam is [Eduard de Boer](http://nl.linkedin.com/in/eduarddeboer/nl).
+En je kunt ook rechtstreeks op de website een voicemail achterlaten, door op de tab aan de rechterkant van elke pagina te klikken, en je bericht in te spreken. Dit was [ReputatieCoaching Podcast aflevering 101](/nl/archief/reputatiecoaching/101/) en mijn naam is [Eduard de Boer](http://nl.linkedin.com/in/eduarddeboer/nl).
 
 Ik wens je de komende week weer succes met het werken aan je reputatie, zodat je meteen je reputatie voor jou kunt laten werken!
 
@@ -223,8 +223,8 @@ Doei!
 Links naar content die in deze podcast aan bod komt:
 
 ```
-  * [ReputatieCoaching Podcast in iTunes](https://www.reputatiecoaching.nl/itunes)
-  * [ReputatieCoaching Podcast op Stitcher](https://www.reputatiecoaching.nl/stitcher)
+  * [ReputatieCoaching Podcast in iTunes](https://web.archive.org/web/*/https://www.reputatiecoaching.nl/itunes)
+  * [ReputatieCoaching Podcast op Stitcher](https://web.archive.org/web/*/https://www.reputatiecoaching.nl/stitcher)
   * [ReputatieCoaching Podcast op TuneIn Radio](http://tunein.com/radio/ReputatieCoaching-Podcast-p655084/)
   * [ReputatieCoaching Podcast RSS-feed](https://feeds.reputatiecoaching.nl/ReputatieCoachingPodcast)
   * “[What to Do After a Bad Performance Review](http://blogs.hbr.org/2014/10/what-to-do-after-a-bad-performance-review/)” (Harvard Business Review, 29 oktober 2014)

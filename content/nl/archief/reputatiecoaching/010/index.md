@@ -3,6 +3,8 @@ title: Podcast Aflevering 10 (04-02-2013)
 date: '2013-02-04T18:35:14+00:00'
 description: '****ReputatieCoaching Podcast nummer tien! **** Hallo en welkom bij de ReputatieCoaching Podcast! Naast de wekelijkse podcast ben ik druk bezig het met bedenken en opstellen van een introductiecursus “Zoekmachine marketing”, die over een paar weken online gaat komen. Daarover vertel ik straks meer. Ook heb ik vandaag nieuws over Google+ en Google+ Local, Twitter, Facebook, Yahoo, Foursquare en LinkedIn. Daarmee heb ik dan de meest belangrijke social media volgens mij wel gecovered.'
 episode: 10
+kgRef: podcast_episode/reputatiecoaching_010
+source_url: https://www.reputatiecoaching.nl/10
 historical: true
 archivePeriod: 2012–2016
 transcriptStatus: full
@@ -16,8 +18,6 @@ showTaxonomies: false
 ---
 
 > **Historisch archief.** Deze aflevering verscheen op 4-02-2013 als onderdeel van ReputatieCoaching (2012–2016). De oorspronkelijke tekst is hieronder historisch bewaard. Diensten, contactgegevens, links, tools en adviezen kunnen inmiddels verouderd zijn.
-
-{{< audio src="https://archive.org/download/20130204-reputatie-coaching-podcast-010/20130204-ReputatieCoaching-Podcast-010.mp3" title="ReputatieCoaching Podcast #010" >}}
 
 **Transcriptiestatus:** Volledige transcriptie uit het oorspronkelijke archief.
 
@@ -38,7 +38,7 @@ Hallo en welkom bij de ReputatieCoaching Podcast! Naast de wekelijkse podcast be
 \_
 \_ De foto en de link naar het artikel in de Telegraaf vind je zoals altijd in de show notes.*
 
-*Dan een update over de trouwambtenaar uit Apeldoorn. Zoals je hebt kunnen zien in de diverse instructievideos en hebt kunnen lezen in de bijbehorende artikelen, heb ik [trouwambtenaar Hetty Wennekendonk uit Apeldoorn](https://www.reputatiecoaching.nl/uw-trouwambtenaar-nu-op-voorpagina/) geholpen om haar website beter vindbaar te maken. Eerst was haar site op de zoekterm “trouwambtenaar Apeldoorn” amper te vinden. Het enige wat ik heb gedaan is een typefout uit de Google+ Local pagina halen, ik heb op de site Google Authorship geactiveerd en ik heb de website aangemeld op een aantal websites, zoals Yelp, Foursquare, TomTom Places enzovoorts.*
+*Dan een update over de trouwambtenaar uit Apeldoorn. Zoals je hebt kunnen zien in de diverse instructievideos en hebt kunnen lezen in de bijbehorende artikelen, heb ik [trouwambtenaar Hetty Wennekendonk uit Apeldoorn](https://web.archive.org/web/*/https://www.reputatiecoaching.nl/uw-trouwambtenaar-nu-op-voorpagina/) geholpen om haar website beter vindbaar te maken. Eerst was haar site op de zoekterm “trouwambtenaar Apeldoorn” amper te vinden. Het enige wat ik heb gedaan is een typefout uit de Google+ Local pagina halen, ik heb op de site Google Authorship geactiveerd en ik heb de website aangemeld op een aantal websites, zoals Yelp, Foursquare, TomTom Places enzovoorts.*
 
 *Een tijdje later stond ze op de tiende en negende positie op de voorpagina en ik kan je vertellen dat haar website inmiddels op de tweede positie op de voorpagina van Google staat. Nu komen er alleen klachten van de gemeente Apeldoorn, dat de ambtenaren die in dienst zijn bij de gemeente niet meer zo goed worden gevonden. Bij deze bied ik de gemeente Apeldoorn hiervoor mijn welgemeende excuses aan.*
 
@@ -69,9 +69,9 @@ Hallo en welkom bij de ReputatieCoaching Podcast! Naast de wekelijkse podcast be
 
 *Een paar nuttige tips als je hiermee aan de slag gaat… Ten eerste: raadpleeg een expert om te zien of het echt zo is. Ten tweede: pas op met welke links je verwijdert. En als laatste: verwacht geen wonderen door hiermee je slechte links te verwijderen. Mogelijk helpt het je na een langere tijd. Want als Google eenmaal heeft gezien dat je slechte links hebt, zullen ze je gedurende een proeftijd mogelijk wat meer in de gaten houden, of je niet terugvalt in je oude gewoontes. Dus heb geduld!*
 
-*Weet je dat je kunt helpen met het promoten van de ReputatieCoaching Podcast? Als je wat hebt aan de informatie en je vind het leuk om naar de podcast te luisteren, laat dan bijvoorbeeld een recensie achter in iTunes, of op Google+. Je kunt onze Google+ pagina vinden op: [www.reputatiecoaching.nl/gplus](https://www.reputatiecoaching.nl/gplus) (dat is dus g-p-l-u-s). Ook kun je een bericht achterlaten op onze Facebookpagina, die je kunt vinden op: [www.reputatiecoaching.nl/facebook](https://www.reputatiecoaching.nl/facebook).*
+*Weet je dat je kunt helpen met het promoten van de ReputatieCoaching Podcast? Als je wat hebt aan de informatie en je vind het leuk om naar de podcast te luisteren, laat dan bijvoorbeeld een recensie achter in iTunes, of op Google+. Je kunt onze Google+ pagina vinden op: [www.reputatiecoaching.nl/gplus](https://web.archive.org/web/*/https://www.reputatiecoaching.nl/gplus) (dat is dus g-p-l-u-s). Ook kun je een bericht achterlaten op onze Facebookpagina, die je kunt vinden op: [www.reputatiecoaching.nl/facebook](https://web.archive.org/web/*/https://www.reputatiecoaching.nl/facebook).*
 
-*Geef gerust een recensie. En als je opmerkingen hebt over deze podcast, laat die dan op de website onderaan de transcriptie achter. Je kunt de transcriptie van deze podcast snel online vinden door te surfen naar: [www.reputatiecoaching.nl/10](https://www.reputatiecoaching.nl/10) .*
+*Geef gerust een recensie. En als je opmerkingen hebt over deze podcast, laat die dan op de website onderaan de transcriptie achter. Je kunt de transcriptie van deze podcast snel online vinden door te surfen naar: [www.reputatiecoaching.nl/10](/nl/archief/reputatiecoaching/010/) .*
 
 *Als je ergens een recensie hebt geplaatst, stuur me dan een mailtje zodat ik je recensie kan vermelden in de podcast.*
 \_ Heb je een vraag of probleem met betrekking tot je online reputatie: stuur dan een mailtje of spreek een boodschap in op de ReputatieCoaching Hotline, op: 084 - 883 15 56. Mogelijk behandel ik je vraag of probleem dan in een artikel of in de podcast.\_

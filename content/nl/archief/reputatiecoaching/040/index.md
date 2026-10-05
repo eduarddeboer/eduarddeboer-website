@@ -3,6 +3,8 @@ title: '40: Google Helpouts officieel, Google Maps en Waze geïntegreerd, invloe
 date: '2013-09-02T06:30:36+00:00'
 description: Hallo, mijn naam is Eduard de Boer –bekend als de ReputatieCoach– en ik heet je hartelijk welkom bij deze 40e ReputatieCoaching Podcast. **Inmiddels ben ik alweer twee dagen terug van een heerlijke vakantie. Gedurende mijn vakantie is er volgens mij meer dan voldoende content online gekomen, terwijl ik mijn accu’s aan het opladen was in Frankrijk. Straks heb ik meer nieuws over dit experiment met contentmarketing.** Gedurende mijn vakantie heb ik verder niets gedaan voor wat betreft het lezen van al het nieuws dat mij via de RSS-feeds bereikt.
 episode: 40
+kgRef: podcast_episode/reputatiecoaching_040
+source_url: https://www.reputatiecoaching.nl/40
 historical: true
 archivePeriod: 2012–2016
 transcriptStatus: full
@@ -17,13 +19,11 @@ showTaxonomies: false
 
 > **Historisch archief.** Deze aflevering verscheen op 2-09-2013 als onderdeel van ReputatieCoaching (2012–2016). De oorspronkelijke tekst is hieronder historisch bewaard. Diensten, contactgegevens, links, tools en adviezen kunnen inmiddels verouderd zijn.
 
-{{< audio src="https://archive.org/download/20130902-reputatie-coaching-podcast-040/20130902-ReputatieCoaching-Podcast-040.mp3" title="ReputatieCoaching Podcast #040" >}}
-
 **Transcriptiestatus:** Volledige transcriptie uit het oorspronkelijke archief.
 
 **Hallo, mijn naam is Eduard de Boer –bekend als de ReputatieCoach– en ik heet je hartelijk welkom bij deze 40e ReputatieCoaching Podcast.**
 
-\*\*[*Historische afbeelding niet beschikbaar: ReputatieCoaching Podcast*](https://www.reputatiecoaching.nl/wp-content/uploads/2012/12/Reputatie-Coaching-Podcast-logo-200x200.jpg)Inmiddels ben ik alweer twee dagen terug van een heerlijke vakantie. Gedurende mijn vakantie is er volgens mij meer dan voldoende content online gekomen, terwijl ik mijn accu’s aan het opladen was in Frankrijk. Straks heb ik meer nieuws over dit experiment met contentmarketing.\*\*
+\*\*[*Historische afbeelding niet beschikbaar: ReputatieCoaching Podcast*](https://web.archive.org/web/*/https://www.reputatiecoaching.nl/wp-content/uploads/2012/12/Reputatie-Coaching-Podcast-logo-200x200.jpg)Inmiddels ben ik alweer twee dagen terug van een heerlijke vakantie. Gedurende mijn vakantie is er volgens mij meer dan voldoende content online gekomen, terwijl ik mijn accu’s aan het opladen was in Frankrijk. Straks heb ik meer nieuws over dit experiment met contentmarketing.\*\*
 
 **Gedurende mijn vakantie heb ik verder niets gedaan voor wat betreft het lezen van al het nieuws dat mij via de RSS-feeds bereikt. Dus toen ik begon met de voorbereidingen van deze podcast, stonden er een goede 1.300 artikelen klaar om te scannen op relevante inhoud voor de podcast.**
 
@@ -41,7 +41,7 @@ Groupon ken je vast wel. Maar wist je dat het slecht met ze gaat? In Amerika beg
 
 Het laatste nieuwtje over Yelp van vandaag gaat over de recent vernieuwde Yelp app.
 
-De links in deze podcast vind je zoals gewoonlijk in de shownotes, op [www.reputatiecoaching.nl/40](https://www.reputatiecoaching.nl/40/).
+De links in deze podcast vind je zoals gewoonlijk in de shownotes, op [www.reputatiecoaching.nl/40](/nl/archief/reputatiecoaching/040/).
 
 ## Content marketing experiment tijdens mijn vakantie
 
@@ -64,7 +64,7 @@ Maar terugkomend op mijn contentmarketing experiment. Zoals ik al zei is dit all
 
 ## Google Maps en Waze nu geïntegreerd
 
-In [podcast 29](https://www.reputatiecoaching.nl/29/) vertelde ik je dat Waze in juni 2013 was overgenomen door Google en sprak ik de verwachting uit dat Google de krenten uit de Waze-pap zou halen om haar eigen product, Google Maps, te verbeteren en/of uit te breiden.
+In [podcast 29](/nl/archief/reputatiecoaching/029/) vertelde ik je dat Waze in juni 2013 was overgenomen door Google en sprak ik de verwachting uit dat Google de krenten uit de Waze-pap zou halen om haar eigen product, Google Maps, te verbeteren en/of uit te breiden.
 
 Nou, dat is inderdaad gebeurd. Op het weblog van Google Maps is allereerst te lezen dat je in Google Maps nu de realtime updates krijgt van Waze-gebruikers, zoals ongelukken, werkzaamheden, wegafsluitingen etc. Echter, deze updates zijn op dit moment alleen nog maar beschikbaar in de Android en iOS Google Maps in Argentinië, Brazilië, Chili, Colombia, Duitsland, Ecuador, Frankrijk, Mexico, Panama, Verenigd Koninkrijk, de USA en Zwitserland. Helaas moeten we in Nederland nog even wachten.
 
@@ -80,7 +80,7 @@ De volgende feature die binnenkort in Google Hangouts verschijnt, is Real Time C
 
 ## Google Helpouts aangekondigd
 
-Dan Google Helpouts. In [podcast 36](https://www.reputatiecoaching.nl/36/) had ik het al over het gerucht dat Google met Helpouts ging komen. Dat gerucht is waarheid geworden. Dat wil zeggen dat Google de dienst Helpouts heeft aangekondigd, maar de service is nog niet beschikbaar. Je kunt meer informatie over Google Helpouts vinden op <http://helpouts.google.com>.
+Dan Google Helpouts. In [podcast 36](/nl/archief/reputatiecoaching/036/) had ik het al over het gerucht dat Google met Helpouts ging komen. Dat gerucht is waarheid geworden. Dat wil zeggen dat Google de dienst Helpouts heeft aangekondigd, maar de service is nog niet beschikbaar. Je kunt meer informatie over Google Helpouts vinden op <http://helpouts.google.com>.
 
 Daar is te lezen dat de dienst nog niet beschikbaar is, maar dat je je kunt aanmelden, als je interesse hebt. Zodra er dan nieuws komt over Google Helpouts, wordt je door Google op de hoogte gebracht via e-mail.
 
@@ -157,7 +157,7 @@ Pas dus zeker op met negatieve reviews in landen als Amerika, waar iedereen elka
 
 ## Gebruik niet @Yelp, als je via Twitter om een review vraagt
 
-[Vorige podcast](https://www.reputatiecoaching.nl/39/) had ik het er ook al over: Yelp wil niet dat je reviews koopt. Maar volgens Yelp (en overigens ook volgens Google) mag je niet om reviews vragen. Yelp zegt dat je alleen aan klanten mag melden dat je op Yelp vermeld staat. Meer niet.
+[Vorige podcast](/nl/archief/reputatiecoaching/039/) had ik het er ook al over: Yelp wil niet dat je reviews koopt. Maar volgens Yelp (en overigens ook volgens Google) mag je niet om reviews vragen. Yelp zegt dat je alleen aan klanten mag melden dat je op Yelp vermeld staat. Meer niet.
 
 Toch zijn er veel bedrijven, zeker in Amerika, die ongegeneerd hun klanten vragen om een review, terwijl ze er ook de tekst **@Yelp** bij zetten. Dat is niet bijster handig, want zo ziet Yelp precies welke bedrijven allemaal om reviews vragen, zodat ze snel en adequaat de desbetreffende bedrijven een virtuele draai om de oren kunnen geven.
 
@@ -181,9 +181,9 @@ Hiermee kom ik dan weer aan het einde van de podcast van vandaag. Als je de podc
 
 Als je een vraag of een probleem hebt met betrekking tot je online reputatie of de vindbaarheid van je website, kun je een mailtje sturen naar [podcast@reputatiecoaching.nl](mailto:podcast@reputatiecoaching.nl). Als je dat te lastig vindt, of als je de podcast beluistert terwijl je in de auto zit en je hebt acuut een vraag, spreek dan een boodschap in op de ReputatieCoaching Hotline, op nummer: 084 - 883 15 56. Mogelijk behandel ik je vraag of probleem dan in een artikel of in de podcast.
 
-Als laatste kun je je ook inschrijven voor de nieuwsbrief. Dan ontvang je altijd als eerste het laatste nieuws wat ik publiceer en automatisch elk kwartaal het ReputatieCoaching Podcast Boek van het afgelopen kwartaal. Surf daartoe naar [www.reputatiecoaching.nl/nieuwsbrief](https://www.reputatiecoaching.nl/nieuwsbrief) en schrijf je meteen in.
+Als laatste kun je je ook inschrijven voor de nieuwsbrief. Dan ontvang je altijd als eerste het laatste nieuws wat ik publiceer en automatisch elk kwartaal het ReputatieCoaching Podcast Boek van het afgelopen kwartaal. Surf daartoe naar [www.reputatiecoaching.nl/nieuwsbrief](https://web.archive.org/web/*/https://www.reputatiecoaching.nl/nieuwsbrief) en schrijf je meteen in.
 
-En je kunt rechtstreeks op de website een voicemail achterlaten, door op de tab aan de rechterkant van elke pagina te klikken, en je bericht in te spreken. Dit was [ReputatieCoaching Podast aflevering 40](https://www.reputatiecoaching.nl/40/) en mijn naam is [Eduard de Boer](http://nl.linkedin.com/in/eduarddeboer/nl).
+En je kunt rechtstreeks op de website een voicemail achterlaten, door op de tab aan de rechterkant van elke pagina te klikken, en je bericht in te spreken. Dit was [ReputatieCoaching Podast aflevering 40](/nl/archief/reputatiecoaching/040/) en mijn naam is [Eduard de Boer](http://nl.linkedin.com/in/eduarddeboer/nl).
 
 Ik wens je de komende week weer succes met het werken aan je reputatie, zodat je meteen je reputatie voor jou kunt laten werken!
 

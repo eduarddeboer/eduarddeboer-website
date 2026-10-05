@@ -3,6 +3,8 @@ title: '142: WordPress 4.3. Google "Help on Social", pas op met "lazy content", 
 date: '2015-08-20T06:30:57+00:00'
 description: Eerder deze week is WordPress 4.3 met codenaam “Billie” uitgekomen. Naast vele bugfixes zijn er ook enkele vernieuwingen en verbeteringen in deze nieuwe versie. Daar begin ik de podcast van vandaag mee. Gisteren had ik een gesprek met luisteraar Romano, naar aanleiding van een mail met enkele interessante vragen die hij laatst had gestuurd. Daar ga ik op in. En het kon ook niet uitblijven… Ik heb weer eens een behoorlijk aantal topics over Google.
 episode: 142
+kgRef: podcast_episode/reputatiecoaching_142
+source_url: https://www.reputatiecoaching.nl/142
 historical: true
 archivePeriod: 2012–2016
 transcriptStatus: full
@@ -16,8 +18,6 @@ showTaxonomies: false
 ---
 
 > **Historisch archief.** Deze aflevering verscheen op 20-08-2015 als onderdeel van ReputatieCoaching (2012–2016). De oorspronkelijke tekst is hieronder historisch bewaard. Diensten, contactgegevens, links, tools en adviezen kunnen inmiddels verouderd zijn.
-
-{{< audio src="https://archive.org/download/20150820-reputatie-coaching-podcast-142/20150820-ReputatieCoaching-Podcast-142.mp3" title="ReputatieCoaching Podcast #142" >}}
 
 **Transcriptiestatus:** Volledige transcriptie uit het oorspronkelijke archief.
 
@@ -40,7 +40,7 @@ Eerder deze week is WordPress 4.3 met codenaam “Billie” uitgekomen. Naast ve
 
 Hallo en hartelijk welkom bij deze aflevering van de ReputatieCoaching Podcast. Ik ben Eduard de Boer, ReputatieCoach. Dit is dé podcast die jou helpt om meer business te genereren, doordat jouw website beter gevonden wordt, zowel lokaal als landelijk en doordat ik je uitleg hoe je je online reputatie kunt verbeteren. Dit alles helpt je om je bedrijf en jezelf beter op de online kaart te plaatsen.
 
-De podcast kun je vinden op [www.reputatiecoaching.nl/142](https://www.reputatiecoaching.nl/142/). Daar vind je niet alleen de tekst, maar ook video’s waar ik het in deze uitzending over heb, alsmede afbeeldingen, links enzovoorts. Bovendien is de podcast te beluisteren in [iTunes](https://www.reputatiecoaching.nl/itunes), op [Stitcher](https://www.reputatiecoaching.nl/stitcher) en ook op [TuneIn Radio](http://tunein.com/radio/ReputatieCoaching-Podcast-p655084/). Ik raad je aan om je op één van die drie kanalen te abonneren op de podcast, zodat je geen aflevering hoeft te missen!
+De podcast kun je vinden op [www.reputatiecoaching.nl/142](/nl/archief/reputatiecoaching/142/). Daar vind je niet alleen de tekst, maar ook video’s waar ik het in deze uitzending over heb, alsmede afbeeldingen, links enzovoorts. Bovendien is de podcast te beluisteren in [iTunes](https://web.archive.org/web/*/https://www.reputatiecoaching.nl/itunes), op [Stitcher](https://web.archive.org/web/*/https://www.reputatiecoaching.nl/stitcher) en ook op [TuneIn Radio](http://tunein.com/radio/ReputatieCoaching-Podcast-p655084/). Ik raad je aan om je op één van die drie kanalen te abonneren op de podcast, zodat je geen aflevering hoeft te missen!
 
 Laat ik dan nu overgaan op de onderwerpen voor vandaag…
 
@@ -109,7 +109,7 @@ Zo wordt mogelijk de afkorting “Dr” door Google zelf voluit gescheven in het
 
 Maar goed, waar wil ik nu naartoe met dit verhaal? Consistentie is noodzaak, dat klopt. Maar ga je niet vermoeien met dit soort details van exacte schrijfwijzem. Vertrouw op de intelligentia binnen Google die dit al lang geleden voor je hebben opgelost. Belangrijker is dat je overal het juiste adres en juiste telefoonnummer specificeert, in combinatie met de juiste bedrijfsnaam en dergelijke.
 
-Let echter wel op de bedrijfsnaam, dat je die overal hetzelfde schrijft, zoals die staat geregistreerd bij de Kamer van Koophandel. Zo zijn er meer dan [30 sites die (volgens mij) hun gegevens van de Kamer van Koophandel krijgen en herpubliceren](https://www.reputatiecoaching.nl/138/). Dus om die gekoppeld te krijgen aan jouw bedrijf en alle andere citations, moet er voor de gegevens zoveel mogelijk overeenkomst zijn. En een belangrijk onderdeel daarvan is natuurlijk ook je bedrijfsnaam.
+Let echter wel op de bedrijfsnaam, dat je die overal hetzelfde schrijft, zoals die staat geregistreerd bij de Kamer van Koophandel. Zo zijn er meer dan [30 sites die (volgens mij) hun gegevens van de Kamer van Koophandel krijgen en herpubliceren](/nl/archief/reputatiecoaching/138/). Dus om die gekoppeld te krijgen aan jouw bedrijf en alle andere citations, moet er voor de gegevens zoveel mogelijk overeenkomst zijn. En een belangrijk onderdeel daarvan is natuurlijk ook je bedrijfsnaam.
 
 Ik hoop dat ik hiermee je vragen heb beantwoord, Romano.
 
@@ -117,13 +117,13 @@ Ik hoop dat ik hiermee je vragen heb beantwoord, Romano.
 
 Het eerste Google-gerelateerde topic gaat over “Help on Social”…
 
-Afgelopen dinsdag was de lancering van een nieuwe dienst van Google, met de naam “[Help on Social](https://www.reputatiecoaching.nl/help-on-social-ghelp-introductie-google/)”. Dit is een crowdsourced dienst, waarbij Google gebruik maakt van de community om die vragen over de producten via Twitter te laten beantwoorden, in plaats van in de Google Product Forums.
+Afgelopen dinsdag was de lancering van een nieuwe dienst van Google, met de naam “[Help on Social](https://web.archive.org/web/*/https://www.reputatiecoaching.nl/help-on-social-ghelp-introductie-google/)”. Dit is een crowdsourced dienst, waarbij Google gebruik maakt van de community om die vragen over de producten via Twitter te laten beantwoorden, in plaats van in de Google Product Forums.
 
 Deze laatste verdwijnen natuurlijk niet: “Help on Social” is een aanvulling, een near-realtime helpdesk voor Google producten. Google verbetert op die manier de gebruikerservaring, doordat mensen hun vraag op Twitter kunnen stellen en de “community” die beantwoordt.
 
 Toen ik dinsdagavond rond negen uur zag dat de eerste officiële vermeldingen vanuit Google over de nieuwe dienst online kwamen, vond ik dat het juiste moment was aangebroken om de video en het reeds geschreven blogartikel handmatig te publiceren.
 
-Vlak daarna kreeg ik via Google Hangout een leuk berichtje van Chris Wong, de productcoördinator van Google. Ik heb een screenshot hiervan opgenomen in de show notes, op [www.reputatiecoaching.nl/142](https://www.reputatiecoaching.nl/142/):
+Vlak daarna kreeg ik via Google Hangout een leuk berichtje van Chris Wong, de productcoördinator van Google. Ik heb een screenshot hiervan opgenomen in de show notes, op [www.reputatiecoaching.nl/142](/nl/archief/reputatiecoaching/142/):
 
 [![Commentaar van Google op mijn video](20150818-ChrisWong-Hangout.png)](https://lh4.googleusercontent.com/-J3hs4u0FsqQ/VdSPcFUtvfI/AAAAAAAACmg/4rDLppF6U6w/w516-h918-no/20150818-ChrisWong-Hangout.png)
 
@@ -268,7 +268,7 @@ Als je de podcast leuk vindt en je wilt nog meer op de hoogte blijven, volg me d
 
 Heb je inderdaad wat aan alle informatie die ik met je deel, help mij dan met het verder verbeteren en promoten van deze podcast. Abonneer je op de podcast, zodat je altijd meteen de nieuwste uitzending krijgt voorgeschoteld.
 
-Zoek de podcast op, in [iTunes](https://www.reputatiecoaching.nl/itunes) of [Stitcher](https://www.reputatiecoaching.nl/stitcher), geef de podcast een sterrenbeoordeling en laat ook je reactie achter. Door de podcast te beoordelen op iTunes en/of Stitcher breng je de podcast onder de aandacht van een breder publiek.
+Zoek de podcast op, in [iTunes](https://web.archive.org/web/*/https://www.reputatiecoaching.nl/itunes) of [Stitcher](https://web.archive.org/web/*/https://www.reputatiecoaching.nl/stitcher), geef de podcast een sterrenbeoordeling en laat ook je reactie achter. Door de podcast te beoordelen op iTunes en/of Stitcher breng je de podcast onder de aandacht van een breder publiek.
 
 Je kunt me verder helpen, door de podcast aan te bevelen bij vrienden of collega’s, waarvan je denkt dat ze er hun voordeel mee kunnen doen, of door ’m te delen op Twitter, like’n en delen op Facebook of een “+1” te geven op Google+.
 
@@ -276,7 +276,7 @@ En vergeet niet: ik ben hier om je te helpen! Als je een vraag of een probleem h
 
 Als je dat te lastig vindt, of als je de podcast beluistert terwijl je in de auto zit en je hebt acuut een vraag, spreek dan een boodschap in op de ReputatieCoaching Hotline, op nummer: 084 - 883 15 56. Mogelijk behandel ik je vraag of probleem dan in een artikel of in de podcast.
 
-En je kunt ook rechtstreeks op de website een voicemail achterlaten, door op de tab aan de rechterkant van elke pagina te klikken, en je bericht in te spreken. Dit was [ReputatieCoaching Podcast aflevering 142](https://www.reputatiecoaching.nl/142/) en mijn naam is [Eduard de Boer](http://nl.linkedin.com/in/eduarddeboer/nl).
+En je kunt ook rechtstreeks op de website een voicemail achterlaten, door op de tab aan de rechterkant van elke pagina te klikken, en je bericht in te spreken. Dit was [ReputatieCoaching Podcast aflevering 142](/nl/archief/reputatiecoaching/142/) en mijn naam is [Eduard de Boer](http://nl.linkedin.com/in/eduarddeboer/nl).
 
 Ik wens je de komende week weer succes met het werken aan je reputatie, zodat je meteen je reputatie voor jou kunt laten werken!
 
@@ -287,8 +287,8 @@ Doei!
 Links naar content die in deze podcast aan bod komt:
 
 ```
-  * [ReputatieCoaching Podcast in iTunes](https://www.reputatiecoaching.nl/itunes)
-  * [ReputatieCoaching Podcast op Stitcher](https://www.reputatiecoaching.nl/stitcher)
+  * [ReputatieCoaching Podcast in iTunes](https://web.archive.org/web/*/https://www.reputatiecoaching.nl/itunes)
+  * [ReputatieCoaching Podcast op Stitcher](https://web.archive.org/web/*/https://www.reputatiecoaching.nl/stitcher)
   * [ReputatieCoaching Podcast op TuneIn Radio](http://tunein.com/radio/ReputatieCoaching-Podcast-p655084/)
   * [ReputatieCoaching Podcast RSS-feed](https://feeds.reputatiecoaching.nl/ReputatieCoachingPodcast)
   * [WordPress 4.3 (“Billie”)](https://wordpress.org/news/2015/08/billie/)

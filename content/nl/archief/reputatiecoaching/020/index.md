@@ -3,6 +3,8 @@ title: Podcast Aflevering 20 (13-04-2013)
 date: '2013-04-13T18:00:50+00:00'
 description: 'ReputatieCoaching Podcast aflevering 20! Spectaculair nieuws deze week… Eindelijk is het dan zover: de langverwachte Facebook Home is uit! Dus daarover straks meer. En vorige week vertelde ik je over Jeanet Bathoorn die een leuk artikel had gepubliceerd op FrankWatching. Dat artikel kreeg nog een staartje… Verder heb ik een update over het belang van reviews. De podcast van vandaag sluit ik af met een leuk interview met een uitermate enthousiaste en gedreven vrouwelijke gast.'
 episode: 20
+kgRef: podcast_episode/reputatiecoaching_020
+source_url: https://www.reputatiecoaching.nl/20
 historical: true
 archivePeriod: 2012–2016
 transcriptStatus: full
@@ -16,8 +18,6 @@ showTaxonomies: false
 ---
 
 > **Historisch archief.** Deze aflevering verscheen op 13-04-2013 als onderdeel van ReputatieCoaching (2012–2016). De oorspronkelijke tekst is hieronder historisch bewaard. Diensten, contactgegevens, links, tools en adviezen kunnen inmiddels verouderd zijn.
-
-{{< audio src="https://archive.org/download/20130413-reputatie-coaching-podcast-020/20130413-ReputatieCoaching-Podcast-020.mp3" title="ReputatieCoaching Podcast #020" >}}
 
 **Transcriptiestatus:** Volledige transcriptie uit het oorspronkelijke archief.
 
@@ -88,7 +88,7 @@ Zowel op de website, als in de podcast heb ik al een aantal keren gerefereerd aa
 
 *6. Zelf ben ik sinds maart 2012 ingeschreven bij Yelp, omdat ik er toen min of meer toevallig in figuurlijke zin tegenaan liep. Maar het is pas sinds juli 2012, dat ik ben begonnen met het posten van reviews. Misschien ben ik gewoon traag van begrip, maar ik vroeg me lange tijd af, wat het nut was om al die ervaringen te posten voor de wereld.*
 
-*Inmiddels ben ik driekwart jaar verder en ik heb wat dat betreft het licht gezien. Ik post zelf nu frequent reviews en foto’s van bedrijven die ik bezoek. Ook adviseer ik als ReputatieCoach iedereen om zich [aan te melden op Yelp](https://www.reputatiecoaching.nl/bedrijf-toevoegen-op-yelp-instructievideo/), zowel bedrijven voor hun bedrijfsvermelding en vrienden en bekenden, om reviews te posten. Dus zo snel kunnen dingen gaan.*
+*Inmiddels ben ik driekwart jaar verder en ik heb wat dat betreft het licht gezien. Ik post zelf nu frequent reviews en foto’s van bedrijven die ik bezoek. Ook adviseer ik als ReputatieCoach iedereen om zich [aan te melden op Yelp](https://web.archive.org/web/*/https://www.reputatiecoaching.nl/bedrijf-toevoegen-op-yelp-instructievideo/), zowel bedrijven voor hun bedrijfsvermelding en vrienden en bekenden, om reviews te posten. Dus zo snel kunnen dingen gaan.*
 
 *Maar wat ik me afvraag: wat doet Yelp actief aan marketing voor het werven van nieuwe Yelp’ers? En groeit Yelp naar wens?*
 
@@ -108,13 +108,13 @@ Zowel op de website, als in de podcast heb ik al een aantal keren gerefereerd aa
 
 *Dit was best een lang interview, daarom bewaar ik een aantal tips die ik deze week weer links en rechts ontdekte, voor de volgende podcast.*
 
-*Nu ik het toch even over de podcast heb: als je deze podcast leuk vindt, laat het me dan weten. Vertel erover aan je familie, vrienden of collega’s of laat een review achter op iTunes. Ook stel ik het op prijs als je een bericht achterlaat op onze Facebookpagina, op: [www.reputatiecoaching.nl/facebook](https://www.reputatiecoaching.nl/facebook). Like dit artikel, of klik op “+1” onderaan dit artikel. Je mag ook een bericht achterlaten op de Google+ pagina. De Google+ pagina kun je vinden op: [www.reputatiecoaching.nl/gplus](https://www.reputatiecoaching.nl/gplus) (dat is “g-p-l-u-s”).*
+*Nu ik het toch even over de podcast heb: als je deze podcast leuk vindt, laat het me dan weten. Vertel erover aan je familie, vrienden of collega’s of laat een review achter op iTunes. Ook stel ik het op prijs als je een bericht achterlaat op onze Facebookpagina, op: [www.reputatiecoaching.nl/facebook](https://web.archive.org/web/*/https://www.reputatiecoaching.nl/facebook). Like dit artikel, of klik op “+1” onderaan dit artikel. Je mag ook een bericht achterlaten op de Google+ pagina. De Google+ pagina kun je vinden op: [www.reputatiecoaching.nl/gplus](https://web.archive.org/web/*/https://www.reputatiecoaching.nl/gplus) (dat is “g-p-l-u-s”).*
 
-*Je kunt natuurlijk ook een leuke recensie achterlaten op op mijn LinkedIn-profiel, op: [www.reputatiecoaching.nl/linkedin](https://www.reputatiecoaching.nl/linkedin).*
+*Je kunt natuurlijk ook een leuke recensie achterlaten op op mijn LinkedIn-profiel, op: [www.reputatiecoaching.nl/linkedin](https://web.archive.org/web/*/https://www.reputatiecoaching.nl/linkedin).*
 
 *Of post ook simpelweg een reactie, onderaan de transcriptie van deze podcast.*
 
-*Als je opmerkingen hebt over deze podcast, laat die dan op de website onderaan de transcriptie achter. Je kunt de transcriptie van deze podcast snel online vinden door te surfen naar: [www.reputatiecoaching.nl/20/](https://www.reputatiecoaching.nl/20/). Als je ergens een recensie hebt geplaatst, stuur me dan een mailtje zodat ik je recensie kan vermelden in de podcast.*
+*Als je opmerkingen hebt over deze podcast, laat die dan op de website onderaan de transcriptie achter. Je kunt de transcriptie van deze podcast snel online vinden door te surfen naar: [www.reputatiecoaching.nl/20/](/nl/archief/reputatiecoaching/020/). Als je ergens een recensie hebt geplaatst, stuur me dan een mailtje zodat ik je recensie kan vermelden in de podcast.*
 
 *Als je een vraag of een probleem hebt met betrekking tot je online reputatie, stuur dan een mailtje naar [podcast@reputatiecoaching.nl](mailto:podcast@reputatiecoaching.nl) of spreek een boodschap in op de ReputatieCoaching Hotline, op: 084 - 883 15 56. Mogelijk behandel ik je vraag of probleem dan in een artikel of in de podcast.*
 

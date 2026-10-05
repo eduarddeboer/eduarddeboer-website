@@ -3,6 +3,8 @@ title: '73: Veel Facebook updates, heel veel! Facebook Marketing bij #SMC055 en 
 date: '2014-04-21T06:30:10+00:00'
 description: Vandaag is het tweede Paasdag en de podcast is vandaag bij wijze van uitzondering iets later online gekomen, dan anders. Hoe dat komt, vertel ik je zo. Afgelopen week is WordPress 3.9 uitgekomen en recentelijk is er heel wat gebeurd op het Facebook front, dus ik heb veel Facebook updates voor je. En zoals ik al heb geschreven was ik vorige week maandagavond op een leuke informatieavond over Facebook Marketing, die werd georganiseerd door de Social Media Club Apeldoorn (#SMC055).
 episode: 73
+kgRef: podcast_episode/reputatiecoaching_073
+source_url: https://www.reputatiecoaching.nl/73
 historical: true
 archivePeriod: 2012–2016
 transcriptStatus: full
@@ -17,8 +19,6 @@ showTaxonomies: false
 
 > **Historisch archief.** Deze aflevering verscheen op 21-04-2014 als onderdeel van ReputatieCoaching (2012–2016). De oorspronkelijke tekst is hieronder historisch bewaard. Diensten, contactgegevens, links, tools en adviezen kunnen inmiddels verouderd zijn.
 
-{{< audio src="https://archive.org/download/20140421-reputatie-coaching-podcast-073/20140421-ReputatieCoaching-Podcast-073.mp3" title="ReputatieCoaching Podcast #073" >}}
-
 **Transcriptiestatus:** Volledige transcriptie uit het oorspronkelijke archief.
 
 ***Historische afbeelding niet beschikbaar: ReputatieCoaching Podcast*
@@ -26,7 +26,7 @@ Vandaag is het tweede Paasdag en de podcast is vandaag bij wijze van uitzonderin
 
 Hallo en hartelijk welkom bij deze aflevering van de ReputatieCoaching Podcast. Mijn naam is Eduard de Boer, ook bekend als de ReputatieCoach. Dit is dé podcast die je moet beluisteren als je meer wilt leren over online reputatie en reputatiemanagement en ook als je wilt werken aan je online reputatie en je online vindbaarheid wilt verbeteren. Dit alles kan je helpen om jezelf beter op de online kaart te plaatsen, waardoor je als bedrijf meer business kunt doen.
 
-De podcast kun je vinden op [www.reputatiecoaching.nl/73](https://www.reputatiecoaching.nl/73/). Daar vind je niet alleen de tekst, maar ook video’s waar ik het in deze uitzending over heb, alsmede afbeeldingen, links enzovoorts. Bovendien is de podcast te beluisteren in [iTunes](https://www.reputatiecoaching.nl/itunes) en op [Stitcher](https://www.reputatiecoaching.nl/stitcher). Daar kun je je dus ook abonneren op de wekelijkse podcast. Veel mensen vinden het ideaal om de wekelijkse afleveringen van de podcast op hun gemak te beluisteren, terwijl ze autorijden.
+De podcast kun je vinden op [www.reputatiecoaching.nl/73](/nl/archief/reputatiecoaching/073/). Daar vind je niet alleen de tekst, maar ook video’s waar ik het in deze uitzending over heb, alsmede afbeeldingen, links enzovoorts. Bovendien is de podcast te beluisteren in [iTunes](https://web.archive.org/web/*/https://www.reputatiecoaching.nl/itunes) en op [Stitcher](https://web.archive.org/web/*/https://www.reputatiecoaching.nl/stitcher). Daar kun je je dus ook abonneren op de wekelijkse podcast. Veel mensen vinden het ideaal om de wekelijkse afleveringen van de podcast op hun gemak te beluisteren, terwijl ze autorijden.
 
 Voordat ik de onderwerpen van vandaag aansnijdt eerst even een korte toelichting, hoe het komt dat de podcast vandaag niet –zoals altijd– stipt om 08:30 ’s ochtends online is gekomen. De reden hiervoor is dat we gisteren een feestje hadden, maar niet zomaar een feestje. We vierden namelijk drie verjaardagen op één en dezelfde dag. Mijn vrouw Suzanne was eerder dit jaar namelijk jarig op 31 januari, ikzelf op 23 februari en gisteren op 20 april werd onze zoon Fonz 14.
 
@@ -49,11 +49,11 @@ De avond over Facebook Marketing van de Social Media Club Apeldoorn trok afgelop
 
 Bjorn van Ekeren vertelde hoe hij zijn marketing doet via Facebook, door middel van een aantal leuke acties. Hij zei ook dat hij een lijst bijhoudt voor ideeën om content te verspreiden. Een op basis van deze ideeënlijst stelt hij maandelijks een soort van publicatiekalender op, waarin hij plant wanneer hij wat post.
 
-Zo houdt hij er natuurlijk rekening mee, dat hij een leuke foto van een glas wijn niet op dinsdagochtend om 10:00 uur post enzovoorts. Als je het [Storify-board van deze #SMC055 informatieavond](https://www.reputatiecoaching.nl/smc055-facebook-marketing-apeldoorn-op-14-april-2014/) nog eens naleest, krijg je een aardig beeld van wat Bjorn van Ekeren allemaal voor leuke dingen doet om zijn restaurant telkens weer op de kaart te zetten, te houden en om gasten naar zijn etablissement te trekken. Ik vond het geniaal om te horen wat hij allemaal doet.
+Zo houdt hij er natuurlijk rekening mee, dat hij een leuke foto van een glas wijn niet op dinsdagochtend om 10:00 uur post enzovoorts. Als je het [Storify-board van deze #SMC055 informatieavond](https://web.archive.org/web/*/https://www.reputatiecoaching.nl/smc055-facebook-marketing-apeldoorn-op-14-april-2014/) nog eens naleest, krijg je een aardig beeld van wat Bjorn van Ekeren allemaal voor leuke dingen doet om zijn restaurant telkens weer op de kaart te zetten, te houden en om gasten naar zijn etablissement te trekken. Ik vond het geniaal om te horen wat hij allemaal doet.
 
 De presentatie van Peter Minkjan over Facebook Marketing bestond uit 186 slides waar hij in een moordend tempo doorheen ging. Desalniettemin was zijn verhaal goed te volgen. Vooral statistieken over aantallen gebruikers, potentieel bereik en de advertentie- en targetingmogelijkheden binnen Facebook vielen volgens mij goed in de smaak bij het publiek. Het bleek ook dat nog niet zoveel mensen de Search Graph leken te kennen en dus ook nog nooit kennis hebben gemaakt met de mogelijkheden die dit biedt.
 
-De presentatie die Peter Minkjan 14 april gaf in Apeldoorn heb ik in de show notes op [www.reputatiecoaching.nl/73](https://www.reputatiecoaching.nl/73/) opgenomen. Hij heeft ’m namelijk gepost op Slideshare:
+De presentatie die Peter Minkjan 14 april gaf in Apeldoorn heb ik in de show notes op [www.reputatiecoaching.nl/73](/nl/archief/reputatiecoaching/073/) opgenomen. Hij heeft ’m namelijk gepost op Slideshare:
 
 ## WordPress 3.9 is live
 
@@ -61,7 +61,7 @@ Vorige week kondigde ik het al aan: afgelopen week en om precies te zijn op 16 a
 
 Dus dat wil ik voorkomen en voordat ik dan upgrade, kijk ik altijd eerst even op Internet of de afgelopen dagen mensen problemen met de update hebben gemeld. Zo ja, dan duik ik in de problemen en probeer in te schatten of ik die ook ga krijgen. Maar als niemand problemen meldt, dan maak ik eerst een extra backup, om vervolgens de update door te voeren.
 
-Zo ook deze keer en inmiddels draait [www.reputatiecoaching.nl](http://www.reputatiecoaching.nl) dus zonder problemen op WordPress 3.9. Ik moet zeggen dat ik de nieuwe editor een stuk prettiger vind werken en dat inderdaad het opnemen van afbeeldingen in een blogbericht en het resizen van foto’s wel gemakkelijker en sneller werkt.
+Zo ook deze keer en inmiddels draait [www.reputatiecoaching.nl](https://web.archive.org/web/*/http://www.reputatiecoaching.nl) dus zonder problemen op WordPress 3.9. Ik moet zeggen dat ik de nieuwe editor een stuk prettiger vind werken en dat inderdaad het opnemen van afbeeldingen in een blogbericht en het resizen van foto’s wel gemakkelijker en sneller werkt.
 
 Dan heb ik nogal wat updates over Facebook…
 
@@ -147,7 +147,7 @@ In elk geval zal ik het boek binnenkort ook eens lezen, want het lijkt mij (hele
 
 Wed nooit op één paard, zeker niet als je reviews verzamelt. Dat is een advies dat ik aan elke ondernemer geef. Je weet tenslotte nooit wat er in de toekomst kan gebeuren met het platform waar jij toevallig net je reviews aan het verzamelen bent. Als dat wordt opgeheven kan het zomaar zijn dat je dan je reviews kwijt bent.
 
-Voor Nederlandse bedrijven en ondernemers is het niet relevant, maar herinner je je nog dat ik in [podcast 64](https://www.reputatiecoaching.nl/64/) vertelde dat Yahoo de reviews van Yelp zou gaan vertonen? Welnu, dat is al sinds enige tijd zo. Alleen heeft dit nu tot gevolg dat zodra iemand nu een nieuwe review post op Yelp, hierdoor ineens alle Yahoo reviews zijn verdwenen! Foetsie! Weg!
+Voor Nederlandse bedrijven en ondernemers is het niet relevant, maar herinner je je nog dat ik in [podcast 64](/nl/archief/reputatiecoaching/064/) vertelde dat Yahoo de reviews van Yelp zou gaan vertonen? Welnu, dat is al sinds enige tijd zo. Alleen heeft dit nu tot gevolg dat zodra iemand nu een nieuwe review post op Yelp, hierdoor ineens alle Yahoo reviews zijn verdwenen! Foetsie! Weg!
 
 Weg is al je harde werk van een aantal jaren, waarin je met moeite een aantal reviews hebt verzameld… Stel je voor, als je als bedrijf al die jaren alleen op Yahoo reviews zou hebben verzameld. Dat is dan erg zuur!
 
@@ -183,7 +183,7 @@ Zoals ik al zei: ik wil de podcast zo rond de 20 minuten houden en als ik nu op 
 
 Als je de podcast leuk vindt en je wilt nog meer op de hooge blijven, volg me dan ook op Twitter en ga me volgen via: [@reputatiecoach1](https://twitter.com/reputatiecoach1).
 
-Als je de podcast leuk vindt en je hebt inderdaad wat aan alle informatie die ik met je deel, help mij dan met het verder verbeteren en promoten van deze podcast. Surf dan naar [iTunes](https://www.reputatiecoaching.nl/itunes) of [Stitcher](https://www.reputatiecoaching.nl/stitcher), geef de podcast een sterrenbeoordeling en geef ook je reactie. Door de podcast te beoordelen op iTunes en/of Stitcher breng je de podcast onder de aandacht van een breder publiek.
+Als je de podcast leuk vindt en je hebt inderdaad wat aan alle informatie die ik met je deel, help mij dan met het verder verbeteren en promoten van deze podcast. Surf dan naar [iTunes](https://web.archive.org/web/*/https://www.reputatiecoaching.nl/itunes) of [Stitcher](https://web.archive.org/web/*/https://www.reputatiecoaching.nl/stitcher), geef de podcast een sterrenbeoordeling en geef ook je reactie. Door de podcast te beoordelen op iTunes en/of Stitcher breng je de podcast onder de aandacht van een breder publiek.
 
 Je kunt me verder helpen, door de podcast aan te bevelen bij vrienden of collega’s, waarvan je denkt dat ze er hun voordeel mee kunnen doen, of door ’m te delen op Twitter, like’n en delen op Facebook of een “+1” te geven op Google+.
 
@@ -191,7 +191,7 @@ En vergeet niet: ik ben hier om je te helpen! Als je een vraag of een probleem h
 
 Als je dat te lastig vindt, of als je de podcast beluistert terwijl je in de auto zit en je hebt acuut een vraag, spreek dan een boodschap in op de ReputatieCoaching Hotline, op nummer: 084 - 883 15 56. Mogelijk behandel ik je vraag of probleem dan in een artikel of in de podcast.
 
-En je kunt ook rechtstreeks op de website een voicemail achterlaten, door op de tab aan de rechterkant van elke pagina te klikken, en je bericht in te spreken. Dit was [ReputatieCoaching Podcast aflevering 73](https://www.reputatiecoaching.nl/73/) en mijn naam is [Eduard de Boer](http://nl.linkedin.com/in/eduarddeboer/nl).
+En je kunt ook rechtstreeks op de website een voicemail achterlaten, door op de tab aan de rechterkant van elke pagina te klikken, en je bericht in te spreken. Dit was [ReputatieCoaching Podcast aflevering 73](/nl/archief/reputatiecoaching/073/) en mijn naam is [Eduard de Boer](http://nl.linkedin.com/in/eduarddeboer/nl).
 
 Ik wens je de komende week weer succes met het werken aan je reputatie, zodat je meteen je reputatie voor jou kunt laten werken!
 
@@ -202,8 +202,8 @@ Doei!
 Links naar content die in deze podcast aan bod komt:
 
 ```
-  * [ReputatieCoaching Podcast in iTunes](https://www.reputatiecoaching.nl/itunes)
-  * [ReputatieCoaching Podcast op Stitcher](https://www.reputatiecoaching.nl/stitcher)
+  * [ReputatieCoaching Podcast in iTunes](https://web.archive.org/web/*/https://www.reputatiecoaching.nl/itunes)
+  * [ReputatieCoaching Podcast op Stitcher](https://web.archive.org/web/*/https://www.reputatiecoaching.nl/stitcher)
   * [ReputatieCoaching Podcast RSS-feed](https://feeds.reputatiecoaching.nl/ReputatieCoachingPodcast)
   * “[Snapchat](http://nl.wikipedia.org/wiki/Snapchat)” (Wikipedia)
   * “[Is Facebook Losing Teens?](http://blog.globalwebindex.net/facebook-teens-decline)” (globalwebindex.net, 8 november 2013)

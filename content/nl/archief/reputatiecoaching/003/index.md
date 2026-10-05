@@ -3,6 +3,8 @@ title: '#003: Google Authorship, Rich Snippets, schema.org, Google Apps (gratis)
 date: '2012-12-17T19:12:46+00:00'
 description: 'In deze derde podcast vertel ik eerst iets wat ik steeds ben vergeten: de verschijningsfrequentie van de podcast. Daarna heb ik een aantal onderwerpen, variërend van Google Authorship en rich snippets, tot Twitter, Google Apps for Business, Pinterest en WordPress. __Hallo allemaal en hartelijk welkom bij inmiddels alweer de derde aflevering van de ReputatieCoaching Podcast. Mijn naam is Eduard de Boer –ook wel bekend als de ReputatieCoach– en ik ben de host voor vandaag!'
 episode: 3
+kgRef: podcast_episode/reputatiecoaching_003
+source_url: https://www.reputatiecoaching.nl/3
 historical: true
 archivePeriod: 2012–2016
 transcriptStatus: full
@@ -16,8 +18,6 @@ showTaxonomies: false
 ---
 
 > **Historisch archief.** Deze aflevering verscheen op 17-12-2012 als onderdeel van ReputatieCoaching (2012–2016). De oorspronkelijke tekst is hieronder historisch bewaard. Diensten, contactgegevens, links, tools en adviezen kunnen inmiddels verouderd zijn.
-
-{{< audio src="https://archive.org/download/20121217-reputatie-coaching-podcast-003_202102/20121217-ReputatieCoaching-Podcast-003.mp3" title="ReputatieCoaching Podcast #003" >}}
 
 **Transcriptiestatus:** Volledige transcriptie uit het oorspronkelijke archief.
 
@@ -37,11 +37,11 @@ Als laatste heb ik nieuws over Google Apps for Business, de uitgebreide cloud-se
 
 De onderwerpen van vandaag op een rijtje:
 
-- [Google Authorship](https://www.reputatiecoaching.nl/wiki/google-authorship/) (inmiddels afgeschaft) \* [Rich Snippets & schema.org](https://www.reputatiecoaching.nl/rich-snippets-schema-org/) \* [Twitter Lists](https://www.reputatiecoaching.nl/twitter-lists/) \* [Gratis Google Apps for Business stopt](https://www.reputatiecoaching.nl/gratis-google-apps-for-business-stopt/) \* [Over op outlook.com?](https://www.reputatiecoaching.nl/over-op-outlook-com/) \* [Pinterest business accounts](https://www.reputatiecoaching.nl/pinterest-business-accounts/)
+- [Google Authorship](https://web.archive.org/web/*/https://www.reputatiecoaching.nl/wiki/google-authorship/) (inmiddels afgeschaft) \* [Rich Snippets & schema.org](https://web.archive.org/web/*/https://www.reputatiecoaching.nl/rich-snippets-schema-org/) \* [Twitter Lists](https://web.archive.org/web/*/https://www.reputatiecoaching.nl/twitter-lists/) \* [Gratis Google Apps for Business stopt](https://web.archive.org/web/*/https://www.reputatiecoaching.nl/gratis-google-apps-for-business-stopt/) \* [Over op outlook.com?](https://web.archive.org/web/*/https://www.reputatiecoaching.nl/over-op-outlook-com/) \* [Pinterest business accounts](https://web.archive.org/web/*/https://www.reputatiecoaching.nl/pinterest-business-accounts/)
 
 En dan het laatste nieuwtje: WordPress 3.5 is nu echt officieel uitgekomen en wel één dag na de vorige podcast, op 11 december dus. De [WordPress met codenaam “Elvin” is ook al in het Nederlands beschikbaar](http://nl.wordpress.org/2012/12/11/wordpress-3-5-met-sterk-verbeterde-media-beheer-interface/). Ik wacht zelf nog even tot morgen, dan is het wat mij betreft voldoende bekend of er nog kinderziektes in zitten of niet. Ik zal dan ook mijn eigen advies uit de vorige podcast opvolgen: eerst een backup maken van de data en de content, voordat ik de upgrade uitvoer.
 
-In de [volgende podcast](https://www.reputatiecoaching.nl/4/) hoor je er meer over!
+In de [volgende podcast](/nl/archief/reputatiecoaching/004/) hoor je er meer over!
 
 Ik hoop dat je wat hebt opgestoken van deze podcast en dat jij binnenkort ook door Google wordt gezien als een schrijver of schrijfster met autoriteit. Kom je er niet uit met het activeren van je Authorship bij Google+ in combinatie met je site of weblog, laat dan hieronder een reactie achter en ik help je verder.
 

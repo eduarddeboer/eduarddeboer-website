@@ -3,6 +3,8 @@ title: '36: Google City Experts, de Google reviews, Google Helpouts en nieuws ov
 date: '2013-08-03T17:30:05+00:00'
 description: ReputatieCoaching Podcast aflevering 36! Hallo en hartelijk welkom bij dé Nederlandstalige podcast die je helpt om jezelf en/of je bedrijf prominent op de kaart te zetten. Ik geef je tips en adviezen waarmee je meer business kunt doen door op de juiste manier aan je reputatie te werken, je online vindbaarheid te verbeteren en het optimaliseren van je website voor gebruikers en zoekmachines. Vanwege het mooie weer zou je verwachten dat het nu een rustige periode is, zonder veel toevoer van interessant of relevant nieuws.
 episode: 36
+kgRef: podcast_episode/reputatiecoaching_036
+source_url: https://www.reputatiecoaching.nl/36
 historical: true
 archivePeriod: 2012–2016
 transcriptStatus: full
@@ -16,8 +18,6 @@ showTaxonomies: false
 ---
 
 > **Historisch archief.** Deze aflevering verscheen op 3-08-2013 als onderdeel van ReputatieCoaching (2012–2016). De oorspronkelijke tekst is hieronder historisch bewaard. Diensten, contactgegevens, links, tools en adviezen kunnen inmiddels verouderd zijn.
-
-{{< audio src="https://archive.org/download/20130803-reputatie-coaching-podcast-036/20130803-ReputatieCoaching-Podcast-036.mp3" title="ReputatieCoaching Podcast #036" >}}
 
 **Transcriptiestatus:** Volledige transcriptie uit het oorspronkelijke archief.
 
@@ -34,13 +34,13 @@ Hallo en hartelijk welkom bij dé Nederlandstalige podcast die je helpt om jezel
 
 **Mijn naam is Eduard de Boer –bekend als de ReputatieCoach– en ik ben je host voor vandaag!**
 
-Voordat ik overga op de onderwerpen van vandaag even twee dingen. Als eerste: de vorige podcast bevatte allemaal klikjes en tikjes. Er stond blijkbaar iets verkeerd ingesteld op m’n audioapparatuur. Maar vandaag krijg je weer een klikloze opname, zoals je die van mij gewend bent. En als tweede: eerder deze week zijn de [ReputatieCoaching Podcast video’s](https://www.reputatiecoaching.nl/video-podcasts-juli-2013-op-youtube/) van juli 2013 online gekomen. Deze kun je ook bekijken in het YouTube-kanaal, dat je kunt vinden op: [www.youtube.com/reputatiecoaching](https://www.youtube.com/reputatiecoaching).
+Voordat ik overga op de onderwerpen van vandaag even twee dingen. Als eerste: de vorige podcast bevatte allemaal klikjes en tikjes. Er stond blijkbaar iets verkeerd ingesteld op m’n audioapparatuur. Maar vandaag krijg je weer een klikloze opname, zoals je die van mij gewend bent. En als tweede: eerder deze week zijn de [ReputatieCoaching Podcast video’s](https://web.archive.org/web/*/https://www.reputatiecoaching.nl/video-podcasts-juli-2013-op-youtube/) van juli 2013 online gekomen. Deze kun je ook bekijken in het YouTube-kanaal, dat je kunt vinden op: [www.youtube.com/reputatiecoaching](https://www.youtube.com/reputatiecoaching).
 
 ## Google City Experts
 
 Yelp heeft de Yelp Elite, een groep speciale Yelpies die uiterst frequent reviews posten van gelegenheden die zij bezoeken. Het lijkt er nu op alsof Google Yelp gaat nadoen. Een paar dagen geleden heeft Google in New York het Google City Experts programma gelanceerd. Dit is bestemd voor mensen die tenminste 50 reviews hebben gepost, waarvan maar liefst 5 in één maand.
 
-Net als de Yelp Elite krijgen de Google City Experts ook bepaalde privileges en uitnodigingen voor bijzondere gelegenheden en evenementen. Ik heb nog geen Nederlandstalige content hierover kunnen vinden, maar in de show notes vind je de link naar de Engelstalige pagina’s. En de show notes kun je vinden op [www.reputatiecoaching.nl/36](https://www.reputatiecoaching.nl/36).
+Net als de Yelp Elite krijgen de Google City Experts ook bepaalde privileges en uitnodigingen voor bijzondere gelegenheden en evenementen. Ik heb nog geen Nederlandstalige content hierover kunnen vinden, maar in de show notes vind je de link naar de Engelstalige pagina’s. En de show notes kun je vinden op [www.reputatiecoaching.nl/36](/nl/archief/reputatiecoaching/036/).
 
 Op dit moment is het programma actief in de volgende steden: Austin (USA), Birmingham (UK), Chicago, Edinburgh, Londen, New York, Portland (OR), Phoenix, Raleigh-Durham, San Francisco en Sydney. Google zegt dat ze hoopt dat ze binnenkort meer steden kan toevoegen.
 
@@ -56,7 +56,7 @@ Maar nu zag ik dat je je bedrijf weer kunt claimen via de telefoon:[Historische 
 
 ## Google reviews vernieuwd
 
-In [podcast 34](https://www.reputatiecoaching.nl/34/) vertelde ik je dat de vijf sterren reviews terug zijn in Google. Dat is een hele vooruitgang. Als je links en rechts op Internet onderzoek doet, dan lopen de meningen over het effect van de review sterretjes behoorlijk uiteen.
+In [podcast 34](/nl/archief/reputatiecoaching/034/) vertelde ik je dat de vijf sterren reviews terug zijn in Google. Dat is een hele vooruitgang. Als je links en rechts op Internet onderzoek doet, dan lopen de meningen over het effect van de review sterretjes behoorlijk uiteen.
 
 Aan de ene kant staan mensen die verwachten dat het niet veel effect zal hebben op de CTR, ofwel de Click-Through-Rate, terwijl anderen er wel een hoge verwachting van hebben. Ik behoor bij de tweede groep, want ik heb het sterke vermoeden dat het visuele aspect van de review sterretjes echt leidt tot een hogere CTR.
 
@@ -258,9 +258,9 @@ Als je de podcast leuk vindt en je hebt inderdaad wat aan alle informatie die ik
 
 Als je een vraag of een probleem hebt met betrekking tot je online reputatie of de vindbaarheid van je website, kun je een mailtje sturen naar [podcast@reputatiecoaching.nl](mailto:podcast@reputatiecoaching.nl). Als je dat te lastig vindt, of als je de podcast beluistert terwijl je in de auto zit en je hebt acuut een vraag, spreek dan een boodschap in op de ReputatieCoaching Hotline, op nummer: 084 - 883 15 56. Mogelijk behandel ik je vraag of probleem dan in een artikel of in de podcast.
 
-Als laatste kun je je ook inschrijven voor de nieuwsbrief. Dan ontvang je altijd als eerste het laatste nieuws wat ik publiceer en automatisch elk kwartaal het ReputatieCoaching Podcast Boek van het afgelopen kwartaal. Surf daartoe naar [www.reputatiecoaching.nl/nieuwsbrief](https://www.reputatiecoaching.nl/nieuwsbrief) en schrijf je meteen in.
+Als laatste kun je je ook inschrijven voor de nieuwsbrief. Dan ontvang je altijd als eerste het laatste nieuws wat ik publiceer en automatisch elk kwartaal het ReputatieCoaching Podcast Boek van het afgelopen kwartaal. Surf daartoe naar [www.reputatiecoaching.nl/nieuwsbrief](https://web.archive.org/web/*/https://www.reputatiecoaching.nl/nieuwsbrief) en schrijf je meteen in.
 
-En je kunt rechtstreeks op de website een voicemail achterlaten, door op de tab aan de rechterkant van elke pagina te klikken, en je bericht in te spreken. Dit was [ReputatieCoaching Podast aflevering 36](https://www.reputatiecoaching.nl/36) en mijn naam is [Eduard de Boer](http://nl.linkedin.com/in/eduarddeboer).
+En je kunt rechtstreeks op de website een voicemail achterlaten, door op de tab aan de rechterkant van elke pagina te klikken, en je bericht in te spreken. Dit was [ReputatieCoaching Podast aflevering 36](/nl/archief/reputatiecoaching/036/) en mijn naam is [Eduard de Boer](http://nl.linkedin.com/in/eduarddeboer).
 
 Ik wens je de komende week weer succes met het werken aan je reputatie, zodat je meteen je reputatie voor jou kunt laten werken!
 

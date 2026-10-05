@@ -3,6 +3,8 @@ title: '111: Hoe bouw je een sterk online pseudoniem of alter ego? IENS.nl, seat
 date: '2015-01-15T07:30:30+00:00'
 description: 'Hoe bouw je een alter ego of pseudoniem op? Die vraag kreeg ik eerder deze week van luisteraar Diana uit New York. Ik kan je alvast vertellen dat dit onderwerp het grootste deel van deze podcast in beslag zal nemen: ik denk wel meer dan 60%! Ik geef je namelijk acht stappen om online een alter ego of pseudoniem neer te zetten, met een sterke exposure of zichtbaarheid en een perfecte vindbaarheid.'
 episode: 111
+kgRef: podcast_episode/reputatiecoaching_111
+source_url: https://www.reputatiecoaching.nl/111
 historical: true
 archivePeriod: 2012–2016
 transcriptStatus: full
@@ -17,8 +19,6 @@ showTaxonomies: false
 
 > **Historisch archief.** Deze aflevering verscheen op 15-01-2015 als onderdeel van ReputatieCoaching (2012–2016). De oorspronkelijke tekst is hieronder historisch bewaard. Diensten, contactgegevens, links, tools en adviezen kunnen inmiddels verouderd zijn.
 
-{{< audio src="https://archive.org/download/20150115-reputatie-coaching-podcast-111/20150115-ReputatieCoaching-Podcast-111.mp3" title="ReputatieCoaching Podcast #111" >}}
-
 **Transcriptiestatus:** Volledige transcriptie uit het oorspronkelijke archief.
 
 *Historische afbeelding niet beschikbaar: ReputatieCoaching Podcast*
@@ -28,7 +28,7 @@ showTaxonomies: false
 
 Hallo en hartelijk welkom bij deze aflevering van de ReputatieCoaching Podcast. Ik ben Eduard de Boer, ReputatieCoach. Dit is dé podcast die jou helpt om meer business te genereren, doordat jouw website beter gevonden wordt, zowel lokaal als landelijk en doordat ik je uitleg hoe je je online reputatie kunt verbeteren. Dit alles helpt jou om je bedrijf en jezelf beter op de online kaart te plaatsen.
 
-De podcast kun je vinden op [www.reputatiecoaching.nl/111](https://www.reputatiecoaching.nl/111/). Daar vind je niet alleen de tekst, maar ook video’s waar ik het in deze uitzending over heb, alsmede afbeeldingen, links enzovoorts. Bovendien is de podcast te beluisteren in [iTunes](https://www.reputatiecoaching.nl/itunes), op [Stitcher](https://www.reputatiecoaching.nl/stitcher) en ook op [TuneIn Radio](http://tunein.com/radio/ReputatieCoaching-Podcast-p655084/). Daar kun je je dus ook abonneren op de wekelijkse podcast.
+De podcast kun je vinden op [www.reputatiecoaching.nl/111](/nl/archief/reputatiecoaching/111/). Daar vind je niet alleen de tekst, maar ook video’s waar ik het in deze uitzending over heb, alsmede afbeeldingen, links enzovoorts. Bovendien is de podcast te beluisteren in [iTunes](https://web.archive.org/web/*/https://www.reputatiecoaching.nl/itunes), op [Stitcher](https://web.archive.org/web/*/https://www.reputatiecoaching.nl/stitcher) en ook op [TuneIn Radio](http://tunein.com/radio/ReputatieCoaching-Podcast-p655084/). Daar kun je je dus ook abonneren op de wekelijkse podcast.
 
 Laat ik dan nu overgaan op de onderwerpen voor vandaag…
 
@@ -175,7 +175,7 @@ En de tweede bonustip is voor alle artiesten, auteurs, kunstenaars en anderen di
 
 En als je tips zoekt voor daadwerkelijke *personal branding* van je alter ego, dan kun je via Google meer dan voldoende tips hierover vinden. Dus daar ga ik in elk geval vandaag niet verder op in.
 
-Nou Diana, dat was een heel lang stuk over het opbouwen van een online persona, een alter ego of pseudoniem! Ik hoop dat je er iets aan hebt gehad en wellicht zijn er meer luisteraars die hier één of meer concrete handvatten in hebben gevonden. Laat me weten wat je ervan vond en ook als jij nog meer tips hebt voor mensen als Diana. Geef je reactie op [www.reputatiecoaching.nl/111](https://www.reputatiecoaching.nl/111/).
+Nou Diana, dat was een heel lang stuk over het opbouwen van een online persona, een alter ego of pseudoniem! Ik hoop dat je er iets aan hebt gehad en wellicht zijn er meer luisteraars die hier één of meer concrete handvatten in hebben gevonden. Laat me weten wat je ervan vond en ook als jij nog meer tips hebt voor mensen als Diana. Geef je reactie op [www.reputatiecoaching.nl/111](/nl/archief/reputatiecoaching/111/).
 
 ## ReputatieCoaching Nieuwsflits van vorige week
 
@@ -226,7 +226,7 @@ Met Lilian van der Gugten heb ik afgesproken dat ik de presentatie die ik daar m
 
 Als je de podcast leuk vindt en je wilt nog meer op de hoogte blijven, volg me dan ook op Twitter, via [@reputatiecoach1](https://twitter.com/reputatiecoach1).
 
-Heb je inderdaad wat aan alle informatie die ik met je deel, help mij dan met het verder verbeteren en promoten van deze podcast. Surf daarvoor naar [iTunes](https://www.reputatiecoaching.nl/itunes) of [Stitcher](https://www.reputatiecoaching.nl/stitcher), geef de podcast een sterrenbeoordeling en laat ook je reactie achter. Door de podcast te beoordelen op iTunes en/of Stitcher breng je de podcast onder de aandacht van een breder publiek.
+Heb je inderdaad wat aan alle informatie die ik met je deel, help mij dan met het verder verbeteren en promoten van deze podcast. Surf daarvoor naar [iTunes](https://web.archive.org/web/*/https://www.reputatiecoaching.nl/itunes) of [Stitcher](https://web.archive.org/web/*/https://www.reputatiecoaching.nl/stitcher), geef de podcast een sterrenbeoordeling en laat ook je reactie achter. Door de podcast te beoordelen op iTunes en/of Stitcher breng je de podcast onder de aandacht van een breder publiek.
 
 Je kunt me verder helpen, door de podcast aan te bevelen bij vrienden of collega’s, waarvan je denkt dat ze er hun voordeel mee kunnen doen, of door ’m te delen op Twitter, like’n en delen op Facebook of een “+1” te geven op Google+.
 
@@ -234,7 +234,7 @@ En vergeet niet: ik ben hier om je te helpen! Als je een vraag of een probleem h
 
 Als je dat te lastig vindt, of als je de podcast beluistert terwijl je in de auto zit en je hebt acuut een vraag, spreek dan een boodschap in op de ReputatieCoaching Hotline, op nummer: 084 - 883 15 56. Mogelijk behandel ik je vraag of probleem dan in een artikel of in de podcast.
 
-En je kunt ook rechtstreeks op de website een voicemail achterlaten, door op de tab aan de rechterkant van elke pagina te klikken, en je bericht in te spreken. Dit was [ReputatieCoaching Podcast aflevering 111](https://www.reputatiecoaching.nl/111/) en mijn naam is [Eduard de Boer](http://nl.linkedin.com/in/eduarddeboer/nl).
+En je kunt ook rechtstreeks op de website een voicemail achterlaten, door op de tab aan de rechterkant van elke pagina te klikken, en je bericht in te spreken. Dit was [ReputatieCoaching Podcast aflevering 111](/nl/archief/reputatiecoaching/111/) en mijn naam is [Eduard de Boer](http://nl.linkedin.com/in/eduarddeboer/nl).
 
 Ik wens je de komende week weer succes met het werken aan je reputatie, zodat je meteen je reputatie voor jou kunt laten werken!
 
@@ -245,8 +245,8 @@ Doei!
 Links naar content die in deze podcast aan bod komt:
 
 ```
-  * [ReputatieCoaching Podcast in iTunes](https://www.reputatiecoaching.nl/itunes)
-  * [ReputatieCoaching Podcast op Stitcher](https://www.reputatiecoaching.nl/stitcher)
+  * [ReputatieCoaching Podcast in iTunes](https://web.archive.org/web/*/https://www.reputatiecoaching.nl/itunes)
+  * [ReputatieCoaching Podcast op Stitcher](https://web.archive.org/web/*/https://www.reputatiecoaching.nl/stitcher)
   * [ReputatieCoaching Podcast op TuneIn Radio](http://tunein.com/radio/ReputatieCoaching-Podcast-p655084/)
   * [ReputatieCoaching Podcast RSS-feed](https://feeds.reputatiecoaching.nl/ReputatieCoachingPodcast)
   * [Diana Albrink](http://dianaalbrink.com)

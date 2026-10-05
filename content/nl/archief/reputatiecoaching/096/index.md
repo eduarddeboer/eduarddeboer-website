@@ -3,6 +3,8 @@ title: '96: Online Reputatie Scan, analyse bandenbedrijf uit Apeldoorn, Orkut en
 date: '2014-10-02T06:30:18+00:00'
 description: De podcast van vandaag begin ik met de reactie van de distributeur van Vision zonnebrand op mijn videorecensie, gevolgd door nieuws over de Online Reputatie Scan. Eerder deze week heb ik een analyse gemaakt van de online vindbaarheid en reputatie van een bandenbedrijf uit Apeldoorn, daarbij kwam binnen één minuut een groot probleem aan het licht. Orkut is eerder deze week gesloten en de Yahoo! Directory is ook ten einde. Ik heb nog wat tips voor het verbeteren van de kwaliteit van je geluidsopnames en ik sluit af met een uitspraak van John Mueller van Google, dat je review sterretjes niet mag implementeren op de homepagina van je site.
 episode: 96
+kgRef: podcast_episode/reputatiecoaching_096
+source_url: https://www.reputatiecoaching.nl/96
 historical: true
 archivePeriod: 2012–2016
 transcriptStatus: full
@@ -17,8 +19,6 @@ showTaxonomies: false
 
 > **Historisch archief.** Deze aflevering verscheen op 2-10-2014 als onderdeel van ReputatieCoaching (2012–2016). De oorspronkelijke tekst is hieronder historisch bewaard. Diensten, contactgegevens, links, tools en adviezen kunnen inmiddels verouderd zijn.
 
-{{< audio src="https://archive.org/download/20141002-reputatie-coaching-podcast-096/20141002-ReputatieCoaching-Podcast-096.mp3" title="ReputatieCoaching Podcast #096" >}}
-
 **Transcriptiestatus:** Volledige transcriptie uit het oorspronkelijke archief.
 
 ***Historische afbeelding niet beschikbaar: ReputatieCoaching Podcast*
@@ -26,11 +26,11 @@ De podcast van vandaag begin ik met de reactie van de distributeur van Vision zo
 
 Hallo en hartelijk welkom bij deze aflevering van de ReputatieCoaching Podcast. Ik ben Eduard de Boer, ReputatieCoach.
 
-De podcast kun je vinden op [www.reputatiecoaching.nl/96](https://www.reputatiecoaching.nl/96/). Daar vind je niet alleen de tekst, maar ook video’s waar ik het in deze uitzending over heb, alsmede afbeeldingen, links enzovoorts. Bovendien is de podcast te beluisteren in [iTunes](https://www.reputatiecoaching.nl/itunes) en op [Stitcher](https://www.reputatiecoaching.nl/stitcher). Daar kun je je dus ook abonneren op de wekelijkse podcast. Veel mensen vinden het ideaal om de wekelijkse afleveringen van de podcast op hun gemak te beluisteren, terwijl ze autorijden, hardlopen of mountainbiken.
+De podcast kun je vinden op [www.reputatiecoaching.nl/96](/nl/archief/reputatiecoaching/096/). Daar vind je niet alleen de tekst, maar ook video’s waar ik het in deze uitzending over heb, alsmede afbeeldingen, links enzovoorts. Bovendien is de podcast te beluisteren in [iTunes](https://web.archive.org/web/*/https://www.reputatiecoaching.nl/itunes) en op [Stitcher](https://web.archive.org/web/*/https://www.reputatiecoaching.nl/stitcher). Daar kun je je dus ook abonneren op de wekelijkse podcast. Veel mensen vinden het ideaal om de wekelijkse afleveringen van de podcast op hun gemak te beluisteren, terwijl ze autorijden, hardlopen of mountainbiken.
 
 Voor ik de onderwerpen voor vandaag langsloop eerst even een “sorry” van mij. “Sorry” voor het feit dat ik afgelopen weekend helemaal ben vergeten om de tweede editie van de “Leuke Leerzame Links” op te stellen en te sturen naar alle abonnees van de nieuwsbrief. Ik had het nog niet op mijn agenda gezet en omdat het nog een nieuwe activiteit is, die niet echt in mijn systeem zit, is het er dus helemaal bij ingeschoten. Sorry! Komend weekend kun je dus wel weer een Leuke Leerzame Links editie in je mailbox verwachten.
 
-Ben je nog geen abonnee op de Leuke Leerzame Links, maar wil je ze wel ontvangen? Registreer je dan met je naam en je mailadres op de website [www.reputatiecoaching.nl](/). Dan ontvang je vanaf dat moment automatisch altijd de Leuke Leerzame Links, die het niet hebben gemaakt in de podcast, of in een artikel op de website.
+Ben je nog geen abonnee op de Leuke Leerzame Links, maar wil je ze wel ontvangen? Registreer je dan met je naam en je mailadres op de website [www.reputatiecoaching.nl](https://web.archive.org/web/*/https://www.reputatiecoaching.nl/). Dan ontvang je vanaf dat moment automatisch altijd de Leuke Leerzame Links, die het niet hebben gemaakt in de podcast, of in een artikel op de website.
 
 En nu ik het toch over de website heb… Voor het geval je je afvraagt hoe het komt, dat ik niet zoveel nieuwsartikelen etc. post op het moment: dat wordt binnenkort duidelijk. Ik ben al een tijdje druk met iets uitwerken en opzetten, dat binnenkort het levenslicht gaat zien. En dat slurpt veel van mijn tijd en aandacht op. Dus je hoort daar binnenkort meer over!
 
@@ -44,7 +44,7 @@ Toen heb ik ook de link van de video per e-mail naar de distributeur Vemedia ges
 
 De eerlijkheid gebiedt mij te melden dat het bedrijf meteen de week dat de medewerkers weer aan het werk gingen, heel adequaat heeft gereageerd met een goede en duidelijke mail. Die ontving ik 15 augustus.
 
-Die mail stond dus al een aardige in mijn mailbox te wachten om een nieuwe video van te maken. Dat heb ik eerder deze week dus gedaan. Deze video heb ik opgenomen in de show notes, op [www.reputatiecoaching.nl/96](https://www.reputatiecoaching.nl/96/):
+Die mail stond dus al een aardige in mijn mailbox te wachten om een nieuwe video van te maken. Dat heb ik eerder deze week dus gedaan. Deze video heb ik opgenomen in de show notes, op [www.reputatiecoaching.nl/96](/nl/archief/reputatiecoaching/096/):
 
 De mail die Vemedia mij stuurde, bevatte de volgende reactie:
 
@@ -90,7 +90,7 @@ Kijk, dat is nog eens een goede reactie! Het bedrijf biedt haar excuses aan en b
 
 Want wat ik je wil laten zien, is wat een dergelijke videorecensie teweeg kan brengen… Toen ik de video had gemaakt, heb ik voor het uploaden onderzocht wat de meest gebruikte zoekterm was in combinatie met de tekst: “Vision zonnebrand”. Dat bleek de toevoeging “ervaringen” te zijn. Dit kun je gemakkelijk zelf onderzoeken, ook voor andere zoektermen. Daarvoor ga je naar Google en je typt je zoekterm, gevolgd door een spatie. Op dat moment geeft Google je automatisch een paar suggesties, in volgorde van afnemende populariteit.
 
-Als je nu op Google zoekt op de zoekterm: ***vision zonnebrand ervaringen***, dan zie je dat de video de tweede of derde plaats in de zoekresultaten scoort. Ik heb hiervan een screenshot opgenomen in de show notes, op [www.reputatiecoaching.nl/96](https://www.reputatiecoaching.nl/96/):
+Als je nu op Google zoekt op de zoekterm: ***vision zonnebrand ervaringen***, dan zie je dat de video de tweede of derde plaats in de zoekresultaten scoort. Ik heb hiervan een screenshot opgenomen in de show notes, op [www.reputatiecoaching.nl/96](/nl/archief/reputatiecoaching/096/):
 
 ## Online Reputatie Scan
 
@@ -155,7 +155,7 @@ Morgenavond zit ik bij het bedrijf om mijn bevindingen te presenteren. Ik hou je
 
 ## Volgende week presentatie “Reputatiemanagement voor Tandartsen”
 
-In juli dit jaar heb ik een presentatie over reputatie, vindbaarheid en contentmarketing gegeven aan de leden van de [Juniorkamer in Apeldoorn](https://www.reputatiecoaching.nl/83/). Daar zat een tandarts bij en hij heeft mij voor volgende week woensdagavond uitgenodigd om een presentatie over reputatiemanagement voor tandartsen te geven.
+In juli dit jaar heb ik een presentatie over reputatie, vindbaarheid en contentmarketing gegeven aan de leden van de [Juniorkamer in Apeldoorn](/nl/archief/reputatiecoaching/083/). Daar zat een tandarts bij en hij heeft mij voor volgende week woensdagavond uitgenodigd om een presentatie over reputatiemanagement voor tandartsen te geven.
 
 Zoals altijd zal ik van die presentatie ook weer de audio opnemen, zodat ik de content mogelijk in de toekomst met je kan delen via audio of video.
 
@@ -188,7 +188,7 @@ Uit een onderzoek van het bedrijf Reputation VIP, de oprichters van de “forget
   * 13% gaat om social media profielen
 ```
 
-In de show notes op [www.reputatiecoaching.nl/96](https://www.reputatiecoaching.nl/96/) heb ik een infographic met nog meer statistieken van dit onderzoek weergegeven:
+In de show notes op [www.reputatiecoaching.nl/96](/nl/archief/reputatiecoaching/096/) heb ik een infographic met nog meer statistieken van dit onderzoek weergegeven:
 
 [[Historische afbeelding: bekijk bron](https://lh3.googleusercontent.com/yW3JEe4BFAszZch0Smc7Ne12cFVPXGuttrQosdE63Ds=w800)](https://lh3.googleusercontent.com/yW3JEe4BFAszZch0Smc7Ne12cFVPXGuttrQosdE63Ds=w800)
 
@@ -198,7 +198,7 @@ De idee is dat het hier gaat om content van lage kwaliteit tot van generlei waar
 
 ## Orkut gesloten
 
-In [podcast 83](https://www.reputatiecoaching.nl/83) vertelde ik je dat Google de dienst Orkut per 30 september zou sluiten. Dat is ook gebeurd. Maar toen ik gisteren tijdens de voorbereiding van deze podcast nog even naar Orkut.com ging, las ik daar het volgende:
+In [podcast 83](/nl/archief/reputatiecoaching/083/) vertelde ik je dat Google de dienst Orkut per 30 september zou sluiten. Dat is ook gebeurd. Maar toen ik gisteren tijdens de voorbereiding van deze podcast nog even naar Orkut.com ging, las ik daar het volgende:
 
 [[Historische afbeelding: Orkut is definitief gesloten](https://lh6.googleusercontent.com/RFO_KtSv-AN2BOCbf91UIcPDoO_YaqDPAuF7QqqRQhU=w692-h432-no)](https://lh6.googleusercontent.com/RFO_KtSv-AN2BOCbf91UIcPDoO_YaqDPAuF7QqqRQhU=w692-h432-no)
 
@@ -236,7 +236,7 @@ Maar goed, als jij dus ooit reviewsterretjes bij je homepage had staan in de zoe
 
 Als je de podcast leuk vindt en je wilt nog meer op de hoogte blijven, volg me dan ook op Twitter, via [@reputatiecoach1](https://twitter.com/reputatiecoach1).
 
-Heb je inderdaad wat aan alle informatie die ik met je deel, help mij dan met het verder verbeteren en promoten van deze podcast. Surf daarvoor naar [iTunes](https://www.reputatiecoaching.nl/itunes) of [Stitcher](https://www.reputatiecoaching.nl/stitcher), geef de podcast een sterrenbeoordeling en laat ook je reactie achter. Door de podcast te beoordelen op iTunes en/of Stitcher breng je de podcast onder de aandacht van een breder publiek.
+Heb je inderdaad wat aan alle informatie die ik met je deel, help mij dan met het verder verbeteren en promoten van deze podcast. Surf daarvoor naar [iTunes](https://web.archive.org/web/*/https://www.reputatiecoaching.nl/itunes) of [Stitcher](https://web.archive.org/web/*/https://www.reputatiecoaching.nl/stitcher), geef de podcast een sterrenbeoordeling en laat ook je reactie achter. Door de podcast te beoordelen op iTunes en/of Stitcher breng je de podcast onder de aandacht van een breder publiek.
 
 Je kunt me verder helpen, door de podcast aan te bevelen bij vrienden of collega’s, waarvan je denkt dat ze er hun voordeel mee kunnen doen, of door ’m te delen op Twitter, like’n en delen op Facebook of een “+1” te geven op Google+.
 
@@ -244,7 +244,7 @@ En vergeet niet: ik ben hier om je te helpen! Als je een vraag of een probleem h
 
 Als je dat te lastig vindt, of als je de podcast beluistert terwijl je in de auto zit en je hebt acuut een vraag, spreek dan een boodschap in op de ReputatieCoaching Hotline, op nummer: 084 - 883 15 56. Mogelijk behandel ik je vraag of probleem dan in een artikel of in de podcast.
 
-En je kunt ook rechtstreeks op de website een voicemail achterlaten, door op de tab aan de rechterkant van elke pagina te klikken, en je bericht in te spreken. Dit was [ReputatieCoaching Podcast aflevering 96](https://www.reputatiecoaching.nl/96/) en mijn naam is [Eduard de Boer](http://nl.linkedin.com/in/eduarddeboer/nl).
+En je kunt ook rechtstreeks op de website een voicemail achterlaten, door op de tab aan de rechterkant van elke pagina te klikken, en je bericht in te spreken. Dit was [ReputatieCoaching Podcast aflevering 96](/nl/archief/reputatiecoaching/096/) en mijn naam is [Eduard de Boer](http://nl.linkedin.com/in/eduarddeboer/nl).
 
 Ik wens je de komende week weer succes met het werken aan je reputatie, zodat je meteen je reputatie voor jou kunt laten werken!
 
@@ -255,8 +255,8 @@ Doei!
 Links naar content die in deze podcast aan bod komt:
 
 ```
-  * [ReputatieCoaching Podcast in iTunes](https://www.reputatiecoaching.nl/itunes)
-  * [ReputatieCoaching Podcast op Stitcher](https://www.reputatiecoaching.nl/stitcher)
+  * [ReputatieCoaching Podcast in iTunes](https://web.archive.org/web/*/https://www.reputatiecoaching.nl/itunes)
+  * [ReputatieCoaching Podcast op Stitcher](https://web.archive.org/web/*/https://www.reputatiecoaching.nl/stitcher)
   * [ReputatieCoaching Podcast RSS-feed](https://feeds.reputatiecoaching.nl/ReputatieCoachingPodcast)
   * “[Infographic: How Google treats “Right To Be Forgotten” requests?](http://www.reputationvip.com/blog/infographic-how-google-treat-right-to-be-forgotten-requests)” (Reputation VIP, 23 september 2014)
 ```

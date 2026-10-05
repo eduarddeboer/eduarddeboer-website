@@ -3,6 +3,8 @@ title: '98: Afbeeldingen van blogpost naar Facebook perikelen, 100e podcast komt
 date: '2014-10-16T06:30:11+00:00'
 description: Vandaag heb ik slechts drie topics. Ik begin de podcast met de vraag van Chris, die niet kan doorgronden welke foto Facebook nu vertoont, als hij een link post naar een blogbericht op zijn WordPress site met meerdere afbeeldingen erin. Het tweede onderwerp is een korte aankondiging van een heel speciale gast in podcast aflevering 100. En als laatste heb ik een interview met Nathan Veenstra, iemand die ook hier in Apeldoorn woont en gespecialiseerd is in het schrijven van verleidelijke teksten.
 episode: 98
+kgRef: podcast_episode/reputatiecoaching_098
+source_url: https://www.reputatiecoaching.nl/98
 historical: true
 archivePeriod: 2012–2016
 transcriptStatus: full
@@ -17,8 +19,6 @@ showTaxonomies: false
 
 > **Historisch archief.** Deze aflevering verscheen op 16-10-2014 als onderdeel van ReputatieCoaching (2012–2016). De oorspronkelijke tekst is hieronder historisch bewaard. Diensten, contactgegevens, links, tools en adviezen kunnen inmiddels verouderd zijn.
 
-{{< audio src="https://archive.org/download/20141016-reputatie-coaching-podcast-098/20141016-ReputatieCoaching-Podcast-098.mp3" title="ReputatieCoaching Podcast #098" >}}
-
 **Transcriptiestatus:** Volledige transcriptie uit het oorspronkelijke archief.
 
 ***Historische afbeelding niet beschikbaar: ReputatieCoaching Podcast*
@@ -26,7 +26,7 @@ Vandaag heb ik slechts drie topics. Ik begin de podcast met de vraag van Chris, 
 
 Hallo en hartelijk welkom bij deze aflevering van de ReputatieCoaching Podcast. Ik ben Eduard de Boer, ReputatieCoach. Dit is dé podcast die jou helpt om meer business te genereren, doordat jouw website beter gevonden wordt, zowel lokaal als landelijk en doordat ik je uitleg hoe je je online reputatie kunt verbeteren. Dit alles helpt je om je bedrijf en jezelf beter op de online kaart te plaatsen.
 
-De podcast kun je vinden op [www.reputatiecoaching.nl/98](https://www.reputatiecoaching.nl/98/). Daar vind je niet alleen de tekst, maar ook video’s waar ik het in deze uitzending over heb, alsmede afbeeldingen, links enzovoorts. Bovendien is de podcast te beluisteren in [iTunes](https://www.reputatiecoaching.nl/itunes) en op [Stitcher](https://www.reputatiecoaching.nl/stitcher). Daar kun je je dus ook abonneren op de wekelijkse podcast. Veel mensen vinden het ideaal om de wekelijkse afleveringen van de podcast op hun gemak te beluisteren, terwijl ze autorijden, fietsen of trainen in de sportschool.
+De podcast kun je vinden op [www.reputatiecoaching.nl/98](/nl/archief/reputatiecoaching/098/). Daar vind je niet alleen de tekst, maar ook video’s waar ik het in deze uitzending over heb, alsmede afbeeldingen, links enzovoorts. Bovendien is de podcast te beluisteren in [iTunes](https://web.archive.org/web/*/https://www.reputatiecoaching.nl/itunes) en op [Stitcher](https://web.archive.org/web/*/https://www.reputatiecoaching.nl/stitcher). Daar kun je je dus ook abonneren op de wekelijkse podcast. Veel mensen vinden het ideaal om de wekelijkse afleveringen van de podcast op hun gemak te beluisteren, terwijl ze autorijden, fietsen of trainen in de sportschool.
 
 Laat ik dan nu overgaan op de onderwerpen voor vandaag…
 
@@ -49,7 +49,7 @@ Nu is alleen even de vraag of jij de link in Facebook automatisch (of beter: “
 Dus ik neem aan, dat je bedoelt hoe je ervoor kunt zorgen dat in een geautomatiseerde flow, de juiste afbeelding bij jouw link wordt vertoond.
 
 *Historische afbeelding niet beschikbaar: Wordpress SEO*
-Chris, ik kan het heel simpel voor je maken. Als je het nog niet hebt gedaan: installeer op de website van je vrouw de [WordPress SEO by Yoast](https://wordpress.org/plugins/wordpress-seo/) plugin, van Joost de Valk. Dan krijg je bij het schrijven en publiceren van een blogbericht opeens veel meer mogelijkheden. De meeste wil ik nu laten voor wat ze zijn, maar wat je moet aanpassen, zijn de settings onder het tabblad “Social”, die je vindt onder “WordPress SEO door Yoast”. Daar zie je wat ik ook in de screenshot op [www.reputatiecoaching.nl/98](https://www.reputatiecoaching.nl/98/) laat zien:
+Chris, ik kan het heel simpel voor je maken. Als je het nog niet hebt gedaan: installeer op de website van je vrouw de [WordPress SEO by Yoast](https://wordpress.org/plugins/wordpress-seo/) plugin, van Joost de Valk. Dan krijg je bij het schrijven en publiceren van een blogbericht opeens veel meer mogelijkheden. De meeste wil ik nu laten voor wat ze zijn, maar wat je moet aanpassen, zijn de settings onder het tabblad “Social”, die je vindt onder “WordPress SEO door Yoast”. Daar zie je wat ik ook in de screenshot op [www.reputatiecoaching.nl/98](/nl/archief/reputatiecoaching/098/) laat zien:
 
 [![WordPress SEO by Yoast (Social tab) - WordPress plugin](20141016-SEO-Social-WordPress.png)](https://lh3.googleusercontent.com/-HkSlTObaGQc/VD4r5NQgIvI/AAAAAAAABOM/HxTVdF2HdOE/w679-h821-no/20141016-SEO-Social-WordPress.png)
 
@@ -77,7 +77,7 @@ Voor die 100e podcast heb ik een heel speciale gast! Ik verklap niet wie het is,
 ![Nathan Veenstra van Letterzaken](20141016-Nathan-Veenstra.jpg)
 Vandaag heb ik ook een bijzondere gast, te weten: Nathan Veenstra. Ik heb Nathan Veenstra eerder dit jaar voor het eerst ontmoet tijdens een avond van de Social Media Club Apeldoorn, ook wel bekend onder #SMC055. Nathan schrijft teksten… Sterke teksten! Vanuit zijn bedrijf [Letterzaken](http://www.letterzaken.nl) schrijft hij verleidelijke teksten, die websitebezoekers moeten overhalen om in actie te komen en iets te doen… Bijvoorbeeld iets kopen of zich inschrijven voor een mailinglist et cetera. Vandaag voel ik Nathan aan de tand en hoop zoveel mogelijk waardevolle en verleidelijke informatie uit hem te krijgen…
 
-In de transcriptie vind je alleen de vragen die ik Nathan Veenstra stel. Wil je zijn antwoorden horen, luister dan naar de [podcast 98](https://www.reputatiecoaching.nl/98/):
+In de transcriptie vind je alleen de vragen die ik Nathan Veenstra stel. Wil je zijn antwoorden horen, luister dan naar de [podcast 98](/nl/archief/reputatiecoaching/098/):
 
 ```
   1. Nathan, dankje voor het feit dat je in de show wilde komen voor een interview. Ik las ergens dat je tot zo’n twee jaar geleden account manager was en sindsdien het roer volledig hebt omgegooid en in de wereld van de contentmarketing, zoekmachine-optimalisatie en conversie-optimalisatie bent gestapt. Kun je -voor de mensen die je niet kennen- om te beginnen iets meer achtergrondinformatie geven over jezelf, je hobbies enzovoorts? Wie is Nathan Veenstra?
@@ -94,9 +94,9 @@ Nathan, nogmaals bedankt en tot de volgende keer!
 
 En met het interview met Nathan Veenstra van Letterzaken kom ik dan weer aan het einde van de podcast van deze week.
 
-Als je de podcast leuk vindt en je wilt nog meer op de hoogte blijven, volg me dan ook op Twitter, via [@reputatiecoach1](https://twitter.com/reputatiecoach1) en schrijf je op de site in voor de [ReputatieCoaching Nieuwsbrief](https://www.reputatiecoaching.nl/nieuwsbrief/).
+Als je de podcast leuk vindt en je wilt nog meer op de hoogte blijven, volg me dan ook op Twitter, via [@reputatiecoach1](https://twitter.com/reputatiecoach1) en schrijf je op de site in voor de [ReputatieCoaching Nieuwsbrief](https://web.archive.org/web/*/https://www.reputatiecoaching.nl/nieuwsbrief/).
 
-Heb je inderdaad wat aan alle informatie die ik met je deel, help mij dan met het verder verbeteren en promoten van deze podcast. Surf daarvoor naar [iTunes](https://www.reputatiecoaching.nl/itunes) of [Stitcher](https://www.reputatiecoaching.nl/stitcher), geef de podcast een sterrenbeoordeling en laat ook je reactie achter. Door de podcast te beoordelen op iTunes en/of Stitcher breng je de podcast onder de aandacht van een breder publiek.
+Heb je inderdaad wat aan alle informatie die ik met je deel, help mij dan met het verder verbeteren en promoten van deze podcast. Surf daarvoor naar [iTunes](https://web.archive.org/web/*/https://www.reputatiecoaching.nl/itunes) of [Stitcher](https://web.archive.org/web/*/https://www.reputatiecoaching.nl/stitcher), geef de podcast een sterrenbeoordeling en laat ook je reactie achter. Door de podcast te beoordelen op iTunes en/of Stitcher breng je de podcast onder de aandacht van een breder publiek.
 
 Je kunt me verder helpen, door de podcast aan te bevelen bij vrienden of collega’s, waarvan je denkt dat ze er hun voordeel mee kunnen doen, of door ’m te delen op Twitter, like’n en delen op Facebook of een “+1” te geven op Google+.
 
@@ -104,7 +104,7 @@ En vergeet niet: ik ben hier om je te helpen! Als je een vraag of een probleem h
 
 Als je dat te lastig vindt, of als je de podcast beluistert terwijl je in de auto zit en je hebt acuut een vraag, spreek dan een boodschap in op de ReputatieCoaching Hotline, op nummer: 084 - 883 15 56. Mogelijk behandel ik je vraag of probleem dan in een artikel of in de podcast.
 
-En je kunt ook rechtstreeks op de website een voicemail achterlaten, door op de tab aan de rechterkant van elke pagina te klikken, en je bericht in te spreken. Dit was [ReputatieCoaching Podcast aflevering 98](https://www.reputatiecoaching.nl/98/) en mijn naam is [Eduard de Boer](http://nl.linkedin.com/in/eduarddeboer/nl).
+En je kunt ook rechtstreeks op de website een voicemail achterlaten, door op de tab aan de rechterkant van elke pagina te klikken, en je bericht in te spreken. Dit was [ReputatieCoaching Podcast aflevering 98](/nl/archief/reputatiecoaching/098/) en mijn naam is [Eduard de Boer](http://nl.linkedin.com/in/eduarddeboer/nl).
 
 Ik wens je de komende week weer succes met het werken aan je reputatie, zodat je meteen je reputatie voor jou kunt laten werken!
 
@@ -115,8 +115,8 @@ Doei!
 Links naar content die in deze podcast aan bod komt:
 
 ```
-    * [ReputatieCoaching Podcast in iTunes](https://www.reputatiecoaching.nl/itunes)
-    * [ReputatieCoaching Podcast op Stitcher](https://www.reputatiecoaching.nl/stitcher)
+    * [ReputatieCoaching Podcast in iTunes](https://web.archive.org/web/*/https://www.reputatiecoaching.nl/itunes)
+    * [ReputatieCoaching Podcast op Stitcher](https://web.archive.org/web/*/https://www.reputatiecoaching.nl/stitcher)
     * [ReputatieCoaching Podcast RSS-feed](https://feeds.reputatiecoaching.nl/ReputatieCoachingPodcast)
     * [WordPress SEO by Yoast](https://wordpress.org/plugins/wordpress-seo/) : Absoluut noodzakelijke plugin voor elke WordPress installatie
 ```

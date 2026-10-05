@@ -3,6 +3,8 @@ title: '150: Reputatielek(!), ZoekMachine Vriendelijke Linkbuilding deel 2, Repu
 date: '2015-10-15T06:30:19+00:00'
 description: Gisteren had ik weer een bijzondere ervaring, als gevolg van één van mijn instructievideo’s. Dat ging over een “reputatielek”, zoals ik het maar noem, of “citationkaping” of “bedrijfsvermeldingdiefstal”… Google gaat de strijd aan met gehackte sites die foute content verspreiden. Ook heeft Google een nieuw concept gelanceerd, met als codenaam AMP. Wat dat is, hoor je zometeen. Sinds begin deze week heb ik voor ReputatieCoaching een officiële Google Mijn Bedrijf pagina in plaats van een Google+ pagina en kan ik nu zélf reviews vezamelen.
 episode: 150
+kgRef: podcast_episode/reputatiecoaching_150
+source_url: https://www.reputatiecoaching.nl/150
 historical: true
 archivePeriod: 2012–2016
 transcriptStatus: full
@@ -16,8 +18,6 @@ showTaxonomies: false
 ---
 
 > **Historisch archief.** Deze aflevering verscheen op 15-10-2015 als onderdeel van ReputatieCoaching (2012–2016). De oorspronkelijke tekst is hieronder historisch bewaard. Diensten, contactgegevens, links, tools en adviezen kunnen inmiddels verouderd zijn.
-
-{{< audio src="https://archive.org/download/20151015-reputatie-coaching-podcast-150/20151015-ReputatieCoaching-Podcast-150.mp3" title="ReputatieCoaching Podcast #150" >}}
 
 **Transcriptiestatus:** Volledige transcriptie uit het oorspronkelijke archief.
 
@@ -34,7 +34,7 @@ Gisteren had ik weer een bijzondere ervaring, als gevolg van één van mijn inst
 
 Hallo en hartelijk welkom bij deze aflevering van de ReputatieCoaching Podcast. Ik ben Eduard de Boer, ReputatieCoach. Dit is dé podcast die jou helpt om meer business te genereren, doordat jouw website beter gevonden wordt, zowel lokaal als landelijk en doordat ik je uitleg hoe je je online reputatie kunt verbeteren. Dit alles helpt je om je bedrijf en jezelf beter op de online kaart te plaatsen.
 
-De podcast kun je vinden op [www.reputatiecoaching.nl/150](https://www.reputatiecoaching.nl/150/). Daar vind je niet alleen de tekst, maar ook video’s waar ik het in deze uitzending over heb, alsmede afbeeldingen, links enzovoorts. Bovendien is de podcast te beluisteren in [iTunes](https://www.reputatiecoaching.nl/itunes), op [Stitcher](https://www.reputatiecoaching.nl/stitcher) en ook op [TuneIn Radio](http://tunein.com/radio/ReputatieCoaching-Podcast-p655084/). Ik raad je aan om je op één van die drie kanalen te abonneren op de podcast, zodat je geen aflevering hoeft te missen!
+De podcast kun je vinden op [www.reputatiecoaching.nl/150](/nl/archief/reputatiecoaching/150/). Daar vind je niet alleen de tekst, maar ook video’s waar ik het in deze uitzending over heb, alsmede afbeeldingen, links enzovoorts. Bovendien is de podcast te beluisteren in [iTunes](https://web.archive.org/web/*/https://www.reputatiecoaching.nl/itunes), op [Stitcher](https://web.archive.org/web/*/https://www.reputatiecoaching.nl/stitcher) en ook op [TuneIn Radio](http://tunein.com/radio/ReputatieCoaching-Podcast-p655084/). Ik raad je aan om je op één van die drie kanalen te abonneren op de podcast, zodat je geen aflevering hoeft te missen!
 
 ## “Reputatielek” kost je omzet
 
@@ -90,7 +90,7 @@ Al met al moet het dus mobiele websites versnellen. Ik heb het meteen geactiveer
 *Historische afbeelding niet beschikbaar: #SMC055: Social Media Club Apeldoorn*
 Afgelopen maandag was ik bij de maandelijkse bijeenkomst van Social Media Club Apeldoorn, ook wel bekend onder de naam #SMC055. Het onderwerp van de avond was “Beeldverhaal”. Na afloop heb ik zoals altijd zo snel mogelijk een Storify-bord gepubliceerd met daarin de tweets van de avond op chronologische volgorde.
 
-Dit Storify-bord heb ik ook opgenomen in de show notes van deze podcast, op [www.reputatiecoaching.nl/150](https://www.reputatiecoaching.nl/150/):
+Dit Storify-bord heb ik ook opgenomen in de show notes van deze podcast, op [www.reputatiecoaching.nl/150](/nl/archief/reputatiecoaching/150/):
 
 Ik was gevraagd om een blogbericht over de avond te schrijven, dus ga ik er hier niet verder in detail op in. Binnenkort kun je op de site van [Social Media Club Apeldoorn](http://smcapeldoorn.nl) het blogbericht lezen.
 
@@ -105,7 +105,7 @@ Gelukkig heeft Google daar een oplossing voor: je kunt namelijk een Google+ pagi
 
 Dus vond ik het eerder deze week het uitgelezen moment om dan eindelijk een instructievideo te maken van het samenvoegen van de Google+ pagina en de Google Mijn Bedrijf pagina van ReputatieCoaching.
 
-Deze instructievideo kun je bekijken in de show notes van deze podcast op [www.reputatiecoaching.nl/150](https://www.reputatiecoaching.nl/150/):
+Deze instructievideo kun je bekijken in de show notes van deze podcast op [www.reputatiecoaching.nl/150](/nl/archief/reputatiecoaching/150/):
 
 Als ReputatieCoach geen reviews hebben op Google+… Dat is natuurlijk totaal ongehoord! De oorzaak hiervan was dus dat ik ooit de pagina was begonnen als een “gewone” Google+ pagina, waarop je geen reviews kunt verzamelen.
 
@@ -297,7 +297,7 @@ Aan de andere kant is de kans ook groot dat andere websites naar jouw webpagina 
 
 Nu snap ik wel dat je niet zo snel vermeld zult worden op een site als die van CNN, maar je snapt de idee. Een NOFOLLOW link op een site die veel verkeer trekt, kan indirect dus toch voor DOFOLLOW backlinks zorgen!1
 
-Ik heb je in de podcast van vorige week en die van vandaag een groot aantal legitieme manieren gegeven om links naar je site te krijgen. Wat vond je ervan? Zaten er een paar tussen, waar je mee aan de slag wilt gaan? Vond je ze bruikbaar? Laat het me weten onderaan de transcriptie van deze podcast, op [www.reputatiecoaching.nl/150](https://www.reputatiecoaching.nl/150/).
+Ik heb je in de podcast van vorige week en die van vandaag een groot aantal legitieme manieren gegeven om links naar je site te krijgen. Wat vond je ervan? Zaten er een paar tussen, waar je mee aan de slag wilt gaan? Vond je ze bruikbaar? Laat het me weten onderaan de transcriptie van deze podcast, op [www.reputatiecoaching.nl/150](/nl/archief/reputatiecoaching/150/).
 
 Ik hoop in elk geval dat je ook deze podcast en dit soort content leuk vindt. Zo ja, volg me dan via de verschillende kanalen: je kunt me vrijwel overal vinden op de sociale media. Zoek gewoon op: “reputatiecoach”. Dat scoort bijna overal bovenaan!
 
@@ -307,7 +307,7 @@ Oh… en nu het vanaf deze week ook daadwerkelijk kan, post jij nu meteen even e
 
 Op de website kun je me een berichtje sturen en zelfs een gratis consult inboeken. Ook kun je me bellen op 084–8831556 en zelfs rechtstreeks op de website een voicemail achterlaten, door op de tab aan de rechterkant van elke pagina te klikken, en je bericht in te spreken.
 
-Dit was [ReputatieCoaching Podcast aflevering 150](https://www.reputatiecoaching.nl/150/) en mijn naam is [Eduard de Boer](http://nl.linkedin.com/in/eduarddeboer/nl).
+Dit was [ReputatieCoaching Podcast aflevering 150](/nl/archief/reputatiecoaching/150/) en mijn naam is [Eduard de Boer](http://nl.linkedin.com/in/eduarddeboer/nl).
 
 Ik wens je de komende week weer succes met het werken aan je reputatie, zodat je meteen je reputatie voor jou kunt laten werken!
 
@@ -318,8 +318,8 @@ Doei!
 Links naar content die in deze podcast aan bod komt:
 
 ```
-  * [ReputatieCoaching Podcast in iTunes](https://www.reputatiecoaching.nl/itunes)
-  * [ReputatieCoaching Podcast op Stitcher](https://www.reputatiecoaching.nl/stitcher)
+  * [ReputatieCoaching Podcast in iTunes](https://web.archive.org/web/*/https://www.reputatiecoaching.nl/itunes)
+  * [ReputatieCoaching Podcast op Stitcher](https://web.archive.org/web/*/https://www.reputatiecoaching.nl/stitcher)
   * [ReputatieCoaching Podcast op TuneIn Radio](http://tunein.com/radio/ReputatieCoaching-Podcast-p655084/)
   * [ReputatieCoaching Podcast RSS-feed](https://feeds.reputatiecoaching.nl/ReputatieCoachingPodcast)
   * [AMP Project](https://www.ampproject.org) (Accelerated Mobile Pages)

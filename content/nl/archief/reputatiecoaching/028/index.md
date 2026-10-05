@@ -3,6 +3,8 @@ title: '28: Content marketing project, Facebook VIPS, Google Authorship en je mo
 date: '2013-06-07T23:35:20+00:00'
 description: Hallo en hartelijk welkom bij dé podcast over reputatiemanagement en reputatiecoaching, het verbeteren van je online vindbaarheid en optimalisatie van je website voor zoekmachines. Ook deze week breng ik je weer nieuws en tips, waarmee jij je significant kunt onderscheiden van je concurrenten, om zo meer business naar je toe te trekken.** ** Mijn naam is Eduard de Boer –bekend als de ReputatieCoach– en ik ben je host voor vandaag!
 episode: 28
+kgRef: podcast_episode/reputatiecoaching_028
+source_url: https://www.reputatiecoaching.nl/28
 historical: true
 archivePeriod: 2012–2016
 transcriptStatus: full
@@ -16,8 +18,6 @@ showTaxonomies: false
 ---
 
 > **Historisch archief.** Deze aflevering verscheen op 7-06-2013 als onderdeel van ReputatieCoaching (2012–2016). De oorspronkelijke tekst is hieronder historisch bewaard. Diensten, contactgegevens, links, tools en adviezen kunnen inmiddels verouderd zijn.
-
-{{< audio src="https://archive.org/download/20130608-reputatie-coaching-podcast-028/20130608-ReputatieCoaching-Podcast-028.mp3" title="ReputatieCoaching Podcast #028" >}}
 
 **Transcriptiestatus:** Volledige transcriptie uit het oorspronkelijke archief.
 
@@ -33,9 +33,9 @@ Het eerste onderwerp vandaag gaat over beveiliging en 2-factor authenticatie. Da
 
 Om te beginnen heeft LinkedIn afgelopen week 2-factor authenticatie ingevoerd. Om te voorkomen dat je account wordt gehacked, kun je LinkedIn nu zo instellen, dat je een SMS-je met een 6-cijferige code op je mobiele telefoon ontvangt, als je wilt inloggen. Zo voorkom je dat kwaadwillenden met jouw gegevens kunnen inloggen, als jouw gebruikersnaam en wachtwoord door inspanningen van hackers op virtueel op straat komen te liggen.
 
-Over het [instellen van 2-factor authenticatie voor LinkedIn](https://www.reputatiecoaching.nl/2-factor-authenticatie-op-linkedin-instellen/) heb ik dan ook meteen een artikel gepubliceerd. Dit artikel werd in korte tijd een aantal keren gelezen en gedeeld op LinkedIn.
+Over het [instellen van 2-factor authenticatie voor LinkedIn](https://web.archive.org/web/*/https://www.reputatiecoaching.nl/2-factor-authenticatie-op-linkedin-instellen/) heb ik dan ook meteen een artikel gepubliceerd. Dit artikel werd in korte tijd een aantal keren gelezen en gedeeld op LinkedIn.
 
-Hoewel beduidend minder mensen volgens mij de tool Evernote gebruiken, vind ik het toch de vermelding waard, dat Evernote ook sinds afgelopen week 2-factor authenticatie heeft ingevoerd. Net als bij Twitter en LinkedIn is het niet verplicht, maar als jij Evernote gebruikt voor het opslaan van data waarvan jij niet wilt, dat anderen daar toegang toe hebben, zou ik het zeker instellen. Overigens, de links naar deze artikelen en andere artikelen die ik als bron heb gebruikt voor het samenstellen van deze podcast vind je in de show notes van deze podcast op: [www.reputatiecoaching.nl/28](https://www.reputatiecoaching.nl/28).
+Hoewel beduidend minder mensen volgens mij de tool Evernote gebruiken, vind ik het toch de vermelding waard, dat Evernote ook sinds afgelopen week 2-factor authenticatie heeft ingevoerd. Net als bij Twitter en LinkedIn is het niet verplicht, maar als jij Evernote gebruikt voor het opslaan van data waarvan jij niet wilt, dat anderen daar toegang toe hebben, zou ik het zeker instellen. Overigens, de links naar deze artikelen en andere artikelen die ik als bron heb gebruikt voor het samenstellen van deze podcast vind je in de show notes van deze podcast op: [www.reputatiecoaching.nl/28](/nl/archief/reputatiecoaching/028/).
 
 ## Mijn ReputatieCoaching Podcast boek 2013
 
@@ -43,7 +43,7 @@ En dan nieuws over mijn contentmarketing project. Zoals ik eerder heb verteld en
 
 Deze video’s bevatten slechts twee slides: op de eerste slide staan de onderwerpen die ik in de desbetreffende podcast behandel en op de tweede slide staat een wijze spreuk, uitspraak, citaat of andersoortige tekst. Het doel van die tweede slide is om mensen die over het Internet surfen en tegen de video aanlopen, door de tekst getriggerd worden om erop te klikken en de video te bekijken.
 
-[*Historische afbeelding niet beschikbaar: reputatie-boek-2012-3d-200x200*](https://www.slideshare.net/ReputatieCoaching/reputatiecoaching-podcast-boek-2012)Van de vijf podcasts van 2012 heb ik inmiddels ook een eBook gemaakt, wat online staat. Ik heb het in PDF op [www.reputatiecoaching.nl](https://www.reputatiecoaching.nl/wp-content/uploads/2013/05/ReputatieCoachingPodcastBoek2012.pdf) gepubliceerd en tevens op [www.scribd.com](http://www.scribd.com/doc/144130218/ReputatieCoaching-Podcast-Boek-2012), [www.issuu.com](http://www.issuu.com/reputatiecoaching/docs/reputatiecoachingpodcastboek2012) en [www.slideshare.net](https://www.slideshare.net/ReputatieCoaching/reputatiecoaching-podcast-boek-2012). Als titel voor het boek van 2012 had ik gekozen: “[ReputatieCoaching Podcast Boek 2012](https://www.reputatiecoaching.nl/boek-2012/)”.De blogpost met dat boek is op 28 mei gepubliceerd. Dat is op dit moment dus 11 dagen geleden
+[*Historische afbeelding niet beschikbaar: reputatie-boek-2012-3d-200x200*](https://www.slideshare.net/ReputatieCoaching/reputatiecoaching-podcast-boek-2012)Van de vijf podcasts van 2012 heb ik inmiddels ook een eBook gemaakt, wat online staat. Ik heb het in PDF op [www.reputatiecoaching.nl](https://web.archive.org/web/*/https://www.reputatiecoaching.nl/wp-content/uploads/2013/05/ReputatieCoachingPodcastBoek2012.pdf) gepubliceerd en tevens op [www.scribd.com](http://www.scribd.com/doc/144130218/ReputatieCoaching-Podcast-Boek-2012), [www.issuu.com](http://www.issuu.com/reputatiecoaching/docs/reputatiecoachingpodcastboek2012) en [www.slideshare.net](https://www.slideshare.net/ReputatieCoaching/reputatiecoaching-podcast-boek-2012). Als titel voor het boek van 2012 had ik gekozen: “[ReputatieCoaching Podcast Boek 2012](https://web.archive.org/web/*/https://www.reputatiecoaching.nl/boek-2012/)”.De blogpost met dat boek is op 28 mei gepubliceerd. Dat is op dit moment dus 11 dagen geleden
 
 En zojuist werd ik aangenaam verrast. Ik ging namelijk eens zoeken op Google op de zoekterm: reputatie boek (dus: reputatie-spatie-boek). Ik zag dat mijn blogpost van 28 mei al op de 8e positie op de voorpagina stond. En dat, terwijl ik nog amper bijzondere ruchtbaarheid eraan had gegeven en dus ook niet echt het boek heb gepromoot. Ik dacht eerst nog dat dit kwam, doordat ik was ingelogd in Google. Want dat geeft vaak vertekende resultaten, omdat Google dan vaker zoekresultaten toont, waar je bijvoorbeeld in het verleden al eens naar hebt gekeken. Maar ook toen ik niet ingelogd was, bleef de blogpost over het boek op de 8e positie staan.
 
@@ -51,7 +51,7 @@ Wat ik de afgelopen dagen ook heb waargenomen is, dat als je in Google zoekt ond
 
 Zelf vind ik dit een goed resultaat, zeker als je nagaat dat ik pas omstreeks 20 mei ben begonnen met het posten van de eerste podcast video’s. In Google Analytics heb ik nog niet echt kunnen bespeuren dat deze video’s op dit moment al leiden tot extra bezoekers op de site. Ik heb wel een paar kliks gezien, maar dat vond ik nog niet representatief genoeg.
 
-En ook al zouden de video’s niet tot significant meer kliks leiden, ik verwacht in ieder geval dat mijn content en de site [www.reputatiecoaching.nl](https://www.reputatiecoaching.nl) meer autoriteit krijgt en daardoor dus hoogstwaarschijnlijk ook beter in de zoekmachines naar voren zal komen. Dit is geen garantie.
+En ook al zouden de video’s niet tot significant meer kliks leiden, ik verwacht in ieder geval dat mijn content en de site [www.reputatiecoaching.nl](https://web.archive.org/web/*/https://www.reputatiecoaching.nl) meer autoriteit krijgt en daardoor dus hoogstwaarschijnlijk ook beter in de zoekmachines naar voren zal komen. Dit is geen garantie.
 Maar de resultaten stimuleren mij in ieder geval voorlopig om door te gaan met het publiceren van de [podcast video’s](https://www.youtube.com/playlist?list=PLpcofAUMQPk4_2CC9TJ6LC3lTLxqGIOBx) en de [podcast boeken](https://www.slideshare.net/ReputatieCoaching/).
 
 ## Facebook fans echte VIPs op Eindhoven Airport
@@ -67,7 +67,7 @@ Dankzij alle likes en social engagement van de reizigers die de luchthaven op de
 
 ## Helpt rel=“author” met ranking in de zoekresultaten?
 
-In december 2012 heb ik al een instructievideo gemaakt over het [instellen van Google Authorship](https://www.reputatiecoaching.nl/wiki/google-authorship/). Als je dit op de correcte wijze hebt geïmplementeerd, verschijnt jouw foto naast de zoekresultaten in Google. Dit zorgt vaak voor meer dan een verdubbeling van het aantal klikken op het desbetreffende artikel.
+In december 2012 heb ik al een instructievideo gemaakt over het [instellen van Google Authorship](https://web.archive.org/web/*/https://www.reputatiecoaching.nl/wiki/google-authorship/). Als je dit op de correcte wijze hebt geïmplementeerd, verschijnt jouw foto naast de zoekresultaten in Google. Dit zorgt vaak voor meer dan een verdubbeling van het aantal klikken op het desbetreffende artikel.
 
 Alleen was het toen nog niet bekend of Google het principe van authorship ook daadwerkelijk mee nam in de bepaling van de positie in de zoekresultaten. Alle blogs stonden er toen wel bol van en de meningen liepen uiteen. Diverse bekende specialisten op het gebied van SEO zeiden toen dat ze het sterke vermoeden hadden dat het toen nog niet mee werd genomen, maar dat Google het in een later stadium zeker zou gaan meewegen.
 
@@ -103,7 +103,7 @@ Ik geef je 12 stappen die je eigenlijk moet doorlopen, nadat je een blogbericht 
   7. **Hergebruik je waardevolle content** – hier heb ik het eerder in deze podcast ook al over gehad. Mijn experiment loopt op dit moment en de komende tijd zal duidelijk worden of dit de grote impact heeft die ik verwacht, of dat het op een ontgoocheling zal uitlopen. En het is zomaar mogelijk dat ik deze 12 redenen van dit artikel ook omzet in een presentatie, die ik dan weer upload naar Slideshare.
   8. **Reageer op andere weblogs** – Zelf heb ik hier goede ervaringen mee. Naast dat ik een aantal vaste weblogs volg, zoek ik ook dikwijls nieuwe blogs (of Google+ gebruikers) over de gerelateerde onderwerpen. Daar lees ik dan de berichten en de reacties van de bezoekers van de site. Als er een relevant en voor mij interessant topic tussen zit, reageer ik soms met een aanbeveling, tip of iets dergelijks. Het leuke aan de reacties in veel blogs, is dat je een link naar je eigen site kunt invoeren. Ik doe dit helemaal niet om de ouderwetse backlinks te creëren, maar gewoon om mensen te triggeren om door te klikken naar mijn site of artikel.
   9. **Beantwoord vragen op Twitter, in fora of elders** – Actief bezig zijn met je eigen marketing is voornamelijk het geven van waardevolle informatie. Het geven van zinnige antwoorden op vragen die mensen stellen helpt met het opbouwen van je online reputatie.
-  10. **Stuur een samenvatting van je bericht naar je mailing list** – Lang niet alle mensen zullen actief de RSS-feed van jouw blog volgen of frequent handmatig jouw site bezoeken. Daarvoor kan je mailing list helpen. Zelf heb ik sinds vorige week ook een mailing list. Je kunt je daarvoor inschrijven op: [www.reputatiecoaching.nl/nieuwsbrief](https://www.reputatiecoaching.nl/nieuwsbrief).
+  10. **Stuur een samenvatting van je bericht naar je mailing list** – Lang niet alle mensen zullen actief de RSS-feed van jouw blog volgen of frequent handmatig jouw site bezoeken. Daarvoor kan je mailing list helpen. Zelf heb ik sinds vorige week ook een mailing list. Je kunt je daarvoor inschrijven op: [www.reputatiecoaching.nl/nieuwsbrief](https://web.archive.org/web/*/https://www.reputatiecoaching.nl/nieuwsbrief).
   11. **Vraag andere bloggers je bericht te delen** – Als je in contact staat met een aantal gelijkgestemde bloggers, kun je hen ook concreet vragen bijvoorbeeld eens in een artikel een link naar jouw blogpost op te nemen, of om het te delen in de social media.
   12. **Als het nieuws is, verdient het een persbericht** – Er is een tijd geweest dat “persberichten” voor elk wissewasje werden gepubliceerd om zo hoger te kunnen scoren in de zoekmachines. Die tijd is voorbij. Maar niets let je om daadwerkelijk een persbericht uit te brengen, als het serieus nieuws betreft.
 ```
@@ -112,7 +112,7 @@ Het lijkt een enorme bult zinloos werk als je dit voorgaande leest, zeker als je
 
 Zie het als een investering: in plaats van maar te kust en te keur links te bouwen naar je site (wat toch al niet meer veel helpt), leg je nu een stevig fundament onder je website met relevante links, de juiste social buzz en sociale betrokkenheid. Als je echt goede content produceert gaan deze stappen gemakkelijk en zullen je ze op den duur echt helpen.
 
-Als jij nog tips hebt voor het promoten van je artikelen, laat ze dan weten. Je kunt reageren onderaan de show notes, die je kunt vinden op [www.reputatiecoaching.nl/28](https://www.reputatiecoaching.nl/28), of je kunt op de website direct een voicemail inspreken.
+Als jij nog tips hebt voor het promoten van je artikelen, laat ze dan weten. Je kunt reageren onderaan de show notes, die je kunt vinden op [www.reputatiecoaching.nl/28](/nl/archief/reputatiecoaching/028/), of je kunt op de website direct een voicemail inspreken.
 
 Jarenlang hebben mensen geld kunnen verdienen door sites te bouwen en die door middel van “standaard” SEO-trucjes hoger te laten scoren dan die van de concurrentie. Ook al wisten die mensen amper wat van het onderwerp, waar ze over schreven.
 
@@ -155,7 +155,7 @@ Als je de podcast leuk vindt en je hebt inderdaad wat aan alle informatie die ik
 
 Als je een vraag of een probleem hebt met betrekking tot je online reputatie of de vindbaarheid van je website, kun je een mailtje sturen naar [podcast@reputatiecoaching.nl](mailto:podcast@reputatiecoaching.nl). Als je dat te lastig vindt, of als je de podcast beluistert terwijl je in de auto zit en je hebt acuut een vraag, spreek dan een boodschap in op de ReputatieCoaching Hotline, op nummer: 084 - 883 15 56. Mogelijk behandel ik je vraag of probleem dan in een artikel of in de podcast.
 
-Als laatste kun je je ook inschrijven voor de nieuwsbrief. Dan ontvang je altijd als eerste het laatste nieuws wat ik publiceer en automatisch elk kwartaal het ReputatieCoaching Podcast Boek van het afgelopen kwartaal. Surf daartoe naar [www.reputatiecoaching.nl/nieuwsbrief](https://www.reputatiecoaching.nl/nieuwsbrief) en schrijf je meteen in.
+Als laatste kun je je ook inschrijven voor de nieuwsbrief. Dan ontvang je altijd als eerste het laatste nieuws wat ik publiceer en automatisch elk kwartaal het ReputatieCoaching Podcast Boek van het afgelopen kwartaal. Surf daartoe naar [www.reputatiecoaching.nl/nieuwsbrief](https://web.archive.org/web/*/https://www.reputatiecoaching.nl/nieuwsbrief) en schrijf je meteen in.
 
 En je kunt rechtstreeks op de website een voicemail achterlaten, door op de tab aan de rechterkant van elke pagina te klikken, en je bericht in te spreken. Dit was ReputatieCoaching Podast aflevering 28 en mijn naam is Eduard de Boer.
 

@@ -3,6 +3,8 @@ title: '33: Linkbuilding, guest posting, einde Google Latitude, reviews met ster
 date: '2013-07-13T15:30:47+00:00'
 description: 'ReputatieCoaching Podcast aflevering 33! Hallo en hartelijk welkom bij dé bekendste Nederlandstalige podcast over reputatiemanagement en reputatiecoaching, het verbeteren van je online vindbaarheid en optimalisatie van je website voor zoekmachines. **Ik waarschuw je alvast op voorhand: vandaag heb ik een boel topics die zijn gerelateerd aan Google. Als eerste onderwerp in deze podcast heb ik iets anders: een recent voorbeeld uit de praktijk, dat bedrijven nog aan foute linkbuilding doen. Dan is een logisch vervolg wat Matt Cutts onlangs over linkbuilding heeft gezegd.'
 episode: 33
+kgRef: podcast_episode/reputatiecoaching_033
+source_url: https://www.reputatiecoaching.nl/33
 historical: true
 archivePeriod: 2012–2016
 transcriptStatus: full
@@ -16,8 +18,6 @@ showTaxonomies: false
 ---
 
 > **Historisch archief.** Deze aflevering verscheen op 13-07-2013 als onderdeel van ReputatieCoaching (2012–2016). De oorspronkelijke tekst is hieronder historisch bewaard. Diensten, contactgegevens, links, tools en adviezen kunnen inmiddels verouderd zijn.
-
-{{< audio src="https://archive.org/download/20130713-reputatie-coaching-podcast-033/20130713-ReputatieCoaching-Podcast-033.mp3" title="ReputatieCoaching Podcast #033" >}}
 
 **Transcriptiestatus:** Volledige transcriptie uit het oorspronkelijke archief.
 
@@ -71,7 +71,7 @@ Waar ik erg benieuwd naar ben, hoe mensen tegenwoordig omgaan met links-pagina�
 
 Nadat je de vragen hebt beantwoord, kun je ook meteen zien wat andere lezers en luisteraars van de ReputatieCoaching website en podcast op deze vragen hebben geantwoord.
 
-Je vindt de show notes met deze bliksemenquête op [www.reputatiecoaching.nl/33](https://www.reputatiecoaching.nl/33).
+Je vindt de show notes met deze bliksemenquête op [www.reputatiecoaching.nl/33](/nl/archief/reputatiecoaching/033/).
 
 Hier verder op voortbordurend: als jij meer dan 5.000 bedrijven op je site hebt staan en elk bedrijf heeft een backlink naar jouw site en je krijgt gemiddeld 1-2 unieke bezoekers per maand vanaf één website, dan krijg je dus wel zo’n 10.000 extra unieke bezoekers. Deze getallen zijn gewoon geëxtrapoleerd, maar laat het eens 8.000 zijn, dan zijn het er nog veel!
 
@@ -105,7 +105,7 @@ Verder las ik ook een artikel over Guest Blogging op Search Engine Land. In het 
 
 Dat is ook het algemene advies van Google: als je naar een artikel linkt met linkbuilding in het achterhoofd, dan moet je de link als “nofollow” definiëren. Maar als je een artikel schrijft zonder deze intentie, dan is het helemaal geen probleem om rechtstreeks en zonder de “nofollow” tag te linken.
 
-In de show notes op [www.reputatiecoaching.nl/33](https://www.reputatiecoaching.nl/33) heb ik een video van Matt Cutts opgenomen uit oktober 2012, waarin hij ook hierop in gaat.
+In de show notes op [www.reputatiecoaching.nl/33](/nl/archief/reputatiecoaching/033/) heb ik een video van Matt Cutts opgenomen uit oktober 2012, waarin hij ook hierop in gaat.
 
 ### Website kortstondig niet bereikbaar? “Geen probleem!”, zegt Google
 
@@ -115,7 +115,7 @@ Aan de andere kant, als je site langere tijd niet benaderbaar is, dan kan het vo
 
 ### Einde Google Latitude
 
-En [podcast 31](https://www.reputatiecoaching.nl/31/) schreef ik al dat Google haar Google Reader service had beëindigd. Inmiddels is bekend geworden dat Google 9 augustus stopt met haar dienst “Latitude”. Dit was te lezen op het [blog van Google Maps](http://google-latlong.blogspot.nl/2013/07/a-new-google-maps-app-for-smartphone.html). De aankondiging hiervan werd terloops vermeld op een enkel regeltje in een artikel over de nieuwe Google Maps app voor smartphones en tablets.
+En [podcast 31](/nl/archief/reputatiecoaching/031/) schreef ik al dat Google haar Google Reader service had beëindigd. Inmiddels is bekend geworden dat Google 9 augustus stopt met haar dienst “Latitude”. Dit was te lezen op het [blog van Google Maps](http://google-latlong.blogspot.nl/2013/07/a-new-google-maps-app-for-smartphone.html). De aankondiging hiervan werd terloops vermeld op een enkel regeltje in een artikel over de nieuwe Google Maps app voor smartphones en tablets.
 
 Ik acht overigens de kans groot dat je nog nooit van Google Latitude hebt gehoord. Dit was een dienst van Google waarmee je kon bijhouden waar je allemaal was geweest. Ik heb het zelf niet intensief gebruikt, maar heb er wel eens mee geëxperimenteerd.
 
@@ -135,7 +135,7 @@ In diezelfde blogpost meldt Google ook dat de 5-sterren reviews weer terug zijn,
 
 ---
 
-De verwachting dat ze zouden terugkomen noemde ik al in [podcast 25](https://www.reputatiecoaching.nl/25/), naar aanleiding van bekendmakingen over onder andere Google Maps, op de Google I/O 2013. De nieuwe Google Maps, die op dit moment nog in bèta is, heeft ze al, evenals nu dus Google+ Lokaal. Nu is het wachten nog op de vermeldingen in de lokale zoekresultaten.
+De verwachting dat ze zouden terugkomen noemde ik al in [podcast 25](/nl/archief/reputatiecoaching/025/), naar aanleiding van bekendmakingen over onder andere Google Maps, op de Google I/O 2013. De nieuwe Google Maps, die op dit moment nog in bèta is, heeft ze al, evenals nu dus Google+ Lokaal. Nu is het wachten nog op de vermeldingen in de lokale zoekresultaten.
 
 In de herfst van 2011 is Google begonnen met de Zagat-score. Ik denk dat Google sinds die tijd ander klikgedrag heeft waargenomen dan daarvoor, omdat de meeste mensen niet echt leken te reageren op puntenvermelding. Mensen zien overal sterretjes als grafische indicatie voor reviews. Dus verwacht men die ook bij Google.
 
@@ -221,7 +221,7 @@ Die derde mogelijke zoekterm komt waarschijnlijk van mensen die een teleurstelli
 
 Maar hoe komt het nu dat mensen God associëren met een konijn? Iets verder doorzoeken leidt tot een boek op bol.com met als titel: “Toen Goed Een Konijn Was”. Ik denk dus dat mensen die op zoek zijn naar het boek vooral twee zelfstandige naamwoorden hebben onthouden: “god” en “konijn”.
 
-Wanneer je gaat zoeken naar het denkbeeld van Nederlanders over bepaalde nationaliteiten, dan heb ik er nog een paar voor je… Wil je weten hoe de Nederlanders over de Amerikanen, Belgen en Polen denken? Kijk dan maar eens naar de screenshots in de transcriptie, die je kunt vinden op: [www.reputatiecoaching.nl/33](https://www.reputatiecoaching.nl/33).[Historische afbeelding: bekijk bron](https://lh4.googleusercontent.com/RdsckiPfRYzd0iB0XYYmuGj-zjbpSWhWCyTLDahRvxWcsdEYN6Gn_G-hjZ9EgZIHjo_NlW7uUSlpdZsHPyz5qlAhpm1kMTxgplIYpbPdgZKdaNMT6K6kTEZQfw)
+Wanneer je gaat zoeken naar het denkbeeld van Nederlanders over bepaalde nationaliteiten, dan heb ik er nog een paar voor je… Wil je weten hoe de Nederlanders over de Amerikanen, Belgen en Polen denken? Kijk dan maar eens naar de screenshots in de transcriptie, die je kunt vinden op: [www.reputatiecoaching.nl/33](/nl/archief/reputatiecoaching/033/).[Historische afbeelding: bekijk bron](https://lh4.googleusercontent.com/RdsckiPfRYzd0iB0XYYmuGj-zjbpSWhWCyTLDahRvxWcsdEYN6Gn_G-hjZ9EgZIHjo_NlW7uUSlpdZsHPyz5qlAhpm1kMTxgplIYpbPdgZKdaNMT6K6kTEZQfw)
 [Historische afbeelding: bekijk bron](https://lh6.googleusercontent.com/lj30uKMG5c2ajpILj8KL2O9Ij9gqDsPwQoRMJJiPPy8xECjC9un-XGFCysUDRgQl22jHvrkP5a7kzHlOFPyWIRCf0UPCMulrp0RZ3mARmLZjQT7h5myXxuvYxQ)
 [Historische afbeelding: bekijk bron](https://lh3.googleusercontent.com/8VswTwgf9BERK29qXB7RMK6obIM162hX3G0f15Zf9Jfw6qKMsAcc6W4w8upHCOpAyogvXI9hdwpsywyDJFUGBQkd6vobU7vshMwC9UgquCMWxHSCKogtsXzM9g)
 
@@ -247,9 +247,9 @@ Als je de podcast leuk vindt en je hebt inderdaad wat aan alle informatie die ik
 
 Als je een vraag of een probleem hebt met betrekking tot je online reputatie of de vindbaarheid van je website, kun je een mailtje sturen naar [podcast@reputatiecoaching.nl](mailto:podcast@reputatiecoaching.nl). Als je dat te lastig vindt, of als je de podcast beluistert terwijl je in de auto zit en je hebt acuut een vraag, spreek dan een boodschap in op de ReputatieCoaching Hotline, op nummer: 084 - 883 15 56. Mogelijk behandel ik je vraag of probleem dan in een artikel of in de podcast.
 
-Als laatste kun je je ook inschrijven voor de nieuwsbrief. Dan ontvang je altijd als eerste het laatste nieuws wat ik publiceer en automatisch elk kwartaal het ReputatieCoaching Podcast Boek van het afgelopen kwartaal. Surf daartoe naar [www.reputatiecoaching.nl/nieuwsbrief](https://www.reputatiecoaching.nl/nieuwsbrief) en schrijf je meteen in.
+Als laatste kun je je ook inschrijven voor de nieuwsbrief. Dan ontvang je altijd als eerste het laatste nieuws wat ik publiceer en automatisch elk kwartaal het ReputatieCoaching Podcast Boek van het afgelopen kwartaal. Surf daartoe naar [www.reputatiecoaching.nl/nieuwsbrief](https://web.archive.org/web/*/https://www.reputatiecoaching.nl/nieuwsbrief) en schrijf je meteen in.
 
-En je kunt rechtstreeks op de website een voicemail achterlaten, door op de tab aan de rechterkant van elke pagina te klikken, en je bericht in te spreken. Dit was [ReputatieCoaching Podast aflevering 33](https://www.reputatiecoaching.nl/33) en mijn naam is [Eduard de Boer](http://nl.linkedin.com/in/eduarddeboer).
+En je kunt rechtstreeks op de website een voicemail achterlaten, door op de tab aan de rechterkant van elke pagina te klikken, en je bericht in te spreken. Dit was [ReputatieCoaching Podast aflevering 33](/nl/archief/reputatiecoaching/033/) en mijn naam is [Eduard de Boer](http://nl.linkedin.com/in/eduarddeboer).
 
 Ik wens je de komende week weer succes met het werken aan je reputatie, zodat je meteen je reputatie voor jou kunt laten werken!
 

@@ -3,6 +3,8 @@ title: '75: Lidl populairste retailer op Facebook, maar belabberd op Google+. Ha
 date: '2014-05-05T06:30:35+00:00'
 description: Laatst werd mijn advies gevraagd bij een slechte review. Waarom? Dat hoor je zo! Weet je overigens wat de populairste winkelketen is op Facebook? Blijf luisteren, als je het nog niet weet. Verder heb ik nieuws over het voortbestaan van Google+ en nog meer nieuws van Google. Zo heb ik een paar screenshots van hoe de carousel er in Nederland uit kan komen te zien en hoe Google in de lokale resultaten op mobiele apparaten prijzen vertoont.
 episode: 75
+kgRef: podcast_episode/reputatiecoaching_075
+source_url: https://www.reputatiecoaching.nl/75
 historical: true
 archivePeriod: 2012–2016
 transcriptStatus: full
@@ -17,8 +19,6 @@ showTaxonomies: false
 
 > **Historisch archief.** Deze aflevering verscheen op 5-05-2014 als onderdeel van ReputatieCoaching (2012–2016). De oorspronkelijke tekst is hieronder historisch bewaard. Diensten, contactgegevens, links, tools en adviezen kunnen inmiddels verouderd zijn.
 
-{{< audio src="https://archive.org/download/20140505-reputatie-coaching-podcast-075/20140505-ReputatieCoaching-Podcast-075.mp3" title="ReputatieCoaching Podcast #075" >}}
-
 **Transcriptiestatus:** Volledige transcriptie uit het oorspronkelijke archief.
 
 ***Historische afbeelding niet beschikbaar: ReputatieCoaching Podcast*
@@ -26,11 +26,11 @@ Laatst werd mijn advies gevraagd bij een slechte review. Waarom? Dat hoor je zo!
 
 Hallo en hartelijk welkom bij deze aflevering van de ReputatieCoaching Podcast. Mijn naam is Eduard de Boer, ook bekend als de ReputatieCoach. Dit is dé podcast die je moet beluisteren als je meer wilt leren over online reputatie en reputatiemanagement en ook als je wilt werken aan je online reputatie en je online vindbaarheid wilt verbeteren. Dit alles kan je helpen om jezelf beter op de online kaart te plaatsen, waardoor je als bedrijf meer business kunt doen. Als persoon kun je met de diverse tips ook aan de slag om online reputatie te verbeteren.
 
-De podcast kun je vinden op [www.reputatiecoaching.nl/75](https://www.reputatiecoaching.nl/75/). Daar vind je niet alleen de tekst, maar ook video’s waar ik het in deze uitzending over heb, alsmede afbeeldingen, links enzovoorts. Bovendien is de podcast te beluisteren in [iTunes](https://www.reputatiecoaching.nl/itunes) en op [Stitcher](https://www.reputatiecoaching.nl/stitcher). Daar kun je je dus ook abonneren op de wekelijkse podcast. Veel mensen vinden het ideaal om de wekelijkse afleveringen van de podcast op hun gemak te beluisteren, terwijl ze autorijden.
+De podcast kun je vinden op [www.reputatiecoaching.nl/75](/nl/archief/reputatiecoaching/075/). Daar vind je niet alleen de tekst, maar ook video’s waar ik het in deze uitzending over heb, alsmede afbeeldingen, links enzovoorts. Bovendien is de podcast te beluisteren in [iTunes](https://web.archive.org/web/*/https://www.reputatiecoaching.nl/itunes) en op [Stitcher](https://web.archive.org/web/*/https://www.reputatiecoaching.nl/stitcher). Daar kun je je dus ook abonneren op de wekelijkse podcast. Veel mensen vinden het ideaal om de wekelijkse afleveringen van de podcast op hun gemak te beluisteren, terwijl ze autorijden.
 
 ## Terugblik podcast 74
 
-Even een korte terugblik naar de [podcast van vorige week](https://www.reputatiecoaching.nl/74/). Wat vind ik het belangrijkste dat je daaruit kunt leren? Niet dat Facebook posts op fanpagina’s in de zoekresultaten kunnen worden gevonden en ook niet dat Google+ mogelijk op een lager pitje wordt gezet. Als ik zo de transcriptie nog eens nalees, dan vind ik het risico dat een aantal anonieme reviews (in dit geval die van Zagat gebruikers) zo maar van je zakelijke profiel kunnen verdwijnen, door een simpele actie van Google.
+Even een korte terugblik naar de [podcast van vorige week](/nl/archief/reputatiecoaching/074/). Wat vind ik het belangrijkste dat je daaruit kunt leren? Niet dat Facebook posts op fanpagina’s in de zoekresultaten kunnen worden gevonden en ook niet dat Google+ mogelijk op een lager pitje wordt gezet. Als ik zo de transcriptie nog eens nalees, dan vind ik het risico dat een aantal anonieme reviews (in dit geval die van Zagat gebruikers) zo maar van je zakelijke profiel kunnen verdwijnen, door een simpele actie van Google.
 
 Vergeet niet, dat de week ervoor, ik vertelde dat de reviews op Yahoo! Local verdwijnen, zodra iemand een review heeft gepost op Yelp, omdat die twee partijen samenwerken.
 
@@ -42,7 +42,7 @@ Laat ik dan nu overgaan op de onderwerpen voor vandaag…
 
 ## Extreem slechte review? Wat dan?
 
-Ook al doe je als bedrijf nog zo je best, je kunt heus wel eens een slechte review krijgen van een klant of een patiënt. In podcast 67 vertelde ik je dat [negatieve reviews](https://www.reputatiecoaching.nl/67/) ook best positief kunnen zijn of kunnen uitpakken:
+Ook al doe je als bedrijf nog zo je best, je kunt heus wel eens een slechte review krijgen van een klant of een patiënt. In podcast 67 vertelde ik je dat [negatieve reviews](/nl/archief/reputatiecoaching/067/) ook best positief kunnen zijn of kunnen uitpakken:
 
 [![Negatieve review van een tandarts](20140505-slechte-review-1.png)](https://lh6.googleusercontent.com/-Owewntkok6g/U2JFI_VoF2I/AAAAAAAAAtw/y044ahi8ilU/w367-h326-no/20140505-slechte-review-1.png)
 
@@ -67,7 +67,7 @@ Ik moet je overigens eerlijk zeggen dat ik niet eens meer wist dat je een foto k
 
 Maar terug naar deze extreem negatieve review. In een geval als deze ligt het er wel heel dik bovenop, dat dit niet een gewone review is, maar dat dit “bericht” meer uit haat lijkt te zijn gepost.
 
-Dus wat je dan kunt doen, is op het vlaggetje onderaan de recensie klikken om de review te rapporteren. Dan verschijnt het scherm, dat je in de show notes op [www.reputatiecoaching.nl/75](https://www.reputatiecoaching.nl/75/) kunt zien. Hierin is onder andere te lezen dat Google misbruik van haar services heel serieus neemt:
+Dus wat je dan kunt doen, is op het vlaggetje onderaan de recensie klikken om de review te rapporteren. Dan verschijnt het scherm, dat je in de show notes op [www.reputatiecoaching.nl/75](/nl/archief/reputatiecoaching/075/) kunt zien. Hierin is onder andere te lezen dat Google misbruik van haar services heel serieus neemt:
 
 [![Schending van het Google beleid melden](20140505-review-melden.png)](https://lh5.googleusercontent.com/-xEa9t8APgZs/U2JFHi284oI/AAAAAAAAAtc/lyd_clVzpis/w607-h567-no/20140505-review-melden.png)Je moet dan je e-mailadres geven en kiezen uit één van de volgende vier mogelijkheden om de schending van de Servicevoorwaarden te typeren:
 
@@ -116,7 +116,7 @@ De pagina was niet geclaimd, niet geverifieerd en ook niet aan een website gekop
 
 Maar gelukkig gold dit niet alleen voor Apeldoorn. Het blijkt dat Lidl Google+ totaal links laat liggen. Want ik heb even snel tientallen zakelijke Google+ pagina’s van de Lidl gescand op enige activiteit en wat denk je: NERGENS! Lidl doet echt helemaal niets met Google+! Ongelofelijk!
 
-En als een bedrijf zo’n platform totaal negeert, dan kan datgene ontstaan, wat je kunt zien in de screenshot op [www.reputatiecoaching.nl/75](https://www.reputatiecoaching.nl/75/):
+En als een bedrijf zo’n platform totaal negeert, dan kan datgene ontstaan, wat je kunt zien in de screenshot op [www.reputatiecoaching.nl/75](/nl/archief/reputatiecoaching/075/):
 
 [![Foute Google+ pagina Lidl Wageningen](20140505-gplus-lidl-Wageningen.png)](https://lh6.googleusercontent.com/-Skhmhc4qLTc/U2JFAj5b8UI/AAAAAAAAAsQ/OYtSdbnAjqQ/w996-h1004-no/20140505-gplus-lidl-Wageningen.png)
 
@@ -220,7 +220,7 @@ Matt Cutts heeft een komische video gepost, waarin hij het belang van goede cont
 
 Hij zegt dat het natuurlijk ook essentieel is, om unieke en relevante content in het head-gedeelte van een pagina te plaatsen. Echter, veel te vaak focussen mensen zich voornamelijk op de title tag en de metadata, zonder zich echt te bekommeren om de content in het body-deel.
 
-“Wat is het komische aan de video?”, hoor ik vragen. Welnu, ik heb de video in de show notes op [www.reputatiecoaching.nl/75](https://www.reputatiecoaching.nl/75/) opgenomen. Kijk zelf maar:
+“Wat is het komische aan de video?”, hoor ik vragen. Welnu, ik heb de video in de show notes op [www.reputatiecoaching.nl/75](/nl/archief/reputatiecoaching/075/) opgenomen. Kijk zelf maar:
 
 ## Hoe bepaalt Google de weergegeven titel van je webpagina’s?
 
@@ -246,15 +246,15 @@ Hiermee kom ik dan wel bijna aan het einde van deze 75e podcast. Voordat ik over
 
 ## Titel voor je content samenstellen met behulp van Google
 
-De tip bestaat uit twee delen. Als eerste kun je in het zoekveld van Google het eerste woord of de eerste paar woorden die je in de titel wilt gebruiken, intypen. Let dan op wat Google als potentieel gerelateerde zoekopdrachten toont. Zo kwam ik ooit op de titel voor de meest populaire blogpost van mijn site, die maandelijks meer dan 1000 keer wordt bekeken. Dat is het artikel “[Foto uitsnijden en achtergrond verwijderen](https://www.reputatiecoaching.nl/foto-uitsnijden-achtergrond-verwijderen-instructievideo/)”:
+De tip bestaat uit twee delen. Als eerste kun je in het zoekveld van Google het eerste woord of de eerste paar woorden die je in de titel wilt gebruiken, intypen. Let dan op wat Google als potentieel gerelateerde zoekopdrachten toont. Zo kwam ik ooit op de titel voor de meest populaire blogpost van mijn site, die maandelijks meer dan 1000 keer wordt bekeken. Dat is het artikel “[Foto uitsnijden en achtergrond verwijderen](https://web.archive.org/web/*/https://www.reputatiecoaching.nl/foto-uitsnijden-achtergrond-verwijderen-instructievideo/)”:
 
 [![Foto uitsnijden autosuggest Google](20140505-foto-uitsnijden-autosuggest.png)](https://lh3.googleusercontent.com/-Vvcvz-pPv2g/U2JE_kGWYGI/AAAAAAAAAr8/mKb5_iFiQ5c/w852-h248-no/20140505-foto-uitsnijden-autosuggest.png)Overigens is de dienst die ik daarin aanprijs inmiddels niet meer gratis. Dat is jammer.
 
-[![Ubersuggest voor: foto uitsnijden en](20140505-foto-uitsnijden-autosuggest.png)](https://lh4.googleusercontent.com/-5ELgerowqpI/U2JFFtqFU_I/AAAAAAAAAtY/tISG_aFh5Qs/w281-h446-no/20140505-foto-uitsnijden-ubersuggest.png)Een andere manier om snel een inzicht te krijgen in **alle** suggesties van Google, is door gebruik te maken van de tool [ubersuggest.org](https://www.reputatiecoaching.nl/foto-uitsnijden-achtergrond-verwijderen-instructievideo/). Daar typ je de gewenste zoekterm in en kies je Nederlands. Daarna geeft Übersuggest je alle mogelijke autocomplete suggesties van Google. In de show notes heb ik een klein stukje daarvan opgenomen, omdat de complete pagina veel te lang is.
+[![Ubersuggest voor: foto uitsnijden en](20140505-foto-uitsnijden-autosuggest.png)](https://lh4.googleusercontent.com/-5ELgerowqpI/U2JFFtqFU_I/AAAAAAAAAtY/tISG_aFh5Qs/w281-h446-no/20140505-foto-uitsnijden-ubersuggest.png)Een andere manier om snel een inzicht te krijgen in **alle** suggesties van Google, is door gebruik te maken van de tool [ubersuggest.org](https://web.archive.org/web/*/https://www.reputatiecoaching.nl/foto-uitsnijden-achtergrond-verwijderen-instructievideo/). Daar typ je de gewenste zoekterm in en kies je Nederlands. Daarna geeft Übersuggest je alle mogelijke autocomplete suggesties van Google. In de show notes heb ik een klein stukje daarvan opgenomen, omdat de complete pagina veel te lang is.
 
 En met deze praktische tip voor het samenstellen van een titel voor je content kom ik dan nu toch echt aan het einde van deze podcast.
 
-Ik hoop dat je de podcast leuk vindt en dat je wilt nog meer op de hooge blijven. Volg me daartoe op Twitter, op [@reputatiecoach1](https://twitter.com/reputatiecoach1). En als je inderdaad wat hebt aan alle informatie die ik met je deel, help mij dan met het verder verbeteren en promoten van deze podcast. Surf dan naar [iTunes](https://www.reputatiecoaching.nl/itunes) of [Stitcher](https://www.reputatiecoaching.nl/stitcher), geef de podcast een sterrenbeoordeling en geef ook je reactie. Door de podcast te beoordelen op iTunes en/of Stitcher breng je de podcast onder de aandacht van een breder publiek.
+Ik hoop dat je de podcast leuk vindt en dat je wilt nog meer op de hooge blijven. Volg me daartoe op Twitter, op [@reputatiecoach1](https://twitter.com/reputatiecoach1). En als je inderdaad wat hebt aan alle informatie die ik met je deel, help mij dan met het verder verbeteren en promoten van deze podcast. Surf dan naar [iTunes](https://web.archive.org/web/*/https://www.reputatiecoaching.nl/itunes) of [Stitcher](https://web.archive.org/web/*/https://www.reputatiecoaching.nl/stitcher), geef de podcast een sterrenbeoordeling en geef ook je reactie. Door de podcast te beoordelen op iTunes en/of Stitcher breng je de podcast onder de aandacht van een breder publiek.
 
 Je kunt me verder helpen, door de podcast aan te bevelen bij vrienden of collega’s, waarvan je denkt dat ze er hun voordeel mee kunnen doen, of door ’m te delen op Twitter, like’n en delen op Facebook of een “+1” te geven op Google+.
 
@@ -262,7 +262,7 @@ En vergeet niet: ik ben hier om je te helpen! Als je een vraag of een probleem h
 
 Als je dat te lastig vindt, of als je de podcast beluistert terwijl je in de auto zit en je hebt acuut een vraag, spreek dan een boodschap in op de ReputatieCoaching Hotline, op nummer: 084 - 883 15 56. Mogelijk behandel ik je vraag of probleem dan in een artikel of in de podcast.
 
-En je kunt ook rechtstreeks op de website een voicemail achterlaten, door op de tab aan de rechterkant van elke pagina te klikken, en je bericht in te spreken. Dit was [ReputatieCoaching Podcast aflevering 75](https://www.reputatiecoaching.nl/75/) en mijn naam is [Eduard de Boer](http://nl.linkedin.com/in/eduarddeboer/nl).
+En je kunt ook rechtstreeks op de website een voicemail achterlaten, door op de tab aan de rechterkant van elke pagina te klikken, en je bericht in te spreken. Dit was [ReputatieCoaching Podcast aflevering 75](/nl/archief/reputatiecoaching/075/) en mijn naam is [Eduard de Boer](http://nl.linkedin.com/in/eduarddeboer/nl).
 
 Ik wens je de komende week weer succes met het werken aan je reputatie, zodat je meteen je reputatie voor jou kunt laten werken!
 
@@ -273,8 +273,8 @@ Doei!
 Links naar content die in deze podcast aan bod komt:
 
 ```
-  * [ReputatieCoaching Podcast in iTunes](https://www.reputatiecoaching.nl/itunes)
-  * [ReputatieCoaching Podcast op Stitcher](https://www.reputatiecoaching.nl/stitcher)
+  * [ReputatieCoaching Podcast in iTunes](https://web.archive.org/web/*/https://www.reputatiecoaching.nl/itunes)
+  * [ReputatieCoaching Podcast op Stitcher](https://web.archive.org/web/*/https://www.reputatiecoaching.nl/stitcher)
   * [ReputatieCoaching Podcast RSS-feed](https://feeds.reputatiecoaching.nl/ReputatieCoachingPodcast)
   * [ubersuggest.org](http://ubersuggest.org)
   * “[Google Plus Ghost Town: My open letter to the misguided reporters](http://www.amandablain.com/google-plus-ghost-town/)” (Amanda Blain, 24 april 2014)

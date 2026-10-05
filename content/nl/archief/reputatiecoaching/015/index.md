@@ -3,6 +3,8 @@ title: Podcast Aflevering 15 (11-03-2013)
 date: '2013-03-11T22:55:38+00:00'
 description: 'ReputatieCoaching Podcast aflevering 15! Ja, je hoort het goed: sinds de eerste podcast van 3 december heb ik alweer 15 afleveringen gemaakt van de ReputatieCoaching Podcast. Wat gaat de tijd toch snel! __Mijn naam is Eduard de Boer -ook wel bekend als de ReputatieCoach- en ik ben je host voor vandaag! Inmiddels is het rond kwart voor twaalf ‘s avonds. Ik heb zopas de hond uitgelaten en omdat het buiten een gevoelstemperatuur is van om en nabij de min tien graden Celsius ben ik weer helemaal fris en monter.'
 episode: 15
+kgRef: podcast_episode/reputatiecoaching_015
+source_url: https://www.reputatiecoaching.nl/15
 historical: true
 archivePeriod: 2012–2016
 transcriptStatus: full
@@ -16,8 +18,6 @@ showTaxonomies: false
 ---
 
 > **Historisch archief.** Deze aflevering verscheen op 11-03-2013 als onderdeel van ReputatieCoaching (2012–2016). De oorspronkelijke tekst is hieronder historisch bewaard. Diensten, contactgegevens, links, tools en adviezen kunnen inmiddels verouderd zijn.
-
-{{< audio src="https://archive.org/download/20130311-reputatie-coaching-podcast-015/20130311-ReputatieCoaching-Podcast-015.mp3" title="ReputatieCoaching Podcast #015" >}}
 
 **Transcriptiestatus:** Volledige transcriptie uit het oorspronkelijke archief.
 
@@ -48,7 +48,7 @@ Inmiddels is het rond kwart voor twaalf ‘s avonds. Ik heb zopas de hond uitgel
 
 *Laat dit korte nieuwsbericht voor jou een trigger zijn om wat vaker je online citations, ofwel bedrijfsvermeldingen te controleren en te actualiseren. Hou een lijst bij met sites en de bijbehorende inloggegevens, waar je zelf je bedrijfsgegevens ooit hebt aangemeld, zodat je ze later weer kunt aanpassen. Zo bespaar je tijd.*
 
-*Steeds meer mensen die content produceren op Internet activeren Google Authorship. Ik heb ooit al eens een aparte instructievideo gemaakt over hoe je zelf [Google Authorship voor jouw blog kunt activeren](https://www.reputatiecoaching.nl/wiki/google-authorship/). Dus dat ga ik vandaag niet nog eens overdoen.*
+*Steeds meer mensen die content produceren op Internet activeren Google Authorship. Ik heb ooit al eens een aparte instructievideo gemaakt over hoe je zelf [Google Authorship voor jouw blog kunt activeren](https://web.archive.org/web/*/https://www.reputatiecoaching.nl/wiki/google-authorship/). Dus dat ga ik vandaag niet nog eens overdoen.*
 
 *Inmiddels gaat het fenomeen van Authorship weer een stapje verder en komen de eerste “problemen” naar boven. Zoals je weet is Google Authoship iets wat gekoppeld is aan een persoon, een individu. Medewerkers van bedrijven produceren content onder hun naam en dus met hun Authorship vermelding. In de zoekresultaten verschijnt dan ook hun foto bij de zoekresultaten.*
 
@@ -111,11 +111,11 @@ Inmiddels is het rond kwart voor twaalf ‘s avonds. Ik heb zopas de hond uitgel
 
 *De recensies liegen er ook niet om. Die waren eigenlijk allemaal positief! Ik zal ze van de week in een apart artikel op de site publiceren. En wat ik het leukste vond is dat Ordina dankzij mijn presentatie weer een nieuwe enthousiaste blogger heeft. Op [www.martinjesterhoudt.nl](http://www.martinjesterhoudt.nl/) (met ‘dt’) vind je het weblog dat deze kersverse blogger afgelopen weekend met mijn adviezen heeft opgezet. Chapeau, Martin!*
 
-*Als jij ook wat hebt aan de informatie en je vind het leuk om naar de podcast te luisteren, dan kun je een bericht achterlaten op onze Facebookpagina, op: [www.reputatiecoaching.nl/facebook](https://www.reputatiecoaching.nl/facebook) of op onze Google+ pagina, op: [www.reputatiecoaching.nl/gplus](https://www.reputatiecoaching.nl/gplus) (dat is dus g-p-l-u-s). Geef een “Like” of “+1”, waardoor je laat weten dat je de content op prijs stelt.*\_\_
+*Als jij ook wat hebt aan de informatie en je vind het leuk om naar de podcast te luisteren, dan kun je een bericht achterlaten op onze Facebookpagina, op: [www.reputatiecoaching.nl/facebook](https://web.archive.org/web/*/https://www.reputatiecoaching.nl/facebook) of op onze Google+ pagina, op: [www.reputatiecoaching.nl/gplus](https://web.archive.org/web/*/https://www.reputatiecoaching.nl/gplus) (dat is dus g-p-l-u-s). Geef een “Like” of “+1”, waardoor je laat weten dat je de content op prijs stelt.*\_\_
 
 *Een alternatief: ga vandaag nog naar iTunes en maak een account aan, als je die nog niet hebt. Beoordeel dan deze podcast op iTunes en stuur een berichtje naar [podcast@reputatiecoaching.nl](mailto:podcast@reputatiecoaching.nl), dat je een recensie hebt gegeven. Zit je achter je computer en heb je Twitter of één of andere Twitter-app geopend, stuur dan een tweet met je mening met hashtag “repcoach”, dus #repcoach erbij.*\_\_
 
-*Geef gerust een recensie. En als je opmerkingen hebt over deze podcast, laat die dan op de website onderaan de transcriptie achter. Je kunt de transcriptie van deze podcast snel online vinden door te surfen naar: [www.reputatiecoaching.nl/15](https://www.reputatiecoaching.nl/15/). Als je ergens een recensie hebt geplaatst, stuur me dan een mailtje zodat ik je recensie kan vermelden in de podcast. Ook kun je natuurlijk een recensie posten op LinkedIn. Je vindt mijn profiel op LinkedIn, via: [www.reputatiecoaching.nl/linkedin](https://www.reputatiecoaching.nl/linkedin).*\_\_
+*Geef gerust een recensie. En als je opmerkingen hebt over deze podcast, laat die dan op de website onderaan de transcriptie achter. Je kunt de transcriptie van deze podcast snel online vinden door te surfen naar: [www.reputatiecoaching.nl/15](/nl/archief/reputatiecoaching/015/). Als je ergens een recensie hebt geplaatst, stuur me dan een mailtje zodat ik je recensie kan vermelden in de podcast. Ook kun je natuurlijk een recensie posten op LinkedIn. Je vindt mijn profiel op LinkedIn, via: [www.reputatiecoaching.nl/linkedin](https://web.archive.org/web/*/https://www.reputatiecoaching.nl/linkedin).*\_\_
 
 \_Vergeet niet om een mailtje te sturen naar [podcast@reputatiecoaching.nl](mailto:podcast@reputatiecoaching.nl) als je ergens een recensie hebt gepost. \_\_\_
 
@@ -132,7 +132,7 @@ Inmiddels is het rond kwart voor twaalf ‘s avonds. Ik heb zopas de hond uitgel
 *De laatste paar versies bevatten opvallend weinig beveiligingsproblemen. Loop jij nog achter met je WordPress, dan is nu het moment om jouw WordPress bij te werken naar de meest recente versie! Tip: maak wel eerst een backup!*
 2. ***Plugins zijn altijd veilig** – Nou nee. Je mag er niet vanuit gaan dat plugins per definitie veilig zijn. De meeste WordPress hacks zijn ook vaak dankzij problemen in plugins. Als je een plugin zoekt en wilt installeren, kies dan eentje die goede beoordelingen heeft, actief wordt onderhouden en recentelijk nog ooit eens is aangepast. Let wel: hoe meer plugins je gebruikt, des te meer risico loop je ten aanzien van je beveiliging!*
 3. ***Mijn site is te klein om te worden gehacked** – Absoluut niet! Ik heb een klant die begon met een WordPress site met slechts één pagina, waarop het bedrijfslogo stond  en de contactgegevens. Ook die site is gehackt, doordat een slecht onderhouden plugin werd gebruikt als achterdeurtje. Hierdoor werd de webpagina om zeep geholpen! De meeste hacks gebeuren toch geautomatiseerd, dus dan maakt de omvang van jouw site echt niet uit!*
-4. ***Je hoeft geen backups te maken** – Ook dit is een vitale misvatting! Ga er nooit van uit dat je hosting provider backups maakt en dat die je wel redt, als er problemen komen met je site. Ik heb in [Podcast 4](https://www.reputatiecoaching.nl/4/) en [Podcast 9](https://www.reputatiecoaching.nl/9/) al de gratis plugin [BackWPup](https://www.reputatiecoaching.nl/backwpup) genoemd. Deze gebruik ik ook op alle WordPress sites die ik onderhoud en naar volle tevredenheid. Iedere nacht laat ik die sites een backup maken naar Dropbox, waarbij ik de laatste twintig backups bewaar.*
+4. ***Je hoeft geen backups te maken** – Ook dit is een vitale misvatting! Ga er nooit van uit dat je hosting provider backups maakt en dat die je wel redt, als er problemen komen met je site. Ik heb in [Podcast 4](/nl/archief/reputatiecoaching/004/) en [Podcast 9](/nl/archief/reputatiecoaching/009/) al de gratis plugin [BackWPup](https://web.archive.org/web/*/https://www.reputatiecoaching.nl/backwpup) genoemd. Deze gebruik ik ook op alle WordPress sites die ik onderhoud en naar volle tevredenheid. Iedere nacht laat ik die sites een backup maken naar Dropbox, waarbij ik de laatste twintig backups bewaar.*
 5. ***Passwords en gebruikersnamen maken niet uit** – FOUT! De meeste gebruikers kiezen standaard “admin” als administrator gebruikersnaam en vaak een simpel wachtwoord. Je kunt beter een gebruikersnaam kiezen als “xyz-admin” voor het administrator account en bloggen onder een ander account, dat minder rechten heeft. Het andere account kun je dan goed op je eigen naam zetten en koppelen aan je Google+ profiel voor Google Authorship. Het “xyz-admin” account (waarbij je “xyz” door een voor jou gemakkelijk te onthouden afkorting vervangt), gebruik je alleen voor het installeren van nieuwe plugins of het regelmatig bijwerken van de software.*
 *Wellicht ten overvloede: kies ook voor je blog een ander wachtwoord, dan voor je andere accounts op Internet.*
 6. ***Je kunt gewoon een beveiligingsplugin gebruiken** – Vertrouw niet blind op mooie omschrijvingen van plugins. Nieuwe plugins kunnen nieuwe beveiligingslekken hebben. Ze helpen je bijvoorbeeld ook niet, als een hacker kan inbreken op de server waar je website staat.*
@@ -144,7 +144,7 @@ Inmiddels is het rond kwart voor twaalf ‘s avonds. Ik heb zopas de hond uitgel
 
 *Voor het op peil houden van de beveiliging van jouw WordPress site, is het dus essentieel dat je geregeld backups maakt en de WordPress software of de plugins bijwerkt, vlak nadat een nieuwe versie beschikbaar is. Reden om het niet meteen te doen, is dat je beter even de kat uit de boom kunt kijken of er met een nieuwe versie geen nieuwe problemen worden geïntroduceerd.*
 
-*Ik ga snel door met het volgende lijstje dat ik voor je heb gevonden: 10 manieren om het bloggen of podcasten vol te kunnen houden. Deze vond ik op de site van Search Engine People. De link naar dit artikel en naar andere artikelen die ik graag met je deel, vind je in de transcriptie van deze podcast. Detranscriptie is te vinden op: [www.reputatiecoaching.nl/15](https://www.reputatiecoaching.nl/15).*
+*Ik ga snel door met het volgende lijstje dat ik voor je heb gevonden: 10 manieren om het bloggen of podcasten vol te kunnen houden. Deze vond ik op de site van Search Engine People. De link naar dit artikel en naar andere artikelen die ik graag met je deel, vind je in de transcriptie van deze podcast. Detranscriptie is te vinden op: [www.reputatiecoaching.nl/15](/nl/archief/reputatiecoaching/015/).*
 
 ***1. Gebruik één centrale ideeënbus***
 *Sla je ideeën en links etc. op, op één centraal punt. Het is essentieel dat je snel en eenvoudig links, ideeën en andere content hierin kunt opslaan, als je surft op Internet. Ik ga binnenkort uit de doeken doen, hoe ik honderden RSS-feeds volg en aan mijn onderwerpen kom.*

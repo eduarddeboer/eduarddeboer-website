@@ -3,6 +3,8 @@ title: Podcast Aflevering 18 (30-03-2013)
 date: '2013-03-30T18:00:39+00:00'
 description: 'ReputatieCoaching Podcast aflevering 18! In de ReputatieCoaching Podcast heb ik tot en met vorige week altijd nieuws uit de wereld van SEO, reputatiemanagement en contentmarketing gebracht en dat blijf ik ook doen. Maar een paar weken geleden had ik al aangekondigd dat ik ook mensen zou gaan interviewen. En vandaag is het dan zover: zometeen hoor je het eerste interview dat ik als ReputatieCoach heb afgenomen van een bijzondere gast. Maar ik begin zo eerst met wat actueel nieuws en bruikbare tips uit de diverse bronnen op Internet!'
 episode: 18
+kgRef: podcast_episode/reputatiecoaching_018
+source_url: https://www.reputatiecoaching.nl/18
 historical: true
 archivePeriod: 2012–2016
 transcriptStatus: full
@@ -16,8 +18,6 @@ showTaxonomies: false
 ---
 
 > **Historisch archief.** Deze aflevering verscheen op 30-03-2013 als onderdeel van ReputatieCoaching (2012–2016). De oorspronkelijke tekst is hieronder historisch bewaard. Diensten, contactgegevens, links, tools en adviezen kunnen inmiddels verouderd zijn.
-
-{{< audio src="https://archive.org/download/20130329-reputatie-coaching-podcast-018/20130329-ReputatieCoaching-Podcast-018.mp3" title="ReputatieCoaching Podcast #018" >}}
 
 **Transcriptiestatus:** Volledige transcriptie uit het oorspronkelijke archief.
 
@@ -112,11 +112,11 @@ In de ReputatieCoaching Podcast heb ik tot en met vorige week altijd nieuws uit 
 
 > *Wat me leuk lijkt voor de luisteraars: heb je –nu we zo richting het einde van het interview lopen– nog één of twee tips voor de luisteraars, waarmee zij hun voordeel kunnen doen als het gaat om reactief reputatiemanagement?*
 
-*Vond je deze podcast leuk, laat het me dan weten. Je kunt een bericht achterlaten op onze Facebookpagina, op: [www.reputatiecoaching.nl/facebook](https://www.reputatiecoaching.nl/facebook) of op Google+. De Google+ pagina kun je vinden op: [www.reputatiecoaching.nl/gplus](https://www.reputatiecoaching.nl/gplus) (dat is “g-p-l-u-s”).*
+*Vond je deze podcast leuk, laat het me dan weten. Je kunt een bericht achterlaten op onze Facebookpagina, op: [www.reputatiecoaching.nl/facebook](https://web.archive.org/web/*/https://www.reputatiecoaching.nl/facebook) of op Google+. De Google+ pagina kun je vinden op: [www.reputatiecoaching.nl/gplus](https://web.archive.org/web/*/https://www.reputatiecoaching.nl/gplus) (dat is “g-p-l-u-s”).*
 
-*Geef een “Like” of “+1” op Google+, waardoor je laat weten dat je de content op prijs stelt. Of laat een leuke recensie achter op mijn LinkedIn-profiel, op: [www.reputatiecoaching.nl/linkedin](https://www.reputatiecoaching.nl/linkedin).*
+*Geef een “Like” of “+1” op Google+, waardoor je laat weten dat je de content op prijs stelt. Of laat een leuke recensie achter op mijn LinkedIn-profiel, op: [www.reputatiecoaching.nl/linkedin](https://web.archive.org/web/*/https://www.reputatiecoaching.nl/linkedin).*
 
-*Als je opmerkingen hebt over deze podcast, laat die dan op de website onderaan de transcriptie achter. Je kunt de transcriptie van deze podcast snel online vinden door te surfen naar: [www.reputatiecoaching.nl/podcast-18/](https://www.reputatiecoaching.nl/podcast-18/). Als je ergens een recensie hebt geplaatst, stuur me dan een mailtje zodat ik je recensie kan vermelden in de podcast.*
+*Als je opmerkingen hebt over deze podcast, laat die dan op de website onderaan de transcriptie achter. Je kunt de transcriptie van deze podcast snel online vinden door te surfen naar: [www.reputatiecoaching.nl/podcast-18/](https://web.archive.org/web/*/https://www.reputatiecoaching.nl/podcast-18/). Als je ergens een recensie hebt geplaatst, stuur me dan een mailtje zodat ik je recensie kan vermelden in de podcast.*
 
 *Als je een vraag of een probleem hebt met betrekking tot je online reputatie, stuur dan een mailtje naar [podcast@reputatiecoaching.nl](mailto:podcast@reputatiecoaching.nl) of spreek een boodschap in op de ReputatieCoaching Hotline, op: 084 - 883 15 56. Mogelijk behandel ik je vraag of probleem dan in een artikel of in de podcast.*
 

@@ -3,6 +3,8 @@ title: '164: Spammy backlinks , Google verandert Mijn Bedrijf richtlijnen en Goo
 date: '2016-04-14T05:40:23+00:00'
 description: '**Het is alweer een tijdje geleden dat ik de laatste podcast heb uitgebracht. Dus mocht je je afvragen of je iets hebt gemist in de tussentijd, dan betreft het in elk geval geen content van mij. Ik had namelijk een erg drukke tijd, waarin veel werk verzet moest worden. Helaas moesten mijn publiekelijke online activiteiten voor ReputatieCoaching daarvoor wijken.** Maar goed, ik ben dus weer terug en hoe! Ik heb de pauze van twee maanden ook gebruikt om na te denken over hoe ik nu verder ga met ReputatieCoaching.'
 episode: 164
+kgRef: podcast_episode/reputatiecoaching_164
+source_url: https://www.reputatiecoaching.nl/164
 historical: true
 archivePeriod: 2012–2016
 transcriptStatus: shownotes
@@ -17,11 +19,9 @@ showTaxonomies: false
 
 > **Historisch archief.** Deze aflevering verscheen op 14-04-2016 als onderdeel van ReputatieCoaching (2012–2016). De oorspronkelijke tekst is hieronder historisch bewaard. Diensten, contactgegevens, links, tools en adviezen kunnen inmiddels verouderd zijn.
 
-{{< audio src="https://archive.org/download/20160414-reputatie-coaching-podcast-164/20160414-ReputatieCoaching-Podcast-164.mp3" title="ReputatieCoaching Podcast #164" >}}
-
 **Transcriptiestatus:** Oorspronkelijke shownotes. Vanaf aflevering 153 werd de podcast niet meer volledig uitgeschreven.
 
-\*\*[*Historische afbeelding niet beschikbaar: ReputatieCoaching Podcast*](https://www.reputatiecoaching.nl/wp-content/uploads/2012/12/Reputatie-Coaching-Podcast-logo-200x200.jpg)Het is alweer een tijdje geleden dat ik de laatste podcast heb uitgebracht. Dus mocht je je afvragen of je iets hebt gemist in de tussentijd, dan betreft het in elk geval geen content van mij. Ik had namelijk een erg drukke tijd, waarin veel werk verzet moest worden. Helaas moesten mijn publiekelijke online activiteiten voor ReputatieCoaching daarvoor wijken.\*\*
+\*\*[*Historische afbeelding niet beschikbaar: ReputatieCoaching Podcast*](https://web.archive.org/web/*/https://www.reputatiecoaching.nl/wp-content/uploads/2012/12/Reputatie-Coaching-Podcast-logo-200x200.jpg)Het is alweer een tijdje geleden dat ik de laatste podcast heb uitgebracht. Dus mocht je je afvragen of je iets hebt gemist in de tussentijd, dan betreft het in elk geval geen content van mij. Ik had namelijk een erg drukke tijd, waarin veel werk verzet moest worden. Helaas moesten mijn publiekelijke online activiteiten voor ReputatieCoaching daarvoor wijken.\*\*
 
 Maar goed, ik ben dus weer terug en hoe! Ik heb de pauze van twee maanden ook gebruikt om na te denken over hoe ik nu verder ga met ReputatieCoaching. Let wel: ik zeg “hoe” en niet “of”. Daarover vertel ik je zometeen meer…
 
@@ -35,11 +35,11 @@ En ik sluit de podcast van vandaag af met mijn bevindingen voor een opdrachtgeve
 
 ## I AM BACK
 
-Eerder deze week heb ik het ook al gepost: [ik ben terug](https://www.reputatiecoaching.nl/im-back/)! Ik heb even een drukke tijd achter de rug, zowel in mijn werk voor [Whitespark](http://www.whitespark.ca), als met een verbouwing van onze garage, waar we een trainingsruimte van hebben gemaakt. Niet dat ik aan gewichten ga sjorren, maar een trainingsruimte om mensen te trainen.
+Eerder deze week heb ik het ook al gepost: [ik ben terug](https://web.archive.org/web/*/https://www.reputatiecoaching.nl/im-back/)! Ik heb even een drukke tijd achter de rug, zowel in mijn werk voor [Whitespark](http://www.whitespark.ca), als met een verbouwing van onze garage, waar we een trainingsruimte van hebben gemaakt. Niet dat ik aan gewichten ga sjorren, maar een trainingsruimte om mensen te trainen.
 
 25 mei a.s. heb ik de eerste training: dat is een training Reputatiemanagement voor zorgverleners / medische professionals, dus bijvoorbeeld tandartsen, fysiotherapeuten en dergelijke.
 
-Ben je benieuwd hoe de trainingsruimte eruit ziet? Nou, ik heb het gemakkelijk gemaakt voor je, want ik heb niet slechts een paar “platte” foto’s gemaakt, maar een heuse bedrijfspanorama. Als je virtueel door de trainingsruimte wilt lopen, surf je naar [www.reputatiecoaching.nl/binnenkijken](https://www.reputatiecoaching.nl/binnenkijken). Deze link vind je ook in de show notes op [www.reputatiecoaching.nl/164](https://www.reputatiecoaching.nl/164/).
+Ben je benieuwd hoe de trainingsruimte eruit ziet? Nou, ik heb het gemakkelijk gemaakt voor je, want ik heb niet slechts een paar “platte” foto’s gemaakt, maar een heuse bedrijfspanorama. Als je virtueel door de trainingsruimte wilt lopen, surf je naar [www.reputatiecoaching.nl/binnenkijken](https://web.archive.org/web/*/https://www.reputatiecoaching.nl/binnenkijken). Deze link vind je ook in de show notes op [www.reputatiecoaching.nl/164](/nl/archief/reputatiecoaching/164/).
 
 En in de show notes heb ik ook de virtuele tour opgenomen, zodat je feitelijk niet eens naar de “binnenkijken”-link die ik je zojuist gaf, te gaan:
 
@@ -47,7 +47,7 @@ En in de show notes heb ik ook de virtuele tour opgenomen, zodat je feitelijk ni
 
 Begin dit jaar ontving ik al een paar keer een berichtje van een bepaald bedrijf of ik vrienden wilde worden en me ergens inschrijven en dergelijke. Nu zag ik laatst een overduidelijk geautomatiseerd geposte reactie van datzelfde bedrijf verschijnen op een blogpost hier op ReputatieCoaching.
 
-Je hebt het artikel wellicht gelezen over dat [SEO-bedrijf uit Gouda](https://www.reputatiecoaching.nl/seo-snel-gouda-backlinks-spam/), dat mij uit “wraak” voor mijn 1-ster recensie, meteen ook eentje op de Google Mijn Bedrijf-pagina voor ReputatieCoaching plaatste. Ook ontving ik een mailtje, waarin hij dreigde naar Kassa te gaan om daar iets te posten en dergelijke.
+Je hebt het artikel wellicht gelezen over dat [SEO-bedrijf uit Gouda](https://web.archive.org/web/*/https://www.reputatiecoaching.nl/seo-snel-gouda-backlinks-spam/), dat mij uit “wraak” voor mijn 1-ster recensie, meteen ook eentje op de Google Mijn Bedrijf-pagina voor ReputatieCoaching plaatste. Ook ontving ik een mailtje, waarin hij dreigde naar Kassa te gaan om daar iets te posten en dergelijke.
 
 [![1-ster trol review van SEO-SNEL](20160412-troll-review-seo-snel.png)](/wp-content/uploads/2016/04/20160412-troll-review-seo-snel.png)Inmiddels staat de review er ruim een dag op en is mijn gemiddelde score gezakt van 5.0 naar 4.6. Maar ik vind het wel grappig, temeer daar ik nu eens in de praktijk kon laten zien hoe je moet omgaan met een zogenaamde trol, die een 1-ster review post. En dat ik geen 5.0 als reviewscore heb boeit me dus niet echt. De mensen die de overige reviews lezen en de content op mijn site lezen en de podcast beluisteren weten wel beter en doorzien een dergelijke actie meteen.
 
@@ -129,12 +129,12 @@ Wil jij dat ook? Houd dan het weblog van Whitespark in de gaten, want daar komt 
 Links naar content elders op Internet die in deze podcast aan bod komt:
 
 ```
-  * [ReputatieCoaching Podcast in iTunes](https://www.reputatiecoaching.nl/itunes)
-  * [ReputatieCoaching Podcast op Stitcher](https://www.reputatiecoaching.nl/stitcher)
+  * [ReputatieCoaching Podcast in iTunes](https://web.archive.org/web/*/https://www.reputatiecoaching.nl/itunes)
+  * [ReputatieCoaching Podcast op Stitcher](https://web.archive.org/web/*/https://www.reputatiecoaching.nl/stitcher)
   * [ReputatieCoaching Podcast op TuneIn Radio](http://tunein.com/radio/ReputatieCoaching-Podcast-p655084/)
   * [ReputatieCoaching Podcast RSS-feed](https://feeds.reputatiecoaching.nl/ReputatieCoachingPodcast)
   * [Richtlijnen voor de representatie van uw bedrijf op Google](https://support.google.com/business/answer/3038177?hl=nl) (Google Support)
   * [Lokale bedrijfsfoto's toevoegen](https://support.google.com/business/answer/6103862?hl=nl&ref_topic=6130059) (Google Support)
   * [Fotorichtlijnen voor bulklocaties](https://support.google.com/business/answer/6031953) (Google Support)
-  * [Binnenkijken in de trainingsruimte van de ReputatieCoach](https://www.reputatiecoaching.nl/binnenkijken) (Google Streetview)
+  * [Binnenkijken in de trainingsruimte van de ReputatieCoach](https://web.archive.org/web/*/https://www.reputatiecoaching.nl/binnenkijken) (Google Streetview)
 ```

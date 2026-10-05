@@ -3,6 +3,8 @@ title: '37: Corpus Justitia ter ziele en de podcast verhuist. Pinterest of Insta
 date: '2013-08-12T06:30:17+00:00'
 description: Hallo, hallo!! Mijn naam is Eduard de Boer –bekend als de ReputatieCoach– en ik heet je van harte welkom bij deze 37e ReputatieCoaching Podcast. In deze podcast geef ik je tips en adviezen waarmee je meer business kunt doen door op de juiste manier aan je reputatie te werken, je online vindbaarheid te verbeteren en het optimaliseren van je website voor zowel gebruikers, als voor de zoekmachines. Het was een drukke week in meerdere opzichten… Daarover straks meer.
 episode: 37
+kgRef: podcast_episode/reputatiecoaching_037
+source_url: https://www.reputatiecoaching.nl/37
 historical: true
 archivePeriod: 2012–2016
 transcriptStatus: full
@@ -16,8 +18,6 @@ showTaxonomies: false
 ---
 
 > **Historisch archief.** Deze aflevering verscheen op 12-08-2013 als onderdeel van ReputatieCoaching (2012–2016). De oorspronkelijke tekst is hieronder historisch bewaard. Diensten, contactgegevens, links, tools en adviezen kunnen inmiddels verouderd zijn.
-
-{{< audio src="https://archive.org/download/20130812-reputatie-coaching-podcast-037/20130812-ReputatieCoaching-Podcast-037.mp3" title="ReputatieCoaching Podcast #037" >}}
 
 **Transcriptiestatus:** Volledige transcriptie uit het oorspronkelijke archief.
 
@@ -146,7 +146,7 @@ Op technisch gebied is er een nieuwe audio/video API gekomen, die je toegang gee
 
 ## Claim je Google Authorship nu!
 
-Google Authorship stelt je in staat om content die je publiceert te relateren aan jou, als originele auteur. Ik heb er al vaker op gehamerd, dat er meerdere redenen zijn om dit te doen. Naast dat dit het aantal clicks op de getoonde zoekresultaten verhoogt, heb ik ooit al eens meer redenen gegeven om [Google Authorship in te stellen](https://www.reputatiecoaching.nl/wiki/google-authorship/). Afgelopen week las ik een artikel, waarin ik nóg een reden tegenkwam voor jou om zo snel mogelijk Google Authorship voor jouw content te activeren.
+Google Authorship stelt je in staat om content die je publiceert te relateren aan jou, als originele auteur. Ik heb er al vaker op gehamerd, dat er meerdere redenen zijn om dit te doen. Naast dat dit het aantal clicks op de getoonde zoekresultaten verhoogt, heb ik ooit al eens meer redenen gegeven om [Google Authorship in te stellen](https://web.archive.org/web/*/https://www.reputatiecoaching.nl/wiki/google-authorship/). Afgelopen week las ik een artikel, waarin ik nóg een reden tegenkwam voor jou om zo snel mogelijk Google Authorship voor jouw content te activeren.
 
 In het artikel wordt namelijk beschreven dat een site-eigenaar zijn content op andere sites tegenkwam, die niet van hemzelf waren. Met andere woorden: er werd dus plagiaat gepleegd met zijn content! Terwijl de originele auteur geen Google Authorship had ingesteld, hadden de fraudeurs dat wel gedaan op de gekopieerde content.
 
@@ -156,7 +156,7 @@ Hoewel niemand buiten Google kan zeggen of op dit moment Google Authorship al al
 
 ## Overig Google nieuws
 
-En nu we het toch over Google hebben. In podcasts [14](https://www.reputatiecoaching.nl/14/) en [32](https://www.reputatiecoaching.nl/32/) had ik het onder andere over mobiele websites en responsive webdesign. Toen vertelde ik dat het steeds belangrijker wordt om je website ook op mobiele apparaten goed te tonen voor een betere gebruikerservaring en daarmee mogelijk ook een hogere positie in de zoekresultaten. En in podcast 31 vertelde ik dat ook [laadsnelheid van je pagina’s](https://www.reputatiecoaching.nl/31/) een factor is, die steeds meer in waarde toeneemt.
+En nu we het toch over Google hebben. In podcasts [14](/nl/archief/reputatiecoaching/014/) en [32](/nl/archief/reputatiecoaching/032/) had ik het onder andere over mobiele websites en responsive webdesign. Toen vertelde ik dat het steeds belangrijker wordt om je website ook op mobiele apparaten goed te tonen voor een betere gebruikerservaring en daarmee mogelijk ook een hogere positie in de zoekresultaten. En in podcast 31 vertelde ik dat ook [laadsnelheid van je pagina’s](/nl/archief/reputatiecoaching/031/) een factor is, die steeds meer in waarde toeneemt.
 
 Afgelopen week heeft Google ook haar richtlijnen ten aanzien van mobiele sites aangepast. Hierbij wordt de laadsnelheid en alle daaraan gerelateerde vereisten heel duidelijk beschreven. In de show notes heb ik de link opgenomen naar de pagina “[Mobile Analysis in PageSpeed Insights](https://developers.google.com/speed/docs/insights/mobile/)” op de Google PageSpeed site.
 
@@ -204,9 +204,9 @@ Hiermee kom ik dan weer aan het einde van de podcast van vandaag. Als je de podc
 
 Als je een vraag of een probleem hebt met betrekking tot je online reputatie of de vindbaarheid van je website, kun je een mailtje sturen naar [podcast@reputatiecoaching.nl](mailto:podcast@reputatiecoaching.nl). Als je dat te lastig vindt, of als je de podcast beluistert terwijl je in de auto zit en je hebt acuut een vraag, spreek dan een boodschap in op de ReputatieCoaching Hotline, op nummer: 084 - 883 15 56. Mogelijk behandel ik je vraag of probleem dan in een artikel of in de podcast.
 
-Als laatste kun je je ook inschrijven voor de nieuwsbrief. Dan ontvang je altijd als eerste het laatste nieuws wat ik publiceer en automatisch elk kwartaal het ReputatieCoaching Podcast Boek van het afgelopen kwartaal. Surf daartoe naar [www.reputatiecoaching.nl/nieuwsbrief](https://www.reputatiecoaching.nl/nieuwsbrief) en schrijf je meteen in.
+Als laatste kun je je ook inschrijven voor de nieuwsbrief. Dan ontvang je altijd als eerste het laatste nieuws wat ik publiceer en automatisch elk kwartaal het ReputatieCoaching Podcast Boek van het afgelopen kwartaal. Surf daartoe naar [www.reputatiecoaching.nl/nieuwsbrief](https://web.archive.org/web/*/https://www.reputatiecoaching.nl/nieuwsbrief) en schrijf je meteen in.
 
-En je kunt rechtstreeks op de website een voicemail achterlaten, door op de tab aan de rechterkant van elke pagina te klikken, en je bericht in te spreken. Dit was [ReputatieCoaching Podast aflevering 37](https://www.reputatiecoaching.nl/37) en mijn naam is [Eduard de Boer](http://nl.linkedin.com/in/eduarddeboer).
+En je kunt rechtstreeks op de website een voicemail achterlaten, door op de tab aan de rechterkant van elke pagina te klikken, en je bericht in te spreken. Dit was [ReputatieCoaching Podast aflevering 37](/nl/archief/reputatiecoaching/037/) en mijn naam is [Eduard de Boer](http://nl.linkedin.com/in/eduarddeboer).
 
 Ik wens je de komende week weer succes met het werken aan je reputatie, zodat je meteen je reputatie voor jou kunt laten werken!
 
@@ -226,5 +226,5 @@ Doei!
   * “[21% Of Pinterest Users Bought Pinned Products In Stores](http://blog.sweetiq.com/2013/08/21-of-pinterest-users-bought-pinned-products-in-stores/)” (SweetIQ, 6 augustus 2013)
   * “[Mobile Analysis in PageSpeed Insights](https://developers.google.com/speed/docs/insights/mobile/)” (Google PageSpeed, 6 augustus 2013)
   * “[Is Google Authorship Affecting Rankings Today?](http://searchengineland.com/is-google-authorship-affecting-rankings-today-168230)” (Search Engine Land, 8 augustus 2013)
-  * “[Corpus Justitia: slechte reputatie door fraude met spookfactuur/aanmaning](https://www.reputatiecoaching.nl/corpus-justitia-fraude-met-spookfactuur/)” (ReputatieCoaching, 8 augustus 2013)[/info_box]
+  * “[Corpus Justitia: slechte reputatie door fraude met spookfactuur/aanmaning](https://web.archive.org/web/*/https://www.reputatiecoaching.nl/corpus-justitia-fraude-met-spookfactuur/)” (ReputatieCoaching, 8 augustus 2013)[/info_box]
 ```

@@ -3,6 +3,8 @@ title: '53: 208.395 woorden in 52 weken, Google brengt Review management tool, M
 date: '2013-12-02T07:30:05+00:00'
 description: Morgen is het op de kop af een jaar geleden dat ik mijn eerste podcast uitbracht en oh, wat vond ik dat toen spannend! Inmiddels zijn we 52 afleveringen verder en is het maken van de podcast eigenlijk routine geworden. Dat wil niet zeggen dat elke podcast binnen no-time gemaakt is, maar ik heb mijn werkwijze aardig vastomlijnd en geoptimaliseerd, waardoor de benodigde tijd en inspanning is teruggebracht. De podcast van vandaag begin ik met een terugblik, wat statistieken en een korte samenvatting van mijn bevindingen na één jaar podcasten over online reputatiecoaching en reputatiemanagement.
 episode: 53
+kgRef: podcast_episode/reputatiecoaching_053
+source_url: https://www.reputatiecoaching.nl/53
 historical: true
 archivePeriod: 2012–2016
 transcriptStatus: full
@@ -17,12 +19,10 @@ showTaxonomies: false
 
 > **Historisch archief.** Deze aflevering verscheen op 2-12-2013 als onderdeel van ReputatieCoaching (2012–2016). De oorspronkelijke tekst is hieronder historisch bewaard. Diensten, contactgegevens, links, tools en adviezen kunnen inmiddels verouderd zijn.
 
-{{< audio src="https://archive.org/download/20131202-reputatie-coaching-podcast-053/20131202-ReputatieCoaching-Podcast-053.mp3" title="ReputatieCoaching Podcast #053" >}}
-
 **Transcriptiestatus:** Volledige transcriptie uit het oorspronkelijke archief.
 
 ***Historische afbeelding niet beschikbaar: ReputatieCoaching Podcast*
-Morgen is het op de kop af een jaar geleden dat ik mijn [eerste podcast](https://www.reputatiecoaching.nl/53/) uitbracht en oh, wat vond ik dat toen spannend! Inmiddels zijn we 52 afleveringen verder en is het maken van de podcast eigenlijk routine geworden. Dat wil niet zeggen dat elke podcast binnen no-time gemaakt is, maar ik heb mijn werkwijze aardig vastomlijnd en geoptimaliseerd, waardoor de benodigde tijd en inspanning is teruggebracht.**
+Morgen is het op de kop af een jaar geleden dat ik mijn [eerste podcast](/nl/archief/reputatiecoaching/053/) uitbracht en oh, wat vond ik dat toen spannend! Inmiddels zijn we 52 afleveringen verder en is het maken van de podcast eigenlijk routine geworden. Dat wil niet zeggen dat elke podcast binnen no-time gemaakt is, maar ik heb mijn werkwijze aardig vastomlijnd en geoptimaliseerd, waardoor de benodigde tijd en inspanning is teruggebracht.**
 
 **De podcast van vandaag begin ik met een terugblik, wat statistieken en een korte samenvatting van mijn bevindingen na één jaar podcasten over online reputatiecoaching en reputatiemanagement. Eerder afgelopen week heeft Google de markt verrast door het uitbrengen van een reviewmanagement tool, was het bedrijf in het NOS-journaal van 20:00 uur ’s avonds vanwege alle gegevens die het verzamelt en heeft het Google Map Maker weer online gezet.**
 
@@ -42,13 +42,13 @@ Een kort lijstje met wat statistieken van het afgelopen jaar:
 
 ```
   * Ik heb 131 blogberichten gepost en dat is inclusief de 52 transcripties van de podcasts. Dus moet ik die er van aftrekken. Dan blijven er 79 over. Dat is gemiddeld anderhalf blogbericht per week.
-  * In totaal heb ik op de site [www.reputatiecoaching.nl](/) tot en met eerder vanmorgen 208.395 woorden geschreven. Dat is -geloof ik- een goede 20.000 woorden meer dan het Nieuwe Testament in de Bijbel en dit komt neer op gemiddeld 570 woorden per dag en 1.590 woorden per blogpost.
+  * In totaal heb ik op de site [www.reputatiecoaching.nl](https://web.archive.org/web/*/https://www.reputatiecoaching.nl/) tot en met eerder vanmorgen 208.395 woorden geschreven. Dat is -geloof ik- een goede 20.000 woorden meer dan het Nieuwe Testament in de Bijbel en dit komt neer op gemiddeld 570 woorden per dag en 1.590 woorden per blogpost.
   * Ik heb 39 podcasts in video vorm uitgebracht, wat geen succes is geworden.
   * De tientallen instructievideo’s zijn wel weer populair.
   * De 3 uitgebrachte ReputatieCoaching Podcast boeken zijn ook honderden keren bekeken.
 ```
 
-Dit waren zo maar wat statistieken. Soms kan een bepaald stuk content opeens ontzettend populair worden. Ik zal niet gelijk claimen dat content van mij viraal is gegaan, maar de instructievideo die ik 31 mei van dit jaar heb gemaakt over het [uitsnijden van een object in een foto](https://www.reputatiecoaching.nl/foto-uitsnijden-achtergrond-verwijderen-instructievideo/), is toch al meer dan 2.100 keer bekeken! Dat is ook veruit de meest populaire video. Hij is zelfs meer bekeken dan de video waarin ik [Corpus Justitia](http://www.corpusjustitia.nl) ontmaskerde.
+Dit waren zo maar wat statistieken. Soms kan een bepaald stuk content opeens ontzettend populair worden. Ik zal niet gelijk claimen dat content van mij viraal is gegaan, maar de instructievideo die ik 31 mei van dit jaar heb gemaakt over het [uitsnijden van een object in een foto](https://web.archive.org/web/*/https://www.reputatiecoaching.nl/foto-uitsnijden-achtergrond-verwijderen-instructievideo/), is toch al meer dan 2.100 keer bekeken! Dat is ook veruit de meest populaire video. Hij is zelfs meer bekeken dan de video waarin ik [Corpus Justitia](http://www.corpusjustitia.nl) ontmaskerde.
 
 Daarentegen zijn de podcast video’s amper bekeken: slechts een handjevol views hier en daar. Dus na het in video uitbrengen van podcast 39, ben ik daarmee gestopt. Dit wil echter absoluut niet zeggen dat ik geen heil zie in video. Het enige wat ik hier uit kan concluderen, is dat het type video zoals ik het heb gemaakt, bestaande uit een openingsslide en een slide met een spreuk het publiek niet voldoende aanspreekt om op te klikken, of om naar te luisteren. Daarom ga ik ook zeker door met het maken van andersoortige video’s!
 
@@ -70,13 +70,13 @@ Afgelopen week verraste Google de markt door een nieuwe en nuttige tool uit te b
 
 Daar heb je sinds deze week de mogelijkheid om alle recensies op Google+ te bekijken, erop te reageren en kun je statistieken van je recensies bekijken.
 
-Als je hier meer over wilt weten, of wilt weten hoe deze nieuwe reviewmanagement tool er uitziet, dan adviseer ik je om de [nieuwsflitsvideo](https://www.reputatiecoaching.nl/review-management-in-google-places-zakelijk/) te bekijken, die ik eerder deze week online heb gezet. De link naar het artikel met deze video kun je vinden in de show notes. Zoals altijd kun je de volledige transcriptie van de podcast nalezen op de website. De transcriptie voor deze podcast vind je op [www.reputatiecoaching.nl/53](https://www.reputatiecoaching.nl/53/).
+Als je hier meer over wilt weten, of wilt weten hoe deze nieuwe reviewmanagement tool er uitziet, dan adviseer ik je om de [nieuwsflitsvideo](https://web.archive.org/web/*/https://www.reputatiecoaching.nl/review-management-in-google-places-zakelijk/) te bekijken, die ik eerder deze week online heb gezet. De link naar het artikel met deze video kun je vinden in de show notes. Zoals altijd kun je de volledige transcriptie van de podcast nalezen op de website. De transcriptie voor deze podcast vind je op [www.reputatiecoaching.nl/53](/nl/archief/reputatiecoaching/053/).
 
 Wat echter nog interessanter is, is dat de tool ook recensies van andere sites op Internet vertoont. Althans, ik zag ze nog niet voor Allround Fotografie, maar wel voor een [tandarts uit Apeldoorn](https://plus.google.com/+WKTandartsenNL/about). Voor die tandarts werden alleen nog maar reviews gevonden op independer.nl. De tool lijkt dus in elk geval nog in ontwikkeling, maar ja, dat is alles wat Google op de markt brengt en heeft gebracht: dat is continu aan verandering onderhevig. Zo werken in deze tool de links naar de andere reviews op Internet nog niet naar behoren.
 
 ## Google Map Maker weer online
 
-Sinds vorige week was [Google Map Maker offline](https://www.reputatiecoaching.nl/google-mapmaker-tijdelijk-uit-de-lucht-en-google-maps-toont-3-bedrijven/). Of beter gezegd: je kon geen wijzigingen doorvoeren en ook geen wijzigingen beoordelen. De site was dus in “read-only” mode. Inmiddels is de site weer live. Visueel lijkt er niet echt veel veranderd, maar wat ik begrijp waren de veranderingen voornamelijk in de achterliggende systemen, omdat Google naar één bron wilde voor alle mapgegevens. Die zou namelijk nog verdeeld zijn over 4 bronnen.
+Sinds vorige week was [Google Map Maker offline](https://web.archive.org/web/*/https://www.reputatiecoaching.nl/google-mapmaker-tijdelijk-uit-de-lucht-en-google-maps-toont-3-bedrijven/). Of beter gezegd: je kon geen wijzigingen doorvoeren en ook geen wijzigingen beoordelen. De site was dus in “read-only” mode. Inmiddels is de site weer live. Visueel lijkt er niet echt veel veranderd, maar wat ik begrijp waren de veranderingen voornamelijk in de achterliggende systemen, omdat Google naar één bron wilde voor alle mapgegevens. Die zou namelijk nog verdeeld zijn over 4 bronnen.
 
 Dit leverde allerhande vervelende synchronisatieproblemen op, waardoor het kon gebeuren dat wijzigingen die je zelf had aangebracht in je bedrijfsgegevens, een paar dagen later weer door één of andere synchronisatiebot van Google werden overschreven, omdat Google ergens op Internet weer nieuwe gegevens over je bedrijf had gevonden. Dat zou nu dus tot het verleden moeten behoren.
 
@@ -196,9 +196,9 @@ Als je de podcast leuk vindt en je hebt inderdaad wat aan alle informatie die ik
 
 Als je een vraag of een probleem hebt met betrekking tot je online reputatie of de vindbaarheid van je website, kun je een mailtje sturen naar [podcast@reputatiecoaching.nl](mailto:podcast@reputatiecoaching.nl). Als je dat te lastig vindt, of als je de podcast beluistert terwijl je in de auto zit en je hebt acuut een vraag, spreek dan een boodschap in op de ReputatieCoaching Hotline, op nummer: 084 - 883 15 56. Mogelijk behandel ik je vraag of probleem dan in een artikel of in de podcast.
 
-Als laatste kun je je ook inschrijven voor de nieuwsbrief. Dan ontvang je altijd als eerste het laatste nieuws wat ik publiceer en automatisch elk kwartaal het ReputatieCoaching Podcast Boek van het afgelopen kwartaal. Surf daartoe naar [www.reputatiecoaching.nl/nieuwsbrief/](https://www.reputatiecoaching.nl/nieuwsbrief/) en schrijf je meteen in.
+Als laatste kun je je ook inschrijven voor de nieuwsbrief. Dan ontvang je altijd als eerste het laatste nieuws wat ik publiceer en automatisch elk kwartaal het ReputatieCoaching Podcast Boek van het afgelopen kwartaal. Surf daartoe naar [www.reputatiecoaching.nl/nieuwsbrief/](https://web.archive.org/web/*/https://www.reputatiecoaching.nl/nieuwsbrief/) en schrijf je meteen in.
 
-En je kunt ook rechtstreeks op de website een voicemail achterlaten, door op de tab aan de rechterkant van elke pagina te klikken, en je bericht in te spreken. Dit was [ReputatieCoaching Podcast aflevering 53](https://www.reputatiecoaching.nl/53/) en mijn naam is [Eduard de Boer](http://nl.linkedin.com/in/eduarddeboer/nl).
+En je kunt ook rechtstreeks op de website een voicemail achterlaten, door op de tab aan de rechterkant van elke pagina te klikken, en je bericht in te spreken. Dit was [ReputatieCoaching Podcast aflevering 53](/nl/archief/reputatiecoaching/053/) en mijn naam is [Eduard de Boer](http://nl.linkedin.com/in/eduarddeboer/nl).
 
 Ik wens je de komende week weer succes met het werken aan je reputatie, zodat je meteen je reputatie voor jou kunt laten werken!
 

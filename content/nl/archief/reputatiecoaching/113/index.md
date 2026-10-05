@@ -3,6 +3,8 @@ title: '113: Degradatie voor mobielonvriendelijke sites in Google, Lokale SEO in
 date: '2015-01-29T07:30:06+00:00'
 description: 'Vorige week heb ik mijn werkplek in Apeldoorn verruild voor een remote werkplek: een ligbed op het strand in Gambia, met WiFi! Zometeen dan ook meer over lokale SEO in Gambia. Verder heb ik een aantal positieve reacties gekregen op de mail die ik eerder deze week naar alle abonnees heb verstuurd. Als gevolg daarvan had ik gisteren een interessant onderhoud met “De Automotive Coach” van Nederland. Voor de rest is de podcast van vandaag behoorlijk Google-centrisch.'
 episode: 113
+kgRef: podcast_episode/reputatiecoaching_113
+source_url: https://www.reputatiecoaching.nl/113
 historical: true
 archivePeriod: 2012–2016
 transcriptStatus: full
@@ -17,8 +19,6 @@ showTaxonomies: false
 
 > **Historisch archief.** Deze aflevering verscheen op 29-01-2015 als onderdeel van ReputatieCoaching (2012–2016). De oorspronkelijke tekst is hieronder historisch bewaard. Diensten, contactgegevens, links, tools en adviezen kunnen inmiddels verouderd zijn.
 
-{{< audio src="https://archive.org/download/20150129-reputatie-coaching-podcast-113/20150129-ReputatieCoaching-Podcast-113.mp3" title="ReputatieCoaching Podcast #113" >}}
-
 **Transcriptiestatus:** Volledige transcriptie uit het oorspronkelijke archief.
 
 ***Historische afbeelding niet beschikbaar: ReputatieCoaching Podcast*
@@ -26,7 +26,7 @@ Vorige week heb ik mijn werkplek in Apeldoorn verruild voor een remote werkplek:
 
 Hallo en hartelijk welkom bij deze aflevering van de ReputatieCoaching Podcast. Ik ben Eduard de Boer, ReputatieCoach. Dit is dé podcast die jou helpt om meer business te genereren, doordat jouw website beter gevonden wordt, zowel lokaal als landelijk en doordat ik je uitleg hoe je je online reputatie kunt verbeteren. Dit alles draagt ertoe bij dat je je bedrijf en jezelf beter op de online kaart plaatst..
 
-De podcast kun je vinden op [www.reputatiecoaching.nl/113](https://www.reputatiecoaching.nl/113/). Daar vind je niet alleen de tekst, maar ook video’s waar ik het in deze uitzending over heb, alsmede afbeeldingen, links enzovoorts. Bovendien is de podcast te beluisteren in [iTunes](https://www.reputatiecoaching.nl/itunes), op [Stitcher](https://www.reputatiecoaching.nl/stitcher) en ook op [TuneIn Radio](http://tunein.com/radio/ReputatieCoaching-Podcast-p655084/). Daar kun je je dus ook abonneren op de wekelijkse podcast.
+De podcast kun je vinden op [www.reputatiecoaching.nl/113](/nl/archief/reputatiecoaching/113/). Daar vind je niet alleen de tekst, maar ook video’s waar ik het in deze uitzending over heb, alsmede afbeeldingen, links enzovoorts. Bovendien is de podcast te beluisteren in [iTunes](https://web.archive.org/web/*/https://www.reputatiecoaching.nl/itunes), op [Stitcher](https://web.archive.org/web/*/https://www.reputatiecoaching.nl/stitcher) en ook op [TuneIn Radio](http://tunein.com/radio/ReputatieCoaching-Podcast-p655084/). Daar kun je je dus ook abonneren op de wekelijkse podcast.
 
 Laat ik dan nu overgaan op de onderwerpen voor vandaag…
 
@@ -89,7 +89,7 @@ Zo trekt hij alle verkeer op de zoektermen dat anders naar e-act.nl gaat, naar z
 
 Dit is weer een schoolvoorbeeld van het belang van “owned content”. Natuurlijk is het prima om te gastbloggen, maar zorg ervoor dat het grootste deel van jouw eigen unieke, interessante en waardevolle content op je eigen site staat, zodat het door de zoekmachines kan worden geassocieerd met jouw site en jouw bedrijf. Zo zorg je ervoor dat jouw bedrijf dus veel beter zichtbaar en vindbaar wordt!
 
-Dan heb ik nog een bonustip, die ik ook al eens in [podcast 17](https://www.reputatiecoaching.nl/17/) heb genoemd. Als je eenmaal een aantal blogberichten online hebt staan op je WordPress site, installeer dan de plugin YARPP. Dat staat voor “Yet Another Related Posts Plugin”. Deze plugin vertoont op basis van je tags, categorieën en content onderaan elke blogpost een door jou opgegeven aantal gerelateerde berichten. Dit leidt vaak tot meer bezochte pagina’s en langere verblijfsduur van bezoekers op je site.
+Dan heb ik nog een bonustip, die ik ook al eens in [podcast 17](/nl/archief/reputatiecoaching/017/) heb genoemd. Als je eenmaal een aantal blogberichten online hebt staan op je WordPress site, installeer dan de plugin YARPP. Dat staat voor “Yet Another Related Posts Plugin”. Deze plugin vertoont op basis van je tags, categorieën en content onderaan elke blogpost een door jou opgegeven aantal gerelateerde berichten. Dit leidt vaak tot meer bezochte pagina’s en langere verblijfsduur van bezoekers op je site.
 
 ## Wetenswaardige feitjes over reviews op Google+
 
@@ -111,7 +111,7 @@ Ja, het is vandaag een beetje een Google-centrische podcast, dat heb ik al aange
 
 [![Problemen met mobiele bruikbaarheid e-mail van Google](20150129-mobiele-bruikbaarheid.jpg)](https://lh4.googleusercontent.com/-V00aZA5X9Sc/VMkkc4ZvNCI/AAAAAAAABro/nrdgBDzf2tE/w640/20150129-mobiele-bruikbaarheid.jpg)
 
-De volledige mail heb ik opgenomen in de show notes op [www.reputatiecoaching.nl/113](https://www.reputatiecoaching.nl/113/), maar ik geef je hier in de podcast alleen even de intro:
+De volledige mail heb ik opgenomen in de show notes op [www.reputatiecoaching.nl/113](/nl/archief/reputatiecoaching/113/), maar ik geef je hier in de podcast alleen even de intro:
 
 Zoals je verder kunt zien in de mail in de show notes geeft Google meteen ook een aantal adviezen over hoe je je site wèl mobielvriendelijk kunt maken.
 
@@ -165,7 +165,7 @@ Veel webservers vertonen dan de standaard tekst: “404 NOT FOUND”. Dat is nat
 
 Daarom is het een zogenaamde “best practice” of goed gebruik om een bezoekersvriendelijke 404 errorpagina te maken, waarop je links zet naar diverse relevante delen van je site, zoals je contactpagina, de categorieën, mogelijk diverse recente blogberichten en wat dies meer zij.
 
-In de show notes op [www.reputatiecoaching.nl/113](https://www.reputatiecoaching.nl/113/) heb ik een screenshot opgenomen van de pagina die op ReputatieCoaching.nl wordt vertoond, als een niet bestaande URL wordt geraadpleegd:
+In de show notes op [www.reputatiecoaching.nl/113](/nl/archief/reputatiecoaching/113/) heb ik een screenshot opgenomen van de pagina die op ReputatieCoaching.nl wordt vertoond, als een niet bestaande URL wordt geraadpleegd:
 
 [![Pagina-niet-gevonden-ReputatieCoaching](Pagina-niet-gevonden-ReputatieCoaching.png)](/wp-content/uploads/2015/01/Pagina-niet-gevonden-ReputatieCoaching.png)
 
@@ -213,7 +213,7 @@ Met deze update over het “recht om vergeten te worden” kom ik dan weer aan h
 
 En heb je het helemaal tot hier volgehouden met luisteren, help mij dan de podcast onder de aandacht te brengen van een breder publiek. Ik weet namelijk zeker dat meer mensen in jouw omgeving echt hun voordeel kunnen doen met wat ik zoal vertel en publiceer.
 
-Volg mij daartoe op Twitter, via [@reputatiecoach1](https://twitter.com/reputatiecoach1). Surf naar [iTunes](https://www.reputatiecoaching.nl/itunes) of [Stitcher](https://www.reputatiecoaching.nl/stitcher), geef de podcast een sterrenbeoordeling en laat ook je reactie achter. Dat helpt echt!
+Volg mij daartoe op Twitter, via [@reputatiecoach1](https://twitter.com/reputatiecoach1). Surf naar [iTunes](https://web.archive.org/web/*/https://www.reputatiecoaching.nl/itunes) of [Stitcher](https://web.archive.org/web/*/https://www.reputatiecoaching.nl/stitcher), geef de podcast een sterrenbeoordeling en laat ook je reactie achter. Dat helpt echt!
 
 Oh en voordat ik het vergeet: ik kreeg eerder deze week ook de vraag waar de RSS-feed van de podcast te vinden is… Blijkbaar heb ik die niet duidelijk weergegeven, want die staat namelijk onderaan elke podcast. Op die manier kun je ook al het nieuws en alle podcasts in de gaten houden! Vanaf dit moment heeft de RSS-feed een prominentere plaats, want hij staat nu bovenaan elke pagina tussen de overige social media icoontjes! Er is er eentje weggevallen en dat is die van Flickr, maar als ik eerlijk ben had die eigenlijk niet veel nut. De RSS-feed is veel belangrijker!
 
@@ -223,7 +223,7 @@ En vergeet niet: ik ben hier om ook JOU te helpen! Als JIJ een vraag of een prob
 
 Als je dat te lastig vindt, of als je de podcast beluistert terwijl je in de auto zit en je hebt acuut een vraag, spreek dan een boodschap in op de ReputatieCoaching Hotline, op nummer: 084 - 883 15 56. Mogelijk behandel ik je vraag of probleem dan in een artikel of in de podcast.
 
-En je kunt ook rechtstreeks op de website een voicemail achterlaten, door op de tab aan de rechterkant van elke pagina te klikken, en je bericht in te spreken. Dit was [ReputatieCoaching Podcast aflevering 113](https://www.reputatiecoaching.nl/113/) en mijn naam is [Eduard de Boer](http://nl.linkedin.com/in/eduarddeboer/nl).
+En je kunt ook rechtstreeks op de website een voicemail achterlaten, door op de tab aan de rechterkant van elke pagina te klikken, en je bericht in te spreken. Dit was [ReputatieCoaching Podcast aflevering 113](/nl/archief/reputatiecoaching/113/) en mijn naam is [Eduard de Boer](http://nl.linkedin.com/in/eduarddeboer/nl).
 
 Ik wens je de komende week weer succes met het werken aan je reputatie, zodat je meteen je reputatie voor jou kunt laten werken!
 
@@ -234,8 +234,8 @@ Doei!
 Links naar content die in deze podcast aan bod komt:
 
 ```
-  * [ReputatieCoaching Podcast in iTunes](https://www.reputatiecoaching.nl/itunes)
-  * [ReputatieCoaching Podcast op Stitcher](https://www.reputatiecoaching.nl/stitcher)
+  * [ReputatieCoaching Podcast in iTunes](https://web.archive.org/web/*/https://www.reputatiecoaching.nl/itunes)
+  * [ReputatieCoaching Podcast op Stitcher](https://web.archive.org/web/*/https://www.reputatiecoaching.nl/stitcher)
   * [ReputatieCoaching Podcast op TuneIn Radio](http://tunein.com/radio/ReputatieCoaching-Podcast-p655084/)
   * [ReputatieCoaching Podcast RSS-feed](https://feeds.reputatiecoaching.nl/ReputatieCoachingPodcast)
   * [Google MapMaker](https://www.google.com/mapmaker)

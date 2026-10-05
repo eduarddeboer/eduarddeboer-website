@@ -3,6 +3,8 @@ title: '46: Klout-orship op Bing, nieuws van Yelp, Foursquare en Google en een i
 date: '2013-10-14T06:30:12+00:00'
 description: De podcast van vandaag begin ik met “Klout-orship”. Nee, geen “Authorship” maar inderdaad “Klout-orship”. Als je wilt weten wat dat nu weer is, blijf dan zeker luisteren! Dan is er weer nieuws over Yelp, Foursquare en Google, gevolgd door twee video’s van Matt Cutts. Als laatste heb ik vandaag Robert Spakman in de show voor een interview. Robert is oprichter en directeur van Rooomer.com, het bedrijf achter MeetingroomReview.com, waar ik het vorige week over had.
 episode: 46
+kgRef: podcast_episode/reputatiecoaching_046
+source_url: https://www.reputatiecoaching.nl/46
 historical: true
 archivePeriod: 2012–2016
 transcriptStatus: full
@@ -17,8 +19,6 @@ showTaxonomies: false
 
 > **Historisch archief.** Deze aflevering verscheen op 14-10-2013 als onderdeel van ReputatieCoaching (2012–2016). De oorspronkelijke tekst is hieronder historisch bewaard. Diensten, contactgegevens, links, tools en adviezen kunnen inmiddels verouderd zijn.
 
-{{< audio src="https://archive.org/download/20131014-reputatie-coaching-podcast-046/20131014-ReputatieCoaching-Podcast-046.mp3" title="ReputatieCoaching Podcast #046" >}}
-
 **Transcriptiestatus:** Volledige transcriptie uit het oorspronkelijke archief.
 
 ***Historische afbeelding niet beschikbaar: ReputatieCoaching Podcast*
@@ -26,7 +26,7 @@ De podcast van vandaag begin ik met “Klout-orship”. Nee, geen “Authorship�
 
 ## “Klout-orship” op Bing
 
-In de introductie noemde ik al “Klout-orship”. Ik refereerde daarmee niet aan Google Authorship. Over [Google Authorship instellen](https://www.reputatiecoaching.nl/wiki/google-authorship/) heb ik al vaker geschreven. En lang geleden, in [podcast 8](https://www.reputatiecoaching.nl/8/) heb ik je al eens verteld over Klout.
+In de introductie noemde ik al “Klout-orship”. Ik refereerde daarmee niet aan Google Authorship. Over [Google Authorship instellen](https://web.archive.org/web/*/https://www.reputatiecoaching.nl/wiki/google-authorship/) heb ik al vaker geschreven. En lang geleden, in [podcast 8](/nl/archief/reputatiecoaching/008/) heb ik je al eens verteld over Klout.
 
 Klout is een systeem wat op basis van jouw online activiteit en contacten etc. je een score van 1 tot 100 geeft, wat een indicatie is voor de mate waarin je anderen online kunt beïnvloeden. Op 21 januari, toen ik podcast 8 uitbracht, lag mijn Klout score rond de 51 à 52. Op dit moment is die 50. Dus blijkbaar heb ik mijn invloedssferen de afgelopen maanden nog niet echt vergroot.
 
@@ -34,7 +34,7 @@ Tot op heden heb ik altijd een beetje argwanend naar Klout gekeken, omdat ik me 
 
 Dit artikel beschrijft de koppeling tussen Klout en Bing, waarbij de Klout-gegevens die jij als openbaar markeert, worden getoond in de Bing zoekresultaten. OK, Bing is bij lange na niet zo populair als Google, maar toch zijn er ook mensen die Bing gebruiken voor hun zoektochten op Internet. En daarom is het natuurlijk altijd goed om je ook op Bing goed te presenteren en te profileren.
 
-Ik heb [2-factor authenticatie aanstaan](https://www.reputatiecoaching.nl/2-factor-authenticatie-op-linkedin-instellen/) op mijn LinkedIn profiel. Dus als ik dan wil inloggen moet ik mijn e-mailadres en wachtwoord invullen, waarna ik een SMS-je krijg met een extra code die ik ook moet invullen.
+Ik heb [2-factor authenticatie aanstaan](https://web.archive.org/web/*/https://www.reputatiecoaching.nl/2-factor-authenticatie-op-linkedin-instellen/) op mijn LinkedIn profiel. Dus als ik dan wil inloggen moet ik mijn e-mailadres en wachtwoord invullen, waarna ik een SMS-je krijg met een extra code die ik ook moet invullen.
 
 Echter, als gevolg van een storing met ofwel mijn iPhone, ofwel de verbinding met T-Mobile, kon ik tijdens het maken van deze podcast niet inloggen om dit zelf uit te proberen. T-Mobile krijgt van mij wel de pluim van de week, die ik al een tijd niet meer heb uitgedeeld. De reden dat de “Pluim van de week” naar T-Mobile gaat, is dat zij zelfs op zondagmiddag keurig en adequaat mij via Twitter proberen te helpen het probleem op te lossen.
 
@@ -43,7 +43,7 @@ Zodra ik hier verder in heb kunnen duiken, laat ik je het natuurlijk weten.
 ## Yelp nu ook mobiele reviews op Android
 
 *Historische afbeelding niet beschikbaar: Logo Yelp*
-Een paar afleveringen geleden, in [podcast 40](https://www.reputatiecoaching.nl/40/), vertelde ik je over de vernieuwde Yelp-app voor iOS. Vanaf dat moment was het mogelijk om op alle iDevices reviews te posten met behulp van de Yelp-app. Inmiddels is het duidelijk dat Yelp tevreden is over de resultaten. Want vanaf deze week is het ook voor Android-gebuikers mogelijk om met behulp van hun [Yelp app voor Android](http://officialblog.yelp.com/2013/10/android-users-prepare-for-a-thumb-workout-with-todays-addition-of-mobile-reviews.html) reviews te posten, terwijl ze onderweg zijn.
+Een paar afleveringen geleden, in [podcast 40](/nl/archief/reputatiecoaching/040/), vertelde ik je over de vernieuwde Yelp-app voor iOS. Vanaf dat moment was het mogelijk om op alle iDevices reviews te posten met behulp van de Yelp-app. Inmiddels is het duidelijk dat Yelp tevreden is over de resultaten. Want vanaf deze week is het ook voor Android-gebuikers mogelijk om met behulp van hun [Yelp app voor Android](http://officialblog.yelp.com/2013/10/android-users-prepare-for-a-thumb-workout-with-todays-addition-of-mobile-reviews.html) reviews te posten, terwijl ze onderweg zijn.
 
 Yelp meldde hierover het volgende:
 
@@ -54,7 +54,7 @@ Het blijkt dus dat het gedrag van mobiele gebruikers erg lijkt op dat van deskto
 *Historische afbeelding niet beschikbaar: Winterschoonmaak bij Google*
 Google past haar gebruikersvoorwaarden per 11 november aanstaande aan. Dat het bedrijf daarbij moeite doet om transparant te zijn (en dus eventuele reacties op voorhand probeert te voorkomen), blijkt wel uit het feit dat ze niet alleen een artikel op haar website plaatst, maar mij vervolgens ook nog een mail stuurt en een blauwe balk bovenin de browser toont, terwijl ik ben ingelogd en op Google+ het bekende belletje rood kleuren met een nieuw bericht.
 
-In de show notes –die je overigens kunt vinden op [www.reputatiecoaching.nl/46/](https://www.reputatiecoaching.nl/46/)– heb ik de tekst van het artikel overgenomen:
+In de show notes –die je overigens kunt vinden op [www.reputatiecoaching.nl/46/](/nl/archief/reputatiecoaching/046/)– heb ik de tekst van het artikel overgenomen:
 
 ![Google Servicevoorwaarden per 11 november 2013](20131011-Google-Servicevoorwaarden.png)
 
@@ -146,9 +146,9 @@ Als je de podcast leuk vindt en je hebt inderdaad wat aan alle informatie die ik
 
 Als je een vraag of een probleem hebt met betrekking tot je online reputatie of de vindbaarheid van je website, kun je een mailtje sturen naar [podcast@reputatiecoaching.nl](mailto:podcast@reputatiecoaching.nl). Als je dat te lastig vindt, of als je de podcast beluistert terwijl je in de auto zit en je hebt acuut een vraag, spreek dan een boodschap in op de ReputatieCoaching Hotline, op nummer: 084 - 883 15 56. Mogelijk behandel ik je vraag of probleem dan in een artikel of in de podcast.
 
-Als laatste kun je je ook inschrijven voor de nieuwsbrief. Dan ontvang je altijd als eerste het laatste nieuws wat ik publiceer en automatisch elk kwartaal het ReputatieCoaching Podcast Boek van het afgelopen kwartaal. Surf daartoe naar [www.reputatiecoaching.nl/nieuwsbrief/](https://www.reputatiecoaching.nl/nieuwsbrief/) en schrijf je meteen in.
+Als laatste kun je je ook inschrijven voor de nieuwsbrief. Dan ontvang je altijd als eerste het laatste nieuws wat ik publiceer en automatisch elk kwartaal het ReputatieCoaching Podcast Boek van het afgelopen kwartaal. Surf daartoe naar [www.reputatiecoaching.nl/nieuwsbrief/](https://web.archive.org/web/*/https://www.reputatiecoaching.nl/nieuwsbrief/) en schrijf je meteen in.
 
-En je kunt ook rechtstreeks op de website een voicemail achterlaten, door op de tab aan de rechterkant van elke pagina te klikken, en je bericht in te spreken. Dit was [ReputatieCoaching Podcast aflevering 46](https://www.reputatiecoaching.nl/46/) en mijn naam is [Eduard de Boer](http://nl.linkedin.com/in/eduarddeboer/nl).
+En je kunt ook rechtstreeks op de website een voicemail achterlaten, door op de tab aan de rechterkant van elke pagina te klikken, en je bericht in te spreken. Dit was [ReputatieCoaching Podcast aflevering 46](/nl/archief/reputatiecoaching/046/) en mijn naam is [Eduard de Boer](http://nl.linkedin.com/in/eduarddeboer/nl).
 
 Ik wens je de komende tijd weer succes met het werken aan je reputatie, zodat je meteen je reputatie voor jou kunt laten werken!
 

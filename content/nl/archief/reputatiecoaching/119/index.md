@@ -3,6 +3,8 @@ title: '119: CEO-reputatie? Afname likes en toename bereik video''s op Facebook.
 date: '2015-03-12T07:30:35+00:00'
 description: Ik las op managersonline.nl over twaalf stappen naar een optimale CEO-reputatie. Die wil ik met je delen tezamen met mijn mening erover. En jaag jij voor je bedrijf nog steeds “Likes” na op Facebook? Blijf dan luisteren, want je hoeveelheid verzamelde “Likes” kan de komende tijd afnemen. Video’s hebben trouwens het grootste organische bereik op Facebook, wist je dat al? Zo nee, blijf dan vooral luisteren! Zelf ben ik nu een tijdje bezig met Instagram.
 episode: 119
+kgRef: podcast_episode/reputatiecoaching_119
+source_url: https://www.reputatiecoaching.nl/119
 historical: true
 archivePeriod: 2012–2016
 transcriptStatus: full
@@ -16,8 +18,6 @@ showTaxonomies: false
 ---
 
 > **Historisch archief.** Deze aflevering verscheen op 12-03-2015 als onderdeel van ReputatieCoaching (2012–2016). De oorspronkelijke tekst is hieronder historisch bewaard. Diensten, contactgegevens, links, tools en adviezen kunnen inmiddels verouderd zijn.
-
-{{< audio src="https://archive.org/download/20150312-reputatie-coaching-podcast-119/20150312-ReputatieCoaching-Podcast-119.mp3" title="ReputatieCoaching Podcast #119" >}}
 
 **Transcriptiestatus:** Volledige transcriptie uit het oorspronkelijke archief.
 
@@ -34,7 +34,7 @@ Ik las op managersonline.nl over twaalf stappen naar een optimale CEO-reputatie.
 
 Hallo en hartelijk welkom bij deze aflevering van de ReputatieCoaching Podcast. Ik ben Eduard de Boer, ReputatieCoach. Dit is dé podcast die jou helpt om meer business te genereren, doordat jouw website beter gevonden wordt, zowel lokaal als landelijk en doordat ik je uitleg hoe je je online reputatie kunt verbeteren. Dit alles helpt jou om je bedrijf en jezelf beter op de online kaart te plaatsen.
 
-De podcast kun je vinden op [www.reputatiecoaching.nl/119](https://www.reputatiecoaching.nl/119/). Daar vind je niet alleen de tekst, maar ook video’s waar ik het in deze uitzending over heb, alsmede afbeeldingen, links enzovoorts. Bovendien is de podcast te beluisteren in [iTunes](https://www.reputatiecoaching.nl/itunes), op [Stitcher](https://www.reputatiecoaching.nl/stitcher) en ook op [TuneIn Radio](http://tunein.com/radio/ReputatieCoaching-Podcast-p655084/). Ik raad je aan om je op één van die drie kanalen te abonenneren op de podcast, zodat je geen aflevering hoeft te missen!
+De podcast kun je vinden op [www.reputatiecoaching.nl/119](/nl/archief/reputatiecoaching/119/). Daar vind je niet alleen de tekst, maar ook video’s waar ik het in deze uitzending over heb, alsmede afbeeldingen, links enzovoorts. Bovendien is de podcast te beluisteren in [iTunes](https://web.archive.org/web/*/https://www.reputatiecoaching.nl/itunes), op [Stitcher](https://web.archive.org/web/*/https://www.reputatiecoaching.nl/stitcher) en ook op [TuneIn Radio](http://tunein.com/radio/ReputatieCoaching-Podcast-p655084/). Ik raad je aan om je op één van die drie kanalen te abonenneren op de podcast, zodat je geen aflevering hoeft te missen!
 
 Laat ik dan nu overgaan op de onderwerpen voor vandaag…
 
@@ -79,7 +79,7 @@ Zelf vind ik dit nogal voor de hand liggend en dus feitelijk een tiental open de
   12. Zie CEO bescheidenheid niet als een zwakte
 ```
 
-Mogelijk ben ik iets te negatief, maar heb jij de idee dat je meteen vol aan de slag kunt, als je deze 12 stappen hoort? Geef je mening onderaan de show notes, op [www.reputatiecoaching.nl/119](https://www.reputatiecoaching.nl/119/).
+Mogelijk ben ik iets te negatief, maar heb jij de idee dat je meteen vol aan de slag kunt, als je deze 12 stappen hoort? Geef je mening onderaan de show notes, op [www.reputatiecoaching.nl/119](/nl/archief/reputatiecoaching/119/).
 
 ## Afname aantal “Likes” op Facebook
 
@@ -118,7 +118,7 @@ En als je dan toch aan de slag wilt om je publiek via Facebook te bereiken, dan 
 ## Experiment met zakelijk inzetten van Instagram
 
 *Historische afbeelding niet beschikbaar: Instagram*
-Instagram wordt al maar populairder. In podcast 107 vertelde ik je dat [Instagram inmiddels groter is dan Twitter](https://www.reputatiecoaching.nl/107/). Ik had er voor 2014 al wel eens naar gekeken, maar altijd links laten liggen. In januari 2014 was ik op vakantie op Martinique en daar heb ik mijn eerste foto op Instagram gepost. Inmiddels heb ik op dit moment 449 foto’s op Instagram staan.
+Instagram wordt al maar populairder. In podcast 107 vertelde ik je dat [Instagram inmiddels groter is dan Twitter](/nl/archief/reputatiecoaching/107/). Ik had er voor 2014 al wel eens naar gekeken, maar altijd links laten liggen. In januari 2014 was ik op vakantie op Martinique en daar heb ik mijn eerste foto op Instagram gepost. Inmiddels heb ik op dit moment 449 foto’s op Instagram staan.
 
 Als je me trouwens wilt volgen: mijn gebruikersnaam op Instagram is [eduarddeboer](https://instagram.com/eduarddeboer/) (aan elkaar dus). Instagram heeft zijn mooie kanten en zijn mindere kanten. Het is natuurlijk ooit begonnen als iPhone app om foto’s vanaf je mobiele telefoon online te plaatsen, al of niet na het toepassen van grafische filters.
 
@@ -215,7 +215,7 @@ Dus, ben je een lokaal opererende ondernemer en wil jij hogerop komen in de loka
 *Historische afbeelding niet beschikbaar: #SMC055: Social Media Club Apeldoorn*
 En dan was ik afgelopen maandag weer bij de Social Media Club Apeldoorn, #SMC055 in het kort. Daar spraken Tim Geluk en Jaap van Zessen over monitoring. Tim Geluk vertelde over een productselectietraject voor een monitoringpakket bij de provincie Gelderland en Jaap van Zessen van Buzzcapture kwam vertellen over monitoring en het pakket dat zijn bedrijf in de markt zet.
 
-Afgelopen dinsdag heb ik hier een [Storify-bord](https://www.reputatiecoaching.nl/smc055-monitoring-09032015/) van gemaakt, die je op de website kunt terugvinden. De link er naartoe vind je in de show notes, op [www.reputatiecoaching.nl/119](https://www.reputatiecoaching.nl/119/).
+Afgelopen dinsdag heb ik hier een [Storify-bord](https://web.archive.org/web/*/https://www.reputatiecoaching.nl/smc055-monitoring-09032015/) van gemaakt, die je op de website kunt terugvinden. De link er naartoe vind je in de show notes, op [www.reputatiecoaching.nl/119](/nl/archief/reputatiecoaching/119/).
 
 Van de organisatie en de sprekers had ik toestemming de audio van de presentaties op te nemen. Je kunt horen wat de sprekers vertellen, maar daar is dan ook alles mee gezegd. Helaas, ik vind de audiokwaliteit te laag om stukken van de presentaties in de podcast op te nemen.
 
@@ -223,7 +223,7 @@ Wat ik de komende tijd ga doen is de presentaties nogmaals zelf afluisteren en d
 
 ## Iens Boswijk (Iens): “Iens blijft bestaan!”
 
-Laatst sprak ik in [podcast 111](https://www.reputatiecoaching.nl/111/) mijn twijfel uit over de onzekere toekomst van restaurantreviewsite Iens, toen bekend werd dat het was overgenomen door TripAdvisor. Ik zag op YouTube een interview met Iens Boswijk, in het programma [“Top Names” van Fast Moving Targets](http://fastmovingtargets.nl/episodes/iens-boswijk-iens-geen-recensie-erger-dan-een-kritische-recensie-want-dan-besta-je-niet/). Deze video heb ik opgenomen in de show notes, op [www.reputatiecoaching.nl/119](https://www.reputatiecoaching.nl/119/):
+Laatst sprak ik in [podcast 111](/nl/archief/reputatiecoaching/111/) mijn twijfel uit over de onzekere toekomst van restaurantreviewsite Iens, toen bekend werd dat het was overgenomen door TripAdvisor. Ik zag op YouTube een interview met Iens Boswijk, in het programma [“Top Names” van Fast Moving Targets](http://fastmovingtargets.nl/episodes/iens-boswijk-iens-geen-recensie-erger-dan-een-kritische-recensie-want-dan-besta-je-niet/). Deze video heb ik opgenomen in de show notes, op [www.reputatiecoaching.nl/119](/nl/archief/reputatiecoaching/119/):
 
 Wat ik er wil uitlichten is de vraag of Iens als zelfstandige reviewsite blijft bestaan of niet. Iens Boswijk zegt hierover:
 
@@ -237,7 +237,7 @@ Als je de podcast leuk vindt en je wilt nog meer op de hoogte blijven, volg me d
 
 Heb je inderdaad wat aan alle informatie die ik met je deel, help mij dan met het verder verbeteren en promoten van deze podcast. Abonneer je op de podcast, zodat je altijd meteen de nieuwste uitzending krijgt voorgeschoteld.
 
-Zoek de podcast op, in [iTunes](https://www.reputatiecoaching.nl/itunes) of [Stitcher](https://www.reputatiecoaching.nl/stitcher), geef de podcast een sterrenbeoordeling en laat ook je reactie achter. Door de podcast te beoordelen op iTunes en/of Stitcher breng je de podcast onder de aandacht van een breder publiek.
+Zoek de podcast op, in [iTunes](https://web.archive.org/web/*/https://www.reputatiecoaching.nl/itunes) of [Stitcher](https://web.archive.org/web/*/https://www.reputatiecoaching.nl/stitcher), geef de podcast een sterrenbeoordeling en laat ook je reactie achter. Door de podcast te beoordelen op iTunes en/of Stitcher breng je de podcast onder de aandacht van een breder publiek.
 
 Je kunt me verder helpen, door de podcast aan te bevelen bij vrienden of collega’s, waarvan je denkt dat ze er hun voordeel mee kunnen doen, of door ’m te delen op Twitter, like’n en delen op Facebook of een “+1” te geven op Google+.
 
@@ -245,7 +245,7 @@ En vergeet niet: ik ben hier om je te helpen! Als je een vraag of een probleem h
 
 Als je dat te lastig vindt, of als je de podcast beluistert terwijl je in de auto zit en je hebt acuut een vraag, spreek dan een boodschap in op de ReputatieCoaching Hotline, op nummer: 084 - 883 15 56. Mogelijk behandel ik je vraag of probleem dan in een artikel of in de podcast.
 
-En je kunt ook rechtstreeks op de website een voicemail achterlaten, door op de tab aan de rechterkant van elke pagina te klikken, en je bericht in te spreken. Dit was [ReputatieCoaching Podcast aflevering 119](https://www.reputatiecoaching.nl/119/) en mijn naam is [Eduard de Boer](http://nl.linkedin.com/in/eduarddeboer/nl).
+En je kunt ook rechtstreeks op de website een voicemail achterlaten, door op de tab aan de rechterkant van elke pagina te klikken, en je bericht in te spreken. Dit was [ReputatieCoaching Podcast aflevering 119](/nl/archief/reputatiecoaching/119/) en mijn naam is [Eduard de Boer](http://nl.linkedin.com/in/eduarddeboer/nl).
 
 Ik wens je de komende week weer succes met het werken aan je reputatie, zodat je meteen je reputatie voor jou kunt laten werken!
 
@@ -256,8 +256,8 @@ Doei!
 Links naar content die in deze podcast aan bod komt:
 
 ```
-  * [ReputatieCoaching Podcast in iTunes](https://www.reputatiecoaching.nl/itunes)
-  * [ReputatieCoaching Podcast op Stitcher](https://www.reputatiecoaching.nl/stitcher)
+  * [ReputatieCoaching Podcast in iTunes](https://web.archive.org/web/*/https://www.reputatiecoaching.nl/itunes)
+  * [ReputatieCoaching Podcast op Stitcher](https://web.archive.org/web/*/https://www.reputatiecoaching.nl/stitcher)
   * [ReputatieCoaching Podcast op TuneIn Radio](http://tunein.com/radio/ReputatieCoaching-Podcast-p655084/)
   * [ReputatieCoaching Podcast RSS-feed](https://feeds.reputatiecoaching.nl/ReputatieCoachingPodcast)
   * [Wayback Machine](http://archive.org/web/)

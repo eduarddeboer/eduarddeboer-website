@@ -3,6 +3,8 @@ title: '61: 10 Manieren om je contentmarketing strategie harder voor jou te late
 date: '2014-01-27T07:30:23+00:00'
 description: Vorige week maandag is de Winter Winkeldata Workshop van start gegaan en inmiddels heb ik vijf instructievideo’s gepubliceerd waarin wordt vertoond hoe je op diverse relevante sites met een hoge mate van autoriteit, vermeldingen voor jouw bedrijf kunt krijgen. Door zoveel mogelijk zinnige bedrijfsvermeldingen te creëren, verstevig je namelijk je online presence en zorg je ervoor dat je mogelijk hoger in de zoekresultaten komt. Deze Winter Winkeldata Workshop is dan ook het eerste onderwerp voor deze uitzending.
 episode: 61
+kgRef: podcast_episode/reputatiecoaching_061
+source_url: https://www.reputatiecoaching.nl/61
 historical: true
 archivePeriod: 2012–2016
 transcriptStatus: full
@@ -16,8 +18,6 @@ showTaxonomies: false
 ---
 
 > **Historisch archief.** Deze aflevering verscheen op 27-01-2014 als onderdeel van ReputatieCoaching (2012–2016). De oorspronkelijke tekst is hieronder historisch bewaard. Diensten, contactgegevens, links, tools en adviezen kunnen inmiddels verouderd zijn.
-
-{{< audio src="https://archive.org/download/20140127-reputatie-coaching-podcast-061/20140127-ReputatieCoaching-Podcast-061.mp3" title="ReputatieCoaching Podcast #061" >}}
 
 **Transcriptiestatus:** Volledige transcriptie uit het oorspronkelijke archief.
 
@@ -33,7 +33,7 @@ Als persoon kun je met de diverse tips aan de slag om bijvoorbeeld je online rep
 ## Winter Winkeldata Workshop
 
 *Historische afbeelding niet beschikbaar: Winter Winkeldata Workshop-10*
-De [Winter Winkeldata Workshop](https://www.reputatiecoaching.nl/winter-winkeldata-workshop-10-instructievideos-voor-betere-lokale-seo-deze-winter/) is nog niet eens ten einde, maar is nu al een succes! Ik heb namelijk afgelopen week een paar mailtjes ontvangen met positieve reacties van diverse luisteraars van de podcast en lezers van de website op de geposte instructievideo’s.
+De [Winter Winkeldata Workshop](https://web.archive.org/web/*/https://www.reputatiecoaching.nl/winter-winkeldata-workshop-10-instructievideos-voor-betere-lokale-seo-deze-winter/) is nog niet eens ten einde, maar is nu al een succes! Ik heb namelijk afgelopen week een paar mailtjes ontvangen met positieve reacties van diverse luisteraars van de podcast en lezers van de website op de geposte instructievideo’s.
 
 Maar het was sommige mensen nog niet duidelijk hoe de instructievideo’s van de Winter Winkeldata Workshop in relatie staan tot de citations voorjaarsschoonmaak. Daarom zal ik het nog even kort uitleggen.
 
@@ -45,9 +45,9 @@ Voor dat opschonen ben ik dus de citations voorjaarsschoonmaak gestart. Om je da
 
 Je krijgt een link naar deze spreadsheet, als je je aanmeldt voor de nieuwsbrief. Na aanmelding krijg je eerst een mailtje ter bevestiging, dat je mij toestaat, dat ik je mail stuur. En geloof me, ik zal je niet gaan spammen. Bovendien kun je je ook op elk moment afmelden.
 
-Maar goed, als je die mail dus hebt bevestigd, stuur ik je zo snel mogelijk de link naar de Google spreadsheet. Daarvan kun je zelf een kopie maken op je eigen Google Drive, waarna je aan de slag kunt. En hoe je dat doet, heb ik beschreven in de “[Werkinstructie opschonen citations](https://www.reputatiecoaching.nl/werkinstructie-opschonen-citations/)”. Daar kun je alles lezen over hoe je te werk moet gaan om je citations op te schonen.
+Maar goed, als je die mail dus hebt bevestigd, stuur ik je zo snel mogelijk de link naar de Google spreadsheet. Daarvan kun je zelf een kopie maken op je eigen Google Drive, waarna je aan de slag kunt. En hoe je dat doet, heb ik beschreven in de “[Werkinstructie opschonen citations](https://web.archive.org/web/*/https://www.reputatiecoaching.nl/werkinstructie-opschonen-citations/)”. Daar kun je alles lezen over hoe je te werk moet gaan om je citations op te schonen.
 
-Heb je je nog niet aangemeld, meld je dan nu aan op [www.reputatiecoaching.nl/nieuwsbrief](https://www.reputatiecoaching.nl/nieuwsbrief/) en ga meteen aan de slag met je citations opschonen.
+Heb je je nog niet aangemeld, meld je dan nu aan op [www.reputatiecoaching.nl/nieuwsbrief](https://web.archive.org/web/*/https://www.reputatiecoaching.nl/nieuwsbrief/) en ga meteen aan de slag met je citations opschonen.
 
 En ik wil je laten zien, dat je website niet stil hoeft te zijn, terwijl je afwezig bent. Ik zit op dit moment een goede anderhalve week op Martinique, een eiland van de Franse Antillen. Toch loopt de publicatie van content gewoon door: je ziet artikelen online komen, instructievideo’s en de podcast gaat ook gewoon door. Dit heeft wel enorm veel tijd in de voorbereiding gekost, maar ik vond het het waard.
 
@@ -55,23 +55,23 @@ Bovendien wilde ik jullie als lezers, lezeressen en luisteraars niet verstoken l
 
 Hoewel ik op vakantie ben, hou ik wel stiekem de statistieken af en toe in de gaten: het bloed kruipt tenslotte waar het niet gaan kan. En ik zie dat de podcasts beluisterd worden, de video’s worden bekeken en mensen schrijven zich in de voor de nieuwsbrief en andere unieke content die ik alleen per e-mail zal verspreiden.
 
-Ik vond het dus leuk om net als afgelopen zomervakantie tijdens mijn afwezigheid een serie van instructievideo’s te publiceren, die je kunnen helpen bij het verwerven van meer online bedrijfsvermeldingen. Daarom heb ik dus de “[Winter Winkeldata Workshop](https://www.reputatiecoaching.nl/winter-winkeldata-workshop-10-instructievideos-voor-betere-lokale-seo-deze-winter/)” gestart. Dit is een serie van 10 instructievideo’s over het aanmelden op diverse lokale en branche-specifieke sites.
+Ik vond het dus leuk om net als afgelopen zomervakantie tijdens mijn afwezigheid een serie van instructievideo’s te publiceren, die je kunnen helpen bij het verwerven van meer online bedrijfsvermeldingen. Daarom heb ik dus de “[Winter Winkeldata Workshop](https://web.archive.org/web/*/https://www.reputatiecoaching.nl/winter-winkeldata-workshop-10-instructievideos-voor-betere-lokale-seo-deze-winter/)” gestart. Dit is een serie van 10 instructievideo’s over het aanmelden op diverse lokale en branche-specifieke sites.
 
 Zo zijn afgelopen week al instructievideo’s verschenen, waarin wordt uitgelegd hoe je jouw bedrijf kunt aanmelden op:
 
 ```
-  1. [Infobel](https://www.reputatiecoaching.nl/bedrijf-aanmelden-op-infobel/)
-  2. [Tellows](https://www.reputatiecoaching.nl/bedrijf-aanmelden-op-tellows/)
-  3. [LokaalTotaal](https://www.reputatiecoaching.nl/bedrijf-aanmelden-op-lokaaltotaal/)
-  4. [b9.nl](https://www.reputatiecoaching.nl/bedrijf-aanmelden-op-b9/)
-  5. [123tandarts](https://www.reputatiecoaching.nl/bedrijf-aanmelden-op-123tandarts/)
+  1. [Infobel](https://web.archive.org/web/*/https://www.reputatiecoaching.nl/bedrijf-aanmelden-op-infobel/)
+  2. [Tellows](https://web.archive.org/web/*/https://www.reputatiecoaching.nl/bedrijf-aanmelden-op-tellows/)
+  3. [LokaalTotaal](https://web.archive.org/web/*/https://www.reputatiecoaching.nl/bedrijf-aanmelden-op-lokaaltotaal/)
+  4. [b9.nl](https://web.archive.org/web/*/https://www.reputatiecoaching.nl/bedrijf-aanmelden-op-b9/)
+  5. [123tandarts](https://web.archive.org/web/*/https://www.reputatiecoaching.nl/bedrijf-aanmelden-op-123tandarts/)
 ```
 
 OK, die vijfde zal niet voor veel luisteraars anders dan tandartsen bruikbaar zijn geweest, maar ik wilde je laten zien dat er naast alle lokale en geografisch georiënteerde directories, ook branche-specifieke directories zijn, waar je citations kunt aanmaken. En deze laatste site is er zo’n eentje. Die bezocht ik namelijk, omdat ik een tandartsenpraktijk uit Culemborg hielp om beter te scoren in de lokale zoekresultaten. Zoals je kunt zien op de screenshot die ik heb opgenomen in de show notes, is dat gelukt:
 
 [Historische afbeelding: Tandarts Culemborg](https://lh4.googleusercontent.com/-hKIw0ikFS_g/UtV9XW2NbKI/AAAAAAAAAWk/xxDvTn_7ptg/w388-h1041-no/20140127-Tandartsenpraktijk-Culemborg.png)
 
-Nu ik het over de show notes heb… Je kunt een volledige transcriptie van deze podcast, alsmede diverse links, video’s en afbeeldingen voor deze uitzending bekijken op: [www.reputatiecoaching.nl/61](https://www.reputatiecoaching.nl/61/).
+Nu ik het over de show notes heb… Je kunt een volledige transcriptie van deze podcast, alsmede diverse links, video’s en afbeeldingen voor deze uitzending bekijken op: [www.reputatiecoaching.nl/61](/nl/archief/reputatiecoaching/061/).
 
 En ben jij al begonnen met het opschonen van de citations die je van je bedrijf links en rechts op Internet hebt gevonden? Laat het me weten onderaan de show notes van deze podcast. Ik ben namelijk wel benieuwd. Zeg ook gerust wat je vindt van de instructievideo’s van de Winter Winkeldata Workshop. Ik sta altijd open voor suggesties, want ik wil graag díe content maken, waar jij als luisteraar van de podcast en lezer van de website het meeste aan hebt.
 
@@ -217,7 +217,7 @@ Stel jezelf de volgende vragen:
 ```
 
 **10: Gebruik paid media om earned en owned media te versterken**
-Eerder in [podcast 52](https://www.reputatiecoaching.nl/52/) had ik het al eens over deze vormen van media. Je kunt paid media gemakkelijk integreren met earned en owned media om zo alledrie effectiever in te zetten, waardoor ze elkaar versterken.
+Eerder in [podcast 52](/nl/archief/reputatiecoaching/052/) had ik het al eens over deze vormen van media. Je kunt paid media gemakkelijk integreren met earned en owned media om zo alledrie effectiever in te zetten, waardoor ze elkaar versterken.
 
 Enkele aandachtspunten zijn:
 
@@ -244,7 +244,7 @@ Essentieel is dan wel dat het content is, die jij volledig onder controle hebt. 
 
 Online reputatiemanagement is niet alleen belangrijk voor advocaten, huisartsen of tandartsen die vaak onder hun eigen naam opereren, maar eigenlijk voor iedereen. Want ook als je gaat solliciteren is het vervelend als je interviewer minder positieve zaken over jou weet te noemen, die je gemakkelijk op Internet kunt vinden, of dat ze ten onrechte verkeerde informatie met jouw naam hebben geassocieerd.
 
-In deze podcast wil ik het slechts kort aanstippen, wat je zoal kunt doen om je eigen naam als online brand te positioneren en om vervolgens de zoekresultaten te domineren. Maar laat gerust een reactie achter in de show notes, die je kunt vinden op [www.reputatiecoaching.nl/61](https://www.reputatiecoaching.nl/61/), als je wilt dat ik hier de komende tijd eens dieper op in ga.
+In deze podcast wil ik het slechts kort aanstippen, wat je zoal kunt doen om je eigen naam als online brand te positioneren en om vervolgens de zoekresultaten te domineren. Maar laat gerust een reactie achter in de show notes, die je kunt vinden op [www.reputatiecoaching.nl/61](/nl/archief/reputatiecoaching/061/), als je wilt dat ik hier de komende tijd eens dieper op in ga.
 
 Als je de zoekresultaten wilt domineren met je eigen naam, zorg er dan voor, dat je:
 
@@ -269,9 +269,9 @@ Als je de podcast leuk vindt en je hebt inderdaad wat aan alle informatie die ik
 
 Als je een vraag of een probleem hebt met betrekking tot je online reputatie of de vindbaarheid van je website, kun je een mailtje sturen naar [podcast@reputatiecoaching.nl](mailto:podcast@reputatiecoaching.nl). Als je dat te lastig vindt, of als je de podcast beluistert terwijl je in de auto zit en je hebt acuut een vraag, spreek dan een boodschap in op de ReputatieCoaching Hotline, op nummer: 084 - 883 15 56. Mogelijk behandel ik je vraag of probleem dan in een artikel of in de podcast.
 
-Als laatste kun je je ook inschrijven voor de nieuwsbrief. Dan ontvang je altijd als eerste het laatste nieuws wat ik publiceer en automatisch elk kwartaal het ReputatieCoaching Podcast Boek van het afgelopen kwartaal. Surf daartoe naar [www.reputatiecoaching.nl/nieuwsbrief/](https://www.reputatiecoaching.nl/nieuwsbrief/) en schrijf je meteen in.
+Als laatste kun je je ook inschrijven voor de nieuwsbrief. Dan ontvang je altijd als eerste het laatste nieuws wat ik publiceer en automatisch elk kwartaal het ReputatieCoaching Podcast Boek van het afgelopen kwartaal. Surf daartoe naar [www.reputatiecoaching.nl/nieuwsbrief/](https://web.archive.org/web/*/https://www.reputatiecoaching.nl/nieuwsbrief/) en schrijf je meteen in.
 
-En je kunt ook rechtstreeks op de website een voicemail achterlaten, door op de tab aan de rechterkant van elke pagina te klikken, en je bericht in te spreken. Dit was [ReputatieCoaching Podcast aflevering 61](https://www.reputatiecoaching.nl/61/) en mijn naam is [Eduard de Boer](http://nl.linkedin.com/in/eduarddeboer/nl).
+En je kunt ook rechtstreeks op de website een voicemail achterlaten, door op de tab aan de rechterkant van elke pagina te klikken, en je bericht in te spreken. Dit was [ReputatieCoaching Podcast aflevering 61](/nl/archief/reputatiecoaching/061/) en mijn naam is [Eduard de Boer](http://nl.linkedin.com/in/eduarddeboer/nl).
 
 Ik wens je de komende week weer succes met het werken aan je reputatie, zodat je meteen je reputatie voor jou kunt laten werken!
 

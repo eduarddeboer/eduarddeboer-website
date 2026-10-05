@@ -3,6 +3,8 @@ title: '23: Top 5 SEO-fouten, 12 achterhaalde SEO strategieën en introductie Go
 date: '2013-05-05T22:30:30+00:00'
 description: '**Inmiddels is Nederland koning met bijbehorende koningin rijker en vandaag is het ook nog eens Bevrijdingsdag. Gisteravond was het dus de Dodenherdenking en vond ik het derhalve niet echt gepast om dan ‘s avonds de podcast uit te brengen. Dus voor deze keer is het uitkomen van de podcast verplaatst naar de zondag. Sowieso kun je ‘m dus gedurende de komende week afluisteren. En misschien ben jij wel iemand die de podcast een half jaar later begint te luisteren.'
 episode: 23
+kgRef: podcast_episode/reputatiecoaching_023
+source_url: https://www.reputatiecoaching.nl/23
 historical: true
 archivePeriod: 2012–2016
 transcriptStatus: full
@@ -16,8 +18,6 @@ showTaxonomies: false
 ---
 
 > **Historisch archief.** Deze aflevering verscheen op 5-05-2013 als onderdeel van ReputatieCoaching (2012–2016). De oorspronkelijke tekst is hieronder historisch bewaard. Diensten, contactgegevens, links, tools en adviezen kunnen inmiddels verouderd zijn.
-
-{{< audio src="https://archive.org/download/20130505-reputatie-coaching-podcast-023/20130505-ReputatieCoaching-Podcast-023.mp3" title="ReputatieCoaching Podcast #023" >}}
 
 **Transcriptiestatus:** Volledige transcriptie uit het oorspronkelijke archief.
 
@@ -47,7 +47,7 @@ En per 31 maart had Facebook 1,1 miljard actieve gebruikers, waarvan 665 miljoen
 *Historische afbeelding niet beschikbaar: Logo Yelp*
 Een ander social media bedrijf wat goed heeft gepresteerd in het eerste kwartaal van 2013, is Yelp. Op 1 mei kondigde Yelp aan dat hun winst ten opzichte van 2012 met maar liefst 68% was gegroeid! De netto winst kwam in het eerste kwartaal van 2013 op US$ 46 miljoen. Dit staat in geen vergelijk met Facebook qua omvang, maar waar Facebook met 38% is gegroeid, groeide Yelp dus met 68% Vanuit dat standpunt bekeken is het dus een goed resultaat. Het aantal unieke maandelijkse bezoekers was al door de 100 miljoen-grens gegaan en bedraagt nu al 102 miljoen.  Het aantal reviews steeg in één jaar met 42% naar meer dan 39 miljoen cumulatieve reviews!
 
-Jeremy Stoppelman, de CEO van Yelp, lichtte de koers voor de rest van het jaar toe. Zo zal de focus van Yelp worden gericht op productinnovatie rondom de mobiele app en komen er nieuwe functionaliteiten voor zowel klanten, als bedrijfseigenaars. En natuurlijk wordt er hard verder gewerkt aan de integratie van Qype in Yelp. Wil je overigens meer weten over Yelp, dan kun je als je wilt [ReputatieCoaching Podcast aflevering 20](https://www.reputatiecoaching.nl/20/) nog eens terugluisteren. Daarin had ik Philippine Wouters, de Community Manager voor Yelp Nederland, in de show voor een interview.
+Jeremy Stoppelman, de CEO van Yelp, lichtte de koers voor de rest van het jaar toe. Zo zal de focus van Yelp worden gericht op productinnovatie rondom de mobiele app en komen er nieuwe functionaliteiten voor zowel klanten, als bedrijfseigenaars. En natuurlijk wordt er hard verder gewerkt aan de integratie van Qype in Yelp. Wil je overigens meer weten over Yelp, dan kun je als je wilt [ReputatieCoaching Podcast aflevering 20](/nl/archief/reputatiecoaching/020/) nog eens terugluisteren. Daarin had ik Philippine Wouters, de Community Manager voor Yelp Nederland, in de show voor een interview.
 
 Tijdens dat interview meldde Philippine dat Yelp toen in 20 landen operationeel was, maar inmiddels hebben ze vorige maand Nieuw Zeeland toegevoegd aan de lijst met landen.
 
@@ -83,7 +83,7 @@ Foursquare probeert hard om Yelp in te halen als lokale zoekmachine. Volgens de 
 
 De afgelopen tijd heeft Foursquare haar focus ook aangepast en proberen ze nu meer een echte lokale zoekmachine te zijn, dan een social media, social gaming club. En terwijl Facebook haar nieuwe layout voor mobiele pagina’s presenteerde, liet Foursquare weten dat ze het uiterlijk en de indeling van de lokale bedrijfspagina’s op gewone PC’s heeft aangepast. De mobiele app is nog niet veranderd. Zo is de bedrijfsinformatie zoals de adresgegevens en het telefoonnummer beter leesbaar, beginnen de pagina’s net als op Facebook en Google+ Local met foto’s bovenaan en worden suggesties voor soortgelijke plaatsen gegeven.
 
-Overigens, dit nieuws heb ik zoals altijd verzameld uit alle bronnen die ik wekelijks volg op Internet. De links naar de achterliggende artikelen kun je vinden in de show notes. En de show notes staan op [www.reputatiecoaching.nl/23/](https://www.reputatiecoaching.nl/23/).
+Overigens, dit nieuws heb ik zoals altijd verzameld uit alle bronnen die ik wekelijks volg op Internet. De links naar de achterliggende artikelen kun je vinden in de show notes. En de show notes staan op [www.reputatiecoaching.nl/23/](/nl/archief/reputatiecoaching/023/).
 
 ## Twitter account @ap (Associated Press) gehacked
 
@@ -101,7 +101,7 @@ Naast dat Twitter dus onder vuur ligt, werd ook de site “LivingSocial” gehac
 
 Maar met al deze en andere hacks, waar je bijna dagelijks in de media over leest of hoort, moet iedereen zich toch langzaamaan echt wel bewust worden van het risico van het gebruiken van hetzelfde wachtwoord op meerdere sites. Mensen, doe dit niet! Er zijn meer dan voldoende tooltjes voor alle platformen om je erbij te helpen voor elke site een ander wachtwoord te gebruiken van 12 karakters of meer, zonder dat dit jou hoofdpijn bezorgd. De techniek is er, maar zij dient alleen nog maar ingezet te worden!
 
-Als je meer hierover wilt weten, reageer dan onderaan de show notes, die je kunt vinden op [www.reputatiecoaching.nl/23/](https://www.reputatiecoaching.nl/23/).
+Als je meer hierover wilt weten, reageer dan onderaan de show notes, die je kunt vinden op [www.reputatiecoaching.nl/23/](/nl/archief/reputatiecoaching/023/).
 
 De meesten onder jullie zullen al wel hebben gehoord van “Google Glass”, de bijzondere bril van Google, waar je tegen moet praten. Google Glass is er voorlopig nog niet op grote schaal en zeker nog niet op de Nederlandse markt. Maar afgelopen week kwam er een nieuwe app uit de Google stal voor de iPhone, die nog wel eens een geduchte concurrent kan worden voor de combinatie van Apple met Siri, de elektronische spraakherkenning van Apple.
 
@@ -280,7 +280,7 @@ Tjonge, zo is het toch onverwachts een lange podcast geworden… Ik hoop in iede
   1.
 ```
 
-Een berichtje achterlaten onder de transcriptie van deze podcast. De transcriptie kun je vinden op [www.reputatiecoaching.nl/23/](https://www.reputatiecoaching.nl/23/)
+Een berichtje achterlaten onder de transcriptie van deze podcast. De transcriptie kun je vinden op [www.reputatiecoaching.nl/23/](/nl/archief/reputatiecoaching/023/)
 
 ```
   2.
@@ -292,21 +292,21 @@ Een recensie posten op iTunes
   3.
 ```
 
-Een reactie posten op de Google+ pagina, die je kunt vinden op: [www.reputatiecoaching.nl/gplus](https://www.reputatiecoaching.nl/gplus) (g-p-l-u-s)
+Een reactie posten op de Google+ pagina, die je kunt vinden op: [www.reputatiecoaching.nl/gplus](https://web.archive.org/web/*/https://www.reputatiecoaching.nl/gplus) (g-p-l-u-s)
 
 ```
   4.
 ```
 
-Een reactie posten op de Facebook pagina. Deze staat op: [www.reputatiecoaching.nl/facebook](https://www.reputatiecoaching.nl/facebook)
+Een reactie posten op de Facebook pagina. Deze staat op: [www.reputatiecoaching.nl/facebook](https://web.archive.org/web/*/https://www.reputatiecoaching.nl/facebook)
 
 ```
   5.
 ```
 
-Of als laatste: een reactie posten op LinkedIn: [www.reputatiecoaching.nl/linkedin](https://www.reputatiecoaching.nl/linkedin)
+Of als laatste: een reactie posten op LinkedIn: [www.reputatiecoaching.nl/linkedin](https://web.archive.org/web/*/https://www.reputatiecoaching.nl/linkedin)
 
-Daarnaast ben ik tegenwoordig ook redelijk actief met Pinterest, waar ik dikwijls diverse leuke infographics post. Deze kun je vinden op: [www.reputatiecoaching.nl/pinterest](https://www.reputatiecoaching.nl/pinterest).
+Daarnaast ben ik tegenwoordig ook redelijk actief met Pinterest, waar ik dikwijls diverse leuke infographics post. Deze kun je vinden op: [www.reputatiecoaching.nl/pinterest](https://web.archive.org/web/*/https://www.reputatiecoaching.nl/pinterest).
 
 Heb je ergens iets gepost, laat het met dan weten. Ook als je een vraag of een probleem hebt met betrekking tot je online reputatie of de vindbaarheid van je website, kun je een mailtje sturen naar [podcast@reputatiecoaching.nl](mailto:podcast@reputatiecoaching.nl). Als je dat te lastig vindt, of als je de podcast beluistert terwijl je in de auto zit en je hebt acuut een vraag, spreek dan een boodschap in op de ReputatieCoaching Hotline, op nummer: 084 - 883 15 56. Mogelijk behandel ik je vraag of probleem dan in een artikel of in de podcast.
 

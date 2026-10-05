@@ -3,6 +3,8 @@ title: '34: Social logins, social shares, 5-sterren reviews zijn terug, Google M
 date: '2013-07-20T17:30:36+00:00'
 description: ReputatieCoaching Podcast aflevering 34! Hallo en hartelijk welkom bij dé bekendste Nederlandstalige podcast over reputatiemanagement en reputatiecoaching, het verbeteren van je online vindbaarheid en optimalisatie van je website voor zoekmachines. Ik begin de podcast van vandaag met het nieuwe ReputatieCoaching Podcast Boek. Dan heb ik nieuws over social logins en via de social logins kom ik op Google. Ik kan er niets aan doen, maar er is weer aardig wat nieuws op het Google-front wat ik met je wil delen.
 episode: 34
+kgRef: podcast_episode/reputatiecoaching_034
+source_url: https://www.reputatiecoaching.nl/34
 historical: true
 archivePeriod: 2012–2016
 transcriptStatus: full
@@ -16,8 +18,6 @@ showTaxonomies: false
 ---
 
 > **Historisch archief.** Deze aflevering verscheen op 20-07-2013 als onderdeel van ReputatieCoaching (2012–2016). De oorspronkelijke tekst is hieronder historisch bewaard. Diensten, contactgegevens, links, tools en adviezen kunnen inmiddels verouderd zijn.
-
-{{< audio src="https://archive.org/download/20130720-reputatie-coaching-podcast-034/20130720-ReputatieCoaching-Podcast-034.mp3" title="ReputatieCoaching Podcast #034" >}}
 
 **Transcriptiestatus:** Volledige transcriptie uit het oorspronkelijke archief.
 
@@ -34,15 +34,15 @@ Hallo en hartelijk welkom bij dé bekendste Nederlandstalige podcast over reputa
 
 ### ReputatieCoaching Podcast Boek 2013 #2 is uit!
 
-Het heeft weer even tijd gekost, maar het [ReputatieCoaching Podcast Boek 2013 nummer 2](https://www.reputatiecoaching.nl/reputatiecoaching-podcast-boek-2013-2/) is uit. In dit boek zijn de transcripties van alle podcasts van het tweede kwartaal van 2013 opgenomen, samen met de afbeeldingen, screenshots, links naar alle externe sites en de podcast video’s.
+Het heeft weer even tijd gekost, maar het [ReputatieCoaching Podcast Boek 2013 nummer 2](https://web.archive.org/web/*/https://www.reputatiecoaching.nl/reputatiecoaching-podcast-boek-2013-2/) is uit. In dit boek zijn de transcripties van alle podcasts van het tweede kwartaal van 2013 opgenomen, samen met de afbeeldingen, screenshots, links naar alle externe sites en de podcast video’s.
 
-[*Historische afbeelding niet beschikbaar: ReputatieCoaching Podcast Boek 2013 #2*](https://www.reputatiecoaching.nl/reputatiecoaching-podcast-boek-2013-2/)Het boek kun je als PDF downloaden vanaf de website. Bovendien heb ik het ook geüpload naar Scribd, Issuu, Docstoc en Slideshare. Binnen een dag was het boek meer dan 100 keer bekeken in de diverse sites; dat was erg leuk om te zien.
+[*Historische afbeelding niet beschikbaar: ReputatieCoaching Podcast Boek 2013 #2*](https://web.archive.org/web/*/https://www.reputatiecoaching.nl/reputatiecoaching-podcast-boek-2013-2/)Het boek kun je als PDF downloaden vanaf de website. Bovendien heb ik het ook geüpload naar Scribd, Issuu, Docstoc en Slideshare. Binnen een dag was het boek meer dan 100 keer bekeken in de diverse sites; dat was erg leuk om te zien.
 
 Dit is het laatste boek wat ik op deze manier ter beschikking stel. Het ReputatieCoaching Podcast boek nummer 3 van 2013 komt niet meer als download beschikbaar. Je kunt het dan nog wel lezen via bijvoorbeeld Scribd of Slideshare, maar niet meer downloaden. Als je het als PDF wilt ontvangen, verzoek ik je om je aan te melden voor de nieuwsbrief.
 
 De abonnees van de nieuwsbrief krijgen automatisch een mail, als het eBook als PDF beschikbaar is om te downloaden om te lezen op je smartphone of tablet. Daarnaast komt het in een andere vorm beschikbaar, die ik nog even als verrassing houd.
 
-Surf nu naar [www.reputatiecoaching.nl/nieuwsbrief](https://www.reputatiecoaching.nl/nieuwsbrief) en schrijf je meteen in. Je kunt je inschrijven door je naam en e-mailadres in te voeren, of door op de grote “Like”-button te klikken, als je al bent ingelogd op Facebook.
+Surf nu naar [www.reputatiecoaching.nl/nieuwsbrief](https://web.archive.org/web/*/https://www.reputatiecoaching.nl/nieuwsbrief) en schrijf je meteen in. Je kunt je inschrijven door je naam en e-mailadres in te voeren, of door op de grote “Like”-button te klikken, als je al bent ingelogd op Facebook.
 
 ### Facebook nog steeds de meeste social logins
 
@@ -62,7 +62,7 @@ Hoewel dus 24% van de social logins via Google gebruikersgegevens loopt, wordt G
 
 Google heeft dus een grote achterstand op de concurrenten, zowel qua social logins, als qua aantal social shares. Google heeft natuurlijk al eerder achterstanden ingelopen, dus ik acht het zeker mogelijk dat Google ook deze achterstanden de komende maanden zal gaan inlopen.
 
-Maar zoals ik al in [podcast 32](https://www.reputatiecoaching.nl/32/) zei, is de prognose dat Google+ omstreeks januari 2016 Facebook zal inhalen, op het gebied van aantal social shares.
+Maar zoals ik al in [podcast 32](/nl/archief/reputatiecoaching/032/) zei, is de prognose dat Google+ omstreeks januari 2016 Facebook zal inhalen, op het gebied van aantal social shares.
 
 ### 5-Sterren reviews terug in Googles lokale zoekresultaten!
 
@@ -76,21 +76,21 @@ Als bedrijf kon je maximaal 30 punten scoren en de score van je bedrijf werd dan
 
 Zoals je kunt zien, zijn de getoonde resultaten niet echt bijster duidelijk. Ik vond het al aardig onduidelijk, dus ik ben ervan overtuigd dat het voor veel meer mensen niet echt overtuigend was om de kwaliteit van bedrijven in te schatten. Alle andere sites in de wereld gebruiken zo ongeveer sterretjes, dus Internetgebruikers zijn gewend aan sterretjes.
 
-In [podcast 25](https://www.reputatiecoaching.nl/25/) meldde ik al dat de sterretjes terug leken te komen. Toen kon je via een kleine truc de sterretjes terugkrijgen in de zoekresultaten. Dat leek erop te wijzen dat de sterretjes langzaamaan terug zouden komen.
+In [podcast 25](/nl/archief/reputatiecoaching/025/) meldde ik al dat de sterretjes terug leken te komen. Toen kon je via een kleine truc de sterretjes terugkrijgen in de zoekresultaten. Dat leek erop te wijzen dat de sterretjes langzaamaan terug zouden komen.
 
-En in [podcast 33](https://www.reputatiecoaching.nl/33/) kon ik je vertellen dat de sterretjes inmiddels al zichtbaar waren in Google+ Lokaal. Nou, afgelopen donderdag zag ik in de zoekresultaten nog steeds de Zagat score op basis van die 30-punten schaal, maar vanaf vrijdag zag ik ook weer sterretjes in de zoekresultaten op de Nederlandse Google.
+En in [podcast 33](/nl/archief/reputatiecoaching/033/) kon ik je vertellen dat de sterretjes inmiddels al zichtbaar waren in Google+ Lokaal. Nou, afgelopen donderdag zag ik in de zoekresultaten nog steeds de Zagat score op basis van die 30-punten schaal, maar vanaf vrijdag zag ik ook weer sterretjes in de zoekresultaten op de Nederlandse Google.
 
 De dag daarvoor bleken ze ook al gespot in de Verenigde Staten en in Canada. Maar ze zijn weer nu dus ook weer terug in de Nederlandstalige zoekresultaten. Ik ben ervan overtuigd dat dit een verhoging van de CTR (dat is de “Click Through Rate”) zal opleveren voor bedrijven waarvoor de sterretjes worden vertoond. Alleen zijn de sterretjes nu niet geel, ze zijn oranje.
 
 Mochten de sterretjes nog niet bij jouw bedrijfsvermelding op Google+ Lokaal worden vertoond, dan heb je waarschijnlijk nog geen vijf reviews. Want als je minstens vijf reviews hebt, worden de sterretjes getoond. In de show notes heb ik ook een screenshot opgenomen van de zoekterm “restaurant Apeldoorn” die ik meteen vrijdagmorgen heb gemaakt:[Historische afbeelding: bekijk bron](https://lh5.googleusercontent.com/1O4CdniHTfjd37YOv7w2rfUIY8mtTAVmZzGG0sYBhCKH2OZtIXmcQuik6rQcQ6pMSfSco9q5BKk3rC5ASUC3yGKoJLrtZMS5ad-Txno6DsHsn1WT97_ktTpJcQ)
 
-Nu vraag ik jou om te laten weten wat jij het duidelijkste vindt. Laat het me weten onderaan de transcriptie van deze podcast. Post je reactie op [www.reputatiecoaching.nl/34/](https://www.reputatiecoaching.nl/34/). Ik ben benieuwd naar jouw mening. Laat het me weten.
+Nu vraag ik jou om te laten weten wat jij het duidelijkste vindt. Laat het me weten onderaan de transcriptie van deze podcast. Post je reactie op [www.reputatiecoaching.nl/34/](/nl/archief/reputatiecoaching/034/). Ik ben benieuwd naar jouw mening. Laat het me weten.
 
 ### Google bestraft sites die de “Back”-knop misbruiken
 
 Verder over Google: er zijn sites op Internet die de “Back”-knop, oftewel je zoekgeschiedenis misbruiken om jou een pagina met reclameresultaten te tonen, als je een pagina terug klikt. Matt Cutts heeft aangekondigd dat deze sites nu zullen worden aangepakt.
 
-Ik vind het leuk om te zien dat steeds meer illegale sites klappen krijgen en dat je langzaamaan echt alleen nog maar met waardevolle en unieke content in combinatie met [Google Authorship](https://www.reputatiecoaching.nl/wiki/google-authorship/) jouw pagina’s en artikelen vertoond kunt krijgen in de zoekresultaten.
+Ik vind het leuk om te zien dat steeds meer illegale sites klappen krijgen en dat je langzaamaan echt alleen nog maar met waardevolle en unieke content in combinatie met [Google Authorship](https://web.archive.org/web/*/https://www.reputatiecoaching.nl/wiki/google-authorship/) jouw pagina’s en artikelen vertoond kunt krijgen in de zoekresultaten.
 
 Google Authorship is iets wat de black hat zoekmachine spammers niet echt prettig vinden. Zij willen namelijk graag anoniem blijven met hun content en vooral met hun acties. Maar Google heeft ook aangekondigd dat anonieme content in de toekomst niet echt meer in de zoekresultaten zal worden vertoond.
 
@@ -189,9 +189,9 @@ Als je de podcast leuk vindt en je hebt inderdaad wat aan alle informatie die ik
 
 Als je een vraag of een probleem hebt met betrekking tot je online reputatie of de vindbaarheid van je website, kun je een mailtje sturen naar [podcast@reputatiecoaching.nl](mailto:podcast@reputatiecoaching.nl). Als je dat te lastig vindt, of als je de podcast beluistert terwijl je in de auto zit en je hebt acuut een vraag, spreek dan een boodschap in op de ReputatieCoaching Hotline, op nummer: 084 - 883 15 56. Mogelijk behandel ik je vraag of probleem dan in een artikel of in de podcast.
 
-Als laatste kun je je ook inschrijven voor de nieuwsbrief. Dan ontvang je altijd als eerste het laatste nieuws wat ik publiceer en automatisch elk kwartaal het ReputatieCoaching Podcast Boek van het afgelopen kwartaal. Surf daartoe naar [www.reputatiecoaching.nl/nieuwsbrief](https://www.reputatiecoaching.nl/nieuwsbrief) en schrijf je meteen in.
+Als laatste kun je je ook inschrijven voor de nieuwsbrief. Dan ontvang je altijd als eerste het laatste nieuws wat ik publiceer en automatisch elk kwartaal het ReputatieCoaching Podcast Boek van het afgelopen kwartaal. Surf daartoe naar [www.reputatiecoaching.nl/nieuwsbrief](https://web.archive.org/web/*/https://www.reputatiecoaching.nl/nieuwsbrief) en schrijf je meteen in.
 
-En je kunt rechtstreeks op de website een voicemail achterlaten, door op de tab aan de rechterkant van elke pagina te klikken, en je bericht in te spreken. Dit was [ReputatieCoaching Podast aflevering 34](https://www.reputatiecoaching.nl/34) en mijn naam is [Eduard de Boer](http://nl.linkedin.com/in/eduarddeboer).
+En je kunt rechtstreeks op de website een voicemail achterlaten, door op de tab aan de rechterkant van elke pagina te klikken, en je bericht in te spreken. Dit was [ReputatieCoaching Podast aflevering 34](/nl/archief/reputatiecoaching/034/) en mijn naam is [Eduard de Boer](http://nl.linkedin.com/in/eduarddeboer).
 
 Ik wens je de komende week weer succes met het werken aan je reputatie, zodat je meteen je reputatie voor jou kunt laten werken!
 

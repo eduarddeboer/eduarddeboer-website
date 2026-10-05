@@ -3,6 +3,8 @@ title: '70: Social media training aan tandheelkundigen, Facebook privacy instell
 date: '2014-03-31T07:30:44+00:00'
 description: In de podcast van vorige week kwam ik niet meer toe aan het nieuws dat het Google Webspam team onder leiding van Matt Cutts weer een spam netwerk de virtuele nek heeft omgedraaid, dus dat komt vandaag eerst aan bod. En vorige week heb ik een presentatie mogen geven aan een groep van tandheelkundigen over social media, privacy en gerelateerde onderwerpen. Tijdens die presentatie kwam voornamelijk de zorg naar voren over de privacyinstellingen van Facebook, dus later in deze podcast daarover meer.
 episode: 70
+kgRef: podcast_episode/reputatiecoaching_070
+source_url: https://www.reputatiecoaching.nl/70
 historical: true
 archivePeriod: 2012–2016
 transcriptStatus: full
@@ -17,26 +19,24 @@ showTaxonomies: false
 
 > **Historisch archief.** Deze aflevering verscheen op 31-03-2014 als onderdeel van ReputatieCoaching (2012–2016). De oorspronkelijke tekst is hieronder historisch bewaard. Diensten, contactgegevens, links, tools en adviezen kunnen inmiddels verouderd zijn.
 
-{{< audio src="https://archive.org/download/20140331-reputatie-coaching-podcast-070/20140331-ReputatieCoaching-Podcast-070.mp3" title="ReputatieCoaching Podcast #070" >}}
-
 **Transcriptiestatus:** Volledige transcriptie uit het oorspronkelijke archief.
 
 ***Historische afbeelding niet beschikbaar: ReputatieCoaching Podcast*
-In de [podcast van vorige week](https://www.reputatiecoaching.nl/69/) kwam ik niet meer toe aan het nieuws dat het Google Webspam team onder leiding van Matt Cutts weer een spam netwerk de virtuele nek heeft omgedraaid, dus dat komt vandaag eerst aan bod. En vorige week heb ik een presentatie mogen geven aan een groep van tandheelkundigen over social media, privacy en gerelateerde onderwerpen. Tijdens die presentatie kwam voornamelijk de zorg naar voren over de privacyinstellingen van Facebook, dus later in deze podcast daarover meer. Ik sluit de podcast van vandaag af met informatie over een online reputatieverzekering in België.**
+In de [podcast van vorige week](/nl/archief/reputatiecoaching/069/) kwam ik niet meer toe aan het nieuws dat het Google Webspam team onder leiding van Matt Cutts weer een spam netwerk de virtuele nek heeft omgedraaid, dus dat komt vandaag eerst aan bod. En vorige week heb ik een presentatie mogen geven aan een groep van tandheelkundigen over social media, privacy en gerelateerde onderwerpen. Tijdens die presentatie kwam voornamelijk de zorg naar voren over de privacyinstellingen van Facebook, dus later in deze podcast daarover meer. Ik sluit de podcast van vandaag af met informatie over een online reputatieverzekering in België.**
 
 Hallo en hartelijk welkom bij deze 70e aflevering van de ReputatieCoaching Podcast. Mijn naam is Eduard de Boer, ook bekend als de ReputatieCoach. Dit is dé podcast die je moet beluisteren als je meer wilt leren over online reputatie en reputatiemanagement en ook als je wilt werken aan je online reputatie en je online vindbaarheid wilt verbeteren. Dit alles kan je helpen om jezelf beter op de online kaart te plaatsen, waardoor je als bedrijf meer business kunt doen.
 
 Als persoon kun je met de diverse tips aan de slag om je eigen online reputatie te verbeteren.
 
-De podcast kun je vinden op [www.reputatiecoaching.nl/70](https://www.reputatiecoaching.nl/70/). Daar vind je niet alleen de tekst, maar ook video’s waar ik het in deze uitzending over heb, alsmede afbeeldingen, links enzovoorts. Bovendien is de podcast te beluisteren in [iTunes](https://www.reputatiecoaching.nl/itunes) en op [Stitcher](https://www.reputatiecoaching.nl/stitcher). Daar kun je je dus ook abonneren op de wekelijkse podcast. Veel mensen vinden het ideaal om de wekelijkse afleveringen van de podcast op hun gemak te beluisteren, terwijl ze autorijden.
+De podcast kun je vinden op [www.reputatiecoaching.nl/70](/nl/archief/reputatiecoaching/070/). Daar vind je niet alleen de tekst, maar ook video’s waar ik het in deze uitzending over heb, alsmede afbeeldingen, links enzovoorts. Bovendien is de podcast te beluisteren in [iTunes](https://web.archive.org/web/*/https://www.reputatiecoaching.nl/itunes) en op [Stitcher](https://web.archive.org/web/*/https://www.reputatiecoaching.nl/stitcher). Daar kun je je dus ook abonneren op de wekelijkse podcast. Veel mensen vinden het ideaal om de wekelijkse afleveringen van de podcast op hun gemak te beluisteren, terwijl ze autorijden.
 
 ## Terugblik op podcast 69
 
-Als ik nog even kort terugblik naar [podcast 69](https://www.reputatiecoaching.nl/69/), dan is de belangrijkste tip die ik daaruit kan distilleren, de tip over het “Claimen en verifiëren van je zakelijke Google+ pagina”. Want als je dat niet doet, bestaat het risico dat Google op termijn de Google+ pagina van je bedrijf gewoon verwijdert, inclusief alle content die je mogelijk de afgelopen jaren erop hebt verzameld.
+Als ik nog even kort terugblik naar [podcast 69](/nl/archief/reputatiecoaching/069/), dan is de belangrijkste tip die ik daaruit kan distilleren, de tip over het “Claimen en verifiëren van je zakelijke Google+ pagina”. Want als je dat niet doet, bestaat het risico dat Google op termijn de Google+ pagina van je bedrijf gewoon verwijdert, inclusief alle content die je mogelijk de afgelopen jaren erop hebt verzameld.
 
 Dus: *claim en verifieer je zakelijke Google+ pagina, voor het te laat is!*
 
-Oh, en voordat ik doorga met de onderwerpen van vandaag… Een paar weken geleden in [podcast 64](https://www.reputatiecoaching.nl/64/) beloofde ik je te melden als ik nieuws had over hoelang het duurt, voordat je bedrijf wordt vertoond in Apple Kaarten, nadat je het hebt aangemeld op Yelp en TomTom Places.
+Oh, en voordat ik doorga met de onderwerpen van vandaag… Een paar weken geleden in [podcast 64](/nl/archief/reputatiecoaching/064/) beloofde ik je te melden als ik nieuws had over hoelang het duurt, voordat je bedrijf wordt vertoond in Apple Kaarten, nadat je het hebt aangemeld op Yelp en TomTom Places.
 
 Ik vertelde je toen dat ik op 3 december 2013 een bedrijf had aangemeld op Yelp en TomTom Places en dat die toen nog niet zichtbaar was. Ik controleer niet dagelijks of de vermelding in Apple Kaarten is te vinden, maar ik zag 18 maart wel, dat het bedrijf te vinden was op Apple Kaarten. En het wordt nota bene ook nog als eerste keus vertoond. Grappig genoeg wordt de recensie die de tandarts in Culemborg heeft, nog niet vertoond. Ook dat zal ik in de gaten blijven houden:
 
@@ -220,13 +220,13 @@ Vanuit mijn ervaring met contentmarketing en de tijd die het kost om relevante, 
 
 Ik heb begrepen dat Nederlandse verzekeraars hier wel over hebben nagedacht, maar dat ze nog niet overwegen om überhaupt een dergelijke verzekering in het leven te roepen.
 
-En jij? Wat vind jij? Hoe denk jij hierover? Zou jij een online reputatieverzekering afsluiten of ben je inmiddels zeker genoeg van jouw contentmarketing kwaliteiten en neem je in zo’n geval liever zelf het heft in eigen handen? Laat het me weten onderaan de transcriptie van deze podcast, op [www.reputatiecoaching.nl/70](https://www.reputatiecoaching.nl/70/).
+En jij? Wat vind jij? Hoe denk jij hierover? Zou jij een online reputatieverzekering afsluiten of ben je inmiddels zeker genoeg van jouw contentmarketing kwaliteiten en neem je in zo’n geval liever zelf het heft in eigen handen? Laat het me weten onderaan de transcriptie van deze podcast, op [www.reputatiecoaching.nl/70](/nl/archief/reputatiecoaching/070/).
 
 Met dit topic over de online reputatieverzekering kom ik dan vandaag weer aan het einde van deze podcast. Ik hoop dat je er weer iets van hebt opgestoken en dat je ook deze keer weer tot het eind hebt geluisterd.
 
 Wil je nog beter op de hooge blijven van alle posts, of met me in contact komen? Tweet dan naar @reputatiecoach1. Natuurlijk stel ik een tweet met daarin kort wat je van de podcast vindt, ook enorm op prijs.
 
-Als je de podcast leuk vindt en je hebt inderdaad wat aan alle informatie die ik met je deel, help mij dan met het verder verbeteren en promoten van deze podcast. Surf dan naar [iTunes](https://www.reputatiecoaching.nl/itunes) of [Stitcher](https://www.reputatiecoaching.nl/stitcher), geef de podcast een sterrenbeoordeling en geef ook je reactie. Door de podcast te beoordelen op iTunes en/of Stitcher breng je de podcast onder de aandacht van een breder publiek.
+Als je de podcast leuk vindt en je hebt inderdaad wat aan alle informatie die ik met je deel, help mij dan met het verder verbeteren en promoten van deze podcast. Surf dan naar [iTunes](https://web.archive.org/web/*/https://www.reputatiecoaching.nl/itunes) of [Stitcher](https://web.archive.org/web/*/https://www.reputatiecoaching.nl/stitcher), geef de podcast een sterrenbeoordeling en geef ook je reactie. Door de podcast te beoordelen op iTunes en/of Stitcher breng je de podcast onder de aandacht van een breder publiek.
 
 Je kunt me verder helpen, door de podcast aan te bevelen bij vrienden of collega’s, waarvan je denkt dat ze er hun voordeel mee kunnen doen, of erover te tweeten op Twitter, de site of de podcast te like’n en delen op Facebook of een “+1” te geven op Google+.
 
@@ -234,7 +234,7 @@ En vergeet niet: ik ben hier om jou te helpen! Als je een vraag of een probleem 
 
 Als je dat te lastig vindt, of als je de podcast beluistert terwijl je in de auto zit en je hebt acuut een vraag, spreek dan een boodschap in op de ReputatieCoaching Hotline, op nummer: 084 - 883 15 56. Mogelijk behandel ik je vraag of probleem dan in een artikel of in de podcast.
 
-En je kunt ook rechtstreeks op de website een voicemail achterlaten, door op de tab aan de rechterkant van elke pagina te klikken, en je bericht in te spreken. Dit was [ReputatieCoaching Podcast aflevering 70](https://www.reputatiecoaching.nl/70/) en mijn naam is [Eduard de Boer](http://nl.linkedin.com/in/eduarddeboer/nl).
+En je kunt ook rechtstreeks op de website een voicemail achterlaten, door op de tab aan de rechterkant van elke pagina te klikken, en je bericht in te spreken. Dit was [ReputatieCoaching Podcast aflevering 70](/nl/archief/reputatiecoaching/070/) en mijn naam is [Eduard de Boer](http://nl.linkedin.com/in/eduarddeboer/nl).
 
 Ik wens je de komende week weer succes met het werken aan je reputatie, zodat je meteen je reputatie voor jou kunt laten werken!
 
@@ -245,8 +245,8 @@ Doei!
 Links naar content die in deze podcast aan bod komt:
 
 ```
-  * [ReputatieCoaching Podcast in iTunes](https://www.reputatiecoaching.nl/itunes)
-  * [ReputatieCoaching Podcast op Stitcher](https://www.reputatiecoaching.nl/stitcher)
+  * [ReputatieCoaching Podcast in iTunes](https://web.archive.org/web/*/https://www.reputatiecoaching.nl/itunes)
+  * [ReputatieCoaching Podcast op Stitcher](https://web.archive.org/web/*/https://www.reputatiecoaching.nl/stitcher)
   * [ReputatieCoaching Podcast RSS-feed](https://feeds.reputatiecoaching.nl/ReputatieCoachingPodcast)
   * [Here.com](http://here.com) online kaart van Nokia
   * "[E-protection](https://www.axa.be/ab/NL/particulieren/verzekeringen/ongevallen/Pages/ongevallen-en-risicos.aspx), de reputatieverzekering van AXA België

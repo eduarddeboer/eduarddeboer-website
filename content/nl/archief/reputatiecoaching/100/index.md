@@ -3,6 +3,8 @@ title: Emile Ratelband (@emileratelband) over reputatieschade en imago - Podcast
 date: '2014-10-30T07:30:53+00:00'
 description: Ja, je hoort het goed! Dit is de 100e aflevering van de ReputatieCoaching Podcast en ik ben Eduard de Boer, ReputatieCoach. Podcast nummer 100… Dat betekent dat ik bijna 2 jaar bezig ben. Maar met 52 weken in een jaar, zou uitzending 104 dan een feestelijke aangelegenheid zijn. Ik heb er echter voor gekozen om deze honderdste uitzending als feestmoment aan te wijzen. Ik vind 100 gewoon een mooiere mijlpaal dan 104.
 episode: 100
+kgRef: podcast_episode/reputatiecoaching_100
+source_url: https://www.reputatiecoaching.nl/100
 historical: true
 archivePeriod: 2012–2016
 transcriptStatus: full
@@ -17,8 +19,6 @@ showTaxonomies: false
 
 > **Historisch archief.** Deze aflevering verscheen op 30-10-2014 als onderdeel van ReputatieCoaching (2012–2016). De oorspronkelijke tekst is hieronder historisch bewaard. Diensten, contactgegevens, links, tools en adviezen kunnen inmiddels verouderd zijn.
 
-{{< audio src="https://archive.org/download/20141030-reputatie-coaching-podcast-100/20141030-ReputatieCoaching-Podcast-100.mp3" title="ReputatieCoaching Podcast #100" >}}
-
 **Transcriptiestatus:** Volledige transcriptie uit het oorspronkelijke archief.
 
 **![Emile Ratelband](Emile-Ratelband-en-ik.jpg)
@@ -32,7 +32,7 @@ Ja, je hoort het goed! Dit is de 100e aflevering van de ReputatieCoaching Podcas
 
 Eerst heb ik jouw hulp nodig. Help mij met deze mijlpaal en zet de podcast op de online kaart! In plaats van mij te feliciteren via mail, Twitter of Facebook: doe iets anders…
 
-De podcast kun je vinden op [www.reputatiecoaching.nl/100](https://www.reputatiecoaching.nl/100/). Tweet, Like of Share deze link. Deel ’m ook op LinkedIn (of markeer de podcast daar als interessant), deel de podcast ook op Google+ en geef een +1, als je op Google+ zit. Heb je een [iTunes](https://www.reputatiecoaching.nl/itunes) account, laat dan een sterrenbeoordeling en een reactie achter op iTunes. Gebruik je Stitcher, beoordeel de podcast daar! Dat is JOUW manier om mij te feliciteren! Doe het nu eerst, voordat je het vergeet!
+De podcast kun je vinden op [www.reputatiecoaching.nl/100](/nl/archief/reputatiecoaching/100/). Tweet, Like of Share deze link. Deel ’m ook op LinkedIn (of markeer de podcast daar als interessant), deel de podcast ook op Google+ en geef een +1, als je op Google+ zit. Heb je een [iTunes](https://web.archive.org/web/*/https://www.reputatiecoaching.nl/itunes) account, laat dan een sterrenbeoordeling en een reactie achter op iTunes. Gebruik je Stitcher, beoordeel de podcast daar! Dat is JOUW manier om mij te feliciteren! Doe het nu eerst, voordat je het vergeet!
 
 Dan over op het interview… Ik skip vandaag de hele riedel over het doel van de podcast etc., want Emile heeft dat veel mooier verwoord, dan ik dat kan.
 
@@ -65,7 +65,7 @@ Laten we maar van wal steken…
 
 En met deze wijze woorden van Emile kom ik dan weer aan het einde van deze bijzondere aflevering van de ReputatieCoaching Podcast. Ik ben eerlijk gezegd best wel een beetje trots, dat ik het 100 afleveringen heb volgehouden! Help mij met deze mijlpaal te vieren en deel deze podcast overal waar je maar kunt!
 
-Dit was [ReputatieCoaching Podcast aflevering 100](https://www.reputatiecoaching.nl/100/) en ik ben [Eduard de Boer](http://nl.linkedin.com/in/eduarddeboer/nl).
+Dit was [ReputatieCoaching Podcast aflevering 100](/nl/archief/reputatiecoaching/100/) en ik ben [Eduard de Boer](http://nl.linkedin.com/in/eduarddeboer/nl).
 
 Ik ga mijn best doen om de volgende 100 uitzendingen jou weer en nog steeds van interessante, nuttige en leerzame informatie te voorzien.
 
@@ -76,8 +76,8 @@ Doei!
 Links naar content die in deze podcast aan bod komt:
 
 ```
-  * [ReputatieCoaching Podcast in iTunes](https://www.reputatiecoaching.nl/itunes)
-  * [ReputatieCoaching Podcast op Stitcher](https://www.reputatiecoaching.nl/stitcher)
+  * [ReputatieCoaching Podcast in iTunes](https://web.archive.org/web/*/https://www.reputatiecoaching.nl/itunes)
+  * [ReputatieCoaching Podcast op Stitcher](https://web.archive.org/web/*/https://www.reputatiecoaching.nl/stitcher)
   * [ReputatieCoaching Podcast op TuneIn Radio](http://tunein.com/radio/ReputatieCoaching-Podcast-p655084/)
   * [ReputatieCoaching Podcast RSS-feed](https://feeds.reputatiecoaching.nl/ReputatieCoachingPodcast)
   * [Ratelband Research Institute](http://www.ratelband.com)

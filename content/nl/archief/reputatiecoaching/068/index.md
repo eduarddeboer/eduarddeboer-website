@@ -3,6 +3,8 @@ title: '68: IPTC & XMP metadata voor mogelijk betere vindbaarheid foto''s, revie
 date: '2014-03-17T07:30:24+00:00'
 description: 'Vorige week beloofde ik je nog een video van Matt Cutts over het effect van EXIF-data in foto’s, dus die krijg je deze week echt van me; dan heb ik die belofte tenminste ingelost. Verder heb ik het volgende voor je… Een nieuwtje: Arend Landman gaat in de komende tijd op zondag een gastblog schrijven met aardige, nuttige, relevante en interessante spreuken, citaten en oneliners over topics die in meer of mindere mate met reputatie en reputatiemanagement te maken hebben.'
 episode: 68
+kgRef: podcast_episode/reputatiecoaching_068
+source_url: https://www.reputatiecoaching.nl/68
 historical: true
 archivePeriod: 2012–2016
 transcriptStatus: full
@@ -17,8 +19,6 @@ showTaxonomies: false
 
 > **Historisch archief.** Deze aflevering verscheen op 17-03-2014 als onderdeel van ReputatieCoaching (2012–2016). De oorspronkelijke tekst is hieronder historisch bewaard. Diensten, contactgegevens, links, tools en adviezen kunnen inmiddels verouderd zijn.
 
-{{< audio src="https://archive.org/download/20140317-reputatie-coaching-podcast-068/20140317-ReputatieCoaching-Podcast-068.mp3" title="ReputatieCoaching Podcast #068" >}}
-
 **Transcriptiestatus:** Volledige transcriptie uit het oorspronkelijke archief.
 
 ***Historische afbeelding niet beschikbaar: ReputatieCoaching Podcast*
@@ -28,7 +28,7 @@ Hallo en hartelijk welkom bij deze aflevering van de ReputatieCoaching Podcast. 
 
 Als persoon kun je met de diverse tips aan de slag om bijvoorbeeld je online reputatie als paardrij-instructeur, voedingsmiddelentechnoloog, videogame designer, geluidstechnicus, databaseontwerper of wat dan ook te verbeteren.
 
-De volledige transcriptie (dat is gewoon een ander woord voor “tekst”) van deze podcast kun je vinden op [www.reputatiecoaching.nl/68](https://www.reputatiecoaching.nl/68/). Daar vind je niet alleen de tekst, maar ook video’s waar ik het in deze uitzending over heb, alsmede afbeeldingen, links enzovoorts.
+De volledige transcriptie (dat is gewoon een ander woord voor “tekst”) van deze podcast kun je vinden op [www.reputatiecoaching.nl/68](/nl/archief/reputatiecoaching/068/). Daar vind je niet alleen de tekst, maar ook video’s waar ik het in deze uitzending over heb, alsmede afbeeldingen, links enzovoorts.
 
 Oh, voordat ik begin met de terugblik op de vorige aflevering van de ReputatieCoaching podcast nog even kort over de Ordina Glass Contest die afgelopen donderdagavond plaatsvond in Nieuwegein. Daar waren maar liefst twee Google Glass Explorers, te weten Tjeerd-Jan van der Molen van Ordina en Brechtje van der Leij, die aan het hoofd staat van de productontwikkeling van de afdeling “Nieuws” van NU.NL. Laatst had ik al de twee promotievideo’s die ik hiervoor had gemaakt, met je gedeeld, maar nu wil ik de openingsvideo met je delen. Die heb ik dan ook opgenomen in de show notes:
 
@@ -36,7 +36,7 @@ Zo zie je maar dat je helemaal geen torenhoge kosten hoeft te maken, om een aard
 
 ## Terugblik podcast #67
 
-In de [podcast van vorige week](https://www.reputatiecoaching.nl/67/) vertelde ik je onder andere over hoe je je bedrijf van Internet kunt verwijderen. Dat blijkt behoorlijk lastig, want als zoekmachines een associatie blijven vinden tussen jouw adres en een bepaalde bedrijfsactiviteit, dan willen ze dit graag aan andere mensen die daarnaar op zoek zijn, vertellen. En dat is helemaal het geval, als er ook nog eens een telefoonnummer bij staat.
+In de [podcast van vorige week](/nl/archief/reputatiecoaching/067/) vertelde ik je onder andere over hoe je je bedrijf van Internet kunt verwijderen. Dat blijkt behoorlijk lastig, want als zoekmachines een associatie blijven vinden tussen jouw adres en een bepaalde bedrijfsactiviteit, dan willen ze dit graag aan andere mensen die daarnaar op zoek zijn, vertellen. En dat is helemaal het geval, als er ook nog eens een telefoonnummer bij staat.
 
 [[Historische afbeelding: XOIP](https://lh5.googleusercontent.com/-gCJLGLfhwZo/UyYwIzPwpcI/AAAAAAAAAhY/PpEBaaJBTnA/w200-no/xoip.jpg)](http://www.xoip.com)Een belangrijk advies uit de vorige podcast is dan ook om voor je bedrijfsactiviteiten eigenlijk altijd een ander telefoonnummer te nemen, dan je eigen mobiele nummer, of het nummer van je vaste telefoonaansluiting. Koop gewoon voor twee tientjes een simpele, traditionele mobiele telefoon met een prepaid kaart en communiceer dat nummer in de markt.
 
@@ -46,11 +46,11 @@ Tot zover de les van de vorige podcast. Dan nu over op het eerste onderwerp van 
 
 ## Vast gastblog op zondag van Arend Landman
 
-Arend Landman is al vaker in de show geweest. Zo had ik een interview met hem in [aflevering 42](https://www.reputatiecoaching.nl/42/) over contentmarketing. Op zijn eigen weblog trekt hij altijd veel bezoekers met zijn wijze woorden in de vorm van spreuken, uitspraken, aforismen, citaten en andere one-liners over de meest uiteenlopende onderwerpen.
+Arend Landman is al vaker in de show geweest. Zo had ik een interview met hem in [aflevering 42](/nl/archief/reputatiecoaching/042/) over contentmarketing. Op zijn eigen weblog trekt hij altijd veel bezoekers met zijn wijze woorden in de vorm van spreuken, uitspraken, aforismen, citaten en andere one-liners over de meest uiteenlopende onderwerpen.
 
 Hij heeft mij aangeboden om de komende paar weken ter opluistering van het weblog elke zondag een aantal van dergelijke puntige, korte teksten te zullen publiceren en gisteren heeft hij de eerste verzameling al gepubliceerd. Vanzelfsprekend is het thema van deze eerste citatenverzameling “Reputatie”.
 
-[*Historische afbeelding niet beschikbaar: Reputatie uitspraken, citaten, aforismen etc.*](https://www.reputatiecoaching.nl/citaten-reputatie-naast-quotes-ook-spreuken-oneliners-en-aforismen-reputatiemanagement/)
+[*Historische afbeelding niet beschikbaar: Reputatie uitspraken, citaten, aforismen etc.*](https://web.archive.org/web/*/https://www.reputatiecoaching.nl/citaten-reputatie-naast-quotes-ook-spreuken-oneliners-en-aforismen-reputatiemanagement/)
 
 Ik wil een paar leuke citaten met je delen…
 
@@ -171,7 +171,7 @@ Toegegeven, als Google de GPS-coördinaten van een foto koppelt aan GPS-data die
 
 Om hier alvast maximaal op voor te sorteren met alle foto’s die ik maak, geotag ik alle foto’s die ik overhoud na een fotoshoot en die ik aan een opdrachtgever overhandig, of die ik ergens publiceer. Reden hiervoor is dat mijn digitale spiegelreflexcamera’s dit (nog) niet zelf doen.
 
-Ik gebruik simpelweg het programma Picasa van Google voor het [geotaggen van foto’s](https://www.reputatiecoaching.nl/geotag-je-bedrijfsfotos-met-picasa/). Mocht Google dan ooit in de toekomst foto’s echt gaan koppelen aan bepaalde locaties, zoals bijvoorbeeld trouwlocaties, dan weet ik tenminste zeker dat mijn foto’s daar gereed voor zijn. En het is altijd beter om dat vooraf te doen, terwijl je toch bezig bent met de workflow van je fotoshoot, dan dat je dat achteraf moet doen voor al je foto’s.
+Ik gebruik simpelweg het programma Picasa van Google voor het [geotaggen van foto’s](https://web.archive.org/web/*/https://www.reputatiecoaching.nl/geotag-je-bedrijfsfotos-met-picasa/). Mocht Google dan ooit in de toekomst foto’s echt gaan koppelen aan bepaalde locaties, zoals bijvoorbeeld trouwlocaties, dan weet ik tenminste zeker dat mijn foto’s daar gereed voor zijn. En het is altijd beter om dat vooraf te doen, terwijl je toch bezig bent met de workflow van je fotoshoot, dan dat je dat achteraf moet doen voor al je foto’s.
 
 Daarom raad ik ook jou aan om je foto’s vanaf nu te gaan geotaggen. Al doe je het niet voor Google, dan kan het altijd leuk zijn voor je nageslacht, als ze kunnen zien waar je de foto’s precies hebt gemaakt.
 
@@ -184,7 +184,7 @@ Maar er is nog andere metadata die onzichtbaar in fotobestanden kan worden opgen
   * **XMP** is de relatief nieuwe XML-standaard “eXtensible Metadata Platform”, dat in 2001 door Adobe is ontwikkeld. Adobe werkte toen met de IPTC om de oude “IPTC headers” op te nemen in het nieuwe XMP framework. In 2005 lanceerde Adobe de “IPTC Core Schema for XMP” specificatie. XMP is een publiekelijke, open source standaard die het voor ontwikkelaars gemakkelijker maakt om de specificatie in andere software over te nemen. XMP metadata kan voor veel bestandstypen worden gebruikt, maar voor grafische formaten wordt het over het algemeen alleen voor JPG en TIFF bestanden gebruikt.
 ```
 
-Naast dat ik al mijn [foto’s van geografische (GPS-)coördinaten](https://www.reputatiecoaching.nl/geotag-je-bedrijfsfotos-met-picasa/) voorzie, vul ik bij de foto’s die ik oplever of die ik voor een bepaald project bewaar de metadatavelden ook met relevante gegevens. Dus bijvoorbeeld de naam, straat, postcode en plaats van de locatie, evenals allerlei trefwoorden, categorieën enzovoorts.
+Naast dat ik al mijn [foto’s van geografische (GPS-)coördinaten](https://web.archive.org/web/*/https://www.reputatiecoaching.nl/geotag-je-bedrijfsfotos-met-picasa/) voorzie, vul ik bij de foto’s die ik oplever of die ik voor een bepaald project bewaar de metadatavelden ook met relevante gegevens. Dus bijvoorbeeld de naam, straat, postcode en plaats van de locatie, evenals allerlei trefwoorden, categorieën enzovoorts.
 
 “Baat het niet, dan schaadt het niet”, is mijn motto wat dat betreft. Je kunt die gegevens er maar beter wel in hebben, vind ik. Natuurlijk is het dan gemakkelijker om foto’s te zoeken en bovenal te vinden en het kan je helpen in de toekomst.
 
@@ -198,7 +198,7 @@ Als je de podcast leuk vindt en je hebt inderdaad wat aan alle informatie die ik
 
 Als je een vraag of een probleem hebt met betrekking tot je online reputatie of de vindbaarheid van je website, kun je een mailtje sturen naar [podcast@reputatiecoaching.nl](mailto:podcast@reputatiecoaching.nl). Als je dat te lastig vindt, of als je de podcast beluistert terwijl je in de auto zit en je hebt acuut een vraag, spreek dan een boodschap in op de ReputatieCoaching Hotline, op nummer: 084 - 883 15 56. Mogelijk behandel ik je vraag of probleem dan in een artikel of in de podcast.
 
-En je kunt ook rechtstreeks op de website een voicemail achterlaten, door op de tab aan de rechterkant van elke pagina te klikken, en je bericht in te spreken. Dit was [ReputatieCoaching Podcast aflevering 68](https://www.reputatiecoaching.nl/68/) en mijn naam is [Eduard de Boer](http://nl.linkedin.com/in/eduarddeboer/nl).
+En je kunt ook rechtstreeks op de website een voicemail achterlaten, door op de tab aan de rechterkant van elke pagina te klikken, en je bericht in te spreken. Dit was [ReputatieCoaching Podcast aflevering 68](/nl/archief/reputatiecoaching/068/) en mijn naam is [Eduard de Boer](http://nl.linkedin.com/in/eduarddeboer/nl).
 
 Ik wens je de komende week weer succes met het werken aan je reputatie, zodat je meteen je reputatie voor jou kunt laten werken!
 
@@ -209,8 +209,8 @@ Doei!
 Links naar content die in deze podcast aan bod komt:
 
 ```
-  * [ReputatieCoaching Podcast in iTunes](https://www.reputatiecoaching.nl/itunes)
-  * [ReputatieCoaching Podcast op Stitcher](https://www.reputatiecoaching.nl/stitcher)
+  * [ReputatieCoaching Podcast in iTunes](https://web.archive.org/web/*/https://www.reputatiecoaching.nl/itunes)
+  * [ReputatieCoaching Podcast op Stitcher](https://web.archive.org/web/*/https://www.reputatiecoaching.nl/stitcher)
   * [ReputatieCoaching Podcast RSS-feed](https://feeds.reputatiecoaching.nl/ReputatieCoachingPodcast)
   * “_[The End of Facebook Email](http://www.exacttarget.com/blog/the-end-of-facebook-email/)_” (ExactTarget.com blog, 27 februari 2014)
 ```

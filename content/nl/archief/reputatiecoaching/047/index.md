@@ -3,6 +3,8 @@ title: '47: Google over guest blogging en een tip van Mike Blumenthal. Scoren re
 date: '2013-10-21T06:30:37+00:00'
 description: Het was vandaag weer eens ouderwets moeilijk om uit al het nieuws te kiezen. Allereerst wat nieuws over WordPress 3.7, die binnenkort uitkomt. Dan volgt de mening van Matt Cutts over guest blog spamming en vorige week ging de koers van Google door de duizend dollargrens! Mike Blumenthal geeft antwoord op de vraag of je je bedrijfsomschrijving over alle sites uniek moet maken. En scoort een site die gebaseerd is op het zogenaamde “responsive webdesign” nu hoger dan non-responsive sites?
 episode: 47
+kgRef: podcast_episode/reputatiecoaching_047
+source_url: https://www.reputatiecoaching.nl/47
 historical: true
 archivePeriod: 2012–2016
 transcriptStatus: full
@@ -17,8 +19,6 @@ showTaxonomies: false
 
 > **Historisch archief.** Deze aflevering verscheen op 21-10-2013 als onderdeel van ReputatieCoaching (2012–2016). De oorspronkelijke tekst is hieronder historisch bewaard. Diensten, contactgegevens, links, tools en adviezen kunnen inmiddels verouderd zijn.
 
-{{< audio src="https://archive.org/download/20131021-reputatie-coaching-podcast-047/20131021-ReputatieCoaching-Podcast-047.mp3" title="ReputatieCoaching Podcast #047" >}}
-
 **Transcriptiestatus:** Volledige transcriptie uit het oorspronkelijke archief.
 
 ***Historische afbeelding niet beschikbaar: ReputatieCoaching Podcast*
@@ -32,15 +32,15 @@ Het was vandaag weer eens ouderwets moeilijk om uit al het nieuws te kiezen. All
 
 ## Terugblik op de vorige podcast
 
-Voordat ik overga op de onderwerpen voor vandaag, nog even een korte terugblik op de [podcast van vorige week](https://www.reputatiecoaching.nl/46/). Daarin had ik een leuk interview met Robert Spakman van [MeetingRoomReview.com](http://www.meetingroomreview.com), een site specifiek voor het verzamelen van reviews van vergaderlocaties.
+Voordat ik overga op de onderwerpen voor vandaag, nog even een korte terugblik op de [podcast van vorige week](/nl/archief/reputatiecoaching/046/). Daarin had ik een leuk interview met Robert Spakman van [MeetingRoomReview.com](http://www.meetingroomreview.com), een site specifiek voor het verzamelen van reviews van vergaderlocaties.
 
 Zojuist keek ik nog weer eens naar de site en zag ook dat die alweer was veranderd. Zo worden op dit moment ook recentelijk gereviewde locaties getoond.
 
 *Historische afbeelding niet beschikbaar: MeetingroomReview.com*
 
-Eerder deze week heb ik ook een instructievideo gemaakt, waarin ik je laat zien hoe gemakkelijk het is om je [aan te melden als reviewer op MeetingRoomReview.com](https://www.reputatiecoaching.nl/aanmelden-reviewer-meetingroomreview-com-instructievideo/). Deze instructievideo vind je op de website.
+Eerder deze week heb ik ook een instructievideo gemaakt, waarin ik je laat zien hoe gemakkelijk het is om je [aan te melden als reviewer op MeetingRoomReview.com](https://web.archive.org/web/*/https://www.reputatiecoaching.nl/aanmelden-reviewer-meetingroomreview-com-instructievideo/). Deze instructievideo vind je op de website.
 
-En alle links naar sites en relevante artikelen die ik heb geraadpleegd of gebruikt voor het samenstellen van deze podcast vind je onderaan de transcriptie van deze podcast, op: [www.reputatiecoaching.nl/47/](https://www.reputatiecoaching.nl/47/).
+En alle links naar sites en relevante artikelen die ik heb geraadpleegd of gebruikt voor het samenstellen van deze podcast vind je onderaan de transcriptie van deze podcast, op: [www.reputatiecoaching.nl/47/](/nl/archief/reputatiecoaching/047/).
 
 ## WordPress 3.7
 
@@ -137,7 +137,7 @@ Ook de laadsnelheid van de websites varieerde enorm. Specifiek mobiele sites laa
 
 Vooral de lange laadtijd voor responsive websites is klaarblijkelijk een belangrijke factor, waarom ècht mobiele sites hoger scoren: de laadtijd daarvan is een stuk korter. En een kortere laadtijd leidt tot een betere gebruikerservaring en daarmee veelal ook tot een hogere ranking in de zoekresultaten.
 
-Op zich hoeven responsive websites helemaal niet traag te zijn. Zojuist heb ik het nog even gecontroleerd en [www.reputatiecoaching.nl](http://www.reputatiecoaching.nl) laadt nog steeds in zo’n 750 milliseconden, dat is dus een aantal seconden minder, dan het vorige ontwerp, wat overigens ook responsive was.
+Op zich hoeven responsive websites helemaal niet traag te zijn. Zojuist heb ik het nog even gecontroleerd en [www.reputatiecoaching.nl](https://web.archive.org/web/*/http://www.reputatiecoaching.nl) laadt nog steeds in zo’n 750 milliseconden, dat is dus een aantal seconden minder, dan het vorige ontwerp, wat overigens ook responsive was.
 
 ## Domineert Yelp de lokale zoekresultaten in Google USA?
 
@@ -214,9 +214,9 @@ Als je de podcast leuk vindt en je hebt inderdaad wat aan alle informatie die ik
 
 Als je een vraag of een probleem hebt met betrekking tot je online reputatie of de vindbaarheid van je website, kun je een mailtje sturen naar [podcast@reputatiecoaching.nl](mailto:podcast@reputatiecoaching.nl). Als je dat te lastig vindt, of als je de podcast beluistert terwijl je in de auto zit en je hebt acuut een vraag, spreek dan een boodschap in op de ReputatieCoaching Hotline, op nummer: 084 - 883 15 56. Mogelijk behandel ik je vraag of probleem dan in een artikel of in de podcast.
 
-Als laatste kun je je ook inschrijven voor de nieuwsbrief. Dan ontvang je altijd als eerste het laatste nieuws wat ik publiceer en automatisch elk kwartaal het ReputatieCoaching Podcast Boek van het afgelopen kwartaal. Surf daartoe naar [www.reputatiecoaching.nl/nieuwsbrief/](https://www.reputatiecoaching.nl/nieuwsbrief/) en schrijf je meteen in.
+Als laatste kun je je ook inschrijven voor de nieuwsbrief. Dan ontvang je altijd als eerste het laatste nieuws wat ik publiceer en automatisch elk kwartaal het ReputatieCoaching Podcast Boek van het afgelopen kwartaal. Surf daartoe naar [www.reputatiecoaching.nl/nieuwsbrief/](https://web.archive.org/web/*/https://www.reputatiecoaching.nl/nieuwsbrief/) en schrijf je meteen in.
 
-En je kunt ook rechtstreeks op de website een voicemail achterlaten, door op de tab aan de rechterkant van elke pagina te klikken, en je bericht in te spreken. Dit was [ReputatieCoaching Podcast aflevering 47](https://www.reputatiecoaching.nl/47/) en mijn naam is [Eduard de Boer](http://nl.linkedin.com/in/eduarddeboer/nl).
+En je kunt ook rechtstreeks op de website een voicemail achterlaten, door op de tab aan de rechterkant van elke pagina te klikken, en je bericht in te spreken. Dit was [ReputatieCoaching Podcast aflevering 47](/nl/archief/reputatiecoaching/047/) en mijn naam is [Eduard de Boer](http://nl.linkedin.com/in/eduarddeboer/nl).
 
 Ik wens je de komende week weer succes met het werken aan je reputatie, zodat je meteen je reputatie voor jou kunt laten werken!
 

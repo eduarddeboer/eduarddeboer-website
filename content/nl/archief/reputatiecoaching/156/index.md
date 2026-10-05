@@ -3,6 +3,8 @@ title: '156: Doel Lokale Gidsen programma bereikt! Openingstijden bron van erger
 date: '2015-11-26T07:30:23+00:00'
 description: '**Welke onderwerpen komen vandaag aan bod? Ik begin met de voortgang van mijn activiteiten voor het Lokale Gidsen programma van Google. Mijn doel is tenslotte om voor 1 januari 2016, in totaal 500 punten te hebben vergaard, zodat ik dan op niveau 5 zit.** De feestdagen komen eraan… En wat is dan een grote bron van online ergernis? Openingstijden! Of beter gezegd: het ontbreken van openingstijden. Ik vertel je er meer over.'
 episode: 156
+kgRef: podcast_episode/reputatiecoaching_156
+source_url: https://www.reputatiecoaching.nl/156
 historical: true
 archivePeriod: 2012–2016
 transcriptStatus: shownotes
@@ -17,11 +19,9 @@ showTaxonomies: false
 
 > **Historisch archief.** Deze aflevering verscheen op 26-11-2015 als onderdeel van ReputatieCoaching (2012–2016). De oorspronkelijke tekst is hieronder historisch bewaard. Diensten, contactgegevens, links, tools en adviezen kunnen inmiddels verouderd zijn.
 
-{{< audio src="https://archive.org/download/20151126-reputatie-coaching-podcast-156/20151126-ReputatieCoaching-Podcast-156.mp3" title="ReputatieCoaching Podcast #156" >}}
-
 **Transcriptiestatus:** Oorspronkelijke shownotes. Vanaf aflevering 153 werd de podcast niet meer volledig uitgeschreven.
 
-\*\*[*Historische afbeelding niet beschikbaar: ReputatieCoaching Podcast*](https://www.reputatiecoaching.nl/wp-content/uploads/2012/12/Reputatie-Coaching-Podcast-logo-200x200.jpg)Welke onderwerpen komen vandaag aan bod? Ik begin met de voortgang van mijn activiteiten voor het Lokale Gidsen programma van Google. Mijn doel is tenslotte om voor 1 januari 2016, in totaal 500 punten te hebben vergaard, zodat ik dan op niveau 5 zit.\*\*
+\*\*[*Historische afbeelding niet beschikbaar: ReputatieCoaching Podcast*](https://web.archive.org/web/*/https://www.reputatiecoaching.nl/wp-content/uploads/2012/12/Reputatie-Coaching-Podcast-logo-200x200.jpg)Welke onderwerpen komen vandaag aan bod? Ik begin met de voortgang van mijn activiteiten voor het Lokale Gidsen programma van Google. Mijn doel is tenslotte om voor 1 januari 2016, in totaal 500 punten te hebben vergaard, zodat ik dan op niveau 5 zit.\*\*
 
 **De feestdagen komen eraan… En wat is dan een grote bron van online ergernis? Openingstijden! Of beter gezegd: het ontbreken van openingstijden. Ik vertel je er meer over.**
 
@@ -95,8 +95,8 @@ Waar zit je mee in je online business, waarvan je denkt dat ik je kan helpen?
 Links naar content elders op Internet die in deze podcast aan bod komt:
 
 ```
-  * [ReputatieCoaching Podcast in iTunes](https://www.reputatiecoaching.nl/itunes)
-  * [ReputatieCoaching Podcast op Stitcher](https://www.reputatiecoaching.nl/stitcher)
+  * [ReputatieCoaching Podcast in iTunes](https://web.archive.org/web/*/https://www.reputatiecoaching.nl/itunes)
+  * [ReputatieCoaching Podcast op Stitcher](https://web.archive.org/web/*/https://www.reputatiecoaching.nl/stitcher)
   * [ReputatieCoaching Podcast op TuneIn Radio](http://tunein.com/radio/ReputatieCoaching-Podcast-p655084/)
   * [ReputatieCoaching Podcast RSS-feed](https://feeds.reputatiecoaching.nl/ReputatieCoachingPodcast)
   * [Google My Business Page Finder](http://www.michaelcottam.com/google-business-page-finder/) van Michael Cottam

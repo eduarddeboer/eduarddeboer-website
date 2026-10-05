@@ -3,6 +3,8 @@ title: '56: Volg de Kerstman, Pinterest Place Pins op 42bis.nl, duplicate conten
 date: '2013-12-23T07:30:06+00:00'
 description: Nog twee dagen en dan is het Kerstmis. Omdat ik deze keer echt niet te laat wilde zijn met de podcast en ik ook nog eens druk ben met de voorbereidingen voor Kerstmis, heb ik de content voor deze podcast iets eerder verzameld dan normaal en de podcast ook iets eerder ingesproken, namelijk afgelopen zaterdag. Dat zal niets afdoen aan de kwaliteit van de content, want ik heb weer een aantal interessante nieuwtjes en weetjes voor je.
 episode: 56
+kgRef: podcast_episode/reputatiecoaching_056
+source_url: https://www.reputatiecoaching.nl/56
 historical: true
 archivePeriod: 2012–2016
 transcriptStatus: full
@@ -17,14 +19,12 @@ showTaxonomies: false
 
 > **Historisch archief.** Deze aflevering verscheen op 23-12-2013 als onderdeel van ReputatieCoaching (2012–2016). De oorspronkelijke tekst is hieronder historisch bewaard. Diensten, contactgegevens, links, tools en adviezen kunnen inmiddels verouderd zijn.
 
-{{< audio src="https://archive.org/download/20131223-reputatie-coaching-podcast-056/20131223-ReputatieCoaching-Podcast-056.mp3" title="ReputatieCoaching Podcast #056" >}}
-
 **Transcriptiestatus:** Volledige transcriptie uit het oorspronkelijke archief.
 
 ***Historische afbeelding niet beschikbaar: ReputatieCoaching Podcast*
 Nog twee dagen en dan is het Kerstmis. Omdat ik deze keer echt niet te laat wilde zijn met de podcast en ik ook nog eens druk ben met de voorbereidingen voor Kerstmis, heb ik de content voor deze podcast iets eerder verzameld dan normaal en de podcast ook iets eerder ingesproken, namelijk afgelopen zaterdag. Dat zal niets afdoen aan de kwaliteit van de content, want ik heb weer een aantal interessante nieuwtjes en weetjes voor je.**
 
-**Ik kom eerst nog eventjes terug op het onderwerp van Pinterest Place Pins, waar ik het in [podcast 53](https://www.reputatiecoaching.nl/53/) ook al over had en heb ik nieuws over Google Authorship, want er worden beduidend minder profielfoto’s in de zoekresultaten vertoond dan voorheen en ik leg je uit hoe je Google Authorship op Flickr kunt activeren.**
+**Ik kom eerst nog eventjes terug op het onderwerp van Pinterest Place Pins, waar ik het in [podcast 53](/nl/archief/reputatiecoaching/053/) ook al over had en heb ik nieuws over Google Authorship, want er worden beduidend minder profielfoto’s in de zoekresultaten vertoond dan voorheen en ik leg je uit hoe je Google Authorship op Flickr kunt activeren.**
 
 **Verder vertelde Matt Cutts dat duplicate content eigenlijk helemaal niet iets is om bang voor te zijn, want zo’n 25–30% van het web bestaat uit duplicate content. Ik sluit af met een stuk over reactietijden van bedrijven, het antwoord op de vraag waarom je snel moet reageren op vragen die jou bereiken en wat jij er als kleine zelfstandige aan kunt doen om met weinig inspanning en bovenal GRATIS toch alle social media en grote review sites te monitoren.**
 
@@ -32,7 +32,7 @@ Hallo en hartelijk welkom bij deze aflevering van de ReputatieCoaching Podcast. 
 
 Als persoon kun je met de diverse tips aan de slag om bijvoorbeeld je online reputatie als timmerman, laborant, restaurantkok, meteoroloog, keukenhulp of wat dan ook te verbeteren.
 
-In deze podcast komen diverse links aan de orde en ook heb ik het over een paar online video’s. Op [www.reputatiecoaching.nl/56](https://www.reputatiecoaching.nl/56/) kun je de volledige transcriptie teruglezen en ook de links opzoeken en de afbeeldingen en video’s bekijken:
+In deze podcast komen diverse links aan de orde en ook heb ik het over een paar online video’s. Op [www.reputatiecoaching.nl/56](/nl/archief/reputatiecoaching/056/) kun je de volledige transcriptie teruglezen en ook de links opzoeken en de afbeeldingen en video’s bekijken:
 
 [caption id="" align=“aligncenter” width=“512”][![Track Santa op Norad](20131222-Santa-Tracker-screen.png)](https://lh4.googleusercontent.com/-QVruqyCfrRw/UrfB7HJ0AFI/AAAAAAAAAPk/dlEWDsmE3uU/w1024-h840-no/20131222-Santa-Tracker-screen.png) Track Santa op Norad[/caption]
 
@@ -42,7 +42,7 @@ Dan over op de onderwerpen voor vandaag…
 
 ## Pinterest Place Pins voor betere lokale vindbaarheid
 
-In [podcast 53](https://www.reputatiecoaching.nl/53/) vertelde ik je over een nieuwe feature in Pinterest, te weten “Place Pins”. Met deze nieuwe functionaliteit kun je je gepinde afbeeldingen en foto’s koppelen aan locaties. Wellicht is het niet voor iedereen duidelijk hoe dit werkt. Daarom heb ik afgelopen week hiervoor een instructievideo gemaakt, die ik met een [begeleidend artikel heb gepost op 42bis.nl](http://www.42bis.nl/2013/12/pinterest-place-pins-zet-je-pins-op-de-kaart/), om zo een groter publiek te bereiken.
+In [podcast 53](/nl/archief/reputatiecoaching/053/) vertelde ik je over een nieuwe feature in Pinterest, te weten “Place Pins”. Met deze nieuwe functionaliteit kun je je gepinde afbeeldingen en foto’s koppelen aan locaties. Wellicht is het niet voor iedereen duidelijk hoe dit werkt. Daarom heb ik afgelopen week hiervoor een instructievideo gemaakt, die ik met een [begeleidend artikel heb gepost op 42bis.nl](http://www.42bis.nl/2013/12/pinterest-place-pins-zet-je-pins-op-de-kaart/), om zo een groter publiek te bereiken.
 
 Deze instructievideo heb ik opgenomen in de show notes:
 
@@ -55,7 +55,7 @@ Deze instructievideo heb ik opgenomen in de show notes:
 
 Ik denk dat je Place Pins goed kunt gebruiken voor het verstevigen van je lokale presence en het verbeteren van je rankings in de lokale zoekresultaten.
 
-Daarvoor moet jouw bedrijfslocatie wel eerst op Foursquare staan. Je kunt je bedrijf binnen een paar minuten aanmelden, zoals je kunt zien in de video: “[Je bedrijf aanmelden op Foursquare](https://www.reputatiecoaching.nl/je-bedrijf-aanmelden-op-foursquare/)”, die ik een tijd geleden al heb gepubliceerd. Alleen kan het best lang duren, totdat je de verificatiecode per post krijgt toegestuurd. Eventueel kun je het proces bespoedigen, door een betaling van circa US$20 te doen. Dan is je bedrijf meteen geverifieerd.
+Daarvoor moet jouw bedrijfslocatie wel eerst op Foursquare staan. Je kunt je bedrijf binnen een paar minuten aanmelden, zoals je kunt zien in de video: “[Je bedrijf aanmelden op Foursquare](https://web.archive.org/web/*/https://www.reputatiecoaching.nl/je-bedrijf-aanmelden-op-foursquare/)”, die ik een tijd geleden al heb gepubliceerd. Alleen kan het best lang duren, totdat je de verificatiecode per post krijgt toegestuurd. Eventueel kun je het proces bespoedigen, door een betaling van circa US$20 te doen. Dan is je bedrijf meteen geverifieerd.
 
 Maar om Pinterest Place Pins te kunnen gebruiken is het voldoende als je je bedrijf hebt aangemeld, het hoeft niet per se geclaimd en geverifieerd te zijn. Echter, het kost wel zo’n 2–3 dagen tot je bedrijf zichtbaar is op Pinterest, nadat je het op Foursquare hebt aangemeld.
 
@@ -90,7 +90,7 @@ De tandartspraktijk in de instructievideo staat al bovenaan in de lokale zoekres
 
 Dit artikel was mijn eerste artikel op 42bis.nl. Ik had pas na publicatie in de gaten dat ik in mijn profielinstellingen binnen WordPress ook mijn Google+ profiel kon opgeven. Dat heb ik natuurlijk meteen gedaan, evenals dat ik op mijn Google+ profiel heb aangegeven dat ik een bijdrager ben op 42bis.nl.
 
-Zoals je begrijpt was dat voor het [activeren van Google Authorship](https://www.reputatiecoaching.nl/wiki/google-authorship/), om zo mijn foto eventueel in de zoekresultaten erbij vertoond te krijgen. Op het moment dat ik deze podcast maak staat mijn naamsvermelding met de link naar mijn Google+ profiel er (nog) niet bij. Maar ik heb de URL van het artikel in de [Structured Data Testing Tool](http://www.google.nl/webmasters/tools/richsnippets) van Google getest en volgens Google staat alles goed om mijn foto en de Google+ vermelding erbij te vertonen. In de show notes heb ik een screenshot van de resultaten opgenomen:
+Zoals je begrijpt was dat voor het [activeren van Google Authorship](https://web.archive.org/web/*/https://www.reputatiecoaching.nl/wiki/google-authorship/), om zo mijn foto eventueel in de zoekresultaten erbij vertoond te krijgen. Op het moment dat ik deze podcast maak staat mijn naamsvermelding met de link naar mijn Google+ profiel er (nog) niet bij. Maar ik heb de URL van het artikel in de [Structured Data Testing Tool](http://www.google.nl/webmasters/tools/richsnippets) van Google getest en volgens Google staat alles goed om mijn foto en de Google+ vermelding erbij te vertonen. In de show notes heb ik een screenshot van de resultaten opgenomen:
 
 [Historische afbeelding: Google Authorship op 42bis.nl](https://lh5.googleusercontent.com/AyiV6hbm5oe3lU0IU13TmMjQjzhBTRx1fr2wQZ8E8mU=w554-h112-no)
 
@@ -102,7 +102,7 @@ Wat mij dan zo verbaast, is dat alleen Xaviera Ringeling Google Authorship heeft
 
 Zoals je wellicht weet koppel je met behulp van Google Authorship de content die jij produceert aan je Google+ profiel.
 
-Door een speciale link naar je Google+ profiel op te nemen in je artikel en op je Google+ profielpagina te linken naar de site waar je artikel staat, kan Google dan zien dat het content van jou is. Voordat we de beschikking hadden over [vanity URLS op Google+](https://www.reputatiecoaching.nl/google-vanity-url-claimen/) moest je die complexe URL met zo’n lange reeks cijfers opgeven als je Google+ profiel.
+Door een speciale link naar je Google+ profiel op te nemen in je artikel en op je Google+ profielpagina te linken naar de site waar je artikel staat, kan Google dan zien dat het content van jou is. Voordat we de beschikking hadden over [vanity URLS op Google+](https://web.archive.org/web/*/https://www.reputatiecoaching.nl/google-vanity-url-claimen/) moest je die complexe URL met zo’n lange reeks cijfers opgeven als je Google+ profiel.
 
 Maar John Mueller van Google heeft afgelopen week bekendgemaakt dat je ook je vanity URL mag gebruiken: voor Google is het allemaal hetzelfde.
 
@@ -205,9 +205,9 @@ Als je de podcast leuk vindt en je hebt inderdaad wat aan alle informatie die ik
 
 Als je een vraag of een probleem hebt met betrekking tot je online reputatie of de vindbaarheid van je website, kun je een mailtje sturen naar [podcast@reputatiecoaching.nl](mailto:podcast@reputatiecoaching.nl). Als je dat te lastig vindt, of als je de podcast beluistert terwijl je in de auto zit en je hebt acuut een vraag, spreek dan een boodschap in op de ReputatieCoaching Hotline, op nummer: 084 - 883 15 56. Mogelijk behandel ik je vraag of probleem dan in een artikel of in de podcast.
 
-Als laatste kun je je ook inschrijven voor de nieuwsbrief. Dan ontvang je altijd als eerste het laatste nieuws wat ik publiceer en automatisch elk kwartaal het ReputatieCoaching Podcast Boek van het afgelopen kwartaal. Surf daartoe naar [www.reputatiecoaching.nl/nieuwsbrief/](https://www.reputatiecoaching.nl/nieuwsbrief/) en schrijf je meteen in.
+Als laatste kun je je ook inschrijven voor de nieuwsbrief. Dan ontvang je altijd als eerste het laatste nieuws wat ik publiceer en automatisch elk kwartaal het ReputatieCoaching Podcast Boek van het afgelopen kwartaal. Surf daartoe naar [www.reputatiecoaching.nl/nieuwsbrief/](https://web.archive.org/web/*/https://www.reputatiecoaching.nl/nieuwsbrief/) en schrijf je meteen in.
 
-En je kunt ook rechtstreeks op de website een voicemail achterlaten, door op de tab aan de rechterkant van elke pagina te klikken, en je bericht in te spreken. Dit was [ReputatieCoaching Podcast aflevering 56](https://www.reputatiecoaching.nl/56/) en mijn naam is [Eduard de Boer](http://nl.linkedin.com/in/eduarddeboer/nl).
+En je kunt ook rechtstreeks op de website een voicemail achterlaten, door op de tab aan de rechterkant van elke pagina te klikken, en je bericht in te spreken. Dit was [ReputatieCoaching Podcast aflevering 56](/nl/archief/reputatiecoaching/056/) en mijn naam is [Eduard de Boer](http://nl.linkedin.com/in/eduarddeboer/nl).
 
 Ga de komende week lekker Kerstmis vieren met de mensen die je dierbaar zijn. Laat je online reputatie even voor wat het is en geniet!
 

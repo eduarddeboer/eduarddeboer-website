@@ -3,6 +3,8 @@ title: '155: Google+ vernieuwd en Google About Me geïntroduceerd. Fake reviews 
 date: '2015-11-19T07:30:14+00:00'
 description: '**Vandaag begin ik even met je bij te praten over mijn voortgang in het vernieuwde Lokale Gidsen programma van Google. Daarna heb ik wat statistieken over WordPress.** Google+ is totaal vernieuwd en daarmee is ook opeens Google About Me geïntroduceerd. Verder stelt Google je in staat om bedrijven met geografische coördinaten aan te maken, in plaats van met een adres. Enkele online fotoalbums van mij op Google Photos beginnen te ranken in de zoekresultaten.'
 episode: 155
+kgRef: podcast_episode/reputatiecoaching_155
+source_url: https://www.reputatiecoaching.nl/155
 historical: true
 archivePeriod: 2012–2016
 transcriptStatus: shownotes
@@ -17,11 +19,9 @@ showTaxonomies: false
 
 > **Historisch archief.** Deze aflevering verscheen op 19-11-2015 als onderdeel van ReputatieCoaching (2012–2016). De oorspronkelijke tekst is hieronder historisch bewaard. Diensten, contactgegevens, links, tools en adviezen kunnen inmiddels verouderd zijn.
 
-{{< audio src="https://archive.org/download/20151119-reputatie-coaching-podcast-155/20151119-ReputatieCoaching-Podcast-155.mp3" title="ReputatieCoaching Podcast #155" >}}
-
 **Transcriptiestatus:** Oorspronkelijke shownotes. Vanaf aflevering 153 werd de podcast niet meer volledig uitgeschreven.
 
-\*\*[*Historische afbeelding niet beschikbaar: ReputatieCoaching Podcast*](https://www.reputatiecoaching.nl/wp-content/uploads/2012/12/Reputatie-Coaching-Podcast-logo-200x200.jpg)Vandaag begin ik even met je bij te praten over mijn voortgang in het vernieuwde Lokale Gidsen programma van Google. Daarna heb ik wat statistieken over WordPress.\*\*
+\*\*[*Historische afbeelding niet beschikbaar: ReputatieCoaching Podcast*](https://web.archive.org/web/*/https://www.reputatiecoaching.nl/wp-content/uploads/2012/12/Reputatie-Coaching-Podcast-logo-200x200.jpg)Vandaag begin ik even met je bij te praten over mijn voortgang in het vernieuwde Lokale Gidsen programma van Google. Daarna heb ik wat statistieken over WordPress.\*\*
 
 **Google+ is totaal vernieuwd en daarmee is ook opeens Google About Me geïntroduceerd. Verder stelt Google je in staat om bedrijven met geografische coördinaten aan te maken, in plaats van met een adres. Enkele online fotoalbums van mij op Google Photos beginnen te ranken in de zoekresultaten.**
 
@@ -31,7 +31,7 @@ showTaxonomies: false
 
 ## [20151119-google-lokale-gidsen-punten
 
-](https://www.reputatiecoaching.nl/wp-content/uploads/2015/11/20151119-google-lokale-gidsen-punten.jpg)Status Google Lokale Gidsen
+](https://web.archive.org/web/*/https://www.reputatiecoaching.nl/wp-content/uploads/2015/11/20151119-google-lokale-gidsen-punten.jpg)Status Google Lokale Gidsen
 
 Toen het Lokale Gidsen programma door Google werd geïntroduceerd aan het begin van 2015 had ik maar één doel: zo snel mogelijk het hoogste niveau bereiken: niveau 4. Sindskort is er een niveau bijgekomen. Mijn nieuwe doel is nu om dat niveau te bereiken vóór 1 januari 2016!
 
@@ -79,13 +79,13 @@ De vragen die ik kreeg toegestuurd voor het interview door de studenten van de H
 
 ## 5 tips om risico’s van WordPress plugins te minimaliseren
 
-[*Historische afbeelding niet beschikbaar: Wordpress SEO*](https://www.reputatiecoaching.nl/wp-content/uploads/2012/12/Wordpress-logo-2-e1433334691596.jpg)De kans is groot dat jij ook WordPress gebruikt voor je website: tenminste 25% en ik denk zelfs wel groter. Ben jij ook zo iemand die graag verschillende plugins uitprobeert? Ik wel. Met het installeren van plugins loop je bepaalde risico’s en ik vertel je in deze podcast hoe je die risico’s kunt minimaliseren.
+[*Historische afbeelding niet beschikbaar: Wordpress SEO*](https://web.archive.org/web/*/https://www.reputatiecoaching.nl/wp-content/uploads/2012/12/Wordpress-logo-2-e1433334691596.jpg)De kans is groot dat jij ook WordPress gebruikt voor je website: tenminste 25% en ik denk zelfs wel groter. Ben jij ook zo iemand die graag verschillende plugins uitprobeert? Ik wel. Met het installeren van plugins loop je bepaalde risico’s en ik vertel je in deze podcast hoe je die risico’s kunt minimaliseren.
 
 Links naar gerelateerde content die in deze podcast aan bod kwam:
 
 ```
-  * [ReputatieCoaching Podcast in iTunes](https://www.reputatiecoaching.nl/itunes)
-  * [ReputatieCoaching Podcast op Stitcher](https://www.reputatiecoaching.nl/stitcher)
+  * [ReputatieCoaching Podcast in iTunes](https://web.archive.org/web/*/https://www.reputatiecoaching.nl/itunes)
+  * [ReputatieCoaching Podcast op Stitcher](https://web.archive.org/web/*/https://www.reputatiecoaching.nl/stitcher)
   * [ReputatieCoaching Podcast op TuneIn Radio](http://tunein.com/radio/ReputatieCoaching-Podcast-p655084/)
   * [ReputatieCoaching Podcast RSS-feed](https://feeds.reputatiecoaching.nl/ReputatieCoachingPodcast)
   * [Een spreadsheet maken voor uw bulkupload](https://support.google.com/business/answer/3370250?hl=nl) (Google Mijn Bedrijf Help)

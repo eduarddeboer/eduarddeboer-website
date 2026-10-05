@@ -3,6 +3,8 @@ title: '128: Yelp, Foursquare en Nokia Here in de verkoop. Google MapMaker tijde
 date: '2015-05-14T06:30:13+00:00'
 description: 'Yelp, Foursquare en Nokia Here staan in de etalage en er zijn potentiële kopers! Dat is wat: drie lokaal-georiënteerde bedrijven in de verkoop! Daarover zometeen meer! Een andere lokale site, te weten Google MapMaker heeft tijdelijk haar deuren gesloten. Je wist het mogelijk al, maar WordPress is echt veruit het meest populaire Content Management Systeem! Meer dan 78% van alle website eigenaren gebruikt WordPress! Zoals beloofd heb ik een handleiding gemaakt voor het installeren en configureren van BackWPup voor het maken van backups op Dropbox.'
 episode: 128
+kgRef: podcast_episode/reputatiecoaching_128
+source_url: https://www.reputatiecoaching.nl/128
 historical: true
 archivePeriod: 2012–2016
 transcriptStatus: full
@@ -16,8 +18,6 @@ showTaxonomies: false
 ---
 
 > **Historisch archief.** Deze aflevering verscheen op 14-05-2015 als onderdeel van ReputatieCoaching (2012–2016). De oorspronkelijke tekst is hieronder historisch bewaard. Diensten, contactgegevens, links, tools en adviezen kunnen inmiddels verouderd zijn.
-
-{{< audio src="https://archive.org/download/20150514-reputatie-coaching-podcast-128/20150514-ReputatieCoaching-Podcast-128.mp3" title="ReputatieCoaching Podcast #128" >}}
 
 **Transcriptiestatus:** Volledige transcriptie uit het oorspronkelijke archief.
 
@@ -34,7 +34,7 @@ Yelp, Foursquare en Nokia Here staan in de etalage en er zijn potentiële kopers
 
 Hallo en hartelijk welkom bij deze aflevering van de ReputatieCoaching Podcast. Ik ben Eduard de Boer, ReputatieCoach. Dit is dé podcast die jou helpt om meer business te genereren, doordat jouw website beter gevonden wordt, zowel lokaal als landelijk en doordat ik je uitleg hoe je je online reputatie kunt verbeteren. Dit alles helpt je om je bedrijf en jezelf beter op de online kaart te plaatsen.
 
-De podcast van vandaag kun je vinden op [www.reputatiecoaching.nl/128](https://www.reputatiecoaching.nl/128/). Daar vind je niet alleen de tekst, maar ook video’s waar ik het in deze uitzending over heb, alsmede afbeeldingen, links enzovoorts. Bovendien is de podcast te beluisteren in [iTunes](https://www.reputatiecoaching.nl/itunes), op [Stitcher](https://www.reputatiecoaching.nl/stitcher) en ook op [TuneIn Radio](http://tunein.com/radio/ReputatieCoaching-Podcast-p655084/). Ik raad je aan om je op één van die drie kanalen te abonneren op de podcast, zodat je geen aflevering hoeft te missen!
+De podcast van vandaag kun je vinden op [www.reputatiecoaching.nl/128](/nl/archief/reputatiecoaching/128/). Daar vind je niet alleen de tekst, maar ook video’s waar ik het in deze uitzending over heb, alsmede afbeeldingen, links enzovoorts. Bovendien is de podcast te beluisteren in [iTunes](https://web.archive.org/web/*/https://www.reputatiecoaching.nl/itunes), op [Stitcher](https://web.archive.org/web/*/https://www.reputatiecoaching.nl/stitcher) en ook op [TuneIn Radio](http://tunein.com/radio/ReputatieCoaching-Podcast-p655084/). Ik raad je aan om je op één van die drie kanalen te abonneren op de podcast, zodat je geen aflevering hoeft te missen!
 
 ## Verandering in Google lokale resultaten? Update doorgevoerd?
 
@@ -80,7 +80,7 @@ Met andere woorden: Yelp zit nu in de luxepositie dat het een groot aantal poten
 
 In de tussentijd gaat nu sinds een week of vier het gerucht dat Yahoo voor US$900 miljoen Foursquare wil kopen. Dat het vooralsnog een gerucht is, blijkt wel uit de tegenstellingen in beweringen. De ene partij zegt dat de deal bijna rond is, terwijl je elders leest dat er niet eens sprake is van een overleg tussen beide partijen.
 
-En daar houdt het nog niet mee op. Want volgens een ander gerucht heeft Uber vorige week een bod van US$ 3 miljard gedaan op Nokia Here. Het gaat namelijk niet goed met Nokia Here. Zo heeft het bedrijf onder andere niet de financiële middelen om haar kaarten actueel te houden. In [podcast 41](https://www.reputatiecoaching.nl/41/) schreef ik al dat Nokia zo’n US$ 1 miljard per jaar verlies lijdt op “Here”.
+En daar houdt het nog niet mee op. Want volgens een ander gerucht heeft Uber vorige week een bod van US$ 3 miljard gedaan op Nokia Here. Het gaat namelijk niet goed met Nokia Here. Zo heeft het bedrijf onder andere niet de financiële middelen om haar kaarten actueel te houden. In [podcast 41](/nl/archief/reputatiecoaching/041/) schreef ik al dat Nokia zo’n US$ 1 miljard per jaar verlies lijdt op “Here”.
 
 De kaarten die vroeger bekend waren onder de naam “NavTeq” zijn uitermate interessant voor Uber, dat inmiddels niet alleen maar taxivervoer biedt, maar meer en meer een logisitieke onderneming wordt. Haar doel is zowel mensen als dingen zo snel mogelijk te bezorgen in diverse steden in de wereld. En daar heb je navigatie voor nodig!
 
@@ -170,11 +170,11 @@ Een belangrijk voordeel van zo’n groot marktaandeel is onder andere dat er vee
 
 ## Installeren en Configureren BackWPup met Dropbox
 
-Ik heb het al vaker gehad over “BackWPup”, de WordPress plugin die ik graag gebruik voor het maken van WordPress backups. Voortbordurend op het topic over het “Eigen baas zijn over je data en infrastructuur” in [podcast 127](https://www.reputatiecoaching.nl/127/) van vorige week, heb ik inmiddels een handleiding opgesteld en ben ik een instructievideo aan het maken over het installeren en configureren van BackWPup voor automatische backups naar Dropbox.
+Ik heb het al vaker gehad over “BackWPup”, de WordPress plugin die ik graag gebruik voor het maken van WordPress backups. Voortbordurend op het topic over het “Eigen baas zijn over je data en infrastructuur” in [podcast 127](/nl/archief/reputatiecoaching/127/) van vorige week, heb ik inmiddels een handleiding opgesteld en ben ik een instructievideo aan het maken over het installeren en configureren van BackWPup voor automatische backups naar Dropbox.
 
 De handleiding is inmiddels gereviewd en op een haar na gevild, terwijl de video ook bijna gereed is. Ik verwacht dat beide nog deze week definitief worden, waarna ik de handleiding en de video zal sturen naar de abonnees van de mailinglist.
 
-Wil jij ook snel beginnen met het maken van backups van je WordPress installatie, [abonneer je dan NU op de exclusieve mailinglist](https://www.reputatiecoaching.nl/nieuwsbrief/), waarin ik waardevolle tips met je deel!
+Wil jij ook snel beginnen met het maken van backups van je WordPress installatie, [abonneer je dan NU op de exclusieve mailinglist](https://web.archive.org/web/*/https://www.reputatiecoaching.nl/nieuwsbrief/), waarin ik waardevolle tips met je deel!
 
 ## Uitschrijven Twitter e-mail updates
 
@@ -236,7 +236,7 @@ Toch wil ik even inzoomen op het rapport “[Why Online Video Is a Must-Have for
     * Content delen
 ```
 
-In de show notes die je kunt vinden op [www.reputatiecoaching.nl/128](https://www.reputatiecoaching.nl/128/) heb ik een grafiek opgenomen waarin je de verschillen in genomen acties kunt zien, naar aanleiding van de vertoning van branded content of advertenties op smartphones en televisies.
+In de show notes die je kunt vinden op [www.reputatiecoaching.nl/128](/nl/archief/reputatiecoaching/128/) heb ik een grafiek opgenomen waarin je de verschillen in genomen acties kunt zien, naar aanleiding van de vertoning van branded content of advertenties op smartphones en televisies.
 
 [![](20150514-google-mobile-video-stats.png)](https://lh3.googleusercontent.com/-ded29p8djQE/VVOD9b1-6II/AAAAAAAACLc/HcP0mwUTR1A/w1072-h416-no/20150514-google-mobile-video-stats.png)
 
@@ -250,15 +250,15 @@ Als je met deze kennis je voordeel wilt doen, houd dan de volgende punten in ged
   * Zorg ervoor dat je video’s eenvoudig te vinden zijn: voeg relevante en beschrijvende titels toe, een goede, heldere omschrijving en overige details, voorzie de video van annotaties en infokaarten en voeg natuurlijk ook de relevante tags toe.
 ```
 
-Ik heb een tijd geleden voor een opdrachtgever een handleiding voor het hoog laten ranken van YouTube video’s in de zoekresultaten geschreven. Die zal ik binnenkort eens onderhanden nemen, actualiseren en dan delen met de mensen die geabonneerd zijn op mijn exclusieve “behind the scenes” tips. Heb jij je nog niet ingeschreven, [schrijf je dan NU in](https://www.reputatiecoaching.nl/nieuwsbrief/) en mis deze waardevolle tips niet!
+Ik heb een tijd geleden voor een opdrachtgever een handleiding voor het hoog laten ranken van YouTube video’s in de zoekresultaten geschreven. Die zal ik binnenkort eens onderhanden nemen, actualiseren en dan delen met de mensen die geabonneerd zijn op mijn exclusieve “behind the scenes” tips. Heb jij je nog niet ingeschreven, [schrijf je dan NU in](https://web.archive.org/web/*/https://www.reputatiecoaching.nl/nieuwsbrief/) en mis deze waardevolle tips niet!
 
-Ik weet het, het waren veel losse kleinere topics dit keer, in tegenstelling tot de [podcast van vorige week](https://www.reputatiecoaching.nl/127/). Door deze afwisseling in aantal, diepgang en lengte hoop ik dat er telkens voor jou wat bij zit, waar jij iets van opsteekt of je voordeel mee kunt doen!
+Ik weet het, het waren veel losse kleinere topics dit keer, in tegenstelling tot de [podcast van vorige week](/nl/archief/reputatiecoaching/127/). Door deze afwisseling in aantal, diepgang en lengte hoop ik dat er telkens voor jou wat bij zit, waar jij iets van opsteekt of je voordeel mee kunt doen!
 
 Dus als je de podcast leuk vindt en je wilt nog meer op de hoogte blijven, volg me dan ook op Twitter, via [@reputatiecoach1](https://twitter.com/reputatiecoach1).
 
 Heb je inderdaad wat aan alle informatie die ik met je deel, help mij dan met het verder verbeteren en promoten van deze podcast. Abonneer je op de podcast, zodat je altijd meteen de nieuwste uitzending krijgt voorgeschoteld.
 
-Zoek de podcast op, in [iTunes](https://www.reputatiecoaching.nl/itunes) of [Stitcher](https://www.reputatiecoaching.nl/stitcher), geef de podcast een sterrenbeoordeling en laat ook je reactie achter. Door de podcast te beoordelen op iTunes en/of Stitcher breng je de podcast onder de aandacht van een breder publiek.
+Zoek de podcast op, in [iTunes](https://web.archive.org/web/*/https://www.reputatiecoaching.nl/itunes) of [Stitcher](https://web.archive.org/web/*/https://www.reputatiecoaching.nl/stitcher), geef de podcast een sterrenbeoordeling en laat ook je reactie achter. Door de podcast te beoordelen op iTunes en/of Stitcher breng je de podcast onder de aandacht van een breder publiek.
 
 Je kunt me verder helpen, door de podcast aan te bevelen bij vrienden of collega’s, waarvan je denkt dat ze er hun voordeel mee kunnen doen, of door ’m te delen op Twitter, like’n en delen op Facebook of een “+1” te geven op Google+.
 
@@ -266,7 +266,7 @@ En vergeet niet: ik ben hier om je te helpen! Als je een vraag of een probleem h
 
 Als je dat te lastig vindt, of als je de podcast beluistert terwijl je in de auto zit en je hebt acuut een vraag, spreek dan een boodschap in op de ReputatieCoaching Hotline, op nummer: 084 - 883 15 56. Mogelijk behandel ik je vraag of probleem dan in een artikel of in de podcast.
 
-En je kunt ook rechtstreeks op de website een voicemail achterlaten, door op de tab aan de rechterkant van elke pagina te klikken, en je bericht in te spreken. Dit was [ReputatieCoaching Podcast aflevering 128](https://www.reputatiecoaching.nl/128/) en mijn naam is [Eduard de Boer](http://nl.linkedin.com/in/eduarddeboer/nl).
+En je kunt ook rechtstreeks op de website een voicemail achterlaten, door op de tab aan de rechterkant van elke pagina te klikken, en je bericht in te spreken. Dit was [ReputatieCoaching Podcast aflevering 128](/nl/archief/reputatiecoaching/128/) en mijn naam is [Eduard de Boer](http://nl.linkedin.com/in/eduarddeboer/nl).
 
 Ik wens je de komende week weer succes met het werken aan je reputatie, zodat je meteen je reputatie voor jou kunt laten werken!
 
@@ -277,8 +277,8 @@ Doei!
 Links naar content die in deze podcast aan bod komt:
 
 ```
-  * [ReputatieCoaching Podcast in iTunes](https://www.reputatiecoaching.nl/itunes)
-  * [ReputatieCoaching Podcast op Stitcher](https://www.reputatiecoaching.nl/stitcher)
+  * [ReputatieCoaching Podcast in iTunes](https://web.archive.org/web/*/https://www.reputatiecoaching.nl/itunes)
+  * [ReputatieCoaching Podcast op Stitcher](https://web.archive.org/web/*/https://www.reputatiecoaching.nl/stitcher)
   * [ReputatieCoaching Podcast op TuneIn Radio](http://tunein.com/radio/ReputatieCoaching-Podcast-p655084/)
   * [ReputatieCoaching Podcast RSS-feed](https://feeds.reputatiecoaching.nl/ReputatieCoachingPodcast)
 ```

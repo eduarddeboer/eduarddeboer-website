@@ -3,6 +3,8 @@ title: '131: Interview met Diana Albrink over "New York in 40 dates". Nieuws ove
 date: '2015-06-04T06:30:31+00:00'
 description: Vandaag komt het boek “New York in 40 dates” van Diana Albrink officieel uit en ik ben vanmiddag bij de lancering van het boek in Dordrecht. Maar vanmorgen heb ik Diana live in de uitzending. Ze vertelt ons zometeen over haar achtergrond, de totstandkoming van het boek en bovendien deelt ze belangrijke aandachtspunten voor beginnende auteurs. En dan is eerder deze week Google Foto’s uitgekomen. Wat betekent dit en wat kun je er zoal mee?
 episode: 131
+kgRef: podcast_episode/reputatiecoaching_131
+source_url: https://www.reputatiecoaching.nl/131
 historical: true
 archivePeriod: 2012–2016
 transcriptStatus: full
@@ -17,18 +19,16 @@ showTaxonomies: false
 
 > **Historisch archief.** Deze aflevering verscheen op 4-06-2015 als onderdeel van ReputatieCoaching (2012–2016). De oorspronkelijke tekst is hieronder historisch bewaard. Diensten, contactgegevens, links, tools en adviezen kunnen inmiddels verouderd zijn.
 
-{{< audio src="https://archive.org/download/20150604-reputatie-coaching-podcast-131/20150604-ReputatieCoaching-Podcast-131.mp3" title="ReputatieCoaching Podcast #131" >}}
-
 **Transcriptiestatus:** Volledige transcriptie uit het oorspronkelijke archief.
 
 ***Historische afbeelding niet beschikbaar: ReputatieCoaching Podcast*
 Vandaag komt het boek “New York in 40 dates” van Diana Albrink officieel uit en ik ben vanmiddag bij de lancering van het boek in Dordrecht. Maar vanmorgen heb ik Diana live in de uitzending. Ze vertelt ons zometeen over haar achtergrond, de totstandkoming van het boek en bovendien deelt ze belangrijke aandachtspunten voor beginnende auteurs.**
 
-**En dan is eerder deze week Google Foto’s uitgekomen. Wat betekent dit en wat kun je er zoal mee? Herinner je je nog Frank, de fysiotherapeut uit [podcast 126](https://www.reputatiecoaching.nl/126/)? Ik was maandag bij hem en heb een kleine update. Oh ja, laatst deed de site van ReputatieCoaching het niet meer, toen ik alles had overgezet op de nieuwe server. Ik vertel je hoe ik het heb opgelost!**
+**En dan is eerder deze week Google Foto’s uitgekomen. Wat betekent dit en wat kun je er zoal mee? Herinner je je nog Frank, de fysiotherapeut uit [podcast 126](/nl/archief/reputatiecoaching/126/)? Ik was maandag bij hem en heb een kleine update. Oh ja, laatst deed de site van ReputatieCoaching het niet meer, toen ik alles had overgezet op de nieuwe server. Ik vertel je hoe ik het heb opgelost!**
 
 Hallo en hartelijk welkom bij deze aflevering van de ReputatieCoaching Podcast. Ik ben Eduard de Boer, ReputatieCoach. Dit is dé podcast die jou helpt om meer business te genereren, doordat jouw website beter gevonden wordt, zowel lokaal als landelijk en doordat ik je uitleg hoe je je online reputatie kunt verbeteren. Dit alles helpt je om je bedrijf en jezelf beter op de online kaart te plaatsen.
 
-De podcast kun je vinden op [www.reputatiecoaching.nl/131](https://www.reputatiecoaching.nl/131/). Daar vind je niet alleen de tekst, maar ook video’s waar ik het in deze uitzending over heb, alsmede afbeeldingen, links enzovoorts. Bovendien is de podcast te beluisteren in [iTunes](https://www.reputatiecoaching.nl/itunes), op [Stitcher](https://www.reputatiecoaching.nl/stitcher) en ook op [TuneIn Radio](http://tunein.com/radio/ReputatieCoaching-Podcast-p655084/). Ik raad je aan om je op één van die drie kanalen te abonneren op de podcast, zodat je geen aflevering hoeft te missen!
+De podcast kun je vinden op [www.reputatiecoaching.nl/131](/nl/archief/reputatiecoaching/131/). Daar vind je niet alleen de tekst, maar ook video’s waar ik het in deze uitzending over heb, alsmede afbeeldingen, links enzovoorts. Bovendien is de podcast te beluisteren in [iTunes](https://web.archive.org/web/*/https://www.reputatiecoaching.nl/itunes), op [Stitcher](https://web.archive.org/web/*/https://www.reputatiecoaching.nl/stitcher) en ook op [TuneIn Radio](http://tunein.com/radio/ReputatieCoaching-Podcast-p655084/). Ik raad je aan om je op één van die drie kanalen te abonneren op de podcast, zodat je geen aflevering hoeft te missen!
 
 Laat ik dan nu overgaan op de onderwerpen voor vandaag…
 
@@ -94,7 +94,7 @@ En daarmee houdt het nog niet op! Want Google Foto’s biedt veel meer! Zo is he
   * Concerten
 ```
 
-Zo, dan weet je ook meteen wat ik zoal fotografeer met m’n iPhone… Anyway, in de show notes op [www.reputatiecoaching.nl/131](https://www.reputatiecoaching.nl/131/) heb ik een screenshot opgenomen van het zoekscherm in de Google Foto’s app op mijn iPhone, waarop je een deel van de categorieën goed kunt zien:
+Zo, dan weet je ook meteen wat ik zoal fotografeer met m’n iPhone… Anyway, in de show notes op [www.reputatiecoaching.nl/131](/nl/archief/reputatiecoaching/131/) heb ik een screenshot opgenomen van het zoekscherm in de Google Foto’s app op mijn iPhone, waarop je een deel van de categorieën goed kunt zien:
 
 [[Historische afbeelding: Zoeken op](https://lh4.googleusercontent.com/-vqjb9tbhPxo/VW74ngnhXNI/AAAAAAAACP8/ftlfIHJJ1Q4/w600/IMG_9951.PNG)](https://lh4.googleusercontent.com/-vqjb9tbhPxo/VW74ngnhXNI/AAAAAAAACP8/ftlfIHJJ1Q4/w600/IMG_9951.PNG)
 
@@ -139,7 +139,7 @@ Zodra ik er meer nieuws over heb, laat ik je het weten.
 
 ## Interview met Diana Albrink over “New York in 40 dates”
 
-[![New York in 40 dates (Door: Diana Albrink)](New-York-in-40-dates-Diana-Albrink.png)](https://partnerprogramma.bol.com/click/click?p=1&t=url&s=20124&f=TXL&url=http%3A%2F%2Fwww.bol.com%2Fnl%2Fp%2Fnew-york-in-40-dates%2F9200000040900104%2F&name=DianaAlbrink&subid=NY40dates)Hoe leuk kunnen dingen lopen in het leven? Zo ben je wekelijks een podcast aan het produceren en opeens krijg je dan begin januari dit jaar een mailtje van een zekere [Diana Albrink](http://dianaalbrink.com) die graag wil weten hoe je een sterk alter ego of pseudoniem opbouwt als auteur. Ik ben er in [podcast 111](https://www.reputatiecoaching.nl/111/) diep op ingegaan en vervolgens is er een leuk contact ontstaan tussen Diana en mij.
+[![New York in 40 dates (Door: Diana Albrink)](New-York-in-40-dates-Diana-Albrink.png)](https://partnerprogramma.bol.com/click/click?p=1&t=url&s=20124&f=TXL&url=http%3A%2F%2Fwww.bol.com%2Fnl%2Fp%2Fnew-york-in-40-dates%2F9200000040900104%2F&name=DianaAlbrink&subid=NY40dates)Hoe leuk kunnen dingen lopen in het leven? Zo ben je wekelijks een podcast aan het produceren en opeens krijg je dan begin januari dit jaar een mailtje van een zekere [Diana Albrink](http://dianaalbrink.com) die graag wil weten hoe je een sterk alter ego of pseudoniem opbouwt als auteur. Ik ben er in [podcast 111](/nl/archief/reputatiecoaching/111/) diep op ingegaan en vervolgens is er een leuk contact ontstaan tussen Diana en mij.
 
 We hebben een aantal keren nog diverse zaken besproken en vanmiddag is het zover: dan komt Diana haar eerste boek, getiteld “[New York in 40 dates](https://partnerprogramma.bol.com/click/click?p=1&t=url&s=20124&f=TXL&url=http%3A%2F%2Fwww.bol.com%2Fnl%2Fp%2Fnew-york-in-40-dates%2F9200000040900104%2F&name=DianaAlbrink&subid=NY40dates)” (aff.) officieel uit. Ik ben uitgenodigd om daarbij te zijn, dus ik vertrek in de loop van de middag richting Dordrecht.
 
@@ -169,7 +169,7 @@ Als je de podcast leuk vindt en je wilt nog meer op de hoogte blijven, volg me d
 
 Heb je inderdaad wat aan alle informatie die ik met je deel, help mij dan met het verder verbeteren en promoten van deze podcast. Abonneer je op de podcast, zodat je altijd meteen de nieuwste uitzending krijgt voorgeschoteld.
 
-Zoek de podcast op, in [iTunes](https://www.reputatiecoaching.nl/itunes) of [Stitcher](https://www.reputatiecoaching.nl/stitcher), geef de podcast een sterrenbeoordeling en laat ook je reactie achter. Door de podcast te beoordelen op iTunes en/of Stitcher breng je de podcast onder de aandacht van een breder publiek.
+Zoek de podcast op, in [iTunes](https://web.archive.org/web/*/https://www.reputatiecoaching.nl/itunes) of [Stitcher](https://web.archive.org/web/*/https://www.reputatiecoaching.nl/stitcher), geef de podcast een sterrenbeoordeling en laat ook je reactie achter. Door de podcast te beoordelen op iTunes en/of Stitcher breng je de podcast onder de aandacht van een breder publiek.
 
 Je kunt me verder helpen, door de podcast aan te bevelen bij vrienden of collega’s, waarvan je denkt dat ze er hun voordeel mee kunnen doen, of door ’m te delen op Twitter, like’n en delen op Facebook of een “+1” te geven op Google+.
 
@@ -188,8 +188,8 @@ Doei!
 Links naar content die in deze podcast aan bod komt:
 
 ```
-  * [ReputatieCoaching Podcast in iTunes](https://www.reputatiecoaching.nl/itunes)
-  * [ReputatieCoaching Podcast op Stitcher](https://www.reputatiecoaching.nl/stitcher)
+  * [ReputatieCoaching Podcast in iTunes](https://web.archive.org/web/*/https://www.reputatiecoaching.nl/itunes)
+  * [ReputatieCoaching Podcast op Stitcher](https://web.archive.org/web/*/https://www.reputatiecoaching.nl/stitcher)
   * [ReputatieCoaching Podcast op TuneIn Radio](http://tunein.com/radio/ReputatieCoaching-Podcast-p655084/)
   * [ReputatieCoaching Podcast RSS-feed](https://feeds.reputatiecoaching.nl/ReputatieCoachingPodcast)
   * “[Google Says “Near Me” Searches Have Doubled This Year](https://getpocket.com/a/read/936354100)” (Search Engine Land, 27 mei 2015)

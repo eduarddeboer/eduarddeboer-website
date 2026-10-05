@@ -3,6 +3,8 @@ title: '42: Google RSS-alerts terug, WordPress 3.6.1 update, Outlook.com onderst
 date: '2013-09-16T06:30:28+00:00'
 description: ReputatieCoaching Podcast nummer 42… ** Hallo en hartelijk welkom bij deze aflevering van de ReputatieCoaching Podcast. Mijn naam is Eduard de Boer, ook bekend als de ReputatieCoach. Dit is dé podcast die je moet beluisteren als je meer wilt leren over online reputatie en reputatiemanagement en ook als wilt werken aan je online reputatie en je online vindbaarheid wilt verbeteren. Dit alles kan je helpen om jezelf beter op de online kaart te plaatsen, waardoor je als bedrijf meer business kunt doen.
 episode: 42
+kgRef: podcast_episode/reputatiecoaching_042
+source_url: https://www.reputatiecoaching.nl/42
 historical: true
 archivePeriod: 2012–2016
 transcriptStatus: full
@@ -16,8 +18,6 @@ showTaxonomies: false
 ---
 
 > **Historisch archief.** Deze aflevering verscheen op 16-09-2013 als onderdeel van ReputatieCoaching (2012–2016). De oorspronkelijke tekst is hieronder historisch bewaard. Diensten, contactgegevens, links, tools en adviezen kunnen inmiddels verouderd zijn.
-
-{{< audio src="https://archive.org/download/20130916-reputatie-coaching-podcast-042/20130916-ReputatieCoaching-Podcast-042.mp3" title="ReputatieCoaching Podcast #042" >}}
 
 **Transcriptiestatus:** Volledige transcriptie uit het oorspronkelijke archief.
 
@@ -34,13 +34,13 @@ Hallo en hartelijk welkom bij deze aflevering van de ReputatieCoaching Podcast. 
 
 Maar eerst nog even twee zaken, voordat ik overga op de topics van vandaag.
 
-Ik wil even kort terugkijken op twee artikelen die ik de afgelopen week heb gepubliceerd. Het eerste artikel van afgelopen week gaf je tips over het kiezen van de [beste domeinnaam voor personal branding](https://www.reputatiecoaching.nl/beste-domeinnaam-voor-personal-branding/) en het tweede artikel ging dieper in op de vraag of je [meerdere domeinnamen voor één website](https://www.reputatiecoaching.nl/meerdere-domeinnamen-website/) kunt gebruiken.
+Ik wil even kort terugkijken op twee artikelen die ik de afgelopen week heb gepubliceerd. Het eerste artikel van afgelopen week gaf je tips over het kiezen van de [beste domeinnaam voor personal branding](https://web.archive.org/web/*/https://www.reputatiecoaching.nl/beste-domeinnaam-voor-personal-branding/) en het tweede artikel ging dieper in op de vraag of je [meerdere domeinnamen voor één website](https://web.archive.org/web/*/https://www.reputatiecoaching.nl/meerdere-domeinnamen-website/) kunt gebruiken.
 
-De volledige transcriptie van deze podcast, inclusief alle links die ik hierin noem, kun je terugvinden op [www.reputatiecoaching.nl/42/](https://www.reputatiecoaching.nl/42/).
+De volledige transcriptie van deze podcast, inclusief alle links die ik hierin noem, kun je terugvinden op [www.reputatiecoaching.nl/42/](/nl/archief/reputatiecoaching/042/).
 
 ## Google News RSS-alerts zijn terug!
 
-Dan het eerste onderwerp van vandaag: [Google RSS-alerts](https://www.google.com/alerts/) zijn terug! Yippiieee!! Deze waren vanaf 2 juli (met het verdwijnen van [Google Reader](https://www.reputatiecoaching.nl/google-reader-nu-echt-exit-evenals-rss-alerts/)) niet meer beschikbaar. Stephan ten Kate verwees me toen naar [TalkWalker Alerts](http://www.talkwalker.com/alerts), ook een gratis service die ik toen meteen ben gaan gebruiken. Nog bedankt daarvoor, Stephan!
+Dan het eerste onderwerp van vandaag: [Google RSS-alerts](https://www.google.com/alerts/) zijn terug! Yippiieee!! Deze waren vanaf 2 juli (met het verdwijnen van [Google Reader](https://web.archive.org/web/*/https://www.reputatiecoaching.nl/google-reader-nu-echt-exit-evenals-rss-alerts/)) niet meer beschikbaar. Stephan ten Kate verwees me toen naar [TalkWalker Alerts](http://www.talkwalker.com/alerts), ook een gratis service die ik toen meteen ben gaan gebruiken. Nog bedankt daarvoor, Stephan!
 
 Maar goed, afgelopen week heeft Google de [RSS-alerts in Google News](https://www.google.com/alerts/) stilletjes teruggebracht. Het is vooralsnog niet bekend wat de reden hiervan is en wellicht zullen we dat ook nooit van Google te horen of te lezen krijgen.
 
@@ -89,7 +89,7 @@ Het staat al jaren in de [Google Webmaster Guidelines](https://support.google.co
   * Simpel bij elkaar geharkte teksten van diverse bronnen, zonder enige toegevoegde waarde
 ```
 
-In de show notes, die je kunt vinden op [www.reputatiecoaching.nl/42/](https://www.reputatiecoaching.nl/42/) heb ik een video van Matt Cutts opgenomen, waarin hij dit toelicht.
+In de show notes, die je kunt vinden op [www.reputatiecoaching.nl/42/](/nl/archief/reputatiecoaching/042/) heb ik een video van Matt Cutts opgenomen, waarin hij dit toelicht.
 
 ## Hebben NOFOLLOW links een negatief effect op je site?
 
@@ -117,9 +117,9 @@ Als je de podcast leuk vindt en je hebt inderdaad wat aan alle informatie die ik
 
 Als je een vraag of een probleem hebt met betrekking tot je online reputatie of de vindbaarheid van je website, kun je een mailtje sturen naar [podcast@reputatiecoaching.nl](mailto:podcast@reputatiecoaching.nl). Als je dat te lastig vindt, of als je de podcast beluistert terwijl je in de auto zit en je hebt acuut een vraag, spreek dan een boodschap in op de ReputatieCoaching Hotline, op nummer: 084 - 883 15 56. Mogelijk behandel ik je vraag of probleem dan in een artikel of in de podcast.
 
-Als laatste kun je je ook inschrijven voor de nieuwsbrief. Dan ontvang je altijd als eerste het laatste nieuws wat ik publiceer en automatisch elk kwartaal het ReputatieCoaching Podcast Boek van het afgelopen kwartaal. Surf daartoe naar [www.reputatiecoaching.nl/nieuwsbrief/](https://www.reputatiecoaching.nl/nieuwsbrief/) en schrijf je meteen in.
+Als laatste kun je je ook inschrijven voor de nieuwsbrief. Dan ontvang je altijd als eerste het laatste nieuws wat ik publiceer en automatisch elk kwartaal het ReputatieCoaching Podcast Boek van het afgelopen kwartaal. Surf daartoe naar [www.reputatiecoaching.nl/nieuwsbrief/](https://web.archive.org/web/*/https://www.reputatiecoaching.nl/nieuwsbrief/) en schrijf je meteen in.
 
-En je kunt ook rechtstreeks op de website een voicemail achterlaten, door op de tab aan de rechterkant van elke pagina te klikken, en je bericht in te spreken. Dit was [ReputatieCoaching Podast aflevering 42](https://www.reputatiecoaching.nl/42/) en mijn naam is [Eduard de Boer](http://nl.linkedin.com/in/eduarddeboer/nl).
+En je kunt ook rechtstreeks op de website een voicemail achterlaten, door op de tab aan de rechterkant van elke pagina te klikken, en je bericht in te spreken. Dit was [ReputatieCoaching Podast aflevering 42](/nl/archief/reputatiecoaching/042/) en mijn naam is [Eduard de Boer](http://nl.linkedin.com/in/eduarddeboer/nl).
 
 Ik wens je de komende week weer succes met het werken aan je reputatie, zodat je meteen je reputatie voor jou kunt laten werken!
 

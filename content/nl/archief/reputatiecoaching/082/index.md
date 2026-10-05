@@ -3,6 +3,8 @@ title: '82: Google straft sites met slechte mobiele ervaring en brengt mijn Bedr
 date: '2014-06-26T06:30:13+00:00'
 description: 'De zomer is officieel begonnen en binnenkort gaan veel mensen weer op vakantie. Zelf gaan we er in de tweede helft van juli ook een tweetal weken tussenuit. Maar geen zorg, ik zal je niet zonder content laten zitten. De publicatie van content gaat gewoon door! Dan over deze 82e podcast. Er was weer veel nieuws deze week, dus ik heb weer een selectie moeten maken. Als eerste: geldt het recht om wereldwijd vergeten te worden nu ook in Canada?'
 episode: 82
+kgRef: podcast_episode/reputatiecoaching_082
+source_url: https://www.reputatiecoaching.nl/82
 historical: true
 archivePeriod: 2012–2016
 transcriptStatus: full
@@ -17,8 +19,6 @@ showTaxonomies: false
 
 > **Historisch archief.** Deze aflevering verscheen op 26-06-2014 als onderdeel van ReputatieCoaching (2012–2016). De oorspronkelijke tekst is hieronder historisch bewaard. Diensten, contactgegevens, links, tools en adviezen kunnen inmiddels verouderd zijn.
 
-{{< audio src="https://archive.org/download/20140626-reputatie-coaching-podcast-082/20140626-ReputatieCoaching-Podcast-082.mp3" title="ReputatieCoaching Podcast #082" >}}
-
 **Transcriptiestatus:** Volledige transcriptie uit het oorspronkelijke archief.
 
 ***Historische afbeelding niet beschikbaar: ReputatieCoaching Podcast*
@@ -32,9 +32,9 @@ Hallo en hartelijk welkom bij deze aflevering van de ReputatieCoaching Podcast. 
 
 Als persoon kun je met de diverse tips aan de slag om je online reputatie te verbeteren.
 
-De podcast kun je vinden op [www.reputatiecoaching.nl/82](https://www.reputatiecoaching.nl/82/). Daar vind je niet alleen de tekst, maar ook video’s waar ik het in deze uitzending over heb, alsmede afbeeldingen, links enzovoorts. Bovendien is de podcast te beluisteren in [iTunes](https://www.reputatiecoaching.nl/itunes) en op [Stitcher](https://www.reputatiecoaching.nl/stitcher). Daar kun je je dus ook abonneren op de wekelijkse podcast. Veel mensen vinden het ideaal om de wekelijkse afleveringen van de podcast op hun gemak te beluisteren, terwijl ze autorijden.
+De podcast kun je vinden op [www.reputatiecoaching.nl/82](/nl/archief/reputatiecoaching/082/). Daar vind je niet alleen de tekst, maar ook video’s waar ik het in deze uitzending over heb, alsmede afbeeldingen, links enzovoorts. Bovendien is de podcast te beluisteren in [iTunes](https://web.archive.org/web/*/https://www.reputatiecoaching.nl/itunes) en op [Stitcher](https://web.archive.org/web/*/https://www.reputatiecoaching.nl/stitcher). Daar kun je je dus ook abonneren op de wekelijkse podcast. Veel mensen vinden het ideaal om de wekelijkse afleveringen van de podcast op hun gemak te beluisteren, terwijl ze autorijden.
 
-Voordat ik overga op de onderwerpen voor vandaag, eerst nog even kort over het nieuwtje dat ik vorige week donderdagmiddag postte, over [Google, die de concurrentie aanging met online telefoongidsen en zelfs met telecom operators](https://www.reputatiecoaching.nl/google-concurrent-telefoongids-en-gouden-gids/). Welnu, het resultaat dat ik toen zag, is nog steeds te reproduceren:
+Voordat ik overga op de onderwerpen voor vandaag, eerst nog even kort over het nieuwtje dat ik vorige week donderdagmiddag postte, over [Google, die de concurrentie aanging met online telefoongidsen en zelfs met telecom operators](https://web.archive.org/web/*/https://www.reputatiecoaching.nl/google-concurrent-telefoongids-en-gouden-gids/). Welnu, het resultaat dat ik toen zag, is nog steeds te reproduceren:
 
 [[Historische afbeelding: CLickable telefoonnummer in de zoekresultaten op Google](https://lh3.googleusercontent.com/-68v2vfsU7v4/U6LFXq0n71I/AAAAAAAAA8M/zlTf8hLYiSU/w1015-h874-no/20140619-telefoonnummer-ingelogd.png)](https://lh3.googleusercontent.com/-68v2vfsU7v4/U6LFXq0n71I/AAAAAAAAA8M/zlTf8hLYiSU/w1015-h874-no/20140619-telefoonnummer-ingelogd.png)
 
@@ -73,7 +73,7 @@ Hiermee komen natuurlijk vragen naar boven over hoever de macht van een rechtban
 
 Als deze trend zich voortzet, lijkt het erop, dat de vrijheid van meningsuiting mogelijk in het gedrang komt. Wat gebeurt er als een Russische rechtbank eist dat Google verwijzingen naar bepaalde gay of lesbische websites verwijdert, of als Iran eist dat Israëlische websites uit de zoekresultaten moeten?
 
-Hoever vind jij dat de overheid kan en mag gaan met dergelijke eisen? Ben jij bang dat de vrijheid van meningsuiting een eindige zaak is? Of vind je mogelijk dat Google teveel macht heeft en teveel gegevens verzamelt en daarom wel aan dit soort verzoeken gehoor moet geven? Laat het weten onderaan de show notes, op [www.reputatiecoaching.nl/82](https://www.reputatiecoaching.nl/82/).
+Hoever vind jij dat de overheid kan en mag gaan met dergelijke eisen? Ben jij bang dat de vrijheid van meningsuiting een eindige zaak is? Of vind je mogelijk dat Google teveel macht heeft en teveel gegevens verzamelt en daarom wel aan dit soort verzoeken gehoor moet geven? Laat het weten onderaan de show notes, op [www.reputatiecoaching.nl/82](/nl/archief/reputatiecoaching/082/).
 
 ## Google straft bedrijven met slechte mobiele gebruikerservaring
 
@@ -209,11 +209,11 @@ Lees meer in de tweet die ik heb opgenomen in de show notes:
 
 — Twitter Support (@Support) [18 juni 2014](https://twitter.com/Support/statuses/479307198901026816)
 
-Met dit laatste nieuwtje over Twitter kom ik dan ook weer aan het einde van de podcast van vandaag. Ik hoop dat ik je weer nuttige en bruikbare informatie heb kunnen brengen. Laat me weten wat je van de podcast van vandaag vond en geef je reactie onderaan de show notes, op [www.reputatiecoaching.nl/82](https://www.reputatiecoaching.nl/82/).
+Met dit laatste nieuwtje over Twitter kom ik dan ook weer aan het einde van de podcast van vandaag. Ik hoop dat ik je weer nuttige en bruikbare informatie heb kunnen brengen. Laat me weten wat je van de podcast van vandaag vond en geef je reactie onderaan de show notes, op [www.reputatiecoaching.nl/82](/nl/archief/reputatiecoaching/082/).
 
 Als je de podcast leuk vindt en je wilt nog meer op de hooge blijven, volg me dan ook op Twitter, via [@reputatiecoach1](https://twitter.com/reputatiecoach1).
 
-Heb je inderdaad wat aan alle informatie die ik met je deel, help mij dan met het verder verbeteren en promoten van deze podcast. Surf daarvoor naar [iTunes](https://www.reputatiecoaching.nl/itunes) of [Stitcher](https://www.reputatiecoaching.nl/stitcher), geef de podcast een sterrenbeoordeling en laat ook je reactie achter. Door de podcast te beoordelen op iTunes en/of Stitcher breng je de podcast onder de aandacht van een breder publiek.
+Heb je inderdaad wat aan alle informatie die ik met je deel, help mij dan met het verder verbeteren en promoten van deze podcast. Surf daarvoor naar [iTunes](https://web.archive.org/web/*/https://www.reputatiecoaching.nl/itunes) of [Stitcher](https://web.archive.org/web/*/https://www.reputatiecoaching.nl/stitcher), geef de podcast een sterrenbeoordeling en laat ook je reactie achter. Door de podcast te beoordelen op iTunes en/of Stitcher breng je de podcast onder de aandacht van een breder publiek.
 
 Je kunt me verder helpen, door de podcast aan te bevelen bij vrienden of collega’s, waarvan je denkt dat ze er hun voordeel mee kunnen doen, of door ’m te delen op Twitter, like’n en delen op Facebook of een “+1” te geven op Google+.
 
@@ -221,7 +221,7 @@ En vergeet niet: ik ben hier om je te helpen! Als je een vraag of een probleem h
 
 Als je dat te lastig vindt, of als je de podcast beluistert terwijl je in de auto zit en je hebt acuut een vraag, spreek dan een boodschap in op de ReputatieCoaching Hotline, op nummer: 084 - 883 15 56. Mogelijk behandel ik je vraag of probleem dan in een artikel of in de podcast.
 
-En je kunt ook rechtstreeks op de website een voicemail achterlaten, door op de tab aan de rechterkant van elke pagina te klikken, en je bericht in te spreken. Dit was [ReputatieCoaching Podcast aflevering 82](https://www.reputatiecoaching.nl/82/) en mijn naam is [Eduard de Boer](http://nl.linkedin.com/in/eduarddeboer/nl).
+En je kunt ook rechtstreeks op de website een voicemail achterlaten, door op de tab aan de rechterkant van elke pagina te klikken, en je bericht in te spreken. Dit was [ReputatieCoaching Podcast aflevering 82](/nl/archief/reputatiecoaching/082/) en mijn naam is [Eduard de Boer](http://nl.linkedin.com/in/eduarddeboer/nl).
 
 Ik wens je de komende week weer succes met het werken aan je reputatie, zodat je meteen je reputatie voor jou kunt laten werken!
 
@@ -232,8 +232,8 @@ Doei!
 Links naar content die in deze podcast aan bod komt:
 
 ```
-  * [ReputatieCoaching Podcast in iTunes](https://www.reputatiecoaching.nl/itunes)
-  * [ReputatieCoaching Podcast op Stitcher](https://www.reputatiecoaching.nl/stitcher)
+  * [ReputatieCoaching Podcast in iTunes](https://web.archive.org/web/*/https://www.reputatiecoaching.nl/itunes)
+  * [ReputatieCoaching Podcast op Stitcher](https://web.archive.org/web/*/https://www.reputatiecoaching.nl/stitcher)
   * [ReputatieCoaching Podcast RSS-feed](https://feeds.reputatiecoaching.nl/ReputatieCoachingPodcast)
   * “[Google Penalizing Sites for Poor Mobile Experience](http://www.location3.com/blog/google-mobile-warning/)” (Location3, 12 juni 2014)
   * “[B.C. court ruling orders Google to block sites worldwide](http://www.theglobeandmail.com/report-on-business/industry-news/the-law-page/bc-court-seeking-global-reach-orders-google-to-block-sites/article19212708/)” (The Globe and Mail, 17 juni 2014)
