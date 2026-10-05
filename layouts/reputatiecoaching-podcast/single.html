@@ -1,5 +1,5 @@
 {{ define "main" }}
-  {{- $episode := printf "%03d" (int .Params.episode) -}}
+  {{- $episode := printf "%v" .Params.episode -}}
   {{- $meta := index .Site.Data.reputatiecoaching.podcasts $episode -}}
   <article class="rc-archive">
     <header class="max-w-prose">
