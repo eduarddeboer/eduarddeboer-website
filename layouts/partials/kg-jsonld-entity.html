@@ -28,6 +28,16 @@
 {{- with $entity.founding_date }}{{ $node = merge $node (dict "foundingDate" .) }}{{ end -}}
 {{- with $entity.legislation_date }}{{ $node = merge $node (dict "legislationDate" .) }}{{ end -}}
 {{- with $entity.date_published }}{{ $node = merge $node (dict "datePublished" .) }}{{ end -}}
+{{- with $entity.episode_number }}{{ $node = merge $node (dict "episodeNumber" .) }}{{ end -}}
+{{- with $entity.audio_url -}}
+  {{- $audio := dict
+    "@type" "AudioObject"
+    "contentUrl" .
+    "encodingFormat" "audio/mpeg"
+  -}}
+  {{- with $entity.audio_size_bytes }}{{ $audio = merge $audio (dict "contentSize" (printf "%d" .)) }}{{ end -}}
+  {{- $node = merge $node (dict "associatedMedia" $audio) -}}
+{{- end -}}
 {{- with $entity.start_date }}{{ $node = merge $node (dict "startDate" .) }}{{ end -}}
 
 {{- with $entity.job_title -}}
