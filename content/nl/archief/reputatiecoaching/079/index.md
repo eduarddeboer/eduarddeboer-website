@@ -169,7 +169,7 @@ Over Dailymotion gesproken: vorig haar heeft Yahoo nog geprobeerd om Dailymotion
 
 Hoewel Yahoo zelf niets loslaat, lijkt het erop, dat Marissa Mayer, de CEO van Yahoo en voormalig topvrouw in Google, een significant deel van de Amerikaanse TV-markt wil afsnoepen; die is namelijk goed voor een slordige US$70 miljard.
 
-# Realtime vertaling in Skype
+## Realtime vertaling in Skype
 
 Sinds de opkomst van computers leek het slechts een utopie, een hersenspinsel, dat je alleen terugzag in science fiction series als StarTrek, StarGate, Battlestar Galactica enzovoorts. Waar ik dan op doel is realtime vertaling van een gesprek tussen twee gesprekspartners, die beiden elkaars taal niet machtig zijn.
 

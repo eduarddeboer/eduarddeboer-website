@@ -83,7 +83,7 @@ Zoals je weet is het essentieel om je telefoonnummer consistent te houden en ech
 
 Het is vast niet zo snel als het wijzigen van een telefoonnummer in Google Mijn Bedrijf. Als je daar iets aanpast, zie je het resultaat vrijwel direct erna terug in de zoekresultaten.
 
-# Interview met Jelmer van der Linden van Webwinkelkeur
+## Interview met Jelmer van der Linden van Webwinkelkeur
 
 Het interview met Jelmer had ik ook voor mijn vakantie al opgenomen. Echter ging er toen iets fout, waardoor er ontzettend veel ruis in de antwoorden van Jelmer kwam en die ruis werd erger naarmate zijn antwoorden langer werden. Zodra ik begon te spreken, was de ruis weer weg.
 
