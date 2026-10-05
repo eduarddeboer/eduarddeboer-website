@@ -44,7 +44,7 @@ GENERIC_SHORTCODE = re.compile(r"\{\{[<%]\s*([^>%}]+).*?[>%]\}\}", re.DOTALL)
 MD_IMAGE = re.compile(
     r"!\[([^\]]*)\]\(([^)\s]+)(?:\s+(?:\"[^\"]*\"|'[^']*'|\([^)]*\)))?\)"
 )
-MD_LINK = re.compile(r"(?<!!)\[([^\]]+)\]\(([^)\s]+)\)")
+MD_DESTINATION = re.compile(r"\]\(([^)\s]+)\)")
 HTML_IMG = re.compile(r"<img\b[^>]*>", re.IGNORECASE)
 HTML_IFRAME = re.compile(r"<iframe\b[\s\S]*?</iframe>", re.IGNORECASE)
 HTML_AUDIO = re.compile(r"<audio\b[\s\S]*?</audio>", re.IGNORECASE)
@@ -343,14 +343,14 @@ def localize_images(
     return MD_IMAGE.sub(repl, body)
 
 
+def _is_reputatiecoaching_host(host: str) -> bool:
+    host = host.lower().split("@")[-1].split(":")[0]
+    return host == "reputatiecoaching.nl" or host.endswith(".reputatiecoaching.nl")
+
+
 def _legacy_path(value: str) -> str | None:
     parsed = urllib.parse.urlsplit(html.unescape(value))
-    host = parsed.netloc.lower().split("@")[-1].split(":")[0]
-    if host and host not in {
-        "reputatiecoaching.nl",
-        "www.reputatiecoaching.nl",
-        "dev.reputatiecoaching.nl",
-    }:
+    if parsed.netloc and not _is_reputatiecoaching_host(parsed.netloc):
         return None
     path = parsed.path or "/"
     if not path.startswith("/"):
@@ -368,35 +368,23 @@ def rewrite_historical_links(
         if _legacy_path(row["old_url"])
     }
 
-    def repl(match: re.Match[str]) -> str:
-        label, destination = match.group(1), html.unescape(match.group(2))
-        if destination.startswith(("#", "mailto:", "tel:")):
-            return match.group(0)
+    def rewrite_destination(destination: str) -> str:
+        destination = html.unescape(destination)
+        if destination.startswith(("#", "mailto:", "tel:", "data:")):
+            return destination
 
         parsed = urllib.parse.urlsplit(destination)
-        host = parsed.netloc.lower().split("@")[-1].split(":")[0]
-        is_rc = destination.startswith("/") or host in {
-            "reputatiecoaching.nl",
-            "www.reputatiecoaching.nl",
-            "dev.reputatiecoaching.nl",
-        }
+        is_rc = destination.startswith("/") or _is_reputatiecoaching_host(parsed.netloc)
         if not is_rc:
-            return match.group(0)
+            return destination
 
         if destination.startswith("/"):
             original = urllib.parse.urljoin("https://www.reputatiecoaching.nl", destination)
         else:
-            original = destination.replace(
-                "https://dev.reputatiecoaching.nl",
-                "https://www.reputatiecoaching.nl",
-            ).replace(
-                "http://dev.reputatiecoaching.nl",
-                "https://www.reputatiecoaching.nl",
-            )
-            if original.startswith("http://reputatiecoaching.nl"):
-                original = "https://www." + original[len("http://"):]
-            elif original.startswith("https://reputatiecoaching.nl"):
-                original = "https://www." + original[len("https://"):]
+            original = parsed._replace(
+                scheme="https",
+                netloc="www.reputatiecoaching.nl",
+            ).geturl()
 
         path = _legacy_path(original)
         episode = episode_paths.get(path)
@@ -404,15 +392,17 @@ def rewrite_historical_links(
             target = f"/nl/archief/reputatiecoaching/{episode:03d}/"
             if parsed.fragment:
                 target += f"#{parsed.fragment}"
-            return f"[{label}]({target})"
+            return target
 
-        archive_target = "https://web.archive.org/web/*/" + urllib.parse.quote(
+        return "https://web.archive.org/web/*/" + urllib.parse.quote(
             original,
             safe=":/?&=%;,+@!~",
         )
-        return f"[{label}]({archive_target})"
 
-    return MD_LINK.sub(repl, body)
+    return MD_DESTINATION.sub(
+        lambda match: "](" + rewrite_destination(match.group(1)) + ")",
+        body,
+    )
 
 
 def strip_duplicate_title(body: str, title: str) -> str:
