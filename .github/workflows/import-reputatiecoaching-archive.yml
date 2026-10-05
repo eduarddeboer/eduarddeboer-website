@@ -12,6 +12,7 @@ on:
 
 permissions:
   contents: write
+  actions: write
 
 concurrency:
   group: website-reputatiecoaching-archive-import
@@ -192,6 +193,23 @@ jobs:
           git pull --rebase origin "$GITHUB_REF_NAME"
           git push
           echo "changed=true" >> "$GITHUB_OUTPUT"
+
+      - name: Trigger CI for generated archive commit
+        if: steps.commit.outputs.changed == 'true'
+        uses: actions/github-script@v8
+        with:
+          github-token: ${{ github.token }}
+          script: |
+            const { owner, repo } = context.repo;
+            const ref = process.env.GITHUB_REF_NAME;
+            for (const workflow_id of ["validate.yml", "entity-review.yml"]) {
+              await github.rest.actions.createWorkflowDispatch({
+                owner,
+                repo,
+                workflow_id,
+                ref,
+              });
+            }
 
       - name: Summarize import
         shell: bash
