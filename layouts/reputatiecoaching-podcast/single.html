@@ -67,6 +67,29 @@
 
     <footer class="rc-archive__footer max-w-prose pt-8">
       <hr>
+      {{- $episodeNumber := int .Params.episode -}}
+      {{- $episodes := sort .CurrentSection.RegularPages "Params.episode" "asc" -}}
+      {{- $previousPages := where $episodes "Params.episode" (sub $episodeNumber 1) -}}
+      {{- $nextPages := where $episodes "Params.episode" (add $episodeNumber 1) -}}
+
+      <nav class="rc-archive__pager" aria-label="Navigatie tussen podcastafleveringen">
+        <div class="rc-archive__pager-slot rc-archive__pager-slot--previous">
+          {{ range first 1 $previousPages }}
+            <a class="rc-archive__pager-link" href="{{ .RelPermalink }}" rel="prev">
+              <span class="rc-archive__pager-direction">← Vorige podcast</span>
+              <span class="rc-archive__pager-title">#{{ printf "%03d" (int .Params.episode) }} · {{ .Title }}</span>
+            </a>
+          {{ end }}
+        </div>
+        <div class="rc-archive__pager-slot rc-archive__pager-slot--next">
+          {{ range first 1 $nextPages }}
+            <a class="rc-archive__pager-link" href="{{ .RelPermalink }}" rel="next">
+              <span class="rc-archive__pager-direction">Volgende podcast →</span>
+              <span class="rc-archive__pager-title">#{{ printf "%03d" (int .Params.episode) }} · {{ .Title }}</span>
+            </a>
+          {{ end }}
+        </div>
+      </nav>
       <p><strong>Archiefcontext:</strong> ReputatieCoaching Podcast, aflevering {{ $episode }}.</p>
       {{ with .Params.source_url }}
         <p><a href="{{ printf "https://web.archive.org/web/*/%s" . | safeURL }}" rel="external noopener noreferrer">Oorspronkelijke publicatie in de Wayback Machine</a></p>
