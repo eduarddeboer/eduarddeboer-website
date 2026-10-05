@@ -7,7 +7,7 @@ on:
     paths:
       - ".github/workflows/import-reputatiecoaching-archive.yml"
       - "scripts/import_reputatiecoaching_archive.py"
-      - "data/archive/reputatiecoaching-source.csv"
+      - "source_data/archive/reputatiecoaching-source.csv"
   workflow_dispatch:
 
 permissions:
