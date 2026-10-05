@@ -12,7 +12,7 @@ SECTIONS = ROOT / "data/kg/sections.json"
 CONTENT = ROOT / "content"
 AUTHORING_TEMPLATE_DIR = CONTENT / "_templates"
 HISTORICAL_ARCHIVE_DIR = CONTENT / "nl" / "archive" / "reputatiecoaching"
-HISTORICAL_ARCHIVE_ROOT = HISTORICAL_ARCHIVE_DIR
+HISTORICAL_ARCHIVE_ROOT = CONTENT / "nl" / "archief" / "reputatiecoaching"
 REPUTATIECOACHING_FEED = ROOT / "static" / "podcast" / "reputatiecoaching.xml"
 
 WIKILINK = re.compile(r"\[\[[^\]\n]+\]\]")
@@ -399,11 +399,13 @@ def public_text_files() -> list[Path]:
 
 
 def is_historical_reputatiecoaching(path: Path) -> bool:
-    try:
-        path.relative_to(HISTORICAL_ARCHIVE_ROOT)
-        return True
-    except ValueError:
-        return False
+    for root in (HISTORICAL_ARCHIVE_DIR, HISTORICAL_ARCHIVE_ROOT):
+        try:
+            path.relative_to(root)
+            return True
+        except ValueError:
+            continue
+    return False
 
 
 def validate_public_claims(problems: list[str]) -> None:
