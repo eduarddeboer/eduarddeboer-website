@@ -502,11 +502,28 @@ def validate_reputatiecoaching_build_contract(problems: list[str]) -> None:
     for path in pages:
         text = path.read_text(encoding="utf-8")
         frontmatter = re.match(r"\A---\s*\n(.*?)\n---\s*\n", text, re.DOTALL)
-        if frontmatter and re.search(r"^audio\s*:", frontmatter.group(1), re.MULTILINE):
+        if not frontmatter:
+            continue
+
+        front = frontmatter.group(1)
+        if re.search(r"^audio\s*:", front, re.MULTILINE):
             problems.append(
                 f"{path.relative_to(ROOT)}: top-level audio frontmatter collides with "
                 "Congo/OpenGraph; keep audio in the archive shortcode/feed instead"
             )
+
+        expected_archive_media = {
+            "feature": "__archive_feature_disabled__",
+            "cover": "__archive_cover_disabled__",
+            "thumbnail": "__archive_thumbnail_disabled__",
+        }
+        for key, expected in expected_archive_media.items():
+            match = re.search(rf"^{key}:\s*['\"]?([^'\"\n]+)", front, re.MULTILINE)
+            if not match or match.group(1).strip() != expected:
+                problems.append(
+                    f"{path.relative_to(ROOT)}: {key} must disable Congo's automatic "
+                    "historical asset matching"
+                )
 
 def main() -> None:
     snapshot = load_snapshot()
