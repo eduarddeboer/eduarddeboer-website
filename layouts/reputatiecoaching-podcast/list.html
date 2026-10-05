@@ -12,7 +12,7 @@
   <section class="rc-podcast-list">
     {{ range (.Paginate (.Pages.ByDate.Reverse) 30).Pages }}
       <article class="rc-podcast-list__item">
-        <div class="rc-podcast-list__number">{{ printf "%03d" (int .Params.episode) }}</div>
+        <div class="rc-podcast-list__number">{{ .Params.episode }}</div>
         <div>
           <time datetime="{{ .Date.Format "2006-01-02" }}">{{ .Date.Format "02-01-2006" }}</time>
           <h2><a href="{{ .RelPermalink }}">{{ .Title }}</a></h2>
