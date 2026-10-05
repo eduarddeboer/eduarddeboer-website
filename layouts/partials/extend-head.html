@@ -69,6 +69,10 @@
   {{- end -}}
 {{- end -}}
 
+{{- with .Params.kgRef -}}
+  {{- $seedIDs = $seedIDs | append . -}}
+{{- end -}}
+
 {{- range .Params.about -}}
   {{- $seedIDs = $seedIDs | append . -}}
   {{- $relationMap := $pageRelations.Get "map" -}}
