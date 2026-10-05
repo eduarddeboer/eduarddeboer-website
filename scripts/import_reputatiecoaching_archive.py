@@ -331,8 +331,11 @@ def strip_duplicate_title(body: str, title: str) -> str:
         lhs = re.sub(r"\W+", "", lines[0][2:].lower())
         rhs = re.sub(r"\W+", "", title.lower())
         if lhs and (lhs == rhs or lhs in rhs or rhs in lhs):
-            return "\n".join(lines[1:]).lstrip()
-    return body
+            body = "\n".join(lines[1:]).lstrip()
+
+    # The page template supplies the document H1. Historical body-level H1s
+    # become H2s so every rendered episode keeps one unambiguous page heading.
+    return re.sub(r"(?m)^# (.+)$", r"## \1", body)
 
 
 def historical_wrapper(episode: int, dt: datetime, audio: str, full: bool) -> str:
