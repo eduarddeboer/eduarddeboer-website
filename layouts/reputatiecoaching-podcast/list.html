@@ -1,4 +1,6 @@
 {{ define "main" }}
+  {{- $artwork := "/media/archive/reputatiecoaching/reputatiecoaching-podcast.jpg" -}}
+
   <header class="max-w-prose">
     {{ if .Params.showBreadcrumbs | default (.Site.Params.list.showBreadcrumbs | default false) }}
       {{ partial "breadcrumbs.html" . }}
@@ -6,20 +8,49 @@
     <p class="rc-archive__eyebrow">Historisch archief · 2012–2016</p>
     <h1 class="mt-0 text-4xl font-extrabold text-neutral-900 dark:text-neutral">{{ .Title }}</h1>
     <div class="prose dark:prose-invert">{{ .Content | emojify }}</div>
-    <p class="rc-archive__feed"><a href="{{ .RelPermalink }}index.xml">Podcast-RSS voor podcastapps</a></p>
   </header>
 
-  <section class="rc-podcast-list">
-    {{ range (.Paginate (.Pages.ByDate.Reverse) 30).Pages }}
-      <article class="rc-podcast-list__item">
-        <div class="rc-podcast-list__number">{{ .Params.episode }}</div>
-        <div>
-          <time datetime="{{ .Date.Format "2006-01-02" }}">{{ .Date.Format "02-01-2006" }}</time>
-          <h2><a href="{{ .RelPermalink }}">{{ .Title }}</a></h2>
-          {{ with .Description }}<p>{{ . }}</p>{{ end }}
-        </div>
-      </article>
-    {{ end }}
+  <section class="rc-podcast-showcase" aria-labelledby="podcast-series-heading">
+    <img class="rc-podcast-showcase__art" src="{{ $artwork | relURL }}" alt="ReputatieCoaching Podcast" width="1400" height="1400" loading="lazy" decoding="async">
+    <div class="rc-podcast-showcase__body">
+      <p class="rc-podcast-showcase__eyebrow">Compleet historisch luisterarchief</p>
+      <h2 id="podcast-series-heading">ReputatieCoaching Podcast</h2>
+      <p>167 afleveringen over online reputatie, lokale SEO en digitale zichtbaarheid, oorspronkelijk gepubliceerd van december 2012 tot en met mei 2016.</p>
+      <div class="rc-podcast-showcase__stats" aria-label="Podcast in cijfers">
+        <span><strong>167</strong><small>afleveringen</small></span>
+        <span><strong>2012–2016</strong><small>publicatieperiode</small></span>
+        <span><strong>Archive.org</strong><small>audioarchief</small></span>
+      </div>
+      <div class="rc-podcast-showcase__actions">
+        <a class="rc-podcast-primary-action" href="{{ "/nl/archief/reputatiecoaching/001/" | relURL }}"><span aria-hidden="true">▶</span> Begin bij #001</a>
+        <a class="rc-podcast-secondary-action" href="{{ "/podcast/reputatiecoaching.xml" | relURL }}">RSS-feed</a>
+      </div>
+    </div>
   </section>
-  {{ partial "pagination.html" . }}
+
+  <section class="rc-podcast-index" aria-labelledby="episodes-heading">
+    <div class="rc-podcast-index__heading">
+      <div>
+        <p class="rc-archive__eyebrow">Alle afleveringen</p>
+        <h2 id="episodes-heading">Luisterarchief</h2>
+      </div>
+      <span>167 afleveringen</span>
+    </div>
+    <ol class="rc-podcast-list rc-podcast-list--streaming">
+      {{ range .Pages.ByDate }}
+        <li>
+          <a href="{{ .RelPermalink }}">
+            <span class="rc-podcast-row__play" aria-hidden="true">▶</span>
+            <span class="rc-podcast-list__number">#{{ printf "%03d" (int .Params.episode) }}</span>
+            <span class="rc-podcast-row__title">
+              <strong>{{ .Title }}</strong>
+              <small>ReputatieCoaching Podcast</small>
+            </span>
+            <time datetime="{{ .Date.Format "2006-01-02" }}">{{ .Date.Format "02-01-2006" }}</time>
+            <span class="rc-podcast-row__arrow" aria-hidden="true">›</span>
+          </a>
+        </li>
+      {{ end }}
+    </ol>
+  </section>
 {{ end }}
