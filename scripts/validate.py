@@ -597,13 +597,21 @@ def validate_reputatiecoaching_build_contract(problems: list[str]) -> None:
             )
 
         if re.search(
-            r"\]\(https?://(?:www\.)?reputatiecoaching\.nl/",
+            r"\]\(https?://(?:[^/)]+\.)?reputatiecoaching\.nl/",
             body,
             re.IGNORECASE,
         ):
             problems.append(
                 f"{path.relative_to(ROOT)}: direct legacy ReputatieCoaching link survived; "
                 "map podcast pages internally or use Wayback"
+            )
+        if re.search(
+            r"\]\(/(?!nl/archief/reputatiecoaching/\d{3}/)",
+            body,
+            re.IGNORECASE,
+        ):
+            problems.append(
+                f"{path.relative_to(ROOT)}: unresolved legacy root-relative link survived"
             )
 
         if re.search(r"^audio\s*:", front, re.MULTILINE):
