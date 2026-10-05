@@ -389,6 +389,11 @@ def write_episode(
         "historical": True,
         "archivePeriod": "2012–2016",
         "transcriptStatus": "full" if full else "shownotes",
+        # Historical transcript assets named *feature*/*cover* are inline source
+        # material, not article hero images. Disable Congo's filename auto-match.
+        "feature": "__archive_feature_disabled__",
+        "cover": "__archive_cover_disabled__",
+        "thumbnail": "__archive_thumbnail_disabled__",
         "showAuthor": False,
         "showReadingTime": False,
         "showTableOfContents": True,
