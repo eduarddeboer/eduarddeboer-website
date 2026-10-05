@@ -95,6 +95,45 @@ def require_unified_structured_data(path: Path, lang: str) -> None:
         )
 
 
+
+def require_reputatiecoaching_archive_links() -> None:
+    index = DIST / "nl/archief/reputatiecoaching/index.html"
+    episode = DIST / "nl/archief/reputatiecoaching/167/index.html"
+    require(index)
+    require(episode)
+
+    index_html = index.read_text(encoding="utf-8")
+    relative_episode = re.compile(
+        r"""href=(?:["']?)/nl/archief/reputatiecoaching/167/(?:["']?)""",
+        re.I,
+    )
+    if not relative_episode.search(index_html):
+        raise SystemExit(
+            "nl/archief/reputatiecoaching/index.html: podcast episode links must "
+            "be host-independent relative URLs"
+        )
+    if "https://eduarddeboer.com/nl/archief/reputatiecoaching/167/" in index_html:
+        raise SystemExit(
+            "nl/archief/reputatiecoaching/index.html: production-absolute episode "
+            "link would break staging navigation"
+        )
+
+    episode_html = episode.read_text(encoding="utf-8")
+    if "/nl/archive/reputatiecoaching/podcasts/" in episode_html:
+        raise SystemExit(
+            "nl/archief/reputatiecoaching/167/index.html: legacy podcast archive "
+            "back-link returned"
+        )
+    if not re.search(
+        r"""href=(?:["']?)/nl/archief/reputatiecoaching/(?:["']?)""",
+        episode_html,
+        re.I,
+    ):
+        raise SystemExit(
+            "nl/archief/reputatiecoaching/167/index.html: current archive back-link missing"
+        )
+
+
 def main() -> None:
     for path in (
         DIST / "_worker.js",
@@ -112,6 +151,7 @@ def main() -> None:
 
     require_unified_structured_data(DIST / "en/index.html", "en")
     require_unified_structured_data(DIST / "nl/index.html", "nl")
+    require_reputatiecoaching_archive_links()
 
     for lang in ("en", "nl"):
         home = (DIST / lang / "index.html").read_text(encoding="utf-8")
