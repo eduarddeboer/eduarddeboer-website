@@ -6,7 +6,6 @@ episode: 108
 historical: true
 archivePeriod: 2012–2016
 transcriptStatus: full
-audio: https://archive.org/download/20141227-reputatie-coaching-podcast-108/20141227-ReputatieCoaching-Podcast-108.mp3
 showAuthor: false
 showReadingTime: false
 showTableOfContents: true

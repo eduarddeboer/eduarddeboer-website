@@ -6,7 +6,6 @@ episode: 136
 historical: true
 archivePeriod: 2012–2016
 transcriptStatus: full
-audio: https://archive.org/download/20150709-reputatie-coaching-podcast-136/20150709-ReputatieCoaching-Podcast-136.mp3
 showAuthor: false
 showReadingTime: false
 showTableOfContents: true

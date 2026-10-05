@@ -6,7 +6,6 @@ episode: 43
 historical: true
 archivePeriod: 2012–2016
 transcriptStatus: full
-audio: https://archive.org/download/20130923-reputatie-coaching-podcast-043/20130923-ReputatieCoaching-Podcast-043.mp3
 showAuthor: false
 showReadingTime: false
 showTableOfContents: true

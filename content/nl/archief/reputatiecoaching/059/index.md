@@ -6,7 +6,6 @@ episode: 59
 historical: true
 archivePeriod: 2012–2016
 transcriptStatus: full
-audio: https://archive.org/download/20140113-reputatie-coaching-podcast-059/20140113-ReputatieCoaching-Podcast-059.mp3
 showAuthor: false
 showReadingTime: false
 showTableOfContents: true

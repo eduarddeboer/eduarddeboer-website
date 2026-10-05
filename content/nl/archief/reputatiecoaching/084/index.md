@@ -6,7 +6,6 @@ episode: 84
 historical: true
 archivePeriod: 2012–2016
 transcriptStatus: full
-audio: https://archive.org/download/20140710-reputatie-coaching-podcast-084/20140710-ReputatieCoaching-Podcast-084.mp3
 showAuthor: false
 showReadingTime: false
 showTableOfContents: true

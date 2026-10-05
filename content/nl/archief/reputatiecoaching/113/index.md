@@ -6,7 +6,6 @@ episode: 113
 historical: true
 archivePeriod: 2012–2016
 transcriptStatus: full
-audio: https://archive.org/download/20150129-reputatie-coaching-podcast-113/20150129-ReputatieCoaching-Podcast-113.mp3
 showAuthor: false
 showReadingTime: false
 showTableOfContents: true

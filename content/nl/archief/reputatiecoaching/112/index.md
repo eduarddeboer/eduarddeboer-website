@@ -6,7 +6,6 @@ episode: 112
 historical: true
 archivePeriod: 2012–2016
 transcriptStatus: full
-audio: https://archive.org/download/20150122-reputatie-coaching-podcast-112/20150122-ReputatieCoaching-Podcast-112.mp3
 showAuthor: false
 showReadingTime: false
 showTableOfContents: true

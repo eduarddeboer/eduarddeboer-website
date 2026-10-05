@@ -6,7 +6,6 @@ episode: 103
 historical: true
 archivePeriod: 2012–2016
 transcriptStatus: full
-audio: https://archive.org/download/20141120-reputatie-coaching-podcast-103/20141120-ReputatieCoaching-Podcast-103.mp3
 showAuthor: false
 showReadingTime: false
 showTableOfContents: true

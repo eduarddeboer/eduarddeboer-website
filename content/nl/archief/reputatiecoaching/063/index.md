@@ -6,7 +6,6 @@ episode: 63
 historical: true
 archivePeriod: 2012–2016
 transcriptStatus: full
-audio: https://archive.org/download/20140210-reputatie-coaching-podcast-063/20140210-ReputatieCoaching-Podcast-063.mp3
 showAuthor: false
 showReadingTime: false
 showTableOfContents: true

@@ -6,7 +6,6 @@ episode: 73
 historical: true
 archivePeriod: 2012–2016
 transcriptStatus: full
-audio: https://archive.org/download/20140421-reputatie-coaching-podcast-073/20140421-ReputatieCoaching-Podcast-073.mp3
 showAuthor: false
 showReadingTime: false
 showTableOfContents: true

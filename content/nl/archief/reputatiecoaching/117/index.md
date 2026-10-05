@@ -6,7 +6,6 @@ episode: 117
 historical: true
 archivePeriod: 2012–2016
 transcriptStatus: full
-audio: https://archive.org/download/20150226-reputatie-coaching-podcast-117/20150226-ReputatieCoaching-Podcast-117.mp3
 showAuthor: false
 showReadingTime: false
 showTableOfContents: true

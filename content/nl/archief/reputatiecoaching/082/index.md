@@ -6,7 +6,6 @@ episode: 82
 historical: true
 archivePeriod: 2012–2016
 transcriptStatus: full
-audio: https://archive.org/download/20140626-reputatie-coaching-podcast-082/20140626-ReputatieCoaching-Podcast-082.mp3
 showAuthor: false
 showReadingTime: false
 showTableOfContents: true

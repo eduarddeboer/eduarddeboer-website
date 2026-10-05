@@ -6,7 +6,6 @@ episode: 49
 historical: true
 archivePeriod: 2012–2016
 transcriptStatus: full
-audio: https://archive.org/download/20131104-reputatie-coaching-podcast-049/20131104-ReputatieCoaching-Podcast-049.mp3
 showAuthor: false
 showReadingTime: false
 showTableOfContents: true

@@ -6,7 +6,6 @@ episode: 16
 historical: true
 archivePeriod: 2012–2016
 transcriptStatus: full
-audio: https://archive.org/download/20130318-reputatie-coaching-podcast-016/20130318-ReputatieCoaching-Podcast-016.mp3
 showAuthor: false
 showReadingTime: false
 showTableOfContents: true

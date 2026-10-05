@@ -6,7 +6,6 @@ episode: 98
 historical: true
 archivePeriod: 2012–2016
 transcriptStatus: full
-audio: https://archive.org/download/20141016-reputatie-coaching-podcast-098/20141016-ReputatieCoaching-Podcast-098.mp3
 showAuthor: false
 showReadingTime: false
 showTableOfContents: true

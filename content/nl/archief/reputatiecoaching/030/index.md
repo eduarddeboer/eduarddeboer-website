@@ -6,7 +6,6 @@ episode: 30
 historical: true
 archivePeriod: 2012–2016
 transcriptStatus: full
-audio: https://archive.org/download/20130622-reputatie-coaching-podcast-030/20130622-ReputatieCoaching-Podcast-030.mp3
 showAuthor: false
 showReadingTime: false
 showTableOfContents: true

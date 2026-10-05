@@ -6,7 +6,6 @@ episode: 96
 historical: true
 archivePeriod: 2012–2016
 transcriptStatus: full
-audio: https://archive.org/download/20141002-reputatie-coaching-podcast-096/20141002-ReputatieCoaching-Podcast-096.mp3
 showAuthor: false
 showReadingTime: false
 showTableOfContents: true

@@ -6,7 +6,6 @@ episode: 115
 historical: true
 archivePeriod: 2012–2016
 transcriptStatus: full
-audio: https://archive.org/download/20150212-reputatie-coaching-podcast-115/20150212-ReputatieCoaching-Podcast-115.mp3
 showAuthor: false
 showReadingTime: false
 showTableOfContents: true

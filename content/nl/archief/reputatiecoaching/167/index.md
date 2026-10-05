@@ -6,7 +6,6 @@ episode: 167
 historical: true
 archivePeriod: 2012–2016
 transcriptStatus: shownotes
-audio: https://archive.org/download/20160505-reputatie-coaching-podcast-167/20160505-ReputatieCoaching-Podcast-167.mp3
 showAuthor: false
 showReadingTime: false
 showTableOfContents: true

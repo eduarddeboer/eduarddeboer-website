@@ -6,7 +6,6 @@ episode: 145
 historical: true
 archivePeriod: 2012–2016
 transcriptStatus: full
-audio: https://archive.org/download/20150910-reputatie-coaching-podcast-145/20150910-ReputatieCoaching-Podcast-145.mp3
 showAuthor: false
 showReadingTime: false
 showTableOfContents: true

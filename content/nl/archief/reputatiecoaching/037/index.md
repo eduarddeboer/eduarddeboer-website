@@ -6,7 +6,6 @@ episode: 37
 historical: true
 archivePeriod: 2012–2016
 transcriptStatus: full
-audio: https://archive.org/download/20130812-reputatie-coaching-podcast-037/20130812-ReputatieCoaching-Podcast-037.mp3
 showAuthor: false
 showReadingTime: false
 showTableOfContents: true

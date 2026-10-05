@@ -6,7 +6,6 @@ episode: 69
 historical: true
 archivePeriod: 2012–2016
 transcriptStatus: full
-audio: https://archive.org/download/20140324-reputatie-coaching-podcast-069/20140324-ReputatieCoaching-Podcast-069.mp3
 showAuthor: false
 showReadingTime: false
 showTableOfContents: true

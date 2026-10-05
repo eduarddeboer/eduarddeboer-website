@@ -6,7 +6,6 @@ episode: 153
 historical: true
 archivePeriod: 2012–2016
 transcriptStatus: shownotes
-audio: https://archive.org/download/20151105-reputatie-coaching-podcast-153/20151105-ReputatieCoaching-Podcast-153.mp3
 showAuthor: false
 showReadingTime: false
 showTableOfContents: true

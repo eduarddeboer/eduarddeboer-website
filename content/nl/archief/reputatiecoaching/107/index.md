@@ -6,7 +6,6 @@ episode: 107
 historical: true
 archivePeriod: 2012–2016
 transcriptStatus: full
-audio: https://archive.org/download/20141218-reputatie-coaching-podcast-107/20141218-ReputatieCoaching-Podcast-107.mp3
 showAuthor: false
 showReadingTime: false
 showTableOfContents: true

@@ -6,7 +6,6 @@ episode: 129
 historical: true
 archivePeriod: 2012–2016
 transcriptStatus: full
-audio: https://archive.org/download/20150521-reputatie-coaching-podcast-129/20150521-ReputatieCoaching-Podcast-129.mp3
 showAuthor: false
 showReadingTime: false
 showTableOfContents: true

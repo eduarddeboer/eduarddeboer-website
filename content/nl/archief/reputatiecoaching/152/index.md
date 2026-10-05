@@ -6,7 +6,6 @@ episode: 152
 historical: true
 archivePeriod: 2012–2016
 transcriptStatus: full
-audio: https://archive.org/download/20151029-reputatie-coaching-podcast-152/20151029-ReputatieCoaching-Podcast-152.mp3
 showAuthor: false
 showReadingTime: false
 showTableOfContents: true

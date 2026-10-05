@@ -7191,15 +7191,14 @@
   "feed": {
     "path": "static/podcast/reputatiecoaching.xml",
     "items": 167,
-    "enclosure_lengths_resolved": 160,
+    "enclosure_lengths_resolved": 161,
     "enclosure_lengths_unresolved": [
       38,
-      49,
       57,
+      61,
       79,
-      96,
-      109,
-      161
+      123,
+      139
     ]
   },
   "validation": {

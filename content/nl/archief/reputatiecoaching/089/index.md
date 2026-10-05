@@ -6,7 +6,6 @@ episode: 89
 historical: true
 archivePeriod: 2012–2016
 transcriptStatus: full
-audio: https://archive.org/download/20140814-reputatie-coaching-podcast-089/20140814-ReputatieCoaching-Podcast-089.mp3
 showAuthor: false
 showReadingTime: false
 showTableOfContents: true

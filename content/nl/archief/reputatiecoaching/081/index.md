@@ -6,7 +6,6 @@ episode: 81
 historical: true
 archivePeriod: 2012–2016
 transcriptStatus: full
-audio: https://archive.org/download/20140619-reputatie-coaching-podcast-081/20140619-ReputatieCoaching-Podcast-081.mp3
 showAuthor: false
 showReadingTime: false
 showTableOfContents: true

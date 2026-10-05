@@ -6,7 +6,6 @@ episode: 126
 historical: true
 archivePeriod: 2012–2016
 transcriptStatus: full
-audio: https://archive.org/download/20150430-reputatie-coaching-podcast-126/20150430-ReputatieCoaching-Podcast-126.mp3
 showAuthor: false
 showReadingTime: false
 showTableOfContents: true

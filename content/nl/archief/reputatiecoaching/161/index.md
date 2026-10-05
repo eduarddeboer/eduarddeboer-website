@@ -6,7 +6,6 @@ episode: 161
 historical: true
 archivePeriod: 2012–2016
 transcriptStatus: shownotes
-audio: https://archive.org/download/20160121-reputatie-coaching-podcast-161/20160121-ReputatieCoaching-Podcast-161.mp3
 showAuthor: false
 showReadingTime: false
 showTableOfContents: true

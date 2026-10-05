@@ -6,7 +6,6 @@ episode: 91
 historical: true
 archivePeriod: 2012–2016
 transcriptStatus: full
-audio: https://archive.org/download/20140828-reputatie-coaching-podcast-091/20140828-ReputatieCoaching-Podcast-091.mp3
 showAuthor: false
 showReadingTime: false
 showTableOfContents: true

@@ -6,7 +6,6 @@ episode: 55
 historical: true
 archivePeriod: 2012–2016
 transcriptStatus: full
-audio: https://archive.org/download/20131216-reputatie-coaching-podcast-055/20131216-ReputatieCoaching-Podcast-055.mp3
 showAuthor: false
 showReadingTime: false
 showTableOfContents: true

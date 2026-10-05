@@ -6,7 +6,6 @@ episode: 143
 historical: true
 archivePeriod: 2012–2016
 transcriptStatus: full
-audio: https://archive.org/download/20150827-reputatie-coaching-podcast-143/20150827-ReputatieCoaching-Podcast-143.mp3
 showAuthor: false
 showReadingTime: false
 showTableOfContents: true

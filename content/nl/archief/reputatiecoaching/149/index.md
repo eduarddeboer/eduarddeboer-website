@@ -6,7 +6,6 @@ episode: 149
 historical: true
 archivePeriod: 2012–2016
 transcriptStatus: full
-audio: https://archive.org/download/20151008-reputatie-coaching-podcast-149/20151008-ReputatieCoaching-Podcast-149.mp3
 showAuthor: false
 showReadingTime: false
 showTableOfContents: true

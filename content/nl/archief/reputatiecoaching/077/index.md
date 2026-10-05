@@ -6,7 +6,6 @@ episode: 77
 historical: true
 archivePeriod: 2012–2016
 transcriptStatus: full
-audio: https://archive.org/download/20140519-reputatie-coaching-podcast-077/20140519-ReputatieCoaching-Podcast-077.mp3
 showAuthor: false
 showReadingTime: false
 showTableOfContents: true

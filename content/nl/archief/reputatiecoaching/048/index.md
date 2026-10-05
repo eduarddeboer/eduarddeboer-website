@@ -6,7 +6,6 @@ episode: 48
 historical: true
 archivePeriod: 2012–2016
 transcriptStatus: full
-audio: https://archive.org/download/20131028-reputatie-coaching-podcast-048/20131028-ReputatieCoaching-Podcast-048.mp3
 showAuthor: false
 showReadingTime: false
 showTableOfContents: true

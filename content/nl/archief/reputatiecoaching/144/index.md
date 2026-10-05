@@ -6,7 +6,6 @@ episode: 144
 historical: true
 archivePeriod: 2012–2016
 transcriptStatus: full
-audio: https://archive.org/download/20150903-reputatie-coaching-podcast-144/20150903-ReputatieCoaching-Podcast-144.mp3
 showAuthor: false
 showReadingTime: false
 showTableOfContents: true

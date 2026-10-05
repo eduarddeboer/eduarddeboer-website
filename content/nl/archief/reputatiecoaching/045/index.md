@@ -6,7 +6,6 @@ episode: 45
 historical: true
 archivePeriod: 2012–2016
 transcriptStatus: full
-audio: https://archive.org/download/20131007-reputatie-coaching-podcast-045/20131007-ReputatieCoaching-Podcast-045.mp3
 showAuthor: false
 showReadingTime: false
 showTableOfContents: true

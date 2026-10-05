@@ -6,7 +6,6 @@ episode: 118
 historical: true
 archivePeriod: 2012–2016
 transcriptStatus: full
-audio: https://archive.org/download/20150305-reputatie-coaching-podcast-118/20150305-ReputatieCoaching-Podcast-118.mp3
 showAuthor: false
 showReadingTime: false
 showTableOfContents: true

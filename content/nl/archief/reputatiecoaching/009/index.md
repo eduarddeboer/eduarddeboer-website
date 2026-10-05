@@ -6,7 +6,6 @@ episode: 9
 historical: true
 archivePeriod: 2012–2016
 transcriptStatus: full
-audio: https://archive.org/download/20130128-reputatie-coaching-podcast-009/20130128-ReputatieCoaching-Podcast-009.mp3
 showAuthor: false
 showReadingTime: false
 showTableOfContents: true

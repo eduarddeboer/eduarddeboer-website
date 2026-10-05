@@ -6,7 +6,6 @@ episode: 105
 historical: true
 archivePeriod: 2012–2016
 transcriptStatus: full
-audio: https://archive.org/download/20141204-reputatie-coaching-podcast-105/20141204-ReputatieCoaching-Podcast-105.mp3
 showAuthor: false
 showReadingTime: false
 showTableOfContents: true

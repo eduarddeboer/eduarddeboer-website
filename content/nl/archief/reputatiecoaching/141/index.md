@@ -6,7 +6,6 @@ episode: 141
 historical: true
 archivePeriod: 2012–2016
 transcriptStatus: full
-audio: https://archive.org/download/20150813-reputatie-coaching-podcast-141/20150813-ReputatieCoaching-Podcast-141.mp3
 showAuthor: false
 showReadingTime: false
 showTableOfContents: true

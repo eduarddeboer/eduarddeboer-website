@@ -6,7 +6,6 @@ episode: 95
 historical: true
 archivePeriod: 2012–2016
 transcriptStatus: full
-audio: https://archive.org/download/20140925-reputatie-coaching-podcast-095/20140925-ReputatieCoaching-Podcast-095.mp3
 showAuthor: false
 showReadingTime: false
 showTableOfContents: true

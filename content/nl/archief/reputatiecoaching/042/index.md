@@ -6,7 +6,6 @@ episode: 42
 historical: true
 archivePeriod: 2012–2016
 transcriptStatus: full
-audio: https://archive.org/download/20130916-reputatie-coaching-podcast-042/20130916-ReputatieCoaching-Podcast-042.mp3
 showAuthor: false
 showReadingTime: false
 showTableOfContents: true

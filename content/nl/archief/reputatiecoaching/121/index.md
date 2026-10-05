@@ -6,7 +6,6 @@ episode: 121
 historical: true
 archivePeriod: 2012–2016
 transcriptStatus: full
-audio: https://archive.org/download/20150326-reputatie-coaching-podcast-121/20150326-ReputatieCoaching-Podcast-121.mp3
 showAuthor: false
 showReadingTime: false
 showTableOfContents: true

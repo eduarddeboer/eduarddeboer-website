@@ -6,7 +6,6 @@ episode: 50
 historical: true
 archivePeriod: 2012–2016
 transcriptStatus: full
-audio: https://archive.org/download/20131111-reputatie-coaching-podcast-050/20131111-ReputatieCoaching-Podcast-050.mp3
 showAuthor: false
 showReadingTime: false
 showTableOfContents: true

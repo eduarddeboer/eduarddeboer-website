@@ -6,7 +6,6 @@ episode: 158
 historical: true
 archivePeriod: 2012–2016
 transcriptStatus: shownotes
-audio: https://archive.org/download/20151210-reputatie-coaching-podcast-158/20151210-ReputatieCoaching-Podcast-158.mp3
 showAuthor: false
 showReadingTime: false
 showTableOfContents: true

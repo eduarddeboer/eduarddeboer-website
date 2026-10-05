@@ -6,7 +6,6 @@ episode: 61
 historical: true
 archivePeriod: 2012–2016
 transcriptStatus: full
-audio: https://archive.org/download/20140127-reputatie-coaching-podcast-061/20140127-ReputatieCoaching-Podcast-061.mp3
 showAuthor: false
 showReadingTime: false
 showTableOfContents: true

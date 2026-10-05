@@ -6,7 +6,6 @@ episode: 34
 historical: true
 archivePeriod: 2012–2016
 transcriptStatus: full
-audio: https://archive.org/download/20130720-reputatie-coaching-podcast-034/20130720-ReputatieCoaching-Podcast-034.mp3
 showAuthor: false
 showReadingTime: false
 showTableOfContents: true

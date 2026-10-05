@@ -6,7 +6,6 @@ episode: 47
 historical: true
 archivePeriod: 2012–2016
 transcriptStatus: full
-audio: https://archive.org/download/20131021-reputatie-coaching-podcast-047/20131021-ReputatieCoaching-Podcast-047.mp3
 showAuthor: false
 showReadingTime: false
 showTableOfContents: true

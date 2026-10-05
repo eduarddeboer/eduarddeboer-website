@@ -6,7 +6,6 @@ episode: 137
 historical: true
 archivePeriod: 2012–2016
 transcriptStatus: full
-audio: https://archive.org/download/20150716-reputatie-coaching-podcast-137/20150716-ReputatieCoaching-Podcast-137.mp3
 showAuthor: false
 showReadingTime: false
 showTableOfContents: true

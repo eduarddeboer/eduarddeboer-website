@@ -6,7 +6,6 @@ episode: 24
 historical: true
 archivePeriod: 2012–2016
 transcriptStatus: full
-audio: https://archive.org/download/20130511-reputatie-coaching-podcast-024/20130511-ReputatieCoaching-Podcast-024.mp3
 showAuthor: false
 showReadingTime: false
 showTableOfContents: true

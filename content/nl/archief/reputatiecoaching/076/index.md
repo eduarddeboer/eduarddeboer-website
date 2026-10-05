@@ -6,7 +6,6 @@ episode: 76
 historical: true
 archivePeriod: 2012–2016
 transcriptStatus: full
-audio: https://archive.org/download/20140512-reputatie-coaching-podcast-076/20140512-ReputatieCoaching-Podcast-076.mp3
 showAuthor: false
 showReadingTime: false
 showTableOfContents: true

@@ -6,7 +6,6 @@ episode: 33
 historical: true
 archivePeriod: 2012–2016
 transcriptStatus: full
-audio: https://archive.org/download/20130713-reputatie-coaching-podcast-033/20130713-ReputatieCoaching-Podcast-033.mp3
 showAuthor: false
 showReadingTime: false
 showTableOfContents: true

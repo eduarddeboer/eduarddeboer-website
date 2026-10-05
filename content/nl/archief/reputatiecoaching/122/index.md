@@ -6,7 +6,6 @@ episode: 122
 historical: true
 archivePeriod: 2012–2016
 transcriptStatus: full
-audio: https://archive.org/download/20150402-reputatie-coaching-podcast-122/20150402-ReputatieCoaching-Podcast-122.mp3
 showAuthor: false
 showReadingTime: false
 showTableOfContents: true

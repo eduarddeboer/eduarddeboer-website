@@ -6,7 +6,6 @@ episode: 18
 historical: true
 archivePeriod: 2012–2016
 transcriptStatus: full
-audio: https://archive.org/download/20130329-reputatie-coaching-podcast-018/20130329-ReputatieCoaching-Podcast-018.mp3
 showAuthor: false
 showReadingTime: false
 showTableOfContents: true

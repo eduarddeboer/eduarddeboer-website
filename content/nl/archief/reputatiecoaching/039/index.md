@@ -6,7 +6,6 @@ episode: 39
 historical: true
 archivePeriod: 2012–2016
 transcriptStatus: full
-audio: https://archive.org/download/20130826-reputatie-coaching-podcast-039/20130826-ReputatieCoaching-Podcast-039.mp3
 showAuthor: false
 showReadingTime: false
 showTableOfContents: true

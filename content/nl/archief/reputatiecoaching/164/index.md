@@ -6,7 +6,6 @@ episode: 164
 historical: true
 archivePeriod: 2012–2016
 transcriptStatus: shownotes
-audio: https://archive.org/download/20160414-reputatie-coaching-podcast-164/20160414-ReputatieCoaching-Podcast-164.mp3
 showAuthor: false
 showReadingTime: false
 showTableOfContents: true

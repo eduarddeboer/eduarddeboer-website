@@ -6,7 +6,6 @@ episode: 94
 historical: true
 archivePeriod: 2012–2016
 transcriptStatus: full
-audio: https://archive.org/download/20140918-reputatie-coaching-podcast-094/20140918-ReputatieCoaching-Podcast-094.mp3
 showAuthor: false
 showReadingTime: false
 showTableOfContents: true

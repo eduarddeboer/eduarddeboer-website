@@ -6,7 +6,6 @@ episode: 7
 historical: true
 archivePeriod: 2012–2016
 transcriptStatus: full
-audio: https://archive.org/download/20130114-reputatie-coaching-podcast-aflevering-007/20130114-ReputatieCoaching-Podcast-Aflevering-007.mp3
 showAuthor: false
 showReadingTime: false
 showTableOfContents: true

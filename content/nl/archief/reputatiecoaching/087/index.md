@@ -6,7 +6,6 @@ episode: 87
 historical: true
 archivePeriod: 2012–2016
 transcriptStatus: full
-audio: https://archive.org/download/20140731-reputatie-coaching-podcast-087/20140731-ReputatieCoaching-Podcast-087.mp3
 showAuthor: false
 showReadingTime: false
 showTableOfContents: true

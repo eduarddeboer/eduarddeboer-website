@@ -6,7 +6,6 @@ episode: 74
 historical: true
 archivePeriod: 2012–2016
 transcriptStatus: full
-audio: https://archive.org/download/20140428-reputatie-coaching-podcast-074/20140428-ReputatieCoaching-Podcast-074.mp3
 showAuthor: false
 showReadingTime: false
 showTableOfContents: true
