@@ -499,6 +499,19 @@ def validate_reputatiecoaching_build_contract(problems: list[str]) -> None:
             f"content/nl/archief/reputatiecoaching: expected 167 generated episode pages, found {len(pages)}"
         )
 
+    snapshot = load_snapshot()
+    kg_entities = snapshot["entities"]
+    podcast_ids = {
+        entity_id
+        for entity_id in kg_entities
+        if entity_id.startswith("podcast_episode/reputatiecoaching_")
+    }
+    if pages and len(podcast_ids) != 167:
+        problems.append(
+            "data/kg/snapshot.json: expected all 167 ReputatieCoaching PodcastEpisode "
+            f"entities, found {len(podcast_ids)}"
+        )
+
     archive_index = HISTORICAL_ARCHIVE_ROOT / "_index.md"
     if pages and archive_index.exists():
         index_text = archive_index.read_text(encoding="utf-8")
@@ -521,6 +534,11 @@ def validate_reputatiecoaching_build_contract(problems: list[str]) -> None:
                 "layouts/reputatiecoaching-podcast/list.html: episode links must use "
                 ".RelPermalink for host-independent staging navigation"
             )
+        if ".Paginate" in list_text:
+            problems.append(
+                "layouts/reputatiecoaching-podcast/list.html: the historical archive "
+                "must expose all 167 episodes on one list page"
+            )
 
     single_layout = ROOT / "layouts" / "reputatiecoaching-podcast" / "single.html"
     if pages and single_layout.exists():
@@ -529,18 +547,65 @@ def validate_reputatiecoaching_build_contract(problems: list[str]) -> None:
             problems.append(
                 "layouts/reputatiecoaching-podcast/single.html: legacy archive back-link returned"
             )
+        if "<audio" in single_text:
+            problems.append(
+                "layouts/reputatiecoaching-podcast/single.html: audio must be click-to-load"
+            )
+        for token in ("data-podcast-launch", ".Site.Data.kg.snapshot.entities", "audio_url"):
+            if token not in single_text:
+                problems.append(
+                    f"layouts/reputatiecoaching-podcast/single.html: missing KG/privacy contract {token!r}"
+                )
+
+    audio_shortcode = ROOT / "layouts" / "shortcodes" / "audio.html"
+    if pages and audio_shortcode.exists():
+        shortcode_text = audio_shortcode.read_text(encoding="utf-8")
+        if "<audio" in shortcode_text or "data-podcast-launch" not in shortcode_text:
+            problems.append(
+                "layouts/shortcodes/audio.html: audio shortcode must be click-to-load"
+            )
 
     for path in pages:
         text = path.read_text(encoding="utf-8")
-        frontmatter = re.match(r"\A---\s*\n(.*?)\n---\s*\n", text, re.DOTALL)
+        frontmatter = re.match(r"\A---\s*\n(.*?)\n---\s*\n([\s\S]*)\Z", text)
         if not frontmatter:
+            problems.append(f"{path.relative_to(ROOT)}: missing YAML frontmatter")
             continue
 
         front = frontmatter.group(1)
+        body = frontmatter.group(2)
+        episode = int(path.parent.name)
+        expected_kg = f"podcast_episode/reputatiecoaching_{episode:03d}"
+
+        match = re.search(r"^kgRef:\s*['\"]?([^'\"\n]+)", front, re.MULTILINE)
+        if not match or match.group(1).strip() != expected_kg:
+            problems.append(
+                f"{path.relative_to(ROOT)}: kgRef must be {expected_kg}"
+            )
+        elif expected_kg not in kg_entities:
+            problems.append(
+                f"{path.relative_to(ROOT)}: kgRef {expected_kg} is absent from data/kg/snapshot.json"
+            )
+
+        if re.search(r"\{\{[<%]\s*audio\b", body):
+            problems.append(
+                f"{path.relative_to(ROOT)}: transcript must not contain a second audio player"
+            )
+
+        if re.search(
+            r"\]\(https?://(?:www\.)?reputatiecoaching\.nl/",
+            body,
+            re.IGNORECASE,
+        ):
+            problems.append(
+                f"{path.relative_to(ROOT)}: direct legacy ReputatieCoaching link survived; "
+                "map podcast pages internally or use Wayback"
+            )
+
         if re.search(r"^audio\s*:", front, re.MULTILINE):
             problems.append(
-                f"{path.relative_to(ROOT)}: top-level audio frontmatter collides with "
-                "Congo/OpenGraph; keep audio in the archive shortcode/feed instead"
+                f"{path.relative_to(ROOT)}: top-level audio frontmatter is forbidden; "
+                "the canonical audio URL comes from the KG entity"
             )
 
         expected_archive_media = {
@@ -555,6 +620,7 @@ def validate_reputatiecoaching_build_contract(problems: list[str]) -> None:
                     f"{path.relative_to(ROOT)}: {key} must disable Congo's automatic "
                     "historical asset matching"
                 )
+
 
 def main() -> None:
     snapshot = load_snapshot()
