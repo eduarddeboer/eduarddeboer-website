@@ -89,7 +89,19 @@ jobs:
         with:
           fetch-depth: 0
 
-      - name: Python
+      - name: Reuse local Python 3.12
+        if: needs.choose-runner.outputs.target == 'local'
+        shell: /bin/bash --noprofile --norc {0}
+        env:
+          PATH: /opt/homebrew/bin:/usr/local/bin:/usr/bin:/bin:/usr/sbin:/sbin
+        run: |
+          set -euo pipefail
+          test -x /opt/homebrew/bin/python3.12
+          echo "/opt/homebrew/bin" >> "$GITHUB_PATH"
+          /opt/homebrew/bin/python3.12 --version
+
+      - name: Python 3.12 on GitHub-hosted fallback
+        if: needs.choose-runner.outputs.target != 'local'
         uses: actions/setup-python@v6
         with:
           python-version: "3.12"
