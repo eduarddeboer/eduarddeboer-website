@@ -64,9 +64,10 @@ def git_commit(path: Path) -> str:
 
 def parse_csv() -> dict[int, dict[str, str]]:
     raw = SOURCE_CSV.read_text(encoding="utf-8-sig")
+    # Historical export anomaly: rows 164 and 165 were concatenated.
     raw = re.sub(
-        r'("trampoline park")\s+(165,https://www\.reputatiecoaching\.nl/)',
-        r"\1\n\2",
+        r"\s+(?=165,https://www\.reputatiecoaching\.nl/)",
+        "\n",
         raw,
         count=1,
     )
