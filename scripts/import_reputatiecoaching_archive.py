@@ -14,9 +14,7 @@ import re
 import shutil
 import subprocess
 import urllib.parse
-import urllib.request
 import xml.etree.ElementTree as ET
-from concurrent.futures import ThreadPoolExecutor, as_completed
 from datetime import datetime, timezone
 from pathlib import Path
 
@@ -111,6 +109,9 @@ def load_kg_podcasts() -> tuple[dict[int, dict], str | None]:
         audio = str(entity.get("audio_url") or "").strip()
         if not audio.startswith("https://archive.org/"):
             raise SystemExit(f"{entity_id} has no valid Archive.org audio_url in the KG")
+        size = entity.get("audio_size_bytes")
+        if not isinstance(size, int) or size <= 0:
+            raise SystemExit(f"{entity_id} has no positive audio_size_bytes in the KG")
         episodes[episode] = entity
 
     return episodes, (payload.get("source") or {}).get("commit")
@@ -524,6 +525,7 @@ def private_episodes(
                 "title": title,
                 "description": description,
                 "audio": audio,
+                "audio_size_bytes": int(kg_episodes[episode]["audio_size_bytes"]),
                 "date": dt,
                 "body": body,
                 "source_page": page,
@@ -565,34 +567,13 @@ def public_episodes(
                 "title": html.unescape(title),
                 "description": description,
                 "audio": str(kg_episodes[episode]["audio_url"]).strip(),
+                "audio_size_bytes": int(kg_episodes[episode]["audio_size_bytes"]),
                 "date": dt,
                 "body": body,
                 "source_page": page,
             }
         )
     return sorted(result, key=lambda item: item["episode"])
-
-
-def resolve_audio_length(url: str) -> int:
-    headers = {"User-Agent": "eduarddeboer.com historical podcast feed builder/1.0"}
-    try:
-        req = urllib.request.Request(url, method="HEAD", headers=headers)
-        with urllib.request.urlopen(req, timeout=10) as response:
-            value = response.headers.get("Content-Length")
-            if value and value.isdigit():
-                return int(value)
-    except Exception:
-        pass
-    try:
-        req = urllib.request.Request(url, headers={**headers, "Range": "bytes=0-0"})
-        with urllib.request.urlopen(req, timeout=10) as response:
-            content_range = response.headers.get("Content-Range", "")
-            match = re.search(r"/(\d+)$", content_range)
-            if match:
-                return int(match.group(1))
-    except Exception:
-        pass
-    return 0
 
 
 def prepare_feed_art(source_root: Path, manifest: dict) -> str:
@@ -650,11 +631,10 @@ def write_feed(episodes: list[dict], art_url: str, manifest: dict) -> None:
     ET.register_namespace("itunes", itunes)
     ET.register_namespace("content", content_ns)
 
-    lengths: dict[int, int] = {}
-    with ThreadPoolExecutor(max_workers=16) as pool:
-        futures = {pool.submit(resolve_audio_length, item["audio"]): item["episode"] for item in episodes}
-        for future in as_completed(futures):
-            lengths[futures[future]] = future.result()
+    lengths = {
+        item["episode"]: int(item["audio_size_bytes"])
+        for item in episodes
+    }
 
     rss = ET.Element("rss", {"version": "2.0"})
     channel = ET.SubElement(rss, "channel")
