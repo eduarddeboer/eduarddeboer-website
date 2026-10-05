@@ -1,5 +1,5 @@
 #!/usr/bin/env python3
-"""Import ReputatieCoaching as an explicitly historical website archive."""
+"""Import ReputatieCoaching as an explicitly historical, KG-backed website archive."""
 
 from __future__ import annotations
 
