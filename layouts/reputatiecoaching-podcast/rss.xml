@@ -20,7 +20,7 @@
   </itunes:category>
   {{- $pages := .Pages.ByDate.Reverse -}}
   {{- range $pages }}
-    {{- $episode := printf "%03d" (int .Params.episode) -}}
+    {{- $episode := printf "%v" .Params.episode -}}
     {{- $meta := index .Site.Data.reputatiecoaching.podcasts $episode -}}
     {{- if $meta.audio_url }}
   <item>
@@ -32,7 +32,7 @@
     <content:encoded><![CDATA[{{ .Content }}]]></content:encoded>
     <enclosure url="{{ $meta.audio_url | safeURL }}" length="0" type="audio/mpeg" />
     <itunes:author>Eduard de Boer</itunes:author>
-    <itunes:episode>{{ int .Params.episode }}</itunes:episode>
+    <itunes:episode>{{ strings.TrimLeft "0" $episode }}</itunes:episode>
     <itunes:episodeType>full</itunes:episodeType>
     <itunes:explicit>false</itunes:explicit>
     <itunes:summary>{{ with .Description }}{{ . | plainify | htmlEscape }}{{ else }}{{ .Summary | plainify | htmlEscape }}{{ end }}</itunes:summary>
