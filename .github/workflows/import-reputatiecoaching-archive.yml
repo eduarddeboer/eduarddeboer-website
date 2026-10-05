@@ -219,6 +219,10 @@ jobs:
           branch="$GITHUB_REF_NAME"
 
           regenerate_on_latest_head() {
+            python3 scripts/sync_kg_projection.py \
+              /tmp/kg-site-snapshot.json \
+              /tmp/kg-release-manifest.json \
+              --apply
             /tmp/reputatiecoaching-import-venv/bin/python \
               scripts/import_reputatiecoaching_archive.py \
               _reputatiecoaching_source
