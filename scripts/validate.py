@@ -3,6 +3,7 @@ from __future__ import annotations
 
 import json
 import re
+import xml.etree.ElementTree as ET
 from pathlib import Path
 
 ROOT = Path(__file__).resolve().parents[1]
@@ -10,6 +11,9 @@ SNAPSHOT = ROOT / "data/kg/snapshot.json"
 SECTIONS = ROOT / "data/kg/sections.json"
 CONTENT = ROOT / "content"
 AUTHORING_TEMPLATE_DIR = CONTENT / "_templates"
+HISTORICAL_ARCHIVE_DIR = CONTENT / "nl" / "archive" / "reputatiecoaching"
+HISTORICAL_ARCHIVE_ROOT = CONTENT / "nl" / "archief" / "reputatiecoaching"
+REPUTATIECOACHING_FEED = ROOT / "static" / "podcast" / "reputatiecoaching.xml"
 
 WIKILINK = re.compile(r"\[\[[^\]\n]+\]\]")
 KG_REF = re.compile(r"^kgRef:\s*[\"']?([^\"'\s#]+)", re.MULTILINE)
@@ -363,6 +367,14 @@ def is_authoring_template(path: Path) -> bool:
         return False
 
 
+def is_historical_archive(path: Path) -> bool:
+    try:
+        path.relative_to(HISTORICAL_ARCHIVE_DIR)
+        return True
+    except ValueError:
+        return False
+
+
 def content_markdown_files() -> list[Path]:
     return sorted(
         path
@@ -386,8 +398,23 @@ def public_text_files() -> list[Path]:
     return sorted(files)
 
 
+def is_historical_reputatiecoaching(path: Path) -> bool:
+    for root in (HISTORICAL_ARCHIVE_DIR, HISTORICAL_ARCHIVE_ROOT):
+        try:
+            path.relative_to(root)
+            return True
+        except ValueError:
+            continue
+    return False
+
+
 def validate_public_claims(problems: list[str]) -> None:
     for path in public_text_files():
+        # Historical ReputatieCoaching copy is intentionally preserved as a
+        # dated archive. Current claim/trademark wording rules must not silently
+        # rewrite history; structural/privacy validation still runs in main().
+        if is_historical_reputatiecoaching(path):
+            continue
         text = path.read_text(encoding="utf-8")
         rel = path.relative_to(ROOT)
 
@@ -413,6 +440,90 @@ def validate_public_claims(problems: list[str]) -> None:
                     f"{match.group(0)!r}; use specific, verifiable wording"
                 )
 
+
+
+def validate_reputatiecoaching_feed(problems: list[str]) -> None:
+    if not REPUTATIECOACHING_FEED.exists():
+        return
+    try:
+        root = ET.parse(REPUTATIECOACHING_FEED).getroot()
+    except ET.ParseError as exc:
+        problems.append(f"static/podcast/reputatiecoaching.xml: invalid XML: {exc}")
+        return
+    items = root.findall("./channel/item")
+    if len(items) != 167:
+        problems.append(
+            "static/podcast/reputatiecoaching.xml: expected 167 podcast items, "
+            f"found {len(items)}"
+        )
+    seen: set[str] = set()
+    for item in items:
+        guid = (item.findtext("guid") or "").strip()
+        enclosure = item.find("enclosure")
+        if not guid or guid in seen:
+            problems.append(
+                "static/podcast/reputatiecoaching.xml: every item needs a unique guid"
+            )
+        seen.add(guid)
+        if enclosure is None:
+            problems.append(
+                f"static/podcast/reputatiecoaching.xml: {guid or 'item'} has no enclosure"
+            )
+            continue
+        url = enclosure.attrib.get("url", "")
+        mime = enclosure.attrib.get("type", "")
+        if not url.startswith("https://archive.org/") or mime != "audio/mpeg":
+            problems.append(
+                f"static/podcast/reputatiecoaching.xml: {guid or 'item'} has an invalid audio enclosure"
+            )
+
+
+
+def validate_reputatiecoaching_build_contract(problems: list[str]) -> None:
+    legacy_source = ROOT / "data" / "archive" / "reputatiecoaching-source.csv"
+    canonical_source = ROOT / "source_data" / "archive" / "reputatiecoaching-source.csv"
+
+    if legacy_source.exists():
+        problems.append(
+            "data/archive/reputatiecoaching-source.csv: raw CSV source must stay outside "
+            "Hugo data/; use source_data/archive/reputatiecoaching-source.csv"
+        )
+    if REPUTATIECOACHING_FEED.exists() and not canonical_source.exists():
+        problems.append(
+            "source_data/archive/reputatiecoaching-source.csv: historical source inventory is missing"
+        )
+
+    pages = sorted(HISTORICAL_ARCHIVE_ROOT.glob("[0-9][0-9][0-9]/index.md"))
+    if pages and len(pages) != 167:
+        problems.append(
+            f"content/nl/archief/reputatiecoaching: expected 167 generated episode pages, found {len(pages)}"
+        )
+
+    for path in pages:
+        text = path.read_text(encoding="utf-8")
+        frontmatter = re.match(r"\A---\s*\n(.*?)\n---\s*\n", text, re.DOTALL)
+        if not frontmatter:
+            continue
+
+        front = frontmatter.group(1)
+        if re.search(r"^audio\s*:", front, re.MULTILINE):
+            problems.append(
+                f"{path.relative_to(ROOT)}: top-level audio frontmatter collides with "
+                "Congo/OpenGraph; keep audio in the archive shortcode/feed instead"
+            )
+
+        expected_archive_media = {
+            "feature": "__archive_feature_disabled__",
+            "cover": "__archive_cover_disabled__",
+            "thumbnail": "__archive_thumbnail_disabled__",
+        }
+        for key, expected in expected_archive_media.items():
+            match = re.search(rf"^{key}:\s*['\"]?([^'\"\n]+)", front, re.MULTILINE)
+            if not match or match.group(1).strip() != expected:
+                problems.append(
+                    f"{path.relative_to(ROOT)}: {key} must disable Congo's automatic "
+                    "historical asset matching"
+                )
 
 def main() -> None:
     snapshot = load_snapshot()
@@ -447,6 +558,8 @@ def main() -> None:
                 )
 
     validate_public_claims(problems)
+    validate_reputatiecoaching_feed(problems)
+    validate_reputatiecoaching_build_contract(problems)
 
     if problems:
         raise SystemExit("\n".join(problems))

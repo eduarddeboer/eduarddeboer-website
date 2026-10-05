@@ -1,0 +1,19 @@
+{{- $destination := .Destination -}}
+{{- $path := replaceRE "#.*$" "" $destination -}}
+{{- $title := .Title -}}
+{{- $alt := .Text -}}
+{{- $src := $path -}}
+
+{{- if .Page.Params.archive -}}
+  {{- if hasPrefix $path "/archive/reputatiecoaching/media/wp-content/uploads/" -}}
+    {{- $rel := strings.TrimPrefix "/archive/reputatiecoaching/media/wp-content/uploads/" $path -}}
+    {{- $mediaMax := index site.Data.reputatiecoaching "media-max" -}}
+    {{- $maxRel := index $mediaMax $rel | default $rel -}}
+    {{- $src = printf "https://reputatiecoaching.pages.dev/wp-content/uploads/%s" $maxRel -}}
+  {{- else if and (not (hasPrefix $path "/")) (not (hasPrefix $path "http://")) (not (hasPrefix $path "https://")) -}}
+    {{- $episodePath := replaceRE "^0+" "" (printf "%v" .Page.Params.episode) -}}
+    {{- $src = printf "https://reputatiecoaching.pages.dev/%s/%s" $episodePath $path -}}
+  {{- end -}}
+{{- end -}}
+
+<img src="{{ $src | safeURL }}" alt="{{ $alt }}" loading="lazy" decoding="async"{{ with $title }} title="{{ . }}"{{ end }}>

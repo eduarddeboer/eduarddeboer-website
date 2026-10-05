@@ -60,3 +60,21 @@ Public prose must also follow [docs/writing-voice.md](docs/writing-voice.md).
 That guide defines the site's authorial voice: direct, personal, investigative, practical and evidence-led. It is the default reference for drafting and editing new articles, especially when AI is used as an editorial assistant.
 
 The style guide does not override factual, legal, trademark, evidence or claim requirements in this content policy.
+
+## Historical archive exception
+
+Content under `content/nl/archief/reputatiecoaching/` is a dated historical archive of material originally published between 2012 and 2016. Its body copy is preserved as historical source material and is therefore not silently rewritten to satisfy current marketing-claim or trademark wording rules.
+
+This exception is deliberately narrow. Current wrapper text, navigation and all non-archive website copy remain subject to the normal policy. Historical archive pages also remain subject to structural, privacy and security validation: no raw scripts/iframes, no hidden third-party embeds, and portable Markdown only.
+
+
+
+## Historical archives
+
+Material under `content/nl/archive/reputatiecoaching/` is preserved as dated historical source material. It is intentionally separated from current professional publications and positioning.
+
+- Preserve the original meaning, wording and publication date wherever practical.
+- Clearly label the material as historical and do not present it as current advice.
+- Modern claim-language and trademark copy-editing rules do not retroactively rewrite historical transcripts.
+- General security, privacy, markup and build-integrity checks still apply.
+- Technical migrations may repair links, media references and embeds without changing the substantive historical record.

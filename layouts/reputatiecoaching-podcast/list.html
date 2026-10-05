@@ -1,0 +1,25 @@
+{{ define "main" }}
+  <header class="max-w-prose">
+    {{ if .Params.showBreadcrumbs | default (.Site.Params.list.showBreadcrumbs | default false) }}
+      {{ partial "breadcrumbs.html" . }}
+    {{ end }}
+    <p class="rc-archive__eyebrow">Historisch archief · 2012–2016</p>
+    <h1 class="mt-0 text-4xl font-extrabold text-neutral-900 dark:text-neutral">{{ .Title }}</h1>
+    <div class="prose dark:prose-invert">{{ .Content | emojify }}</div>
+    <p class="rc-archive__feed"><a href="{{ .RelPermalink }}index.xml">Podcast-RSS voor podcastapps</a></p>
+  </header>
+
+  <section class="rc-podcast-list">
+    {{ range (.Paginate (.Pages.ByDate.Reverse) 30).Pages }}
+      <article class="rc-podcast-list__item">
+        <div class="rc-podcast-list__number">{{ .Params.episode }}</div>
+        <div>
+          <time datetime="{{ .Date.Format "2006-01-02" }}">{{ .Date.Format "02-01-2006" }}</time>
+          <h2><a href="{{ .RelPermalink }}">{{ .Title }}</a></h2>
+          {{ with .Description }}<p>{{ . }}</p>{{ end }}
+        </div>
+      </article>
+    {{ end }}
+  </section>
+  {{ partial "pagination.html" . }}
+{{ end }}

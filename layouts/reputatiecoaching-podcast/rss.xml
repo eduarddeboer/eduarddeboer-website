@@ -1,0 +1,43 @@
+{{- printf "<?xml version=\"1.0\" encoding=\"UTF-8\"?>\n" | safeHTML -}}
+<rss version="2.0"
+  xmlns:itunes="http://www.itunes.com/dtds/podcast-1.0.dtd"
+  xmlns:content="http://purl.org/rss/1.0/modules/content/"
+  xmlns:atom="http://www.w3.org/2005/Atom">
+<channel>
+  <title>ReputatieCoaching Podcast</title>
+  <link>https://eduarddeboer.com/nl/archive/reputatiecoaching/podcasts/</link>
+  <atom:link href="{{ .Permalink }}" rel="self" type="application/rss+xml" />
+  <description>Historisch archief van de 167 afleveringen van de ReputatieCoaching Podcast van Eduard de Boer, gepubliceerd van 2012 tot en met 2016.</description>
+  <language>nl-NL</language>
+  <copyright>&#xA9; Eduard de Boer</copyright>
+  <itunes:author>Eduard de Boer</itunes:author>
+  <itunes:summary>Historisch archief van de ReputatieCoaching Podcast (2012–2016). De afleveringen en transcripties worden bewaard in hun oorspronkelijke historische context.</itunes:summary>
+  <itunes:type>episodic</itunes:type>
+  <itunes:explicit>false</itunes:explicit>
+  <itunes:image href="https://eduarddeboer.com/archive/reputatiecoaching/podcast-artwork.png" />
+  <itunes:category text="Business">
+    <itunes:category text="Marketing" />
+  </itunes:category>
+  {{- $pages := .Pages.ByDate.Reverse -}}
+  {{- range $pages }}
+    {{- $episode := printf "%v" .Params.episode -}}
+    {{- $meta := index .Site.Data.reputatiecoaching.podcasts $episode -}}
+    {{- if $meta.audio_url }}
+  <item>
+    <title>{{ .Title | plainify | htmlEscape }}</title>
+    <link>{{ .Permalink }}</link>
+    <guid isPermaLink="true">{{ .Permalink }}</guid>
+    <pubDate>{{ .Date.Format "Mon, 02 Jan 2006 15:04:05 -0700" }}</pubDate>
+    <description>{{ with .Description }}{{ . | plainify | htmlEscape }}{{ else }}{{ .Summary | plainify | htmlEscape }}{{ end }}</description>
+    <content:encoded><![CDATA[{{ .Content }}]]></content:encoded>
+    <enclosure url="{{ $meta.audio_url | safeURL }}" length="0" type="audio/mpeg" />
+    <itunes:author>Eduard de Boer</itunes:author>
+    <itunes:episode>{{ strings.TrimLeft "0" $episode }}</itunes:episode>
+    <itunes:episodeType>full</itunes:episodeType>
+    <itunes:explicit>false</itunes:explicit>
+    <itunes:summary>{{ with .Description }}{{ . | plainify | htmlEscape }}{{ else }}{{ .Summary | plainify | htmlEscape }}{{ end }}</itunes:summary>
+  </item>
+    {{- end }}
+  {{- end }}
+</channel>
+</rss>
