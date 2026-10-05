@@ -87,7 +87,31 @@ jobs:
           fetch-depth: 0
           persist-credentials: false
 
-      - name: Python 3.12
+      - name: Reuse persistent Python 3.12 environment on local Mac
+        if: needs.choose-runner.outputs.target == 'local'
+        shell: /bin/bash --noprofile --norc {0}
+        env:
+          PATH: /opt/homebrew/bin:/usr/local/bin:/usr/bin:/bin:/usr/sbin:/sbin
+          CI_CACHE_ROOT: /Users/kg-runner/.cache/eduard-website-ci
+          PIP_CACHE_DIR: /Users/kg-runner/.cache/pip
+        run: |
+          set -euo pipefail
+          PYTHON=/opt/homebrew/bin/python3.12
+          VENV="$CI_CACHE_ROOT/entity-review-py312"
+          test -x "$PYTHON"
+          mkdir -p "$CI_CACHE_ROOT" "$PIP_CACHE_DIR"
+          if [[ ! -x "$VENV/bin/python" ]]; then
+            "$PYTHON" -m venv "$VENV"
+            "$VENV/bin/python" -m pip install --upgrade pip
+          fi
+          if ! "$VENV/bin/python" -c 'import yaml; assert yaml.__version__ == "6.0.3"' 2>/dev/null; then
+            "$VENV/bin/python" -m pip install --upgrade "PyYAML==6.0.3"
+          fi
+          echo "$VENV/bin" >> "$GITHUB_PATH"
+          "$VENV/bin/python" -m pip check
+
+      - name: Python 3.12 on GitHub-hosted fallback
+        if: needs.choose-runner.outputs.target != 'local'
         uses: actions/setup-python@v6
         with:
           python-version: "3.12"
@@ -114,8 +138,8 @@ jobs:
           token: ${{ secrets.KG_READ_TOKEN }}
           persist-credentials: false
 
-      - name: Install resolver dependency
-        if: steps.kg_access.outputs.enabled == 'true'
+      - name: Install resolver dependency on GitHub-hosted fallback
+        if: steps.kg_access.outputs.enabled == 'true' && needs.choose-runner.outputs.target != 'local'
         run: python -m pip install PyYAML==6.0.3
 
       - name: Explain inactive private KG review
