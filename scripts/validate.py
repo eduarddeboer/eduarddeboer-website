@@ -567,7 +567,11 @@ def validate_reputatiecoaching_build_contract(problems: list[str]) -> None:
 
     for path in pages:
         text = path.read_text(encoding="utf-8")
-        frontmatter = re.match(r"\A---\s*\n(.*?)\n---\s*\n([\s\S]*)\Z", text)
+        frontmatter = re.match(
+            r"\A---\s*\n(.*?)\n---\s*\n([\s\S]*)\Z",
+            text,
+            re.DOTALL,
+        )
         if not frontmatter:
             problems.append(f"{path.relative_to(ROOT)}: missing YAML frontmatter")
             continue
