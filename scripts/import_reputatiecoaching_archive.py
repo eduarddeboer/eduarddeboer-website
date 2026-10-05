@@ -36,6 +36,7 @@ FEED = ROOT / "static" / "podcast" / "reputatiecoaching.xml"
 MEDIA_ROOT = ROOT / "static" / "media" / "archive" / "reputatiecoaching"
 SOURCE_CSV = ROOT / "source_data" / "archive" / "reputatiecoaching-source.csv"
 MANIFEST = ROOT / "data" / "archive" / "reputatiecoaching-import.json"
+KG_SNAPSHOT = ROOT / "data" / "kg" / "snapshot.json"
 
 IMAGE_EXTS = {".png", ".jpg", ".jpeg", ".gif", ".webp"}
 VIDEO_SHORTCODE = re.compile(
@@ -45,7 +46,7 @@ GENERIC_SHORTCODE = re.compile(r"\{\{[<%]\s*([^>%}]+).*?[>%]\}\}", re.DOTALL)
 MD_IMAGE = re.compile(
     r"!\[([^\]]*)\]\(([^)\s]+)(?:\s+(?:\"[^\"]*\"|'[^']*'|\([^)]*\)))?\)"
 )
-MD_LINK = re.compile(r"(?<!!)\[([^\]]+)\]\((/[^)\s]+)\)")
+MD_LINK = re.compile(r"(?<!!)\[([^\]]+)\]\(([^)\s]+)\)")
 HTML_IMG = re.compile(r"<img\b[^>]*>", re.IGNORECASE)
 HTML_IFRAME = re.compile(r"<iframe\b[\s\S]*?</iframe>", re.IGNORECASE)
 HTML_AUDIO = re.compile(r"<audio\b[\s\S]*?</audio>", re.IGNORECASE)
@@ -90,6 +91,29 @@ def parse_csv() -> dict[int, dict[str, str]]:
     if missing:
         raise SystemExit(f"Podcast metadata is missing episodes: {missing}")
     return rows
+
+
+def load_kg_podcasts() -> tuple[dict[int, dict], str | None]:
+    payload = json.loads(KG_SNAPSHOT.read_text(encoding="utf-8"))
+    entities = payload.get("entities")
+    if not isinstance(entities, dict):
+        raise SystemExit("KG snapshot has no entities object")
+
+    episodes: dict[int, dict] = {}
+    for episode in range(1, 168):
+        entity_id = f"podcast_episode/reputatiecoaching_{episode:03d}"
+        entity = entities.get(entity_id)
+        if not isinstance(entity, dict):
+            raise SystemExit(
+                f"KG snapshot is missing required podcast entity {entity_id}; "
+                "sync the website projection from the KG before importing the archive"
+            )
+        audio = str(entity.get("audio_url") or "").strip()
+        if not audio.startswith("https://archive.org/"):
+            raise SystemExit(f"{entity_id} has no valid Archive.org audio_url in the KG")
+        episodes[episode] = entity
+
+    return episodes, (payload.get("source") or {}).get("commit")
 
 
 def parse_date(value: object, fallback: str | None = None) -> datetime:
@@ -318,11 +342,498 @@ def localize_images(
     return MD_IMAGE.sub(repl, body)
 
 
-def rewrite_root_links(body: str) -> str:
-    return MD_LINK.sub(
-        lambda m: f"[{m.group(1)}](https://www.reputatiecoaching.nl{m.group(2)})",
-        body,
+def _legacy_path(value: str) -> str | None:
+    parsed = urllib.parse.urlsplit(html.unescape(value))
+    host = parsed.netloc.lower().split("@")[-1].split(":")[0]
+    if host and host not in {
+        "reputatiecoaching.nl",
+        "www.reputatiecoaching.nl",
+        "dev.reputatiecoaching.nl",
+    }:
+        return None
+    path = parsed.path or "/"
+    if not path.startswith("/"):
+        return None
+    path = re.sub(r"/+$", "", path) or "/"
+    return path
+
+
+def rewrite_historical_links(
+    body: str,
+    metadata: dict[int, dict[str, str]],
+) -> str:
+    episode_paths = {
+        _legacy_path(row["old_url"]): episode
+        for episode, row in metadata.items()
+        if _legacy_path(row["old_url"])
+    }
+
+    def repl(match: re.Match[str]) -> str:
+        label, destination = match.group(1), html.unescape(match.group(2))
+        if destination.startswith(("#", "mailto:", "tel:")):
+            return match.group(0)
+
+        parsed = urllib.parse.urlsplit(destination)
+        host = parsed.netloc.lower().split("@")[-1].split(":")[0]
+        is_rc = destination.startswith("/") or host in {
+            "reputatiecoaching.nl",
+            "www.reputatiecoaching.nl",
+            "dev.reputatiecoaching.nl",
+        }
+        if not is_rc:
+            return match.group(0)
+
+        if destination.startswith("/"):
+            original = urllib.parse.urljoin("https://www.reputatiecoaching.nl", destination)
+        else:
+            original = destination.replace(
+                "https://dev.reputatiecoaching.nl",
+                "https://www.reputatiecoaching.nl",
+            ).replace(
+                "http://dev.reputatiecoaching.nl",
+                "https://www.reputatiecoaching.nl",
+            )
+            if original.startswith("http://reputatiecoaching.nl"):
+                original = "https://www." + original[len("http://"):]
+            elif original.startswith("https://reputatiecoaching.nl"):
+                original = "https://www." + original[len("https://"):]
+
+        path = _legacy_path(original)
+        episode = episode_paths.get(path)
+        if episode is not None:
+            target = f"/nl/archief/reputatiecoaching/{episode:03d}/"
+            if parsed.fragment:
+                target += f"#{parsed.fragment}"
+            return f"[{label}]({target})"
+
+        archive_target = "https://web.archive.org/web/*/" + urllib.parse.quote(
+            original,
+            safe=":/?&=%;,+@!def strip_duplicate_title(body: str, title: str) -> str:
+    lines = body.lstrip().splitlines()
+    if lines and lines[0].startswith("# "):
+        lhs = re.sub(r"\W+", "", lines[0][2:].lower())
+        rhs = re.sub(r"\W+", "", title.lower())
+        if lhs and (lhs == rhs or lhs in rhs or rhs in lhs):
+            body = "\n".join(lines[1:]).lstrip()
+
+    # The page template supplies the document H1. Historical body-level H1s
+    # become H2s so every rendered episode keeps one unambiguous page heading.
+    return re.sub(r"(?m)^# (.+)$", r"## \1", body)
+
+
+def historical_wrapper(episode: int, dt: datetime, full: bool) -> str:
+    status = (
+        "Volledige transcriptie uit het oorspronkelijke archief."
+        if full
+        else "Oorspronkelijke shownotes. Vanaf aflevering 153 werd de podcast niet meer volledig uitgeschreven."
     )
+    date_label = dt.strftime("%d-%m-%Y").lstrip("0")
+    return (
+        f"> **Historisch archief.** Deze aflevering verscheen op {date_label} als onderdeel "
+        "van ReputatieCoaching (2012–2016). De oorspronkelijke tekst is hieronder "
+        "historisch bewaard. Diensten, contactgegevens, links, tools en adviezen kunnen "
+        "inmiddels verouderd zijn.\n\n"
+        f"**Transcriptiestatus:** {status}\n\n"
+    )
+
+
+def write_episode(
+    episode: int,
+    title: str,
+    description: str,
+    dt: datetime,
+    body: str,
+    source_root: Path,
+    source_page: Path | None,
+    manifest: dict,
+) -> None:
+    destination = TARGET / f"{episode:03d}"
+    destination.mkdir(parents=True, exist_ok=True)
+    body = sanitize_historical_body(body, manifest["unsupported_shortcodes"])
+    body = localize_images(
+        body,
+        source_root,
+        source_page,
+        episode,
+        destination,
+        manifest["missing_images"],
+        manifest["images"],
+    )
+    body = rewrite_historical_links(body, manifest["legacy_metadata"])
+    body = strip_duplicate_title(body, title)
+    full = episode <= 152
+    front = {
+        "title": title,
+        "date": dt.isoformat(),
+        "description": description.strip(),
+        "episode": episode,
+        "kgRef": f"podcast_episode/reputatiecoaching_{episode:03d}",
+        "source_url": manifest["legacy_metadata"][episode]["old_url"],
+        "historical": True,
+        "archivePeriod": "2012–2016",
+        "transcriptStatus": "full" if full else "shownotes",
+        # Historical transcript assets named *feature*/*cover* are inline source
+        # material, not article hero images. Disable Congo's filename auto-match.
+        "feature": "__archive_feature_disabled__",
+        "cover": "__archive_cover_disabled__",
+        "thumbnail": "__archive_thumbnail_disabled__",
+        "showAuthor": False,
+        "showReadingTime": False,
+        "showTableOfContents": True,
+        "showTaxonomies": False,
+    }
+    yaml_text = yaml.safe_dump(front, allow_unicode=True, sort_keys=False, width=1000).strip()
+    output = (
+        "---\n" + yaml_text + "\n---\n\n"
+        + historical_wrapper(episode, dt, full)
+        + body.strip() + "\n"
+    )
+    (destination / "index.md").write_text(output, encoding="utf-8")
+
+
+def private_episodes(
+    source_root: Path,
+    metadata: dict[int, dict[str, str]],
+    kg_episodes: dict[int, dict],
+) -> list[dict]:
+    pages = sorted(source_root.glob("content/podcast/*/*/index.md"))
+    if len(pages) != 167:
+        raise SystemExit(f"Private source must contain exactly 167 podcast pages, found {len(pages)}")
+    result: list[dict] = []
+    for page in pages:
+        fm, body = yaml_front_matter(page)
+        episode = int(fm.get("episode") or page.parent.name)
+        auxiliary = source_root / "data" / "podcasts" / f"episode-{episode:03d}.yml"
+        extra = yaml.safe_load(auxiliary.read_text(encoding="utf-8")) or {} if auxiliary.exists() else {}
+        row = metadata[episode]
+        title = str(fm.get("title") or extra.get("title") or row["title"]).strip()
+        description = str(fm.get("description") or fm.get("intro") or extra.get("description") or "").strip()
+        if not description:
+            description = re.sub(r"\s+", " ", re.sub(r"[#*_>\[\]()]", " ", body))[:500].strip()
+        audio = str(kg_episodes[episode]["audio_url"]).strip()
+        dt = parse_date(fm.get("date") or extra.get("date"), row["date"])
+        result.append(
+            {
+                "episode": episode,
+                "title": title,
+                "description": description,
+                "audio": audio,
+                "date": dt,
+                "body": body,
+                "source_page": page,
+            }
+        )
+    return sorted(result, key=lambda item: item["episode"])
+
+
+def public_episodes(
+    source_root: Path,
+    metadata: dict[int, dict[str, str]],
+    kg_episodes: dict[int, dict],
+) -> list[dict]:
+    if BeautifulSoup is None or html_to_markdown is None:
+        raise SystemExit("BeautifulSoup and markdownify are required for public mirror fallback")
+    feed = source_root / "podcast" / "index.xml"
+    items = ET.parse(feed).findall("./channel/item")
+    if len(items) != 167:
+        raise SystemExit(f"Public mirror feed must contain exactly 167 items, found {len(items)}")
+    result: list[dict] = []
+    for index, item in enumerate(items):
+        episode = 167 - index
+        title = (item.findtext("title") or metadata[episode]["title"]).strip()
+        link = (item.findtext("link") or "").strip()
+        page = source_root / urllib.parse.urlsplit(link).path.strip("/") / "index.html"
+        if not page.exists():
+            raise SystemExit(f"Public mirror page missing for episode {episode}: {page}")
+        soup = BeautifulSoup(page.read_text(encoding="utf-8"), "html.parser")
+        content = soup.select_one(".content")
+        if content is None:
+            raise SystemExit(f"No .content element for episode {episode}")
+        body = html_to_markdown(str(content), heading_style="ATX", bullets="-").strip()
+        description = (item.findtext("description") or "").strip()
+        description = re.sub(r"\s+", " ", re.sub(r"<[^>]+>", " ", html.unescape(description)))
+        dt = parse_date(item.findtext("pubDate"), metadata[episode]["date"])
+        result.append(
+            {
+                "episode": episode,
+                "title": html.unescape(title),
+                "description": description,
+                "audio": str(kg_episodes[episode]["audio_url"]).strip(),
+                "date": dt,
+                "body": body,
+                "source_page": page,
+            }
+        )
+    return sorted(result, key=lambda item: item["episode"])
+
+
+def resolve_audio_length(url: str) -> int:
+    headers = {"User-Agent": "eduarddeboer.com historical podcast feed builder/1.0"}
+    try:
+        req = urllib.request.Request(url, method="HEAD", headers=headers)
+        with urllib.request.urlopen(req, timeout=10) as response:
+            value = response.headers.get("Content-Length")
+            if value and value.isdigit():
+                return int(value)
+    except Exception:
+        pass
+    try:
+        req = urllib.request.Request(url, headers={**headers, "Range": "bytes=0-0"})
+        with urllib.request.urlopen(req, timeout=10) as response:
+            content_range = response.headers.get("Content-Range", "")
+            match = re.search(r"/(\d+)$", content_range)
+            if match:
+                return int(match.group(1))
+    except Exception:
+        pass
+    return 0
+
+
+def prepare_feed_art(source_root: Path, manifest: dict) -> str:
+    candidates = [
+        source_root / "static" / "images" / "logos" / "reputatie-coaching-podcast-logo-groot.jpg",
+        source_root / "static" / "wp-content" / "uploads" / "2016" / "02" / "Reputatie-Coaching-Podcast-logo-groot-1024x1024.jpg",
+    ]
+    candidates = [p for p in candidates if p.exists()]
+    if not candidates:
+        candidates = sorted(source_root.glob("000-origineel/podcasts/*/ReputatieCoaching-Podcast-*.png"))
+    if not candidates:
+        candidates = [source_root / "images" / "rc-header.png"]
+        candidates = [p for p in candidates if p.exists()]
+    if not candidates:
+        raise SystemExit("No historical ReputatieCoaching artwork found")
+
+    source = max(candidates, key=image_quality)
+    MEDIA_ROOT.mkdir(parents=True, exist_ok=True)
+    original = MEDIA_ROOT / ("podcast-artwork-original" + source.suffix.lower())
+    shutil.copy2(source, original)
+
+    with Image.open(source) as im:
+        im = im.convert("RGB")
+        width, height = im.size
+        side = min(width, height)
+        left = (width - side) // 2
+        top = (height - side) // 2
+        im = im.crop((left, top, left + side, top + side))
+        target_side = max(1400, min(3000, side))
+        if im.size != (target_side, target_side):
+            im = im.resize((target_side, target_side), Image.Resampling.LANCZOS)
+        art = MEDIA_ROOT / "reputatiecoaching-podcast.jpg"
+        im.save(art, format="JPEG", quality=95, optimize=True, progressive=True)
+
+    manifest["feed_artwork"] = {
+        "source": str(source.relative_to(source_root)),
+        "original_copy": str(original.relative_to(ROOT)),
+        "aggregator_copy": str(art.relative_to(ROOT)),
+        "source_quality": image_quality(source),
+    }
+    return "https://eduarddeboer.com/media/archive/reputatiecoaching/reputatiecoaching-podcast.jpg"
+
+
+def add_text(parent: ET.Element, name: str, value: object, **attrs: str) -> ET.Element:
+    node = ET.SubElement(parent, name, attrs)
+    node.text = str(value)
+    return node
+
+
+def write_feed(episodes: list[dict], art_url: str, manifest: dict) -> None:
+    atom = "http://www.w3.org/2005/Atom"
+    itunes = "http://www.itunes.com/dtds/podcast-1.0.dtd"
+    content_ns = "http://purl.org/rss/1.0/modules/content/"
+    ET.register_namespace("atom", atom)
+    ET.register_namespace("itunes", itunes)
+    ET.register_namespace("content", content_ns)
+
+    lengths: dict[int, int] = {}
+    with ThreadPoolExecutor(max_workers=16) as pool:
+        futures = {pool.submit(resolve_audio_length, item["audio"]): item["episode"] for item in episodes}
+        for future in as_completed(futures):
+            lengths[futures[future]] = future.result()
+
+    rss = ET.Element("rss", {"version": "2.0"})
+    channel = ET.SubElement(rss, "channel")
+    add_text(channel, "title", "ReputatieCoaching Podcast — historisch archief")
+    add_text(channel, "link", "https://eduarddeboer.com/nl/archief/reputatiecoaching/")
+    add_text(channel, "description", "Historisch archief van de 167 ReputatieCoaching Podcast-afleveringen van Eduard de Boer, gepubliceerd van 2012 tot en met 2016.")
+    add_text(channel, "language", "nl-NL")
+    add_text(channel, "copyright", "© Eduard de Boer")
+    add_text(channel, f"{{{itunes}}}author", "Eduard de Boer")
+    add_text(channel, f"{{{itunes}}}summary", "Historische podcastserie over online reputatie, lokale vindbaarheid en online marketing, oorspronkelijk gepubliceerd tussen 2012 en 2016.")
+    add_text(channel, f"{{{itunes}}}explicit", "false")
+    add_text(channel, f"{{{itunes}}}type", "episodic")
+    add_text(channel, f"{{{itunes}}}complete", "Yes")
+    ET.SubElement(channel, f"{{{itunes}}}image", {"href": art_url})
+    category = ET.SubElement(channel, f"{{{itunes}}}category", {"text": "Business"})
+    ET.SubElement(category, f"{{{itunes}}}category", {"text": "Marketing"})
+    owner = ET.SubElement(channel, f"{{{itunes}}}owner")
+    add_text(owner, f"{{{itunes}}}name", "Eduard de Boer")
+    add_text(owner, f"{{{itunes}}}email", "info@reputatiecoaching.nl")
+    image = ET.SubElement(channel, "image")
+    add_text(image, "url", art_url)
+    add_text(image, "title", "ReputatieCoaching Podcast — historisch archief")
+    add_text(image, "link", "https://eduarddeboer.com/nl/archief/reputatiecoaching/")
+    ET.SubElement(channel, f"{{{atom}}}link", {"href": "https://eduarddeboer.com/podcast/reputatiecoaching.xml", "rel": "self", "type": "application/rss+xml"})
+    latest = max(item["date"] for item in episodes)
+    add_text(channel, "lastBuildDate", email.utils.format_datetime(latest.astimezone(timezone.utc)))
+
+    for item_data in sorted(episodes, key=lambda item: item["episode"], reverse=True):
+        episode = item_data["episode"]
+        item = ET.SubElement(channel, "item")
+        add_text(item, "title", item_data["title"])
+        link = f"https://eduarddeboer.com/nl/archief/reputatiecoaching/{episode:03d}/"
+        add_text(item, "link", link)
+        add_text(item, "guid", f"reputatiecoaching-podcast-{episode:03d}", isPermaLink="false")
+        add_text(item, "pubDate", email.utils.format_datetime(item_data["date"].astimezone(timezone.utc)))
+        description = item_data["description"]
+        if episode >= 153:
+            description = (description + " Historisch archief: voor deze aflevering zijn de oorspronkelijke shownotes beschikbaar; de podcast werd vanaf aflevering 153 niet meer volledig uitgeschreven.").strip()
+        add_text(item, "description", description)
+        ET.SubElement(item, "enclosure", {"url": item_data["audio"], "length": str(lengths.get(episode, 0)), "type": "audio/mpeg"})
+        add_text(item, f"{{{itunes}}}author", "Eduard de Boer")
+        add_text(item, f"{{{itunes}}}episode", episode)
+        add_text(item, f"{{{itunes}}}episodeType", "full")
+        add_text(item, f"{{{itunes}}}explicit", "false")
+        add_text(item, f"{{{itunes}}}summary", description)
+        ET.SubElement(item, f"{{{itunes}}}image", {"href": art_url})
+
+    FEED.parent.mkdir(parents=True, exist_ok=True)
+    tree = ET.ElementTree(rss)
+    ET.indent(tree, space="  ")
+    tree.write(FEED, encoding="utf-8", xml_declaration=True)
+
+    manifest["feed"] = {
+        "path": str(FEED.relative_to(ROOT)),
+        "items": len(episodes),
+        "enclosure_lengths_resolved": sum(1 for value in lengths.values() if value > 0),
+        "enclosure_lengths_unresolved": sorted(episode for episode, value in lengths.items() if value <= 0),
+    }
+
+
+def write_section() -> None:
+    TARGET.mkdir(parents=True, exist_ok=True)
+    text = """---
+title: "ReputatieCoaching Podcast — historisch archief"
+description: "De 167 afleveringen van de ReputatieCoaching Podcast (2012–2016), met oorspronkelijke transcripties of shownotes en historisch beeldmateriaal waar beschikbaar."
+showDate: false
+showAuthor: false
+showReadingTime: false
+groupByYear: true
+type: "reputatiecoaching-podcast"
+cascade:
+  type: "reputatiecoaching-podcast"
+---
+
+Van december 2012 tot en met mei 2016 maakte ik **167 afleveringen van de ReputatieCoaching Podcast**. Dit is het historische archief van die serie.
+
+De afleveringen staan hier bewust als **historisch materiaal**. Ze laten zien waar ik mij in die jaren mee bezighield — online reputatie, lokale vindbaarheid, reviews, sociale media, WordPress en online marketing — maar ze zijn geen weergave van mijn huidige werk of van actuele adviezen. Diensten, contactgegevens, platforms, functies, links en aanbevelingen uit de oorspronkelijke teksten kunnen inmiddels zijn veranderd of verdwenen.
+
+Bij **aflevering 1 tot en met 152** is de oorspronkelijke volledige uitgeschreven tekst opgenomen waar die in het archief aanwezig is. Vanaf **aflevering 153** veranderde het format en werd de podcast niet meer volledig uitgeschreven; daar publiceer ik de oorspronkelijke shownotes.
+
+De audio wordt niet opnieuw gehost: de oorspronkelijke MP3-bestanden blijven via Internet Archive beschikbaar. Afbeeldingen zijn waar mogelijk vanuit het oorspronkelijke ReputatieCoaching-archief overgenomen, waarbij de grootste beschikbare bronvariant als uitgangspunt is gekozen.
+
+[RSS-feed voor podcastapps](/podcast/reputatiecoaching.xml)
+"""
+    (TARGET / "_index.md").write_text(text, encoding="utf-8")
+
+
+def validate_output(episodes: list[dict], manifest: dict) -> None:
+    pages = sorted(TARGET.glob("[0-9][0-9][0-9]/index.md"))
+    if len(pages) != 167:
+        raise SystemExit(f"Expected 167 imported episode pages, found {len(pages)}")
+    items = ET.parse(FEED).findall("./channel/item")
+    if len(items) != 167:
+        raise SystemExit(f"Expected 167 RSS items, found {len(items)}")
+    for item in items:
+        enclosure = item.find("enclosure")
+        if enclosure is None or not enclosure.attrib.get("url", "").startswith("https://archive.org/"):
+            raise SystemExit("Every RSS item must have an Archive.org audio enclosure")
+    manifest["validation"] = {
+        "episode_pages": len(pages),
+        "rss_items": len(items),
+        "full_transcript_episodes": 152,
+        "shownotes_episodes": 15,
+    }
+
+
+def main() -> None:
+    parser = argparse.ArgumentParser()
+    parser.add_argument("source", type=Path, help="Checked-out ReputatieCoaching source")
+    args = parser.parse_args()
+    source_root = args.source.resolve()
+    metadata = parse_csv()
+    kg_episodes, kg_commit = load_kg_podcasts()
+
+    private = (source_root / "content" / "podcast").is_dir()
+    if private:
+        episodes = private_episodes(source_root, metadata, kg_episodes)
+        source_kind = "private-normalized-source"
+    else:
+        episodes = public_episodes(source_root, metadata, kg_episodes)
+        source_kind = "public-static-mirror"
+
+    if [item["episode"] for item in episodes] != list(range(1, 168)):
+        raise SystemExit("Episodes are not a complete 1..167 sequence")
+
+    if TARGET.exists():
+        shutil.rmtree(TARGET)
+    if MEDIA_ROOT.exists():
+        shutil.rmtree(MEDIA_ROOT)
+
+    manifest: dict = {
+        "schema_version": 1,
+        "source_kind": source_kind,
+        "source_commit": git_commit(source_root),
+        "source_repository": "eduarddeboer/reputatiecoaching.nl" if private else "reputatiecoaching/reputatiecoaching.github.io",
+        "historical_period": "2012–2016",
+        "episodes": 167,
+        "kg_source_commit": kg_commit,
+        "audio_source": "data/kg/snapshot.json",
+        "legacy_metadata": metadata,
+        "images": [],
+        "missing_images": [],
+        "unsupported_shortcodes": set(),
+    }
+
+    write_section()
+    for item in episodes:
+        write_episode(
+            episode=item["episode"],
+            title=item["title"],
+            description=item["description"],
+            dt=item["date"],
+            body=item["body"],
+            source_root=source_root,
+            source_page=item["source_page"],
+            manifest=manifest,
+        )
+
+    art_url = prepare_feed_art(source_root, manifest)
+    write_feed(episodes, art_url, manifest)
+    validate_output(episodes, manifest)
+
+    manifest.pop("legacy_metadata", None)
+    manifest["unsupported_shortcodes"] = sorted(manifest["unsupported_shortcodes"])
+    manifest["image_count"] = len(manifest["images"])
+    manifest["missing_image_count"] = len(manifest["missing_images"])
+    MANIFEST.parent.mkdir(parents=True, exist_ok=True)
+    MANIFEST.write_text(json.dumps(manifest, ensure_ascii=False, indent=2) + "\n", encoding="utf-8")
+    print(json.dumps({
+        "source_kind": source_kind,
+        "episodes": 167,
+        "images": manifest["image_count"],
+        "missing_images": manifest["missing_image_count"],
+        "unsupported_shortcodes": len(manifest["unsupported_shortcodes"]),
+        "feed_lengths_resolved": manifest["feed"]["enclosure_lengths_resolved"],
+    }, ensure_ascii=False))
+
+
+if __name__ == "__main__":
+    main()
+()*[]~",
+        )
+        return f"[{label}]({archive_target})"
+
+    return MD_LINK.sub(repl, body)
 
 
 def strip_duplicate_title(body: str, title: str) -> str:
