@@ -106,7 +106,33 @@ jobs:
         with:
           python-version: "3.12"
 
-      - name: Hugo Extended
+      - name: Reuse local Hugo Extended 0.167.0
+        id: local_hugo
+        if: needs.choose-runner.outputs.target == 'local'
+        shell: /bin/bash --noprofile --norc {0}
+        env:
+          PATH: /opt/homebrew/bin:/usr/local/bin:/usr/bin:/bin:/usr/sbin:/sbin
+          HUGO_BIN: /Users/kg-runner/actions_hugo/bin/hugo
+        run: |
+          set -euo pipefail
+          if [[ -x "$HUGO_BIN" ]] && "$HUGO_BIN" version | grep -Eq 'hugo v0\.167\.0.*\+extended'; then
+            echo "$(dirname "$HUGO_BIN")" >> "$GITHUB_PATH"
+            echo "available=true" >> "$GITHUB_OUTPUT"
+            "$HUGO_BIN" version
+          else
+            rm -rf /Users/kg-runner/actions_hugo/_temp/pkg
+            echo "available=false" >> "$GITHUB_OUTPUT"
+          fi
+
+      - name: Bootstrap Hugo Extended on local Mac
+        if: needs.choose-runner.outputs.target == 'local' && steps.local_hugo.outputs.available != 'true'
+        uses: peaceiris/actions-hugo@v3
+        with:
+          hugo-version: "0.167.0"
+          extended: true
+
+      - name: Hugo Extended on GitHub-hosted fallback
+        if: needs.choose-runner.outputs.target != 'local'
         uses: peaceiris/actions-hugo@v3
         with:
           hugo-version: "0.167.0"
