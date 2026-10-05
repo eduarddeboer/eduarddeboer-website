@@ -5,6 +5,9 @@ showDate: false
 showAuthor: false
 showReadingTime: false
 groupByYear: true
+type: "reputatiecoaching-podcast"
+cascade:
+  type: "reputatiecoaching-podcast"
 ---
 
 Van december 2012 tot en met mei 2016 maakte ik **167 afleveringen van de ReputatieCoaching Podcast**. Dit is het historische archief van die serie.
