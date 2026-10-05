@@ -53,7 +53,7 @@ Sinds afgelopen nacht is Google+ totaal veranderd. Een groot deel van het social
 
 Heb je al eens gekeken naar Google About Me? Ik verwacht het niet, want ook die service is pas een paar dagen operationeel. Luister naar wat ik je erover te vertellen heb.
 
-[![20151119-aboutme-google](20151119-aboutme-google.jpg)](/wp-content/uploads/2015/11/20151119-aboutme-google.jpg)
+[![20151119-aboutme-google](20151119-aboutme-google.jpg)](https://web.archive.org/web/*/https://www.reputatiecoaching.nl/wp-content/uploads/2015/11/20151119-aboutme-google.jpg)
 
 ## Google My Business met geografische coördinaten
 
@@ -63,13 +63,13 @@ Op Google My Business kun je voor een beperkt aantal landen nu ook de geografisc
 
 Vorige week viel het me op dat ik voor sommige zoektermen opeens online fotoalbums van Google Photos te zien kreeg. Dus die albums beginnen te ranken op bepaalde trefwoorden.
 
-[![20151119-GooglePhotos-ranking](20151119-GooglePhotos-ranking.png)](/wp-content/uploads/2015/11/20151119-GooglePhotos-ranking.png)
+[![20151119-GooglePhotos-ranking](20151119-GooglePhotos-ranking.png)](https://web.archive.org/web/*/https://www.reputatiecoaching.nl/wp-content/uploads/2015/11/20151119-GooglePhotos-ranking.png)
 
 ## Fake reviews
 
 Fake reviews, het blijft een probleem. In de podcast van vandaag vertel ik je over hoe TripAdvisor hiermee omgaat en ertegen doet.
 
-[![TripAdvisor-fraud-warning](TripAdvisor-fraud-warning.gif)](/wp-content/uploads/2015/11/TripAdvisor-fraud-warning.gif)
+[![TripAdvisor-fraud-warning](TripAdvisor-fraud-warning.gif)](https://web.archive.org/web/*/https://www.reputatiecoaching.nl/wp-content/uploads/2015/11/TripAdvisor-fraud-warning.gif)
 
 Een journalist heeft mij benaderd over fake reviews, omdat hij daar een artikel over wil schrijven. In de podcast hoor je wat ik die journalist zoal heb verteld.
 
@@ -87,7 +87,7 @@ Links naar gerelateerde content die in deze podcast aan bod kwam:
   * [ReputatieCoaching Podcast in iTunes](https://web.archive.org/web/*/https://www.reputatiecoaching.nl/itunes)
   * [ReputatieCoaching Podcast op Stitcher](https://web.archive.org/web/*/https://www.reputatiecoaching.nl/stitcher)
   * [ReputatieCoaching Podcast op TuneIn Radio](http://tunein.com/radio/ReputatieCoaching-Podcast-p655084/)
-  * [ReputatieCoaching Podcast RSS-feed](https://feeds.reputatiecoaching.nl/ReputatieCoachingPodcast)
+  * [ReputatieCoaching Podcast RSS-feed](https://web.archive.org/web/*/https://www.reputatiecoaching.nl/ReputatieCoachingPodcast)
   * [Een spreadsheet maken voor uw bulkupload](https://support.google.com/business/answer/3370250?hl=nl) (Google Mijn Bedrijf Help)
   * [Google+ vernieuwd](https://googleblog.blogspot.nl/2015/11/introducing-new-google.html?m=1) (Google Blog, 17 november 2015)
 ```

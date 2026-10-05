@@ -259,7 +259,7 @@ Links naar content die in deze podcast aan bod komt:
   * [ReputatieCoaching Podcast in iTunes](https://web.archive.org/web/*/https://www.reputatiecoaching.nl/itunes)
   * [ReputatieCoaching Podcast op Stitcher](https://web.archive.org/web/*/https://www.reputatiecoaching.nl/stitcher)
   * [ReputatieCoaching Podcast op TuneIn Radio](http://tunein.com/radio/ReputatieCoaching-Podcast-p655084/)
-  * [ReputatieCoaching Podcast RSS-feed](https://feeds.reputatiecoaching.nl/ReputatieCoachingPodcast)
+  * [ReputatieCoaching Podcast RSS-feed](https://web.archive.org/web/*/https://www.reputatiecoaching.nl/ReputatieCoachingPodcast)
   * [Wayback Machine](http://archive.org/web/)
   * “[Facebook Warns Of Dips In ‘Like’ Count, Updates Metrics](http://www.mediapost.com/publications/article/245129/facebook-warns-of-dips-in-like-count-updates-me.html)” (MediaPost, 6 maart 2015)
   * “[In twaalf stappen naar een optimale CEO-reputatie](http://www.managersonline.nl/nieuws/15802/in-twaalf-stappen-naar-een-optimale-ceo-reputatie.html)” (Managersonline.nl, 9 maart 2015)

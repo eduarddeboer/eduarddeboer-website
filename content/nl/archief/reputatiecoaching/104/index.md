@@ -22,7 +22,7 @@ showTaxonomies: false
 **Transcriptiestatus:** Volledige transcriptie uit het oorspronkelijke archief.
 
 *Historische afbeelding niet beschikbaar: ReputatieCoaching Podcast*
-**Laatst vond ik de honderdste podcast een mijlpaal en ook deze aflevering is best een mijlpaaltje. Want met 52 weken in een jaar, betekent dit dat ik nu precies twee jaar de ReputatieCoaching Podcast uitbreng! Zometeen even kort wat statistieken… En eerder deze week meldde ik je dat [www.reputatiecoaching.nl](https://web.archive.org/web/*/http://www.reputatiecoaching.nl) nu officieel volgens Google “mobile-friendly” is. Een paar weken geleden heb ik wat adviezen gegeven voor het beter positioneren van een babywinkel in Noord-Holland… De adviezen werpen nu al vruchten af!**
+**Laatst vond ik de honderdste podcast een mijlpaal en ook deze aflevering is best een mijlpaaltje. Want met 52 weken in een jaar, betekent dit dat ik nu precies twee jaar de ReputatieCoaching Podcast uitbreng! Zometeen even kort wat statistieken… En eerder deze week meldde ik je dat [www.reputatiecoaching.nl](https://web.archive.org/web/*/https://www.reputatiecoaching.nl) nu officieel volgens Google “mobile-friendly” is. Een paar weken geleden heb ik wat adviezen gegeven voor het beter positioneren van een babywinkel in Noord-Holland… De adviezen werpen nu al vruchten af!**
 
 **Vanaf de zomer 2015 kun je gratis een SSL/TLS-certificaat voor je website krijgen. Waar en hoe? Dat vertel ik je zometeen! Verder adviseert Forrester om niets zakelijks meer te doen met Facebook en Twitter en ik sluit de podcast van vandaag af met 14 tips om je mailinglist te laten groeien.**
 
@@ -67,7 +67,7 @@ Ik heb de indruk dat lezers van Nederlandstalige weblogs veel minder de interact
 
 Heb jij een weblog? En heb jij veel interactie met je doelgroep? Wat doe jij om interactie met je doelgroep op je blogartikelen te realiseren? Vertel het onderaan de show notes van deze podcast, op [www.reputatiecoaching.nl/104](/nl/archief/reputatiecoaching/104/).
 
-## [www.reputatiecoaching.nl](https://web.archive.org/web/*/http://www.reputatiecoaching.nl) is “mobile-friendly” volgens Google
+## [www.reputatiecoaching.nl](https://web.archive.org/web/*/https://www.reputatiecoaching.nl) is “mobile-friendly” volgens Google
 
 Vorige week vertelde ik ook over de nieuwe rankingsignalen van Google en dan met name met betrekking tot de mobielvriendelijkheid van je site. Het blijkt dat Google de mobielvriendelijkheid van je site dus gaat meewegen in haar algoritmes die de positie van je webpagina’s in de zoekresultaten bepalen.
 
@@ -260,7 +260,7 @@ Links naar content die in deze podcast aan bod komt:
   * [ReputatieCoaching Podcast in iTunes](https://web.archive.org/web/*/https://www.reputatiecoaching.nl/itunes)
   * [ReputatieCoaching Podcast op Stitcher](https://web.archive.org/web/*/https://www.reputatiecoaching.nl/stitcher)
   * [ReputatieCoaching Podcast op TuneIn Radio](http://tunein.com/radio/ReputatieCoaching-Podcast-p655084/)
-  * [ReputatieCoaching Podcast RSS-feed](https://feeds.reputatiecoaching.nl/ReputatieCoachingPodcast)
+  * [ReputatieCoaching Podcast RSS-feed](https://web.archive.org/web/*/https://www.reputatiecoaching.nl/ReputatieCoachingPodcast)
   * [Word Stats (plugin voor WordPress)](http://www.tpculemborg.nl/)
   * [Let’s Encrypt](http://www.letsencrypt.org/) (GRATIS SSL/TLS certificaten)
   * “[News Feed FYI: Reducing Overly Promotional Page Posts in News Feed](http://newsroom.fb.com/news/2014/11/news-feed-fyi-reducing-overly-promotional-page-posts-in-news-feed/)” (Facebook blog, 14 november 2014)

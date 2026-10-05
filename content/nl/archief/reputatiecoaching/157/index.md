@@ -37,7 +37,7 @@ Ook is het leuk om het aantal downloads te zien stijgen. Zo begon het natuurlijk
 
 Daar kun je zien dat er eigenlijk altijd een groei in zit en elke maand van elk jaar meer downloads genereert dan dezelfde maand ervoor in het vorige jaar, behalve oktober dit jaar:
 
-[![20151203-downloads-podcasts](20151203-downloads-podcasts.png)](/wp-content/uploads/2015/12/20151203-downloads-podcasts.png)
+[![20151203-downloads-podcasts](20151203-downloads-podcasts.png)](https://web.archive.org/web/*/https://www.reputatiecoaching.nl/wp-content/uploads/2015/12/20151203-downloads-podcasts.png)
 
 ## Vragen naar aanleiding van podcast 156
 
@@ -68,9 +68,9 @@ Zoek je: “schilder in de buurt van arnhem” … dan zie je in veel gevallen d
 
 Google heeft de “one-boxes” verwijderd. Hieronder zie je twee voorbeelden: de eerste als je voorheen zocht op: “allround fotografie”:
 
-[![Onebox old](20151203-onebox-old.png)](/wp-content/uploads/2015/12/20151203-onebox-old.png) en de tweede die je sinds vandaag krijgt, als je zoekt op: “allround fotografie”:
+[![Onebox old](20151203-onebox-old.png)](https://web.archive.org/web/*/https://www.reputatiecoaching.nl/wp-content/uploads/2015/12/20151203-onebox-old.png) en de tweede die je sinds vandaag krijgt, als je zoekt op: “allround fotografie”:
 
-[![Onebox new](20151203-onebox-new.png)](/wp-content/uploads/2015/12/20151203-onebox-new.png)
+[![Onebox new](20151203-onebox-new.png)](https://web.archive.org/web/*/https://www.reputatiecoaching.nl/wp-content/uploads/2015/12/20151203-onebox-new.png)
 
 Zoals je ziet zijn bij de bedrijfsvermelding ook de reviewsterren verdwenen. Die staan nu nog wel in het zogenaamde Knowledge Panel aan de rechterkant.
 
@@ -82,7 +82,7 @@ Er wordt gespeculeerd dat Google dit doet om zo de aandacht terug te brengen naa
 
 Met andere woorden: er zijn slechts 5 plaatsen beschikbaar voor de luisteraars. Ga 2015 goed uit, begin 2016 met een makeover van je online reputatie en kom op 11 december naar Utrecht.
 
-[![20151203-reputatiebakkerij](20151203-reputatiebakkerij.png)](/reputatiebakkerij)
+[![20151203-reputatiebakkerij](20151203-reputatiebakkerij.png)](https://web.archive.org/web/*/https://www.reputatiecoaching.nl/reputatiebakkerij)
 
 Het aantal plaatsen is beperkt. Heb je interesse en wil je op 11 december alles opsteken over reputatiemanagement om je bedrijf beter op de kaart te zetten en bottom line meer business te doen, surf dan meteen naar: [www.reputatiecoaching.nl/reputatiebakkerij](https://web.archive.org/web/*/https://www.reputatiecoaching.nl/reputatiebakkerij) en meld je aan. Wacht niet te lang, want anders vis je achter het net!
 
@@ -100,7 +100,7 @@ Links naar content elders op Internet die in deze podcast aan bod komt:
   * [ReputatieCoaching Podcast in iTunes](https://web.archive.org/web/*/https://www.reputatiecoaching.nl/itunes)
   * [ReputatieCoaching Podcast op Stitcher](https://web.archive.org/web/*/https://www.reputatiecoaching.nl/stitcher)
   * [ReputatieCoaching Podcast op TuneIn Radio](http://tunein.com/radio/ReputatieCoaching-Podcast-p655084/)
-  * [ReputatieCoaching Podcast RSS-feed](https://feeds.reputatiecoaching.nl/ReputatieCoachingPodcast)
+  * [ReputatieCoaching Podcast RSS-feed](https://web.archive.org/web/*/https://www.reputatiecoaching.nl/ReputatieCoachingPodcast)
   * [Glassdoor](http://www.glassdoor.nl) – de reviewsite waar werknemers en ex-werknemers hun (vorige) werkgevers kunnen beoordelen
   * [Reputatiebakkerij](https://web.archive.org/web/*/https://www.reputatiecoaching.nl/reputatiebakkerij) – de workshop over reputatiemanagement op 11 december a.s. in Utrecht
   * “[How Job Seekers Use Glassdoor Reviews](http://new-talent-times.softwareadvice.com/how-job-seekers-use-glassdoor-0114/)” (The New Talent Times, 8 januari 2014)

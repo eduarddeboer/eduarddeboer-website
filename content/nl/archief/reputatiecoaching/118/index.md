@@ -67,7 +67,7 @@ Waar ik benieuwd naar ben is de vraag of jij er wel eens over hebt gedacht om te
 
 Het gebeurt steeds vaker dat mensen mij willen spreken en vaak komen die verzoeken ad-hoc. Ik wil altijd graag mensen helpen, dus ik zeg weinig “Nee”. Als gevolg hiervan komen mijn andere acties, taken en verplichtingen dikwijls in het gedrang. Dat was dus een punt dat ik moest oplossen, wilde ik de controle over mijn tijd terugkrijgen.
 
-[![ReputatieCoaching Spreekuur](Gratis-spreekuur.png)](/spreekuur)
+[![ReputatieCoaching Spreekuur](Gratis-spreekuur.png)](https://web.archive.org/web/*/https://www.reputatiecoaching.nl/spreekuur)
 
 De oplossing is simpel: ik ga vanaf volgende week dinsdag 10 maart wekelijks een spreekuur houden. Althans, ik ga ermee experimenteren. De komende weken kun je elke dinsdagmorgen tussen 11:00 en 12:00 online binnenlopen op mijn spreekuur. De virtuele deur staat open voor iedereen, dus het kan zijn dat je niet de enige bent. Sterker nog: er kunnen maximaal 9 mensen tegelijk deelnemen aan het spreekuur. Ook jij bent natuurlijk van harte welkom met je vragen!
 
@@ -127,7 +127,7 @@ Links naar content die in deze podcast aan bod komt:
   * [ReputatieCoaching Podcast in iTunes](https://web.archive.org/web/*/https://www.reputatiecoaching.nl/itunes)
   * [ReputatieCoaching Podcast op Stitcher](https://web.archive.org/web/*/https://www.reputatiecoaching.nl/stitcher)
   * [ReputatieCoaching Podcast op TuneIn Radio](http://tunein.com/radio/ReputatieCoaching-Podcast-p655084/)
-  * [ReputatieCoaching Podcast RSS-feed](https://feeds.reputatiecoaching.nl/ReputatieCoachingPodcast)
+  * [ReputatieCoaching Podcast RSS-feed](https://web.archive.org/web/*/https://www.reputatiecoaching.nl/ReputatieCoachingPodcast)
   * [Facebook Activity Remover](https://chrome.google.com/webstore/detail/facebook-activity-remover/cjhdaapekomkhcdfkeogcmhimmmkgkpb) extensie voor Chrome
   * “[Online reputatie: reageren mag](http://www.l-dj.nl/blogs/blog/159/Online+reputatie%3A+reageren+mag)” (Lubbers en de Jong, 27 februari 2015)
   * [HoA “Q&A session for mobile-friendly ranking change”](https://www.youtube.com/watch?v=v-0Q4s9ThU0) op 24 maart 19:00 Nederlandse tijd

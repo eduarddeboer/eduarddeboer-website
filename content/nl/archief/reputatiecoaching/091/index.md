@@ -244,7 +244,7 @@ Links naar content die in deze podcast aan bod komt:
 ```
   * [ReputatieCoaching Podcast in iTunes](https://web.archive.org/web/*/https://www.reputatiecoaching.nl/itunes)
   * [ReputatieCoaching Podcast op Stitcher](https://web.archive.org/web/*/https://www.reputatiecoaching.nl/stitcher)
-  * [ReputatieCoaching Podcast RSS-feed](https://feeds.reputatiecoaching.nl/ReputatieCoachingPodcast)
+  * [ReputatieCoaching Podcast RSS-feed](https://web.archive.org/web/*/https://www.reputatiecoaching.nl/ReputatieCoachingPodcast)
   * [GifYouTube](http://www.gifyoutube.com)
   * “[Report: Apple Accelerating Crowdsourced Maps Improvements](http://searchengineland.com/report-apple-accelerating-crowdsourced-maps-improvements-195641)” (Search Engine Land, 2 juli 2014)
   * “[Apple patents smart navigation routing with crowd-sourced stop light pattern recognition](http://appleinsider.com/articles/14/07/29/apple-patents-smart-navigation-routing-with-crowd-sourced-stop-light-pattern-recognition)” (AppleInsider, 29 juli 2014)

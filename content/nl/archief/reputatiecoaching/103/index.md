@@ -300,7 +300,7 @@ Links naar content die in deze podcast aan bod komt:
   * [ReputatieCoaching Podcast in iTunes](https://web.archive.org/web/*/https://www.reputatiecoaching.nl/itunes)
   * [ReputatieCoaching Podcast op Stitcher](https://web.archive.org/web/*/https://www.reputatiecoaching.nl/stitcher)
   * [ReputatieCoaching Podcast op TuneIn Radio](http://tunein.com/radio/ReputatieCoaching-Podcast-p655084/)
-  * [ReputatieCoaching Podcast RSS-feed](https://feeds.reputatiecoaching.nl/ReputatieCoachingPodcast)
+  * [ReputatieCoaching Podcast RSS-feed](https://web.archive.org/web/*/https://www.reputatiecoaching.nl/ReputatieCoachingPodcast)
   * [Google Mobile-Friendly Test](https://www.google.com/webmasters/tools/mobile-friendly/)
   * “[Sitelinks Search Box](https://developers.google.com/webmasters/richsnippets/sitelinkssearch)” (Google Developers)
   * “[23 Seldom-Used Ideas for How to Use Twitter Lists](https://blog.bufferapp.com/twitter-lists)” (BufferSocial, 20 oktober 2014)

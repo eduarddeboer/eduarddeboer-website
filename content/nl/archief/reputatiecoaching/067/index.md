@@ -81,7 +81,7 @@ Tja, ik vond het onbeleefd om hier niets mee te doen, maar ik had ook niet zo 1�
 
 Ik kreeg een mevrouw aan de lijn die nogmaals zei, dat ze graag wilde dat ik de vermelding verwijderde. Daarop legde ik haar uit dat ik niets te maken had met opendi.nl en dus begreep zij weer niet waarom mijn site dan bovenaan in de zoekresultaten stond, terwijl ik niet het bedrijf vertegenwoordigde.
 
-Het bleek dat ze op Google had gezocht op “bedrijfsvermelding opendi” en inderdaad: daarbij scoort mijn artikel met instructievideo van 21 augustus 2013 de eerste plaats! Sterker nog: alle tien de resultaten op de eerste pagina zijn van [www.reputatiecoaching.nl](https://web.archive.org/web/*/http://www.reputatiecoaching.nl). In de show notes heb ik hiervan een screenshot opgenomen, zodat je dit kunt zien. Dus kan ik me goed voorstellen dat die mevrouw het idee had dat mijn site van opendi.nl was.
+Het bleek dat ze op Google had gezocht op “bedrijfsvermelding opendi” en inderdaad: daarbij scoort mijn artikel met instructievideo van 21 augustus 2013 de eerste plaats! Sterker nog: alle tien de resultaten op de eerste pagina zijn van [www.reputatiecoaching.nl](https://web.archive.org/web/*/https://www.reputatiecoaching.nl). In de show notes heb ik hiervan een screenshot opgenomen, zodat je dit kunt zien. Dus kan ik me goed voorstellen dat die mevrouw het idee had dat mijn site van opendi.nl was.
 
 [Historische afbeelding: Bedrijfsvermelding opendi.nl op Google](https://lh6.googleusercontent.com/-MDLP0H_AVrQ/UxxTE6elTfI/AAAAAAAAAec/3FUB_MUmZ3g/w876-no/20140309-Bedrijfsvermelding-opendi.png)
 Terug naar het gesprek: het bleek dat die mevrouw met haar man tot zo’n 15 jaar geleden een bedrijf in zonnebanken had, terwijl ze dus al jaren niets meer met zonnebanken doet. Toch wordt ze nog steeds gebeld door mensen die op zoek zijn naar een zonnebank.
@@ -217,7 +217,7 @@ Links naar content die in deze podcast aan bod komt:
 ```
   * [ReputatieCoaching Podcast in iTunes](https://web.archive.org/web/*/https://www.reputatiecoaching.nl/itunes)
   * [ReputatieCoaching Podcast op Stitcher](https://web.archive.org/web/*/https://www.reputatiecoaching.nl/stitcher)
-  * [ReputatieCoaching Podcast RSS-feed](https://feeds.reputatiecoaching.nl/ReputatieCoachingPodcast)
+  * [ReputatieCoaching Podcast RSS-feed](https://web.archive.org/web/*/https://www.reputatiecoaching.nl/ReputatieCoachingPodcast)
   * [XOIP](http://www.xoip.com/)
   * [Getty Images](http://www.gettyimages.nl/)
   * “[Tips voor het reageren op recensies](https://support.google.com/places/answer/184271?hl=nl)” (Google)

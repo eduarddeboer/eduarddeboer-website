@@ -72,7 +72,7 @@ Maar ja, met honderden pagina’s met content die je niet geautomatiseerd kunt o
 
 Simpel: begin met een schone WordPress-installatie en bedenk een goede indeling voor wat betreft categorieën en tags. Kies een mooi en responsive theme of template wat je aanspreekt, installeer de gewenste plugins en begin met de eerste pagina van de oude website door middel van CTRL-C/CTRL-V (lees: copy/paste) over te zetten. Doe dat nog een paar honderd keer, verander hier en daar wat dingetjes, upload extra foto’s en dan is het klaar:
 
-[![20131118-Allround-Fotografie-site](20131118-Allround-Fotografie-site.png)](/wp-content/uploads/2013/11/20131118-Allround-Fotografie-site.jpg)
+[![20131118-Allround-Fotografie-site](20131118-Allround-Fotografie-site.png)](https://web.archive.org/web/*/https://www.reputatiecoaching.nl/wp-content/uploads/2013/11/20131118-Allround-Fotografie-site.jpg)
 
 Technisch gezien is het zo simpel, maar het was wel een puist werk. En ik heb nog niet alle content overgezet. Een deel van de artikelen uit het weblog moet nog over, evenals een aantal veelgestelde vragen en antwoorden uit de FAQ-module.
 
@@ -108,11 +108,11 @@ Maar wat veel mooier is, is de vernieuwde weergave van de banner. Aan de linkerk
 
 Het belang van goede foto’s, waaronder eentje als omslagfoto, begint nu echt te tellen. Want als je geen foto kiest voor een zakelijke Google+ pagina, dan wordt een stuk van Google Maps met daarop de locatie van je bedrijf op de kaart getoond. Volgens mij is dat niet iets waar je als ondernemer op zit te wachten.
 
-[![20131118-Woeste-Hoeve-Googleplus](20131118-Woeste-Hoeve-Googleplus.png)](/wp-content/uploads/2013/11/20131118-Woeste-Hoeve-Googleplus.png)
+[![20131118-Woeste-Hoeve-Googleplus](20131118-Woeste-Hoeve-Googleplus.png)](https://web.archive.org/web/*/https://www.reputatiecoaching.nl/wp-content/uploads/2013/11/20131118-Woeste-Hoeve-Googleplus.png)
 
 Ik moet zeggen dat ik de vernieuwde weergave (en zeker de banner) een stuk mooier vind, dan de vorige. In de show notes heb ik een screenshot van de vernieuwde Google+ pagina van [+Allround Fotografie](http://google.com/+AllroundFotografie) opgenomen.
 
-[![Allround Fotografie op Google+](20131118-Allround-Fotografie-Googleplus.png)](/wp-content/uploads/2013/11/20131118-Allround-Fotografie-Googleplus.jpg)
+[![Allround Fotografie op Google+](20131118-Allround-Fotografie-Googleplus.png)](https://web.archive.org/web/*/https://www.reputatiecoaching.nl/wp-content/uploads/2013/11/20131118-Allround-Fotografie-Googleplus.jpg)
 
 ## Gefilterde reviews bij Yelp worden nu wel vertoond
 
@@ -169,7 +169,7 @@ En zolang je het niet tot je dagtaak hebt gemaakt om te reageren op bijvoorbeeld
 
 Een paar weken geleden had ik het over [meetingroomreview.com](/nl/archief/reputatiecoaching/045/), een niche site voor vergaderlocaties, waarop deze hun reviews kunnen vergaren. Gisteravond keek ik eventjes tv en zag ik een commercial van VGZ, die ging over een nieuwe dienst met de naam “Samen delen”.
 
-[![20131118-VGZ-delen](20131118-VGZ-delen.png)](/wp-content/uploads/2013/11/20131118-VGZ-delen.png)
+[![20131118-VGZ-delen](20131118-VGZ-delen.png)](https://web.archive.org/web/*/https://www.reputatiecoaching.nl/wp-content/uploads/2013/11/20131118-VGZ-delen.png)
 
 Hierbij kun je op de site van VGZ reviews posten van behandelingen, zorgverleners et cetera. Maar dit platform gaat nog een stap verder. Je kunt ook ideeën en suggesties posten, waar iemand van VGZ dan op reageert en al of niet iets mee doet.
 
@@ -218,7 +218,7 @@ Hier volgen negen tips die geformuleerd zijn naar aanleiding van de keynote van 
   9. Denk visueel en maak plaatjes en video’s om je verhaal en je boodschap over te dragen.
 ```
 
-Mark Schaefer verzorgde een interessante keynote over hoe essentieel content is om invloed te creëren. Arend Landman heeft daarover ook een [gastblog](https://web.archive.org/web/*/https://www.reputatiecoaching.nl/congres-contentmarketing-2013-congrescm13-mark-schaefer-onthulde-keynote-principes-van-online-invloed-uitoefenen/) geschreven op [www.reputatiecoaching.nl](https://web.archive.org/web/*/http://www.reputatiecoaching.nl).
+Mark Schaefer verzorgde een interessante keynote over hoe essentieel content is om invloed te creëren. Arend Landman heeft daarover ook een [gastblog](https://web.archive.org/web/*/https://www.reputatiecoaching.nl/congres-contentmarketing-2013-congrescm13-mark-schaefer-onthulde-keynote-principes-van-online-invloed-uitoefenen/) geschreven op [www.reputatiecoaching.nl](https://web.archive.org/web/*/https://www.reputatiecoaching.nl).
 
 Met deze negen tips van C.C. Chapman tijdens het Congres Content Marketing 2013 (#congrescm13) kom ik dan weer aan het einde van deze podcast.
 

@@ -159,7 +159,7 @@ De URL was niet alleen ingevuld in het URL veld, maar ook nog eens in de body va
 
 Dat is nu precies de reden dat ik standaard het niet toesta dat reacties meteen live op de site komen. Af en toe komen er namelijk toch nog berichtjes van dit soort door het spamfilter.
 
-Nu maakt me dat niet veel uit, want ik richt me namelijk liever op de positieve kant van het functioneren van Akismet. Sinds dat ik die plugin heb geactiveerd op [www.reputatiecoaching.nl](https://web.archive.org/web/*/http://www.reputatiecoaching.nl), heeft die namelijk al wel meer dan 65.000 spamberichten geheel geautomatiseerd onderschept! Stel je voor dat ik die allemaal met de hand had moeten controleren en afwijzen! Ik moet er niet aan denken!
+Nu maakt me dat niet veel uit, want ik richt me namelijk liever op de positieve kant van het functioneren van Akismet. Sinds dat ik die plugin heb geactiveerd op [www.reputatiecoaching.nl](https://web.archive.org/web/*/https://www.reputatiecoaching.nl), heeft die namelijk al wel meer dan 65.000 spamberichten geheel geautomatiseerd onderschept! Stel je voor dat ik die allemaal met de hand had moeten controleren en afwijzen! Ik moet er niet aan denken!
 
 Heb jij last van spam in de reacties van je site? Wat doe jij ertegen? Heb je een captcha geïnstalleerd als extra barrière? Of gebruik je een ander mechanisme of een andere service voor reacties, zoals bijvoorbeeld Disqus (met een ‘q’)?
 
@@ -215,7 +215,7 @@ Links naar content die in deze podcast aan bod komt:
   * [ReputatieCoaching Podcast in iTunes](https://web.archive.org/web/*/https://www.reputatiecoaching.nl/itunes)
   * [ReputatieCoaching Podcast op Stitcher](https://web.archive.org/web/*/https://www.reputatiecoaching.nl/stitcher)
   * [ReputatieCoaching Podcast op TuneIn Radio](http://tunein.com/radio/ReputatieCoaching-Podcast-p655084/)
-  * [ReputatieCoaching Podcast RSS-feed](https://feeds.reputatiecoaching.nl/ReputatieCoachingPodcast)
+  * [ReputatieCoaching Podcast RSS-feed](https://web.archive.org/web/*/https://www.reputatiecoaching.nl/ReputatieCoachingPodcast)
   * [Audacity](http://audacity.sourceforge.net/?lang=nl) : Gratis, open source, cross-platform software voor het opnemen en bewerken van geluiden
   * “[Introducing a new audio experience on Twitter](https://blog.twitter.com/2014/introducing-a-new-audio-experience-on-twitter)” (Twitter Blog, 16 oktober 2014)
   * “[Why Copyblogger Is Killing Its Facebook Page](http://www.copyblogger.com/bye-facebook/)” (Copyblogger, 18 oktober 2014)

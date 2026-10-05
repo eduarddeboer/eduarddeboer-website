@@ -72,7 +72,7 @@ Het aantal mensen dat sites ook whitelist neemt toe. Mensen beginnen adblockers 
 
 Door niet alleen op bekende sites reviews te verzamelen, krijg je nog meer social proof bij een zogenaamde “branded search”, een zoekopdracht op de naam van een bedrijf, (bijvoorbeeld [Wijsman en Koster Tandartsen](http://www.wktandartsen.nl)):
 
-[![Reviewsites voor tandartsen](20160504-reviewsites-wk-tandartsen.png)](/wp-content/uploads/2016/05/20160504-reviewsites-wk-tandarsen.png)
+[![Reviewsites voor tandartsen](20160504-reviewsites-wk-tandartsen.png)](https://web.archive.org/web/*/https://www.reputatiecoaching.nl/wp-content/uploads/2016/05/20160504-reviewsites-wk-tandarsen.png)
 
 ## Kijk ook eens op…
 
@@ -82,7 +82,7 @@ Links naar onderwerpen die in deze podcast aan bod komen:
   * [ReputatieCoaching Podcast in iTunes](https://itunes.apple.com/nl/podcast/reputatiecoaching-podcast/id584370482?l=en&mt=2)
   * [ReputatieCoaching Podcast op Stitcher](http://www.stitcher.com/podcast/reputatie-coaching-podcast/reputatiecoaching)
   * [ReputatieCoaching Podcast op TuneIn Radio](http://tunein.com/radio/ReputatieCoaching-Podcast-p655084/)
-  * [ReputatieCoaching Podcast RSS-feed](https://feeds.reputatiecoaching.nl/ReputatieCoachingPodcast)
+  * [ReputatieCoaching Podcast RSS-feed](https://web.archive.org/web/*/https://www.reputatiecoaching.nl/ReputatieCoachingPodcast)
   * "[How to get Google Calendar events in the search results](http://www.whitespark.ca/blog/post/82-how-to-get-google-calendar-events-in-the-search-results)" (Whitespark blog, 18 april 2016)
   * "[How to Use Aggregate Review Schema to Get Stars in the Search Results for Local Businesses](http://www.whitespark.ca/blog/post/83-how-to-use-aggregate-review-schema-to-get-stars-in-the-serps)" (Whitespark blog, 2 mei 2016)
   * "[Get around Rio with indoor maps of 2016 Olympic venues](https://maps.googleblog.com/2016/05/get-around-rio-with-indoor-maps-of-2016.html)" (Google Maps blog, 3 mei 2016)

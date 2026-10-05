@@ -53,10 +53,10 @@ Voor de volledigheid nog even het ovezicht waar je de podcast nu dus goed kunt b
 ```
   * [iTunes](https://itunes.apple.com/nl/podcast/reputatiecoaching-podcast/id584370482)
   * [Stitcher](http://www.stitcher.com/podcast/reputatie-coaching-podcast/reputatiecoaching)
-  * [ReputatieCoaching Podcast RSS-feed](https://feeds.reputatiecoaching.nl/ReputatieCoachingPodcast) voor gebruik in diverse podcast applicaties
+  * [ReputatieCoaching Podcast RSS-feed](https://web.archive.org/web/*/https://www.reputatiecoaching.nl/ReputatieCoachingPodcast) voor gebruik in diverse podcast applicaties
 ```
 
-Natuurlijk is de podcast ook gewoon via je browser te beluisteren vanaf elk podcast artikel op de site. Die kun je wekelijks vinden op [www.reputatiecoaching.nl](https://web.archive.org/web/*/http://www.reputatiecoaching.nl), gevolgd door het nummer van de podcast. Zo kun je podcast 52 dus ook beluisteren op [www.reputatiecoaching.nl/52](/nl/archief/reputatiecoaching/052/). Onderaan de transcriptie vind je de play-knop.
+Natuurlijk is de podcast ook gewoon via je browser te beluisteren vanaf elk podcast artikel op de site. Die kun je wekelijks vinden op [www.reputatiecoaching.nl](https://web.archive.org/web/*/https://www.reputatiecoaching.nl), gevolgd door het nummer van de podcast. Zo kun je podcast 52 dus ook beluisteren op [www.reputatiecoaching.nl/52](/nl/archief/reputatiecoaching/052/). Onderaan de transcriptie vind je de play-knop.
 Op diezelfde pagina is ook de volledige transcriptie te lezen en kun je bovendien reacties of vragen achterlaten, naar aanleiding van deze podcast.
 
 ## YouTube Video’s in Google met eigen domeinnaam dankzij Video SEO plugin

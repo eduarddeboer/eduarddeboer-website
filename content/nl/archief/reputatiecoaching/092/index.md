@@ -207,6 +207,6 @@ Links naar content die in deze podcast aan bod komt:
 ```
   * [ReputatieCoaching Podcast in iTunes](https://web.archive.org/web/*/https://www.reputatiecoaching.nl/itunes)
   * [ReputatieCoaching Podcast op Stitcher](https://web.archive.org/web/*/https://www.reputatiecoaching.nl/stitcher)
-  * [ReputatieCoaching Podcast RSS-feed](https://feeds.reputatiecoaching.nl/ReputatieCoachingPodcast)
+  * [ReputatieCoaching Podcast RSS-feed](https://web.archive.org/web/*/https://www.reputatiecoaching.nl/ReputatieCoachingPodcast)
   * [N.A.P. Hunter!](https://chrome.google.com/webstore/detail/nap-hunter/ligeiippheclogiddffemogcgpjmieao) (Google Chrome extensie)
 ```

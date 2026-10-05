@@ -173,7 +173,7 @@ Met andere woorden: podcast 144 en 145 leken er dus niet te zijn!
 
 Ik snapte er niets van! Eerst dacht ik dat ik per ongeluk podcasts 144 en 145 niet in de categorie “Podcasts” had ingedeeld, maar dat was niet het geval. Ze stonden netjes in de juiste categorie.
 
-Opeens bedacht ik me iets… Ik maak gebruik van de plugin Pretty Link Lite, een WordPress plugin om mooie links te maken onder je eigen website, naar andere content, die zowel op je eigen site mag staan, als elders op Internet. Dat komt vaak handig van pas. En ik meende me te herinneren dat ik ooit in een grijs verleden eens een pretty link heb gemaakt, onder [www.reputatiecoaching.nl/podcasts](https://web.archive.org/web/*/http://www.reputatiecoaching.nl/podcasts). Maar die link verwees door naar een playlist op YouTube, waar ik podcast 1 tot en met 35 ooit eens in videovorm heb uitgebracht. Dat is overigens nooit een succes geworden…
+Opeens bedacht ik me iets… Ik maak gebruik van de plugin Pretty Link Lite, een WordPress plugin om mooie links te maken onder je eigen website, naar andere content, die zowel op je eigen site mag staan, als elders op Internet. Dat komt vaak handig van pas. En ik meende me te herinneren dat ik ooit in een grijs verleden eens een pretty link heb gemaakt, onder [www.reputatiecoaching.nl/podcasts](https://web.archive.org/web/*/https://www.reputatiecoaching.nl/podcasts). Maar die link verwees door naar een playlist op YouTube, waar ik podcast 1 tot en met 35 ooit eens in videovorm heb uitgebracht. Dat is overigens nooit een succes geworden…
 
 Terugkomend op het probleem… Ik verwijderde de pretty link en voilà: bij het verversen van de categoriepagina /podcasts prijkte 147 nu netjes bovenaan als de meest recente podcast!
 
@@ -254,7 +254,7 @@ Links naar content die in deze podcast aan bod komt:
   * [ReputatieCoaching Podcast in iTunes](https://web.archive.org/web/*/https://www.reputatiecoaching.nl/itunes)
   * [ReputatieCoaching Podcast op Stitcher](https://web.archive.org/web/*/https://www.reputatiecoaching.nl/stitcher)
   * [ReputatieCoaching Podcast op TuneIn Radio](http://tunein.com/radio/ReputatieCoaching-Podcast-p655084/)
-  * [ReputatieCoaching Podcast RSS-feed](https://feeds.reputatiecoaching.nl/ReputatieCoachingPodcast)
+  * [ReputatieCoaching Podcast RSS-feed](https://web.archive.org/web/*/https://www.reputatiecoaching.nl/ReputatieCoachingPodcast)
   * [Jing](https://www.techsmith.com/jing.html) - DE ideale en gratis tool voor screenshots en screencasts
   * [Pretty Link Lite](https://wordpress.org/support/plugin/pretty-link) - WordPress plugin voor mooie URL's vanaf jouw domein naar elke plaats op Internet
   * “[Slechte onderneming betaalt meer](http://m.deondernemer.nl/kennis/678667/Slechte-onderneming-betaalt-meer.html)” (De Ondernemer, 25 september 2015)

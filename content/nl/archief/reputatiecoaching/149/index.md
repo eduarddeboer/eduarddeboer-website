@@ -265,7 +265,7 @@ Publiceer die interviews in audiovorm, of alleen de transcriptie, of in de vorm 
 
 Een alternatieve manier is zelf interviews of een interview te geven. De interviewende partij zal vaak naar jouw content verwijzen door middel van een hyperlink.
 
-Zo werd ik laatst nog geïnterviewd door “PatientenReview.nl”. Dat interview vond plaats door middel van een Google Hangout on Air. Het opgenomen materiaal is later in stukken geknipt en wordt in een vier- of vijftal aparte video’s gepubliceerd. Daarbij komt ook een link naar [www.reputatiecoaching.nl](https://web.archive.org/web/*/http://www.reputatiecoaching.nl).
+Zo werd ik laatst nog geïnterviewd door “PatientenReview.nl”. Dat interview vond plaats door middel van een Google Hangout on Air. Het opgenomen materiaal is later in stukken geknipt en wordt in een vier- of vijftal aparte video’s gepubliceerd. Daarbij komt ook een link naar [www.reputatiecoaching.nl](https://web.archive.org/web/*/https://www.reputatiecoaching.nl).
 
 Bovendien had ik ervoor gezorgd dat ik een balk in beeld had met mijn naam en de titel “ReputatieCoach”. Dat levert op zich ook weer extra verkeer op, door mensen die naar mij op zoek gaan, waar vervolgens ook weer mensen tussen zitten die een link naar de site plaatsen.
 

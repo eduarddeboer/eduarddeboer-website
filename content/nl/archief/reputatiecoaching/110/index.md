@@ -234,7 +234,7 @@ Links naar content die in deze podcast aan bod komt:
   * [ReputatieCoaching Podcast in iTunes](https://web.archive.org/web/*/https://www.reputatiecoaching.nl/itunes)
   * [ReputatieCoaching Podcast op Stitcher](https://web.archive.org/web/*/https://www.reputatiecoaching.nl/stitcher)
   * [ReputatieCoaching Podcast op TuneIn Radio](http://tunein.com/radio/ReputatieCoaching-Podcast-p655084/)
-  * [ReputatieCoaching Podcast RSS-feed](https://feeds.reputatiecoaching.nl/ReputatieCoachingPodcast)
+  * [ReputatieCoaching Podcast RSS-feed](https://web.archive.org/web/*/https://www.reputatiecoaching.nl/ReputatieCoachingPodcast)
   * [Webinar Ignition](https://web.archive.org/web/*/https://www.reputatiecoaching.nl/webinarignition) (voor het zelf organiseren van webinars)
   * [Trello](http://www.trello.com)
   * “[Klantenservice DeOnlineDrogist.nl via WhatsApp](http://www.emerce.nl/nieuws/klantenservice-deonlinedrogistnl-via-whatsapp)” (Emerce, 14 november 2014)

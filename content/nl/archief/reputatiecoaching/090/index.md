@@ -158,7 +158,7 @@ Links naar content die in deze podcast aan bod komt:
 ```
   * [ReputatieCoaching Podcast in iTunes](https://web.archive.org/web/*/https://www.reputatiecoaching.nl/itunes)
   * [ReputatieCoaching Podcast op Stitcher](https://web.archive.org/web/*/https://www.reputatiecoaching.nl/stitcher)
-  * [ReputatieCoaching Podcast RSS-feed](https://feeds.reputatiecoaching.nl/ReputatieCoachingPodcast)
+  * [ReputatieCoaching Podcast RSS-feed](https://web.archive.org/web/*/https://www.reputatiecoaching.nl/ReputatieCoachingPodcast)
   * “[DTG neemt specialist in klantbeoordelingen over](http://www.emerce.nl/nieuws/dtg-neemt-specialist-klantbeoordelingen)” (Emerce, 18 augustus 2014)
   * “[Google voert 890 veranderingen in het afgelopen jaar door](https://plus.google.com/u/0/+AmitSinghal/posts/XF5QP7CVNQY)” (Amit Singhal op Google+, 19 augustus 2014)
 ```

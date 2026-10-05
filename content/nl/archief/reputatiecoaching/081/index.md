@@ -216,7 +216,7 @@ Links naar content die in deze podcast aan bod komt:
 ```
   * [ReputatieCoaching Podcast in iTunes](https://web.archive.org/web/*/https://www.reputatiecoaching.nl/itunes)
   * [ReputatieCoaching Podcast op Stitcher](https://web.archive.org/web/*/https://www.reputatiecoaching.nl/stitcher)
-  * [ReputatieCoaching Podcast RSS-feed](https://feeds.reputatiecoaching.nl/ReputatieCoachingPodcast)
+  * [ReputatieCoaching Podcast RSS-feed](https://web.archive.org/web/*/https://www.reputatiecoaching.nl/ReputatieCoachingPodcast)
   * [Google Mijn Bedrijf](http://www.google.nl/business/)
   * [Skybox Imaging](http://www.skyboximaging.com/technology#imaging-chain)
   * “[Submitting privacy-related requests to block results in the EU](http://onlinehelp.microsoft.com/en-gb/bing/dn768284.aspx)” (Bing Help)

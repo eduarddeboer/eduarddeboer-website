@@ -234,7 +234,7 @@ Links naar content die in deze podcast aan bod komt:
 ```
   * [ReputatieCoaching Podcast in iTunes](https://web.archive.org/web/*/https://www.reputatiecoaching.nl/itunes)
   * [ReputatieCoaching Podcast op Stitcher](https://web.archive.org/web/*/https://www.reputatiecoaching.nl/stitcher)
-  * [ReputatieCoaching Podcast RSS-feed](https://feeds.reputatiecoaching.nl/ReputatieCoachingPodcast)
+  * [ReputatieCoaching Podcast RSS-feed](https://web.archive.org/web/*/https://www.reputatiecoaching.nl/ReputatieCoachingPodcast)
   * “[Google Penalizing Sites for Poor Mobile Experience](http://www.location3.com/blog/google-mobile-warning/)” (Location3, 12 juni 2014)
   * “[B.C. court ruling orders Google to block sites worldwide](http://www.theglobeandmail.com/report-on-business/industry-news/the-law-page/bc-court-seeking-global-reach-orders-google-to-block-sites/article19212708/)” (The Globe and Mail, 17 juni 2014)
   * “[Google Panda 4, and blocking your CSS & JS]”[53](https://yoast.com/google-panda-robots-css-js/) (Yoast blog, 19 juni 2014)

@@ -191,7 +191,7 @@ Links naar content die in deze podcast aan bod komt:
   * [ReputatieCoaching Podcast in iTunes](https://web.archive.org/web/*/https://www.reputatiecoaching.nl/itunes)
   * [ReputatieCoaching Podcast op Stitcher](https://web.archive.org/web/*/https://www.reputatiecoaching.nl/stitcher)
   * [ReputatieCoaching Podcast op TuneIn Radio](http://tunein.com/radio/ReputatieCoaching-Podcast-p655084/)
-  * [ReputatieCoaching Podcast RSS-feed](https://feeds.reputatiecoaching.nl/ReputatieCoachingPodcast)
+  * [ReputatieCoaching Podcast RSS-feed](https://web.archive.org/web/*/https://www.reputatiecoaching.nl/ReputatieCoachingPodcast)
   * “[Google Says “Near Me” Searches Have Doubled This Year](https://getpocket.com/a/read/936354100)” (Search Engine Land, 27 mei 2015)
   * [Diana Albrink: Het blog en de auteur](http://dianaalbrink.com)
   * ["New York in 40 dates" op bol.com](https://partnerprogramma.bol.com/click/click?p=1&t=url&s=20124&f=TXL&url=http%3A%2F%2Fwww.bol.com%2Fnl%2Fp%2Fnew-york-in-40-dates%2F9200000040900104%2F&name=DianaAlbrink&subid=NY40dates)

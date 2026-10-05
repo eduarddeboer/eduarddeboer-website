@@ -94,7 +94,7 @@ Links naar content elders op Internet die in deze podcast aan bod komt:
   * [ReputatieCoaching Podcast in iTunes](https://web.archive.org/web/*/https://www.reputatiecoaching.nl/itunes)
   * [ReputatieCoaching Podcast op Stitcher](https://web.archive.org/web/*/https://www.reputatiecoaching.nl/stitcher)
   * [ReputatieCoaching Podcast op TuneIn Radio](http://tunein.com/radio/ReputatieCoaching-Podcast-p655084/)
-  * [ReputatieCoaching Podcast RSS-feed](https://feeds.reputatiecoaching.nl/ReputatieCoachingPodcast)
+  * [ReputatieCoaching Podcast RSS-feed](https://web.archive.org/web/*/https://www.reputatiecoaching.nl/ReputatieCoachingPodcast)
   * "[149: ZMVL = ZoekMachine Verantwoorde Linkbuilding. Mijn favoriete RSS-reader, Google blijft veranderen, reputatieschade op Facebook en #SMC055 over videomarketing](/nl/archief/reputatiecoaching/149/)" (Podcast #149, 8 oktober 2015)
   * "[150: Reputatielek(!), ZoekMachine Vriendelijke Linkbuilding deel 2, ReputatieCoaching nu ook Google Lokale pagina voor reviews en meer!](/nl/archief/reputatiecoaching/150/)" (Podcast 150, 15 oktober 2015)
 ```

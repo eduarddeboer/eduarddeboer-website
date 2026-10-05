@@ -38,7 +38,7 @@ Als persoon kun je met de diverse tips aan de slag om bijvoorbeeld je online rep
 
 In deze podcast noem ik een aantal sites, video’s en verwijs ik naar verschillende artikelen. De links naar al deze content èn de volledige transcriptie van de podcast vind je op [www.reputatiecoaching.nl/63](/nl/archief/reputatiecoaching/063/). Je kunt de podcast rechtstreeks beluisteren op zowel iTunes, als op Stitcher. Surf hiertoe respectievelijk naar [www.reputatiecoaching.nl/itunes](https://web.archive.org/web/*/https://www.reputatiecoaching.nl/itunes) of naar [www.reputatiecoaching.nl/stitcher](https://web.archive.org/web/*/https://www.reputatiecoaching.nl/stitcher).
 
-Mocht je de podcast in een andere podcatcher of podcastplayer willen beluisteren, dan kun je je op de feed [feeds.reputatiecoaching.nl/reputatiecoachingpodcast](https://feeds.reputatiecoaching.nl/ReputatieCoachingPodcast) abonneren. Al deze links vind je ook in de show notes van deze podcast, alsmede op de website.
+Mocht je de podcast in een andere podcatcher of podcastplayer willen beluisteren, dan kun je je op de feed [feeds.reputatiecoaching.nl/reputatiecoachingpodcast](https://web.archive.org/web/*/https://www.reputatiecoaching.nl/ReputatieCoachingPodcast) abonneren. Al deze links vind je ook in de show notes van deze podcast, alsmede op de website.
 
 ## Terugblik podcast 62
 
@@ -240,7 +240,7 @@ Links naar content die in deze podcast aan bod komt:
 ```
   * [ReputatieCoaching Podcast in iTunes](https://web.archive.org/web/*/https://www.reputatiecoaching.nl/itunes)
   * [ReputatieCoaching Podcast op Stitcher](https://web.archive.org/web/*/https://www.reputatiecoaching.nl/stitcher)
-  * [ReputatieCoaching Podcast RSS-feed](https://feeds.reputatiecoaching.nl/ReputatieCoachingPodcast)
+  * [ReputatieCoaching Podcast RSS-feed](https://web.archive.org/web/*/https://www.reputatiecoaching.nl/ReputatieCoachingPodcast)
 ```
 
 Titel: 63: #SMC055, win een taart, vragen van luisteraars en over de juiste Google+ categorie voor een begrafenisondernemer

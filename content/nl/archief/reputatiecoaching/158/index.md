@@ -48,7 +48,7 @@ Verder is ook de API vernieuwd, dat is de manier waarop andere services tegen of
 
 ## Photo hijacking bij de ANWB vermeldingen op Google Maps
 
-[![20151208-ANWB-winkel-Amersfoort](20151208-ANWB-winkel-Amersfoort.png)](/wp-content/uploads/2015/12/20151208-ANWB-winkel-Amersfoort.png)Laatst was ik bezig wat vermeldingen van ANWB keuringsstations en ANWB winkels op Google Maps te verrijken, toen ik op een aparte vermelding stuitte. En dan was niet zo zeer de vermelding vreemd, maar de foto die erbij stond.
+[![20151208-ANWB-winkel-Amersfoort](20151208-ANWB-winkel-Amersfoort.png)](https://web.archive.org/web/*/https://www.reputatiecoaching.nl/wp-content/uploads/2015/12/20151208-ANWB-winkel-Amersfoort.png)Laatst was ik bezig wat vermeldingen van ANWB keuringsstations en ANWB winkels op Google Maps te verrijken, toen ik op een aparte vermelding stuitte. En dan was niet zo zeer de vermelding vreemd, maar de foto die erbij stond.
 
 Ik verwachtte bijvoorbeeld een foto van het keuringsstation, of de voorgevel van een ANWB winkel. Maar ik zag tientallen vermeldingen in Google Maps met foto’s van trekhaakcentrum.nl. Allemaal verschillende foto’s van bestickerde auto’s waar die URL op stond, gebouwen waar banners hingen met die URL en dergelijke.
 
@@ -119,7 +119,7 @@ Links naar content elders op Internet die in deze podcast aan bod komt:
   * [ReputatieCoaching Podcast in iTunes](https://web.archive.org/web/*/https://www.reputatiecoaching.nl/itunes)
   * [ReputatieCoaching Podcast op Stitcher](https://web.archive.org/web/*/https://www.reputatiecoaching.nl/stitcher)
   * [ReputatieCoaching Podcast op TuneIn Radio](http://tunein.com/radio/ReputatieCoaching-Podcast-p655084/)
-  * [ReputatieCoaching Podcast RSS-feed](https://feeds.reputatiecoaching.nl/ReputatieCoachingPodcast)
+  * [ReputatieCoaching Podcast RSS-feed](https://web.archive.org/web/*/https://www.reputatiecoaching.nl/ReputatieCoachingPodcast)
   * [WordPress 4.4](https://wordpress.org/news/2015/12/clifford/)
   * "[Periscope: 12 tips om livestream zakelijk in te zetten](https://www.frankwatching.com/archive/2015/11/25/periscope-12-tips-om-livestream-zakelijk-in-te-zetten/)" (Frankwatching, 25 november 2015)
 ```

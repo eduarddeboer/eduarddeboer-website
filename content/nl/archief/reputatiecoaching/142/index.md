@@ -290,7 +290,7 @@ Links naar content die in deze podcast aan bod komt:
   * [ReputatieCoaching Podcast in iTunes](https://web.archive.org/web/*/https://www.reputatiecoaching.nl/itunes)
   * [ReputatieCoaching Podcast op Stitcher](https://web.archive.org/web/*/https://www.reputatiecoaching.nl/stitcher)
   * [ReputatieCoaching Podcast op TuneIn Radio](http://tunein.com/radio/ReputatieCoaching-Podcast-p655084/)
-  * [ReputatieCoaching Podcast RSS-feed](https://feeds.reputatiecoaching.nl/ReputatieCoachingPodcast)
+  * [ReputatieCoaching Podcast RSS-feed](https://web.archive.org/web/*/https://www.reputatiecoaching.nl/ReputatieCoachingPodcast)
   * [WordPress 4.3 (“Billie”)](https://wordpress.org/news/2015/08/billie/)
   * [Open Location Code](https://github.com/google/open-location-code) (Source code voor OLC op GitHub)
   * “[Survey: 90 Percent Of Retail Shoppers Use Smartphones In Stores](http://marketingland.com/survey-90-percent-of-retail-shoppers-use-smartphones-in-stores-135759)” (Marketing Land, 20 juli 2015)

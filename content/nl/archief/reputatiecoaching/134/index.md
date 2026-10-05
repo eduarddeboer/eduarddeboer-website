@@ -232,7 +232,7 @@ Links naar content die in deze podcast aan bod komt:
   * [ReputatieCoaching Podcast in iTunes](https://web.archive.org/web/*/https://www.reputatiecoaching.nl/itunes)
   * [ReputatieCoaching Podcast op Stitcher](https://web.archive.org/web/*/https://www.reputatiecoaching.nl/stitcher)
   * [ReputatieCoaching Podcast op TuneIn Radio](http://tunein.com/radio/ReputatieCoaching-Podcast-p655084/)
-  * [ReputatieCoaching Podcast RSS-feed](https://feeds.reputatiecoaching.nl/ReputatieCoachingPodcast)
+  * [ReputatieCoaching Podcast RSS-feed](https://web.archive.org/web/*/https://www.reputatiecoaching.nl/ReputatieCoachingPodcast)
   * [SimplyBook.me](https://web.archive.org/web/*/https://www.reputatiecoaching.nl/simplybook) - Een gratis online boekingmodule die je kunt koppelen met je Google Kalender en ook kunt gebruiken in je WordPress site
   * “[Can You Repurpose Customers’ Yelp Reviews on Your Website? An Answer from Yelp HQ](http://www.localvisibilitysystem.com/2015/06/17/can-you-repurpose-customers-yelp-reviews-on-your-website-an-answer-from-yelp-hq/)” (Local Visibility System, 17 juni 2015)
 ```

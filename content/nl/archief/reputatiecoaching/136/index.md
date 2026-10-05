@@ -21,7 +21,7 @@ showTaxonomies: false
 
 **Transcriptiestatus:** Volledige transcriptie uit het oorspronkelijke archief.
 
-\*\*[![ReputatieCoaching Podcast](ReputatieCoaching-Podcast-136.png)](/wp-content/uploads/2012/12/Reputatie-Coaching-Podcast-logo-200x200.jpg)Eerder deze week meldde ik dat Google nog maar 3 lokale resultaten vertoont. Daarover zo meer. DuckDuckGo groeit al maar verder… Dat is het tweede topic.\*\*
+\*\*[![ReputatieCoaching Podcast](ReputatieCoaching-Podcast-136.png)](https://web.archive.org/web/*/https://www.reputatiecoaching.nl/wp-content/uploads/2012/12/Reputatie-Coaching-Podcast-logo-200x200.jpg)Eerder deze week meldde ik dat Google nog maar 3 lokale resultaten vertoont. Daarover zo meer. DuckDuckGo groeit al maar verder… Dat is het tweede topic.\*\*
 
 **Het derde onderwerp van vandaag gaat over “spammy snippets” en het vierde punt van vandaag gaat erover dat werkzoekenden tegenwoordig de reputatie van een bedrijf net zo belangrijk vinden als het salaris.**
 
@@ -109,7 +109,7 @@ Het is dus essentieel dat je als bedrijf ook aan je online reputatie werkt en er
 
 ## Peter Geurts (BigSpark) met les 4, 5 en 6: autoriteit, doorzetten en optimaliseren
 
-[![Peter Geurts (BIgSpark)](Peter-Geurts.jpg)](/wp-content/uploads/2015/07/Peter-Geurts.jpg)[Vorige week](/nl/archief/reputatiecoaching/135/) had ik Peter Geurts in de show met een presentatie die hij in juni gaf in Nijmegen tijdens de WordPress Meetup. In de presentatie deelde hij 10 geleerde lessen, die hij heeft moeten doormaken bij de opbouw van zijn bedrijf BigSpark, het bedrijf achter Androidplanet.nl, Iphoned.nl en smartphone.nl. De drie lessen hij in de [vorige podcast](/nl/archief/reputatiecoaching/135/) deelde, waren:
+[![Peter Geurts (BIgSpark)](Peter-Geurts.jpg)](https://web.archive.org/web/*/https://www.reputatiecoaching.nl/wp-content/uploads/2015/07/Peter-Geurts.jpg)[Vorige week](/nl/archief/reputatiecoaching/135/) had ik Peter Geurts in de show met een presentatie die hij in juni gaf in Nijmegen tijdens de WordPress Meetup. In de presentatie deelde hij 10 geleerde lessen, die hij heeft moeten doormaken bij de opbouw van zijn bedrijf BigSpark, het bedrijf achter Androidplanet.nl, Iphoned.nl en smartphone.nl. De drie lessen hij in de [vorige podcast](/nl/archief/reputatiecoaching/135/) deelde, waren:
 
 ```
   * _Bouw een solide basis voor je website_ – Je kunt beter in het begin gelijk kiezen voor een goed WordPress hosting platform en dan maar wat meer kosten maken, wil je tijdens de opbouw van je bedrijf niet telkens geconfronteerd worden met overbelaste servers en dergelijke.
@@ -155,6 +155,6 @@ Links naar content die in deze podcast aan bod komt:
   * [ReputatieCoaching Podcast in iTunes](https://web.archive.org/web/*/https://www.reputatiecoaching.nl/itunes)
   * [ReputatieCoaching Podcast op Stitcher](https://web.archive.org/web/*/https://www.reputatiecoaching.nl/stitcher)
   * [ReputatieCoaching Podcast op TuneIn Radio](http://tunein.com/radio/ReputatieCoaching-Podcast-p655084/)
-  * [ReputatieCoaching Podcast RSS-feed](https://feeds.reputatiecoaching.nl/ReputatieCoachingPodcast)
+  * [ReputatieCoaching Podcast RSS-feed](https://web.archive.org/web/*/https://www.reputatiecoaching.nl/ReputatieCoachingPodcast)
   * “[Company reputation as important as pay for job seekers](http://www.recruitmentgrapevine.com/article/2015-06-22-company-reputation-as-important-as-pay-for-job-seekers)” (Recruitment Grapevine, 22 juni 2015)
 ```

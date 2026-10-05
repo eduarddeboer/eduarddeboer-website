@@ -30,9 +30,9 @@ Hallo en hartelijk welkom bij deze aflevering van de ReputatieCoaching Podcast. 
 
 Als persoon kun je met de diverse tips aan de slag om bijvoorbeeld je online reputatie als glaskunstenaar, edelsmid, dichter, milieuconsulent, voedingstechnoloog of wat dan ook te verbeteren.
 
-In deze podcast noem ik een aantal sites, video’s en verwijs ik naar verschillende artikelen. De links naar al deze content èn de volledige transcriptie van de podcast vind je op [www.reputatiecoaching.nl/65](/nl/archief/reputatiecoaching/065/). Je kunt de podcast niet alleen rechtstreeks beluisteren op [www.reputatiecoaching.nl](https://web.archive.org/web/*/http://www.reputatiecoaching.nl), maar ook op zowel iTunes, als op Stitcher. Surf hiertoe respectievelijk naar [www.reputatiecoaching.nl/itunes](https://web.archive.org/web/*/https://www.reputatiecoaching.nl/itunes) of naar [www.reputatiecoaching.nl/stitcher](https://web.archive.org/web/*/https://www.reputatiecoaching.nl/stitcher).
+In deze podcast noem ik een aantal sites, video’s en verwijs ik naar verschillende artikelen. De links naar al deze content èn de volledige transcriptie van de podcast vind je op [www.reputatiecoaching.nl/65](/nl/archief/reputatiecoaching/065/). Je kunt de podcast niet alleen rechtstreeks beluisteren op [www.reputatiecoaching.nl](https://web.archive.org/web/*/https://www.reputatiecoaching.nl), maar ook op zowel iTunes, als op Stitcher. Surf hiertoe respectievelijk naar [www.reputatiecoaching.nl/itunes](https://web.archive.org/web/*/https://www.reputatiecoaching.nl/itunes) of naar [www.reputatiecoaching.nl/stitcher](https://web.archive.org/web/*/https://www.reputatiecoaching.nl/stitcher).
 
-Mocht je de podcast in een andere podcatcher of podcastplayer willen beluisteren, dan kun je je op de feed [feeds.reputatiecoaching.nl/reputatiecoachingpodcast](https://feeds.reputatiecoaching.nl/ReputatieCoachingPodcast) abonneren. Al deze links vind je ook in de show notes van deze podcast, alsmede op de website.
+Mocht je de podcast in een andere podcatcher of podcastplayer willen beluisteren, dan kun je je op de feed [feeds.reputatiecoaching.nl/reputatiecoachingpodcast](https://web.archive.org/web/*/https://www.reputatiecoaching.nl/ReputatieCoachingPodcast) abonneren. Al deze links vind je ook in de show notes van deze podcast, alsmede op de website.
 
 Dan nu over op de onderwerpen van vandaag…
 
@@ -233,7 +233,7 @@ Links naar content die in deze podcast aan bod komt:
 ```
   * [ReputatieCoaching Podcast in iTunes](https://web.archive.org/web/*/https://www.reputatiecoaching.nl/itunes)
   * [ReputatieCoaching Podcast op Stitcher](https://web.archive.org/web/*/https://www.reputatiecoaching.nl/stitcher)
-  * [ReputatieCoaching Podcast RSS-feed](https://feeds.reputatiecoaching.nl/ReputatieCoachingPodcast)
+  * [ReputatieCoaching Podcast RSS-feed](https://web.archive.org/web/*/https://www.reputatiecoaching.nl/ReputatieCoachingPodcast)
   * [Ordina Glass Contest](http://www.ordina.nl/nl-nl/evenementen/20140314---ordina-glass-contest/) op 13 maart 2014 in Nieuwegein
   * “[Telegram lijkt opeens hét alternatief voor WhatsApp. Is de app echt veiliger?](http://www.nrc.nl/tech/2014/02/21/telegram-lijkt-opeens-het-alternatief-voor-whatsapp-is-de-app-echt-veiliger/)” (Telegraaf, 21 februari 2013)
 ```

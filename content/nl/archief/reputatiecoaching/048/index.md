@@ -22,7 +22,7 @@ showTaxonomies: false
 **Transcriptiestatus:** Volledige transcriptie uit het oorspronkelijke archief.
 
 ***Historische afbeelding niet beschikbaar: ReputatieCoaching Podcast*
-Vandaag blik ik eerst terug op een tweetal tests van Google, die afgelopen week duidelijk opvielen en aandacht kregen op Internet. Dan is afgelopen week WordPress 3.7 echt uitgekomen en [www.reputatiecoaching.nl](https://web.archive.org/web/*/http://www.reputatiecoaching.nl) alsmede een paar andere websites draaien nu sinds een paar dagen op deze nieuwste versie. De backup-perikelen zijn opgelost, maar ik zag zojuist weer een nieuw probleem wat ik moet oplossen!**
+Vandaag blik ik eerst terug op een tweetal tests van Google, die afgelopen week duidelijk opvielen en aandacht kregen op Internet. Dan is afgelopen week WordPress 3.7 echt uitgekomen en [www.reputatiecoaching.nl](https://web.archive.org/web/*/https://www.reputatiecoaching.nl) alsmede een paar andere websites draaien nu sinds een paar dagen op deze nieuwste versie. De backup-perikelen zijn opgelost, maar ik zag zojuist weer een nieuw probleem wat ik moet oplossen!**
 
 \*\* Apple heeft haar OS X Mavericks gereleased en ook daar heb ik nieuws over. Wist je trouwens dat de populariteit van podcasts nog steeds toeneemt? Verder kwam ik een leuke infographic tegen, die antwoord geeft op de vraag, waarom reputatiemanagement nodig heeft.\*\*
 
@@ -40,7 +40,7 @@ Potverdikkeme! Dan denk je in [podcast 26](/nl/archief/reputatiecoaching/026/) h
 
 En wederom constateerde ik een probleem! Het bleek dat podcast 40 de laatste podcast was, die in iTunes stond, maar dus ook in de algemene podcast RSS feed. Dit had dus tot gevolg niet niet alleen de lijst met podcasts in iTunes niet werd geactualiseerd, maar ook die in Stitcher!
 
-En tot overmaat van ramp kregen ook de mensen die zich rechtstreeks op de podcast RSS-feed [feeds.reputatiecoaching.nl/reputatiecoachingpodcast/](https://feeds.reputatiecoaching.nl/ReputatieCoachingPodcast/) hebben geabonneerd, geen updates meer vanaf 1 september. Dan te bedenken dat dit alweer de laatste podcast van oktober is!
+En tot overmaat van ramp kregen ook de mensen die zich rechtstreeks op de podcast RSS-feed [feeds.reputatiecoaching.nl/reputatiecoachingpodcast/](https://web.archive.org/web/*/https://www.reputatiecoaching.nl/ReputatieCoachingPodcast/) hebben geabonneerd, geen updates meer vanaf 1 september. Dan te bedenken dat dit alweer de laatste podcast van oktober is!
 
 Ook dit is weer typisch zo’n “Oeps…”-momentje. Dan realiseer je je eens temeer dat je niet alleen vrijwel dagelijks het “up” zijn van je site, de performance van je site, de statistieken, maar ook de backups en het volledige publicatietraject van begin tot het einde in de gaten moet houden.
 

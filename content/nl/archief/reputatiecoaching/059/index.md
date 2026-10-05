@@ -52,7 +52,7 @@ De rijschoolhouder is helemaal blij, want dankzij het feit dat zijn website zo g
 
 Voorafgaand aan en tijdens het herontwerp van de site heeft Robert-Jan mij een paar keer enkele uren geconsulteerd voor een crashcourse reputatieverbetering en de nodige dosis aan kennis over lokale zoekmachineoptimalisatie.
 
-Verder hadden we het in het begin over de keuze van een framework voor de WordPress site. Zoals je weet gebruik ik zelf “Genesis” voor de [www.reputatiecoaching.nl](https://web.archive.org/web/*/http://www.reputatiecoaching.nl), maar er zijn ook andere frameworks, waaronder bijvoorbeeld het gratis “[Thematic](http://themeshaper.com/thematic/)”, “[Thesis](http://diythemes.com/thesis/)” die circa US$ 80 kost en “PageLines” die je pas in je bezit krijgt als je tenminste US$ 197 schokt.
+Verder hadden we het in het begin over de keuze van een framework voor de WordPress site. Zoals je weet gebruik ik zelf “Genesis” voor de [www.reputatiecoaching.nl](https://web.archive.org/web/*/https://www.reputatiecoaching.nl), maar er zijn ook andere frameworks, waaronder bijvoorbeeld het gratis “[Thematic](http://themeshaper.com/thematic/)”, “[Thesis](http://diythemes.com/thesis/)” die circa US$ 80 kost en “PageLines” die je pas in je bezit krijgt als je tenminste US$ 197 schokt.
 
 Robert-Jan maakte mij attent op een ander framework, waar hij tegenaan was gelopen , waarvan hij vond dat het er goed uitzag. Dit is het [“Cherry” framework](http://www.cherryframework.com/). Ik ben natuurlijk geen webdesigner, maar ik dacht dat ik toch wel aardig wat wist van WordPress frameworks; van het “Cherry” framework, had ik echter nog nooit gehoord.
 

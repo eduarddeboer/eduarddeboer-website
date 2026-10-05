@@ -235,7 +235,7 @@ Links naar content die in deze podcast aan bod komt:
 ```
   * [ReputatieCoaching Podcast in iTunes](https://web.archive.org/web/*/https://www.reputatiecoaching.nl/itunes)
   * [ReputatieCoaching Podcast op Stitcher](https://web.archive.org/web/*/https://www.reputatiecoaching.nl/stitcher)
-  * [ReputatieCoaching Podcast RSS-feed](https://feeds.reputatiecoaching.nl/ReputatieCoachingPodcast)
+  * [ReputatieCoaching Podcast RSS-feed](https://web.archive.org/web/*/https://www.reputatiecoaching.nl/ReputatieCoachingPodcast)
   * [Google Locatiegeschiedenis](https://www.google.com/locationhistory/)
   * [Facebook Local Awareness Ads](https://www.facebook.com/business/a/local-awareness)
   * “[Kamer akkoord met ‘slappe cookiewet’](http://www.emerce.nl/nieuws/kamer-akkoord-slappe-cookiewet)” (Emerce, 7 oktober 2014)

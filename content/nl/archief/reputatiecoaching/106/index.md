@@ -186,7 +186,7 @@ Links naar content die in deze podcast aan bod komt:
   * [ReputatieCoaching Podcast in iTunes](https://web.archive.org/web/*/https://www.reputatiecoaching.nl/itunes)
   * [ReputatieCoaching Podcast op Stitcher](https://web.archive.org/web/*/https://www.reputatiecoaching.nl/stitcher)
   * [ReputatieCoaching Podcast op TuneIn Radio](http://tunein.com/radio/ReputatieCoaching-Podcast-p655084/)
-  * [ReputatieCoaching Podcast RSS-feed](https://feeds.reputatiecoaching.nl/ReputatieCoachingPodcast)
+  * [ReputatieCoaching Podcast RSS-feed](https://web.archive.org/web/*/https://www.reputatiecoaching.nl/ReputatieCoachingPodcast)
   * “[Yelp And Michelin Have The Same Taste In New York Restaurants](http://fivethirtyeight.com/features/yelp-and-michelin-have-the-same-taste-in-new-york-restaurants/)” (FiveThirtyEight, 2 oktober 2014)
   * “[Yelp Is Just as Good As Michelin at Rating Expensive Restaurants](https://lifehacker.com/yelp-is-just-as-good-as-michelin-at-rating-expensive-re-1656048652)” (Lifehacker, 7 november 2014)
   * “[Google stopt met nieuwszoekmachine in Spanje](http://www.emerce.nl/nieuws/google-stopt-nieuwszoekmachine-spanje)” (Emerce, 11 december 2014)

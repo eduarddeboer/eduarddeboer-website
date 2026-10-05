@@ -188,7 +188,7 @@ Let op: als je een kleine ondernemer bent en er staat wel een vinkje achter je b
 
 Nu ik vandaag toch diep inga op het hele fenomeen Google+, wil ik ook een leuke infographic die ik onlangs tegenkwam, met je delen:
 
-[[Historische afbeelding: bekijk bron](http://media.reputatiecoaching.nl/wp-content/uploads/2014/03/Googleplus-infographic-20140324-1.jpg)](http://media.reputatiecoaching.nl/wp-content/uploads/2014/03/Googleplus-infographic-20140324-1.jpg)
+[[Historische afbeelding: bekijk bron](https://web.archive.org/web/*/https://www.reputatiecoaching.nl/wp-content/uploads/2014/03/Googleplus-infographic-20140324-1.jpg)](https://web.archive.org/web/*/https://www.reputatiecoaching.nl/wp-content/uploads/2014/03/Googleplus-infographic-20140324-1.jpg)
 
 Je moet de infographic maar eens op je gemak bekijken. Wat ik wel leuk vind, is een paar aspecten van de infographic er uit te lichten. Zo heb je als luisteraar van de podcast ook een idee, wat er zoal in de infographic staat:
 
@@ -202,7 +202,7 @@ Je moet de infographic maar eens op je gemak bekijken. Wat ik wel leuk vind, is 
 
 Ook vond ik een interessante, wat oudere infographic over Google+, toen ik even ging zoeken. Het is wel leuk om deze te vergelijken met de vorige, want deze infographic stamt volgens mij uit 2012. Toen had Google+ nog naar 90 miljoen actieve gebruikers, terwijl dat nu toch al meer dan 360 miljoen is:
 
-[[Historische afbeelding: bekijk bron](http://media.reputatiecoaching.nl/wp-content/uploads/2014/03/Googleplus-infographic-20140324-2.png)](http://media.reputatiecoaching.nl/wp-content/uploads/2014/03/Googleplus-infographic-20140324-2.png)
+[[Historische afbeelding: bekijk bron](https://web.archive.org/web/*/https://www.reputatiecoaching.nl/wp-content/uploads/2014/03/Googleplus-infographic-20140324-2.png)](https://web.archive.org/web/*/https://www.reputatiecoaching.nl/wp-content/uploads/2014/03/Googleplus-infographic-20140324-2.png)
 
 Dit is een grote infographic, daarom raad ik je aan die eens op je gemak op de site te bekijken. In deze infographic is te lezen dat de inhoud van Google+ ook door Google wordt geïndexeerd. Dat vond ik wel grappig om te lezen… Want hoewel ik dit wel wist, was ik tot afgelopen week nog nooit Google+ posts van mijzelf in de organische zoekresultaten tegengekomen. Maar inderdaad zag ik afgelopen week een paar verschillende Google+ posts vertoond worden, tussen alle andere zoekresultaten.
 
@@ -243,6 +243,6 @@ Links naar content die in deze podcast aan bod komt:
 ```
   * [ReputatieCoaching Podcast in iTunes](https://web.archive.org/web/*/https://www.reputatiecoaching.nl/itunes)
   * [ReputatieCoaching Podcast op Stitcher](https://web.archive.org/web/*/https://www.reputatiecoaching.nl/stitcher)
-  * [ReputatieCoaching Podcast RSS-feed](https://feeds.reputatiecoaching.nl/ReputatieCoachingPodcast)
+  * [ReputatieCoaching Podcast RSS-feed](https://web.archive.org/web/*/https://www.reputatiecoaching.nl/ReputatieCoachingPodcast)
   * “[What Does Mobile Query Growth Mean for Local Search?](http://screenwerk.com/2014/03/18/what-does-mobile-query-growth-mean-for-local-search/)” (Screenwerk, 18 maart 2014)
 ```

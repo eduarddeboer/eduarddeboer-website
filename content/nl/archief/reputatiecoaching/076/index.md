@@ -271,7 +271,7 @@ Links naar content die in deze podcast aan bod komt:
 ```
   * [ReputatieCoaching Podcast in iTunes](https://web.archive.org/web/*/https://www.reputatiecoaching.nl/itunes)
   * [ReputatieCoaching Podcast op Stitcher](https://web.archive.org/web/*/https://www.reputatiecoaching.nl/stitcher)
-  * [ReputatieCoaching Podcast RSS-feed](https://feeds.reputatiecoaching.nl/ReputatieCoachingPodcast)
+  * [ReputatieCoaching Podcast RSS-feed](https://web.archive.org/web/*/https://www.reputatiecoaching.nl/ReputatieCoachingPodcast)
   * [Akismet](http://akismet.com)
   * “[Google Chrome continues to outpace Firefox](http://www.cnet.com/news/google-chrome-continues-to-outpace-firefox/)” (CNET, 1 mei 2014)
   * “[#SMC055 12 mei, Media en Social Media](http://smcapeldoorn.nl/index.php/69-smc055-12-mei-media-en-social-media)” (SMC Apeldoorn, 5 mei 2014)

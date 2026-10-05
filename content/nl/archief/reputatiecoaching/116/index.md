@@ -277,7 +277,7 @@ Links naar content die in deze podcast aan bod komt:
   * [ReputatieCoaching Podcast in iTunes](https://web.archive.org/web/*/https://www.reputatiecoaching.nl/itunes)
   * [ReputatieCoaching Podcast op Stitcher](https://web.archive.org/web/*/https://www.reputatiecoaching.nl/stitcher)
   * [ReputatieCoaching Podcast op TuneIn Radio](http://tunein.com/radio/ReputatieCoaching-Podcast-p655084/)
-  * [ReputatieCoaching Podcast RSS-feed](https://feeds.reputatiecoaching.nl/ReputatieCoachingPodcast)
+  * [ReputatieCoaching Podcast RSS-feed](https://web.archive.org/web/*/https://www.reputatiecoaching.nl/ReputatieCoachingPodcast)
   * [Werkinstructie “Opschonen citations”](https://web.archive.org/web/*/https://www.reputatiecoaching.nl/werkinstructie-opschonen-citations/)
   * “[Transavia zet WhatsApp in voor klantenservice](http://www.emerce.nl/nieuws/transavia-zet-whatsapp-klantenservice)” (Emerce, 2 februari 2015)
   * “[Nieuwe website Transavia niet vindbaar in Google](http://www.marketingfacts.nl/berichten/nieuwe-website-transavia-niet-vindbaar-in-google1)” (Marketingfacts, 16 februari 2015)

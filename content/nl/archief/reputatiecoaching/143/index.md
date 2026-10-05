@@ -323,7 +323,7 @@ Links naar content die in deze podcast aan bod komt:
   * [ReputatieCoaching Podcast in iTunes](https://web.archive.org/web/*/https://www.reputatiecoaching.nl/itunes)
   * [ReputatieCoaching Podcast op Stitcher](https://web.archive.org/web/*/https://www.reputatiecoaching.nl/stitcher)
   * [ReputatieCoaching Podcast op TuneIn Radio](http://tunein.com/radio/ReputatieCoaching-Podcast-p655084/)
-  * [ReputatieCoaching Podcast RSS-feed](https://feeds.reputatiecoaching.nl/ReputatieCoachingPodcast)
+  * [ReputatieCoaching Podcast RSS-feed](https://web.archive.org/web/*/https://www.reputatiecoaching.nl/ReputatieCoachingPodcast)
   * “[Google Patents ‘Watch Time’ as a Search Ranking Factor](http://www.searchenginejournal.com/google-patents-watch-time-as-a-search-ranking-factor/138467/)” (Search Engine Journal, 9 augustus 2015)
   * “[15 Local SEO Experts Share Their Hacks](http://synup.com/blog/experts-local-seo-hacks/)” (Synup blog, 21 augustus 2015)
 ```

@@ -247,7 +247,7 @@ Links naar content die in deze podcast aan bod komt:
 ```
   * [ReputatieCoaching Podcast in iTunes](https://web.archive.org/web/*/https://www.reputatiecoaching.nl/itunes)
   * [ReputatieCoaching Podcast op Stitcher](https://web.archive.org/web/*/https://www.reputatiecoaching.nl/stitcher)
-  * [ReputatieCoaching Podcast RSS-feed](https://feeds.reputatiecoaching.nl/ReputatieCoachingPodcast)
+  * [ReputatieCoaching Podcast RSS-feed](https://web.archive.org/web/*/https://www.reputatiecoaching.nl/ReputatieCoachingPodcast)
   * [Here.com](http://here.com) online kaart van Nokia
   * "[E-protection](https://www.axa.be/ab/NL/particulieren/verzekeringen/ongevallen/Pages/ongevallen-en-risicos.aspx), de reputatieverzekering van AXA België
   * “[Bing Venue Maps Extends Worldwide With Nokia Data](http://www.zdnet.com/mall-or-nothing-nokia-and-yahoo-extend-partnership-to-indoor-mapping-7000027081/)” (UberGizmo, 28 juni 2012)

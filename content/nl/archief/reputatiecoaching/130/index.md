@@ -229,7 +229,7 @@ Links naar content die in deze podcast aan bod komt:
   * [ReputatieCoaching Podcast in iTunes](https://web.archive.org/web/*/https://www.reputatiecoaching.nl/itunes)
   * [ReputatieCoaching Podcast op Stitcher](https://web.archive.org/web/*/https://www.reputatiecoaching.nl/stitcher)
   * [ReputatieCoaching Podcast op TuneIn Radio](http://tunein.com/radio/ReputatieCoaching-Podcast-p655084/)
-  * [ReputatieCoaching Podcast RSS-feed](https://feeds.reputatiecoaching.nl/ReputatieCoachingPodcast)
+  * [ReputatieCoaching Podcast RSS-feed](https://web.archive.org/web/*/https://www.reputatiecoaching.nl/ReputatieCoachingPodcast)
   * “[De 9 WHY’s van Content Marketing](https://web.archive.org/web/*/https://www.reputatiecoaching.nl/de-9-whys-van-content-marketing-door-jeanetbathoorn-tijdens-smc055/)” (Jeanet Bathoorn, tijdens #SMC055, 14 april 2015)
   * “[Sorry for our Google Maps search mess up](http://google-latlong.blogspot.nl/2015/05/sorry-for-our-google-maps-search-mess-up.html)” (Google Maps blog, 21 mei 2015)
 ```

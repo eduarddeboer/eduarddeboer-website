@@ -36,7 +36,7 @@ Als persoon kun je met de diverse tips aan de slag om bijvoorbeeld je online rep
 
 In deze podcast noem ik een aantal sites, video’s en verwijs ik naar verschillende artikelen. De links naar al deze content èn de volledige transcriptie van de podcast vind je op [www.reputatiecoaching.nl/62](/nl/archief/reputatiecoaching/062/). En je kunt de podcast rechtstreeks beluisteren op zowel iTunes, als op Stitcher. Surf hiertoe respectievelijk naar [www.reputatiecoaching.nl/itunes](https://web.archive.org/web/*/https://www.reputatiecoaching.nl/itunes) of naar [www.reputatiecoaching.nl/stitcher](https://web.archive.org/web/*/https://www.reputatiecoaching.nl/stitcher).
 
-En mocht je de podcast in een andere podcatcher of podcastplayer willen beluisteren, dan kun je je op de feed [feeds.reputatiecoaching.nl/reputatiecoachingpodcast](https://feeds.reputatiecoaching.nl/ReputatieCoachingPodcast) abonneren. Al deze links vind je ook in de show notes van deze podcast, alsmede op de website.
+En mocht je de podcast in een andere podcatcher of podcastplayer willen beluisteren, dan kun je je op de feed [feeds.reputatiecoaching.nl/reputatiecoachingpodcast](https://web.archive.org/web/*/https://www.reputatiecoaching.nl/ReputatieCoachingPodcast) abonneren. Al deze links vind je ook in de show notes van deze podcast, alsmede op de website.
 
 Maar laat ik dan nu overgaan op de onderwerpen voor vandaag…
 
@@ -62,7 +62,7 @@ Als tweede: als je goed naar [podcast 61](/nl/archief/reputatiecoaching/063/) lu
 
 Ten tweede: ik zag achteraf dat ik hier en daar een paar (voor mij storende) typefoutjes heb gemaakt, die ik zou hebben gezien als ik mezelf meer tijd had gegund om alles te controleren.
 
-En als derde: voor de promotie van nieuwe berichten op [www.reputatiecoaching.nl](https://web.archive.org/web/*/http://www.reputatiecoaching.nl) in de sociale media gebruik ik IFTTT.com. Op 27 januari lag IFTTT.com er een aantal uren uit, waardoor de promotie van de instructievideo van die dag ook een aantal uren later kwam, dan de daadwerkelijke publicatie.
+En als derde: voor de promotie van nieuwe berichten op [www.reputatiecoaching.nl](https://web.archive.org/web/*/https://www.reputatiecoaching.nl) in de sociale media gebruik ik IFTTT.com. Op 27 januari lag IFTTT.com er een aantal uren uit, waardoor de promotie van de instructievideo van die dag ook een aantal uren later kwam, dan de daadwerkelijke publicatie.
 
 Verder is het hele proces goed gegaan.
 
@@ -237,5 +237,5 @@ Links naar content die in deze podcast aan bod komt:
 ```
   * [ReputatieCoaching Podcast in iTunes](https://web.archive.org/web/*/https://www.reputatiecoaching.nl/itunes)
   * [ReputatieCoaching Podcast op Stitcher](https://web.archive.org/web/*/https://www.reputatiecoaching.nl/stitcher)
-  * [ReputatieCoaching Podcast RSS-feed](https://feeds.reputatiecoaching.nl/ReputatieCoachingPodcast)
+  * [ReputatieCoaching Podcast RSS-feed](https://web.archive.org/web/*/https://www.reputatiecoaching.nl/ReputatieCoachingPodcast)
 ```

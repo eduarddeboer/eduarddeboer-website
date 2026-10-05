@@ -319,7 +319,7 @@ Links naar content die in deze podcast aan bod komt:
   * [ReputatieCoaching Podcast in iTunes](https://web.archive.org/web/*/https://www.reputatiecoaching.nl/itunes)
   * [ReputatieCoaching Podcast op Stitcher](https://web.archive.org/web/*/https://www.reputatiecoaching.nl/stitcher)
   * [ReputatieCoaching Podcast op TuneIn Radio](http://tunein.com/radio/ReputatieCoaching-Podcast-p655084/)
-  * [ReputatieCoaching Podcast RSS-feed](https://feeds.reputatiecoaching.nl/ReputatieCoachingPodcast)
+  * [ReputatieCoaching Podcast RSS-feed](https://web.archive.org/web/*/https://www.reputatiecoaching.nl/ReputatieCoachingPodcast)
   * “[Yahoo Replaces Google As Default Search Provider in Firefox](http://searchengineland.com/yahoo-becomes-default-search-engine-firefox-browser-209267)” (Search Engine Land, 19 november 2014)
   * “[Europees Parlement wil Google opsplitsen](http://www.computable.nl/artikel/nieuws/overheid/5202376/1277202/europees-parlement-wil-google-opsplitsen.html)” (Computable, 28 november 2014)
   * “[Yahoo Sees Big Search Bump From Firefox “Default” Relationship](http://searchengineland.com/yahoo-becomes-default-search-engine-firefox-browser-209267)” (Search Engine Land, 3 december 2014)

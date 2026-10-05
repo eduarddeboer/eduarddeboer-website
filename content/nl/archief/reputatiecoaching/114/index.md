@@ -244,7 +244,7 @@ Links naar content die in deze podcast aan bod komt:
 ```
   * [ReputatieCoaching Podcast in iTunes](https://web.archive.org/web/*/https://www.reputatiecoaching.nl/itunes)
   * [ReputatieCoaching Podcast op Stitcher](https://web.archive.org/web/*/https://www.reputatiecoaching.nl/stitcher)
-  * [ReputatieCoaching Podcast RSS-feed](https://feeds.reputatiecoaching.nl/ReputatieCoachingPodcast)
+  * [ReputatieCoaching Podcast RSS-feed](https://web.archive.org/web/*/https://www.reputatiecoaching.nl/ReputatieCoachingPodcast)
   * [W3 Total Cache Plugin voor WordPress](https://wordpress.org/plugins/w3-total-cache/)
   * “[What Brands Need To Know About Online Reviews: 5 Questions With NYT Bestselling Author Bill Tancer](http://marketingland.com/brands-need-know-online-reviews-5-questions-nyt-bestselling-author-bill-tancer-116921)” (Marketing Land, 4 februari 2015)
 ```

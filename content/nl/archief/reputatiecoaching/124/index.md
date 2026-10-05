@@ -196,7 +196,7 @@ Links naar content die in deze podcast aan bod komt:
   * [ReputatieCoaching Podcast in iTunes](https://web.archive.org/web/*/https://www.reputatiecoaching.nl/itunes)
   * [ReputatieCoaching Podcast op Stitcher](https://web.archive.org/web/*/https://www.reputatiecoaching.nl/stitcher)
   * [ReputatieCoaching Podcast op TuneIn Radio](http://tunein.com/radio/ReputatieCoaching-Podcast-p655084/)
-  * [ReputatieCoaching Podcast RSS-feed](https://feeds.reputatiecoaching.nl/ReputatieCoachingPodcast)
+  * [ReputatieCoaching Podcast RSS-feed](https://web.archive.org/web/*/https://www.reputatiecoaching.nl/ReputatieCoachingPodcast)
   * [otranscribe](http://www.otranscribe.com) (voor het maken van een transcriptie van audio en/of video)
   * [Eelco de Boer Podcast](https://itunes.apple.com/us/podcast/the-eelco-de-boer-podcast/id976359747?mt=2) (Podcast in iTunes)
   * [WP-Spamshield](https://wordpress.org/plugins/wp-spamshield/) (Anti-Spam plugin voor WordPress)

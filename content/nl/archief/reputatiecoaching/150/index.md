@@ -113,7 +113,7 @@ Maar sinds ik eerder deze week de pagina’s heb samengevoegd en wat luisteraars
 
 Het duurt meestal even, totdat de sterren worden vertoond: ze komen dus niet direct als je magische grens van vijf reviews hebt bereikt. En op dit moment heb ik zelf dus zes reviews en ook nog geen sterren in de zoekresultaten:
 
-[![20151015-serp-rc-6reviews-nostars-2](20151015-rc-6reviews-nostars.png)](/wp-content/uploads/2015/10/20151015-serp-rc-6reviews-nostars-2.png)
+[![20151015-serp-rc-6reviews-nostars-2](20151015-rc-6reviews-nostars.png)](https://web.archive.org/web/*/https://www.reputatiecoaching.nl/wp-content/uploads/2015/10/20151015-serp-rc-6reviews-nostars-2.png)
 
 Ik heb ooit ergens gehoord of gelezen dat je soms het verschijnen van de sterretjes kunt bespoedigen, door tijdelijk op je Google Mijn Bedrijf pagina even de URL naar je website te wijzigen, bijvoorbeeld in die van de contactpagina, in plaats van de hoofdpagina. Google zou dan je Google Mijn Bedrijf pagina binnen een paar minuten opnieuw spideren en indexeren, waarna dan de sterretjes meteen zouden verschijnen…
 
@@ -321,6 +321,6 @@ Links naar content die in deze podcast aan bod komt:
   * [ReputatieCoaching Podcast in iTunes](https://web.archive.org/web/*/https://www.reputatiecoaching.nl/itunes)
   * [ReputatieCoaching Podcast op Stitcher](https://web.archive.org/web/*/https://www.reputatiecoaching.nl/stitcher)
   * [ReputatieCoaching Podcast op TuneIn Radio](http://tunein.com/radio/ReputatieCoaching-Podcast-p655084/)
-  * [ReputatieCoaching Podcast RSS-feed](https://feeds.reputatiecoaching.nl/ReputatieCoachingPodcast)
+  * [ReputatieCoaching Podcast RSS-feed](https://web.archive.org/web/*/https://www.reputatiecoaching.nl/ReputatieCoachingPodcast)
   * [AMP Project](https://www.ampproject.org) (Accelerated Mobile Pages)
 ```

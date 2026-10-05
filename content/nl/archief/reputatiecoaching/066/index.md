@@ -246,7 +246,7 @@ Links naar content die in deze podcast aan bod komt:
 ```
   * [ReputatieCoaching Podcast in iTunes](https://web.archive.org/web/*/https://www.reputatiecoaching.nl/itunes)
   * [ReputatieCoaching Podcast op Stitcher](https://web.archive.org/web/*/https://www.reputatiecoaching.nl/stitcher)
-  * [ReputatieCoaching Podcast RSS-feed](https://feeds.reputatiecoaching.nl/ReputatieCoachingPodcast)
+  * [ReputatieCoaching Podcast RSS-feed](https://web.archive.org/web/*/https://www.reputatiecoaching.nl/ReputatieCoachingPodcast)
   * “[Quality: Do You Have It, or Just Think You Have It?](http://www.bing.com/blogs/site_blogs/b/webmaster/archive/2014/02/20/quality-do-you-have-it-or-just-think-you-have-it.aspx)” (Bing Webmaster Blog, 20 februari 2014)
   * “[Google Yanks Fake FBI Listing From Google Maps, Puts New Blocks In Place To Stop Further Abuse](http://searchengineland.com/google-yanks-fake-fbi-listing-google-maps-puts-new-blocks-place-stop-abuse-185601)” (Search Engine Land, 27 februari 2014)
 ```

@@ -43,7 +43,7 @@ Het is niet voor niets, dat Antagonist een 9,6 scoort uit 3.099 recensies! En ne
 
 In september organiseert Google in San Francisco de eerste Summit voor Lokale Gidsen. Daarvoor worden alleen actieve gidsen van niveau 5 uitgenodigd. Google betaalt dan alles, zowel de reis als het verblijf. Ik ga me aanmelden!
 
-[![#LGSummit16](20160423-LGSummit16.png)](/wp-content/uploads/2016/04/20160423-LGSummit16.png)
+[![#LGSummit16](20160423-LGSummit16.png)](https://web.archive.org/web/*/https://www.reputatiecoaching.nl/wp-content/uploads/2016/04/20160423-LGSummit16.png)
 
 ## Jalwa is niet meer gratis
 
@@ -91,7 +91,7 @@ Op zich werkt het goed, zolang je maar de maandelijkse EUR 37,50 blijft betalen.
 
 Maar als je stop met het gebruik van Yext, dan ben je in de aap gelogeerd. Yext schrijft hier het volgende over:
 
-[![Yext annuleren - DTG Netwerkprofiel](20160423-yext-cancel.png)](/wp-content/uploads/2016/04/20160423-yext-cancel.png)Dit lijkt niet zo bijzonder… Maar zoals je weet werk ik voor Whitespark en wij hebben recentelijk nog onderzoek gedaan naar het effect, wat er gebeurt als een klant stopt met het gebruiken van Yext. Nou… dan verdwijnen sommige netwerkprofielen en de profielen die ooit aangepast waren door Yext, worden allemaal weer teruggezet naar de originele instellingen, waardoor je dus geen blijvende waarde eraan hebt.
+[![Yext annuleren - DTG Netwerkprofiel](20160423-yext-cancel.png)](https://web.archive.org/web/*/https://www.reputatiecoaching.nl/wp-content/uploads/2016/04/20160423-yext-cancel.png)Dit lijkt niet zo bijzonder… Maar zoals je weet werk ik voor Whitespark en wij hebben recentelijk nog onderzoek gedaan naar het effect, wat er gebeurt als een klant stopt met het gebruiken van Yext. Nou… dan verdwijnen sommige netwerkprofielen en de profielen die ooit aangepast waren door Yext, worden allemaal weer teruggezet naar de originele instellingen, waardoor je dus geen blijvende waarde eraan hebt.
 
 Bovendien is een eigenschap van Yext die wij vaak zien, dat er dikwijls duplicaatvermeldingen worden aangemaakt. En dat is al iets wat je helemaal niet wilt!
 
@@ -106,7 +106,7 @@ Links naar onderwerpen die in deze podcast aan bod komen:
   * [ReputatieCoaching Podcast in iTunes](https://itunes.apple.com/nl/podcast/reputatiecoaching-podcast/id584370482?l=en&mt=2)
   * [ReputatieCoaching Podcast op Stitcher](http://www.stitcher.com/podcast/reputatie-coaching-podcast/reputatiecoaching)
   * [ReputatieCoaching Podcast op TuneIn Radio](http://tunein.com/radio/ReputatieCoaching-Podcast-p655084/)
-  * [ReputatieCoaching Podcast RSS-feed](https://feeds.reputatiecoaching.nl/ReputatieCoachingPodcast)
+  * [ReputatieCoaching Podcast RSS-feed](https://web.archive.org/web/*/https://www.reputatiecoaching.nl/ReputatieCoachingPodcast)
   * [Antagonist](https://www.antagonist.nl)
   * [Google Lokale Gidsen programma](https://www.google.com/intl/nl/local/guides/)
   * [Yalwa](http://www.yalwa.nl)

@@ -61,7 +61,7 @@ Vorige week kondigde ik het al aan: afgelopen week en om precies te zijn op 16 a
 
 Dus dat wil ik voorkomen en voordat ik dan upgrade, kijk ik altijd eerst even op Internet of de afgelopen dagen mensen problemen met de update hebben gemeld. Zo ja, dan duik ik in de problemen en probeer in te schatten of ik die ook ga krijgen. Maar als niemand problemen meldt, dan maak ik eerst een extra backup, om vervolgens de update door te voeren.
 
-Zo ook deze keer en inmiddels draait [www.reputatiecoaching.nl](https://web.archive.org/web/*/http://www.reputatiecoaching.nl) dus zonder problemen op WordPress 3.9. Ik moet zeggen dat ik de nieuwe editor een stuk prettiger vind werken en dat inderdaad het opnemen van afbeeldingen in een blogbericht en het resizen van foto’s wel gemakkelijker en sneller werkt.
+Zo ook deze keer en inmiddels draait [www.reputatiecoaching.nl](https://web.archive.org/web/*/https://www.reputatiecoaching.nl) dus zonder problemen op WordPress 3.9. Ik moet zeggen dat ik de nieuwe editor een stuk prettiger vind werken en dat inderdaad het opnemen van afbeeldingen in een blogbericht en het resizen van foto’s wel gemakkelijker en sneller werkt.
 
 Dan heb ik nogal wat updates over Facebook…
 
@@ -204,7 +204,7 @@ Links naar content die in deze podcast aan bod komt:
 ```
   * [ReputatieCoaching Podcast in iTunes](https://web.archive.org/web/*/https://www.reputatiecoaching.nl/itunes)
   * [ReputatieCoaching Podcast op Stitcher](https://web.archive.org/web/*/https://www.reputatiecoaching.nl/stitcher)
-  * [ReputatieCoaching Podcast RSS-feed](https://feeds.reputatiecoaching.nl/ReputatieCoachingPodcast)
+  * [ReputatieCoaching Podcast RSS-feed](https://web.archive.org/web/*/https://www.reputatiecoaching.nl/ReputatieCoachingPodcast)
   * “[Snapchat](http://nl.wikipedia.org/wiki/Snapchat)” (Wikipedia)
   * “[Is Facebook Losing Teens?](http://blog.globalwebindex.net/facebook-teens-decline)” (globalwebindex.net, 8 november 2013)
   * “[Tiener verliest interesse in Facebook](https://www.telegraaf.nl/digitaal/22488361/__Tiener_verliest_interesse_in_Facebook__.html)” (Telegraaf, 9 april 2014)

@@ -51,7 +51,7 @@ In versie 3.7 zijn meer dan 400 bugs opgelost. Maar de grootste vernieuwing in d
 
 Hierdoor wordt het opeens nóg belangrijker om backups voor je site goed in te regelen. En ik zal je wat vertellen: ik kwam erachter dat de backup van ReputatieCoaching.nl niet goed werkte, toen ik weer eens in de log files dook. Het bleek dat BackWPup teveel geheugen vroeg, om de backup goed te kunnen uitvoeren en dat er sinds 9 september geen goede backups meer waren gemaakt! Gelukkig is er niets gebeurd in de tussentijd, maar anders had ik toch wel echt een probleem gehad!
 
-[![BackWPup problemen](20131021-BackWPup-log-problemen.png)](/wp-content/uploads/2013/10/20131021-BackWPup-log-problemen.png)
+[![BackWPup problemen](20131021-BackWPup-log-problemen.png)](https://web.archive.org/web/*/https://www.reputatiecoaching.nl/wp-content/uploads/2013/10/20131021-BackWPup-log-problemen.png)
 
 Zo zie je maar dat mij ook dit soort problemen overkomen en je je dus helemaal niet schuldig hoeft te voelen, als jij achter dit soort zaken komt.
 
@@ -137,7 +137,7 @@ Ook de laadsnelheid van de websites varieerde enorm. Specifiek mobiele sites laa
 
 Vooral de lange laadtijd voor responsive websites is klaarblijkelijk een belangrijke factor, waarom ècht mobiele sites hoger scoren: de laadtijd daarvan is een stuk korter. En een kortere laadtijd leidt tot een betere gebruikerservaring en daarmee veelal ook tot een hogere ranking in de zoekresultaten.
 
-Op zich hoeven responsive websites helemaal niet traag te zijn. Zojuist heb ik het nog even gecontroleerd en [www.reputatiecoaching.nl](https://web.archive.org/web/*/http://www.reputatiecoaching.nl) laadt nog steeds in zo’n 750 milliseconden, dat is dus een aantal seconden minder, dan het vorige ontwerp, wat overigens ook responsive was.
+Op zich hoeven responsive websites helemaal niet traag te zijn. Zojuist heb ik het nog even gecontroleerd en [www.reputatiecoaching.nl](https://web.archive.org/web/*/https://www.reputatiecoaching.nl) laadt nog steeds in zo’n 750 milliseconden, dat is dus een aantal seconden minder, dan het vorige ontwerp, wat overigens ook responsive was.
 
 ## Domineert Yelp de lokale zoekresultaten in Google USA?
 

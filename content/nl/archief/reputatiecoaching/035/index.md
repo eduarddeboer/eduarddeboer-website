@@ -32,7 +32,7 @@ Hallo en hartelijk welkom bij dé Nederlandstalige podcast die je helpt om jezel
 
 Vanwege de zomerperiode is er ook wat minder nieuws te melden. Ik heb ook afgelopen week wel weer veel gelezen, maar vond er niet bijster veel relevante artikelen tussen zitten. Dus ben ik in mijn archief met leuke en veelal tijdloze topics gedoken, die ik ooit al eens heb verzameld. Daaruit komt het meerendeel van de onderwerpen van vandaag.
 
-Afgelopen week heb ik van een aantal mensen van Ordina hun LinkedIn profiel kritisch bekeken, om hen op basis van mijn bevindingen een aantal tips te geven. De presentatie die ik hiervan heb gemaakt wordt eerst intern binnen Ordina gepubliceerd. Zodra die verspreid is, zal ik die presentatie ook op [www.reputatiecoaching.nl](https://web.archive.org/web/*/http://www.reputatiecoaching.nl) posten.
+Afgelopen week heb ik van een aantal mensen van Ordina hun LinkedIn profiel kritisch bekeken, om hen op basis van mijn bevindingen een aantal tips te geven. De presentatie die ik hiervan heb gemaakt wordt eerst intern binnen Ordina gepubliceerd. Zodra die verspreid is, zal ik die presentatie ook op [www.reputatiecoaching.nl](https://web.archive.org/web/*/https://www.reputatiecoaching.nl) posten.
 
 Als eerste nieuws over Facebook: het aantal bedrijfspagina’s groeit nu heel hard. Als tweede topic: het mogelijke effect van een Google bedrijfspanorama op je positie in de zoekresultaten. Het derde onderwerp: Twitter heeft een tijdje geleden haar lijsten uitgebreid.
 

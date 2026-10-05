@@ -197,7 +197,7 @@ Links naar content die in deze podcast aan bod komt:
 ```
   * [ReputatieCoaching Podcast in iTunes](https://web.archive.org/web/*/https://www.reputatiecoaching.nl/itunes)
   * [ReputatieCoaching Podcast op Stitcher](https://web.archive.org/web/*/https://www.reputatiecoaching.nl/stitcher)
-  * [ReputatieCoaching Podcast RSS-feed](https://feeds.reputatiecoaching.nl/ReputatieCoachingPodcast)
+  * [ReputatieCoaching Podcast RSS-feed](https://web.archive.org/web/*/https://www.reputatiecoaching.nl/ReputatieCoachingPodcast)
   * [Canonieke URL’s gebruiken](https://support.google.com/webmasters/answer/139066?hl=nl) (Google Webmaster Support)
   * [Locatiepagina’s maken](https://developers.google.com/webmasters/business-location-pages/) (Google Webmaster Support)
   * [Schema.org voorbeelden](https://developers.google.com/webmasters/business-location-pages/schema.org-examples) (Google Webmaster Support)

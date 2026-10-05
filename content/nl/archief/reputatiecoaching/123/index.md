@@ -274,7 +274,7 @@ Links naar content die in deze podcast aan bod komt:
   * [ReputatieCoaching Podcast in iTunes](https://web.archive.org/web/*/https://www.reputatiecoaching.nl/itunes)
   * [ReputatieCoaching Podcast op Stitcher](https://web.archive.org/web/*/https://www.reputatiecoaching.nl/stitcher)
   * [ReputatieCoaching Podcast op TuneIn Radio](http://tunein.com/radio/ReputatieCoaching-Podcast-p655084/)
-  * [ReputatieCoaching Podcast RSS-feed](https://feeds.reputatiecoaching.nl/ReputatieCoachingPodcast)
+  * [ReputatieCoaching Podcast RSS-feed](https://web.archive.org/web/*/https://www.reputatiecoaching.nl/ReputatieCoachingPodcast)
   * “[Gekoppeld aan het verkeerde Google+ profiel of de verkeerde Google+ pagina](https://support.google.com/youtube/answer/3056283?hl=nl)” (YouTube Help)
   * “[Eigendom van een pagina overdragen](https://support.google.com/business/answer/3415281?hl=nl)” (Google Mijn Bedrijf Help)
 ```

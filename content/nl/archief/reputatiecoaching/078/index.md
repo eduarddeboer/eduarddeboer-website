@@ -289,7 +289,7 @@ Links naar content die in deze podcast aan bod komt:
 ```
   * [ReputatieCoaching Podcast in iTunes](https://web.archive.org/web/*/https://www.reputatiecoaching.nl/itunes)
   * [ReputatieCoaching Podcast op Stitcher](https://web.archive.org/web/*/https://www.reputatiecoaching.nl/stitcher)
-  * [ReputatieCoaching Podcast RSS-feed](https://feeds.reputatiecoaching.nl/ReputatieCoachingPodcast)
+  * [ReputatieCoaching Podcast RSS-feed](https://web.archive.org/web/*/https://www.reputatiecoaching.nl/ReputatieCoachingPodcast)
   * “[V&D brengt internet naar zijn warenhuizen](http://www.twinklemagazine.nl/nieuws/2014/05/vd-brengt-internet-naar-zijn-warenhuizen/)” (Twinkle, 8 mei 2014)
   * “[Outlook.com introduces the most sophisticated rules in webmail](http://blogs.office.com/2014/05/13/outlook-com-introduces-the-most-sophisticated-rules-in-webmail/)” (Outlook.com blog, 13 mei 2014)
   * “[Tip #1: How To Help Older Videos Rank Better in Search Results](https://www.reelseo.com/tube-talk-23/)” (Reel SEO, 14 mei 2014)

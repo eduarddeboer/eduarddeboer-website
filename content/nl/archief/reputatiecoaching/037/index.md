@@ -164,7 +164,7 @@ Afgelopen week heeft Google ook haar richtlijnen ten aanzien van mobiele sites a
 
 En toen viel afgelopen donderdag opeens een brief in de brievenbus van Corpus Justitia uit Amsterdam. De brief was gericht aan Suzanne, mijn vrouw. Zij werd gesommeerd om binnen vijf dagen een bedrag van EUR 129,80 te betalen. Als ze dat niet zou doen, zou de aarde nog net niet vergaan, maar dreigde dit incassobureau het haar toch echt wel lastig te maken met deurwaarders, rechtzaken en wat dies meer zij.
 
-[Historische afbeelding: bekijk bron](http://cdn5.reputatiecoaching.nl/wp-content/uploads/2013/08/20130808-spookfactuur-corpus-justitia-2.png)
+[Historische afbeelding: bekijk bron](https://web.archive.org/web/*/https://www.reputatiecoaching.nl/wp-content/uploads/2013/08/20130808-spookfactuur-corpus-justitia-2.png)
 
 Nu weten wij redelijk goed wat wij aan openstaande rekeningen hebben en deze herkende ik niet als zodanig. Dus ging ik op zoek naar meer informatie. In de brief werd verwezen naar de bedrijfswebsite: [www.corpusjustitia.com](http://www.corpusjustitia.com).
 

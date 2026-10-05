@@ -38,7 +38,7 @@ Laat ik dan nu overgaan op de onderwerpen voor vandaag…
 
 Ohhh… Eerst nog even wat anders. Deze podcast kwam niet precies om 08:30 uur live. En dat had een oorzaak… Een oorzaak die mijn volle aandacht en iets meer dan 7 uur opeiste. De dedicated server die ik huur in een datacenter in Rotterdam leek opeens kuren te hebben. Het hebben van een eigen server heeft zo zo’n voor- en nadelen. Een groot voordeel vind ik dat je de server volledig kunt inrichten, zoals je dat zelf wilt. Een nadeel is dat je zelf moet komen opdraven als er problemen zijn. En dat was nu dus het geval.
 
-Ik had de indruk dat alle websites die ik op die server draai steeds langzamer werden. Waar ik trouwens heel benieuwd naar ben, is of jij als bezoeker van [www.reputatiecoaching.nl](https://web.archive.org/web/*/http://www.reputatiecoaching.nl) de afgelopen paar weken net als ik de idee had dat het wat langer duurde voordat de pagina’s werden vertoond. Heb je iets gemerkt, laat het me alsjeblieft weten en stuur een mailtje naar [podcast@reputatiecoaching.nl](mailto:podcast@reputatiecoaching.nl) met je bevindingen.
+Ik had de indruk dat alle websites die ik op die server draai steeds langzamer werden. Waar ik trouwens heel benieuwd naar ben, is of jij als bezoeker van [www.reputatiecoaching.nl](https://web.archive.org/web/*/https://www.reputatiecoaching.nl) de afgelopen paar weken net als ik de idee had dat het wat langer duurde voordat de pagina’s werden vertoond. Heb je iets gemerkt, laat het me alsjeblieft weten en stuur een mailtje naar [podcast@reputatiecoaching.nl](mailto:podcast@reputatiecoaching.nl) met je bevindingen.
 
 Welnu, mijn gevoel werd bevestigd toen ik eens in Google Webmaster Tools ging kijken naar de Crawlstatistieken voor de ReputatieCoaching website. Daar zag ik dat er iets veranderd leek te zijn sinds 8 maart 2015. Want vanaf die tijd steeg de gemiddelde laadtijd van de pagina’s op de site van zo’n 800 milliseconden naar 2,9 seconden…
 
@@ -274,7 +274,7 @@ Links naar content die in deze podcast aan bod komt:
   * [ReputatieCoaching Podcast in iTunes](https://web.archive.org/web/*/https://www.reputatiecoaching.nl/itunes)
   * [ReputatieCoaching Podcast op Stitcher](https://web.archive.org/web/*/https://www.reputatiecoaching.nl/stitcher)
   * [ReputatieCoaching Podcast op TuneIn Radio](http://tunein.com/radio/ReputatieCoaching-Podcast-p655084/)
-  * [ReputatieCoaching Podcast RSS-feed](https://feeds.reputatiecoaching.nl/ReputatieCoachingPodcast)
+  * [ReputatieCoaching Podcast RSS-feed](https://web.archive.org/web/*/https://www.reputatiecoaching.nl/ReputatieCoachingPodcast)
   * [Google Webmaster Tools](https://www.google.com/webmasters/tools/)
   * [Google Mobielvriendelijke test](https://www.google.com/webmasters/tools/mobile-friendly/)
   * [Merchandising-annotaties](https://support.google.com/youtube/answer/2760471) in YouTube video’s

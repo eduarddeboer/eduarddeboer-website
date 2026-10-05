@@ -193,7 +193,7 @@ Zo helpen spreuken niet alleen maar met het trekken van verkeer naar je site van
   * Exposure op sites als Twitter, Instagram en Pinterest, als je de spreuken publiceert met of op een mooie foto
 ```
 
-Ik heb samen met Arend Landman al enigszins geëxperimenteerd met spreuken. Hij heeft als gastblogger vier weken lang spreuken gepubliceerd op [www.reputatiecoaching.nl](https://web.archive.org/web/*/http://www.reputatiecoaching.nl), en ik moet zeggen dat die spreuken nog steeds aardig wat verkeer trekken, evenals de spreuken die ik zelf heb gepubliceerd.
+Ik heb samen met Arend Landman al enigszins geëxperimenteerd met spreuken. Hij heeft als gastblogger vier weken lang spreuken gepubliceerd op [www.reputatiecoaching.nl](https://web.archive.org/web/*/https://www.reputatiecoaching.nl), en ik moet zeggen dat die spreuken nog steeds aardig wat verkeer trekken, evenals de spreuken die ik zelf heb gepubliceerd.
 
 En al die spreuken zijn niet verspreid op mooie foto’s die echt tot de verbeelding moeten spreken. Mijn eigen spreuken had ik gewoon op virtuele tegeltjes geplaatst. Dat kan nog een stuk beter!
 
@@ -234,6 +234,6 @@ Links naar content die in deze podcast aan bod komt:
 ```
   * [ReputatieCoaching Podcast in iTunes](https://web.archive.org/web/*/https://www.reputatiecoaching.nl/itunes)
   * [ReputatieCoaching Podcast op Stitcher](https://web.archive.org/web/*/https://www.reputatiecoaching.nl/stitcher)
-  * [ReputatieCoaching Podcast RSS-feed](https://feeds.reputatiecoaching.nl/ReputatieCoachingPodcast)
+  * [ReputatieCoaching Podcast RSS-feed](https://web.archive.org/web/*/https://www.reputatiecoaching.nl/ReputatieCoachingPodcast)
   * [Google Webmaster Academy](https://support.google.com/webmasters/answer/6001102?hl=nl) (Nederlands)
 ```

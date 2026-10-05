@@ -21,7 +21,7 @@ showTaxonomies: false
 
 **Transcriptiestatus:** Volledige transcriptie uit het oorspronkelijke archief.
 
-\*\*[![ReputatieCoaching Podcast](ReputatieCoaching-Podcast-137.png)](/wp-content/uploads/2012/12/Reputatie-Coaching-Podcast-logo-200x200.jpg)Sinds afgelopen maandag ben ik een Google Lokale Gids Niveau 4… Dat betekent dat ik meer dan 200 reviews op Google heb geplaatst. Daarover zo meer.\*\*
+\*\*[![ReputatieCoaching Podcast](ReputatieCoaching-Podcast-137.png)](https://web.archive.org/web/*/https://www.reputatiecoaching.nl/wp-content/uploads/2012/12/Reputatie-Coaching-Podcast-logo-200x200.jpg)Sinds afgelopen maandag ben ik een Google Lokale Gids Niveau 4… Dat betekent dat ik meer dan 200 reviews op Google heb geplaatst. Daarover zo meer.\*\*
 
 **Ook heb ik een tooltip voor je, als je eens wilt experimenteren met verschillende themes in WordPress, zonder meteen je officiële site om zeep te helpen.**
 
@@ -63,7 +63,7 @@ Dus als jij overweegt een ander theme in gebruik te gaan nemen, dan kan ik je in
 
 ## Vraag van Frank: Aparte Google pagina voor in-house Vobis?
 
-[![Logo Vobis](logo-vobis.png)](/wp-content/uploads/2015/07/logo-vobis.png)Een tijdje geleden stuurde Frank uit Nijmegen mij weer eens een leuke en vooral interessante vraag, die ik graag in deze podcast behandel. Hij schreef het volgende:
+[![Logo Vobis](logo-vobis.png)](https://web.archive.org/web/*/https://www.reputatiecoaching.nl/wp-content/uploads/2015/07/logo-vobis.png)Een tijdje geleden stuurde Frank uit Nijmegen mij weer eens een leuke en vooral interessante vraag, die ik graag in deze podcast behandel. Hij schreef het volgende:
 
 Al bezig zijnde met bovenstaande dacht ik natuurlijk ook na over hoe ik de Vobis-formule op de kaart moet gaan zetten in Nijmegen. Hierbij rijzen er vragen waar je wellicht een antwoord op hebt.
 
@@ -161,7 +161,7 @@ Links naar content die in deze podcast aan bod komt:
   * [ReputatieCoaching Podcast in iTunes](https://web.archive.org/web/*/https://www.reputatiecoaching.nl/itunes)
   * [ReputatieCoaching Podcast op Stitcher](https://web.archive.org/web/*/https://www.reputatiecoaching.nl/stitcher)
   * [ReputatieCoaching Podcast op TuneIn Radio](http://tunein.com/radio/ReputatieCoaching-Podcast-p655084/)
-  * [ReputatieCoaching Podcast RSS-feed](https://feeds.reputatiecoaching.nl/ReputatieCoachingPodcast)
+  * [ReputatieCoaching Podcast RSS-feed](https://web.archive.org/web/*/https://www.reputatiecoaching.nl/ReputatieCoachingPodcast)
   * [Theme Test Drive](https://wordpress.org/plugins/theme-test-drive/) (Plugin voor WordPress om nieuwe themes zonder risico te testen)
   * [BigSpark](http://bigspark.com)
   * [Peter Geurts op LinkedIn](https://nl.linkedin.com/in/petergeurtsnl)

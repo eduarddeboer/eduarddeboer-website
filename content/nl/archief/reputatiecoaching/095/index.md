@@ -220,7 +220,7 @@ Links naar content die in deze podcast aan bod komt:
 ```
   * [ReputatieCoaching Podcast in iTunes](https://web.archive.org/web/*/https://www.reputatiecoaching.nl/itunes)
   * [ReputatieCoaching Podcast op Stitcher](https://web.archive.org/web/*/https://www.reputatiecoaching.nl/stitcher)
-  * [ReputatieCoaching Podcast RSS-feed](https://feeds.reputatiecoaching.nl/ReputatieCoachingPodcast)
+  * [ReputatieCoaching Podcast RSS-feed](https://web.archive.org/web/*/https://www.reputatiecoaching.nl/ReputatieCoachingPodcast)
   * [WebP](https://developers.google.com/speed/webp/?csw=1) pagina van Google Developers
   * [Nederlandstalige](http://nl.wikipedia.org/wiki/WebP) en [Engelse](https://en.wikipedia.org/wiki/WebP) WebP pagina’s op Wikipedia
 ```

@@ -167,7 +167,7 @@ Daarom is het een zogenaamde “best practice” of goed gebruik om een bezoeker
 
 In de show notes op [www.reputatiecoaching.nl/113](/nl/archief/reputatiecoaching/113/) heb ik een screenshot opgenomen van de pagina die op ReputatieCoaching.nl wordt vertoond, als een niet bestaande URL wordt geraadpleegd:
 
-[![Pagina-niet-gevonden-ReputatieCoaching](Pagina-niet-gevonden-ReputatieCoaching.png)](/wp-content/uploads/2015/01/Pagina-niet-gevonden-ReputatieCoaching.png)
+[![Pagina-niet-gevonden-ReputatieCoaching](Pagina-niet-gevonden-ReputatieCoaching.png)](https://web.archive.org/web/*/https://www.reputatiecoaching.nl/wp-content/uploads/2015/01/Pagina-niet-gevonden-ReputatieCoaching.png)
 
 Zoals je ziet is dat een hele lange pagina in dit geval. Deze screenshot is meer dan 7.000 pixels hoog!
 
@@ -237,7 +237,7 @@ Links naar content die in deze podcast aan bod komt:
   * [ReputatieCoaching Podcast in iTunes](https://web.archive.org/web/*/https://www.reputatiecoaching.nl/itunes)
   * [ReputatieCoaching Podcast op Stitcher](https://web.archive.org/web/*/https://www.reputatiecoaching.nl/stitcher)
   * [ReputatieCoaching Podcast op TuneIn Radio](http://tunein.com/radio/ReputatieCoaching-Podcast-p655084/)
-  * [ReputatieCoaching Podcast RSS-feed](https://feeds.reputatiecoaching.nl/ReputatieCoachingPodcast)
+  * [ReputatieCoaching Podcast RSS-feed](https://web.archive.org/web/*/https://www.reputatiecoaching.nl/ReputatieCoachingPodcast)
   * [Google MapMaker](https://www.google.com/mapmaker)
   * [Inzicht in de ervaring op de bestemmingspagina](https://support.google.com/adwords/answer/2404197?hl=nl) (Google AdWords Help)
   * [De Automotive Coach](http://www.deautomotivecoach.nl/) (Herman Houwing)

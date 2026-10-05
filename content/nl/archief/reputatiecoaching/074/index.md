@@ -217,7 +217,7 @@ Links naar content die in deze podcast aan bod komt:
 ```
   * [ReputatieCoaching Podcast in iTunes](https://web.archive.org/web/*/https://www.reputatiecoaching.nl/itunes)
   * [ReputatieCoaching Podcast op Stitcher](https://web.archive.org/web/*/https://www.reputatiecoaching.nl/stitcher)
-  * [ReputatieCoaching Podcast RSS-feed](https://feeds.reputatiecoaching.nl/ReputatieCoachingPodcast)
+  * [ReputatieCoaching Podcast RSS-feed](https://web.archive.org/web/*/https://www.reputatiecoaching.nl/ReputatieCoachingPodcast)
   * [Moves App](http://www.moves-app.com) voor iOS en Android
   * “[Google just got ZAGAT Rated!](http://googleblog.blogspot.nl/2011/09/google-just-got-zagat-rated.html)” (Official Google Blog, 8 september 2011)
   * “[How Google Has Completely Botched Zagat](http://www.businessweek.com/articles/2013-07-31/how-google-has-completely-botched-zagat)” (BusinessWeek, 31 juli 2013)

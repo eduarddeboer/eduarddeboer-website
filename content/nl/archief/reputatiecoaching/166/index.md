@@ -35,13 +35,13 @@ showTaxonomies: false
 
 OK, ik was iets te enthousiast met de statistieken die ik vorige week meldde met betrekking tot het aantal weergaven van foto’s op Google Maps. In de podcast vertel ik je wat mijn fout was. Wel heb ik afgelopen week er weer zo’n 100.000 weergaven bij, want ik zit nu op de 1,9 miljoen weergaven van de foto’s:
 
-[![Update aantal weergaven van de foto’s op Google Maps](20160428-google-maps-fotos-update.png)](/wp-content/uploads/2016/04/20160428-google-maps-fotos-update-1.png)
+[![Update aantal weergaven van de foto’s op Google Maps](20160428-google-maps-fotos-update.png)](https://web.archive.org/web/*/https://www.reputatiecoaching.nl/wp-content/uploads/2016/04/20160428-google-maps-fotos-update-1.png)
 
 ## Update AMP
 
 2 wkn geleden waren 263 pagina’s geïndexeerd en 61 nog niet. Nu, 2 weken later zijn 306 pagina’s geïndexeerd en heb ik nog maar 24 pagina’s met fouten. Het lijkt erop alsof de AMP-plugin steeds beter wordt, want de afgelopen tijd heb ik geen aanpassingen gedaan aan de content en is het aantal pagina’s met fouten telkens gedaald, nadat ik de AMP-plugin bijwerkte naar de nieuwste versie:
 
-[![Nog maar enkele fouten in mijn AMP pagina’s](20160428-google-amp-stats.png)](/wp-content/uploads/2016/04/20160428-google-amp-stats.png)
+[![Nog maar enkele fouten in mijn AMP pagina’s](20160428-google-amp-stats.png)](https://web.archive.org/web/*/https://www.reputatiecoaching.nl/wp-content/uploads/2016/04/20160428-google-amp-stats.png)
 
 ## Update Amazon Cloud Drive
 
@@ -51,7 +51,7 @@ Inmiddels zit ik bijna op de 1TB op Amazon Cloud Drive, maar ik heb besloten het
 
 Eerder deze week aangenaam verrast door een mailtje dat ik ontving. Dit keer niet van een luisteraar, maar van Google:
 
-[![Uitnodiging Top Contributor Meetup in London](20160428-tc-invite.png)](/wp-content/uploads/2016/04/20160428-tc-invite.png)
+[![Uitnodiging Top Contributor Meetup in London](20160428-tc-invite.png)](https://web.archive.org/web/*/https://www.reputatiecoaching.nl/wp-content/uploads/2016/04/20160428-tc-invite.png)
 
 In de podcast vertel ik er meer over deze uitnodiging voor deelname aan de [Google Top Contributor](https://topcontributor.withgoogle.com) Meetup in London…
 
@@ -101,7 +101,7 @@ Links naar onderwerpen die in deze podcast aan bod komen:
   * [ReputatieCoaching Podcast in iTunes](https://itunes.apple.com/nl/podcast/reputatiecoaching-podcast/id584370482?l=en&mt=2)
   * [ReputatieCoaching Podcast op Stitcher](http://www.stitcher.com/podcast/reputatie-coaching-podcast/reputatiecoaching)
   * [ReputatieCoaching Podcast op TuneIn Radio](http://tunein.com/radio/ReputatieCoaching-Podcast-p655084/)
-  * [ReputatieCoaching Podcast RSS-feed](https://feeds.reputatiecoaching.nl/ReputatieCoachingPodcast)
+  * [ReputatieCoaching Podcast RSS-feed](https://web.archive.org/web/*/https://www.reputatiecoaching.nl/ReputatieCoachingPodcast)
   * [Google Lokale Gidsen programma](https://www.google.com/intl/nl/local/guides/)
   * [Google Top Contributor programma](https://topcontributor.withgoogle.com)
   * [Amazon Cloud Drive](https://www.amazon.com/clouddrive/home)

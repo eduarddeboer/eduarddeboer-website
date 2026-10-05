@@ -113,7 +113,7 @@ Links naar content die in deze podcast aan bod komt:
 ```
   * [ReputatieCoaching Podcast in iTunes](https://web.archive.org/web/*/https://www.reputatiecoaching.nl/itunes)
   * [ReputatieCoaching Podcast op Stitcher](https://web.archive.org/web/*/https://www.reputatiecoaching.nl/stitcher)
-  * [ReputatieCoaching Podcast RSS-feed](https://feeds.reputatiecoaching.nl/ReputatieCoachingPodcast)
+  * [ReputatieCoaching Podcast RSS-feed](https://web.archive.org/web/*/https://www.reputatiecoaching.nl/ReputatieCoachingPodcast)
   * [KarelGeenen.nl](http://www.karelgeenen.nl/)
   * “[Zo profiteer je maximaal van je Google+ bedrijfspagina!](http://www.karelgeenen.nl/19/zo-profiteer-je-maximaal-van-je-google-bedrijfspagina/)” (Karel Geenen blog, 19 juni 2014)
 ```

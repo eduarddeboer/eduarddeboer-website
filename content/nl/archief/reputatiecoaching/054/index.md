@@ -145,7 +145,7 @@ Ik heb geen aandelen in [mijndomein.nl](http://www.mijndomein.nl), maar ben gewo
 
 Anyway, je hebt dus een weblog en je begint artikelen te posten. Op Internet kwam ik een infographic tegen van “Digital Philippines”. Deze infographic heb ik ook opgenomen in de show notes van deze podcast.
 
-[Historische afbeelding: bekijk bron](http://media.reputatiecoaching.nl/wp-content/uploads/2013/12/120-tips-om-je-content-onder-de-aandacht-te-brengen-infographic.jpg)
+[Historische afbeelding: bekijk bron](https://web.archive.org/web/*/https://www.reputatiecoaching.nl/wp-content/uploads/2013/12/120-tips-om-je-content-onder-de-aandacht-te-brengen-infographic.jpg)
 
 Ik ga ze hier niet alle 120 voorlezen, maar ik heb er een paar leuke, nuttige of aparte c.q. opmerkelijke uit gepakt:
 

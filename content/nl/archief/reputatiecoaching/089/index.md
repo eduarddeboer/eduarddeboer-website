@@ -151,7 +151,7 @@ Maar als je meer wilt opslaan dan 1 TB, dan zijn cloudoplossingen grappig genoeg
 
 Zojuist had ik het over ranken in de lokale zoekresultaten. Al surfend op Internet kwam ik afgelopen week een leuke infographic tegen, met als titel “Rule the local results!”. Deze infographic heb ik in de show notes, op [www.reputatiecoaching.nl/89](/nl/archief/reputatiecoaching/089/) opgenomen:
 
-[![20140814-Infographic-Rule-Local-Results](20140814-Infographic-Rule-Local-Results.jpg)](/wp-content/uploads/2014/08/20140814-Infographic-Rule-Local-Results.jpg)
+[![20140814-Infographic-Rule-Local-Results](20140814-Infographic-Rule-Local-Results.jpg)](https://web.archive.org/web/*/https://www.reputatiecoaching.nl/wp-content/uploads/2014/08/20140814-Infographic-Rule-Local-Results.jpg)
 
 Niet alles hierop is van toepassing op de Nederlandse markt. Zo hebben wij (nog) geen carrousel in de lokale resultaten en is een aantal sites waar je je bedrijf moet aanmelden ook niet relevant voor Nederland. Toch geeft de infographic een aantal goede richtlijnen, waar je je voordeel mee kunt doen. De meeste zijn -verdeeld over vele podcasts en een aantal blogartikelen- al wel eens aan bod geweest, maar het is leuk om alles zo bij elkaar te zien.
 
@@ -239,7 +239,7 @@ Links naar content die in deze podcast aan bod komt:
 ```
   * [ReputatieCoaching Podcast in iTunes](https://web.archive.org/web/*/https://www.reputatiecoaching.nl/itunes)
   * [ReputatieCoaching Podcast op Stitcher](https://web.archive.org/web/*/https://www.reputatiecoaching.nl/stitcher)
-  * [ReputatieCoaching Podcast RSS-feed](https://feeds.reputatiecoaching.nl/ReputatieCoachingPodcast)
+  * [ReputatieCoaching Podcast RSS-feed](https://web.archive.org/web/*/https://www.reputatiecoaching.nl/ReputatieCoachingPodcast)
   * “[Cloud storage vs. external hard drives: Which really offers the best bang for your buck?](http://www.pcworld.com/article/2451774/cloud-storage-vs-external-hard-drives-which-really-offers-the-best-bang-for-your-buck.html)” (PC World, 10 juli 2014)
   * “[How long does it take to rank in local search?](http://www.brightlocal.com/2014/07/29/long-take-rank-local-search/)” (BrightLocal, 29 juli 2014)
 ```

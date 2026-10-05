@@ -273,7 +273,7 @@ Links naar content die in deze podcast aan bod komt:
   * [ReputatieCoaching Podcast in iTunes](https://web.archive.org/web/*/https://www.reputatiecoaching.nl/itunes)
   * [ReputatieCoaching Podcast op Stitcher](https://web.archive.org/web/*/https://www.reputatiecoaching.nl/stitcher)
   * [ReputatieCoaching Podcast op TuneIn Radio](http://tunein.com/radio/ReputatieCoaching-Podcast-p655084/)
-  * [ReputatieCoaching Podcast RSS-feed](https://feeds.reputatiecoaching.nl/ReputatieCoachingPodcast)
+  * [ReputatieCoaching Podcast RSS-feed](https://web.archive.org/web/*/https://www.reputatiecoaching.nl/ReputatieCoachingPodcast)
   * [Yelp voor Zakelijke Accounts app (iTunes App Store)](https://itunes.apple.com/nl/app/yelp-voor-zakelijke-accounts/id936983378?mt=8)
   * [Yelp voor Zakelijke Accounts app (Google Play Store)](https://play.google.com/store/apps/details?id=com.yelp.android.biz&hl=nl_NL)
   * “[Google Rewrites Quality Rating Guide – What SEOs Need to Know](http://www.thesempost.com/google-rewrites-quality-rating-guide-seos-need-know/)” (The SEM Post, 9 juli 2014)

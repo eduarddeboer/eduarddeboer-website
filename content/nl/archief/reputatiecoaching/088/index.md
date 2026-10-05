@@ -243,7 +243,7 @@ Links naar content die in deze podcast aan bod komt:
 ```
   * [ReputatieCoaching Podcast in iTunes](https://web.archive.org/web/*/https://www.reputatiecoaching.nl/itunes)
   * [ReputatieCoaching Podcast op Stitcher](https://web.archive.org/web/*/https://www.reputatiecoaching.nl/stitcher)
-  * [ReputatieCoaching Podcast RSS-feed](https://feeds.reputatiecoaching.nl/ReputatieCoachingPodcast)
+  * [ReputatieCoaching Podcast RSS-feed](https://web.archive.org/web/*/https://www.reputatiecoaching.nl/ReputatieCoachingPodcast)
   * “[Yelp, Camera, Action: Now Add Videos with Your Yelp Mobile App!](http://officialblog.yelp.com/2014/07/yelp-camera-action-now-add-videos-with-your-yelp-mobile-app.html)” (Yelp blog, 28 juli 2014)
   * “[We’re Seeing a 23.4% Drop in Local Packs](http://www.whitespark.ca/blog/post/37-23-percent-drop-in-local-packs)” (Whitespark Blog, 29 juli 2014)
   * “[Where do consumers leave local reviews? Facebook now #2](http://blumenthals.com/blog/2014/07/30/where-do-consumers-leave-local-reviews-facebook-now-2/)” (Mike Blumenthal, 30 juli 2014)

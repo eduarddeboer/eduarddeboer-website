@@ -60,7 +60,7 @@ Links naar content die in deze podcast aan bod komt:
     * [ReputatieCoaching Podcast in iTunes](https://web.archive.org/web/*/https://www.reputatiecoaching.nl/itunes)
     * [ReputatieCoaching Podcast op Stitcher](https://web.archive.org/web/*/https://www.reputatiecoaching.nl/stitcher)
     * [ReputatieCoaching Podcast op TuneIn Radio](http://tunein.com/radio/ReputatieCoaching-Podcast-p655084/)
-    * [ReputatieCoaching Podcast RSS-feed](https://feeds.reputatiecoaching.nl/ReputatieCoachingPodcast)
+    * [ReputatieCoaching Podcast RSS-feed](https://web.archive.org/web/*/https://www.reputatiecoaching.nl/ReputatieCoachingPodcast)
     * [Aanmelden van je podcast bij Google Play Music](http://g.co/podcastportal)
     * [Google Beleid ten aanzien van reviews en foto’s](https://support.google.com/business/answer/2622994?rd=2&hl=nl)
     * “[Onderzoek naar taalgebruik webcareteams](http://www.coosto.com/nl/inzichten/blog/onderzoek-naar-taalgebruik-webcareteams)” (Coosto, 14 oktober 2015)

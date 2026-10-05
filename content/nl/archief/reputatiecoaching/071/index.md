@@ -80,7 +80,7 @@ Maar terugkomend op de plugin “[P3 Profiler](https://wordpress.org/extend/plug
 
 Als dat het geval is en je ziet dat je site een stuk sneller laadt als je bepaalde plugins uitschakelt, ga dan eens op zoek naar een alternatief, die wellicht wel sneller werkt. Maar blijf elke keer testen om te proberen de laadtijd van de voorpagina van je site onder de één seconde te houden en de laadtijd van andere pagina’s toch ergens tussen de twee à drie seconden. Vergeet niet, dat Internetters tegenwoordig steeds minder lang willen wachten op de content. Dus als jouw pagina’s langzaam laden, dan is de kans groot dat mensen al op de “Back”-knop klikken, voordat je pagina is geladen.
 
-In de show notes heb ik een paar grafieken opgenomen van de analyse van de plugins die ik op [www.reputatiecoaching.nl](https://web.archive.org/web/*/http://www.reputatiecoaching.nl) gebruik. Daaruit blijkt dat de meest tijdrovende plugin voor mijn site de “WordPress SEO”-plugin van Joost de Valk is.
+In de show notes heb ik een paar grafieken opgenomen van de analyse van de plugins die ik op [www.reputatiecoaching.nl](https://web.archive.org/web/*/https://www.reputatiecoaching.nl) gebruik. Daaruit blijkt dat de meest tijdrovende plugin voor mijn site de “WordPress SEO”-plugin van Joost de Valk is.
 
 [![P3 Profiler voor WordPress](20140407-p3-runtime-globaal.png)](https://lh3.googleusercontent.com/-3bOYF4dBQaw/U0HJErcNuXI/AAAAAAAAAnc/nLBYnTsNO0A/w860-h773-no/20140407-p3-runtime-globaal.png)
 
@@ -226,7 +226,7 @@ Links naar content die in deze podcast aan bod komt:
 ```
   * [ReputatieCoaching Podcast in iTunes](https://web.archive.org/web/*/https://www.reputatiecoaching.nl/itunes)
   * [ReputatieCoaching Podcast op Stitcher](https://web.archive.org/web/*/https://www.reputatiecoaching.nl/stitcher)
-  * [ReputatieCoaching Podcast RSS-feed](https://feeds.reputatiecoaching.nl/ReputatieCoachingPodcast)
+  * [ReputatieCoaching Podcast RSS-feed](https://web.archive.org/web/*/https://www.reputatiecoaching.nl/ReputatieCoachingPodcast)
   * [P3 Profiler](https://wordpress.org/plugins/p3-profiler/) - zoek uit welke plugin in WordPress je site vertraagt
   * “[Photos just got more social](https://blog.twitter.com/2014/photos-just-got-more-social)” (Twitter blog, 26 maart 2014)
   * “[Among Top 100 Etail Sites Only 9 Pct Using Responsive Design](http://marketingland.com/among-top-100-e-tail-sites-9-percent-using-responsive-design-77974)” (MarketingLand, 27 maart 2014)

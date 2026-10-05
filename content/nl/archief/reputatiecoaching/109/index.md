@@ -224,7 +224,7 @@ Links naar content die in deze podcast aan bod komt:
   * [ReputatieCoaching Podcast in iTunes](https://web.archive.org/web/*/https://www.reputatiecoaching.nl/itunes)
   * [ReputatieCoaching Podcast op Stitcher](https://web.archive.org/web/*/https://www.reputatiecoaching.nl/stitcher)
   * [ReputatieCoaching Podcast op TuneIn Radio](http://tunein.com/radio/ReputatieCoaching-Podcast-p655084/)
-  * [ReputatieCoaching Podcast RSS-feed](https://feeds.reputatiecoaching.nl/ReputatieCoachingPodcast)
+  * [ReputatieCoaching Podcast RSS-feed](https://web.archive.org/web/*/https://www.reputatiecoaching.nl/ReputatieCoachingPodcast)
   * “[Facebook Offers Life Raft, but Publishers Are Wary](http://www.nytimes.com/2014/10/27/business/media/facebook-offers-life-raft-but-publishers-are-wary.html)” (New Yourk Times, 26 oktober 2014)
   * “[1 in 5 Europeans Has Never Used the Internet](http://blogs.wsj.com/digits/2014/12/17/1-in-5-europeans-has-never-used-the-internet/)” (Wall Street Journal, 17 december 2014)
   * “[Facebook steeds grotere concurrent voor zoekmachines](http://www.emerce.nl/nieuws/facebook-steeds-grotere-concurrent-zoekmachines)” (Emerce, 22 december 2014)

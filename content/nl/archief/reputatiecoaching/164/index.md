@@ -49,7 +49,7 @@ Begin dit jaar ontving ik al een paar keer een berichtje van een bepaald bedrijf
 
 Je hebt het artikel wellicht gelezen over dat [SEO-bedrijf uit Gouda](https://web.archive.org/web/*/https://www.reputatiecoaching.nl/seo-snel-gouda-backlinks-spam/), dat mij uit “wraak” voor mijn 1-ster recensie, meteen ook eentje op de Google Mijn Bedrijf-pagina voor ReputatieCoaching plaatste. Ook ontving ik een mailtje, waarin hij dreigde naar Kassa te gaan om daar iets te posten en dergelijke.
 
-[![1-ster trol review van SEO-SNEL](20160412-troll-review-seo-snel.png)](/wp-content/uploads/2016/04/20160412-troll-review-seo-snel.png)Inmiddels staat de review er ruim een dag op en is mijn gemiddelde score gezakt van 5.0 naar 4.6. Maar ik vind het wel grappig, temeer daar ik nu eens in de praktijk kon laten zien hoe je moet omgaan met een zogenaamde trol, die een 1-ster review post. En dat ik geen 5.0 als reviewscore heb boeit me dus niet echt. De mensen die de overige reviews lezen en de content op mijn site lezen en de podcast beluisteren weten wel beter en doorzien een dergelijke actie meteen.
+[![1-ster trol review van SEO-SNEL](20160412-troll-review-seo-snel.png)](https://web.archive.org/web/*/https://www.reputatiecoaching.nl/wp-content/uploads/2016/04/20160412-troll-review-seo-snel.png)Inmiddels staat de review er ruim een dag op en is mijn gemiddelde score gezakt van 5.0 naar 4.6. Maar ik vind het wel grappig, temeer daar ik nu eens in de praktijk kon laten zien hoe je moet omgaan met een zogenaamde trol, die een 1-ster review post. En dat ik geen 5.0 als reviewscore heb boeit me dus niet echt. De mensen die de overige reviews lezen en de content op mijn site lezen en de podcast beluisteren weten wel beter en doorzien een dergelijke actie meteen.
 
 Ironisch genoeg zet de bedrijfseigenaar van het SEO-bedrijf uit Gouda zich zo wel erg in de kijker, door binnen 7 uur nadat ik het review gewoon onder mijn eigen naam had gepost, een review te posten onder het pseudoniem “Roulette Slette”.
 
@@ -59,7 +59,7 @@ Lange tijd terug, heel lang geleden, heb ik je verteld dat ik al bezig was met h
 
 In de show notes heb ik een screenshot opgenomen van de “Accelerated Mobile Pages” in Google Search Console. Daarin kun je zien dat inmiddels 263 pagina’s succesvol als Accelerated Mobile Page zijn geïndexeerd, en 61 nog niet. Maar ik verwacht dat dat nu snel nog verder verbetert:
 
-[![AMP (Accelerated Mobile Pages) statistieken](20160413-amp-statistics.png)](/wp-content/uploads/2016/04/20160413-amp-statistics.png)Ook al ga ik op mijn mobiele telefoon testen op [g.co/ampdemo](http://g.co/ampdemo), dan kom ik nog niet vanaf daar op de AMP-versie van bijvoorbeeld de blogberichten. Maar goed, dat duurt waarschijnlijk nog even. Ik ben ik elk geval hoopvol gestemd, dat Google nu lekker alle pagina’s voor AMP aan het indexeren is.
+[![AMP (Accelerated Mobile Pages) statistieken](20160413-amp-statistics.png)](https://web.archive.org/web/*/https://www.reputatiecoaching.nl/wp-content/uploads/2016/04/20160413-amp-statistics.png)Ook al ga ik op mijn mobiele telefoon testen op [g.co/ampdemo](http://g.co/ampdemo), dan kom ik nog niet vanaf daar op de AMP-versie van bijvoorbeeld de blogberichten. Maar goed, dat duurt waarschijnlijk nog even. Ik ben ik elk geval hoopvol gestemd, dat Google nu lekker alle pagina’s voor AMP aan het indexeren is.
 
 Tot zover de update over AMP.
 
@@ -84,7 +84,7 @@ Organiseer jij evenementen? Sta jij met je bedrijf jaarlijks op verschillende ev
 
 Dan heb ik iets, waarmee je extra kunt opvallen in die zoekresultaten. Namelijk met het vertonen van die evenementen. Hieronder zie je een voorbeeld van de evenementen in de Heineken Music Hall, zoals die in de zoekresultaten worden vertoond:
 
-[![Evenementen in de zoekresultaten (hier de Heineken Music Hall - HMH)](20160413-heineken-music-hall.png)](/wp-content/uploads/2016/04/20160413-heineken-music-hall.png)
+[![Evenementen in de zoekresultaten (hier de Heineken Music Hall - HMH)](20160413-heineken-music-hall.png)](https://web.archive.org/web/*/https://www.reputatiecoaching.nl/wp-content/uploads/2016/04/20160413-heineken-music-hall.png)
 
 Daarvoor zijn bijvoorbeeld voor WordPress allerhande lastige en soms ook kostbare plugins voor verkrijgbaar.
 
@@ -94,11 +94,11 @@ Een klant van Whitespark uit Canada, waarvoor ik diverse projecten doe, heeft da
 
 Kort gezegd heeft hij nu voor elke locatie een specifieke Google Calendar, waarin hij en zijn staf de evenementen kunnen opnemen. Deze verschijnen dan automatisch binnen zo’n 5 tot 10 minuten op de site. Dat is leuk:
 
-[![201604120-overland-park-events-compressor](201604120-overland-park-events.png)](/wp-content/uploads/2016/04/201604120-overland-park-events-compressor.png)
+[![201604120-overland-park-events-compressor](201604120-overland-park-events.png)](https://web.archive.org/web/*/https://www.reputatiecoaching.nl/wp-content/uploads/2016/04/201604120-overland-park-events-compressor.png)
 
 Maar wat nog mooier is, is dat ze vanaf het moment dat ze op de site staan, ook op een speciale manier worden aangeboden aan Google, om ervoor te zorgen dat ze in de zoekresultaten worden vertoond.
 
-[![Trampoline Park Overland Park Texas](201604120-overland-park-events-2.png)](/wp-content/uploads/2016/04/201604120-overland-park-events-2.png)
+[![Trampoline Park Overland Park Texas](201604120-overland-park-events-2.png)](https://web.archive.org/web/*/https://www.reputatiecoaching.nl/wp-content/uploads/2016/04/201604120-overland-park-events-2.png)
 
 Hierboven heb ik een paar screenshots opgenomen, van:
 
@@ -132,7 +132,7 @@ Links naar content elders op Internet die in deze podcast aan bod komt:
   * [ReputatieCoaching Podcast in iTunes](https://web.archive.org/web/*/https://www.reputatiecoaching.nl/itunes)
   * [ReputatieCoaching Podcast op Stitcher](https://web.archive.org/web/*/https://www.reputatiecoaching.nl/stitcher)
   * [ReputatieCoaching Podcast op TuneIn Radio](http://tunein.com/radio/ReputatieCoaching-Podcast-p655084/)
-  * [ReputatieCoaching Podcast RSS-feed](https://feeds.reputatiecoaching.nl/ReputatieCoachingPodcast)
+  * [ReputatieCoaching Podcast RSS-feed](https://web.archive.org/web/*/https://www.reputatiecoaching.nl/ReputatieCoachingPodcast)
   * [Richtlijnen voor de representatie van uw bedrijf op Google](https://support.google.com/business/answer/3038177?hl=nl) (Google Support)
   * [Lokale bedrijfsfoto's toevoegen](https://support.google.com/business/answer/6103862?hl=nl&ref_topic=6130059) (Google Support)
   * [Fotorichtlijnen voor bulklocaties](https://support.google.com/business/answer/6031953) (Google Support)

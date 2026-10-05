@@ -57,7 +57,7 @@ Links naar content elders op Internet die in deze podcast aan bod komt:
   * [ReputatieCoaching Podcast in iTunes](https://web.archive.org/web/*/https://www.reputatiecoaching.nl/itunes)
   * [ReputatieCoaching Podcast op Stitcher](https://web.archive.org/web/*/https://www.reputatiecoaching.nl/stitcher)
   * [ReputatieCoaching Podcast op TuneIn Radio](http://tunein.com/radio/ReputatieCoaching-Podcast-p655084/)
-  * [ReputatieCoaching Podcast RSS-feed](https://feeds.reputatiecoaching.nl/ReputatieCoachingPodcast)
+  * [ReputatieCoaching Podcast RSS-feed](https://web.archive.org/web/*/https://www.reputatiecoaching.nl/ReputatieCoachingPodcast)
   * [Wugly](https://www.wugly.nl)
   * [Mijn Tsu.co profiel](http://www.tsu.co/eduarddeboer)
   * "[Fake online reviews trip travelers](http://www.usatoday.com/story/travel/advice/2015/12/27/fake-tripadvisor-yelp-reviews/77844194/)" (USA Today, 27 december 2015)

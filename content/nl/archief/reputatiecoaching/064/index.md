@@ -34,9 +34,9 @@ Hallo en hartelijk welkom bij deze aflevering van de ReputatieCoaching Podcast. 
 
 Als persoon kun je met de diverse tips aan de slag om bijvoorbeeld je online reputatie als verkoopspecialist, voeger, cameraman, autospuiter, betonstaalvlechter of wat dan ook te verbeteren.
 
-In deze podcast noem ik een aantal sites, video’s en verwijs ik naar verschillende artikelen. De links naar al deze content èn de volledige transcriptie van de podcast vind je op [www.reputatiecoaching.nl/64](/nl/archief/reputatiecoaching/064/). Je kunt de podcast niet alleen rechtstreeks beluisteren op [www.reputatiecoaching.nl](https://web.archive.org/web/*/http://www.reputatiecoaching.nl), maar ook op zowel iTunes, als op Stitcher. Surf hiertoe respectievelijk naar [www.reputatiecoaching.nl/itunes](https://web.archive.org/web/*/https://www.reputatiecoaching.nl/itunes) of naar [www.reputatiecoaching.nl/stitcher](https://web.archive.org/web/*/https://www.reputatiecoaching.nl/stitcher).
+In deze podcast noem ik een aantal sites, video’s en verwijs ik naar verschillende artikelen. De links naar al deze content èn de volledige transcriptie van de podcast vind je op [www.reputatiecoaching.nl/64](/nl/archief/reputatiecoaching/064/). Je kunt de podcast niet alleen rechtstreeks beluisteren op [www.reputatiecoaching.nl](https://web.archive.org/web/*/https://www.reputatiecoaching.nl), maar ook op zowel iTunes, als op Stitcher. Surf hiertoe respectievelijk naar [www.reputatiecoaching.nl/itunes](https://web.archive.org/web/*/https://www.reputatiecoaching.nl/itunes) of naar [www.reputatiecoaching.nl/stitcher](https://web.archive.org/web/*/https://www.reputatiecoaching.nl/stitcher).
 
-Mocht je de podcast in een andere podcatcher of podcastplayer willen beluisteren, dan kun je je op de feed [feeds.reputatiecoaching.nl/reputatiecoachingpodcast](https://feeds.reputatiecoaching.nl/ReputatieCoachingPodcast) abonneren. Al deze links vind je ook in de show notes van deze podcast, alsmede op de website.
+Mocht je de podcast in een andere podcatcher of podcastplayer willen beluisteren, dan kun je je op de feed [feeds.reputatiecoaching.nl/reputatiecoachingpodcast](https://web.archive.org/web/*/https://www.reputatiecoaching.nl/ReputatieCoachingPodcast) abonneren. Al deze links vind je ook in de show notes van deze podcast, alsmede op de website.
 
 ## Terugblik podcast 63
 
@@ -120,7 +120,7 @@ De link naar het pinbord vind je in de show notes op [www.reputatiecoaching.nl/6
 
 ## Opnieuw probleem met BackWPup
 
-Net als omstreeks [oktober 2013](/nl/archief/reputatiecoaching/047/) heb ik ook nu wederom problemen met [BackWPup](https://web.archive.org/web/*/https://www.reputatiecoaching.nl/backwpup), de plugin die ik heb draaien voor het automatisch maken van backups van [www.reputatiecoaching.nl](https://web.archive.org/web/*/http://www.reputatiecoaching.nl). Ik zie dit keer echter geen fouten in de logfiles, maar ik zag anderhalve week geleden wel dat de laatste backup op 30 januari had gedraaid, dus ik hield een vinger aan de pols.
+Net als omstreeks [oktober 2013](/nl/archief/reputatiecoaching/047/) heb ik ook nu wederom problemen met [BackWPup](https://web.archive.org/web/*/https://www.reputatiecoaching.nl/backwpup), de plugin die ik heb draaien voor het automatisch maken van backups van [www.reputatiecoaching.nl](https://web.archive.org/web/*/https://www.reputatiecoaching.nl). Ik zie dit keer echter geen fouten in de logfiles, maar ik zag anderhalve week geleden wel dat de laatste backup op 30 januari had gedraaid, dus ik hield een vinger aan de pols.
 
 Vannacht constateerde ik dat er nog steeds geen backups werden gemaakt, dus heb ik eerst maar eens handmatig een volledige backup-job opgestart. Dat ging goed, evenals de database-only backup die ik daarna opstartte. Technisch werkt de plugin dus nog wel, alleen startte die niet meer automatisch op de geplande tijdstippen.
 
@@ -225,7 +225,7 @@ Links naar content die in deze podcast aan bod komt:
 ```
   * [ReputatieCoaching Podcast in iTunes](https://web.archive.org/web/*/https://www.reputatiecoaching.nl/itunes)
   * [ReputatieCoaching Podcast op Stitcher](https://web.archive.org/web/*/https://www.reputatiecoaching.nl/stitcher)
-  * [ReputatieCoaching Podcast RSS-feed](https://feeds.reputatiecoaching.nl/ReputatieCoachingPodcast)
+  * [ReputatieCoaching Podcast RSS-feed](https://web.archive.org/web/*/https://www.reputatiecoaching.nl/ReputatieCoachingPodcast)
   * “[Yahoo to Partner With Yelp on Local Search](http://online.wsj.com/news/articles/SB10001424052702304680904579371263386333816)” (Wall Street Journal, 10 februari 2014)
   * “[Yelp’s New Interface in Your Face!](http://officialblog.yelp.com/2014/02/yelps-new-interface-in-your-face.html)” (Yelp blog, 11 februari 2014)
 ```

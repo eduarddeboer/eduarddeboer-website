@@ -217,7 +217,7 @@ Links naar content die in deze podcast aan bod komt:
   * [ReputatieCoaching Podcast in iTunes](https://web.archive.org/web/*/https://www.reputatiecoaching.nl/itunes)
   * [ReputatieCoaching Podcast op Stitcher](https://web.archive.org/web/*/https://www.reputatiecoaching.nl/stitcher)
   * [ReputatieCoaching Podcast op TuneIn Radio](http://tunein.com/radio/ReputatieCoaching-Podcast-p655084/)
-  * [ReputatieCoaching Podcast RSS-feed](https://feeds.reputatiecoaching.nl/ReputatieCoachingPodcast)
+  * [ReputatieCoaching Podcast RSS-feed](https://web.archive.org/web/*/https://www.reputatiecoaching.nl/ReputatieCoachingPodcast)
   * [Review Media Company](http://www.reviewmediacompany.com)
   * “[Citation Inconsistency Is No.1 Issue Affecting Local Ranking](http://searchengineland.com/citation-inconsistency-no1-issue-affecting-local-ranking-210643)” (SearchEngineLand, 22 december 2014)
   * “[Nationale Search Engine Monitor onderzoek 2014](http://www.iprospect.com/nl/nl/press-room/nationale-search-engine-monitor-onderzoek/)” (iProspect, 22 december 2014)

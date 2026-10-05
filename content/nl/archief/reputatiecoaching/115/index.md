@@ -150,7 +150,7 @@ Links naar content die in deze podcast aan bod komt:
   * [ReputatieCoaching Podcast in iTunes](https://web.archive.org/web/*/https://www.reputatiecoaching.nl/itunes)
   * [ReputatieCoaching Podcast op Stitcher](https://web.archive.org/web/*/https://www.reputatiecoaching.nl/stitcher)
   * [ReputatieCoaching Podcast op TuneIn Radio](http://tunein.com/radio/ReputatieCoaching-Podcast-p655084/)
-  * [ReputatieCoaching Podcast RSS-feed](https://feeds.reputatiecoaching.nl/ReputatieCoachingPodcast)
+  * [ReputatieCoaching Podcast RSS-feed](https://web.archive.org/web/*/https://www.reputatiecoaching.nl/ReputatieCoachingPodcast)
   * [Jetpack by wordpress.com](https://wordpress.org/plugins/jetpack/) (Plugin die jouw WordPress sitte dezelfde mogelijkheden geeft als op wordpress.com)
   * [New York in 40 dates](http://newyorkin40dates.nl/) (Site bij het boek dat in Q2/2015 uitkomt)
   * [Security checklist van Google](http://goo.gl/ccgyV0) voor 2 GB extra ruimte op je Google Drive!
