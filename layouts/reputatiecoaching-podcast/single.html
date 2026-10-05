@@ -1,6 +1,18 @@
 {{ define "main" }}
   {{- $episode := printf "%v" .Params.episode -}}
   {{- $meta := index .Site.Data.reputatiecoaching.podcasts $episode -}}
+  {{- $episodes := .CurrentSection.RegularPages.ByParam "episode" -}}
+  {{- $nav := newScratch -}}
+  {{- range $i, $page := $episodes -}}
+    {{- if eq $page.RelPermalink $.RelPermalink -}}
+      {{- if gt $i 0 -}}
+        {{- $nav.Set "prev" (index $episodes (sub $i 1)) -}}
+      {{- end -}}
+      {{- if lt (add $i 1) (len $episodes) -}}
+        {{- $nav.Set "next" (index $episodes (add $i 1)) -}}
+      {{- end -}}
+    {{- end -}}
+  {{- end -}}
   <article class="rc-archive">
     <header class="max-w-prose">
       {{ if .Params.showBreadcrumbs | default (.Site.Params.article.showBreadcrumbs | default false) }}
@@ -39,6 +51,22 @@
       <p><strong>Archiefcontext:</strong> ReputatieCoaching Podcast, aflevering {{ $episode }}.</p>
       {{ with .Params.source_url }}<p><a href="{{ . | safeURL }}" rel="nofollow">Oorspronkelijke historische URL</a></p>{{ end }}
       <p><a href="{{ "/nl/archief/reputatiecoaching/" | relURL }}">Terug naar alle 167 afleveringen</a></p>
+      {{- $prev := $nav.Get "prev" -}}
+      {{- $next := $nav.Get "next" -}}
+      <nav class="rc-archive__pagination mt-8 grid gap-4 sm:grid-cols-2" aria-label="Podcastnavigatie">
+        {{ with $prev }}
+          <a class="block rounded-lg border border-neutral-200 p-4 no-underline transition hover:border-primary-400 dark:border-neutral-700" href="{{ .RelPermalink }}" rel="prev">
+            <span class="mb-1 block text-sm text-neutral-500 dark:text-neutral-400">← Vorige podcast</span>
+            <strong class="block text-neutral-900 dark:text-neutral">{{ .Title | emojify }}</strong>
+          </a>
+        {{ end }}
+        {{ with $next }}
+          <a class="{{ if not $prev }}sm:col-start-2 {{ end }}block rounded-lg border border-neutral-200 p-4 text-right no-underline transition hover:border-primary-400 dark:border-neutral-700" href="{{ .RelPermalink }}" rel="next">
+            <span class="mb-1 block text-sm text-neutral-500 dark:text-neutral-400">Volgende podcast →</span>
+            <strong class="block text-neutral-900 dark:text-neutral">{{ .Title | emojify }}</strong>
+          </a>
+        {{ end }}
+      </nav>
     </footer>
   </article>
 {{ end }}
