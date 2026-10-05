@@ -34,7 +34,7 @@ ROOT = Path(__file__).resolve().parents[1]
 TARGET = ROOT / "content" / "nl" / "archief" / "reputatiecoaching"
 FEED = ROOT / "static" / "podcast" / "reputatiecoaching.xml"
 MEDIA_ROOT = ROOT / "static" / "media" / "archive" / "reputatiecoaching"
-SOURCE_CSV = ROOT / "data" / "archive" / "reputatiecoaching-source.csv"
+SOURCE_CSV = ROOT / "source_data" / "archive" / "reputatiecoaching-source.csv"
 MANIFEST = ROOT / "data" / "archive" / "reputatiecoaching-import.json"
 
 IMAGE_EXTS = {".png", ".jpg", ".jpeg", ".gif", ".webp"}
@@ -386,7 +386,6 @@ def write_episode(
         "historical": True,
         "archivePeriod": "2012–2016",
         "transcriptStatus": "full" if full else "shownotes",
-        "audio": audio,
         "showAuthor": False,
         "showReadingTime": False,
         "showTableOfContents": True,
