@@ -103,16 +103,17 @@ def require_reputatiecoaching_archive_links() -> None:
     require(episode)
 
     index_html = index.read_text(encoding="utf-8")
-    relative_episode = re.compile(
-        r"""href=(?:["']?)/nl/archief/reputatiecoaching/167/(?:["']?)""",
+    episode_links = re.findall(
+        r"""href=(?:["']?)(/nl/archief/reputatiecoaching/\d{3}/)(?:["']?)""",
+        index_html,
         re.I,
     )
-    if not relative_episode.search(index_html):
+    if len(set(episode_links)) != 167:
         raise SystemExit(
-            "nl/archief/reputatiecoaching/index.html: podcast episode links must "
-            "be host-independent relative URLs"
+            "nl/archief/reputatiecoaching/index.html: expected 167 unique "
+            f"host-independent episode links, found {len(set(episode_links))}"
         )
-    if "https://eduarddeboer.com/nl/archief/reputatiecoaching/167/" in index_html:
+    if "https://eduarddeboer.com/nl/archief/reputatiecoaching/" in index_html:
         raise SystemExit(
             "nl/archief/reputatiecoaching/index.html: production-absolute episode "
             "link would break staging navigation"
@@ -132,6 +133,84 @@ def require_reputatiecoaching_archive_links() -> None:
         raise SystemExit(
             "nl/archief/reputatiecoaching/167/index.html: current archive back-link missing"
         )
+    if re.search(
+        r"""href=["']https?://(?:www\.)?reputatiecoaching\.nl/""",
+        episode_html,
+        re.I,
+    ):
+        raise SystemExit(
+            "nl/archief/reputatiecoaching/167/index.html: dead original-site link survived"
+        )
+    if "<audio" in episode_html.lower():
+        raise SystemExit(
+            "nl/archief/reputatiecoaching/167/index.html: audio element exists before user interaction"
+        )
+    for token in ("data-podcast-launch", "data-audio-src=", "/js/podcast.js"):
+        if token not in episode_html:
+            raise SystemExit(
+                f"nl/archief/reputatiecoaching/167/index.html: missing privacy player token {token!r}"
+            )
+
+    nodes = jsonld_nodes(episode_html)
+    episode_id = "https://data.eduarddeboer.com/entity/podcast_episode/reputatiecoaching_167"
+    episode_nodes = [
+        node for node in nodes
+        if node.get("@type") == "PodcastEpisode" and node.get("@id") == episode_id
+    ]
+    if len(episode_nodes) != 1:
+        raise SystemExit(
+            "nl/archief/reputatiecoaching/167/index.html: expected one projected PodcastEpisode node"
+        )
+    episode_node = episode_nodes[0]
+    if str(episode_node.get("episodeNumber")) != "167":
+        raise SystemExit(
+            "nl/archief/reputatiecoaching/167/index.html: PodcastEpisode episodeNumber missing"
+        )
+    audio = episode_node.get("associatedMedia") or {}
+    if audio.get("@type") != "AudioObject" or not str(audio.get("contentUrl", "")).startswith(
+        "https://archive.org/"
+    ):
+        raise SystemExit(
+            "nl/archief/reputatiecoaching/167/index.html: KG AudioObject missing or invalid"
+        )
+
+    page_nodes = [
+        node for node in nodes
+        if node.get("@id") == "https://eduarddeboer.com/nl/archief/reputatiecoaching/167/#webpage"
+    ]
+    if len(page_nodes) != 1 or (page_nodes[0].get("mainEntity") or {}).get("@id") != episode_id:
+        raise SystemExit(
+            "nl/archief/reputatiecoaching/167/index.html: WebPage must identify the KG PodcastEpisode as mainEntity"
+        )
+
+    expected_relations = {
+        "about": {
+            "https://data.eduarddeboer.com/entity/defined_term/local_seo",
+            "https://data.eduarddeboer.com/entity/defined_term/online_reputation_management",
+            "https://data.eduarddeboer.com/entity/defined_term/review_management",
+            "https://data.eduarddeboer.com/entity/defined_term/structured_data",
+        },
+        "mentions": {
+            "https://data.eduarddeboer.com/entity/software_application/google_business_profile",
+            "https://data.eduarddeboer.com/entity/organization/whitespark",
+            "https://data.eduarddeboer.com/entity/article/whitespark_google_calendar_events_search_results",
+        },
+    }
+    for predicate, expected_ids in expected_relations.items():
+        refs = episode_node.get(predicate) or []
+        if isinstance(refs, dict):
+            refs = [refs]
+        actual_ids = {
+            ref.get("@id")
+            for ref in refs
+            if isinstance(ref, dict) and ref.get("@id")
+        }
+        missing = expected_ids - actual_ids
+        if missing:
+            raise SystemExit(
+                f"nl/archief/reputatiecoaching/167/index.html: missing KG {predicate} relations: "
+                + ", ".join(sorted(missing))
+            )
 
 
 def main() -> None:
