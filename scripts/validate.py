@@ -499,6 +499,37 @@ def validate_reputatiecoaching_build_contract(problems: list[str]) -> None:
             f"content/nl/archief/reputatiecoaching: expected 167 generated episode pages, found {len(pages)}"
         )
 
+    archive_index = HISTORICAL_ARCHIVE_ROOT / "_index.md"
+    if pages and archive_index.exists():
+        index_text = archive_index.read_text(encoding="utf-8")
+        if '\ntype: "reputatiecoaching-podcast"\n' not in index_text:
+            problems.append(
+                "content/nl/archief/reputatiecoaching/_index.md: archive section must "
+                "use type reputatiecoaching-podcast so staging links stay relative"
+            )
+        if '\ncascade:\n  type: "reputatiecoaching-podcast"\n' not in index_text:
+            problems.append(
+                "content/nl/archief/reputatiecoaching/_index.md: child episodes must "
+                "inherit type reputatiecoaching-podcast"
+            )
+
+    list_layout = ROOT / "layouts" / "reputatiecoaching-podcast" / "list.html"
+    if pages and list_layout.exists():
+        list_text = list_layout.read_text(encoding="utf-8")
+        if 'href="{{ .RelPermalink }}"' not in list_text:
+            problems.append(
+                "layouts/reputatiecoaching-podcast/list.html: episode links must use "
+                ".RelPermalink for host-independent staging navigation"
+            )
+
+    single_layout = ROOT / "layouts" / "reputatiecoaching-podcast" / "single.html"
+    if pages and single_layout.exists():
+        single_text = single_layout.read_text(encoding="utf-8")
+        if "/nl/archive/reputatiecoaching/podcasts/" in single_text:
+            problems.append(
+                "layouts/reputatiecoaching-podcast/single.html: legacy archive back-link returned"
+            )
+
     for path in pages:
         text = path.read_text(encoding="utf-8")
         frontmatter = re.match(r"\A---\s*\n(.*?)\n---\s*\n", text, re.DOTALL)
