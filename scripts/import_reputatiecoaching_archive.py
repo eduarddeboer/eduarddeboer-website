@@ -164,20 +164,36 @@ def choose_best_image(
     candidates: list[Path] = []
 
     def add(path: Path) -> None:
-        if path.is_file() and path.suffix.lower() in IMAGE_EXTS and path not in candidates:
-            candidates.append(path)
-        unsized = Path(WP_SIZE.sub("", str(path)))
-        if unsized != path and unsized.is_file() and unsized not in candidates:
-            candidates.append(unsized)
+        try:
+            if path.is_file() and path.suffix.lower() in IMAGE_EXTS and path not in candidates:
+                candidates.append(path)
+            unsized = Path(WP_SIZE.sub("", str(path)))
+            if unsized != path and unsized.is_file() and unsized not in candidates:
+                candidates.append(unsized)
+        except OSError:
+            # Historical content contains a few remote image URLs whose path
+            # component exceeds local filesystem name limits. Those are not
+            # local archive paths and should simply fall through.
+            return
 
-    if ref.startswith("/wp-content/"):
-        add(source_root / "static" / ref.lstrip("/"))
-        add(source_root / ref.lstrip("/"))
-    elif ref.startswith("/"):
-        add(source_root / "static" / ref.lstrip("/"))
-        add(source_root / ref.lstrip("/"))
-    elif source_page is not None:
-        add(source_page.parent / ref)
+    rc_hosts = {
+        "",
+        "reputatiecoaching.nl",
+        "www.reputatiecoaching.nl",
+        "dev.reputatiecoaching.nl",
+    }
+    host = parsed.netloc.lower().split("@")[-1].split(":")[0]
+    localizable_host = host in rc_hosts
+
+    if localizable_host:
+        if ref.startswith("/wp-content/"):
+            add(source_root / "static" / ref.lstrip("/"))
+            add(source_root / ref.lstrip("/"))
+        elif ref.startswith("/"):
+            add(source_root / "static" / ref.lstrip("/"))
+            add(source_root / ref.lstrip("/"))
+        elif source_page is not None:
+            add(source_page.parent / ref)
 
     original_dir = source_root / "000-origineel" / "podcasts" / f"{episode:03d}"
     requested_stem = normalize_stem(ref)
