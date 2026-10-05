@@ -15,7 +15,7 @@ permissions:
 
 concurrency:
   group: website-reputatiecoaching-archive-import
-  cancel-in-progress: false
+  cancel-in-progress: true
 
 jobs:
   choose-runner:
@@ -189,6 +189,7 @@ jobs:
             exit 0
           fi
           git commit -m "archive: import 167 ReputatieCoaching podcasts [archive-import]"
+          git pull --rebase origin "$GITHUB_REF_NAME"
           git push
           echo "changed=true" >> "$GITHUB_OUTPUT"
 
