@@ -48,7 +48,8 @@ class AccessibilityParser(HTMLParser):
 
         if tag == "img":
             if "alt" not in attrs:
-                self.problems.append("image without alt")
+                src = (attrs.get("src") or "").strip()
+                self.problems.append(f"image without alt (src={src or 'unknown'})")
             if not attrs.get("width") or not attrs.get("height"):
                 self.problems.append("image without intrinsic width/height")
 
