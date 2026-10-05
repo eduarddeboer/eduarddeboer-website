@@ -56,7 +56,8 @@ jobs:
     runs-on: ${{ fromJSON(needs.choose-runner.outputs.runs_on) }}
     timeout-minutes: 35
     env:
-      RC_READ_TOKEN: ${{ secrets.RUNNER_ROUTER_TOKEN }}
+      RC_READ_TOKEN: ${{ secrets.KG_READ_TOKEN }}
+      RC_FALLBACK_TOKEN: ${{ secrets.RUNNER_ROUTER_TOKEN }}
     steps:
       - name: Report selected runner
         run: |
@@ -100,23 +101,25 @@ jobs:
           rm -rf _reputatiecoaching_source
 
           private_ok=false
-          if [[ -n "${RC_READ_TOKEN:-}" ]]; then
+          for read_token in "${RC_READ_TOKEN:-}" "${RC_FALLBACK_TOKEN:-}"; do
+            [[ -n "$read_token" ]] || continue
             status="$(
               curl -sS -o /dev/null -w '%{http_code}' \
-                -H "Authorization: Bearer $RC_READ_TOKEN" \
+                -H "Authorization: Bearer $read_token" \
                 -H "Accept: application/vnd.github+json" \
                 https://api.github.com/repos/eduarddeboer/reputatiecoaching.nl || true
             )"
             if [[ "$status" == "200" ]]; then
-              auth="$(printf 'x-access-token:%s' "$RC_READ_TOKEN" | base64 | tr -d '\n')"
+              auth="$(printf 'x-access-token:%s' "$read_token" | base64 | tr -d '\n')"
               if git -c "http.extraHeader=AUTHORIZATION: basic $auth" clone \
                 --depth 1 \
                 https://github.com/eduarddeboer/reputatiecoaching.nl.git \
                 _reputatiecoaching_source; then
                 private_ok=true
+                break
               fi
             fi
-          fi
+          done
 
           if [[ "$private_ok" != "true" ]] && command -v gh >/dev/null 2>&1 && gh auth status >/dev/null 2>&1; then
             if gh repo clone eduarddeboer/reputatiecoaching.nl _reputatiecoaching_source -- --depth 1; then
