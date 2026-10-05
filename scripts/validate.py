@@ -11,6 +11,7 @@ SNAPSHOT = ROOT / "data/kg/snapshot.json"
 SECTIONS = ROOT / "data/kg/sections.json"
 CONTENT = ROOT / "content"
 AUTHORING_TEMPLATE_DIR = CONTENT / "_templates"
+HISTORICAL_ARCHIVE_DIR = CONTENT / "nl" / "archive" / "reputatiecoaching"
 HISTORICAL_ARCHIVE_ROOT = CONTENT / "nl" / "archief" / "reputatiecoaching"
 REPUTATIECOACHING_FEED = ROOT / "static" / "podcast" / "reputatiecoaching.xml"
 
@@ -361,6 +362,14 @@ def validate_section_projections(snapshot: dict) -> dict:
 def is_authoring_template(path: Path) -> bool:
     try:
         path.relative_to(AUTHORING_TEMPLATE_DIR)
+        return True
+    except ValueError:
+        return False
+
+
+def is_historical_archive(path: Path) -> bool:
+    try:
+        path.relative_to(HISTORICAL_ARCHIVE_DIR)
         return True
     except ValueError:
         return False
