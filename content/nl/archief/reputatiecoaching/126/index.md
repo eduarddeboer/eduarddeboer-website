@@ -3,6 +3,7 @@ title: '126: Apple Maps Connect in Nederland! Update je WordPress! UTM-tracking 
 date: '2015-04-30T06:30:21+00:00'
 description: Gebruik je WordPress en heb je al een tijdje je WordPress installatie niet bijgewerkt? Luister dan naar het eerste item van vandaag, want WordPress is vorige week vernieuwd. Toen is versie 4.2 uitgekomen, maar inmiddels is 4.2.1 alweer uitgekomen, een security update. Het is echt zaak om je WordPress site zo snel mogelijk bij te werken! Verder had ik een leerzame vraag van een webdesign bedrijf dat wel op Google+ stond, maar de weg naar Google Maps niet kon vinden…
 episode: 126
+kgRef: podcast_episode/reputatiecoaching_126
 historical: true
 archivePeriod: 2012–2016
 transcriptStatus: full
@@ -36,7 +37,7 @@ Het laatste onderwerp van deze podcast is Apple Maps Connect. Dit is nu goed en 
 
 Hallo en hartelijk welkom bij deze aflevering van de ReputatieCoaching Podcast. Ik ben Eduard de Boer, ReputatieCoach. Dit is dé podcast die jou helpt om meer business te genereren, doordat jouw website beter gevonden wordt, zowel lokaal als landelijk en doordat ik je uitleg hoe je je online reputatie kunt verbeteren. Dit alles helpt je om je bedrijf en jezelf beter op de online kaart te plaatsen.
 
-De podcast kun je vinden op [www.reputatiecoaching.nl/126](https://www.reputatiecoaching.nl/126/). Daar vind je niet alleen de tekst, maar ook video’s waar ik het in deze uitzending over heb, alsmede afbeeldingen, links enzovoorts. Bovendien is de podcast te beluisteren in [iTunes](https://www.reputatiecoaching.nl/itunes), op [Stitcher](https://www.reputatiecoaching.nl/stitcher) en ook op [TuneIn Radio](http://tunein.com/radio/ReputatieCoaching-Podcast-p655084/). Ik raad je aan om je op één van die drie kanalen te abonneren op de podcast, zodat je geen aflevering hoeft te missen!
+De podcast kun je vinden op [www.reputatiecoaching.nl/126](https://web.archive.org/web/20190717184040/https://www.reputatiecoaching.nl/126/). Daar vind je niet alleen de tekst, maar ook video’s waar ik het in deze uitzending over heb, alsmede afbeeldingen, links enzovoorts. Bovendien is de podcast te beluisteren in iTunes, op Stitcher en ook op [TuneIn Radio](http://tunein.com/radio/ReputatieCoaching-Podcast-p655084/). Ik raad je aan om je op één van die drie kanalen te abonneren op de podcast, zodat je geen aflevering hoeft te missen!
 
 ## Statusupdate Mobilegeddon
 
@@ -134,7 +135,7 @@ Hoewel ik niet ontzettend de diepte in ben gedoken, vond ik al snel de volgende 
   * Er staat slechts één algemeen telefoonnummer op de site. Op de tabs van de locaties staan niet de telefoonnummers van de locaties. Voor elke lokale moet die hetzelfde zijn als op de G+ pagina.
   * Locatieadres op tab is NIET gemarkeerd met schema.org, terwijl het algemene adres in de footer wel met schema.org is gemarkeerd. Ik zou het locatieadres zeker met schema.org markeren!
   * In de footer staat overal één en hetzelfde adres. Dat is verwarrend, voor Google en ook voor bezoekers van de site. In zo’n geval is mijn advies om het adres in de footer te verwijderen.
-  * Locatiepagina’s bevatten een verkeerd type kaart. Moet echt Google Maps kaart zijn, waarop is gezocht op bedrijfsnaam + adres. Dit heb ik ook recentelijk nog verteld in [podcast 123](https://www.reputatiecoaching.nl/123/).
+  * Locatiepagina’s bevatten een verkeerd type kaart. Moet echt Google Maps kaart zijn, waarop is gezocht op bedrijfsnaam + adres. Dit heb ik ook recentelijk nog verteld in [podcast 123](https://web.archive.org/web/20150605073459/http://www.reputatiecoaching.nl/123/).
   * De links op de linkspagina op de site zijn allemaal DOFOLLOW (impliciet). Omdat het best een aardig aantal links is, is mijn advies om die links NOFOLLOW te maken om elke illusie van linkbuilding weg te nemen.
   * De titels van de pagina’s op de site kunnen beter. Zo zou ik de titels van de locatiepagina’s liefst hetzelfde maken als de naam van de Google+ pagina + de plaatsnaam en eventueel het telefoonnummer.
   * Tja, wat essentieel is om op de radar van Google en andere zoekmachines te blijven, is steeds verse content produceren. En volgens mij mag dat voor een fysiotherapiepraktijk niet te moeilijk zijn. Instrueer alle therapeuten om dagelijks alle vragen van patiënten op te schrijven en bundel die. Stel op basis daarvan een publicatiekalender samen, bijvoorbeeld onderverdeeld in thema’s, waaronder de artikelen dan worden gepubliceerd.
@@ -152,7 +153,7 @@ Hoewel ik niet ontzettend de diepte in ben gedoken, vond ik al snel de volgende 
 ```
   * Slechts 2 locaties staan op Yelp. Mijn advies is om alle locaties op zoveel mogelijk relevante sites aan te melden, dus inderdaad op Yelp, Foursquare en andere.
   * Openingstijden op Google+ / Yelp / website / openingstijden.nl zijn inconsistent. Dit is niet alleen slecht voor de gebruikerservaring, doordat een patiënt voor een dichte deur kan komen te staan, maar ook voor consistentie van je bedrijfsgegevens. Hoewel er volgens mij nooit onderzoek is gedaan naar het effect van inconsistente openingstijden in de citations, adviseer ik om overal dezelfde openingstijden te communiceren.
-  * Er is nogal wat inconsistent naamgebruik van de namen van de locaties. Ik kan me voorstellen dat dit historisch zo is gegroeid, maar dit moet echt worden aangepast. Vaak levert het opschonen van citations en zeker van vermeldingen van de bedrijfsnaam heel snel een positief resultaat. Voor het [opschonen van citations](https://www.reputatiecoaching.nl/werkinstructie-opschonen-citations/) verwijs ik graag naar de gelijknamige werkinstructie, elders op de site.
+  * Er is nogal wat inconsistent naamgebruik van de namen van de locaties. Ik kan me voorstellen dat dit historisch zo is gegroeid, maar dit moet echt worden aangepast. Vaak levert het opschonen van citations en zeker van vermeldingen van de bedrijfsnaam heel snel een positief resultaat. Voor het [opschonen van citations](https://web.archive.org/web/20150915133010/http://www.reputatiecoaching.nl:80/werkinstructie-opschonen-citations/) verwijs ik graag naar de gelijknamige werkinstructie, elders op de site.
   * Naast inconsistentie vond ik ook enkele incomplete vermeldingen op bijv. telefoonboek.nl en openingstijden.com.
   * Op Independer wordt voor alle vier de locaties hetzelfde telefoonnummer gebruikt. Google raadt aan om een uniek telefoonnummer per locatie te communiceren.
 ```
@@ -169,7 +170,7 @@ Als ik voor een bedrijf aan de slag ga, is het eerste wat ik altijd doe, ervoor 
 
 Dat doe ik door in Google+ Mijn Bedrijf de URL van de bedrijfswebsite iets aan te passen. Zo heb ik bijvoorbeeld voor Allround Fotografie de URL ingesteld, zoals ik die in de show notes heb weergegeven:
 
-Als ik ’m zo uitspreek klinkt die erg complex. Maar in de praktijk valt dat wel mee. Daarom raad ik je aan om de show notes op [www.reputatiecoaching.nl/126](https://www.reputatiecoaching.nl/126/) even na te lezen om de toevoeging van de UTM-code te inspecteren. Het deel vanaf het vraagteken kun je zo overnemen en achter je eigen URL plaatsen, die je in Google+ Mijn Bedrijf hebt vermeld.
+Als ik ’m zo uitspreek klinkt die erg complex. Maar in de praktijk valt dat wel mee. Daarom raad ik je aan om de show notes op [www.reputatiecoaching.nl/126](https://web.archive.org/web/20190717184040/https://www.reputatiecoaching.nl/126/) even na te lezen om de toevoeging van de UTM-code te inspecteren. Het deel vanaf het vraagteken kun je zo overnemen en achter je eigen URL plaatsen, die je in Google+ Mijn Bedrijf hebt vermeld.
 
 Een andere keer zal ik dieper ingaan op UTM-tracking en hoe je dat zoal kunt gebruiken om bijvoorbeeld downloads van een PDF op je site of kliks vanaf een specifieke afbeelding op Pinterest te meten.
 
@@ -195,7 +196,7 @@ Ik mailde de supportafdeling van TuneIn Radio met mijn probleem, maar ironisch g
 ## Apple lanceert Maps Connect in Nederland
 
 ![Apple Maps Connect](Apple-Maps-logo.png)
-In [podcast 99](https://www.reputatiecoaching.nl/99/) vertelde ik je over de dienst Apple Maps Connect die Apple toen had gelanceerd. Alleen was de dienst toen nog niet beschikbaar in Nederland. Wel had ik mijn mailadres in oktober vorig jaar aan Apple gegeven om mij op de hoogte te brengen, zodra de dienst in Nederland zou uitrollen.
+In [podcast 99](https://web.archive.org/web/20150312094951/http://www.reputatiecoaching.nl/99/) vertelde ik je over de dienst Apple Maps Connect die Apple toen had gelanceerd. Alleen was de dienst toen nog niet beschikbaar in Nederland. Wel had ik mijn mailadres in oktober vorig jaar aan Apple gegeven om mij op de hoogte te brengen, zodra de dienst in Nederland zou uitrollen.
 
 Echter, de mail heb ik tot op heden nog niet ontvangen, maar ik las in een blogbericht op een Amerikaanse site dat Maps Connect inmiddels in Nederland beschikbaar moest zijn. Dus ik logde in op [mapsconnect.apple.com](https://mapsconnect.apple.com/) en inderdaad, ik kon een bedrijfsvermelding claimen!
 
@@ -221,7 +222,7 @@ Als je de podcast leuk vindt en je wilt nog meer op de hoogte blijven, volg me d
 
 Heb je inderdaad wat aan alle informatie die ik met je deel, help mij dan met het verder verbeteren en promoten van deze podcast. Abonneer je op de podcast, zodat je altijd meteen de nieuwste uitzending krijgt voorgeschoteld.
 
-Zoek de podcast op, in [iTunes](https://www.reputatiecoaching.nl/itunes) of [Stitcher](https://www.reputatiecoaching.nl/stitcher), geef de podcast een sterrenbeoordeling en laat ook je reactie achter. Door de podcast te beoordelen op iTunes en/of Stitcher breng je de podcast onder de aandacht van een breder publiek.
+Zoek de podcast op, in iTunes of Stitcher, geef de podcast een sterrenbeoordeling en laat ook je reactie achter. Door de podcast te beoordelen op iTunes en/of Stitcher breng je de podcast onder de aandacht van een breder publiek.
 
 Je kunt me verder helpen, door de podcast aan te bevelen bij vrienden of collega’s, waarvan je denkt dat ze er hun voordeel mee kunnen doen, of door ’m te delen op Twitter, like’n en delen op Facebook of een “+1” te geven op Google+.
 
@@ -229,7 +230,7 @@ En vergeet niet: ik ben hier om je te helpen! Als je een vraag of een probleem h
 
 Als je dat te lastig vindt, of als je de podcast beluistert terwijl je in de auto zit en je hebt acuut een vraag, spreek dan een boodschap in op de ReputatieCoaching Hotline, op nummer: 084 - 883 15 56. Mogelijk behandel ik je vraag of probleem dan in een artikel of in de podcast.
 
-En je kunt ook rechtstreeks op de website een voicemail achterlaten, door op de tab aan de rechterkant van elke pagina te klikken, en je bericht in te spreken. Dit was [ReputatieCoaching Podcast aflevering 126](https://www.reputatiecoaching.nl/126/) en mijn naam is [Eduard de Boer](http://nl.linkedin.com/in/eduarddeboer/nl).
+En je kunt ook rechtstreeks op de website een voicemail achterlaten, door op de tab aan de rechterkant van elke pagina te klikken, en je bericht in te spreken. Dit was [ReputatieCoaching Podcast aflevering 126](https://web.archive.org/web/20190717184040/https://www.reputatiecoaching.nl/126/) en mijn naam is [Eduard de Boer](http://nl.linkedin.com/in/eduarddeboer/nl).
 
 Ik wens je de komende week weer succes met het werken aan je reputatie, zodat je meteen je reputatie voor jou kunt laten werken!
 
@@ -240,9 +241,9 @@ Doei!
 Links naar content die in deze podcast aan bod komt:
 
 ```
-  * [ReputatieCoaching Podcast in iTunes](https://www.reputatiecoaching.nl/itunes)
-  * [ReputatieCoaching Podcast op Stitcher](https://www.reputatiecoaching.nl/stitcher)
+  * ReputatieCoaching Podcast in iTunes
+  * ReputatieCoaching Podcast op Stitcher
   * [ReputatieCoaching Podcast op TuneIn Radio](http://tunein.com/radio/ReputatieCoaching-Podcast-p655084/)
-  * [ReputatieCoaching Podcast RSS-feed](https://feeds.reputatiecoaching.nl/ReputatieCoachingPodcast)
+  * [ReputatieCoaching Podcast RSS-feed](https://web.archive.org/web/20150228235938/http://feeds.reputatiecoaching.nl:80/ReputatieCoachingPodcast)
   * [Apple Maps Connect](https://mapsconnect.apple.com)
 ```
