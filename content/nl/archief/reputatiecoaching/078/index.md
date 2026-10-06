@@ -101,7 +101,7 @@ Factual is overigens een dataprovider, waar je ook zeker je bedrijf moet aanmeld
 
 Zoals altijd is het wel belangrijk, zeker op zo’n dataprovider website, dat je de gegevens van je bedrijf precies zó invoert, als je je bedrijf overal vermeldt. Want als Google een te groot verschil bespeurt, wordt binnen no-time een tweede bedrijfsvermelding op Google Maps gemaakt en dan zul je zien dat beide lokale bedrijfsvermeldingen minder hoog zullen scoren in de lokale zoekresultaten.
 
-Waze is natuurlijk al geruime tijd [[eigendom van Google](/nl/archief/reputatiecoaching/029/)](/nl/archief/reputatiecoaching/029/). Daarover heb ik in het verleden al meer gepubliceerd.
+Waze is natuurlijk al geruime tijd [eigendom van Google](/nl/archief/reputatiecoaching/029/). Daarover heb ik in het verleden al meer gepubliceerd.
 
 ## OpenStreetMap nu even goed als, of zelfs beter dan Google Maps?
 
