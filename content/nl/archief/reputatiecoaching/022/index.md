@@ -3,6 +3,7 @@ title: Podcast Aflevering 22 (27-04-2013)
 date: '2013-04-27T22:30:35+00:00'
 description: 'ReputatieCoaching Podcast aflevering 22! Wow, het was een drukke week en een drukke paar afgelopen weken! Waarom? Dat vertel ik je zometeen. Google Streetview is al in 50 landen! Wat moet je doen, als het grootste deel van je publiek uit vrouwen bestaat? Het is aangetoond: digitale reïncarnatie bestaat! Facebook Home half miljard keer gedownload, maar geen succes. Wat is linkearning? En hoeveel tijd wordt er nu gespendeerd aan social media?'
 episode: 22
+kgRef: podcast_episode/reputatiecoaching_022
 historical: true
 archivePeriod: 2012–2016
 transcriptStatus: full
@@ -65,7 +66,7 @@ Wow, het was een drukke week en een drukke paar afgelopen weken! Waarom? Dat ver
 
 *Zo kan jouw Google profiel toch nog een tijdje blijven voortbestaan nadat je er niet meer bent en kun je je naasten op een nette manier jouw account laten overnemen en afsluiten, als jij dat wenst.*
 
-*In [ReputatieCoaching Podcast 20](https://www.reputatiecoaching.nl/20/) had ik het over Facebook Home, de nieuwe Facebook telefoon en de Android app, die hetzelfde bewerkstelligt op je mobiele telefoon. Nou, de app is inmiddels al bijna een half miljard keer gedownload, maar de recensies zijn echter niet bijster lovend. Maar je leest ook alweer veel berichten dat mensen het toch niet prettig vinden, en de app alweer deinstalleren. Gemiddeld krijgt de app een beoordeling van 2,2 op een schaal van maximaal 5. Dat is dus niet bijzonder hoopgevend voor de toekomst van de app en vraag is of dit Facebook nu die extra boost geeft, waar ze op zaten te wachten, of niet.*
+*In [ReputatieCoaching Podcast 20](https://web.archive.org/web/20150312092617/http://www.reputatiecoaching.nl/20/) had ik het over Facebook Home, de nieuwe Facebook telefoon en de Android app, die hetzelfde bewerkstelligt op je mobiele telefoon. Nou, de app is inmiddels al bijna een half miljard keer gedownload, maar de recensies zijn echter niet bijster lovend. Maar je leest ook alweer veel berichten dat mensen het toch niet prettig vinden, en de app alweer deinstalleren. Gemiddeld krijgt de app een beoordeling van 2,2 op een schaal van maximaal 5. Dat is dus niet bijzonder hoopgevend voor de toekomst van de app en vraag is of dit Facebook nu die extra boost geeft, waar ze op zaten te wachten, of niet.*
 
 *Elke week krijg ik toch wel een paar keer het verzoek of ik misschien een linkje wil ruilen met één of ander bedrijf. Zij bieden dan aan een link naar een site van mij te willen plaatsen, als ik dan ook maar alsjeblieft een linkje naar hun site op mijn site wil zetten. Zo hopen ze hoger te scoren in de zoekmachines…*
 

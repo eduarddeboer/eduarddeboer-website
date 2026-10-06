@@ -3,6 +3,7 @@ title: '25: ReputatieCoaching nieuws, Google nieuwtjes, Google reviews en een te
 date: '2013-05-18T21:16:50+00:00'
 description: Vandaag begin ik eerst met een drietal nieuwtjes over de site en de content die ik bied.** ** Matt Cutts, één van de kopstukken van Google, heeft aangekondigd wat we de komende maanden van Google op het gebied van SEO kunnen verwachten. Een stukje uit die video gaat over reputatie en autoriteit. En afgelopen week was in het Moscone Center in San Francisco de Google I/O 2013, waar ik het in de vorige podcast ook al over had.
 episode: 25
+kgRef: podcast_episode/reputatiecoaching_025
 historical: true
 archivePeriod: 2012–2016
 transcriptStatus: full
@@ -33,13 +34,13 @@ showTaxonomies: false
 
 **Mijn naam is Eduard de Boer –ook wel bekend als de ReputatieCoach– en ik ben je host voor vandaag!**
 
-Om te beginnen heb ik een paar kleine wijzigingen doorgevoerd op de website, of beter gezegd: uitbreidingen aangebracht. Als eerste: om naar de transcriptie van een bepaalde podcast te gaan, moest je eerst intypen: [www.reputatiecoaching.nl](https://www.reputatiecoaching.nl) slash podcast streepje en het volgnummer van de podcast. Luisteraar Bert was zo vriendelijk mij erop te wijzen dat dit niet bijster handig is, zeker niet als ik het probeer te vertellen in de podcast. Zo kunnen mensen zich vergissen tussen het mintekentje en de underscore, dat is het liggende streepje en als mensen mijn verwijzingen voor de eerste keer horen, kan het zijn dat ze niet weten hoe je het woord ‘podcast’ schrijft.
+Om te beginnen heb ik een paar kleine wijzigingen doorgevoerd op de website, of beter gezegd: uitbreidingen aangebracht. Als eerste: om naar de transcriptie van een bepaalde podcast te gaan, moest je eerst intypen: [www.reputatiecoaching.nl](https://web.archive.org/web/20130526141757/http://www.reputatiecoaching.nl/) slash podcast streepje en het volgnummer van de podcast. Luisteraar Bert was zo vriendelijk mij erop te wijzen dat dit niet bijster handig is, zeker niet als ik het probeer te vertellen in de podcast. Zo kunnen mensen zich vergissen tussen het mintekentje en de underscore, dat is het liggende streepje en als mensen mijn verwijzingen voor de eerste keer horen, kan het zijn dat ze niet weten hoe je het woord ‘podcast’ schrijft.
 
-In ieder geval heb ik het nu aanzienlijk vereenvoudigd. Om problemen te voorkomen als ik naar een eerdere podcast verwijs, kun je gewoon het nummer van de podcast achter de URL van de website typen. Dus als je bijvoorbeeld naar podcast 9 terug wilt, dan surf je in het vervolg dus simpelweg naar [www.reputatiecoaching.nl/9](https://www.reputatiecoaching.nl/9). Inmiddels geldt dit voor alle eerdere podcasts! En ook kun je de eerdere websites nog blijven benaderen via de URLs, die ik eerst altijd in de podcast noemde. Dat maakt het volgens mij dus wel heel eenvoudig! Dankjewel Bert, voor deze tip!
+In ieder geval heb ik het nu aanzienlijk vereenvoudigd. Om problemen te voorkomen als ik naar een eerdere podcast verwijs, kun je gewoon het nummer van de podcast achter de URL van de website typen. Dus als je bijvoorbeeld naar podcast 9 terug wilt, dan surf je in het vervolg dus simpelweg naar [www.reputatiecoaching.nl/9](https://web.archive.org/web/20190718122217/https://www.reputatiecoaching.nl/9/). Inmiddels geldt dit voor alle eerdere podcasts! En ook kun je de eerdere websites nog blijven benaderen via de URLs, die ik eerst altijd in de podcast noemde. Dat maakt het volgens mij dus wel heel eenvoudig! Dankjewel Bert, voor deze tip!
 
 Zoals voor zoveel functionele uitbreidingen, is er voor deze functionaliteit ook een plugin voor WordPress beschikbaar. Ik heb dus helemaal geen moeilijke trucs hoeven uit te halen, om ervoor te zorgen dat zowel de nieuwe URLs goed werken en de oude URLs het ook nog blijven doen.
 
-De plugin die ik hiervoor heb geïnstalleerd is de plugin met de naam “[Redirection](http://urbangiraffe.com/plugins/redirection/)”. De link naar deze plugin vind je zoals altijd in de show notes, die je kunt vinden op [www.reputatiecoaching.nl/25](https://www.reputatiecoaching.nl/25). Nadat je de plugin hebt geïnstalleerd, kun je de URL of beter gezegd “de permalink” van een blogpost aanpassen met een nieuwe naam, waarna de plugin er via allerlei technische trucjes op de achtergrond voor zorgt dat alles gewoon blijft werken.
+De plugin die ik hiervoor heb geïnstalleerd is de plugin met de naam “[Redirection](http://urbangiraffe.com/plugins/redirection/)”. De link naar deze plugin vind je zoals altijd in de show notes, die je kunt vinden op [www.reputatiecoaching.nl/25](https://web.archive.org/web/20150312092734/http://www.reputatiecoaching.nl/25/). Nadat je de plugin hebt geïnstalleerd, kun je de URL of beter gezegd “de permalink” van een blogpost aanpassen met een nieuwe naam, waarna de plugin er via allerlei technische trucjes op de achtergrond voor zorgt dat alles gewoon blijft werken.
 
 Zo heb ik dus alle eerdere podcasts hernoemd en heb ik bijvoorbeeld “podcast-24” veranderd in “24”. Natuurlijk heb ik het eerst met één pagina geprobeerd, om te zien of alles wel bleef werken. En toen alles goed bleef werken, heb ik de overige permalinks aangepast.
 
@@ -69,7 +70,7 @@ Deze dienst is overigens niet alleen beschikbaar voor WordPress, maar ook voor B
 
 Van een andere luisteraar van de podcast, Arend Landman, kreeg ik de tip om de podcasts ook op YouTube aan te bieden. Arend is namelijk een specialist op het gebied van contentmarketing en volgens hem ik stel zo meer mensen in staat om de podcast te kunnen vinden en ernaar te luisteren.
 
-Daarmee kom ik op het laatste nieuwtje wat ik je over ReputatieCoaching wil melden. Ik heb inmiddels podcast 1 tot en met 4 ook op YouTube geplaatst. Daar bied ik de podcasts aan via een aparte playlist. Om deze te bekijken, surf je naar [www.reputatiecoaching.nl/podcasts](https://www.reputatiecoaching.nl/podcasts) (dus met een “s” aan het eind). Dan wordt je automatisch naar de playlist op YouTube geleid, waar je naar de podcasts kunt luisteren. Om ze iets op te leuken, heb ik bij iedere podcast een paar slides gestopt. De gesproken content is in ieder geval precies hetzelfde als de audio-versies en de komende tijd ga ik de overige podcasts ook extra op YouTube publiceren.
+Daarmee kom ik op het laatste nieuwtje wat ik je over ReputatieCoaching wil melden. Ik heb inmiddels podcast 1 tot en met 4 ook op YouTube geplaatst. Daar bied ik de podcasts aan via een aparte playlist. Om deze te bekijken, surf je naar [www.reputatiecoaching.nl/podcasts](https://web.archive.org/web/20130505121913/http://www.reputatiecoaching.nl:80/podcasts/) (dus met een “s” aan het eind). Dan wordt je automatisch naar de playlist op YouTube geleid, waar je naar de podcasts kunt luisteren. Om ze iets op te leuken, heb ik bij iedere podcast een paar slides gestopt. De gesproken content is in ieder geval precies hetzelfde als de audio-versies en de komende tijd ga ik de overige podcasts ook extra op YouTube publiceren.
 
 Je hoeft je geen zorgen te maken, als je de podcast via de website beluistert, of via je smartphone. Alles blijft hetzelfde; ik heb alleen YouTube als extra kanaal toegevoegd.
 
@@ -89,9 +90,9 @@ Letterlijk zegt hij daar:
 
 > We are doing a doing a better job of detecting when someone is sort of an authority in a specific space. It could be medical, it could be travel, whatever. And trying to make sure that those rank a little more highly, if you are some sort of authority or a site that according to the algorithms we think might be a little bit more appropriate for users.
 
-Let wel: hij zegt hiermee niets over Google Authorship, maar als Google Authorship op dit moment nog niet echt wordt gebruikt in het bepalen van de zoekresultaten, dan kun je op basis van deze informatie verwachten dat dit ook binnen afzienbare tijd zal komen. Reden temeer om nu toch echt jezelf aan te melden bij Google+ en [Google Authorship in te stellen](https://www.reputatiecoaching.nl/wiki/google-authorship/) voor jouw site of websites.
+Let wel: hij zegt hiermee niets over Google Authorship, maar als Google Authorship op dit moment nog niet echt wordt gebruikt in het bepalen van de zoekresultaten, dan kun je op basis van deze informatie verwachten dat dit ook binnen afzienbare tijd zal komen. Reden temeer om nu toch echt jezelf aan te melden bij Google+ en Google Authorship in te stellen voor jouw site of websites.
 
-Als je je dan toch hebt aangemeld voor Google+ ga dan ook even naar [www.reputatiecoaching.nl/gplus](https://www.reputatiecoaching.nl/gplus) en voeg ons toe aan je kringen. Vergeet dan ook niet om meteen een “+1” te geven!
+Als je je dan toch hebt aangemeld voor Google+ ga dan ook even naar www.reputatiecoaching.nl/gplus en voeg ons toe aan je kringen. Vergeet dan ook niet om meteen een “+1” te geven!
 
 ## Google+ is veranderd
 
@@ -119,7 +120,7 @@ Wat misschien nog even goed is om te weten voor degenen die ook hun foto’s via
 
 ## Nieuwe Google Maps komt eraan
 
-In [podcast 24](https://www.reputatiecoaching.nl/24/) meldde ik al dat werd verwacht dat Google tijdens de I/O 2013 een aantal veranderingen in Google Maps zou doorvoeren. Nou inderdaad, ze hebben een groot aantal veranderingen doorgevoerd. De nieuwste versie van Google Maps is nog niet online beschikbaar en je moet je aanmelden, als je er graag zo spoedig mogelijk gebruik van wilt maken. Natuurlijk heb ik me meteen aangemeld, dus ik hoop dat ik binnenkort een aantal eigen ervaringen kan delen.
+In [podcast 24](https://web.archive.org/web/20150312092717/http://www.reputatiecoaching.nl/24/) meldde ik al dat werd verwacht dat Google tijdens de I/O 2013 een aantal veranderingen in Google Maps zou doorvoeren. Nou inderdaad, ze hebben een groot aantal veranderingen doorgevoerd. De nieuwste versie van Google Maps is nog niet online beschikbaar en je moet je aanmelden, als je er graag zo spoedig mogelijk gebruik van wilt maken. Natuurlijk heb ik me meteen aangemeld, dus ik hoop dat ik binnenkort een aantal eigen ervaringen kan delen.
 
 Google heeft op haar website een promotievideo van de nieuwe Google Maps gepubliceerd. Deze video heb ik in de transcriptie opgenomen.
 
@@ -183,7 +184,7 @@ Hij ging zelfs zover ons uit te nodigen om op de kosten van het restaurant nogma
 
 Ik heb inmiddels de reviews verwijderd, omdat we hebben besloten binnenkort van dit aanbod gebruik te maken. Ik gun iedereen en elk bedrijf een tweede kans en stel ze graag in de gelegenheid om mijn mening te herzien.
 
-Wat kunnen we hiervan leren?? Zoals we in [podcast 18](https://www.reputatiecoaching.nl/18/) ook nog eens van [Gé Bouma](http://www.bouma-webteksten.nl) hebben kunnen horen, is het essentieel om in de gaten te houden wat er in de media over je wordt gezegd en geschreven. En als je dan ook nog eens meteen reageert en je excuses aanbiedt, valt de schade vaak nog te herstellen en kun je een slechte ervaring ombuigen in een goede ervaring.
+Wat kunnen we hiervan leren?? Zoals we in [podcast 18](https://web.archive.org/web/20150312092549/http://www.reputatiecoaching.nl/18/) ook nog eens van [Gé Bouma](https://web.archive.org/web/20130604080401/http://www.bouma-webteksten.nl:80/) hebben kunnen horen, is het essentieel om in de gaten te houden wat er in de media over je wordt gezegd en geschreven. En als je dan ook nog eens meteen reageert en je excuses aanbiedt, valt de schade vaak nog te herstellen en kun je een slechte ervaring ombuigen in een goede ervaring.
 
 Dat besefte de bedrijfsleider van dit restaurant ook en hij heeft precies het enige gedaan wat goed was: de confrontatie opzoeken en luisteren naar het probleem. Door vervolgens aan te bieden om nogmaals een keer te komen eten, heeft hij mijn negatieve ervaring weten om te buigen tot een neutrale (op dit moment) en hopelijk een positieve, als we er nogmaals hebben gegeten. Want ik heb ook gezegd dat ik een fair iemand ben: ik zeg als ik het slecht vind, maar ik laat het ook overal weten, als ik een goede ervaring heb gehad.
 
