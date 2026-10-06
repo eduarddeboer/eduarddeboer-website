@@ -3,6 +3,7 @@ title: '49: RSS-probleem nog niet weg, vanity URL''s op Google+, Google+ vernieu
 date: '2013-11-04T06:30:02+00:00'
 description: 'Wat ik als eerste even leuk vind om te vertellen, is dat deze week een interview met mij online komt, op de het weblog van places.nl. In het interview beantwoord ik een aantal vragen over fotografie en het toenemende belang van goede foto’s (en bedrijfspanorama’s) in deze tijd. Tevens licht ik daarin toe, wat de gevolgen zijn als de Google Carrousel binnenkort naar Nederland komt. Dan… Voor het geval je je afvraagt of het probleem met de RSS-feed van de podcast is opgelost: ja, ten dele.'
 episode: 49
+kgRef: podcast_episode/reputatiecoaching_049
 historical: true
 archivePeriod: 2012–2016
 transcriptStatus: full
@@ -32,7 +33,7 @@ Zo’n anderhalve week geleden kreeg ik overigens weer een backlink request; een
 
 Yelp heeft een enorm succesvol derde kwartaal gedraaid.
 
-Al deze onderwerpen (en meer) komen in deze podcast aan bod. Als je de transcriptie van deze podcast op je gemak wilt nalezen, dan kan dat op: [www.reputatiecoaching.nl/49/](https://www.reputatiecoaching.nl/49/).
+Al deze onderwerpen (en meer) komen in deze podcast aan bod. Als je de transcriptie van deze podcast op je gemak wilt nalezen, dan kan dat op: [www.reputatiecoaching.nl/49/](https://web.archive.org/web/20131205070216/http://www.reputatiecoaching.nl/49/).
 
 ## RSS-feed problemen nog niet helemaal opgelost
 
@@ -52,9 +53,9 @@ To be continued…
 
 ## Ik heb nu ook vanity URL’s op Google+!
 
-[*Historische afbeelding niet beschikbaar: Google+*](https://www.reputatiecoaching.nl/wp-content/uploads/2013/10/Google_Plus_icon-e1382615817226.png)In [podcast 46](https://www.reputatiecoaching.nl/46/) vertelde ik je over de vanity URL’s op Google+ en dat er meer en meer leken op te duiken. Nu, sinds afgelopen week kan vrijwel iedereen zijn of haar eigen vanity URL op Google+ krijgen. Ik kreeg namelijk afgelopen dinsdagnacht een mailtje van Google+, dat mijn Google+ account er ook voor in aanmerking kwam. Daar liet ik geen gras over groeien en heb ik natuurlijk meteen gerealiseerd.
+[*Historische afbeelding niet beschikbaar: Google+*](https://web.archive.org/web/20131129191921/http://www.reputatiecoaching.nl/wp-content/uploads/2013/10/Google_Plus_icon-e1382615817226.png)In [podcast 46](https://web.archive.org/web/20131026100159/http://www.reputatiecoaching.nl:80/46/) vertelde ik je over de vanity URL’s op Google+ en dat er meer en meer leken op te duiken. Nu, sinds afgelopen week kan vrijwel iedereen zijn of haar eigen vanity URL op Google+ krijgen. Ik kreeg namelijk afgelopen dinsdagnacht een mailtje van Google+, dat mijn Google+ account er ook voor in aanmerking kwam. Daar liet ik geen gras over groeien en heb ik natuurlijk meteen gerealiseerd.
 
-Het proces kon natuurlijk maar één keer doorlopen worden, dus heb ik er ook een screencast van gemaakt. Deze screencast kun je bekijken in het artikel: “[Google+ vanity URL claimen](https://www.reputatiecoaching.nl/google-vanity-url-claimen/)”, wat ik na afloop meteen heb gepost.
+Het proces kon natuurlijk maar één keer doorlopen worden, dus heb ik er ook een screencast van gemaakt. Deze screencast kun je bekijken in het artikel: “[Google+ vanity URL claimen](https://web.archive.org/web/20131204122457/http://www.reputatiecoaching.nl/google-vanity-url-claimen/)”, wat ik na afloop meteen heb gepost.
 
 Inmiddels is mijn vanity URL: <http://google.com/+EduarddeBoer>.
 
@@ -111,11 +112,11 @@ En er is ook een groot aantal uitbreidingen voor Google+ foto’s:
 
 Van dit laatste heb ik een voorbeeldvideo op Internet gevonden. Deze feature komt erop neer dat je gewoon foto’s blijft maken en video’s blijft opnemen en die uploadt naar Google+. Wat Google+ dan doet, is er een mooie korte videofilm van maken, compleet met effecten, overgangen en muziek.
 
-Je kunt de demovideo bekijken in de show notes, op [www.reputatiecoaching.nl/49](https://www.reputatiecoaching.nl/49/):
+Je kunt de demovideo bekijken in de show notes, op [www.reputatiecoaching.nl/49](https://web.archive.org/web/20131205070216/http://www.reputatiecoaching.nl/49/):
 
 ## Lokale zoekresultaten worden weer vertoond, zoals eerst
 
-Een goede anderhalve week geleden vertelde ik je dat [Google blijft experimenteren met layout en weergave etc.](https://www.reputatiecoaching.nl/google-blijft-experimenteren-met-layout-en-weergave/). Toen, op 25 oktober waren de lokale resultaten opeens veranderd: ze werden een stuk kleiner weergegeven.
+Een goede anderhalve week geleden vertelde ik je dat [Google blijft experimenteren met layout en weergave etc.](https://web.archive.org/web/20131203140137/http://www.reputatiecoaching.nl/google-blijft-experimenteren-met-layout-en-weergave/). Toen, op 25 oktober waren de lokale resultaten opeens veranderd: ze werden een stuk kleiner weergegeven.
 
 Google heeft wel eens gezegd dat ze meer dan 500 experimenten per jaar uitvoeren in, met of op de zoekmachine… Die verkleinde weergave waar ik het toen over had beviel waarschijnlijk niet zo goed, want nu worden de lokale zoekresultaten weer net zo weergegeven, als vóór die wijziging, dus in de originele grootte.
 
@@ -127,7 +128,7 @@ Google heeft namelijk de weergave van de lokale resultaten weer losgekoppeld van
 
 In de show notes heb ik een voorbeeld opgenomen voor de zoekterm “tandarts apeldoorn”. Voorheen werd tandarts Wijsman en Koster Tandartsen als één weergegeven bij de “A” in het overzicht met de lokale resultaten.
 
-[*Historische afbeelding niet beschikbaar: 20131103-pin-results*](https://www.reputatiecoaching.nl/wp-content/uploads/2013/11/20131103-pin-results.png)
+[*Historische afbeelding niet beschikbaar: 20131103-pin-results*](https://web.archive.org/web/20131129182156/http://www.reputatiecoaching.nl/wp-content/uploads/2013/11/20131103-pin-results.png)
 
 Dit was mij nog niet eerder zo opgevallen, want ik vond in mijn mailwisseling ook een screenshot terug van 25 oktober, waar dit ook al het geval was. Maar het is natuurlijk sowieso goed nieuws, dat je nu gratis een extra vermelding op de voorpagina kunt krijgen, als je pagina goed scoort in zowel de organische als de lokale zoekresultaten.
 
@@ -139,7 +140,7 @@ In het verleden toonde Google wel eens het servicegebied, maar lange tijd is het
 
 In de show notes heb ik hiervan een plaatje opgenomen:
 
-[*Historische afbeelding niet beschikbaar: 20131103-servicegebied-local*](https://www.reputatiecoaching.nl/wp-content/uploads/2013/11/20131103-servicegebied-local.png)
+[*Historische afbeelding niet beschikbaar: 20131103-servicegebied-local*](https://web.archive.org/web/20131129191841/http://www.reputatiecoaching.nl/wp-content/uploads/2013/11/20131103-servicegebied-local.png)
 
 ## WordPress 3.7.1 update
 
@@ -195,7 +196,7 @@ Ik heb op die mail geantwoord dat dit echt niet meer van deze tijd is en bovendi
 
 De website [www.maximumexposure.nl](http://www.maximumexposure.nl) is erg karig in het verschaffen van informatie. Het enige wat er is, is wat tekst op de voorpagina en een contactpagina, met hetzelfde mobiele nummer, dat ook in de mail stond, die ik van Susan van Leeuwen ontving.
 
-Dit alles triggerde mijn nieuwsgierigheid en dus ben ik eens iets verder gaan zoeken naar het bedrijf achter maximumexposure.nl. Dat begon met het bekijken van de domeinnaamregistratie, net zoals ik een tijdje geleden heb gedaan bij de fraude door “[Corpus Justitia](http://www.corpusjustitia.nl)”. Je kunt daar zo vaak interessante dingen uit afleiden en zo ook hier…
+Dit alles triggerde mijn nieuwsgierigheid en dus ben ik eens iets verder gaan zoeken naar het bedrijf achter maximumexposure.nl. Dat begon met het bekijken van de domeinnaamregistratie, net zoals ik een tijdje geleden heb gedaan bij de fraude door “[Corpus Justitia](https://web.archive.org/web/20131103003350/http://www.corpusjustitia.nl/)”. Je kunt daar zo vaak interessante dingen uit afleiden en zo ook hier…
 
 Het blijkt dat de domeinnaam pas op 20 oktober 2013 is geregistreerd op naam van een zekere “Ronald Seip”. Deze persoon heeft een Gmail-adres, waar natuurlijk niets mis mee is. Maar noch op de naam of op het e-mail adres vond ik in Google zinnige Nederlandstalige resultaten. Op LinkedIn was er slechts 1 Ron Seip te vinden in Nederland, met een leeg profiel en slechts 1 connectie.
 
@@ -229,7 +230,7 @@ Moraal van dit verhaal is om niet meer mee te gaan met allerlei linkaanvragen, w
 
 ## Succesvol derde kwartaal voor Yelp
 
-[*Historische afbeelding niet beschikbaar: Logo Yelp*](https://www.reputatiecoaching.nl/wp-content/uploads/2013/04/yelp-logo.png)Er was een tijdje niet echt veel te melden over Yelp. Maar dit bedrijf gaat enigszins in de achtergrond gewoon door met groeien. In haar kwartaalverslag over het derde kwartaal van 2013 deelt Yelp mee dat zij vergeleken met het derde kwartaal in 2012 een winst heeft behaald die maar liefst 68% hoger ligt dan een jaar geleden.
+[*Historische afbeelding niet beschikbaar: Logo Yelp*](https://web.archive.org/web/20131129182129/http://www.reputatiecoaching.nl/wp-content/uploads/2013/04/yelp-logo.png)Er was een tijdje niet echt veel te melden over Yelp. Maar dit bedrijf gaat enigszins in de achtergrond gewoon door met groeien. In haar kwartaalverslag over het derde kwartaal van 2013 deelt Yelp mee dat zij vergeleken met het derde kwartaal in 2012 een winst heeft behaald die maar liefst 68% hoger ligt dan een jaar geleden.
 
 Sinds vorig jaar is het aantal reviews met 42% gestegen tot 47,3 miljoen en het aantal unieke bezoekers per maand groeide 41% naar 117 miljoen. Het aantal business accounts is gegroeid tot 57.200; een groei van 61%.
 
@@ -247,15 +248,15 @@ Afgelopen week kwam ik op SweetIQ een leuke en bovenal nuttige infographic tegen
 
 Ik ga de infographic niet helemaal voorlezen, maar er staan zeker nuttige tips in, zowel als je al wat langer Pinterest gebruikt, of als je het nog overweegt te gaan gebruiken.
 
-[*Historische afbeelding niet beschikbaar: 9-ways-for-brands-to-be-successful-on-pinterest-infographic*](https://www.reputatiecoaching.nl/wp-content/uploads/2013/11/9-ways-for-brands-to-be-successful-on-pinterest-infographic.jpg)
+[*Historische afbeelding niet beschikbaar: 9-ways-for-brands-to-be-successful-on-pinterest-infographic*](https://web.archive.org/web/20131129182119/http://www.reputatiecoaching.nl/wp-content/uploads/2013/11/9-ways-for-brands-to-be-successful-on-pinterest-infographic.jpg)
 
 Als je de podcast leuk vindt en je hebt inderdaad wat aan alle informatie die ik met je deel, help mij dan met het verder verbeteren en promoten van deze podcast. Deel ‘m op Twitter, like ‘m op Facebook of geef een “+1” op Google+. Het zou helemaal super zijn, als je een bericht achterlaat op iTunes of LinkedIn.
 
 Als je een vraag of een probleem hebt met betrekking tot je online reputatie of de vindbaarheid van je website, kun je een mailtje sturen naar [podcast@reputatiecoaching.nl](mailto:podcast@reputatiecoaching.nl). Als je dat te lastig vindt, of als je de podcast beluistert terwijl je in de auto zit en je hebt acuut een vraag, spreek dan een boodschap in op de ReputatieCoaching Hotline, op nummer: 084 - 883 15 56. Mogelijk behandel ik je vraag of probleem dan in een artikel of in de podcast.
 
-Als laatste kun je je ook inschrijven voor de nieuwsbrief. Dan ontvang je altijd als eerste het laatste nieuws wat ik publiceer en automatisch elk kwartaal het ReputatieCoaching Podcast Boek van het afgelopen kwartaal. Surf daartoe naar [www.reputatiecoaching.nl/nieuwsbrief/](https://www.reputatiecoaching.nl/nieuwsbrief/) en schrijf je meteen in.
+Als laatste kun je je ook inschrijven voor de nieuwsbrief. Dan ontvang je altijd als eerste het laatste nieuws wat ik publiceer en automatisch elk kwartaal het ReputatieCoaching Podcast Boek van het afgelopen kwartaal. Surf daartoe naar [www.reputatiecoaching.nl/nieuwsbrief/](https://web.archive.org/web/20131205063155/http://www.reputatiecoaching.nl/nieuwsbrief/) en schrijf je meteen in.
 
-En je kunt ook rechtstreeks op de website een voicemail achterlaten, door op de tab aan de rechterkant van elke pagina te klikken, en je bericht in te spreken. Dit was [ReputatieCoaching Podcast aflevering 49](https://www.reputatiecoaching.nl/49/) en mijn naam is [Eduard de Boer](http://nl.linkedin.com/in/eduarddeboer/nl).
+En je kunt ook rechtstreeks op de website een voicemail achterlaten, door op de tab aan de rechterkant van elke pagina te klikken, en je bericht in te spreken. Dit was [ReputatieCoaching Podcast aflevering 49](https://web.archive.org/web/20131205070216/http://www.reputatiecoaching.nl/49/) en mijn naam is [Eduard de Boer](http://nl.linkedin.com/in/eduarddeboer/nl).
 
 Ik wens je de komende week weer succes met het werken aan je reputatie, zodat je meteen je reputatie voor jou kunt laten werken!
 
