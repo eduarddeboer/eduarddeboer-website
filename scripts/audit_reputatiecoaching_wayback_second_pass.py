@@ -252,8 +252,7 @@ def main():
     old_path, old_slug, old_title = ({}, defaultdict(list), defaultdict(list))
     if args.old_repo and Path(args.old_repo).exists():
         old_path, old_slug, old_title=parse_old_repo(Path(args.old_repo))
-    results=[]
-    for idx,(url,items) in enumerate(sorted(by_url.items()),1):
+    def audit_one(url,items):
         p=urlsplit(url)
         extra=[]
         evidence=[]
@@ -297,7 +296,7 @@ def main():
                 confidence="high_repo_supported"
             else:
                 confidence="medium_variant"
-        results.append({
+        return {
             "original_url":url,
             "kind":items[0]["kind"],
             "occurrences":len(items),
@@ -306,8 +305,17 @@ def main():
             "old_repo_evidence":evidence,
             "result":hit,
             "confidence":confidence,
-        })
-        print(f"{idx}/{len(by_url)} {confidence} {url}",flush=True)
+        }
+
+    results=[]
+    entries=sorted(by_url.items())
+    with ThreadPoolExecutor(max_workers=4) as pool:
+        futures={pool.submit(audit_one,url,items):url for url,items in entries}
+        for idx,future in enumerate(as_completed(futures),1):
+            result=future.result()
+            results.append(result)
+            print(f"{idx}/{len(entries)} {result['confidence']} {result['original_url']}",flush=True)
+    results.sort(key=lambda r:r["original_url"])
 
     high=[r for r in results if r["confidence"].startswith("high_")]
     medium=[r for r in results if r["confidence"].startswith("medium_")]
