@@ -3,6 +3,7 @@ title: '76: Weer eens over Google+ vanity URLs. DuckDuckGo vernieuwd: nu ook lok
 date: '2014-05-12T06:30:52+00:00'
 description: Vandaag kom ik nog even terug op podcast 75 van vorige week en dan met name op de Lidl. Verder heb ik twee vragen ontvangen van Frank uit Nijmegen, waarvan ik er eentje in deze podcast behandel. Ook laat ik je zien dat het mogelijk is om ergens je zakelijke profiel voor 101% te vullen. DuckDuckGo werkt op dit moment aan vernieuwing en uitbreiding van de mogelijkheden met foto- en videosearch en lokale resultaten in een carrousel.
 episode: 76
+kgRef: podcast_episode/reputatiecoaching_076
 historical: true
 archivePeriod: 2012–2016
 transcriptStatus: full
@@ -22,7 +23,7 @@ showTaxonomies: false
 **Transcriptiestatus:** Volledige transcriptie uit het oorspronkelijke archief.
 
 *Historische afbeelding niet beschikbaar: ReputatieCoaching Podcast*
-**Vandaag kom ik nog even terug op [podcast 75](https://www.reputatiecoaching.nl/75/) van vorige week en dan met name op de Lidl. Verder heb ik twee vragen ontvangen van Frank uit Nijmegen, waarvan ik er eentje in deze podcast behandel. Ook laat ik je zien dat het mogelijk is om ergens je zakelijke profiel voor 101% te vullen.**
+**Vandaag kom ik nog even terug op [podcast 75](https://web.archive.org/web/20150312094219/http://www.reputatiecoaching.nl/75/) van vorige week en dan met name op de Lidl. Verder heb ik twee vragen ontvangen van Frank uit Nijmegen, waarvan ik er eentje in deze podcast behandel. Ook laat ik je zien dat het mogelijk is om ergens je zakelijke profiel voor 101% te vullen.**
 
 **DuckDuckGo werkt op dit moment aan vernieuwing en uitbreiding van de mogelijkheden met foto- en videosearch en lokale resultaten in een carrousel. Zometeen vertel ik je waar je de beta al kunt testen. Chrome is overigens inmiddels populairder dan Firefox en Akismet heeft mij al voor tienduizenden spamreacties behoed.**
 
@@ -32,7 +33,7 @@ Hallo en hartelijk welkom bij deze aflevering van de ReputatieCoaching Podcast. 
 
 Als persoon kun je met de diverse tips aan de slag om bijvoorbeeld je online reputatie als garnalenpeller, wachtcommandant, sigarenmaker, snackbarhouder, leeuwentemmer of wat dan ook te verbeteren.
 
-Alles over deze podcast kun je vinden op [www.reputatiecoaching.nl/76](https://www.reputatiecoaching.nl/76/). Daar vind je niet alleen de tekst, maar ook video’s waar ik het in deze uitzending over heb, alsmede afbeeldingen, links enzovoorts. Bovendien is de podcast te beluisteren via [iTunes](https://www.reputatiecoaching.nl/itunes) en [Stitcher](https://www.reputatiecoaching.nl/stitcher). Daar kun je je dus ook abonneren op de wekelijkse podcast. Veel mensen vinden het ideaal om de wekelijkse afleveringen van de podcast op hun gemak te beluisteren, terwijl ze autorijden, fietsen of joggen…
+Alles over deze podcast kun je vinden op [www.reputatiecoaching.nl/76](https://web.archive.org/web/20140622012913/http://www.reputatiecoaching.nl:80/76/). Daar vind je niet alleen de tekst, maar ook video’s waar ik het in deze uitzending over heb, alsmede afbeeldingen, links enzovoorts. Bovendien is de podcast te beluisteren via iTunes en Stitcher. Daar kun je je dus ook abonneren op de wekelijkse podcast. Veel mensen vinden het ideaal om de wekelijkse afleveringen van de podcast op hun gemak te beluisteren, terwijl ze autorijden, fietsen of joggen…
 
 Eerst even een leuk nieuwtje: ik heb een nieuw record gevestigd voor wat betreft het aantal downloads op één dag. Afgelopen dinsdag, 6 mei is het record van 27 november vorig jaar verbroken. Toen had ik op één dag 61 downloads. Maar vorige week dinsdag had ik er 83! Dat is dus op één dag een additionele stijging van maar liefst 22, ofwel 36%.
 
@@ -42,7 +43,7 @@ Het blijkt dat die dag vrijwel alle podcasts die ik ooit heb gemaakt, zijn belui
 
 ## Terugblik podcast 75
 
-Vorige week vertelde ik in [podcast 75](https://www.reputatiecoaching.nl/75/) dat Lidl de populairste winkelketen op Facebook is. Het leuke was, dat ik meteen de volgende dag een tweet van Wiebe Govers kreeg; hij is een social media specialist bij Lidl Nederland. Ik weet niet of hij dé social media specialist is, maar dat maakt ook niet uit. Hij stuurde mij in elk geval de volgende tweet:
+Vorige week vertelde ik in [podcast 75](https://web.archive.org/web/20150312094219/http://www.reputatiecoaching.nl/75/) dat Lidl de populairste winkelketen op Facebook is. Het leuke was, dat ik meteen de volgende dag een tweet van Wiebe Govers kreeg; hij is een social media specialist bij Lidl Nederland. Ik weet niet of hij dé social media specialist is, maar dat maakt ook niet uit. Hij stuurde mij in elk geval de volgende tweet:
 
 [![Tweet van Wiebe Govers; social media specialist van Lidl](20140506-Tweet-Wiebe-Govers.png)](https://lh5.googleusercontent.com/-WJRH_MZmRtc/U2_sCWs-DvI/AAAAAAAAAxM/s0xAUVgYbk0/w304-h99-no/20140506-Tweet-Wiebe-Govers.png)
 
@@ -89,7 +90,7 @@ Groetjes,
 
 Frank Grootaarts
 
-Ja Frank, dankje voor je inzending en ik vind het inderdaad een goede topic voor de podcast. En natuurlijk komt de transcriptie hiervan weer op de site in de vorm van een blogartikel. De volledige tekst van deze podcast kun je vinden op: [www.reputatiecoaching.nl/76](https://www.reputatiecoaching.nl/76/).
+Ja Frank, dankje voor je inzending en ik vind het inderdaad een goede topic voor de podcast. En natuurlijk komt de transcriptie hiervan weer op de site in de vorm van een blogartikel. De volledige tekst van deze podcast kun je vinden op: [www.reputatiecoaching.nl/76](https://web.archive.org/web/20140622012913/http://www.reputatiecoaching.nl:80/76/).
 
 Hoe zit dat nu met vanity URLs op Google+? Allereerst vind ik het heel goed van Frank, dat hij niet koste wat het kost de vanity URL heeft geclaimd, op het moment dat Google die voorstelde. Want inderdaad, die kun je naderhand echt niet meer wijzigen!
 
@@ -132,7 +133,7 @@ Op dat moment kun je gaan kijken wat Google voorstelt als vanity URL. Nogmaals, 
 
 Mocht jij deze exercitie in willen gaan, neem dan gerust contact op, als je er graag hulp bij hebt. Want ik ben hier om je te helpen en het zou tenslotte erg jammer zijn als je ergens in het proces een foutje maakt.
 
-Zo, dat was een heel stuk over de vanity URLs in Google+. Als jij een vraag, tip of suggestie hebt ten aanzien van Google+, dan kun je die gerust stellen onderaan de show notes op [www.reputatiecoaching.nl/76](https://www.reputatiecoaching.nl/76/).
+Zo, dat was een heel stuk over de vanity URLs in Google+. Als jij een vraag, tip of suggestie hebt ten aanzien van Google+, dan kun je die gerust stellen onderaan de show notes op [www.reputatiecoaching.nl/76](https://web.archive.org/web/20140622012913/http://www.reputatiecoaching.nl:80/76/).
 
 ## DuckDuckGo vernieuwt met foto- en videosearch en lokale resultaten in carrousel
 
@@ -160,7 +161,7 @@ Ik zal het je melden, zodra de nieuwe versie van DuckDuckGo live te zien is op d
 
 ## Chrome populairder dan Firefox
 
-Waar Chrome toeneemt in populariteit, gaat dit ten koste van Firefox. Dat blijkt uit [onderzoek van het Amerikaanse bedrijf “Net Applications”](http://www.cnet.com/news/google-chrome-continues-to-outpace-firefox/) waarover ik las op CNET:
+Waar Chrome toeneemt in populariteit, gaat dit ten koste van Firefox. Dat blijkt uit [onderzoek van het Amerikaanse bedrijf “Net Applications”](https://web.archive.org/web/20140506224937/http://www.cnet.com:80/news/google-chrome-continues-to-outpace-firefox/) waarover ik las op CNET:
 
 [[Historische afbeelding: Populariteit van browsers per maart/april 2014](https://lh3.googleusercontent.com/8hx7BhmwYMqaGPfe0fMXzvgT1rltKlCfiljT9pO6V3s=w688-h205-p-no)](https://lh3.googleusercontent.com/8hx7BhmwYMqaGPfe0fMXzvgT1rltKlCfiljT9pO6V3s=w688-h205-p-no)
 
@@ -168,11 +169,11 @@ Het gebruik van Chrome groeide in van 17,5% in maart naar 17,9% in april. En in 
 
 ## Kwaliteit van de audio van de podcast
 
-En dan eens wat anders… Ik vertelde je in [podcast 74](https://www.reputatiecoaching.nl/74/) dat ik een nieuw mengpaneel heb aangeschaft. Dus de afgelopen twee podcasts zijn uitgebracht met de nieuwe apparatuur. Waar ik nu benieuwd naar ben, is of jij vindt dat het geluid beter is geworden, of slechter.
+En dan eens wat anders… Ik vertelde je in [podcast 74](https://web.archive.org/web/20150312094201/http://www.reputatiecoaching.nl/74/) dat ik een nieuw mengpaneel heb aangeschaft. Dus de afgelopen twee podcasts zijn uitgebracht met de nieuwe apparatuur. Waar ik nu benieuwd naar ben, is of jij vindt dat het geluid beter is geworden, of slechter.
 
 Want ik kan natuurlijk wel iets vinden, maar het gaat om de luisteraars… Dus ook om jou! Dus om wat jij ervan vindt!
 
-Laat het me weten en post een reactie onderaan de show notes, op [www.reputatiecoaching.nl/76](https://www.reputatiecoaching.nl/76/). Heb je verder nog tips, vragen of ideëen, dan mag je die daar ook gerust posten. Jouw bericht zal ongetwijfeld door het spamfilter komen.
+Laat het me weten en post een reactie onderaan de show notes, op [www.reputatiecoaching.nl/76](https://web.archive.org/web/20140622012913/http://www.reputatiecoaching.nl:80/76/). Heb je verder nog tips, vragen of ideëen, dan mag je die daar ook gerust posten. Jouw bericht zal ongetwijfeld door het spamfilter komen.
 
 ## Akismet werkt nog steeds goed als spamfilter
 
@@ -208,7 +209,7 @@ Hij spreekt aan het einde van de video de verwachting uit dat Google de komende 
 
 Google haar hoogste doel is om je de voor jou relevante content aan te bieden, nog vóórdat je de vraag hebt uitgesproken. Dat roept het bedrijf al jaren. Sceptici onder ons dachten eerst dat dit moment nooit zou komen, omdat je geen telepatisch algoritme kunt ontwikkelen, dat in de hoofden van de mensen kruipt en zo de gedachten leest, voordat ze concreet worden gecommuniceerd.
 
-Maar daar lijkt nu verandering in te komen. Ik heb het in het verleden ook al eens gehad over Google Now. Zo vertelde ik in [podcast 23](https://www.reputatiecoaching.nl/23/) op 5 mei 2013 dat Google Now al enigszins voorspellingen ging doen. Toen waren het nog relatief simpele adviezen, zoals bijvoorbeeld reistijd naar locaties waar je vaker bent geweest, het weer op de locatie waar je bent, de koersen van aandelen die ooit in je mail hebben gestaan enzovoorts.
+Maar daar lijkt nu verandering in te komen. Ik heb het in het verleden ook al eens gehad over Google Now. Zo vertelde ik in [podcast 23](https://web.archive.org/web/20150312092701/http://www.reputatiecoaching.nl/23/) op 5 mei 2013 dat Google Now al enigszins voorspellingen ging doen. Toen waren het nog relatief simpele adviezen, zoals bijvoorbeeld reistijd naar locaties waar je vaker bent geweest, het weer op de locatie waar je bent, de koersen van aandelen die ooit in je mail hebben gestaan enzovoorts.
 
 Maar Google tilt het voorspellende karakter van de Google app op Android nu naar het volgende niveau. Als je ooit in het verleden naar een bepaald product hebt gezocht en je stapt een winkel binnen, waarvan Google weet dat het dat product verkoopt, dan krijg je automatisch een bericht in de vorm van een reminder, dat je daar ooit naar op zoek was.
 
@@ -250,7 +251,7 @@ Als je de podcast leuk vindt en je wilt nog meer op de hooge blijven, volg me da
 
 En help mij alsjeblieft met het verder verbeteren en promoten van deze podcast. Laten we zien of we het aantal downloads per dag naar de drie cijfers kunnen tillen.
 
-Surf naar [iTunes](https://www.reputatiecoaching.nl/itunes) of [Stitcher](https://www.reputatiecoaching.nl/stitcher), geef de podcast een sterrenbeoordeling en geef ook je reactie. Door de podcast te beoordelen op iTunes en/of Stitcher breng je de podcast namelijk onder de aandacht van een breder publiek.
+Surf naar iTunes of Stitcher, geef de podcast een sterrenbeoordeling en geef ook je reactie. Door de podcast te beoordelen op iTunes en/of Stitcher breng je de podcast namelijk onder de aandacht van een breder publiek.
 
 Beveel de podcast aan bij vrienden of collega’s, waarvan je denkt dat ze er hun voordeel mee kunnen doen, of door ’m te delen op Twitter, like’n en delen op Facebook of een “+1” te geven op Google+.
 
@@ -258,7 +259,7 @@ En vergeet niet: ik ben hier om je te helpen! Als je een vraag of een probleem h
 
 Als je dat te lastig vindt, of als je de podcast beluistert terwijl je in de auto zit en je hebt acuut een vraag, spreek dan een boodschap in op de ReputatieCoaching Hotline, op nummer: 084 - 883 15 56. Mogelijk behandel ik je vraag of probleem dan in een artikel of in de podcast.
 
-En je kunt ook rechtstreeks op de website een voicemail achterlaten, door op de tab aan de rechterkant van elke pagina te klikken, en je bericht in te spreken. Dit was [ReputatieCoaching Podcast aflevering 76](https://www.reputatiecoaching.nl/76/) en mijn naam is [Eduard de Boer](http://nl.linkedin.com/in/eduarddeboer/nl).
+En je kunt ook rechtstreeks op de website een voicemail achterlaten, door op de tab aan de rechterkant van elke pagina te klikken, en je bericht in te spreken. Dit was [ReputatieCoaching Podcast aflevering 76](https://web.archive.org/web/20140622012913/http://www.reputatiecoaching.nl:80/76/) en mijn naam is [Eduard de Boer](http://nl.linkedin.com/in/eduarddeboer/nl).
 
 Ik wens je de komende week weer succes met het werken aan je reputatie, zodat je meteen je reputatie voor jou kunt laten werken!
 
@@ -269,10 +270,10 @@ Doei!
 Links naar content die in deze podcast aan bod komt:
 
 ```
-  * [ReputatieCoaching Podcast in iTunes](https://www.reputatiecoaching.nl/itunes)
-  * [ReputatieCoaching Podcast op Stitcher](https://www.reputatiecoaching.nl/stitcher)
-  * [ReputatieCoaching Podcast RSS-feed](https://feeds.reputatiecoaching.nl/ReputatieCoachingPodcast)
+  * ReputatieCoaching Podcast in iTunes
+  * ReputatieCoaching Podcast op Stitcher
+  * [ReputatieCoaching Podcast RSS-feed](https://web.archive.org/web/20140803035048/http://feeds.reputatiecoaching.nl:80/ReputatieCoachingPodcast)
   * [Akismet](http://akismet.com)
-  * “[Google Chrome continues to outpace Firefox](http://www.cnet.com/news/google-chrome-continues-to-outpace-firefox/)” (CNET, 1 mei 2014)
+  * “[Google Chrome continues to outpace Firefox](https://web.archive.org/web/20140506224937/http://www.cnet.com:80/news/google-chrome-continues-to-outpace-firefox/)” (CNET, 1 mei 2014)
   * “[#SMC055 12 mei, Media en Social Media](http://smcapeldoorn.nl/index.php/69-smc055-12-mei-media-en-social-media)” (SMC Apeldoorn, 5 mei 2014)
 ```
