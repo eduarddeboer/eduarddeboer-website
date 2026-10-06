@@ -3,6 +3,7 @@ title: '146: Presentatie over SEA en Google Analytics door Sabine Roex van Hide 
 date: '2015-09-17T06:30:57+00:00'
 description: 'Afgelopen maandag was ik bij #SMC055, ofwel Social Media Club Apeldoorn. Het onderwerp van de avond luidde “Zoeken en gevonden worden: SEO en SEA”. Er waren twee sprekers. Sabine Roex beet het spits af en gaf de eerste presentatie. Sabine is medeoprichter van Hide and Seek. Voor Hide and Seek werkte Sabine twee jaar bij Google op het Europese hoofdkantoor in Dublin. Eerst in het New Business Development Team en daarna als Account Manager voor Google’s grootste Travel klanten in Nederland.'
 episode: 146
+kgRef: podcast_episode/reputatiecoaching_146
 historical: true
 archivePeriod: 2012–2016
 transcriptStatus: full
@@ -30,7 +31,7 @@ Afgelopen maandag was ik bij #SMC055, ofwel Social Media Club Apeldoorn. Het ond
 
 Hallo en hartelijk welkom bij deze aflevering van de ReputatieCoaching Podcast. Ik ben Eduard de Boer, ReputatieCoach. Dit is dé podcast die jou helpt om meer business te genereren, doordat jouw website beter gevonden wordt, zowel lokaal als landelijk en doordat ik je uitleg hoe je je online reputatie kunt verbeteren. Dit alles helpt je om je bedrijf en jezelf beter op de online kaart te plaatsen.
 
-Deze aflevering van de podcast kun je vinden op [www.reputatiecoaching.nl/146](https://www.reputatiecoaching.nl/146/). Daar vind je niet alleen de tekst, maar ook afbeeldingen, links enzovoorts. Bovendien is de podcast te beluisteren in [iTunes](https://www.reputatiecoaching.nl/itunes), op [Stitcher](https://www.reputatiecoaching.nl/stitcher) en ook op [TuneIn Radio](http://tunein.com/radio/ReputatieCoaching-Podcast-p655084/). Ik raad je aan om je op één van die drie kanalen te abonneren op de podcast, zodat je geen aflevering hoeft te missen!
+Deze aflevering van de podcast kun je vinden op [www.reputatiecoaching.nl/146](https://web.archive.org/web/20190717191725/https://www.reputatiecoaching.nl/146/). Daar vind je niet alleen de tekst, maar ook afbeeldingen, links enzovoorts. Bovendien is de podcast te beluisteren in iTunes, op Stitcher en ook op [TuneIn Radio](http://tunein.com/radio/ReputatieCoaching-Podcast-p655084/). Ik raad je aan om je op één van die drie kanalen te abonneren op de podcast, zodat je geen aflevering hoeft te missen!
 
 Voordat ik overschakel naar de presentatie van Sabine, waarschuw ik je nogmaals dat die 34m55s duurt. Dus ik hoop dat je er even rustig voor gaat zitten, dat je trein vertraging heeft of dat je in de file staat.
 
@@ -135,7 +136,7 @@ Heb je inderdaad wat aan alle informatie die ik met je deel, help mij dan met he
 
 Op de website kun je me een berichtje sturen en zelfs een gratis consult inboeken. Ook kun je me bellen op 084–8831556 en zelfs rechtstreeks op de website een voicemail achterlaten.
 
-Dit was [ReputatieCoaching Podcast aflevering 146](https://www.reputatiecoaching.nl/146/) en mijn naam is [Eduard de Boer](http://nl.linkedin.com/in/eduarddeboer/nl).
+Dit was [ReputatieCoaching Podcast aflevering 146](https://web.archive.org/web/20190717191725/https://www.reputatiecoaching.nl/146/) en mijn naam is [Eduard de Boer](http://nl.linkedin.com/in/eduarddeboer/nl).
 
 Ik wens je de komende week weer succes met het werken aan je reputatie, zodat je meteen je reputatie voor jou kunt laten werken!
 
@@ -146,10 +147,10 @@ Doei!
 Links naar content die in deze podcast aan bod komt:
 
 ```
-  * [ReputatieCoaching Podcast in iTunes](https://www.reputatiecoaching.nl/itunes)
-  * [ReputatieCoaching Podcast op Stitcher](https://www.reputatiecoaching.nl/stitcher)
+  * ReputatieCoaching Podcast in iTunes
+  * ReputatieCoaching Podcast op Stitcher
   * [ReputatieCoaching Podcast op TuneIn Radio](http://tunein.com/radio/ReputatieCoaching-Podcast-p655084/)
-  * [ReputatieCoaching Podcast RSS-feed](https://feeds.reputatiecoaching.nl/ReputatieCoachingPodcast)
+  * [ReputatieCoaching Podcast RSS-feed](https://web.archive.org/web/20151006093045/http://feeds.reputatiecoaching.nl:80/ReputatieCoachingPodcast)
   * [Hide and Seek](http://hide-and-seek.nl)
   * [Sabine Roex op LinkedIn](https://nl.linkedin.com/in/sabineroex)
 ```

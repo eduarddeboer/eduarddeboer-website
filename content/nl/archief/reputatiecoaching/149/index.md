@@ -3,6 +3,7 @@ title: '149: ZMVL = ZoekMachine Verantwoorde Linkbuilding. Mijn favoriete RSS-re
 date: '2015-10-08T06:30:32+00:00'
 description: 'Aanstaande maandag is er weer een #SMC055, ofwel een bijeenkomst van Social Media Club Apeldoorn. De titel voor deze keer is: “Beeldverhaal”. Google blijft aan het veranderen. Ook sinds de grote verandering van het 7-pack naar het 3-pack wijzigt de weergave van de lokale resultaten continu. Recentelijk zijn ze weer aangepast, maar gelukkig nu enigszins ten goede. Ik vertel je er zo meer over. Het derde onderwerp gaat over een gevalletje van potentiële reputatieschade op Facebook, feitelijk door toedoen van iemand anders.'
 episode: 149
+kgRef: podcast_episode/reputatiecoaching_149
 historical: true
 archivePeriod: 2012–2016
 transcriptStatus: full
@@ -36,17 +37,17 @@ Aanstaande maandag is er weer een #SMC055, ofwel een bijeenkomst van Social Medi
 
 Hallo en hartelijk welkom bij deze aflevering van de ReputatieCoaching Podcast. Ik ben Eduard de Boer, ReputatieCoach. Dit is dé podcast die jou helpt om meer business te genereren, doordat jouw website beter gevonden wordt, zowel lokaal als landelijk en doordat ik je uitleg hoe je je online reputatie kunt verbeteren. Dit alles helpt je om je bedrijf en jezelf beter op de online kaart te plaatsen.
 
-De podcast kun je vinden op [www.reputatiecoaching.nl/149](https://www.reputatiecoaching.nl/149/). Daar vind je niet alleen de tekst, maar ook video’s waar ik het in deze uitzending over heb, alsmede afbeeldingen, links enzovoorts. Bovendien is de podcast te beluisteren in [iTunes](https://www.reputatiecoaching.nl/itunes), op [Stitcher](https://www.reputatiecoaching.nl/stitcher) en ook op [TuneIn Radio](http://tunein.com/radio/ReputatieCoaching-Podcast-p655084/). Ik raad je aan om je op één van die drie kanalen te abonneren op de podcast, zodat je geen aflevering hoeft te missen!
+De podcast kun je vinden op [www.reputatiecoaching.nl/149](https://web.archive.org/web/20190720200055/https://www.reputatiecoaching.nl/149/). Daar vind je niet alleen de tekst, maar ook video’s waar ik het in deze uitzending over heb, alsmede afbeeldingen, links enzovoorts. Bovendien is de podcast te beluisteren in iTunes, op Stitcher en ook op [TuneIn Radio](http://tunein.com/radio/ReputatieCoaching-Podcast-p655084/). Ik raad je aan om je op één van die drie kanalen te abonneren op de podcast, zodat je geen aflevering hoeft te missen!
 
 Voordat ik begin met de onderwerpen van vandaag nog even wat leuks. Afgelopen weekend heb ik vrienden geholpen die zijn verhuisd naar een boerderij. Waar anderen de tientallen dozen hielpen uitpakken en de inhoud in de kasten opruimden, had ik de schone taak om een aantal lampen op te hangen.
 
 Aan het einde van de dag zaten we gezellig te kletsen onder het genot van een biertje en wat hapjes. Jurgen, die had geholpen met het plaatsen van de afrastering voor de paarden in de weide, vroeg mij wat ik voor werk deed. Ik vertelde dat ik ReputatieCoach was, wat dat inhield en ook over mijn wekelijkse podcast.
 
-Een paar dagen later sprak ik Jurgen en zijn partner Ingeborg op een feestje en zij vertelden me lachend dat ze [podcast 148](https://www.reputatiecoaching.nl/148/) samen in bed hadden liggen luisteren, met de telefoon tussen hen in.
+Een paar dagen later sprak ik Jurgen en zijn partner Ingeborg op een feestje en zij vertelden me lachend dat ze [podcast 148](https://web.archive.org/web/20190818194215/https://www.reputatiecoaching.nl/148/) samen in bed hadden liggen luisteren, met de telefoon tussen hen in.
 
 Voor mij was dit de tweede keer dat ik te horen kreeg dat mensen de ReputatieCoaching Podcast in bed beluisteren. Afgelopen maandag liet een andere bekende weten dat hij juist graag de transcriptie scant en dan de interessante delen leest. Dus op die manier bied ik voor eenieder de content aan, via het door hen gewenste kanaal of medium.
 
-En jij? Lees jij ook liever de transcriptie, of beluister je de podcast? Laat het me weten onderaan de show notes van deze podcast, die je kunt vinden op [www.reputatiecoaching.nl/149](https://www.reputatiecoaching.nl/149/).
+En jij? Lees jij ook liever de transcriptie, of beluister je de podcast? Laat het me weten onderaan de show notes van deze podcast, die je kunt vinden op [www.reputatiecoaching.nl/149](https://web.archive.org/web/20190720200055/https://www.reputatiecoaching.nl/149/).
 
 Laat ik dan nu overgaan op de onderwerpen voor vandaag…
 
@@ -138,7 +139,7 @@ I hardly read whole articles in Feedly. When I spot an article I might find inte
 
 Dus ik ben zelf een groot liefhebber van RSS-feeds. Het stelt mij in staat om niet alleen wekelijks duizenden artikelenkoppen te scannen op potentieel interessante onderwerpen voor onder andere deze podcast, maar ook andere leerzame content die ik interessant vind.
 
-En jij? Gebruik jij een RSS-reader? Ben jij geabonneerd op RSS-feeds? Laat het me nu weten onderaan de show notes op [www.reputatiecoaching.nl/149](https://www.reputatiecoaching.nl/149/).
+En jij? Gebruik jij een RSS-reader? Ben jij geabonneerd op RSS-feeds? Laat het me nu weten onderaan de show notes op [www.reputatiecoaching.nl/149](https://web.archive.org/web/20190720200055/https://www.reputatiecoaching.nl/149/).
 
 ### ZMVL: ZoekMachine Verantwoordelijke Linkbuilding (deel 1)
 
@@ -265,7 +266,7 @@ Publiceer die interviews in audiovorm, of alleen de transcriptie, of in de vorm 
 
 Een alternatieve manier is zelf interviews of een interview te geven. De interviewende partij zal vaak naar jouw content verwijzen door middel van een hyperlink.
 
-Zo werd ik laatst nog geïnterviewd door “PatientenReview.nl”. Dat interview vond plaats door middel van een Google Hangout on Air. Het opgenomen materiaal is later in stukken geknipt en wordt in een vier- of vijftal aparte video’s gepubliceerd. Daarbij komt ook een link naar [www.reputatiecoaching.nl](http://www.reputatiecoaching.nl).
+Zo werd ik laatst nog geïnterviewd door “PatientenReview.nl”. Dat interview vond plaats door middel van een Google Hangout on Air. Het opgenomen materiaal is later in stukken geknipt en wordt in een vier- of vijftal aparte video’s gepubliceerd. Daarbij komt ook een link naar [www.reputatiecoaching.nl](https://web.archive.org/web/20150819235609/http://www.reputatiecoaching.nl:80/).
 
 Bovendien had ik ervoor gezorgd dat ik een balk in beeld had met mijn naam en de titel “ReputatieCoach”. Dat levert op zich ook weer extra verkeer op, door mensen die naar mij op zoek gaan, waar vervolgens ook weer mensen tussen zitten die een link naar de site plaatsen.
 
@@ -299,7 +300,7 @@ En heb je inderdaad wat aan alle informatie die ik met je deel, help mij dan met
 
 Op de website kun je me een berichtje sturen en zelfs een gratis consult inboeken. Ook kun je me bellen op 084–8831556 en zelfs rechtstreeks op de website een voicemail achterlaten.
 
-En je kunt ook rechtstreeks op de website een voicemail achterlaten, door op de tab aan de rechterkant van elke pagina te klikken, en je bericht in te spreken. Dit was [ReputatieCoaching Podcast aflevering 149](https://www.reputatiecoaching.nl/149/) en mijn naam is [Eduard de Boer](http://nl.linkedin.com/in/eduarddeboer/nl).
+En je kunt ook rechtstreeks op de website een voicemail achterlaten, door op de tab aan de rechterkant van elke pagina te klikken, en je bericht in te spreken. Dit was [ReputatieCoaching Podcast aflevering 149](https://web.archive.org/web/20190720200055/https://www.reputatiecoaching.nl/149/) en mijn naam is [Eduard de Boer](http://nl.linkedin.com/in/eduarddeboer/nl).
 
 Ik wens je de komende week weer succes met het werken aan je reputatie, zodat je meteen je reputatie voor jou kunt laten werken!
 
@@ -310,8 +311,8 @@ Doei!
 Links naar content die in deze podcast aan bod komt:
 
 ```
-  * [ReputatieCoaching Podcast in iTunes](https://www.reputatiecoaching.nl/itunes)
-  * [ReputatieCoaching Podcast op Stitcher](https://www.reputatiecoaching.nl/stitcher)
+  * ReputatieCoaching Podcast in iTunes
+  * ReputatieCoaching Podcast op Stitcher
   * [ReputatieCoaching Podcast op TuneIn Radio](http://tunein.com/radio/ReputatieCoaching-Podcast-p655084/)
   * ReputatieCoaching Podcast RSS-feed
 ```
