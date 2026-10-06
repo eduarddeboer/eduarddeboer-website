@@ -3,6 +3,7 @@ title: Podcast Aflevering 8 (21-01-2013)
 date: '2013-01-21T22:00:43+00:00'
 description: 'Hallo en welkom bij alweer de achtste ReputatieCoaching Podcast. Vandaag stond Nederland aardig stil in een groot aantal files en ik kon gelukkig vanuit huis werken. Met uitzicht op de neerdwarrelende sneeuwvlokjes kreeg ik weer een boel inspiratie voor deze podcast. Mijn naam is Eduard de Boer -ook wel bekend als de ReputatieCoach- en ik ben je host voor vandaag! In deze podcast heb ik de volgende onderwerpen voor je: Yelp gaat niet alleen voor recensies, maar nu ook voor schoonheid en netheid.'
 episode: 8
+kgRef: podcast_episode/reputatiecoaching_008
 historical: true
 archivePeriod: 2012–2016
 transcriptStatus: full
@@ -26,11 +27,11 @@ showTaxonomies: false
 **Historische afbeelding niet beschikbaar: ReputatieCoaching Podcast Aflevering 8 (21-01-2013)*
 In deze podcast heb ik de volgende onderwerpen voor je: Yelp gaat niet alleen voor recensies, maar nu ook voor schoonheid en netheid. Ook behandel ik je reputatie op basis van je Klout score, wat tips over bloggen en SEO, een alternatieve manier om citations te verwerven, het aanmelden van je bedrijf op Foursquare en tenslotte weer nieuws over Facebook.*
 
-*Meer eerst: je kunt helpen met het promoten van de ReputatieCoaching Podcast. Als je wat hebt aan de informatie en je vindt het leuk om naar de podcast te luisteren, laat dan bijvoorbeeld een recensie achter in iTunes, of op Google+. Je kunt onze Google+ pagina vinden op: [www.reputatiecoaching.nl/gplus](https://www.reputatiecoaching.nl/gplus) (dat mag zowel g-p-l-u-s zijn als de letter “g” met een plustekentje). Ook kun je een bericht achterlaten op onze Facebookpagina, die je kunt vinden op: [www.reputatiecoaching.nl/facebook.](https://www.reputatiecoaching.nl/facebook)*
+*Meer eerst: je kunt helpen met het promoten van de ReputatieCoaching Podcast. Als je wat hebt aan de informatie en je vindt het leuk om naar de podcast te luisteren, laat dan bijvoorbeeld een recensie achter in iTunes, of op Google+. Je kunt onze Google+ pagina vinden op: www.reputatiecoaching.nl/gplus (dat mag zowel g-p-l-u-s zijn als de letter “g” met een plustekentje). Ook kun je een bericht achterlaten op onze Facebookpagina, die je kunt vinden op: www.reputatiecoaching.nl/facebook.*
 
-*Geef gerust een recensie. En als je opmerkingen hebt over deze podcast, laat dan op de website onderaan de transcriptie je reactie of opmerkingen achter. Je kunt de transcriptie van deze podcast snel online vinden door te surfen naar: [www.reputatiecoaching.nl/8](https://www.reputatiecoaching.nl/8).*
+*Geef gerust een recensie. En als je opmerkingen hebt over deze podcast, laat dan op de website onderaan de transcriptie je reactie of opmerkingen achter. Je kunt de transcriptie van deze podcast snel online vinden door te surfen naar: [www.reputatiecoaching.nl/8](https://web.archive.org/web/20131009021929/http://www.reputatiecoaching.nl:80/8/).*
 
-*Ten eerste: Yelp. Een tijdje geleden heb ik een instructievideo online gezet waarin ik uitleg hoe je [je bedrijf kunt aanmelden bij Yelp](https://www.reputatiecoaching.nl/bedrijf-toevoegen-op-yelp-instructievideo/). Als je daar eenmaal staat vermeld, word je een twee tot drie maanden later ook zichtbaar in Apple Maps. En natuurlijk kun je vanaf dat je vermeld staat, beginnen met het verzamelen van recensies op Yelp.*
+*Ten eerste: Yelp. Een tijdje geleden heb ik een instructievideo online gezet waarin ik uitleg hoe je [je bedrijf kunt aanmelden bij Yelp](https://web.archive.org/web/20131117173632/http://www.reputatiecoaching.nl:80/bedrijf-toevoegen-op-yelp-instructievideo/). Als je daar eenmaal staat vermeld, word je een twee tot drie maanden later ook zichtbaar in Apple Maps. En natuurlijk kun je vanaf dat je vermeld staat, beginnen met het verzamelen van recensies op Yelp.*
 
 *Maar in San Francisco is gaat Yelp nu een stap verder, dan het vertonen van de recensies van de gebruikers. Daar is Yelp bij wijze van experiment begonnen met het vertonen van de de mate waarin (vooral restaurants) schoon en netjes zijn bevonden! Dus alleen je reputatie op basis van klantrecensies is daar in “Frisco” niet meer voldoende! Ik ben benieuwd hoelang het duurt, voordat Yelp.nl de bevindingen van de Nederlandse Voedsel- en Waren Autoriteit bij de resultaten gaat vertonen…*
 
@@ -94,7 +95,7 @@ In deze podcast heb ik de volgende onderwerpen voor je: Yelp gaat niet alleen vo
 *Als je dit doet, kun je in relatief korte tijd met niet al teveel inspanning weer een flink aantal sterke citations erbij krijgen.*
 \_ Maar mocht je het niet zien zitten om dit zelf uit te vogelen, dan kun je ook gewoon wachten tot ik er een instructievideo van heb gemaakt. Je kunt die dan stap voor stap volgen. Of als je niet wilt wachten en een groot aantal citations wilt, om hogerop te komen in de lokale zoekresultaten, dan kun je een specialist inhuren die dit voor je realiseert. Ik bied dit als dienst aan. Neem contact met me op via het contactformulier, als je meer informatie hierover wilt.\_
 
-*Nu ik het toch over de instructievideos heb: er komen gestaag meer videos online, die je helpen om je bedrijf aan te melden bij de vele relevante sites op Internet. Ik kies ze bewust in een volgorde, waarmee je als je even doorzet, je bedrijf vaak snel boven de concurrenten kunt laten scoren. Zo heb ik afgelopen week een video online gezet, waarin ik uitleg hoe je controleert of je bedrijf op Foursquare staat. En mocht dit niet het geval zijn, dan kun je met die video je voordeel doen, want ik leg ook uit hoe je je [bedrijf zelf kunt aanmelden op Foursquare](https://www.reputatiecoaching.nl/je-bedrijf-aanmelden-op-foursquare/).*
+*Nu ik het toch over de instructievideos heb: er komen gestaag meer videos online, die je helpen om je bedrijf aan te melden bij de vele relevante sites op Internet. Ik kies ze bewust in een volgorde, waarmee je als je even doorzet, je bedrijf vaak snel boven de concurrenten kunt laten scoren. Zo heb ik afgelopen week een video online gezet, waarin ik uitleg hoe je controleert of je bedrijf op Foursquare staat. En mocht dit niet het geval zijn, dan kun je met die video je voordeel doen, want ik leg ook uit hoe je je [bedrijf zelf kunt aanmelden op Foursquare](https://web.archive.org/web/20131115041010/http://www.reputatiecoaching.nl:80/je-bedrijf-aanmelden-op-foursquare/).*
 
 *En dan ben ik alweer toegekomen aan het laatste onderwerp van deze week: Facebook. De laatste paar podcasts had ik het ook al over Facebook en de meest recente ontwikkeling, Facebook “In de buurt” wordt nu alweer opgevolgd door een nieuwe zoekoplossing, met de naam “Facebook Graph Search”. Deze dienst werd vorige week dinsdag -net na de podcast- door Facebook aangekondigd. Nog niet iedereen heeft er toegang toe. Je moet je ervoor inschrijven en Facebook gaat eerst mondjesmaat ermee experimenteren.*
 
@@ -117,6 +118,6 @@ Hieronder het overzicht van de links die in de podcast aan bod komen:
 ```
   * [http://www.scribd.com](http://www.scribd.com)
   * [http://www.issuu.com](http://www.issuu.com)
-  * [http://www.docstoc.com](http://www.docstoc.com)
+  * [http://www.docstoc.com](https://web.archive.org/web/20130118140940/http://www.docstoc.com:80/?)
   * [http://www.slideshare.com](http://www.slideshare.com)
 ```
