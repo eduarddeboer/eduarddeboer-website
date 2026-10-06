@@ -339,8 +339,18 @@ def repair_episode(
                         + "No usable Wayback capture found"
                     )
             else:
-                replacement = url
-                decision.action = "kept_uncertain"
+                # A timeout, unusual HTTP status or TLS/bot issue does not prove
+                # the original is dead. Prefer a historical Wayback capture when
+                # one exists; otherwise retain the original for manual review.
+                capture = wayback_lookup(url, date_value, timeout)
+                if capture:
+                    replacement = capture["url"]
+                    decision.action = "wayback_uncertain"
+                    decision.replacement_url = replacement
+                    decision.wayback_timestamp = capture["timestamp"]
+                else:
+                    replacement = url
+                    decision.action = "kept_uncertain"
 
         if sleep > 0:
             time.sleep(sleep)
@@ -377,7 +387,7 @@ def repair_episode(
         "links": [asdict(d) for d in decisions],
         "summary": {
             "links_examined": len(decisions),
-            "wayback": sum(d.action == "wayback" for d in decisions),
+            "wayback": sum(d.action in {"wayback", "wayback_uncertain"} for d in decisions),
             "unlinked": sum(d.action == "unlinked" for d in decisions),
             "kept_live": sum(d.action == "kept_live" for d in decisions),
             "kept_uncertain": sum(d.action == "kept_uncertain" for d in decisions),
@@ -415,7 +425,7 @@ def main() -> int:
             "internal_reputatiecoaching": "Wayback if available; otherwise unlink",
             "external_live": "retain",
             "external_clearly_dead": "Wayback if available; otherwise unlink",
-            "external_uncertain": "retain for review",
+            "external_uncertain": "Wayback if available; otherwise retain for review",
         },
         "episodes": reports,
         "summary": {
