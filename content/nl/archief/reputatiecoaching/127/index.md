@@ -73,7 +73,7 @@ Weet je hoe Foto Romp het nog iets beter zou kunnen doen? Door niet alleen de pe
 
 Wat kun je hier verder nog uit leren? Om Martin te citeren:
 
-En sommige bedrijven begrijpen ook heel goed, hoe je moet omgaan met negatieve reviews. Zo vertelde ik je ondere andere in [podcast 67](https://web.archive.org/web/20150312093933/http://www.reputatiecoaching.nl/67/) en [[podcast 79](/nl/archief/reputatiecoaching/079/)](/nl/archief/reputatiecoaching/079/) hoe je moet omgaan met negatieve reviews. Martin deelde nog een leuke ervaring met me, dit keer nadat hij een minder positieve review had geplaatst:
+En sommige bedrijven begrijpen ook heel goed, hoe je moet omgaan met negatieve reviews. Zo vertelde ik je ondere andere in [podcast 67](https://web.archive.org/web/20150312093933/http://www.reputatiecoaching.nl/67/) en [podcast 79](/nl/archief/reputatiecoaching/079/) hoe je moet omgaan met negatieve reviews. Martin deelde nog een leuke ervaring met me, dit keer nadat hij een minder positieve review had geplaatst:
 
 Zojuist heeft Drukwerkdeal bewezen hoe goed je met een minder goede review kan omgaan. Binnen 5 minuten na het posten van mijn kritische review werd ik gebeld door Karlijn van Drukwerkdeal. De zeer vriendelijke dame had een luisterend oor, was duidelijk niet bezig met ontkenning maar wilde graag weten wat er verbeterd kon worden. Ze beloofde ook zeker aan de slag te gaan met mijn kritieken.
 
