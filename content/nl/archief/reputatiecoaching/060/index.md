@@ -3,6 +3,7 @@ title: '60: Winter Winkeldata Workshop, Workshop lokale SEO bij de Rabobank, geh
 date: '2014-01-20T07:30:39+00:00'
 description: 'Ondanks enige vertraging is het dan zover: de werkinstructie voor het oppoetsen en opschonen van je lokale bedrijfsvermeldingen staat online. Abonneer je snel op de nieuwsbrief, dan stuur ik je een mail met daarin de link naar de spreadsheet die je kunt gebruiken voor het opslaan van de gegevens voor je bedrijfsvermelding en kun je alle citations registreren. Ook is er weer een nieuwe serie instructievideo’s aangekondigd: de Winter Winkeldata Workshop!'
 episode: 60
+kgRef: podcast_episode/reputatiecoaching_060
 historical: true
 archivePeriod: 2012–2016
 transcriptStatus: full
@@ -37,13 +38,13 @@ Als persoon kun je met de diverse tips aan de slag om bijvoorbeeld je online rep
 ## Winter Winkeldata Workshop: 10 instructievideo’s voor betere lokale SEO in deze winter
 
 *Historische afbeelding niet beschikbaar: Winter Winkeldata Workshop-10*
-Afgelopen vrijdag heb ik de “[Winter Winkeldata Workshop](https://www.reputatiecoaching.nl/winter-winkeldata-workshop-10-instructievideos-voor-betere-lokale-seo-deze-winter)” aangekondigd. Dit is een serie van tien instructievideo’s voor het aanmelden van je bedrijf om zo je positie in de lokale zoekresultaten te verstevigen en mogelijk te verbeteren.
+Afgelopen vrijdag heb ik de “[Winter Winkeldata Workshop](https://web.archive.org/web/20140314201906/http://www.reputatiecoaching.nl:80/winter-winkeldata-workshop-10-instructievideos-voor-betere-lokale-seo-deze-winter/)” aangekondigd. Dit is een serie van tien instructievideo’s voor het aanmelden van je bedrijf om zo je positie in de lokale zoekresultaten te verstevigen en mogelijk te verbeteren.
 
 Ik kan natuurlijk nooit garanderen dat je bedrijfsvermelding daadwerkelijk hoger komt in de lokale zoekresultaten. Het enige wat ik je wel kan vertellen zijn mijn eigen ervaringen en die van anderen, waarbij duidelijk is waargenomen dat sites stijgen in de lokale zoekresultaten, als op de juiste plaatsen bedrijfsvermeldingen ofwel “citations” worden aangemaakt.
 
 Dus, onder het motto “Baadt het niet, dan schaadt het niet”, adviseer ik je om zo snel mogelijk eerst te beginnen met het opschonen van je bedrijfsvermeldingen, ze consistent te maken, om daarna de nieuwe vermeldingen voor je bedrijf te maken.
 
-Over twee uur komt de eerste instructievideo live! Abonneer je dus snel op de [nieuwsbrief](https://www.reputatiecoaching.nl/nieuwsbrief/), zodat je straks ook meteen aan de slag kunt met de voorjaarsschoonmaak en direct vanaf het begin je acties en bevindingen kunt vastleggen in de spreadsheet.
+Over twee uur komt de eerste instructievideo live! Abonneer je dus snel op de [nieuwsbrief](https://web.archive.org/web/20131205063155/http://www.reputatiecoaching.nl/nieuwsbrief/), zodat je straks ook meteen aan de slag kunt met de voorjaarsschoonmaak en direct vanaf het begin je acties en bevindingen kunt vastleggen in de spreadsheet.
 
 ## Workshop lokale SEO bij de Rabobank
 
@@ -96,7 +97,7 @@ Tijdens de workshop die ik gaf bij de Rabobank dacht men ook dat lokale SEO niet
 
 Maar een goede organische ranking begint met goede lokale SEO. Dat is één reden, dat feitelijk elk bedrijf of elke organisatie die fysieke vestigingen heeft, ook lokale SEO moet gaan (laten) uitvoeren.
 
-De getallen en resultaten die ik nu met je ga delen komen uit een Amerikaans artikel, dat ik online tegenkwam op “SweetIQ”, met de sprekende titel: “[How important local SEO is for your business](http://blog.sweetiq.com/2014/01/how-important-local-seo-is-for-your-business/)”. Ze hebben dan ook betrekking op de Amerikaanse markt, maar ik acht de kans groot dat ze procentueel ook voor Europa zullen gelden.
+De getallen en resultaten die ik nu met je ga delen komen uit een Amerikaans artikel, dat ik online tegenkwam op “SweetIQ”, met de sprekende titel: “[How important local SEO is for your business](https://web.archive.org/web/20140105031059/http://blog.sweetiq.com:80/2014/01/how-important-local-seo-is-for-your-business/)”. Ze hebben dan ook betrekking op de Amerikaanse markt, maar ik acht de kans groot dat ze procentueel ook voor Europa zullen gelden.
 
 Mensen zoeken op hun smartphones. Ze gebruiken ze om het nieuws te volgen, te navigeren, te communiceren met anderen en heel belangrijk: informatie zoeken over bedrijven, hun producten en diensten. Het is niet alleen belangrijk om te zorgen dat je fysieke winkelgevel er goed uitziet en goed te vinden is, maar ook al je virtuele online onroerend goed.
 
@@ -171,9 +172,9 @@ Als je de podcast leuk vindt en je hebt inderdaad wat aan alle informatie die ik
 
 Als je een vraag of een probleem hebt met betrekking tot je online reputatie of de vindbaarheid van je website, kun je een mailtje sturen naar [podcast@reputatiecoaching.nl](mailto:podcast@reputatiecoaching.nl). Als je dat te lastig vindt, of als je de podcast beluistert terwijl je in de auto zit en je hebt acuut een vraag, spreek dan een boodschap in op de ReputatieCoaching Hotline, op nummer: 084 - 883 15 56. Mogelijk behandel ik je vraag of probleem dan in een artikel of in de podcast.
 
-Als laatste kun je je ook inschrijven voor de nieuwsbrief. Dan ontvang je altijd als eerste het laatste nieuws wat ik publiceer en automatisch elk kwartaal het ReputatieCoaching Podcast Boek van het afgelopen kwartaal. Surf daartoe naar [www.reputatiecoaching.nl/nieuwsbrief/](https://www.reputatiecoaching.nl/nieuwsbrief/) en schrijf je meteen in.
+Als laatste kun je je ook inschrijven voor de nieuwsbrief. Dan ontvang je altijd als eerste het laatste nieuws wat ik publiceer en automatisch elk kwartaal het ReputatieCoaching Podcast Boek van het afgelopen kwartaal. Surf daartoe naar [www.reputatiecoaching.nl/nieuwsbrief/](https://web.archive.org/web/20131205063155/http://www.reputatiecoaching.nl/nieuwsbrief/) en schrijf je meteen in.
 
-En je kunt ook rechtstreeks op de website een voicemail achterlaten, door op de tab aan de rechterkant van elke pagina te klikken, en je bericht in te spreken. Dit was [ReputatieCoaching Podcast aflevering 60](https://www.reputatiecoaching.nl/60/) en mijn naam is [Eduard de Boer](http://nl.linkedin.com/in/eduarddeboer/nl).
+En je kunt ook rechtstreeks op de website een voicemail achterlaten, door op de tab aan de rechterkant van elke pagina te klikken, en je bericht in te spreken. Dit was [ReputatieCoaching Podcast aflevering 60](https://web.archive.org/web/20150312093735/http://www.reputatiecoaching.nl/60/) en mijn naam is [Eduard de Boer](http://nl.linkedin.com/in/eduarddeboer/nl).
 
 Ik wens je de komende week weer succes met het werken aan je reputatie, zodat je meteen je reputatie voor jou kunt laten werken!
 
@@ -184,6 +185,6 @@ Doei!
 Links naar onderwerpen en artikelen die in deze podcast aan bod kwamen:
 
 ```
-  * “[YouTube Mania – 7 Simple Ways To Attract Website Traffic From YouTube](http://www.searchenginepeople.com/blog/125-youtube-mania.html)” (Search Engine People, 31 december 2013)
-  * “[How important local SEO is for your business](http://blog.sweetiq.com/2014/01/how-important-local-seo-is-for-your-business/)” (SweetIQ, 1 januari 2014)
+  * “[YouTube Mania – 7 Simple Ways To Attract Website Traffic From YouTube](https://web.archive.org/web/20140125215424/http://www.searchenginepeople.com:80/blog/125-youtube-mania.html)” (Search Engine People, 31 december 2013)
+  * “[How important local SEO is for your business](https://web.archive.org/web/20140105031059/http://blog.sweetiq.com:80/2014/01/how-important-local-seo-is-for-your-business/)” (SweetIQ, 1 januari 2014)
 ```
