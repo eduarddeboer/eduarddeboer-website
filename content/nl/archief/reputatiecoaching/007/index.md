@@ -24,7 +24,7 @@ showTaxonomies: false
 
 **Hallo en welkom bij alweer de zevende ReputatieCoaching Podcast. Zojuist heb ik onze hond uitgelaten voor zijn laatste ronde vandaag en doordat het op dit moment buiten vriest ben ik weer helemaal fris en fruitig! Mijn naam is Eduard de Boer -ook wel bekend als de ReputatieCoach- en ik ben je host voor vandaag!**
 
-[[*Historische afbeelding niet beschikbaar: ReputatieCoaching Podcast Aflevering 7 (14-01-2013)*](/nl/archief/reputatiecoaching/007/)](/nl/archief/reputatiecoaching/007/)
+[*Historische afbeelding niet beschikbaar: ReputatieCoaching Podcast Aflevering 7 (14-01-2013)*](/nl/archief/reputatiecoaching/007/)
 
 Eerst een overzicht van de onderwerpen waar ik vandaag wat over vertel. Ten eerste: reviews, ten tweede: WordPress 3.5 issues en als derde onderwerp: het belang van een eigen Facebook pagina voor je bedrijf. Wat in 2013 nog veel belangrijker wordt, dan het al was in 2012, is video. Dus ik heb ook wat tips voor je, hoe je zou kunnen beginnen met videomarketing. Verder heb ik deze week het verzoek gekregen om een offerte uit te brengen voor een reputatieverbeteringsproject voor een bedrijventerrein ergens in Nederland waar geesten zouden huizen. De podcast van vandaag sluit ik af met een tip, voor het geval je binnenkort op reis gaat met je laptop.
 
