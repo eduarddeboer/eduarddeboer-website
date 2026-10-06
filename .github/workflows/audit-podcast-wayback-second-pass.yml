@@ -12,8 +12,8 @@ permissions:
   contents: write
 
 concurrency:
-  group: podcast-wayback-second-pass
-  cancel-in-progress: true
+  group: podcast-wayback-second-pass-${{ github.sha }}
+  cancel-in-progress: false
 
 jobs:
   audit:
