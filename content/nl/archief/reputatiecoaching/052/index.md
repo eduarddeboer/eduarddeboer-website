@@ -3,6 +3,7 @@ title: '52: iTunes en Stitcher weer op orde, Video SEO, het belang van owned med
 date: '2013-11-25T06:30:59+00:00'
 description: Als eerste heb ik goed nieuws, want zowel op iTunes, als op Stitcher wordt de podcast nu eindelijk weer goed vertoond! Verder heb ik mijn eerste bevindingen voor je met de Video SEO plugin van Joost de Valk, waar ik het in podcast 50 over had, naar aanleiding van een video van Matt Cutts over het gebruik van schema.org voor video. Binnen twee weken verschijnen foto’s van Allround Fotografie op de voorpagina van Google.
 episode: 52
+kgRef: podcast_episode/reputatiecoaching_052
 historical: true
 archivePeriod: 2012–2016
 transcriptStatus: full
@@ -22,7 +23,7 @@ showTaxonomies: false
 **Transcriptiestatus:** Volledige transcriptie uit het oorspronkelijke archief.
 
 ***Historische afbeelding niet beschikbaar: ReputatieCoaching Podcast*
-Als eerste heb ik goed nieuws, want zowel op iTunes, als op Stitcher wordt de podcast nu eindelijk weer goed vertoond! Verder heb ik mijn eerste bevindingen voor je met de Video SEO plugin van Joost de Valk, waar ik het in [podcast 50](https://www.reputatiecoaching.nl/50/) over had, naar aanleiding van een video van Matt Cutts over het gebruik van schema.org voor video. Binnen twee weken verschijnen foto’s van Allround Fotografie op de voorpagina van Google.**
+Als eerste heb ik goed nieuws, want zowel op iTunes, als op Stitcher wordt de podcast nu eindelijk weer goed vertoond! Verder heb ik mijn eerste bevindingen voor je met de Video SEO plugin van Joost de Valk, waar ik het in [podcast 50](https://web.archive.org/web/20131214103543/http://www.reputatiecoaching.nl/50/) over had, naar aanleiding van een video van Matt Cutts over het gebruik van schema.org voor video. Binnen twee weken verschijnen foto’s van Allround Fotografie op de voorpagina van Google.**
 
 **Afgelopen week was YouTube een half uur down! Google Map Maker is nu een aantal dagen down en Google Maps hecht meer waarde aan foto’s. Verder gaan Google, Bing en Yahoo de strijd aan tegen kinderporno en heb ik wat handige achtergrondinformatie over de verschillende pagina’s die er zijn in Google+.**
 
@@ -32,13 +33,13 @@ Welkom bij deze aflevering van de ReputatieCoaching Podcast. Mijn naam is [Eduar
 
 Als persoon kun je met de diverse tips aan de slag om bijvoorbeeld je online reputatie als glazenwasser, waterbouwer, straatmaker, orthopedisch chirurg of welk beroep dan ook te verbeteren.
 
-Je kunt de podcast van vandaag ook op de site teruglezen, op [www.reputatiecoaching.nl/52](https://www.reputatiecoaching.nl/52/).
+Je kunt de podcast van vandaag ook op de site teruglezen, op [www.reputatiecoaching.nl/52](https://web.archive.org/web/20190717125632/https://www.reputatiecoaching.nl/52/).
 
 Laat ik dan nu maar meteen doorgaan met de onderwerpen van vandaag…
 
 ## Podcast eindelijk weer goed vertoond op iTunes en Stitcher
 
-Nou, het heeft dit keer vier weken gekost, want in [podcast 48](https://www.reputatiecoaching.nl/48/) had ik wederom een probleem met de RSS-feed van de podcast bij [Feedburner](http://www.feedburner.com) geconstateerd. Toen heb ik de feed wegehaald bij Feedburner en ondergebracht bij [Feedblitz](http://www.feedblitz.com). Op zich ging die migratie snel en soepel. Daarna heb ik binnen afzienbare tijd het probleem bij Stitcher grotendeels opgelost. Er ontbraken alleen nog een paar afleveringen in het overzicht op de site.
+Nou, het heeft dit keer vier weken gekost, want in [podcast 48](https://web.archive.org/web/20131204040549/http://www.reputatiecoaching.nl/48/) had ik wederom een probleem met de RSS-feed van de podcast bij [Feedburner](http://www.feedburner.com) geconstateerd. Toen heb ik de feed wegehaald bij Feedburner en ondergebracht bij [Feedblitz](http://www.feedblitz.com). Op zich ging die migratie snel en soepel. Daarna heb ik binnen afzienbare tijd het probleem bij Stitcher grotendeels opgelost. Er ontbraken alleen nog een paar afleveringen in het overzicht op de site.
 
 Hiervoor heb ik een mailtje naar de supportafdeling van Stitcher gestuurd en binnen een dag stonden alle podcasts weer netjes in het overzicht op de Stitcher.
 
@@ -51,17 +52,17 @@ Dat heb ik gedaan en inderdaad was twee dagen later ook in iTunes alles weer in 
 Voor de volledigheid nog even het ovezicht waar je de podcast nu dus goed kunt beluisteren:
 
 ```
-  * [iTunes](https://itunes.apple.com/nl/podcast/reputatiecoaching-podcast/id584370482)
+  * iTunes
   * [Stitcher](http://www.stitcher.com/podcast/reputatie-coaching-podcast/reputatiecoaching)
-  * [ReputatieCoaching Podcast RSS-feed](https://feeds.reputatiecoaching.nl/ReputatieCoachingPodcast) voor gebruik in diverse podcast applicaties
+  * [ReputatieCoaching Podcast RSS-feed](https://web.archive.org/web/20131205064344/http://feeds.reputatiecoaching.nl/reputatiecoachingpodcast) voor gebruik in diverse podcast applicaties
 ```
 
-Natuurlijk is de podcast ook gewoon via je browser te beluisteren vanaf elk podcast artikel op de site. Die kun je wekelijks vinden op [www.reputatiecoaching.nl](http://www.reputatiecoaching.nl), gevolgd door het nummer van de podcast. Zo kun je podcast 52 dus ook beluisteren op [www.reputatiecoaching.nl/52](https://www.reputatiecoaching.nl/52/). Onderaan de transcriptie vind je de play-knop.
+Natuurlijk is de podcast ook gewoon via je browser te beluisteren vanaf elk podcast artikel op de site. Die kun je wekelijks vinden op [www.reputatiecoaching.nl](https://web.archive.org/web/20131209051301/http://www.reputatiecoaching.nl/), gevolgd door het nummer van de podcast. Zo kun je podcast 52 dus ook beluisteren op [www.reputatiecoaching.nl/52](https://web.archive.org/web/20190717125632/https://www.reputatiecoaching.nl/52/). Onderaan de transcriptie vind je de play-knop.
 Op diezelfde pagina is ook de volledige transcriptie te lezen en kun je bovendien reacties of vragen achterlaten, naar aanleiding van deze podcast.
 
 ## YouTube Video’s in Google met eigen domeinnaam dankzij Video SEO plugin
 
-[[Historische afbeelding: bekijk bron](https://lh3.googleusercontent.com/9xnaJ1nykwqGLfitD6AoS5dnia9hl5krNl-4A54h-aU=w200-h202-p-no)](http://yoast.com/wordpress/video-seo/)In [podcast 50](https://www.reputatiecoaching.nl/50/) heb ik de video van Matt Cutts met je gedeeld, waarin hij vertelt dat je zoveel mogelijk schema.org markup moet gebruiken voor het semantisch markeren van je video’s. Zijn stellige verhaal overtuigde mij om de [“Video SEO” plugin van Joost de Valk](http://yoast.com/wordpress/video-seo/) te kopen voor US$ 69 en die te installeren op de website van Allround Fotografie.
+[[Historische afbeelding: bekijk bron](https://lh3.googleusercontent.com/9xnaJ1nykwqGLfitD6AoS5dnia9hl5krNl-4A54h-aU=w200-h202-p-no)](http://yoast.com/wordpress/video-seo/)In [podcast 50](https://web.archive.org/web/20131214103543/http://www.reputatiecoaching.nl/50/) heb ik de video van Matt Cutts met je gedeeld, waarin hij vertelt dat je zoveel mogelijk schema.org markup moet gebruiken voor het semantisch markeren van je video’s. Zijn stellige verhaal overtuigde mij om de [“Video SEO” plugin van Joost de Valk](http://yoast.com/wordpress/video-seo/) te kopen voor US$ 69 en die te installeren op de website van Allround Fotografie.
 
 Deze plugin is dus inmiddels een goede twee weken operationeel op Allround Fotografie en ik begin al de eerste resultaten te zien. Naast dat de flitsende trouwvideo’s van Allround Fotografie in de zoekresultaten werden vertoond met de YouTube URL, worden ze nu ook in dezelfde resultaten getoond, alsof ze worden gehost op Allround Fotografie, dus met de domeinnaam: allround-fotografie.com.
 
@@ -86,7 +87,7 @@ Dit waren natuurlijk een paar aardige redenen om dit experiment uit te voeren. M
 
 Het is nu dus twee weken later, dus ik kan er nog niet zo heel veel over vertellen. Maar wat wel leuk is om te zien, is dat er al twee foto’s op de voorpagina van Google staan op bepaalde zoektermen. Als je verder in de zoekresultaten duikt, zie je al veel meer foto’s tevoorschijn komen, die ik heb geüpload naar de Google+ pagina. Dus ik ben benieuwd hoe zich dat in de toekomst verder ontwikkelt. Wat ik in elk geval er over kán vertellen, is dat het niet in je nadeel werkt.
 
-Ik heb recentelijk een artikel geschreven over het [uploaden van foto’s naar je zakelijke Google+ pagina met Picasa](https://www.reputatiecoaching.nl/fotos-rechtstreeks-vanuit-picasa-uploaden-naar-je-zakelijke-google-pagina/) en binnenkort zal ik een instructievideo maken over hoe je dan op verschillende manieren de foto’s en andere afbeeldingen in je weblog of website kunt gebruiken.
+Ik heb recentelijk een artikel geschreven over het [uploaden van foto’s naar je zakelijke Google+ pagina met Picasa](https://web.archive.org/web/20131205212322/http://www.reputatiecoaching.nl/fotos-rechtstreeks-vanuit-picasa-uploaden-naar-je-zakelijke-google-pagina/) en binnenkort zal ik een instructievideo maken over hoe je dan op verschillende manieren de foto’s en andere afbeeldingen in je weblog of website kunt gebruiken.
 
 ## YouTube een half uur down!
 
@@ -100,7 +101,7 @@ If you see them, show them this information:
 YouTube 500 Internal Server Error[/caption]
 
 En daarna volgden tientallen regels met willekeurige letters, cijfers en symbolen. Alsof je dat zo even bijvoorbeeld door een telefoon kon doorgeven ;-)
-In de show notes op [www.reputatiecoaching.nl/52](https://www.reputatiecoaching.nl/52/) vind je een screenshot van de melding die je wereldwijd kreeg, als je toen naar YouTube surfde.
+In de show notes op [www.reputatiecoaching.nl/52](https://web.archive.org/web/20190717125632/https://www.reputatiecoaching.nl/52/) vind je een screenshot van de melding die je wereldwijd kreeg, als je toen naar YouTube surfde.
 
 Een goed half uur later was de site weer up en running. Op het officiële blog van YouTube is er niets over te vinden. En de enige melding die YouTube over dit incident deed, luidde:
 
@@ -113,7 +114,7 @@ Daarnaast is er een kleine verandering aangebracht in de nieuwe versie van Googl
 [caption id="" align=“aligncenter” width=“403”][Historische afbeelding: bekijk bron](https://lh4.googleusercontent.com/-IjPPODwPwqE/Uo3NAqGkuII/AAAAAAAAAG0/_1gm5XNvMvs/w403-h215-no/20131121-Maps-3pack.png)
 Google Maps toont 3 zoekresultaten![/caption]
 
-Over deze beide nieuwsfeiten heb ik van de week een [artikel](https://www.reputatiecoaching.nl/google-mapmaker-tijdelijk-uit-de-lucht-en-google-maps-toont-3-bedrijven/) gepubliceerd. Als je dat artikel bekijkt , zie je op de daarin getoonde screenshots dat foto’s steeds belangrijker worden voor bedrijfsvermeldingen. Wil je binnenkort nog opvallen, dan heb je ècht goede foto’s van je bedrijf nodig!
+Over deze beide nieuwsfeiten heb ik van de week een [artikel](https://web.archive.org/web/20140803035105/http://www.reputatiecoaching.nl:80/google-mapmaker-tijdelijk-uit-de-lucht-en-google-maps-toont-3-bedrijven/) gepubliceerd. Als je dat artikel bekijkt , zie je op de daarin getoonde screenshots dat foto’s steeds belangrijker worden voor bedrijfsvermeldingen. Wil je binnenkort nog opvallen, dan heb je ècht goede foto’s van je bedrijf nodig!
 
 ## Google, Bing en Yahoo samen in de strijd tegen kinderporno
 
@@ -155,7 +156,7 @@ Als je je Google+ pagina wel verifieert, wordt een eventuele bestaande vermeldin
 
 De pagina’s van sommige bedrijfseigenaren die het dashboard van Places Zakelijk gebruiken, kunnen ook automatisch worden geüpgrade naar een geverifieerde zakelijke (lokale) Google+ pagina. Geverifieerde Google+ pagina’s beschikken over de functies van beide typen pagina’s die hierboven zijn beschreven: waarderingscijfers, recensies en berichten van de bedrijfseigenaar.
 
-In de tabel in de show notes op [www.reputatiecoaching.nl/52](https://www.reputatiecoaching.nl/52/) kun je de verschillen nog eens rustig bekijken:
+In de tabel in de show notes op [www.reputatiecoaching.nl/52](https://web.archive.org/web/20190717125632/https://www.reputatiecoaching.nl/52/) kun je de verschillen nog eens rustig bekijken:
 
 ![3 typen Google+ pagina’s](20131125-Typen-GooglePlus-paginas.png)
 
@@ -181,7 +182,7 @@ Je moet altijd zorgen dat je een veilige thuisbasis hebt voor je business. Dat i
 
 Je website, webshop en blog worden ook wel “Owned” media genoemd, evenals een mailinglist, brochures en ander fysiek reclamemateriaal.
 
-Vaak worden Twitter, Google+ en Facebook ook onder de owned media geschaard. Toegegeven, je kunt erop publiceren wat je wilt, dus in die zin ben je eigenaar. Toch vind ik het niet echt “owned”. Want als Facebook zou ophouden te bestaan, heb jij niets. Je zag dit een tijdje geleden in [podcast 13](https://www.reputatiecoaching.nl/13/), waarin ik je vertelde dat het social media en bloggingplatform [Posterous ten einde](https://www.reputatiecoaching.nl/13/) was.
+Vaak worden Twitter, Google+ en Facebook ook onder de owned media geschaard. Toegegeven, je kunt erop publiceren wat je wilt, dus in die zin ben je eigenaar. Toch vind ik het niet echt “owned”. Want als Facebook zou ophouden te bestaan, heb jij niets. Je zag dit een tijdje geleden in [podcast 13](https://web.archive.org/web/20131008060436/http://www.reputatiecoaching.nl:80/13/), waarin ik je vertelde dat het social media en bloggingplatform [Posterous ten einde](https://web.archive.org/web/20131008060436/http://www.reputatiecoaching.nl:80/13/) was.
 
 Gelukkig waren er toen allerlei mogelijkheden om te migreren naar WordPress.com, maar ook WordPress.com is niet van jezelf. Stel dat er een aantal onverlaten is wat de ergste discriminerende, hatende of anderszins aanstootgevende reacties op jouw WordPress.com-blog post, terwijl jij eventjes niet oplet… Dan kan WordPress.com zo maar besluiten jouw account offline te nemen en dan heb je niets meer.
 
@@ -197,7 +198,7 @@ Bega dus niet de fout om **ALLEEN MAAR** op allemaal sites en kanalen je boodsch
 
 Hetzelfde geldt ook voor alle reviews, die je met veel pijn en moeite verzamelt. In de meeste gevallen zul je deze op externe sites verzamelen; sites die dus niet van jezelf zijn. Ook daar loop je continu het risico, dat je ze kwijt kunt raken.
 
-Bewaar ze daarom allemaal, net als ik al eens in [podcast 43](https://www.reputatiecoaching.nl/43/) heb verteld over de aanbevelingen in LinkedIn. Ook die moet je veiligstellen.
+Bewaar ze daarom allemaal, net als ik al eens in [podcast 43](https://web.archive.org/web/20150312093219/http://www.reputatiecoaching.nl/43/) heb verteld over de aanbevelingen in LinkedIn. Ook die moet je veiligstellen.
 
 Als ze dan om welke reden dan ook van een site verdwijnen, dan kun je ze altijd nog op je eigen site publiceren. Op dat moment is het namelijk geen duplicate content meer.
 
@@ -236,9 +237,9 @@ Als je de podcast leuk vindt en je hebt inderdaad wat aan alle informatie die ik
 
 Als je een vraag of een probleem hebt met betrekking tot je online reputatie of de vindbaarheid van je website, kun je een mailtje sturen naar [podcast@reputatiecoaching.nl](mailto:podcast@reputatiecoaching.nl). Als je dat te lastig vindt, of als je de podcast beluistert terwijl je in de auto zit en je hebt acuut een vraag, spreek dan een boodschap in op de ReputatieCoaching Hotline, op nummer: 084 - 883 15 56. Mogelijk behandel ik je vraag of probleem dan in een artikel of in de podcast.
 
-Als laatste kun je je ook inschrijven voor de nieuwsbrief. Dan ontvang je altijd als eerste het laatste nieuws wat ik publiceer en automatisch elk kwartaal het ReputatieCoaching Podcast Boek van het afgelopen kwartaal. Surf daartoe naar [www.reputatiecoaching.nl/nieuwsbrief/](https://www.reputatiecoaching.nl/nieuwsbrief/) en schrijf je meteen in.
+Als laatste kun je je ook inschrijven voor de nieuwsbrief. Dan ontvang je altijd als eerste het laatste nieuws wat ik publiceer en automatisch elk kwartaal het ReputatieCoaching Podcast Boek van het afgelopen kwartaal. Surf daartoe naar [www.reputatiecoaching.nl/nieuwsbrief/](https://web.archive.org/web/20131205063155/http://www.reputatiecoaching.nl/nieuwsbrief/) en schrijf je meteen in.
 
-En je kunt ook rechtstreeks op de website een voicemail achterlaten, door op de tab aan de rechterkant van elke pagina te klikken, en je bericht in te spreken. Dit was [ReputatieCoaching Podast aflevering 52](https://www.reputatiecoaching.nl/52/) en mijn naam is [Eduard de Boer](http://nl.linkedin.com/in/eduarddeboer/nl).
+En je kunt ook rechtstreeks op de website een voicemail achterlaten, door op de tab aan de rechterkant van elke pagina te klikken, en je bericht in te spreken. Dit was [ReputatieCoaching Podast aflevering 52](https://web.archive.org/web/20190717125632/https://www.reputatiecoaching.nl/52/) en mijn naam is [Eduard de Boer](http://nl.linkedin.com/in/eduarddeboer/nl).
 
 Ik wens je de komende week weer succes met het werken aan je reputatie, zodat je meteen je reputatie voor jou kunt laten werken!
 
