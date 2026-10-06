@@ -29,7 +29,7 @@ Tjongejonge, heb ik net vorige week beloofd dat ik deze week op tijd zou zijn me
 
 Als persoon kun je met de diverse tips aan de slag om bijvoorbeeld je online reputatie als ambulancechauffeur, heilsoldaat, ornitoloog, vinoloog, zilversmid of wat dan ook te verbeteren.
 
-De volledige transcriptie van deze podcast kun je zoals altijd vinden op de website, en wel op: [[www.reputatiecoaching.nl/55](/nl/archief/reputatiecoaching/055/)](/nl/archief/reputatiecoaching/055/).
+De volledige transcriptie van deze podcast kun je zoals altijd vinden op de website, en wel op: [www.reputatiecoaching.nl/55](/nl/archief/reputatiecoaching/055/).
 
 Allereerst: hoe komt het nu, dat ik ook deze week later dan normaal ben met het uitbrengen van de ReputatieCoaching Podcast, terwijl ik vorige week nog zo had gezegd dat ik deze week op tijd zou zijn? Ik vind dat ik je hiervoor een uitleg verschuldigd ben.
 
@@ -139,7 +139,7 @@ In andere woorden: je inspanningen worden uiteindelijk heus beloond. Als jij wel
 
 ## 15 contentmarketing voorspellingen voor 2014
 
-En nu ik het toch over contentmarketing heb: ik kwam op Slideshare een interessante presentatie tegen met als titel “[50 Content Marketing Predictions for 2014](https://www.slideshare.net/CMI/cmi-predictions-2014)” van het Content Marketing Institute. Deze presentatie heb ik ook opgenomen in de show notes, op [[www.reputatiecoaching.nl/55](/nl/archief/reputatiecoaching/055/)](/nl/archief/reputatiecoaching/055/).
+En nu ik het toch over contentmarketing heb: ik kwam op Slideshare een interessante presentatie tegen met als titel “[50 Content Marketing Predictions for 2014](https://www.slideshare.net/CMI/cmi-predictions-2014)” van het Content Marketing Institute. Deze presentatie heb ik ook opgenomen in de show notes, op [www.reputatiecoaching.nl/55](/nl/archief/reputatiecoaching/055/).
 
 ```
   * _“Tenminste drie bedrijven uit de Fortune 500 nemen in 2014 een Chief Content Officer in dienst”_ (Joe Pulizzi)
