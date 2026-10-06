@@ -3,6 +3,7 @@ title: '104: STOP die zinloze Facebook en Twitter marketing! Statistieken van 2 
 date: '2014-11-27T07:30:31+00:00'
 description: Laatst vond ik de honderdste podcast een mijlpaal en ook deze aflevering is best een mijlpaaltje. Want met 52 weken in een jaar, betekent dit dat ik nu precies twee jaar de ReputatieCoaching Podcast uitbreng! Zometeen even kort wat statistieken… En eerder deze week meldde ik je dat www.reputatiecoaching.nl nu officieel volgens Google “mobile-friendly” is. Een paar weken geleden heb ik wat adviezen gegeven voor het beter positioneren van een babywinkel in Noord-Holland… De adviezen werpen nu al vruchten af!
 episode: 104
+kgRef: podcast_episode/reputatiecoaching_104
 historical: true
 archivePeriod: 2012–2016
 transcriptStatus: full
@@ -22,17 +23,17 @@ showTaxonomies: false
 **Transcriptiestatus:** Volledige transcriptie uit het oorspronkelijke archief.
 
 *Historische afbeelding niet beschikbaar: ReputatieCoaching Podcast*
-**Laatst vond ik de honderdste podcast een mijlpaal en ook deze aflevering is best een mijlpaaltje. Want met 52 weken in een jaar, betekent dit dat ik nu precies twee jaar de ReputatieCoaching Podcast uitbreng! Zometeen even kort wat statistieken… En eerder deze week meldde ik je dat [www.reputatiecoaching.nl](http://www.reputatiecoaching.nl) nu officieel volgens Google “mobile-friendly” is. Een paar weken geleden heb ik wat adviezen gegeven voor het beter positioneren van een babywinkel in Noord-Holland… De adviezen werpen nu al vruchten af!**
+**Laatst vond ik de honderdste podcast een mijlpaal en ook deze aflevering is best een mijlpaaltje. Want met 52 weken in een jaar, betekent dit dat ik nu precies twee jaar de ReputatieCoaching Podcast uitbreng! Zometeen even kort wat statistieken… En eerder deze week meldde ik je dat [www.reputatiecoaching.nl](https://web.archive.org/web/20141109194104/http://www.reputatiecoaching.nl:80/) nu officieel volgens Google “mobile-friendly” is. Een paar weken geleden heb ik wat adviezen gegeven voor het beter positioneren van een babywinkel in Noord-Holland… De adviezen werpen nu al vruchten af!**
 
 **Vanaf de zomer 2015 kun je gratis een SSL/TLS-certificaat voor je website krijgen. Waar en hoe? Dat vertel ik je zometeen! Verder adviseert Forrester om niets zakelijks meer te doen met Facebook en Twitter en ik sluit de podcast van vandaag af met 14 tips om je mailinglist te laten groeien.**
 
 Hallo en hartelijk welkom bij deze aflevering van de ReputatieCoaching Podcast. Ik ben Eduard de Boer, ReputatieCoach. Dit is dé podcast die jou helpt om meer business te genereren, doordat jouw website beter gevonden wordt, zowel lokaal als landelijk en doordat ik je uitleg hoe je je online reputatie kunt verbeteren. Dit helpt je om je bedrijf en jezelf beter op de online kaart te plaatsen.
 
-De podcast kun je vinden op [www.reputatiecoaching.nl/104](https://www.reputatiecoaching.nl/104/). Daar vind je niet alleen de tekst, maar ook video’s waar ik het in deze uitzending over heb, alsmede afbeeldingen, links enzovoorts. Bovendien is de podcast te beluisteren in [iTunes](https://www.reputatiecoaching.nl/itunes), op [Stitcher](https://www.reputatiecoaching.nl/stitcher) en ook op [TuneIn Radio](http://tunein.com/radio/ReputatieCoaching-Podcast-p655084/). Daar kun je je dus ook abonneren op de wekelijkse podcast. Veel mensen vinden het ideaal om de wekelijkse afleveringen van de podcast op hun gemak te beluisteren, terwijl ze autorijden, fietsen, wandelen of trainen in de sportschool.
+De podcast kun je vinden op [www.reputatiecoaching.nl/104](https://web.archive.org/web/20150312095113/http://www.reputatiecoaching.nl/104/). Daar vind je niet alleen de tekst, maar ook video’s waar ik het in deze uitzending over heb, alsmede afbeeldingen, links enzovoorts. Bovendien is de podcast te beluisteren in iTunes, op Stitcher en ook op [TuneIn Radio](http://tunein.com/radio/ReputatieCoaching-Podcast-p655084/). Daar kun je je dus ook abonneren op de wekelijkse podcast. Veel mensen vinden het ideaal om de wekelijkse afleveringen van de podcast op hun gemak te beluisteren, terwijl ze autorijden, fietsen, wandelen of trainen in de sportschool.
 
 ## Terugblik podcast 103: de sitelinks search box
 
-[Vorige week](https://www.reputatiecoaching.nl/103/) vertelde ik je dat ik de Sitelinks Search Box in elk geval technisch had gerealiseerd. Dat klopte. Wat echter niet klopte, was de verwachting die ik uitsprak dat het gemiddeld zo’n 48 uur duurt, voordat de search box zichtbaar wordt. Want inmiddels ben ik ruim een week verder en is de search box nog steeds niet zichtbaar in de zoekresultaten, niet voor Allround Fotografie en ook niet voor ReputatieCoaching.nl.
+[Vorige week](https://web.archive.org/web/20150312095056/http://www.reputatiecoaching.nl/103/) vertelde ik je dat ik de Sitelinks Search Box in elk geval technisch had gerealiseerd. Dat klopte. Wat echter niet klopte, was de verwachting die ik uitsprak dat het gemiddeld zo’n 48 uur duurt, voordat de search box zichtbaar wordt. Want inmiddels ben ik ruim een week verder en is de search box nog steeds niet zichtbaar in de zoekresultaten, niet voor Allround Fotografie en ook niet voor ReputatieCoaching.nl.
 
 Ik ben eens verder gaan lezen en kwam op Google+ een citaat tegen van Pierre Far, een Google Webmaster Trends Analyst. Hem werd gevraagd of je gegarandeerd de sitelinks search box te zien krijgt, als je alles implementeert, zoals Google dat eist.
 
@@ -65,17 +66,17 @@ Hetzelfde geldt voor de podcast. Ook daar zie ik een gestage groei, waar ik tevr
 
 Ik heb de indruk dat lezers van Nederlandstalige weblogs veel minder de interactie opzoeken met de blogger, dan Engelstalige lezers. Op Engelstalige sites zie je veel meer reacties op blogposts. Ik heb geen idee of dat te maken heeft met onze cultuur of met onze manier van contentconsumptie.
 
-Heb jij een weblog? En heb jij veel interactie met je doelgroep? Wat doe jij om interactie met je doelgroep op je blogartikelen te realiseren? Vertel het onderaan de show notes van deze podcast, op [www.reputatiecoaching.nl/104](https://www.reputatiecoaching.nl/104/).
+Heb jij een weblog? En heb jij veel interactie met je doelgroep? Wat doe jij om interactie met je doelgroep op je blogartikelen te realiseren? Vertel het onderaan de show notes van deze podcast, op [www.reputatiecoaching.nl/104](https://web.archive.org/web/20150312095113/http://www.reputatiecoaching.nl/104/).
 
-## [www.reputatiecoaching.nl](http://www.reputatiecoaching.nl) is “mobile-friendly” volgens Google
+## [www.reputatiecoaching.nl](https://web.archive.org/web/20141109194104/http://www.reputatiecoaching.nl:80/) is “mobile-friendly” volgens Google
 
 Vorige week vertelde ik ook over de nieuwe rankingsignalen van Google en dan met name met betrekking tot de mobielvriendelijkheid van je site. Het blijkt dat Google de mobielvriendelijkheid van je site dus gaat meewegen in haar algoritmes die de positie van je webpagina’s in de zoekresultaten bepalen.
 
 [Historische afbeelding: Website is mobile-friendly volgens Google](https://lh4.googleusercontent.com/YS2r8SrkZZzAzkE5b8XO-pQY0o_LUIoGUInlCGh0ytg=w431-h768-no)
 
-[Vorige week](https://www.reputatiecoaching.nl/103/) vertelde ik je ook al dat [www.reputatiecoaching.nl](/) door de “Mobile Friendly Test” van Google kwam. En eerder deze week ben ik eens gaan experimenteren met de instellingen op mijn iPhone. Ik heb de taalinstellingen voor Google gewijzigd in Engels. Daarna ging ik op zoek naar “ReputatieCoach” en zag dat in de Engelstalige resultaten de site ook al daadwerkelijk wordt aangemerkt als “Mobile-friendly”.
+[Vorige week](https://web.archive.org/web/20150312095056/http://www.reputatiecoaching.nl/103/) vertelde ik je ook al dat [www.reputatiecoaching.nl](/) door de “Mobile Friendly Test” van Google kwam. En eerder deze week ben ik eens gaan experimenteren met de instellingen op mijn iPhone. Ik heb de taalinstellingen voor Google gewijzigd in Engels. Daarna ging ik op zoek naar “ReputatieCoach” en zag dat in de Engelstalige resultaten de site ook al daadwerkelijk wordt aangemerkt als “Mobile-friendly”.
 
-Twee dagen geleden heb ik hier een kort artikeltje over gepubliceerd: “[ReputatieCoaching.nl is ‘Mobile-Friendly’ volgens Google!](https://www.reputatiecoaching.nl/reputatiecoaching-mobile-friendly-volgens-google/)”.
+Twee dagen geleden heb ik hier een kort artikeltje over gepubliceerd: “[ReputatieCoaching.nl is ‘Mobile-Friendly’ volgens Google!](https://web.archive.org/web/20190819082023/https://www.reputatiecoaching.nl/reputatiecoaching-mobile-friendly-volgens-google/)”.
 
 ## Verschillende vermeldingen van dezelfde site bij dezelfde zoekterm?
 
@@ -155,7 +156,7 @@ Dit was vorige week te lezen in het artikel “[Google has free speech right in 
 ## Tumblr snelst groeiende sociale mediaplatform
 
 ![Logo Tumblr](logo-tumblr.png)
-Volgens een [onderzoek van de Global Web Index](http://cdn2.hubspot.net/hub/304927/file-2095457964-pdf/Reports/GWI_Social_Summary_Q3_2014.pdf?submissionGuid=cf9bf5eb-810b-4f4d-8365-94e6db712d6e) (afgekort “GWI”) is Tumblr in de afgelopen zes maanden het snelst groeiende sociale netwerk. Het aantal gebruikers groeide in die periode namelijk met 120%.
+Volgens een onderzoek van de Global Web Index (afgekort “GWI”) is Tumblr in de afgelopen zes maanden het snelst groeiende sociale netwerk. Het aantal gebruikers groeide in die periode namelijk met 120%.
 
 Het minst snel groeiende sociale netwerk is… Facebook! Dat is op zich wel logisch, want met meer dan een miljard gebruikers is er niet zo bijster veel ruimte om nog echt hard te groeien.
 
@@ -165,11 +166,11 @@ Pinterest staat op de tweede plaats, met een groei van 57%, gevolgd door Instagr
 
 En wat bij Tumblr het snelste groeit, is het aantal video posts. Dat groeit namelijk tweemaal zo hard, als berichten met foto’s. Als jij bezig bent met video, zou je dan ook eens serieus moeten overwegen om je video’s ook op Tumblr te posten, omdat een deel van je doelgroep zich best wel eens op Tumblr zou kunnen bevinden.
 
-Nu ik het over Tumblr heb: heb jij een account op Tumblr? Ben je er actief? Of ben je er veel te vinden als informatieconsument? Vertel het me onderaan de show notes van deze podcast, op [www.reputatiecoaching.nl/104](https://www.reputatiecoaching.nl/104/).
+Nu ik het over Tumblr heb: heb jij een account op Tumblr? Ben je er actief? Of ben je er veel te vinden als informatieconsument? Vertel het me onderaan de show notes van deze podcast, op [www.reputatiecoaching.nl/104](https://web.archive.org/web/20150312095113/http://www.reputatiecoaching.nl/104/).
 
 ## Tieners vinden Facebook “saai” worden
 
-In het [rapport van GWI](http://cdn2.hubspot.net/hub/304927/file-2095457964-pdf/Reports/GWI_Social_Summary_Q3_2014.pdf?submissionGuid=cf9bf5eb-810b-4f4d-8365-94e6db712d6e) waar ik het zojuist over had kun je ook lezen dat 64% van de internetters in de leeftijd van 16 tot en met 19 in het Verenigd Koninkrijk en de VS steeds minder Facebook gebruiken. De hoofdreden hiervoor is dat ze het “saai” vinden worden en dat het niet meer zo “cool” is, als het in het begin was.
+In het rapport van GWI waar ik het zojuist over had kun je ook lezen dat 64% van de internetters in de leeftijd van 16 tot en met 19 in het Verenigd Koninkrijk en de VS steeds minder Facebook gebruiken. De hoofdreden hiervoor is dat ze het “saai” vinden worden en dat het niet meer zo “cool” is, als het in het begin was.
 
 [![Top social platforms by age](20141126-users-social-platforms-by-age.png)](https://lh3.googleusercontent.com/-OpERSzue0g4/VHYSqD34PoI/AAAAAAAABYE/Kso6kx5Nvlo/w852-h556-no/20141126-users-social-platforms-by-age.png)
 
@@ -182,7 +183,7 @@ Wat opmerkelijk is, is dat maar liefst 91% van de Internetters in de categorie v
 ## Forrester: “Marketeers verdoen hun tijd op Facebook en Twitter!”
 
 *Historische afbeelding niet beschikbaar: Bedrijfspagina maken op Facebook*
-En we gaan nog even door met de social media. Nate Elliot van onderzoeksbureau Forrester publiceerde vorige week het rapport “[Social Relationship Strategies That Work](https://www.forrester.com/Social+Relationship+Strategies+That+Work/fulltext/-/E-RES113002)”. Het volledige rapport kost US$499, als je het helemaal wilt inzien. Maar je kunt er genoeg informatie *over* vinden op Internet.
+En we gaan nog even door met de social media. Nate Elliot van onderzoeksbureau Forrester publiceerde vorige week het rapport “[Social Relationship Strategies That Work](https://web.archive.org/web/20150216090841/https://www.forrester.com/Social+Relationship+Strategies+That+Work/fulltext/-/E-RES113002)”. Het volledige rapport kost US$499, als je het helemaal wilt inzien. Maar je kunt er genoeg informatie *over* vinden op Internet.
 
 De ondertitel van dit rapport is niet voor niets: “How To Succeed In Social As Organic Reach Falls Toward Zero”. Dat zegt genoeg, zeker als je dat combineert met de titels van hoofdstukken, als “Your Social Relationship Strategies Aren’t Working” en “Facebook And Twitter Are No Longer The Center Of The Social Universe”.
 
@@ -238,7 +239,7 @@ Met deze 14 tips om je mailinglist te laten groeien, kom ik dan weer aan het ein
 
 Als je de podcast leuk vindt en je wilt nog meer op de hoogte blijven, volg me dan ook op Twitter, via [@reputatiecoach1](https://twitter.com/reputatiecoach1).
 
-Heb je inderdaad wat aan alle informatie die ik met je deel, help mij dan met het verder verbeteren en promoten van deze podcast. Surf daarvoor naar [iTunes](https://www.reputatiecoaching.nl/itunes) of [Stitcher](https://www.reputatiecoaching.nl/stitcher), geef de podcast een sterrenbeoordeling en laat ook je reactie achter. Door de podcast te beoordelen op iTunes en/of Stitcher breng je de podcast onder de aandacht van een breder publiek.
+Heb je inderdaad wat aan alle informatie die ik met je deel, help mij dan met het verder verbeteren en promoten van deze podcast. Surf daarvoor naar iTunes of Stitcher, geef de podcast een sterrenbeoordeling en laat ook je reactie achter. Door de podcast te beoordelen op iTunes en/of Stitcher breng je de podcast onder de aandacht van een breder publiek.
 
 Je kunt me verder helpen, door de podcast aan te bevelen bij vrienden of collega’s, waarvan je denkt dat ze er hun voordeel mee kunnen doen, of door ’m te delen op Twitter, like’n en delen op Facebook of een “+1” te geven op Google+.
 
@@ -246,7 +247,7 @@ En vergeet niet: ik ben hier om je te helpen! Als je een vraag of een probleem h
 
 Als je dat te lastig vindt, of als je de podcast beluistert terwijl je in de auto zit en je hebt acuut een vraag, spreek dan een boodschap in op de ReputatieCoaching Hotline, op nummer: 084 - 883 15 56. Mogelijk behandel ik je vraag of probleem dan in een artikel of in de podcast.
 
-En je kunt ook rechtstreeks op de website een voicemail achterlaten, door op de tab aan de rechterkant van elke pagina te klikken, en je bericht in te spreken. Dit was [ReputatieCoaching Podcast aflevering 104](https://www.reputatiecoaching.nl/104/) en mijn naam is [Eduard de Boer](http://nl.linkedin.com/in/eduarddeboer/nl).
+En je kunt ook rechtstreeks op de website een voicemail achterlaten, door op de tab aan de rechterkant van elke pagina te klikken, en je bericht in te spreken. Dit was [ReputatieCoaching Podcast aflevering 104](https://web.archive.org/web/20150312095113/http://www.reputatiecoaching.nl/104/) en mijn naam is [Eduard de Boer](http://nl.linkedin.com/in/eduarddeboer/nl).
 
 Ik wens je de komende week weer succes met het werken aan je reputatie, zodat je meteen je reputatie voor jou kunt laten werken!
 
@@ -257,15 +258,15 @@ Doei!
 Links naar content die in deze podcast aan bod komt:
 
 ```
-  * [ReputatieCoaching Podcast in iTunes](https://www.reputatiecoaching.nl/itunes)
-  * [ReputatieCoaching Podcast op Stitcher](https://www.reputatiecoaching.nl/stitcher)
+  * ReputatieCoaching Podcast in iTunes
+  * ReputatieCoaching Podcast op Stitcher
   * [ReputatieCoaching Podcast op TuneIn Radio](http://tunein.com/radio/ReputatieCoaching-Podcast-p655084/)
-  * [ReputatieCoaching Podcast RSS-feed](https://feeds.reputatiecoaching.nl/ReputatieCoachingPodcast)
+  * [ReputatieCoaching Podcast RSS-feed](https://web.archive.org/web/20141223114514/http://feeds.reputatiecoaching.nl:80/ReputatieCoachingPodcast)
   * [Word Stats (plugin voor WordPress)](http://www.tpculemborg.nl/)
   * [Let’s Encrypt](http://www.letsencrypt.org/) (GRATIS SSL/TLS certificaten)
   * “[News Feed FYI: Reducing Overly Promotional Page Posts in News Feed](http://newsroom.fb.com/news/2014/11/news-feed-fyi-reducing-overly-promotional-page-posts-in-news-feed/)” (Facebook blog, 14 november 2014)
-  * “[Social Relationship Strategies That Work](https://www.forrester.com/Social+Relationship+Strategies+That+Work/fulltext/-/E-RES113002)” (Forrester, 17 november 2014)
+  * “[Social Relationship Strategies That Work](https://web.archive.org/web/20150216090841/https://www.forrester.com/Social+Relationship+Strategies+That+Work/fulltext/-/E-RES113002)” (Forrester, 17 november 2014)
   * “[Brands Are Wasting Money on Facebook and Twitter, Forrester Says](http://blogs.wsj.com/cmo/2014/11/17/brands-are-wasting-money-on-facebook-and-twitter-forrester-says/)” (Wall Street Journal, 17 november 2014)
   * “[Forrester Advises Advertisers To Abandon Facebook Because It Is Biased Against Them](http://www.businessinsider.com/forrester-facebook-social-relationship-strategies-that-work-report-2014-11)” (Business Insider, 18 november 2014)
-  * “[ReputatieCoaching.nl is “Mobile-Friendly” volgens Google!](https://www.reputatiecoaching.nl/reputatiecoaching-mobile-friendly-volgens-google/)” (ReputatieCoaching, 25 november 2014)
+  * “[ReputatieCoaching.nl is “Mobile-Friendly” volgens Google!](https://web.archive.org/web/20190819082023/https://www.reputatiecoaching.nl/reputatiecoaching-mobile-friendly-volgens-google/)” (ReputatieCoaching, 25 november 2014)
 ```
