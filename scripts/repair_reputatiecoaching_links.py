@@ -21,6 +21,7 @@ import re
 import socket
 import ssl
 import time
+from concurrent.futures import ThreadPoolExecutor
 from dataclasses import dataclass, asdict
 from datetime import datetime, timezone
 from pathlib import Path
@@ -66,7 +67,8 @@ def parse_args() -> argparse.Namespace:
     p.add_argument("--start", type=int, required=True)
     p.add_argument("--end", type=int, required=True)
     p.add_argument("--timeout", type=float, default=12.0)
-    p.add_argument("--sleep", type=float, default=0.35)
+    p.add_argument("--sleep", type=float, default=0.1)
+    p.add_argument("--workers", type=int, default=6)
     p.add_argument("--dry-run", action="store_true")
     return p.parse_args()
 
@@ -269,7 +271,9 @@ def front_date(text: str) -> str:
     return m.group(1).strip() if m else ""
 
 
-def repair_episode(number: int, timeout: float, sleep: float) -> tuple[str, dict[str, Any]]:
+def repair_episode(
+    number: int, timeout: float, sleep: float, workers: int
+) -> tuple[str, dict[str, Any]]:
     path = episode_path(number)
     original = path.read_text(encoding="utf-8")
     text, kg_added = ensure_kg_ref(original, number)
@@ -277,25 +281,36 @@ def repair_episode(number: int, timeout: float, sleep: float) -> tuple[str, dict
     decisions: list[LinkDecision] = []
     replacements: dict[str, str | None] = {}
 
+    # Resolve each distinct URL once. Executor.map preserves first-seen order, so
+    # reports stay deterministic even though network checks run concurrently.
+    unique_links: list[tuple[str, str]] = []
+    seen: set[str] = set()
     for match in MD_LINK.finditer(text):
         label, raw_url = match.group(1), match.group(2)
         url = normalize_url(raw_url)
-        if url in replacements or is_archive(url):
+        if url in seen or is_archive(url):
             continue
+        seen.add(url)
+        unique_links.append((label, url))
 
+    def decide(item: tuple[str, str]) -> tuple[str, str | None, LinkDecision]:
+        label, url = item
         if is_internal_rc(url):
-            decision = LinkDecision(label=label, original_url=url, kind="internal_reputatiecoaching")
+            decision = LinkDecision(
+                label=label,
+                original_url=url,
+                kind="internal_reputatiecoaching",
+            )
             capture = wayback_lookup(url, date_value, timeout)
             if capture:
-                replacements[url] = capture["url"]
+                replacement = capture["url"]
                 decision.action = "wayback"
-                decision.replacement_url = capture["url"]
+                decision.replacement_url = replacement
                 decision.wayback_timestamp = capture["timestamp"]
             else:
-                replacements[url] = None
+                replacement = None
                 decision.action = "unlinked"
                 decision.note = "No usable Wayback capture found"
-            decisions.append(decision)
         else:
             live, status, note = request_status(url, timeout)
             decision = LinkDecision(
@@ -307,26 +322,35 @@ def repair_episode(number: int, timeout: float, sleep: float) -> tuple[str, dict
                 note=note,
             )
             if live == "live":
-                replacements[url] = url
+                replacement = url
                 decision.action = "kept_live"
             elif live == "dead":
                 capture = wayback_lookup(url, date_value, timeout)
                 if capture:
-                    replacements[url] = capture["url"]
+                    replacement = capture["url"]
                     decision.action = "wayback"
-                    decision.replacement_url = capture["url"]
+                    decision.replacement_url = replacement
                     decision.wayback_timestamp = capture["timestamp"]
                 else:
-                    replacements[url] = None
+                    replacement = None
                     decision.action = "unlinked"
-                    decision.note = (decision.note + "; " if decision.note else "") + "No usable Wayback capture found"
+                    decision.note = (
+                        (decision.note + "; " if decision.note else "")
+                        + "No usable Wayback capture found"
+                    )
             else:
-                replacements[url] = url
+                replacement = url
                 decision.action = "kept_uncertain"
-            decisions.append(decision)
 
         if sleep > 0:
             time.sleep(sleep)
+        return url, replacement, decision
+
+    max_workers = max(1, min(workers, len(unique_links) or 1))
+    with ThreadPoolExecutor(max_workers=max_workers) as pool:
+        for url, replacement, decision in pool.map(decide, unique_links):
+            replacements[url] = replacement
+            decisions.append(decision)
 
     def replace_match(match: re.Match[str]) -> str:
         label, raw_url = match.group(1), match.group(2)
@@ -372,7 +396,7 @@ def main() -> int:
     reports: list[dict[str, Any]] = []
     for number in range(args.start, args.end + 1):
         print(f"START podcast {number:03d}", flush=True)
-        _, report = repair_episode(number, args.timeout, args.sleep)
+        _, report = repair_episode(number, args.timeout, args.sleep, args.workers)
         reports.append(report)
         print(
             f"DONE podcast {number:03d}: "
