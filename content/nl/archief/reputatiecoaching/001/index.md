@@ -32,10 +32,10 @@ Twee weken geleden was een bijzondere dag, omdat ik toen live ging met de site [
 
 In deze podcast komen de volgende onderwerpen aan bod:
 
-- [Over de ReputatieCoaching Podcast](https://www.reputatiecoaching.nl/over-de-reputatiecoaching-podcast/)
-- [Wat is ‘reputatie’?](https://www.reputatiecoaching.nl/reputatie/)
+- [Over de ReputatieCoaching Podcast](https://web.archive.org/web/20121203000026/http://www.reputatiecoaching.nl/over-de-reputatiecoaching-podcast/)
+- [Wat is ‘reputatie’?](https://web.archive.org/web/20121203220056/http://www.reputatiecoaching.nl/reputatie/)
 - Blog voor je reputatie
-- [WordPress 3.5 komt eraan](https://www.reputatiecoaching.nl/wordpress-3-5-komt-eraan/)
+- [WordPress 3.5 komt eraan](https://web.archive.org/web/20121203020017/http://www.reputatiecoaching.nl/wordpress-3-5-komt-eraan/)
 
 En natuurlijk heb ik ook echt jullie feedback nodig, want zonder jullie reacties en vragen heb ik geen idee waar jullie mee worstelen om je online reputatie op te vijzelen. Of misschien heb je wel een negatieve reputatie opgebouwd en heb je advies nodig over hoe je daarmee moet omgaan.
 
