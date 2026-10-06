@@ -3,6 +3,7 @@ title: '30: Instagram doet video, Pinterest tips en Nederlandse taal'
 date: '2013-06-22T17:30:20+00:00'
 description: Hallo en hartelijk welkom bij de bekendste Nederlandstalige podcast over reputatiemanagement en reputatiecoaching, het verbeteren van je online vindbaarheid en optimalisatie van je website voor zoekmachines. De podcast van vandaag staat voor een groot deel in het teken van de Nederlandse taal. Maar eerst heb ik wat nieuws voor je uit de diverse media. Het al het nieuws heeft betrekking op foto’s en video. Mijn naam is Eduard de Boer –bekend als de ReputatieCoach– en ik ben je host voor vandaag!
 episode: 30
+kgRef: podcast_episode/reputatiecoaching_030
 historical: true
 archivePeriod: 2012–2016
 transcriptStatus: full
@@ -72,7 +73,7 @@ Voordat ik in de Nederlandse taal duik, heb ik nog een lokale SEO tip voor je. E
 
 Vermelding op beide sites worden door de zoekmachines beschouwd als waardevol en dat draagt dan dus bij aan de verbetering van je lokale vindbaarheid.
 
-Beide video’s vind je op de site, maar heb ik voor de volledigheid ook opgenomen in de transcriptie van deze podcast, die je kunt vinden op [www.reputatiecoaching.nl/30](https://www.reputatiecoaching.nl/30).
+Beide video’s vind je op de site, maar heb ik voor de volledigheid ook opgenomen in de transcriptie van deze podcast, die je kunt vinden op [www.reputatiecoaching.nl/30](https://web.archive.org/web/20130626055655/http://www.reputatiecoaching.nl:80/30/).
 
 ### MisterWhat
 
@@ -90,7 +91,7 @@ Hoewel leerlingen natuurlijk het liefst een zo makkelijk mogelijk examen willen,
 
 De vraag is of je de oorzaak hiervan moet zoeken in het onderwijs, in de bezuinigingen van de regering of of in iets anders. Veel van de mensen die hebben gereageerd op het artikel denken in ieder geval dat het fout is gegaan bij de invoering van de [Mammoetwet](http://nl.wikipedia.org/wiki/Mammoetwet) op 1 augustus 1968.
 
-In 2006 schreef Trouw al dat zelfs leerkrachten in spé niet meer konden rekenen en een jaar later was in 2007 op nu.nl te lezen dat tweederde van de pabostudenten was gezakt voor de taaltoets. Overigens, de links naar deze artikelen vind je allemaal in de show notes, op [www.reputatiecoaching.nl/30](https://www.reputatiecoaching.nl/30).
+In 2006 schreef Trouw al dat zelfs leerkrachten in spé niet meer konden rekenen en een jaar later was in 2007 op nu.nl te lezen dat tweederde van de pabostudenten was gezakt voor de taaltoets. Overigens, de links naar deze artikelen vind je allemaal in de show notes, op [www.reputatiecoaching.nl/30](https://web.archive.org/web/20130626055655/http://www.reputatiecoaching.nl:80/30/).
 
 Taal is continu aan verandering onderhevig en soms moet je ook als blogger even in figuurlijke zin op je vingers worden getikt over de schrijfwijze van bepaalde woorden. Ik vind dat je als blogger je uiterste best moet doen, om zo foutloos mogelijk te schrijven. Natuurlijk kunnen er soms typefouten tussendoor glippen. Maar mijns inziens draagt een foutloze of vrijwel foutloze tekst bij aan een betere reputatie.
 
@@ -127,7 +128,7 @@ Daarmee kom ik op het interview van deze week…
 
 ## Interview Bea van de Bovenkamp over taal
 
-Toeval bestaat niet. Vorig jaar was ik op het evenement “Golfen tegen Kanker” om foto’s te maken van de deelnemers die daarmee het evenement sponsorden. Aan het einde van de dag was er een verloting, waarbij één van de prijzen mij toen al erg opviel. Dat was namelijk een gratis scan van je website op taal-, spel- en stijlfouten. Die scan was gedoneerd door “[Bea teksten en fotografie](http://www.beavandebovenkamp.nl)”.
+Toeval bestaat niet. Vorig jaar was ik op het evenement “Golfen tegen Kanker” om foto’s te maken van de deelnemers die daarmee het evenement sponsorden. Aan het einde van de dag was er een verloting, waarbij één van de prijzen mij toen al erg opviel. Dat was namelijk een gratis scan van je website op taal-, spel- en stijlfouten. Die scan was gedoneerd door “[Bea teksten en fotografie](https://web.archive.org/web/20130815161216/http://www.beavandebovenkamp.nl/)”.
 
 Ik vernam toen dat Bea zelfs de uitdaging aandurft om je 100% korting te geven, als zij geen enkele fout in je website kan vinden. Dat vond ik toen al een leuke propositie die ook in mijn achterhoofd is blijven hangen.
 
@@ -165,9 +166,9 @@ Als je de podcast leuk vindt en je hebt inderdaad wat aan alle informatie die ik
 
 Als je een vraag of een probleem hebt met betrekking tot je online reputatie of de vindbaarheid van je website, kun je een mailtje sturen naar [podcast@reputatiecoaching.nl](mailto:podcast@reputatiecoaching.nl). Als je dat te lastig vindt, of als je de podcast beluistert terwijl je in de auto zit en je hebt acuut een vraag, spreek dan een boodschap in op de ReputatieCoaching Hotline, op nummer: 084 - 883 15 56. Mogelijk behandel ik je vraag of probleem dan in een artikel of in de podcast.
 
-Als laatste kun je je ook inschrijven voor de nieuwsbrief. Dan ontvang je altijd als eerste het laatste nieuws wat ik publiceer en automatisch elk kwartaal het ReputatieCoaching Podcast Boek van het afgelopen kwartaal. Surf daartoe naar [www.reputatiecoaching.nl/nieuwsbrief](https://www.reputatiecoaching.nl/nieuwsbrief) en schrijf je meteen in.
+Als laatste kun je je ook inschrijven voor de nieuwsbrief. Dan ontvang je altijd als eerste het laatste nieuws wat ik publiceer en automatisch elk kwartaal het ReputatieCoaching Podcast Boek van het afgelopen kwartaal. Surf daartoe naar [www.reputatiecoaching.nl/nieuwsbrief](https://web.archive.org/web/20131205063155/http://www.reputatiecoaching.nl/nieuwsbrief/) en schrijf je meteen in.
 
-En je kunt rechtstreeks op de website een voicemail achterlaten, door op de tab aan de rechterkant van elke pagina te klikken, en je bericht in te spreken. Dit was [ReputatieCoaching Podast aflevering 30](https://www.reputatiecoaching.nl/30) en mijn naam is [Eduard de Boer](http://nl.linkedin.com/in/eduarddeboer).
+En je kunt rechtstreeks op de website een voicemail achterlaten, door op de tab aan de rechterkant van elke pagina te klikken, en je bericht in te spreken. Dit was [ReputatieCoaching Podast aflevering 30](https://web.archive.org/web/20130626055655/http://www.reputatiecoaching.nl:80/30/) en mijn naam is [Eduard de Boer](http://nl.linkedin.com/in/eduarddeboer).
 
 Ik wens iedereen de komende week weer succes met het werken aan je reputatie, zodat je meteen je reputatie voor jou kunt laten werken!
 
@@ -178,9 +179,9 @@ Doei!
 Hieronder het overzicht van de links die in de podcast aan bod komen:
 
 ```
-  * [Bea van de Bovenkamp teksten & fotografie](http://www.beavandebovenkamp.nl)
+  * [Bea van de Bovenkamp teksten & fotografie](https://web.archive.org/web/20130815161216/http://www.beavandebovenkamp.nl/)
   * [Waagtaal](http://www.waagtaal.nl)
-  * [BNI Welvaart, Amersfoort](http://www.bniwelvaart.nl)
+  * [BNI Welvaart, Amersfoort](https://web.archive.org/web/20130527205256/http://bniwelvaart.nl/)
   * “[Leerkrachten in spe kunnen niet rekenen](http://www.trouw.nl/tr/nl/4324/Nieuws/article/detail/1447178/2006/01/02/Leerkrachten-in-spe-kunnen-niet-rekenen.dhtml)” (Trouw, 2 januari 2006)
   * “[Studenten kunnen niet meer spellen](http://vorige.nrc.nl/binnenland/article1759976.ece/Studenten_kunnen_niet_meer_spellen)” (NRC, 13 januari 2007)
   * “[Twee derde pabostudenten zakt voor taaltoets](http://www.nu.nl/wetenschap/947046/twee-derde-pabostudenten-zakt-voor-taaltoets.html)” (Nu.nl, 16 januari 2007)
@@ -190,5 +191,5 @@ Hieronder het overzicht van de links die in de podcast aan bod komen:
   * “[4 Google Trust Factors That Can Provide Negative Signals About Your Website](http://www.highrankings.com/google-trust-factors-360)” (High Rankings, 19 juni 2013)
   * “[How To Use Pinterest to Bring New Traffic to Your Business Blog](http://www.searchenginepeople.com/blog/how-to-use-pinterest-to-bring-new-traffic-to-your-business-blog.html)” (Search Engine People, 19 juni 2013)
   * “[Instagram: 16 Billion Photos, 1 Billion Likes Per Day, 130 Million Users](http://marketingland.com/instagram-stat-49174)” (Marketing Land, 20 juni 2013)
-  * “[Instagram Introduces Video](http://www.location3.com/instagram-introduces-video-feature/)” (Location3, 20 juni 2013)
+  * “[Instagram Introduces Video](https://web.archive.org/web/20131010191155/http://www.location3.com/instagram-introduces-video-feature/)” (Location3, 20 juni 2013)
 ```
