@@ -1,0 +1,287 @@
+{
+  "generated_at": "2026-10-06T14:00:19.946977+00:00",
+  "batch": {
+    "start": 166,
+    "end": 167
+  },
+  "policy": {
+    "max_batch_size": 5,
+    "internal_reputatiecoaching": "Wayback if available; otherwise unlink",
+    "external_live": "retain",
+    "external_clearly_dead": "Wayback if available; otherwise unlink",
+    "external_uncertain": "retain original and report for review"
+  },
+  "episodes": [
+    {
+      "episode": 166,
+      "path": "content/nl/archief/reputatiecoaching/166/index.md",
+      "kg_ref": "podcast_episode/reputatiecoaching_166",
+      "kg_ref_added": true,
+      "changed": true,
+      "links": [
+        {
+          "label": "*Historische afbeelding niet beschikbaar: ReputatieCoaching Podcast*",
+          "original_url": "https://www.reputatiecoaching.nl/wp-content/uploads/2012/12/Reputatie-Coaching-Podcast-logo-200x200.jpg",
+          "kind": "internal_reputatiecoaching",
+          "live_status": null,
+          "live_http_status": null,
+          "action": "wayback",
+          "replacement_url": "https://web.archive.org/web/20160422081458/http://www.reputatiecoaching.nl/wp-content/uploads/2012/12/Reputatie-Coaching-Podcast-logo-200x200.jpg",
+          "wayback_timestamp": "20160422081458",
+          "note": null
+        },
+        {
+          "label": "Google Top Contributor",
+          "original_url": "https://topcontributor.withgoogle.com",
+          "kind": "external",
+          "live_status": "dead",
+          "live_http_status": 404,
+          "action": "wayback",
+          "replacement_url": "https://web.archive.org/web/20200403002454/https://topcontributor.withgoogle.com/",
+          "wayback_timestamp": "20200403002454",
+          "note": null
+        },
+        {
+          "label": "bestandsgrootte van een vijftal foto’s op de homepage te verkleinen",
+          "original_url": "https://www.reputatiecoaching.nl/bestandsgrootte-foto-verkleinen-op-mac-pc-en-linux-met-compressor-io-instructievideo/",
+          "kind": "internal_reputatiecoaching",
+          "live_status": null,
+          "live_http_status": null,
+          "action": "wayback",
+          "replacement_url": "https://web.archive.org/web/20180911222752/http://www.reputatiecoaching.nl:80/bestandsgrootte-foto-verkleinen-op-mac-pc-en-linux-met-compressor-io-instructievideo/",
+          "wayback_timestamp": "20180911222752",
+          "note": null
+        },
+        {
+          "label": "compressor.io",
+          "original_url": "https://compressor.io",
+          "kind": "external",
+          "live_status": "live",
+          "live_http_status": 200,
+          "action": "kept_live",
+          "replacement_url": null,
+          "wayback_timestamp": null,
+          "note": null
+        },
+        {
+          "label": "ReputatieCoaching Podcast in iTunes",
+          "original_url": "https://itunes.apple.com/nl/podcast/reputatiecoaching-podcast/id584370482?l=en&mt=2",
+          "kind": "external",
+          "live_status": "dead",
+          "live_http_status": 404,
+          "action": "unlinked",
+          "replacement_url": null,
+          "wayback_timestamp": null,
+          "note": "No usable Wayback capture found"
+        },
+        {
+          "label": "ReputatieCoaching Podcast op Stitcher",
+          "original_url": "http://www.stitcher.com/podcast/reputatie-coaching-podcast/reputatiecoaching",
+          "kind": "external",
+          "live_status": "live",
+          "live_http_status": 200,
+          "action": "kept_live",
+          "replacement_url": null,
+          "wayback_timestamp": null,
+          "note": null
+        },
+        {
+          "label": "ReputatieCoaching Podcast op TuneIn Radio",
+          "original_url": "http://tunein.com/radio/ReputatieCoaching-Podcast-p655084/",
+          "kind": "external",
+          "live_status": "live",
+          "live_http_status": 200,
+          "action": "kept_live",
+          "replacement_url": null,
+          "wayback_timestamp": null,
+          "note": null
+        },
+        {
+          "label": "ReputatieCoaching Podcast RSS-feed",
+          "original_url": "https://feeds.reputatiecoaching.nl/ReputatieCoachingPodcast",
+          "kind": "external",
+          "live_status": "dead",
+          "live_http_status": null,
+          "action": "wayback",
+          "replacement_url": "https://web.archive.org/web/20160408145916/http://feeds.reputatiecoaching.nl/ReputatieCoachingPodcast",
+          "wayback_timestamp": "20160408145916",
+          "note": "gaierror: [Errno -2] Name or service not known"
+        },
+        {
+          "label": "Google Lokale Gidsen programma",
+          "original_url": "https://www.google.com/intl/nl/local/guides/",
+          "kind": "external",
+          "live_status": "live",
+          "live_http_status": 200,
+          "action": "kept_live",
+          "replacement_url": null,
+          "wayback_timestamp": null,
+          "note": null
+        },
+        {
+          "label": "Amazon Cloud Drive",
+          "original_url": "https://www.amazon.com/clouddrive/home",
+          "kind": "external",
+          "live_status": "live",
+          "live_http_status": 200,
+          "action": "kept_live",
+          "replacement_url": null,
+          "wayback_timestamp": null,
+          "note": null
+        },
+        {
+          "label": "The Diagnosis Is In: Your Medical Practice Needs Reviews",
+          "original_url": "http://www.searchinfluence.com/2016/04/the-diagnosis-is-in-your-medical-practice-needs-reviews/",
+          "kind": "external",
+          "live_status": "live",
+          "live_http_status": 200,
+          "action": "kept_live",
+          "replacement_url": null,
+          "wayback_timestamp": null,
+          "note": null
+        }
+      ],
+      "summary": {
+        "links_examined": 11,
+        "wayback": 4,
+        "unlinked": 1,
+        "kept_live": 6,
+        "kept_uncertain": 0
+      }
+    },
+    {
+      "episode": 167,
+      "path": "content/nl/archief/reputatiecoaching/167/index.md",
+      "kg_ref": "podcast_episode/reputatiecoaching_167",
+      "kg_ref_added": true,
+      "changed": true,
+      "links": [
+        {
+          "label": "evenementen uit een Google Calendar in de zoekresultaten vermeld kunt krijgen",
+          "original_url": "http://www.whitespark.ca/blog/post/82-how-to-get-google-calendar-events-in-the-search-results",
+          "kind": "external",
+          "live_status": "dead",
+          "live_http_status": 404,
+          "action": "wayback",
+          "replacement_url": "https://web.archive.org/web/20160502184024/http://www.whitespark.ca/blog/post/82-how-to-get-google-calendar-events-in-the-search-results",
+          "wayback_timestamp": "20160502184024",
+          "note": null
+        },
+        {
+          "label": "How to Use Aggregate Review Schema to Get Stars in the Search Results for Local Businesses",
+          "original_url": "http://www.whitespark.ca/blog/post/83-how-to-use-aggregate-review-schema-to-get-stars-in-the-serps",
+          "kind": "external",
+          "live_status": "dead",
+          "live_http_status": 404,
+          "action": "wayback",
+          "replacement_url": "https://web.archive.org/web/20160505182428/http://www.whitespark.ca:80/blog/post/83-how-to-use-aggregate-review-schema-to-get-stars-in-the-serps",
+          "wayback_timestamp": "20160505182428",
+          "note": null
+        },
+        {
+          "label": "*Historische afbeelding niet beschikbaar: Reviewsterren in de zoekresultaten*",
+          "original_url": "https://www.reputatiecoaching.nl/wp-content/uploads/2016/05/20160429-invisalign-yonkers.png",
+          "kind": "internal_reputatiecoaching",
+          "live_status": null,
+          "live_http_status": null,
+          "action": "wayback",
+          "replacement_url": "https://web.archive.org/web/20171020081357/http://www.reputatiecoaching.nl/wp-content/uploads/2016/05/20160429-invisalign-yonkers.png",
+          "wayback_timestamp": "20171020081357",
+          "note": null
+        },
+        {
+          "label": "Wijsman en Koster Tandartsen",
+          "original_url": "http://www.wktandartsen.nl",
+          "kind": "external",
+          "live_status": "live",
+          "live_http_status": 200,
+          "action": "kept_live",
+          "replacement_url": null,
+          "wayback_timestamp": null,
+          "note": null
+        },
+        {
+          "label": "ReputatieCoaching Podcast in iTunes",
+          "original_url": "https://itunes.apple.com/nl/podcast/reputatiecoaching-podcast/id584370482?l=en&mt=2",
+          "kind": "external",
+          "live_status": "dead",
+          "live_http_status": 404,
+          "action": "unlinked",
+          "replacement_url": null,
+          "wayback_timestamp": null,
+          "note": "No usable Wayback capture found"
+        },
+        {
+          "label": "ReputatieCoaching Podcast op Stitcher",
+          "original_url": "http://www.stitcher.com/podcast/reputatie-coaching-podcast/reputatiecoaching",
+          "kind": "external",
+          "live_status": "live",
+          "live_http_status": 200,
+          "action": "kept_live",
+          "replacement_url": null,
+          "wayback_timestamp": null,
+          "note": null
+        },
+        {
+          "label": "ReputatieCoaching Podcast op TuneIn Radio",
+          "original_url": "http://tunein.com/radio/ReputatieCoaching-Podcast-p655084/",
+          "kind": "external",
+          "live_status": "live",
+          "live_http_status": 200,
+          "action": "kept_live",
+          "replacement_url": null,
+          "wayback_timestamp": null,
+          "note": null
+        },
+        {
+          "label": "ReputatieCoaching Podcast RSS-feed",
+          "original_url": "https://feeds.reputatiecoaching.nl/ReputatieCoachingPodcast",
+          "kind": "external",
+          "live_status": "dead",
+          "live_http_status": null,
+          "action": "wayback",
+          "replacement_url": "https://web.archive.org/web/20160408145916/http://feeds.reputatiecoaching.nl/ReputatieCoachingPodcast",
+          "wayback_timestamp": "20160408145916",
+          "note": "gaierror: [Errno -2] Name or service not known"
+        },
+        {
+          "label": "Get around Rio with indoor maps of 2016 Olympic venues",
+          "original_url": "https://maps.googleblog.com/2016/05/get-around-rio-with-indoor-maps-of-2016.html",
+          "kind": "external",
+          "live_status": "live",
+          "live_http_status": 204,
+          "action": "kept_live",
+          "replacement_url": null,
+          "wayback_timestamp": null,
+          "note": null
+        },
+        {
+          "label": "Why Send Good Customers to Crappy Review Sites?",
+          "original_url": "http://www.localvisibilitysystem.com/2016/05/03/why-send-good-customers-to-crappy-review-sites/",
+          "kind": "external",
+          "live_status": "live",
+          "live_http_status": 200,
+          "action": "kept_live",
+          "replacement_url": null,
+          "wayback_timestamp": null,
+          "note": null
+        }
+      ],
+      "summary": {
+        "links_examined": 10,
+        "wayback": 4,
+        "unlinked": 1,
+        "kept_live": 5,
+        "kept_uncertain": 0
+      }
+    }
+  ],
+  "summary": {
+    "episodes": 2,
+    "changed_episodes": 2,
+    "wayback": 8,
+    "unlinked": 2,
+    "kept_live": 11,
+    "kept_uncertain": 0
+  }
+}
