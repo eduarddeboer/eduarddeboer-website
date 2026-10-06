@@ -340,21 +340,10 @@ def repair_episode(
                     )
             else:
                 # A timeout, unusual HTTP status or TLS/bot issue does not prove
-                # the original is dead. Prefer a historical Wayback capture when
-                # one exists; otherwise retain the original for manual review.
-                capture = wayback_lookup(url, date_value, timeout)
-                if capture:
-                    replacement = capture["url"]
-                    decision.action = "wayback_uncertain"
-                    decision.replacement_url = replacement
-                    decision.wayback_timestamp = capture["timestamp"]
-                else:
-                    replacement = None
-                    decision.action = "unlinked"
-                    decision.note = (
-                        (decision.note + "; " if decision.note else "")
-                        + "No usable Wayback capture found"
-                    )
+                # that the original destination is dead. Keep the original URL
+                # unchanged and flag it in the report for later/manual review.
+                replacement = url
+                decision.action = "kept_uncertain"
 
         if sleep > 0:
             time.sleep(sleep)
@@ -429,7 +418,7 @@ def main() -> int:
             "internal_reputatiecoaching": "Wayback if available; otherwise unlink",
             "external_live": "retain",
             "external_clearly_dead": "Wayback if available; otherwise unlink",
-            "external_uncertain": "Wayback if available; otherwise unlink",
+            "external_uncertain": "retain original and report for review",
         },
         "episodes": reports,
         "summary": {
