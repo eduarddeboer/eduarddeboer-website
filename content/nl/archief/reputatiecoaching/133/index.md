@@ -3,6 +3,7 @@ title: '133: Interview met videomarketingspecialist Chris van Vleuten. Verder TE
 date: '2015-06-18T06:30:59+00:00'
 description: Fantastische en ongelofelijk mooie SEO aanbiedingen komen te kust en te keur. Het eerste topic van de twee die ik vandaag voor je heb, gaat over TE mooie aanbiedingen, fraude en phishing. Ik ontving twee prachtige berichten in de mail die ik graag met je deel. Ook denken sommige mensen dat ik mogelijk reputatiecoaching.cn in China wil registreren en dus nemen ze contact op. Weer anderen sturen fake incassos uit naam van Ziggo in de hoop dat ik die betaal.
 episode: 133
+kgRef: podcast_episode/reputatiecoaching_133
 historical: true
 archivePeriod: 2012–2016
 transcriptStatus: full
@@ -28,9 +29,9 @@ Fantastische en ongelofelijk mooie SEO aanbiedingen komen te kust en te keur. He
 
 Hallo en hartelijk welkom bij deze aflevering van de ReputatieCoaching Podcast. Ik ben Eduard de Boer, ReputatieCoach. Dit is dé podcast die jou helpt om meer business te genereren, doordat jouw website beter gevonden wordt, zowel lokaal als landelijk en doordat ik je uitleg hoe je je online reputatie kunt verbeteren. Dit alles helpt je om je bedrijf en jezelf beter op de online kaart te plaatsen.
 
-De podcast van vandaag kun je vinden op [www.reputatiecoaching.nl/133](https://www.reputatiecoaching.nl/133/). Daar vind je niet alleen de tekst, maar ook video’s waar ik het in deze uitzending over heb, alsmede afbeeldingen, links enzovoorts. Bovendien is de podcast te beluisteren in [iTunes](https://www.reputatiecoaching.nl/itunes), op [Stitcher](https://www.reputatiecoaching.nl/stitcher) en ook op [TuneIn Radio](http://tunein.com/radio/ReputatieCoaching-Podcast-p655084/). Ik raad je aan om je op één van die drie kanalen te abonneren op de podcast, zodat je geen aflevering hoeft te missen!
+De podcast van vandaag kun je vinden op [www.reputatiecoaching.nl/133](https://web.archive.org/web/20190717184306/https://www.reputatiecoaching.nl/133/). Daar vind je niet alleen de tekst, maar ook video’s waar ik het in deze uitzending over heb, alsmede afbeeldingen, links enzovoorts. Bovendien is de podcast te beluisteren in iTunes, op Stitcher en ook op [TuneIn Radio](http://tunein.com/radio/ReputatieCoaching-Podcast-p655084/). Ik raad je aan om je op één van die drie kanalen te abonneren op de podcast, zodat je geen aflevering hoeft te missen!
 
-Voor ik overga op de onderwerpen van vandaag even een bedankje. In podcast 126 vertelde ik je over [fysiotherapeut Frank](https://www.reputatiecoaching.nl/126/) die mijn hulp had ingeroepen. Ik heb toen zijn vragen grotendeels beantwoord. Een paar weken geleden ben ik bij hem op bezoek geweest om hem verder op weg te helpen. Ook heb ik inmiddels het toen beloofde stappenplan voor hem opgesteld, dat hem moet helpen met de vier fysiotherapiepraktijken hogerop te komen in de lokale zoekresultaten.
+Voor ik overga op de onderwerpen van vandaag even een bedankje. In podcast 126 vertelde ik je over [fysiotherapeut Frank](https://web.archive.org/web/20190717184040/https://www.reputatiecoaching.nl/126/) die mijn hulp had ingeroepen. Ik heb toen zijn vragen grotendeels beantwoord. Een paar weken geleden ben ik bij hem op bezoek geweest om hem verder op weg te helpen. Ook heb ik inmiddels het toen beloofde stappenplan voor hem opgesteld, dat hem moet helpen met de vier fysiotherapiepraktijken hogerop te komen in de lokale zoekresultaten.
 
 Frank volgt het stappenplan en af en toe stelt hij mij via Google Hangouts een vraagje voor meer informatie. Die samenwerking loopt perfect. Frank is goed bezig met het opschonen en consistent maken van bestaande citations en het creëren van nieuwe citations.
 
@@ -157,7 +158,7 @@ Als je de podcast leuk vindt en je wilt nog meer op de hoogte blijven, volg me d
 
 Heb je inderdaad wat aan alle informatie die ik met je deel, help mij dan met het verder verbeteren en promoten van deze podcast. Abonneer je op de podcast, zodat je altijd meteen de nieuwste uitzending krijgt voorgeschoteld.
 
-Zoek de podcast op, in [iTunes](https://www.reputatiecoaching.nl/itunes) of [Stitcher](https://www.reputatiecoaching.nl/stitcher), geef de podcast een sterrenbeoordeling en laat ook je reactie achter. Door de podcast te beoordelen op iTunes en/of Stitcher breng je de podcast onder de aandacht van een breder publiek.
+Zoek de podcast op, in iTunes of Stitcher, geef de podcast een sterrenbeoordeling en laat ook je reactie achter. Door de podcast te beoordelen op iTunes en/of Stitcher breng je de podcast onder de aandacht van een breder publiek.
 
 Je kunt me verder helpen, door de podcast aan te bevelen bij vrienden of collega’s, waarvan je denkt dat ze er hun voordeel mee kunnen doen, of door ’m te delen op Twitter, like’n en delen op Facebook of een “+1” te geven op Google+.
 
@@ -176,10 +177,10 @@ Doei!
 Links naar content die in deze podcast aan bod komt:
 
 ```
-  * [ReputatieCoaching Podcast in iTunes](https://www.reputatiecoaching.nl/itunes)
-  * [ReputatieCoaching Podcast op Stitcher](https://www.reputatiecoaching.nl/stitcher)
+  * ReputatieCoaching Podcast in iTunes
+  * ReputatieCoaching Podcast op Stitcher
   * [ReputatieCoaching Podcast op TuneIn Radio](http://tunein.com/radio/ReputatieCoaching-Podcast-p655084/)
-  * [ReputatieCoaching Podcast RSS-feed](https://feeds.reputatiecoaching.nl/ReputatieCoachingPodcast)
+  * [ReputatieCoaching Podcast RSS-feed](https://web.archive.org/web/20150802021912/http://feeds.reputatiecoaching.nl:80/ReputatieCoachingPodcast)
   * [Chris van Vleuten](https://nl.linkedin.com/in/vanvleuten) (profiel op LinkedIn)
-  * [FV Media](http://www.fvmedia.nl)
+  * [FV Media](https://web.archive.org/web/20150705072507/http://www.fvmedia.nl:80/)
 ```
