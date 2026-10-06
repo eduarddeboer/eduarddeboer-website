@@ -3,6 +3,7 @@ title: '35: 1 miljoen Facebook pagina''s per maand. Bedrijfspanorama hogere rank
 date: '2013-07-27T17:30:35+00:00'
 description: ReputatieCoaching Podcast aflevering 35! Hallo en hartelijk welkom bij dé Nederlandstalige podcast die je helpt om jezelf en/of je bedrijf prominent op de kaart te zetten. Ik geef je tips en adviezen waarmee je meer business kunt doen door op de juiste manier aan je reputatie te werken, je online vindbaarheid te verbeteren en het optimaliseren van je website voor gebruikers en zoekmachines. Je kunt merken dat de zomer echt is begonnen, in ieder geval op het Noordelijk Halfrond.
 episode: 35
+kgRef: podcast_episode/reputatiecoaching_035
 historical: true
 archivePeriod: 2012–2016
 transcriptStatus: full
@@ -32,7 +33,7 @@ Hallo en hartelijk welkom bij dé Nederlandstalige podcast die je helpt om jezel
 
 Vanwege de zomerperiode is er ook wat minder nieuws te melden. Ik heb ook afgelopen week wel weer veel gelezen, maar vond er niet bijster veel relevante artikelen tussen zitten. Dus ben ik in mijn archief met leuke en veelal tijdloze topics gedoken, die ik ooit al eens heb verzameld. Daaruit komt het meerendeel van de onderwerpen van vandaag.
 
-Afgelopen week heb ik van een aantal mensen van Ordina hun LinkedIn profiel kritisch bekeken, om hen op basis van mijn bevindingen een aantal tips te geven. De presentatie die ik hiervan heb gemaakt wordt eerst intern binnen Ordina gepubliceerd. Zodra die verspreid is, zal ik die presentatie ook op [www.reputatiecoaching.nl](http://www.reputatiecoaching.nl) posten.
+Afgelopen week heb ik van een aantal mensen van Ordina hun LinkedIn profiel kritisch bekeken, om hen op basis van mijn bevindingen een aantal tips te geven. De presentatie die ik hiervan heb gemaakt wordt eerst intern binnen Ordina gepubliceerd. Zodra die verspreid is, zal ik die presentatie ook op [www.reputatiecoaching.nl](https://web.archive.org/web/20130711051452/http://www.reputatiecoaching.nl:80/) posten.
 
 Als eerste nieuws over Facebook: het aantal bedrijfspagina’s groeit nu heel hard. Als tweede topic: het mogelijke effect van een Google bedrijfspanorama op je positie in de zoekresultaten. Het derde onderwerp: Twitter heeft een tijdje geleden haar lijsten uitgebreid.
 
@@ -44,7 +45,7 @@ Als laatste onderwerp heb ik tips voor je voor het schrijven van content die ann
 
 ### 1 miljoen nieuwe Facebook pagina’s per maand!
 
-In [podcast 23](https://www.reputatiecoaching.nl/23) van 5 mei 2013 berichtte ik dat Facebook op dat moment zo’n slordige 15 miljoen bedrijfspagina’s, of beter gezegd: “Fanpages” had. Nu zijn we alweer 2 maanden verder en eerder deze week meldde Facebook dat er al 18 miljoen fanpages waren aangemaakt. Het blijft natuurlijk een strijd tussen Facebook en Google+, maar Facebook zegt dat er op dit moment zo’n 1 miljoen fanpages per maand bijkomen.
+In [podcast 23](https://web.archive.org/web/20150312092701/http://www.reputatiecoaching.nl/23/) van 5 mei 2013 berichtte ik dat Facebook op dat moment zo’n slordige 15 miljoen bedrijfspagina’s, of beter gezegd: “Fanpages” had. Nu zijn we alweer 2 maanden verder en eerder deze week meldde Facebook dat er al 18 miljoen fanpages waren aangemaakt. Het blijft natuurlijk een strijd tussen Facebook en Google+, maar Facebook zegt dat er op dit moment zo’n 1 miljoen fanpages per maand bijkomen.
 
 Wat Google+ nu aan bedrijfspagina’s heeft, is niet duidelijk. Ik denk dat Google hier pas weer een uitspraak over doet, als ze vrijwel zeker weten dat ze voor liggen op Facebook, of ze Facebook het vuur aan de schenen kunnen leggen.
 
@@ -70,7 +71,7 @@ Ik vond het in elk geval leuk om met je te delen en ik hou de online rankings va
 
 ### Twitter lijsten uitgebreid
 
-In [podcast 3](https://www.reputatiecoaching.nl/3) en [podcast 12](https://www.reputatiecoaching.nl/12) heb ik je verteld over Twitter lists. Daarmee kun je je Tweeps opnemen in lijsten, waardoor hun berichten niet jouw timeline “vervuilen”. Het voordeel van lists is dus dat je ze zelf kunt bekijken, wanneer het jou uitkomt.
+In [podcast 3](https://web.archive.org/web/20140909084944/http://www.reputatiecoaching.nl:80/3/) en [podcast 12](https://web.archive.org/web/20131009022158/http://www.reputatiecoaching.nl:80/12/) heb ik je verteld over Twitter lists. Daarmee kun je je Tweeps opnemen in lijsten, waardoor hun berichten niet jouw timeline “vervuilen”. Het voordeel van lists is dus dat je ze zelf kunt bekijken, wanneer het jou uitkomt.
 
 Toen ik er vorige keren over berichtte, ondersteunde Twitter maximaal 20 lijsten met maximaal 500 gebruikers per lijst. Sinds enige tijd is deze beperking opgeheven. Er is nog wel sprake van een vorm van beperking, maar ik verwacht dat je daar niet zo snel tegenaan loopt.
 
@@ -98,7 +99,7 @@ Zorg er dus voor, dat je dit zo snel mogelijk aanpast, als je een nieuwe WordPre
 
 ### Verhuizen in Google+
 
-Op 4 maart van dit jaar liet ik je in [podcast 14](https://www.reputatiecoaching.nl/14) weten over de veranderde richtlijnen van Google ten aanzien van het verhuizen van een bedrijf in Google+. Eerder deze week verschenen er berichten dat de richtlijnen met betrekking tot verhuizen in Google+ wederom zouden zijn aangepast. Dit is de lezen in een bericht van Jade Wang van Google, in de Google product forums.
+Op 4 maart van dit jaar liet ik je in [podcast 14](https://web.archive.org/web/20140116051008/http://www.reputatiecoaching.nl:80/14/) weten over de veranderde richtlijnen van Google ten aanzien van het verhuizen van een bedrijf in Google+. Eerder deze week verschenen er berichten dat de richtlijnen met betrekking tot verhuizen in Google+ wederom zouden zijn aangepast. Dit is de lezen in een bericht van Jade Wang van Google, in de Google product forums.
 
 Maar als je er eenmaal induikt, dan blijkt dat het dat het slechts een copy/paste is van haar post, die ze op 19 februari van dit jaar al had geplaatst. Voor de volledigheid haal ik de essentie ervan hier nog even aan:
 
@@ -129,7 +130,7 @@ En natuurlijk schrijf je content die inspeelt op de juiste zoektermen. Om die te
 
 En als ik het dan toch heb over het schrijven van goede content, wil ik je nog eens een aantal aandachtspunten en tips geven, waarmee jij je voordeel kunt doen, als je bezig gaat met het produceren van content. Want vergeet niet: technieken die in 2012 of daarvoor nog werkten, werken nu waarschijnlijk niet meer.
 
-[*Historische afbeelding niet beschikbaar: 10-SEO-Copywriting-Tips-For-Writing-Content-That-Ranks-In-2013-Infographic*](https://www.reputatiecoaching.nl/wp-content/uploads/2013/07/10-SEO-Copywriting-Tips-For-Writing-Content-That-Ranks-In-2013-Infographic.png)
+*Historische afbeelding niet beschikbaar: 10-SEO-Copywriting-Tips-For-Writing-Content-That-Ranks-In-2013-Infographic*
 
 ```
   1. **Schrijf voor mensen, niet voor zoekmachines** – Al meermalen aangehaald, maar ik zie nog maar al te vaak content die overduidelijk is geschreven voor zoekmachines.
@@ -178,7 +179,7 @@ Dit zet je hopelijk op het juiste spoor om de juiste content te produceren. Maar
 
 Als je nu nog geen inspiratie hebt voor een stuk content, dan weet ik het ook niet meer. En als je nog originele ideeën hebt voor andere content, dan dat ik hierboven heb vermeld, laat dan een reactie achter, onderaan de transcriptie.
 
-Ik noemde zojuist als twaalfde punt het maken van een podcast. Mocht jij interesse hebben in hoe je zelf een podcast opzet en online publiceert en promote, laat het me dan weten. Reageer onder de transcriptie van deze podcast, die je kunt vinden op [www.reputatiecoaching.nl/35](https://www.reputatiecoaching.nl/35) of stuur een berichtje naar [podcast@reputatiecoaching.nl](mailto:podcast@reputatiecoaching.nl). Bij voldoende animo, zal ik een special hierover maken, of een webinar of iets dergelijks organiseren.
+Ik noemde zojuist als twaalfde punt het maken van een podcast. Mocht jij interesse hebben in hoe je zelf een podcast opzet en online publiceert en promote, laat het me dan weten. Reageer onder de transcriptie van deze podcast, die je kunt vinden op [www.reputatiecoaching.nl/35](https://web.archive.org/web/20130829020830/http://www.reputatiecoaching.nl:80/35/) of stuur een berichtje naar [podcast@reputatiecoaching.nl](mailto:podcast@reputatiecoaching.nl). Bij voldoende animo, zal ik een special hierover maken, of een webinar of iets dergelijks organiseren.
 
 Met deze grote hoeveelheid tips kom ik dan weer aan het einde van de podcast van vandaag. Op zich had ik niet bijster veel nieuws, maar ik hoop dat ik je toch weer van nuttige en bruikbare informatie heb kunnen voorzien.
 
@@ -186,9 +187,9 @@ Als je de podcast leuk vindt en je hebt inderdaad wat aan alle informatie die ik
 
 Als je een vraag of een probleem hebt met betrekking tot je online reputatie of de vindbaarheid van je website, kun je een mailtje sturen naar [podcast@reputatiecoaching.nl](mailto:podcast@reputatiecoaching.nl). Als je dat te lastig vindt, of als je de podcast beluistert terwijl je in de auto zit en je hebt acuut een vraag, spreek dan een boodschap in op de ReputatieCoaching Hotline, op nummer: 084 - 883 15 56. Mogelijk behandel ik je vraag of probleem dan in een artikel of in de podcast.
 
-Als laatste kun je je ook inschrijven voor de nieuwsbrief. Dan ontvang je altijd als eerste het laatste nieuws wat ik publiceer en automatisch elk kwartaal het ReputatieCoaching Podcast Boek van het afgelopen kwartaal. Surf daartoe naar [www.reputatiecoaching.nl/nieuwsbrief](https://www.reputatiecoaching.nl/nieuwsbrief) en schrijf je meteen in.
+Als laatste kun je je ook inschrijven voor de nieuwsbrief. Dan ontvang je altijd als eerste het laatste nieuws wat ik publiceer en automatisch elk kwartaal het ReputatieCoaching Podcast Boek van het afgelopen kwartaal. Surf daartoe naar [www.reputatiecoaching.nl/nieuwsbrief](https://web.archive.org/web/20131205063155/http://www.reputatiecoaching.nl/nieuwsbrief/) en schrijf je meteen in.
 
-En je kunt rechtstreeks op de website een voicemail achterlaten, door op de tab aan de rechterkant van elke pagina te klikken, en je bericht in te spreken. Dit was [ReputatieCoaching Podast aflevering 35](https://www.reputatiecoaching.nl/35) en mijn naam is [Eduard de Boer](http://nl.linkedin.com/in/eduarddeboer).
+En je kunt rechtstreeks op de website een voicemail achterlaten, door op de tab aan de rechterkant van elke pagina te klikken, en je bericht in te spreken. Dit was [ReputatieCoaching Podast aflevering 35](https://web.archive.org/web/20130829020830/http://www.reputatiecoaching.nl:80/35/) en mijn naam is [Eduard de Boer](http://nl.linkedin.com/in/eduarddeboer).
 
 Ik wens je de komende week weer succes met het werken aan je reputatie, zodat je meteen je reputatie voor jou kunt laten werken!
 
