@@ -1901,8 +1901,8 @@
     },
     "defined_term/due_diligence_eutr": {
       "description": {
-        "en": "The due diligence system required by the EUTR for information gathering, risk assessment and, where necessary, risk mitigation when placing timber and timber products on the market.",
-        "nl": "Het onder de EUTR voorgeschreven zorgvuldigheidsstelsel voor informatieverzameling, risicobeoordeling en, waar nodig, risicobeperking bij het op de markt brengen van hout en houtproducten."
+        "en": "The EUTR Article 6 system of information, risk assessment and, where needed, risk mitigation for timber and timber products.",
+        "nl": "Het in artikel 6 EUTR voorgeschreven stelsel van informatie, risicobeoordeling en, waar nodig, risicobeperking voor hout en houtproducten."
       },
       "id": "defined_term/due_diligence_eutr",
       "name": {
@@ -1914,8 +1914,8 @@
     },
     "defined_term/geolocation_eudr": {
       "description": {
-        "en": "The geographic location of a plot as used in the EUDR to trace the origin of relevant commodities to their plots of production.",
-        "nl": "De geografische locatie van een perceel zoals bedoeld in de EUDR, gebruikt om de herkomst van relevante grondstoffen tot productiepercelen te kunnen herleiden."
+        "en": "The geographic location of a plot as legally defined in Article 2(28), using the coordinates and, where required, polygons specified by the EUDR.",
+        "nl": "De geografische locatie van een perceel zoals juridisch gedefinieerd in artikel 2, punt 28, met de in de EUDR voorgeschreven coördinaten en, waar vereist, polygonen."
       },
       "id": "defined_term/geolocation_eudr",
       "name": {
@@ -2062,8 +2062,8 @@
     },
     "defined_term/risk_assessment": {
       "description": {
-        "en": "The systematic identification, evaluation and substantiation of risks as a basis for decisions and, where necessary, mitigation; under both EUTR and EUDR it is a core due diligence step.",
-        "nl": "Het systematisch identificeren, beoordelen en onderbouwen van risico's als basis voor besluitvorming en eventuele risicobeperking; in zowel EUTR als EUDR is dit een kernstap van due diligence."
+        "en": "Assessment of the risk of non-compliance using the legally required information and criteria; both EUTR and EUDR make this part of due diligence.",
+        "nl": "De beoordeling van het risico op niet-conformiteit op basis van de wettelijk vereiste informatie en criteria; zowel EUTR als EUDR maken dit onderdeel van het zorgvuldigheidsproces."
       },
       "id": "defined_term/risk_assessment",
       "name": {
@@ -2246,8 +2246,8 @@
       ],
       "date_published": "2023-06-09",
       "description": {
-        "en": "EU regulation on making available on the Union market and exporting certain commodities and products associated with deforestation and forest degradation.",
-        "nl": "EU-verordening over het op de Uniemarkt aanbieden en uitvoeren van bepaalde grondstoffen en producten die verband houden met ontbossing en bosdegradatie."
+        "en": "The EUDR sets conditions for placing, making available and exporting products derived from cattle, cocoa, coffee, oil palm, rubber, soya and wood in the EU. Products must be deforestation-free and legally produced and, depending on the market role, covered by the required due diligence statement or simplified declaration.",
+        "nl": "De EUDR stelt voorwaarden aan het in de EU in de handel brengen, op de markt aanbieden en uitvoeren van producten uit runderen, cacao, koffie, oliepalm, rubber, soja en hout. Producten moeten ontbossingsvrij en legaal geproduceerd zijn en, afhankelijk van de marktrol, door de vereiste zorgvuldigheidsverklaring of vereenvoudigde aangifte worden gedekt."
       },
       "id": "legislation/eudr_2023_1115",
       "identifiers": [
@@ -2263,6 +2263,8 @@
         }
       ],
       "legislation_date": "2023-05-31",
+      "legislation_jurisdiction": "European Union",
+      "legislation_type": "Regulation",
       "name": {
         "en": "Regulation (EU) 2023/1115 (EUDR)",
         "nl": "Verordening (EU) 2023/1115 (EUDR)"
@@ -2291,8 +2293,8 @@
       ],
       "date_published": "2010-11-12",
       "description": {
-        "en": "EU regulation laying down obligations for operators who place timber and timber products on the market.",
-        "nl": "EU-verordening die verplichtingen vaststelt voor marktdeelnemers die hout en houtproducten op de markt brengen."
+        "en": "The EUTR prohibits placing illegally harvested timber on the EU market and requires operators to apply a due diligence system covering information collection, risk assessment and, where needed, risk mitigation; traders have traceability obligations. The EUDR repeals the EUTR from 30 December 2026, with transitional rules for certain timber products produced before 29 June 2023.",
+        "nl": "De EUTR verbiedt het op de EU-markt brengen van illegaal gekapt hout en verplicht marktdeelnemers een zorgvuldigheidsstelsel met informatieverzameling, risicobeoordeling en zo nodig risicobeperking toe te passen; handelaren hebben traceerbaarheidsverplichtingen. De EUDR trekt de EUTR vanaf 30 december 2026 in, met een overgangsregeling voor bepaalde vóór 29 juni 2023 geproduceerde houtproducten."
       },
       "id": "legislation/eutr_995_2010",
       "identifiers": [
@@ -2313,6 +2315,8 @@
         }
       ],
       "legislation_date": "2010-10-20",
+      "legislation_jurisdiction": "European Union",
+      "legislation_type": "Regulation",
       "name": {
         "en": "Regulation (EU) No 995/2010 (EUTR)",
         "nl": "Verordening (EU) nr. 995/2010 (EUTR)"
@@ -23478,7 +23482,7 @@
   ],
   "schema_version": 1,
   "source": {
-    "commit": "794319608f742a36ccb18202fe412aa0b7f5187b",
+    "commit": "82b0cf770f1e282e5f43d18900f5856e7e7bffda",
     "production_base": "https://data.eduarddeboer.com/",
     "repository": "eduarddeboer/eduarddeboer-kg"
   }
