@@ -204,30 +204,63 @@ def fetch_json(url: str, timeout: float) -> dict[str, Any]:
 
 def wayback_lookup(url: str, episode_date: str, timeout: float) -> dict[str, str] | None:
     target_stamp = re.sub(r"[^0-9]", "", episode_date)[:8] or None
-    for candidate in wayback_variants(url):
+    variants = wayback_variants(url)
+
+    def capture_for(candidate: str, use_target: bool) -> dict[str, str] | None:
         params = {"url": candidate}
-        if target_stamp:
+        if use_target and target_stamp:
             params["timestamp"] = target_stamp
-        endpoints = [
-            "https://archive.org/wayback/available?" + urlencode(params),
-            "https://archive.org/wayback/available?" + urlencode({"url": candidate}),
-        ]
-        for endpoint in endpoints:
-            try:
-                payload = fetch_json(endpoint, timeout)
-            except Exception:
-                continue
-            closest = (payload.get("archived_snapshots") or {}).get("closest")
-            if not isinstance(closest, dict) or not closest.get("available"):
-                continue
-            capture_url = str(closest.get("url") or "")
-            stamp = str(closest.get("timestamp") or "")
-            status = str(closest.get("status") or "")
-            if not capture_url or status not in {"", "200"}:
-                continue
-            if capture_url.startswith("http://web.archive.org/"):
-                capture_url = "https://" + capture_url[len("http://") :]
-            return {"url": capture_url, "timestamp": stamp, "original": candidate}
+        endpoint = "https://archive.org/wayback/available?" + urlencode(params)
+        try:
+            payload = fetch_json(endpoint, timeout)
+        except Exception:
+            return None
+        closest = (payload.get("archived_snapshots") or {}).get("closest")
+        if not isinstance(closest, dict) or not closest.get("available"):
+            return None
+        capture_url = str(closest.get("url") or "")
+        stamp = str(closest.get("timestamp") or "")
+        status = str(closest.get("status") or "")
+        if not capture_url or status not in {"", "200"}:
+            return None
+        if capture_url.startswith("http://web.archive.org/"):
+            capture_url = "https://" + capture_url[len("http://") :]
+        return {"url": capture_url, "timestamp": stamp, "original": candidate}
+
+    def score(capture: dict[str, str]) -> tuple[int, int, str]:
+        stamp = re.sub(r"[^0-9]", "", capture.get("timestamp", ""))
+        if not target_stamp or len(stamp) < 8:
+            return (10**12, 1, stamp)
+        try:
+            target = datetime.strptime(target_stamp, "%Y%m%d")
+            captured = datetime.strptime(stamp[:8], "%Y%m%d")
+            distance = abs((captured - target).days)
+            # With equal distance prefer a capture at/before the episode date.
+            after_penalty = 1 if captured > target else 0
+            return (distance, after_penalty, stamp)
+        except ValueError:
+            return (10**12, 1, stamp)
+
+    # Query every URL variant with the episode date. A historical http:// capture
+    # can be years closer than the first https:// capture, so never accept the
+    # first result blindly.
+    captures = [
+        capture
+        for candidate in variants
+        if (capture := capture_for(candidate, use_target=True)) is not None
+    ]
+    if captures:
+        return min(captures, key=score)
+
+    # Only when the timestamp-aware lookup finds nothing, try the generic
+    # availability lookup across all variants.
+    captures = [
+        capture
+        for candidate in variants
+        if (capture := capture_for(candidate, use_target=False)) is not None
+    ]
+    if captures:
+        return min(captures, key=score)
     return None
 
 
