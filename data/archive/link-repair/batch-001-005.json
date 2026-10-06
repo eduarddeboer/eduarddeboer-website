@@ -1,0 +1,544 @@
+{
+  "generated_at": "2026-10-06T06:21:25.715095+00:00",
+  "batch": {
+    "start": 1,
+    "end": 5
+  },
+  "policy": {
+    "max_batch_size": 5,
+    "internal_reputatiecoaching": "Wayback if available; otherwise unlink",
+    "external_live": "retain",
+    "external_clearly_dead": "Wayback if available; otherwise unlink",
+    "external_uncertain": "retain original and report for review"
+  },
+  "episodes": [
+    {
+      "episode": 1,
+      "path": "content/nl/archief/reputatiecoaching/001/index.md",
+      "kg_ref": "podcast_episode/reputatiecoaching_001",
+      "kg_ref_added": false,
+      "changed": true,
+      "links": [
+        {
+          "label": "www.reputatiecoaching.nl",
+          "original_url": "https://www.reputatiecoaching.nl",
+          "kind": "internal_reputatiecoaching",
+          "live_status": null,
+          "live_http_status": null,
+          "action": "wayback",
+          "replacement_url": "https://web.archive.org/web/20121220064204/http://www.reputatiecoaching.nl:80/",
+          "wayback_timestamp": "20121220064204",
+          "note": null
+        }
+      ],
+      "summary": {
+        "links_examined": 1,
+        "wayback": 1,
+        "unlinked": 0,
+        "kept_live": 0,
+        "kept_uncertain": 0
+      }
+    },
+    {
+      "episode": 2,
+      "path": "content/nl/archief/reputatiecoaching/002/index.md",
+      "kg_ref": "podcast_episode/reputatiecoaching_002",
+      "kg_ref_added": true,
+      "changed": true,
+      "links": [
+        {
+          "label": "vorige podcast",
+          "original_url": "https://www.reputatiecoaching.nl/1/",
+          "kind": "internal_reputatiecoaching",
+          "live_status": null,
+          "live_http_status": null,
+          "action": "wayback",
+          "replacement_url": "https://web.archive.org/web/20150312092200/http://www.reputatiecoaching.nl/1/",
+          "wayback_timestamp": "20150312092200",
+          "note": null
+        },
+        {
+          "label": "wat een podcast is",
+          "original_url": "https://www.reputatiecoaching.nl/over-de-reputatiecoaching-podcast/",
+          "kind": "internal_reputatiecoaching",
+          "live_status": null,
+          "live_http_status": null,
+          "action": "wayback",
+          "replacement_url": "https://web.archive.org/web/20190822073050/https://www.reputatiecoaching.nl/over-de-reputatiecoaching-podcast/",
+          "wayback_timestamp": "20190822073050",
+          "note": null
+        },
+        {
+          "label": "Mijn achtergrond",
+          "original_url": "https://www.reputatiecoaching.nl/mijn-achtergrond/",
+          "kind": "internal_reputatiecoaching",
+          "live_status": null,
+          "live_http_status": null,
+          "action": "wayback",
+          "replacement_url": "https://web.archive.org/web/20190916083017/https://www.reputatiecoaching.nl/mijn-achtergrond/",
+          "wayback_timestamp": "20190916083017",
+          "note": null
+        },
+        {
+          "label": "Zoekmachineoptimalisatie voor klanten",
+          "original_url": "https://www.reputatiecoaching.nl/zoekmachineoptimalisatie-voor-klanten/",
+          "kind": "internal_reputatiecoaching",
+          "live_status": null,
+          "live_http_status": null,
+          "action": "wayback",
+          "replacement_url": "https://web.archive.org/web/20190916083157/https://www.reputatiecoaching.nl/zoekmachineoptimalisatie-voor-klanten/",
+          "wayback_timestamp": "20190916083157",
+          "note": null
+        },
+        {
+          "label": "RSS Feeds in Google Reader",
+          "original_url": "https://www.reputatiecoaching.nl/rss-feeds-in-google-reader/",
+          "kind": "internal_reputatiecoaching",
+          "live_status": null,
+          "live_http_status": null,
+          "action": "wayback",
+          "replacement_url": "https://web.archive.org/web/20190916083445/https://www.reputatiecoaching.nl/rss-feeds-in-google-reader/",
+          "wayback_timestamp": "20190916083445",
+          "note": null
+        },
+        {
+          "label": "Moet ik altijd meteen mijn WordPress updaten?",
+          "original_url": "https://www.reputatiecoaching.nl/moet-ik-altijd-meteen-mijn-wordpress-updaten/",
+          "kind": "internal_reputatiecoaching",
+          "live_status": null,
+          "live_http_status": null,
+          "action": "wayback",
+          "replacement_url": "https://web.archive.org/web/20190823161050/https://www.reputatiecoaching.nl/moet-ik-altijd-meteen-mijn-wordpress-updaten/",
+          "wayback_timestamp": "20190823161050",
+          "note": null
+        },
+        {
+          "label": "screencast",
+          "original_url": "https://www.reputatiecoaching.nl/fouten-in-je-bedrijfsvermelding-fataal-voor-je-vindbaarheid/",
+          "kind": "internal_reputatiecoaching",
+          "live_status": null,
+          "live_http_status": null,
+          "action": "wayback",
+          "replacement_url": "https://web.archive.org/web/20190717184653/https://www.reputatiecoaching.nl/fouten-in-je-bedrijfsvermelding-fataal-voor-je-vindbaarheid/",
+          "wayback_timestamp": "20190717184653",
+          "note": null
+        }
+      ],
+      "summary": {
+        "links_examined": 7,
+        "wayback": 7,
+        "unlinked": 0,
+        "kept_live": 0,
+        "kept_uncertain": 0
+      }
+    },
+    {
+      "episode": 3,
+      "path": "content/nl/archief/reputatiecoaching/003/index.md",
+      "kg_ref": "podcast_episode/reputatiecoaching_003",
+      "kg_ref_added": true,
+      "changed": true,
+      "links": [
+        {
+          "label": "Google Authorship",
+          "original_url": "https://www.reputatiecoaching.nl/wiki/google-authorship/",
+          "kind": "internal_reputatiecoaching",
+          "live_status": null,
+          "live_http_status": null,
+          "action": "unlinked",
+          "replacement_url": null,
+          "wayback_timestamp": null,
+          "note": "No usable Wayback capture found"
+        },
+        {
+          "label": "Rich Snippets & schema.org",
+          "original_url": "https://www.reputatiecoaching.nl/rich-snippets-schema-org/",
+          "kind": "internal_reputatiecoaching",
+          "live_status": null,
+          "live_http_status": null,
+          "action": "wayback",
+          "replacement_url": "https://web.archive.org/web/20190822074547/https://www.reputatiecoaching.nl/rich-snippets-schema-org/",
+          "wayback_timestamp": "20190822074547",
+          "note": null
+        },
+        {
+          "label": "Twitter Lists",
+          "original_url": "https://www.reputatiecoaching.nl/twitter-lists/",
+          "kind": "internal_reputatiecoaching",
+          "live_status": null,
+          "live_http_status": null,
+          "action": "wayback",
+          "replacement_url": "https://web.archive.org/web/20190822072320/https://www.reputatiecoaching.nl/twitter-lists/",
+          "wayback_timestamp": "20190822072320",
+          "note": null
+        },
+        {
+          "label": "Gratis Google Apps for Business stopt",
+          "original_url": "https://www.reputatiecoaching.nl/gratis-google-apps-for-business-stopt/",
+          "kind": "internal_reputatiecoaching",
+          "live_status": null,
+          "live_http_status": null,
+          "action": "wayback",
+          "replacement_url": "https://web.archive.org/web/20190822084004/https://www.reputatiecoaching.nl/gratis-google-apps-for-business-stopt/",
+          "wayback_timestamp": "20190822084004",
+          "note": null
+        },
+        {
+          "label": "Over op outlook.com?",
+          "original_url": "https://www.reputatiecoaching.nl/over-op-outlook-com/",
+          "kind": "internal_reputatiecoaching",
+          "live_status": null,
+          "live_http_status": null,
+          "action": "wayback",
+          "replacement_url": "https://web.archive.org/web/20190822072316/https://www.reputatiecoaching.nl/over-op-outlook-com/",
+          "wayback_timestamp": "20190822072316",
+          "note": null
+        },
+        {
+          "label": "Pinterest business accounts",
+          "original_url": "https://www.reputatiecoaching.nl/pinterest-business-accounts/",
+          "kind": "internal_reputatiecoaching",
+          "live_status": null,
+          "live_http_status": null,
+          "action": "wayback",
+          "replacement_url": "https://web.archive.org/web/20190821095259/https://www.reputatiecoaching.nl/pinterest-business-accounts/",
+          "wayback_timestamp": "20190821095259",
+          "note": null
+        },
+        {
+          "label": "WordPress met codenaam “Elvin” is ook al in het Nederlands beschikbaar",
+          "original_url": "http://nl.wordpress.org/2012/12/11/wordpress-3-5-met-sterk-verbeterde-media-beheer-interface/",
+          "kind": "external",
+          "live_status": "live",
+          "live_http_status": 200,
+          "action": "kept_live",
+          "replacement_url": null,
+          "wayback_timestamp": null,
+          "note": null
+        },
+        {
+          "label": "volgende podcast",
+          "original_url": "https://www.reputatiecoaching.nl/4/",
+          "kind": "internal_reputatiecoaching",
+          "live_status": null,
+          "live_http_status": null,
+          "action": "wayback",
+          "replacement_url": "https://web.archive.org/web/20131214104753/http://www.reputatiecoaching.nl/4/",
+          "wayback_timestamp": "20131214104753",
+          "note": null
+        }
+      ],
+      "summary": {
+        "links_examined": 8,
+        "wayback": 6,
+        "unlinked": 1,
+        "kept_live": 1,
+        "kept_uncertain": 0
+      }
+    },
+    {
+      "episode": 4,
+      "path": "content/nl/archief/reputatiecoaching/004/index.md",
+      "kg_ref": "podcast_episode/reputatiecoaching_004",
+      "kg_ref_added": true,
+      "changed": true,
+      "links": [
+        {
+          "label": "Mijn WordPresss 3.5 Upgrade",
+          "original_url": "https://www.reputatiecoaching.nl/mijn-wordpress-3-5-upgrade/",
+          "kind": "internal_reputatiecoaching",
+          "live_status": null,
+          "live_http_status": null,
+          "action": "wayback",
+          "replacement_url": "https://web.archive.org/web/20200516100754/https://www.reputatiecoaching.nl/mijn-wordpress-3-5-upgrade/",
+          "wayback_timestamp": "20200516100754",
+          "note": null
+        },
+        {
+          "label": "Servermigratie afgerond",
+          "original_url": "https://www.reputatiecoaching.nl/servermigratie-afgerond/",
+          "kind": "internal_reputatiecoaching",
+          "live_status": null,
+          "live_http_status": null,
+          "action": "wayback",
+          "replacement_url": "https://web.archive.org/web/20200516100732/https://www.reputatiecoaching.nl/servermigratie-afgerond/",
+          "wayback_timestamp": "20200516100732",
+          "note": null
+        },
+        {
+          "label": "BackWPUp voor WordPress",
+          "original_url": "https://www.reputatiecoaching.nl/backwpup-voor-wordpress/",
+          "kind": "internal_reputatiecoaching",
+          "live_status": null,
+          "live_http_status": null,
+          "action": "wayback",
+          "replacement_url": "https://web.archive.org/web/20200516100748/https://www.reputatiecoaching.nl/backwpup-voor-wordpress/",
+          "wayback_timestamp": "20200516100748",
+          "note": null
+        },
+        {
+          "label": "Zet je bedrijf op Apple Maps",
+          "original_url": "https://www.reputatiecoaching.nl/zet-je-bedrijf-op-apple-maps/",
+          "kind": "internal_reputatiecoaching",
+          "live_status": null,
+          "live_http_status": null,
+          "action": "wayback",
+          "replacement_url": "https://web.archive.org/web/20190821101451/https://www.reputatiecoaching.nl/zet-je-bedrijf-op-apple-maps/",
+          "wayback_timestamp": "20190821101451",
+          "note": null
+        },
+        {
+          "label": "Verzamel recensies voor je online reputatie",
+          "original_url": "https://www.reputatiecoaching.nl/verzamel-recensies-voor-je-online-reputatie/",
+          "kind": "internal_reputatiecoaching",
+          "live_status": null,
+          "live_http_status": null,
+          "action": "wayback",
+          "replacement_url": "https://web.archive.org/web/20190818203551/https://www.reputatiecoaching.nl/verzamel-recensies-voor-je-online-reputatie/",
+          "wayback_timestamp": "20190818203551",
+          "note": null
+        },
+        {
+          "label": "Dropbox",
+          "original_url": "https://www.reputatiecoaching.nl/dropbox",
+          "kind": "internal_reputatiecoaching",
+          "live_status": null,
+          "live_http_status": null,
+          "action": "unlinked",
+          "replacement_url": null,
+          "wayback_timestamp": null,
+          "note": "No usable Wayback capture found"
+        },
+        {
+          "label": "WordPress Backup to Dropbox",
+          "original_url": "https://www.reputatiecoaching.nl/backuptodropbox",
+          "kind": "internal_reputatiecoaching",
+          "live_status": null,
+          "live_http_status": null,
+          "action": "unlinked",
+          "replacement_url": null,
+          "wayback_timestamp": null,
+          "note": "No usable Wayback capture found"
+        },
+        {
+          "label": "BackWPup",
+          "original_url": "https://www.reputatiecoaching.nl/backwpup",
+          "kind": "internal_reputatiecoaching",
+          "live_status": null,
+          "live_http_status": null,
+          "action": "unlinked",
+          "replacement_url": null,
+          "wayback_timestamp": null,
+          "note": "No usable Wayback capture found"
+        },
+        {
+          "label": "outlook.com",
+          "original_url": "https://outlook.com",
+          "kind": "external",
+          "live_status": "uncertain",
+          "live_http_status": 417,
+          "action": "kept_uncertain",
+          "replacement_url": null,
+          "wayback_timestamp": null,
+          "note": "HTTP 417"
+        },
+        {
+          "label": "Yelp",
+          "original_url": "https://www.yelp.nl",
+          "kind": "external",
+          "live_status": "live",
+          "live_http_status": 200,
+          "action": "kept_live",
+          "replacement_url": null,
+          "wayback_timestamp": null,
+          "note": null
+        }
+      ],
+      "summary": {
+        "links_examined": 10,
+        "wayback": 5,
+        "unlinked": 3,
+        "kept_live": 1,
+        "kept_uncertain": 1
+      }
+    },
+    {
+      "episode": 5,
+      "path": "content/nl/archief/reputatiecoaching/005/index.md",
+      "kg_ref": "podcast_episode/reputatiecoaching_005",
+      "kg_ref_added": true,
+      "changed": true,
+      "links": [
+        {
+          "label": "*Historische afbeelding niet beschikbaar: ReputatieCoaching Podcast Aflevering 5 (31-12-2012)*",
+          "original_url": "https://www.reputatiecoaching.nl/wp-content/uploads/2012/12/Reputatie-Coaching-Podcast-logo-200x200.jpg",
+          "kind": "internal_reputatiecoaching",
+          "live_status": null,
+          "live_http_status": null,
+          "action": "wayback",
+          "replacement_url": "https://web.archive.org/web/20131010084553/http://www.reputatiecoaching.nl/wp-content/uploads/2012/12/Reputatie-Coaching-Podcast-logo-200x200.jpg",
+          "wayback_timestamp": "20131010084553",
+          "note": null
+        },
+        {
+          "label": "Recensies op Yelp",
+          "original_url": "https://www.reputatiecoaching.nl/recensies-op-yelp/",
+          "kind": "internal_reputatiecoaching",
+          "live_status": null,
+          "live_http_status": null,
+          "action": "wayback",
+          "replacement_url": "https://web.archive.org/web/20190822072123/https://www.reputatiecoaching.nl/recensies-op-yelp/",
+          "wayback_timestamp": "20190822072123",
+          "note": null
+        },
+        {
+          "label": "2 miljard views op YouTube weg…",
+          "original_url": "https://www.reputatiecoaching.nl/2-miljard-views-op-youtube-weg/",
+          "kind": "internal_reputatiecoaching",
+          "live_status": null,
+          "live_http_status": null,
+          "action": "wayback",
+          "replacement_url": "https://web.archive.org/web/20190823154210/https://www.reputatiecoaching.nl/2-miljard-views-op-youtube-weg/",
+          "wayback_timestamp": "20190823154210",
+          "note": null
+        },
+        {
+          "label": "Aanpassing Instagram voorwaarden",
+          "original_url": "https://www.reputatiecoaching.nl/aanpassing-instagram-voorwaarden/",
+          "kind": "internal_reputatiecoaching",
+          "live_status": null,
+          "live_http_status": null,
+          "action": "wayback",
+          "replacement_url": "https://web.archive.org/web/20190823153746/https://www.reputatiecoaching.nl/aanpassing-instagram-voorwaarden/",
+          "wayback_timestamp": "20190823153746",
+          "note": null
+        },
+        {
+          "label": "Facebook Nearby concurrent voor Google+, Foursquare en Yelp?",
+          "original_url": "https://www.reputatiecoaching.nl/facebook-nearby-concurrent-voor-google-foursquare-en-yelp/",
+          "kind": "internal_reputatiecoaching",
+          "live_status": null,
+          "live_http_status": null,
+          "action": "wayback",
+          "replacement_url": "https://web.archive.org/web/20190822072012/https://www.reputatiecoaching.nl/facebook-nearby-concurrent-voor-google-foursquare-en-yelp/",
+          "wayback_timestamp": "20190822072012",
+          "note": null
+        },
+        {
+          "label": "Subdirectories of subdomeinen?",
+          "original_url": "https://www.reputatiecoaching.nl/subdirectories-of-subdomeinen-voor-je-website/",
+          "kind": "internal_reputatiecoaching",
+          "live_status": null,
+          "live_http_status": null,
+          "action": "wayback",
+          "replacement_url": "https://web.archive.org/web/20190818203725/https://www.reputatiecoaching.nl/subdirectories-of-subdomeinen-voor-je-website/",
+          "wayback_timestamp": "20190818203725",
+          "note": null
+        },
+        {
+          "label": "Google Structured Data Highlighter",
+          "original_url": "https://www.reputatiecoaching.nl/google-structured-data-highlighter/",
+          "kind": "internal_reputatiecoaching",
+          "live_status": null,
+          "live_http_status": null,
+          "action": "wayback",
+          "replacement_url": "https://web.archive.org/web/20190818194540/https://www.reputatiecoaching.nl/google-structured-data-highlighter/",
+          "wayback_timestamp": "20190818194540",
+          "note": null
+        },
+        {
+          "label": "DuckDuckGo",
+          "original_url": "https://www.reputatiecoaching.nl/wiki/duckduckgo/",
+          "kind": "internal_reputatiecoaching",
+          "live_status": null,
+          "live_http_status": null,
+          "action": "unlinked",
+          "replacement_url": null,
+          "wayback_timestamp": null,
+          "note": "No usable Wayback capture found"
+        },
+        {
+          "label": "*Historische afbeelding niet beschikbaar: DuckDuckGo*",
+          "original_url": "http://duckduckgo.nl",
+          "kind": "external",
+          "live_status": "live",
+          "live_http_status": 200,
+          "action": "kept_live",
+          "replacement_url": null,
+          "wayback_timestamp": null,
+          "note": null
+        },
+        {
+          "label": "SonyBMG verlies 850 miljoen YouTube views",
+          "original_url": "http://socialblade.com/youtube/user/sonybmg",
+          "kind": "external",
+          "live_status": "live",
+          "live_http_status": 200,
+          "action": "kept_live",
+          "replacement_url": null,
+          "wayback_timestamp": null,
+          "note": null
+        },
+        {
+          "label": "Universal Music Group raakt 1 miljard YouTube views kwijt",
+          "original_url": "http://socialblade.com/youtube/user/universalmusicgroup",
+          "kind": "external",
+          "live_status": "live",
+          "live_http_status": 200,
+          "action": "kept_live",
+          "replacement_url": null,
+          "wayback_timestamp": null,
+          "note": null
+        },
+        {
+          "label": "Instagram says it now has the right to sell your photos",
+          "original_url": "http://news.cnet.com/8301-13578_3-57559710-38/instagram-says-it-now-has-the-right-to-sell-your-photos/",
+          "kind": "external",
+          "live_status": "uncertain",
+          "live_http_status": null,
+          "action": "kept_uncertain",
+          "replacement_url": null,
+          "wayback_timestamp": null,
+          "note": "TimeoutError: timed out"
+        },
+        {
+          "label": "Webmaster Tools Data Highlighter Tool",
+          "original_url": "https://www.google.com/webmasters/tools/data-highlighter?hl=en",
+          "kind": "external",
+          "live_status": "live",
+          "live_http_status": 200,
+          "action": "kept_live",
+          "replacement_url": null,
+          "wayback_timestamp": null,
+          "note": null
+        },
+        {
+          "label": "DuckDuckGo.NL",
+          "original_url": "http://duckduckgo.nl/",
+          "kind": "external",
+          "live_status": "live",
+          "live_http_status": 200,
+          "action": "kept_live",
+          "replacement_url": null,
+          "wayback_timestamp": null,
+          "note": null
+        }
+      ],
+      "summary": {
+        "links_examined": 14,
+        "wayback": 7,
+        "unlinked": 1,
+        "kept_live": 5,
+        "kept_uncertain": 1
+      }
+    }
+  ],
+  "summary": {
+    "episodes": 5,
+    "changed_episodes": 5,
+    "wayback": 26,
+    "unlinked": 5,
+    "kept_live": 7,
+    "kept_uncertain": 2
+  }
+}

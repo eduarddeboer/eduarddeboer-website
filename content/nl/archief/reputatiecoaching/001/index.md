@@ -29,7 +29,7 @@ De podcast sluit af met een korte toelichting op wat we in de nieuwe versie van 
 
 Hallo allemaal en hartelijk welkom op deze bijzondere dag. Mijn naam is Eduard de Boer –ook wel bekend als de ReputatieCoach– en ik ben de host voor vandaag!
 
-Twee weken geleden was een bijzondere dag, omdat ik toen live ging met de site [www.reputatiecoaching.nl](https://www.reputatiecoaching.nl) en vandaag is het ook weer een gedenkwaardige dag: na werkelijk maandenlang testen en experimenteren met audio-apparatuur, software enzovoorts ga ik nu dan daadwerkelijk live met mijn eerste echte podcast: de ReputatieCoaching Podcast!
+Twee weken geleden was een bijzondere dag, omdat ik toen live ging met de site [www.reputatiecoaching.nl](https://web.archive.org/web/20121220064204/http://www.reputatiecoaching.nl:80/) en vandaag is het ook weer een gedenkwaardige dag: na werkelijk maandenlang testen en experimenteren met audio-apparatuur, software enzovoorts ga ik nu dan daadwerkelijk live met mijn eerste echte podcast: de ReputatieCoaching Podcast!
 
 In deze podcast komen de volgende onderwerpen aan bod:
 
