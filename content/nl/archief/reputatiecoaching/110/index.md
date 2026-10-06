@@ -3,6 +3,7 @@ title: '110: Garagareviews en webinar over reviews. Webinar Ignition functioneer
 date: '2015-01-08T07:30:18+00:00'
 description: Zelfs ik heb wel eens een pech-gevalletje, waardoor WordPress mij buitensluit en dus niet meer toelaat. Ik vertel je er zo meer over. Sinds april vorig jaar biedt de ANWB de reviewservice voor garages, onder de welluidende naam “garagereviews”. Leeft dit een beetje bij autogarages? Ik vertel het na mijn probleem met WordPress. Van Martin kreeg ik de vraag hoe een persoonlijk Google+ profiel hoger kan scoren dan een bedrijfspagina, dus daar ga ik op in en ook op het webinar dat ik gisteravond organiseerde over “reviews”, gevolgd door een aantal tips voor originele bronnen om reviews te vinden zonder ze te hoeven vragen.
 episode: 110
+kgRef: podcast_episode/reputatiecoaching_110
 historical: true
 archivePeriod: 2012–2016
 transcriptStatus: full
@@ -30,14 +31,14 @@ Zelfs ik heb wel eens een pech-gevalletje, waardoor WordPress mij buitensluit en
 
 Hallo en hartelijk welkom bij deze aflevering van de ReputatieCoaching Podcast. Ik ben Eduard de Boer, ReputatieCoach. Dit is dé podcast die jou helpt om meer business te genereren, doordat jouw website beter gevonden wordt, zowel lokaal als landelijk en doordat ik je uitleg hoe je je online reputatie kunt verbeteren. Dit alles draagt ertoe bij dat je bedrijf en jezelf beter op de online kaart wordt geplaatst.
 
-De podcast kun je vinden op [www.reputatiecoaching.nl/110](https://www.reputatiecoaching.nl/110/). Daar vind je niet alleen de tekst, maar ook video’s waar ik het in deze uitzending over heb, alsmede afbeeldingen, links enzovoorts. Bovendien is de podcast te beluisteren in [iTunes](https://www.reputatiecoaching.nl/itunes), op [Stitcher](https://www.reputatiecoaching.nl/stitcher) en ook op [TuneIn Radio](http://tunein.com/radio/ReputatieCoaching-Podcast-p655084/). Daar kun je je dus ook abonneren op de wekelijkse podcast.
+De podcast kun je vinden op [www.reputatiecoaching.nl/110](https://web.archive.org/web/20150312095249/http://www.reputatiecoaching.nl/110/). Daar vind je niet alleen de tekst, maar ook video’s waar ik het in deze uitzending over heb, alsmede afbeeldingen, links enzovoorts. Bovendien is de podcast te beluisteren in iTunes, op Stitcher en ook op [TuneIn Radio](http://tunein.com/radio/ReputatieCoaching-Podcast-p655084/). Daar kun je je dus ook abonneren op de wekelijkse podcast.
 
 Laat ik dan nu overgaan op de onderwerpen voor vandaag…
 
 ## HELP! Ik kan niet meer inloggen in WordPress!
 
 *Historische afbeelding niet beschikbaar: Waarom WordPress?*
-Ook ik heb wel eens een typisch pech-gevalletje… Zo’n moment, dat je denkt: “Waar heb ik iets fout gedaan?”. Afgelopen week overkwam het me weer eens. Ik vertelde je in [podcast 109](https://www.reputatiecoaching.nl/109/) al dat ik weer eens had zitten experimenteren met de performance van de website.
+Ook ik heb wel eens een typisch pech-gevalletje… Zo’n moment, dat je denkt: “Waar heb ik iets fout gedaan?”. Afgelopen week overkwam het me weer eens. Ik vertelde je in [podcast 109](https://web.archive.org/web/20150312095234/http://www.reputatiecoaching.nl/109/) al dat ik weer eens had zitten experimenteren met de performance van de website.
 
 Mijn doel is namelijk om ervoor te zorgen dat liefst elke pagina binnen 1 seconde laadt. Nu is dat voor mij op dit moment nog niet helemaal bereikbaar, maar ik kom goed in de buurt. De homepagina van de site laadt in zo’n 0,7 seconden, terwijl achterliggende pagina’s er nog wat langer over doen.
 
@@ -65,7 +66,7 @@ Zo biedt de ANWB al sinds 3 april 2014 de mogelijkheid om autogarages te beoorde
 
 Zo zie je maar eens temeer dat reviews niet meer weg te denken zijn uit onze maatschappij en dat het belang ervan toeneemt.
 
-Natuurlijk was ik nieuwsgierig of mensen ook daadwerkelijk reviews hebben gepost op [anwb.nl/garagereviews](http://www.anwb.nl/garagereviews). Nu wonen wij op een bedrijventerrein, waarop nogal wat autobedrijven zijn gevestigd. Dus zocht ik naar garagebedrijven binnen een straal van een paar honderd meter, om te zien wat ik daar zoal over kon vinden. Er bleken negen bedrijfsvermeldingen van acht garages: eentje had twee vermeldingen, omdat die een tijdje terug is verhuisd.
+Natuurlijk was ik nieuwsgierig of mensen ook daadwerkelijk reviews hebben gepost op anwb.nl/garagereviews. Nu wonen wij op een bedrijventerrein, waarop nogal wat autobedrijven zijn gevestigd. Dus zocht ik naar garagebedrijven binnen een straal van een paar honderd meter, om te zien wat ik daar zoal over kon vinden. Er bleken negen bedrijfsvermeldingen van acht garages: eentje had twee vermeldingen, omdat die een tijdje terug is verhuisd.
 
 Van de acht garages die ik heb onderzocht, hadden drie al reviews: een garage had vier reviews, eentje twee en de laatste had er eentje. De reviews varieerden van één tot vijf sterren.
 
@@ -148,9 +149,9 @@ Daarnaast stuurt de plugin de mensen die zich hebben ingeschreven vóór aanvang
 
 Met de plugin kun je tijdens het webinar vragen verzamelen en die tijdens of aan het einde van het webinar beantwoorden. En wat ook mooi is, is dat de plugin de replay van de opname een beperkte tijd online kan laten staan, inclusief een countdown timer. Zo kies ik ervoor om de video na afloop nog 24 uur online te laten staan. Daarna wil ik dat die verdwijnt. Dat regelt de plugin allemaal! Natuurlijk wordt de video niet verwijderd, maar hij wordt niet meer getoond… Dat is wezenlijk anders!
 
-Door deze uitgebreide functionaliteit is de plugin niet gratis, maar dat is ook wel te begrijpen als je hoort en ziet wat er allemaal mogelijk is. Want wat ik je tot nu toe heb verteld is namelijk nog niet eens alles, wat de plugin kan! Je kunt er meer over vinden op de website van “[Webinar Ignition](https://www.reputatiecoaching.nl/webinarignition)”. In de show notes heb ik hier een link naartoe opgenomen. Omwille van de transparantie moet ik je melden dat dat een affiliate link is; dat wil zeggen dat ik een commissie ontvang als iemand de plugin via die link bestelt.
+Door deze uitgebreide functionaliteit is de plugin niet gratis, maar dat is ook wel te begrijpen als je hoort en ziet wat er allemaal mogelijk is. Want wat ik je tot nu toe heb verteld is namelijk nog niet eens alles, wat de plugin kan! Je kunt er meer over vinden op de website van “Webinar Ignition”. In de show notes heb ik hier een link naartoe opgenomen. Omwille van de transparantie moet ik je melden dat dat een affiliate link is; dat wil zeggen dat ik een commissie ontvang als iemand de plugin via die link bestelt.
 
-Laat me weten, als je eventueel interesse hebt in een Nederlandstalige instructievideo of demonstratievideo over het gebruik van de plugin. Meld dit onderaan de show notes, op [www.reputatiecoaching.nl/110](https://www.reputatiecoaching.nl/110/).
+Laat me weten, als je eventueel interesse hebt in een Nederlandstalige instructievideo of demonstratievideo over het gebruik van de plugin. Meld dit onderaan de show notes, op [www.reputatiecoaching.nl/110](https://web.archive.org/web/20150312095249/http://www.reputatiecoaching.nl/110/).
 
 ## Originele bronnen voor recensies
 
@@ -212,7 +213,7 @@ Begin je een gevoel te krijgen bij wat ik probeer te beschrijven? Begin je mogel
 
 Met dit stuk over Trello kom ik dan weer aan het einde van deze podcast. Als je de podcast leuk vindt en je wilt nog meer op de hoogte blijven, volg me dan ook op Twitter, via [@reputatiecoach1](https://twitter.com/reputatiecoach1).
 
-Heb je inderdaad wat aan alle informatie die ik met je deel, help mij dan met het verder verbeteren en promoten van deze podcast. Surf daarvoor naar [iTunes](https://www.reputatiecoaching.nl/itunes) of [Stitcher](https://www.reputatiecoaching.nl/stitcher), geef de podcast een sterrenbeoordeling en laat ook je reactie achter. Door de podcast te beoordelen op iTunes en/of Stitcher breng je de podcast onder de aandacht van een breder publiek.
+Heb je inderdaad wat aan alle informatie die ik met je deel, help mij dan met het verder verbeteren en promoten van deze podcast. Surf daarvoor naar iTunes of Stitcher, geef de podcast een sterrenbeoordeling en laat ook je reactie achter. Door de podcast te beoordelen op iTunes en/of Stitcher breng je de podcast onder de aandacht van een breder publiek.
 
 Je kunt me verder helpen, door de podcast aan te bevelen bij vrienden of collega’s, waarvan je denkt dat ze er hun voordeel mee kunnen doen, of door ’m te delen op Twitter, like’n en delen op Facebook of een “+1” te geven op Google+.
 
@@ -220,7 +221,7 @@ En vergeet niet: ik ben hier om je te helpen! Als je een vraag of een probleem h
 
 Als je dat te lastig vindt, of als je de podcast beluistert terwijl je in de auto zit en je hebt acuut een vraag, spreek dan een boodschap in op de ReputatieCoaching Hotline, op nummer: 084 - 883 15 56. Mogelijk behandel ik je vraag of probleem dan in een artikel of in de podcast.
 
-En je kunt ook rechtstreeks op de website een voicemail achterlaten, door op de tab aan de rechterkant van elke pagina te klikken, en je bericht in te spreken. Dit was [ReputatieCoaching Podcast aflevering 110](https://www.reputatiecoaching.nl/110/) en mijn naam is [Eduard de Boer](http://nl.linkedin.com/in/eduarddeboer/nl).
+En je kunt ook rechtstreeks op de website een voicemail achterlaten, door op de tab aan de rechterkant van elke pagina te klikken, en je bericht in te spreken. Dit was [ReputatieCoaching Podcast aflevering 110](https://web.archive.org/web/20150312095249/http://www.reputatiecoaching.nl/110/) en mijn naam is [Eduard de Boer](http://nl.linkedin.com/in/eduarddeboer/nl).
 
 Ik wens je de komende week weer succes met het werken aan je reputatie, zodat je meteen je reputatie voor jou kunt laten werken!
 
@@ -231,11 +232,11 @@ Doei!
 Links naar content die in deze podcast aan bod komt:
 
 ```
-  * [ReputatieCoaching Podcast in iTunes](https://www.reputatiecoaching.nl/itunes)
-  * [ReputatieCoaching Podcast op Stitcher](https://www.reputatiecoaching.nl/stitcher)
+  * ReputatieCoaching Podcast in iTunes
+  * ReputatieCoaching Podcast op Stitcher
   * [ReputatieCoaching Podcast op TuneIn Radio](http://tunein.com/radio/ReputatieCoaching-Podcast-p655084/)
-  * [ReputatieCoaching Podcast RSS-feed](https://feeds.reputatiecoaching.nl/ReputatieCoachingPodcast)
-  * [Webinar Ignition](https://www.reputatiecoaching.nl/webinarignition) (voor het zelf organiseren van webinars)
+  * [ReputatieCoaching Podcast RSS-feed](https://web.archive.org/web/20141223114514/http://feeds.reputatiecoaching.nl:80/ReputatieCoachingPodcast)
+  * Webinar Ignition (voor het zelf organiseren van webinars)
   * [Trello](http://www.trello.com)
   * “[Klantenservice DeOnlineDrogist.nl via WhatsApp](http://www.emerce.nl/nieuws/klantenservice-deonlinedrogistnl-via-whatsapp)” (Emerce, 14 november 2014)
   * “[Voedingcoach nu ook via WhatsApp](http://www.emerce.nl/nieuws/foodcoach-via-whatsapp)” (Emerce, 17 decemboer 2014)
