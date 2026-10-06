@@ -26,14 +26,6 @@ jobs:
           ref: ${{ github.ref_name }}
           fetch-depth: 0
 
-      - name: Checkout preserved ReputatieCoaching source
-        uses: actions/checkout@v7
-        with:
-          repository: eduarddeboer/reputatiecoaching.nl
-          ref: main
-          path: _sources/reputatiecoaching
-          fetch-depth: 1
-
       - name: Python 3.12
         uses: actions/setup-python@v6
         with:
@@ -41,9 +33,7 @@ jobs:
 
       - name: Run second-pass audit
         run: |
-          python3 scripts/audit_reputatiecoaching_wayback_second_pass.py \
-            --old-repo _sources/reputatiecoaching \
-            --output data/archive/link-repair/second-pass-wayback-audit.json
+          python3 scripts/audit_reputatiecoaching_wayback_second_pass.py \            --output data/archive/link-repair/second-pass-wayback-audit.json
 
       - name: Commit audit report
         run: |
