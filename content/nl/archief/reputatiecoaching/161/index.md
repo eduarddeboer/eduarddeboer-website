@@ -3,6 +3,7 @@ title: '161: AMP betatester voor Google en het Fundament van Online Succes'
 date: '2016-01-21T07:30:55+00:00'
 description: 'De podcast van vandaag bevat slechts twee onderwerpen. Als eerste vertel ik je kort even over het feit dat ik betatester ben voor Google Search Console voor wat betreft rapportage over AMP, de Accelerated Mobile Pages. Het tweede onderwerp neemt de rest van de podcast in beslag: dat is mijn verhaal over het fundament van online business dat ik heb verteld tijdens de workshop “Reputatiemanagement” op 11 december jongstleden, die werd georganiseerd door studenten van de Hogeschool Tilburg.'
 episode: 161
+kgRef: podcast_episode/reputatiecoaching_161
 historical: true
 archivePeriod: 2012–2016
 transcriptStatus: shownotes
@@ -44,9 +45,9 @@ Tot zover over AMP betatesting… To be continued…
 
 Op 11 december gaf ik een workshop “Reputatiemanagement” in Utrecht. Dat evenement was georganiseerd door studenten van de Hogeschool Tilburg. In deze podcast laat ik je een eerste deel horen, dat gaat over het Fundament van Online Succes.
 
-Dat doe ik aan de hand van een plaatje wat je kunt terugvinden in de show notes van deze podcast, op [www.reputatiecoaching.nl/161](https://www.reputatiecoaching.nl/161).
+Dat doe ik aan de hand van een plaatje wat je kunt terugvinden in de show notes van deze podcast, op [www.reputatiecoaching.nl/161](https://web.archive.org/web/20160927232507/http://www.reputatiecoaching.nl:80/161/).
 
-[*Historische afbeelding niet beschikbaar: Workshop ReputatieManagement*](https://www.reputatiecoaching.nl/wp-content/uploads/2016/01/20151211-Workshop-ReputatieManagement.png)
+[*Historische afbeelding niet beschikbaar: Workshop ReputatieManagement*](https://web.archive.org/web/20190717095417/https://www.reputatiecoaching.nl/wp-content/uploads/2016/01/20151211-Workshop-ReputatieManagement.png)
 
 Dit eerste deel duurt 21 minuten en 3 seconden, dus neem er gerust de tijd voor!
 
@@ -57,9 +58,9 @@ Bekijk ook eens de video van de workshop:
 Links naar content elders op Internet die in deze podcast aan bod komt:
 
 ```
-  * [ReputatieCoaching Podcast in iTunes](https://www.reputatiecoaching.nl/itunes)
-  * [ReputatieCoaching Podcast op Stitcher](https://www.reputatiecoaching.nl/stitcher)
+  * ReputatieCoaching Podcast in iTunes
+  * ReputatieCoaching Podcast op Stitcher
   * [ReputatieCoaching Podcast op TuneIn Radio](http://tunein.com/radio/ReputatieCoaching-Podcast-p655084/)
-  * [ReputatieCoaching Podcast RSS-feed](https://feeds.reputatiecoaching.nl/ReputatieCoachingPodcast)
+  * [ReputatieCoaching Podcast RSS-feed](https://web.archive.org/web/20160204123538/http://feeds.reputatiecoaching.nl:80/ReputatieCoachingPodcast)
   * "[Introducing the Accelerated Mobile Pages Project, for a faster, open mobile web](https://googleblog.blogspot.nl/2015/10/introducing-accelerated-mobile-pages.html)" (Google Blog, 7 oktober 2015)
 ```

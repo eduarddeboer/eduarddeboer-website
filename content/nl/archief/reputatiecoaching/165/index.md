@@ -3,6 +3,7 @@ title: '165: Vermijd NetwerkProfiel van DTG! Gehackte site, wat dan? Onbeperkte 
 date: '2016-04-23T07:26:12+00:00'
 description: '**Eerder deze week was de site van mijn broer gehackt en was hij 924 blogposts kwijt. Dat was wel even schrikken! Ik vertel je zijn relaas. Laatst ontving ik de uitnodiging om mij aan te melden voor de Local Guides Summit in San Francisco in september dit jaar.** Jalwa was jarenlang gratis, maar wordt nu opeens commercieel. Eergisteren kreeg ik voor ’t eerst een mailtje met wat statistieken over mijn foto’s op Google Maps.'
 episode: 165
+kgRef: podcast_episode/reputatiecoaching_165
 historical: true
 archivePeriod: 2012–2016
 transcriptStatus: shownotes
@@ -21,7 +22,7 @@ showTaxonomies: false
 
 **Transcriptiestatus:** Oorspronkelijke shownotes. Vanaf aflevering 153 werd de podcast niet meer volledig uitgeschreven.
 
-\*\*[*Historische afbeelding niet beschikbaar: ReputatieCoaching Podcast*](https://www.reputatiecoaching.nl/wp-content/uploads/2012/12/Reputatie-Coaching-Podcast-logo-200x200.jpg)Eerder deze week was de site van mijn broer gehackt en was hij 924 blogposts kwijt. Dat was wel even schrikken! Ik vertel je zijn relaas. Laatst ontving ik de uitnodiging om mij aan te melden voor de Local Guides Summit in San Francisco in september dit jaar.\*\*
+\*\*[*Historische afbeelding niet beschikbaar: ReputatieCoaching Podcast*](https://web.archive.org/web/20160422081458/http://www.reputatiecoaching.nl/wp-content/uploads/2012/12/Reputatie-Coaching-Podcast-logo-200x200.jpg)Eerder deze week was de site van mijn broer gehackt en was hij 924 blogposts kwijt. Dat was wel even schrikken! Ik vertel je zijn relaas. Laatst ontving ik de uitnodiging om mij aan te melden voor de Local Guides Summit in San Francisco in september dit jaar.\*\*
 
 **Jalwa was jarenlang gratis, maar wordt nu opeens commercieel. Eergisteren kreeg ik voor ’t eerst een mailtje met wat statistieken over mijn foto’s op Google Maps. Daar stond ik behoorlijk van te kijken!**
 
@@ -103,10 +104,10 @@ Links naar onderwerpen die in deze podcast aan bod komen:
 
 ```
   * 
-  * [ReputatieCoaching Podcast in iTunes](https://itunes.apple.com/nl/podcast/reputatiecoaching-podcast/id584370482?l=en&mt=2)
+  * ReputatieCoaching Podcast in iTunes
   * [ReputatieCoaching Podcast op Stitcher](http://www.stitcher.com/podcast/reputatie-coaching-podcast/reputatiecoaching)
   * [ReputatieCoaching Podcast op TuneIn Radio](http://tunein.com/radio/ReputatieCoaching-Podcast-p655084/)
-  * [ReputatieCoaching Podcast RSS-feed](https://feeds.reputatiecoaching.nl/ReputatieCoachingPodcast)
+  * [ReputatieCoaching Podcast RSS-feed](https://web.archive.org/web/20160408145916/http://feeds.reputatiecoaching.nl/ReputatieCoachingPodcast)
   * [Antagonist](https://www.antagonist.nl)
   * [Google Lokale Gidsen programma](https://www.google.com/intl/nl/local/guides/)
   * [Yalwa](http://www.yalwa.nl)

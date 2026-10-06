@@ -3,6 +3,7 @@ title: '163: Praktische tip voor tijdbesparing en "Cut the Crap!" door Patrick P
 date: '2016-02-11T07:30:30+00:00'
 description: De podcast van vandaag begin ik met een praktische en bovenal tijdbesparende tip, die eigenlijk een beetje het gevolg is van de presentatie die ik vorige maand heb bijgehouden bij Social Media Club Apeldoorn. Toen presenteerde Patrick Petersen op ludieke, informatieve en voor mij uiterst educatieve wijze over Online Trends voor 2016. Zijn eerste trend was “Cut the crap!”. Dat deel van zijn presentatie volgt na mijn tip. Ben je benieuwd naar mijn tip om tijd te besparen en naar wat Patrick zoal vertelde?
 episode: 163
+kgRef: podcast_episode/reputatiecoaching_163
 historical: true
 archivePeriod: 2012–2016
 transcriptStatus: shownotes
@@ -47,7 +48,7 @@ en klik op de “Get Started”-button. Daar kun je je in een paar minuten tijd 
 
 Het is gelukkig niet zo, dat je automatisch van alle mailinglijsten wordt afgemeld: je houdt alles onder controle, alleen gaat het vele malen sneller, dan je handmatig afmelden. Mijn advies is: log er eens in om je inbox af te laten slanken en je kostbare tijd en productiviteit terug te winnen!
 
-Laat me weten wat je ervan vindt en wat het jou heeft opgeleverd onderaan de show notes van deze podcast, die je kunt vinden op [www.reputatiecoaching.nl/163](https://www.reputatiecoaching.nl/163/).
+Laat me weten wat je ervan vindt en wat het jou heeft opgeleverd onderaan de show notes van deze podcast, die je kunt vinden op [www.reputatiecoaching.nl/163](https://web.archive.org/web/20160221025030/http://www.reputatiecoaching.nl:80/163).
 
 ## Patrick Petersen ([@OnlineMarketeer](https://twitter.com/onlinemarketeer)) over online trends in 2016
 
