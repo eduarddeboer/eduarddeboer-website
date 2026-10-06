@@ -3,6 +3,7 @@ title: '70: Social media training aan tandheelkundigen, Facebook privacy instell
 date: '2014-03-31T07:30:44+00:00'
 description: In de podcast van vorige week kwam ik niet meer toe aan het nieuws dat het Google Webspam team onder leiding van Matt Cutts weer een spam netwerk de virtuele nek heeft omgedraaid, dus dat komt vandaag eerst aan bod. En vorige week heb ik een presentatie mogen geven aan een groep van tandheelkundigen over social media, privacy en gerelateerde onderwerpen. Tijdens die presentatie kwam voornamelijk de zorg naar voren over de privacyinstellingen van Facebook, dus later in deze podcast daarover meer.
 episode: 70
+kgRef: podcast_episode/reputatiecoaching_070
 historical: true
 archivePeriod: 2012–2016
 transcriptStatus: full
@@ -22,21 +23,21 @@ showTaxonomies: false
 **Transcriptiestatus:** Volledige transcriptie uit het oorspronkelijke archief.
 
 ***Historische afbeelding niet beschikbaar: ReputatieCoaching Podcast*
-In de [podcast van vorige week](https://www.reputatiecoaching.nl/69/) kwam ik niet meer toe aan het nieuws dat het Google Webspam team onder leiding van Matt Cutts weer een spam netwerk de virtuele nek heeft omgedraaid, dus dat komt vandaag eerst aan bod. En vorige week heb ik een presentatie mogen geven aan een groep van tandheelkundigen over social media, privacy en gerelateerde onderwerpen. Tijdens die presentatie kwam voornamelijk de zorg naar voren over de privacyinstellingen van Facebook, dus later in deze podcast daarover meer. Ik sluit de podcast van vandaag af met informatie over een online reputatieverzekering in België.**
+In de [podcast van vorige week](https://web.archive.org/web/20140417223635/http://www.reputatiecoaching.nl:80/69/) kwam ik niet meer toe aan het nieuws dat het Google Webspam team onder leiding van Matt Cutts weer een spam netwerk de virtuele nek heeft omgedraaid, dus dat komt vandaag eerst aan bod. En vorige week heb ik een presentatie mogen geven aan een groep van tandheelkundigen over social media, privacy en gerelateerde onderwerpen. Tijdens die presentatie kwam voornamelijk de zorg naar voren over de privacyinstellingen van Facebook, dus later in deze podcast daarover meer. Ik sluit de podcast van vandaag af met informatie over een online reputatieverzekering in België.**
 
 Hallo en hartelijk welkom bij deze 70e aflevering van de ReputatieCoaching Podcast. Mijn naam is Eduard de Boer, ook bekend als de ReputatieCoach. Dit is dé podcast die je moet beluisteren als je meer wilt leren over online reputatie en reputatiemanagement en ook als je wilt werken aan je online reputatie en je online vindbaarheid wilt verbeteren. Dit alles kan je helpen om jezelf beter op de online kaart te plaatsen, waardoor je als bedrijf meer business kunt doen.
 
 Als persoon kun je met de diverse tips aan de slag om je eigen online reputatie te verbeteren.
 
-De podcast kun je vinden op [www.reputatiecoaching.nl/70](https://www.reputatiecoaching.nl/70/). Daar vind je niet alleen de tekst, maar ook video’s waar ik het in deze uitzending over heb, alsmede afbeeldingen, links enzovoorts. Bovendien is de podcast te beluisteren in [iTunes](https://www.reputatiecoaching.nl/itunes) en op [Stitcher](https://www.reputatiecoaching.nl/stitcher). Daar kun je je dus ook abonneren op de wekelijkse podcast. Veel mensen vinden het ideaal om de wekelijkse afleveringen van de podcast op hun gemak te beluisteren, terwijl ze autorijden.
+De podcast kun je vinden op [www.reputatiecoaching.nl/70](https://web.archive.org/web/20150312094041/http://www.reputatiecoaching.nl/70/). Daar vind je niet alleen de tekst, maar ook video’s waar ik het in deze uitzending over heb, alsmede afbeeldingen, links enzovoorts. Bovendien is de podcast te beluisteren in iTunes en op Stitcher. Daar kun je je dus ook abonneren op de wekelijkse podcast. Veel mensen vinden het ideaal om de wekelijkse afleveringen van de podcast op hun gemak te beluisteren, terwijl ze autorijden.
 
 ## Terugblik op podcast 69
 
-Als ik nog even kort terugblik naar [podcast 69](https://www.reputatiecoaching.nl/69/), dan is de belangrijkste tip die ik daaruit kan distilleren, de tip over het “Claimen en verifiëren van je zakelijke Google+ pagina”. Want als je dat niet doet, bestaat het risico dat Google op termijn de Google+ pagina van je bedrijf gewoon verwijdert, inclusief alle content die je mogelijk de afgelopen jaren erop hebt verzameld.
+Als ik nog even kort terugblik naar [podcast 69](https://web.archive.org/web/20140417223635/http://www.reputatiecoaching.nl:80/69/), dan is de belangrijkste tip die ik daaruit kan distilleren, de tip over het “Claimen en verifiëren van je zakelijke Google+ pagina”. Want als je dat niet doet, bestaat het risico dat Google op termijn de Google+ pagina van je bedrijf gewoon verwijdert, inclusief alle content die je mogelijk de afgelopen jaren erop hebt verzameld.
 
 Dus: *claim en verifieer je zakelijke Google+ pagina, voor het te laat is!*
 
-Oh, en voordat ik doorga met de onderwerpen van vandaag… Een paar weken geleden in [podcast 64](https://www.reputatiecoaching.nl/64/) beloofde ik je te melden als ik nieuws had over hoelang het duurt, voordat je bedrijf wordt vertoond in Apple Kaarten, nadat je het hebt aangemeld op Yelp en TomTom Places.
+Oh, en voordat ik doorga met de onderwerpen van vandaag… Een paar weken geleden in [podcast 64](https://web.archive.org/web/20150312093837/http://www.reputatiecoaching.nl/64/) beloofde ik je te melden als ik nieuws had over hoelang het duurt, voordat je bedrijf wordt vertoond in Apple Kaarten, nadat je het hebt aangemeld op Yelp en TomTom Places.
 
 Ik vertelde je toen dat ik op 3 december 2013 een bedrijf had aangemeld op Yelp en TomTom Places en dat die toen nog niet zichtbaar was. Ik controleer niet dagelijks of de vermelding in Apple Kaarten is te vinden, maar ik zag 18 maart wel, dat het bedrijf te vinden was op Apple Kaarten. En het wordt nota bene ook nog als eerste keus vertoond. Grappig genoeg wordt de recensie die de tandarts in Culemborg heeft, nog niet vertoond. Ook dat zal ik in de gaten blijven houden:
 
@@ -182,13 +183,13 @@ Want in die gevallen heeft een bedrijf acuut professionele bijstand nodig voor d
 
 Volgens het artikel op RTL Nieuws met de titel “[Met je zatte kop op Google? Verzeker je tegen een slechte reputatie](http://www.rtlnieuws.nl/editienl/met-je-zatte-kop-op-google-verzeker-je-tegen-een-slechte-reputatie)” kun je je bij verzekeraars als Axa, MMa en SwissLife in België en Frankrijk al voor een tientje per maand verzekeren van een goede naam op Internet.
 
-Op de site van AXA België kun je sinds maart 2013 onder andere het volgende lezen over “[d@ylife protect](https://www.axa.be/ab/NL/particulieren/verzekeringen/ongevallen/Pages/ongevallen-en-risicos.aspx)”, de eerste bescherming tegen ongevallen in het werkelijke en het virtuele leven op de Belgische markt:
+Op de site van AXA België kun je sinds maart 2013 onder andere het volgende lezen over “[d@ylife protect](https://web.archive.org/web/20131208034419/https://www.axa.be/ab/NL/particulieren/verzekeringen/ongevallen/Pages/ongevallen-en-risicos.aspx)”, de eerste bescherming tegen ongevallen in het werkelijke en het virtuele leven op de Belgische markt:
 
 E-Protection biedt immers bescherming tegen de gevaren van sociale netwerken en online aankopen. Wanneer meer dan driekwart van de Belgen zich zorgen maakt over hun virtuele leven, stelt AXA een aangepast product voor. Meer dan 90 % van onze landgenoten voelt zich bedreigd door het misbruik van identiteit, 42 % vreest onaangename verrassingen bij online-aankopen en 7 op de 10 maken zich ook zorgen over de aantasting van hun e-reputatie. Deze ongerustheid is meer dan terecht: in 2012 waren er meer dan 1.000 gevallen van fraude, tien keer meer dan in 2011.​
 
 De dekking e-protection biedt een concrete oplossing in geval van aantasting van de reputatie op het net, misbruik van identiteit, frauduleus gebruik van betaalmiddelen, of nog, een geschil als gevolg van een online-aankoop. AXA heeft een net van juristen die expert zijn in het domein van geschillen op internet. Eerst trachten ze via mediatie/bemiddeling een oplossing te bereiken, wat efficiënter is voor geschillen op internet. Indien nodig volgt begeleiding in gerechtelijke stappen en vergoeding. Indien de reputatie wordt aangetast, is AXA zich ervan bewust klanten niet alleen een financiële vergoeding willen maar vooral dat hun reputatie en die van hun gezin niet langer aangetast is. Daarvoor heeft AXA zich verbonden met firma’s gespecialiseerd in het opkuisen en verdringen van informatie die de reputatie schenden. De klanten van d@ylife protect worden begeleid tot het geschil is opgelost.​
 
-*(Bron: [AXA d@ylife protect](https://www.axa.be/ab/NL/particulieren/verzekeringen/ongevallen/Pages/ongevallen-en-risicos.aspx))*
+*(Bron: [AXA d@ylife protect](https://web.archive.org/web/20131208034419/https://www.axa.be/ab/NL/particulieren/verzekeringen/ongevallen/Pages/ongevallen-en-risicos.aspx))*
 
 Op YouTube dacht ik er ook filmpje over ontdekt te hebben, maar die was helaas weer offline gehaald.
 
@@ -204,11 +205,11 @@ Om je een idee te geven van wat er wordt gedekt door de E-protection optie van d
   * geschil met een e-handelaar over de aankoop van een dienst: de uitgevoerde prestatie komt niet overeen met de aanbieding online.
 ```
 
-*(Bron: [AXA d@ylife protect](https://www.axa.be/ab/NL/particulieren/verzekeringen/ongevallen/Pages/ongevallen-en-risicos.aspx))*
+*(Bron: [AXA d@ylife protect](https://web.archive.org/web/20131208034419/https://www.axa.be/ab/NL/particulieren/verzekeringen/ongevallen/Pages/ongevallen-en-risicos.aspx))*
 
 Wat opvalt is de tekst die gaat over de kosten die worden vergoed. Daar vind je onder andere de omschrijving:
 
-Op “[vief.be](http://www.vief.be/geld-en-recht/imagoschade-verzekering-van-axa-dekt-veel-meer.html)” las ik hierover ook nog een citaat van een woordvoerder van AXA:
+Op “[vief.be](https://web.archive.org/web/20140212002946/http://www.vief.be:80/geld-en-recht/imagoschade-verzekering-van-axa-dekt-veel-meer.html)” las ik hierover ook nog een citaat van een woordvoerder van AXA:
 
 Dit houdt dus in dat als het AXA niet lukt om de bron van de kwade online berichtgeving te overtuigen om de inhoud te verwijderen, zij een specialist zal inhuren om positieve content over de desbetreffende persoon te publiceren en deze content hoger te laten scoren om zo de negatieve content naar de achtergrond te dringen.
 
@@ -220,13 +221,13 @@ Vanuit mijn ervaring met contentmarketing en de tijd die het kost om relevante, 
 
 Ik heb begrepen dat Nederlandse verzekeraars hier wel over hebben nagedacht, maar dat ze nog niet overwegen om überhaupt een dergelijke verzekering in het leven te roepen.
 
-En jij? Wat vind jij? Hoe denk jij hierover? Zou jij een online reputatieverzekering afsluiten of ben je inmiddels zeker genoeg van jouw contentmarketing kwaliteiten en neem je in zo’n geval liever zelf het heft in eigen handen? Laat het me weten onderaan de transcriptie van deze podcast, op [www.reputatiecoaching.nl/70](https://www.reputatiecoaching.nl/70/).
+En jij? Wat vind jij? Hoe denk jij hierover? Zou jij een online reputatieverzekering afsluiten of ben je inmiddels zeker genoeg van jouw contentmarketing kwaliteiten en neem je in zo’n geval liever zelf het heft in eigen handen? Laat het me weten onderaan de transcriptie van deze podcast, op [www.reputatiecoaching.nl/70](https://web.archive.org/web/20150312094041/http://www.reputatiecoaching.nl/70/).
 
 Met dit topic over de online reputatieverzekering kom ik dan vandaag weer aan het einde van deze podcast. Ik hoop dat je er weer iets van hebt opgestoken en dat je ook deze keer weer tot het eind hebt geluisterd.
 
 Wil je nog beter op de hooge blijven van alle posts, of met me in contact komen? Tweet dan naar @reputatiecoach1. Natuurlijk stel ik een tweet met daarin kort wat je van de podcast vindt, ook enorm op prijs.
 
-Als je de podcast leuk vindt en je hebt inderdaad wat aan alle informatie die ik met je deel, help mij dan met het verder verbeteren en promoten van deze podcast. Surf dan naar [iTunes](https://www.reputatiecoaching.nl/itunes) of [Stitcher](https://www.reputatiecoaching.nl/stitcher), geef de podcast een sterrenbeoordeling en geef ook je reactie. Door de podcast te beoordelen op iTunes en/of Stitcher breng je de podcast onder de aandacht van een breder publiek.
+Als je de podcast leuk vindt en je hebt inderdaad wat aan alle informatie die ik met je deel, help mij dan met het verder verbeteren en promoten van deze podcast. Surf dan naar iTunes of Stitcher, geef de podcast een sterrenbeoordeling en geef ook je reactie. Door de podcast te beoordelen op iTunes en/of Stitcher breng je de podcast onder de aandacht van een breder publiek.
 
 Je kunt me verder helpen, door de podcast aan te bevelen bij vrienden of collega’s, waarvan je denkt dat ze er hun voordeel mee kunnen doen, of erover te tweeten op Twitter, de site of de podcast te like’n en delen op Facebook of een “+1” te geven op Google+.
 
@@ -234,7 +235,7 @@ En vergeet niet: ik ben hier om jou te helpen! Als je een vraag of een probleem 
 
 Als je dat te lastig vindt, of als je de podcast beluistert terwijl je in de auto zit en je hebt acuut een vraag, spreek dan een boodschap in op de ReputatieCoaching Hotline, op nummer: 084 - 883 15 56. Mogelijk behandel ik je vraag of probleem dan in een artikel of in de podcast.
 
-En je kunt ook rechtstreeks op de website een voicemail achterlaten, door op de tab aan de rechterkant van elke pagina te klikken, en je bericht in te spreken. Dit was [ReputatieCoaching Podcast aflevering 70](https://www.reputatiecoaching.nl/70/) en mijn naam is [Eduard de Boer](http://nl.linkedin.com/in/eduarddeboer/nl).
+En je kunt ook rechtstreeks op de website een voicemail achterlaten, door op de tab aan de rechterkant van elke pagina te klikken, en je bericht in te spreken. Dit was [ReputatieCoaching Podcast aflevering 70](https://web.archive.org/web/20150312094041/http://www.reputatiecoaching.nl/70/) en mijn naam is [Eduard de Boer](http://nl.linkedin.com/in/eduarddeboer/nl).
 
 Ik wens je de komende week weer succes met het werken aan je reputatie, zodat je meteen je reputatie voor jou kunt laten werken!
 
@@ -245,12 +246,12 @@ Doei!
 Links naar content die in deze podcast aan bod komt:
 
 ```
-  * [ReputatieCoaching Podcast in iTunes](https://www.reputatiecoaching.nl/itunes)
-  * [ReputatieCoaching Podcast op Stitcher](https://www.reputatiecoaching.nl/stitcher)
-  * [ReputatieCoaching Podcast RSS-feed](https://feeds.reputatiecoaching.nl/ReputatieCoachingPodcast)
+  * ReputatieCoaching Podcast in iTunes
+  * ReputatieCoaching Podcast op Stitcher
+  * [ReputatieCoaching Podcast RSS-feed](https://web.archive.org/web/20131205064344/http://feeds.reputatiecoaching.nl/reputatiecoachingpodcast)
   * [Here.com](http://here.com) online kaart van Nokia
-  * "[E-protection](https://www.axa.be/ab/NL/particulieren/verzekeringen/ongevallen/Pages/ongevallen-en-risicos.aspx), de reputatieverzekering van AXA België
-  * “[Bing Venue Maps Extends Worldwide With Nokia Data](http://www.zdnet.com/mall-or-nothing-nokia-and-yahoo-extend-partnership-to-indoor-mapping-7000027081/)” (UberGizmo, 28 juni 2012)
-  * “[‘Imagoschade-verzekering’ van Axa dekt veel meer](http://www.vief.be/geld-en-recht/imagoschade-verzekering-van-axa-dekt-veel-meer.html)” (vief.be, 8 januari 2014)
+  * "[E-protection](https://web.archive.org/web/20131208034419/https://www.axa.be/ab/NL/particulieren/verzekeringen/ongevallen/Pages/ongevallen-en-risicos.aspx), de reputatieverzekering van AXA België
+  * “[Bing Venue Maps Extends Worldwide With Nokia Data](https://web.archive.org/web/20140405042858/http://www.zdnet.com/mall-or-nothing-nokia-and-yahoo-extend-partnership-to-indoor-mapping-7000027081/)” (UberGizmo, 28 juni 2012)
+  * “[‘Imagoschade-verzekering’ van Axa dekt veel meer](https://web.archive.org/web/20140212002946/http://www.vief.be:80/geld-en-recht/imagoschade-verzekering-van-axa-dekt-veel-meer.html)” (vief.be, 8 januari 2014)
   * “[TomTom integrates indoor mapping with Micello partnership](http://corporate.tomtom.com/releasedetail.cfm?ReleaseID=830824)” (TomTom, 5 maart 2014)
 ```
