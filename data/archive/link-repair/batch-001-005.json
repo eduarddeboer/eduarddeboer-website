@@ -540,5 +540,10 @@
     "unlinked": 5,
     "kept_live": 7,
     "kept_uncertain": 0
+  },
+  "review": {
+    "status": "reviewed",
+    "reviewed_at": "2026-10-06",
+    "notes": "Batch report checked: no kept_uncertain links remain; Wayback-first policy applied."
   }
 }
