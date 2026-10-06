@@ -37,7 +37,7 @@ Hallo en hartelijk welkom bij deze aflevering van de ReputatieCoaching Podcast. 
 
 Als persoon kun je met de diverse tips aan de slag om bijvoorbeeld je online reputatie als gerechtsdeurwaarder, stedenbouwkundige, huidtherapeut, bartender, etalage ontwerper of wat dan ook te verbeteren.
 
-De podcast en alle gerelateerde content kun je vinden op [[www.reputatiecoaching.nl/79](/nl/archief/reputatiecoaching/079/)](/nl/archief/reputatiecoaching/079/). Daar vind je niet alleen de tekst, maar ook video’s waar ik het in deze uitzending over heb, alsmede afbeeldingen, links enzovoorts. Bovendien is de podcast te beluisteren in iTunes en op Stitcher. Daar kun je je dus ook abonneren op de wekelijkse podcast. Veel mensen vinden het ideaal om de wekelijkse afleveringen van de podcast op hun gemak te beluisteren, terwijl ze autorijden.
+De podcast en alle gerelateerde content kun je vinden op [www.reputatiecoaching.nl/79](/nl/archief/reputatiecoaching/079/). Daar vind je niet alleen de tekst, maar ook video’s waar ik het in deze uitzending over heb, alsmede afbeeldingen, links enzovoorts. Bovendien is de podcast te beluisteren in iTunes en op Stitcher. Daar kun je je dus ook abonneren op de wekelijkse podcast. Veel mensen vinden het ideaal om de wekelijkse afleveringen van de podcast op hun gemak te beluisteren, terwijl ze autorijden.
 
 ## Terugblik podcast 78
 
@@ -131,7 +131,7 @@ Nou, ik heb er weer eentje voor je, te weten: [compressor.io](http://compressor.
 
 In principe doet compressor.io hetzelfde als smush.it, namelijk het verkleinen van de bestandsgrootte van afbeeldingen. De dienst is gratis, evenals smush.it. Het leuke is echter, dat compressor.io niet alleen .JPG, .PNG en .GIF bestanden verder kan comprimeren, maar ook SVG, het Scalable Vector Graphics formaat. Nu gebruiken niet bijster veel mensen SVG, maar het is handig om te weten.
 
-In de show notes, die je overigens kunt vinden op [[www.reputatiecoaching.nl/79](/nl/archief/reputatiecoaching/079/)](/nl/archief/reputatiecoaching/079/) heb ik een screenshot opgenomen van de website van compressor.io. Toen ik de initiële versie van deze screenshot maakte, was het bestand afgerond 419 KiloByte:
+In de show notes, die je overigens kunt vinden op [www.reputatiecoaching.nl/79](/nl/archief/reputatiecoaching/079/) heb ik een screenshot opgenomen van de website van compressor.io. Toen ik de initiële versie van deze screenshot maakte, was het bestand afgerond 419 KiloByte:
 
 [![Compressor.io website](20140602-compressor.png)](https://lh5.googleusercontent.com/-ykRIMWEm2gI/U4tp56JxyWI/AAAAAAAAA1E/swtNO5U1z-I/w1081-h697-no/20140602-compressor.png)
 
@@ -181,7 +181,7 @@ Toch heeft Microsoft dit eerder deze week gedemonstreerd. De demonstratievideo h
 
 Volgens de video spreekt Gurdeep Pall geen Duits, maar ik moet zeggen dat de over en weer vertaling toch al wel erg goed is. Waar Diana Heinrichs, de Duitse collega heel erg goed articuleert en rustig spreekt, spreekt Gurdeep snel Engels. Toch gaat het aardig goed, qua vertaling. Als ik het zo beluister dan lijkt het voor mij dat de essentie van de verhalen wel duidelijk wordt in de andere taal.
 
-Misschien vraag je je af, waarom ik dat hier in deze podcast vertel. Nou, volgens mij hebben ook dit soort ontwikkelingen enorme gevolgen voor marketing, zodra ze nog verder zijn verbeterd. Welke gevolgen kan ik niet zo 1–2–3 overzien, anders dan dat je simpelweg een reclame niet meer door mensen hoeft te laten nasynchroniseren, omdat dat nu geautomatiseerd kan. Heb jij ideeën? Laat me ze weten onderaan de show notes, op [[www.reputatiecoaching.nl/79](/nl/archief/reputatiecoaching/079/)](/nl/archief/reputatiecoaching/079/).
+Misschien vraag je je af, waarom ik dat hier in deze podcast vertel. Nou, volgens mij hebben ook dit soort ontwikkelingen enorme gevolgen voor marketing, zodra ze nog verder zijn verbeterd. Welke gevolgen kan ik niet zo 1–2–3 overzien, anders dan dat je simpelweg een reclame niet meer door mensen hoeft te laten nasynchroniseren, omdat dat nu geautomatiseerd kan. Heb jij ideeën? Laat me ze weten onderaan de show notes, op [www.reputatiecoaching.nl/79](/nl/archief/reputatiecoaching/079/).
 
 ## ACER C720P Chromebook
 
