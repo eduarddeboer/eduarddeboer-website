@@ -3,6 +3,7 @@ title: '115: #SMC055 anders dan anders. Dubbele G+ vermeldingen. Luisteraars aan
 date: '2015-02-12T07:30:47+00:00'
 description: '**Eerder deze week was ik bij een bijeenkomst van #SMC055, de Social Media Club Apeldoorn, waar het onderwerp van de avond als titel had: “Belachelijk goed zakelijk bloggen”. De titel was echter hoogdravender dan de content van die avond. Daarover zo meer. Voor fotograaf Mart uit Rotterdam vond ik een dubbele Google+ vermelding en schrijfster Diana Albrink had een vraag hoe je lezers van je blog automatisch kunt berichten, als je een nieuw blogartikel publiceert.'
 episode: 115
+kgRef: podcast_episode/reputatiecoaching_115
 historical: true
 archivePeriod: 2012–2016
 transcriptStatus: full
@@ -21,17 +22,17 @@ showTaxonomies: false
 
 **Transcriptiestatus:** Volledige transcriptie uit het oorspronkelijke archief.
 
-\*\*[*Historische afbeelding niet beschikbaar: ReputatieCoaching Podcast*](https://www.reputatiecoaching.nl/wp-content/uploads/2012/12/Reputatie-Coaching-Podcast-logo-200x200.jpg)Eerder deze week was ik bij een bijeenkomst van #SMC055, de Social Media Club Apeldoorn, waar het onderwerp van de avond als titel had: “Belachelijk goed zakelijk bloggen”. De titel was echter hoogdravender dan de content van die avond. Daarover zo meer. Voor fotograaf Mart uit Rotterdam vond ik een dubbele Google+ vermelding en schrijfster Diana Albrink had een vraag hoe je lezers van je blog automatisch kunt berichten, als je een nieuw blogartikel publiceert. Ik heb vandaag Paul Hottinga en Remco Bos van de Review Media Company in de show voor een interview en tenslotte heb ik een tip voor je hoe je vóór 17 februari gratis 2 GB extra ruimte kunt krijgen op je Google Drive.\*\*
+\*\*[*Historische afbeelding niet beschikbaar: ReputatieCoaching Podcast*](https://web.archive.org/web/20160422081458/http://www.reputatiecoaching.nl/wp-content/uploads/2012/12/Reputatie-Coaching-Podcast-logo-200x200.jpg)Eerder deze week was ik bij een bijeenkomst van #SMC055, de Social Media Club Apeldoorn, waar het onderwerp van de avond als titel had: “Belachelijk goed zakelijk bloggen”. De titel was echter hoogdravender dan de content van die avond. Daarover zo meer. Voor fotograaf Mart uit Rotterdam vond ik een dubbele Google+ vermelding en schrijfster Diana Albrink had een vraag hoe je lezers van je blog automatisch kunt berichten, als je een nieuw blogartikel publiceert. Ik heb vandaag Paul Hottinga en Remco Bos van de Review Media Company in de show voor een interview en tenslotte heb ik een tip voor je hoe je vóór 17 februari gratis 2 GB extra ruimte kunt krijgen op je Google Drive.\*\*
 
 Hallo en hartelijk welkom bij deze aflevering van de ReputatieCoaching Podcast. Ik ben Eduard de Boer, ReputatieCoach. Dit is dé podcast die jou helpt om meer business te genereren, doordat jouw website beter gevonden wordt, zowel lokaal als landelijk en doordat ik je uitleg hoe je je online reputatie kunt verbeteren. Dit alles helpt je om je bedrijf en jezelf beter op de online kaart te plaatsen.
 
-De podcast kun je vinden op [www.reputatiecoaching.nl/115](https://www.reputatiecoaching.nl/115/). Daar vind je niet alleen de tekst, maar ook video’s waar ik het in deze uitzending over heb, alsmede afbeeldingen, links enzovoorts. Bovendien is de podcast te beluisteren in [iTunes](https://www.reputatiecoaching.nl/itunes), op [Stitcher](https://www.reputatiecoaching.nl/stitcher) en ook op [TuneIn Radio](http://tunein.com/radio/ReputatieCoaching-Podcast-p655084/). Ik raad je aan om je op één van die drie kanalen te abonenneren op de podcast, zodat je geen aflevering hoeft te missen!
+De podcast kun je vinden op [www.reputatiecoaching.nl/115](https://web.archive.org/web/20150312095417/http://www.reputatiecoaching.nl/115/). Daar vind je niet alleen de tekst, maar ook video’s waar ik het in deze uitzending over heb, alsmede afbeeldingen, links enzovoorts. Bovendien is de podcast te beluisteren in iTunes, op Stitcher en ook op [TuneIn Radio](http://tunein.com/radio/ReputatieCoaching-Podcast-p655084/). Ik raad je aan om je op één van die drie kanalen te abonenneren op de podcast, zodat je geen aflevering hoeft te missen!
 
 Laat ik dan nu overgaan op de onderwerpen voor vandaag…
 
 ## #SMC055 anders dan anders
 
-[*Historische afbeelding niet beschikbaar: #SMC055: Social Media Club Apeldoorn*](https://www.reputatiecoaching.nl/wp-content/uploads/2014/02/smc055.png)Afgelopen maandag was ik speciaal naar de bijeenkomst van de Social Media Club Apeldoorn gegaan vanwege de titel die bij mij een vrijwel onweerstaanbare behoefte opriep om die avond vooral niet te missen. De titel was: “Belachelijk goed zakelijk bloggen”. Er waren twee sprekers aangekondigd: Kitty Kilian (een professioneel blogger en trainer) en Bram Koster van de site Marketingfacts. Dat beloofde wat te worden!
+[*Historische afbeelding niet beschikbaar: #SMC055: Social Media Club Apeldoorn*](https://web.archive.org/web/20140731131256/http://www.reputatiecoaching.nl/wp-content/uploads/2014/02/smc055.png)Afgelopen maandag was ik speciaal naar de bijeenkomst van de Social Media Club Apeldoorn gegaan vanwege de titel die bij mij een vrijwel onweerstaanbare behoefte opriep om die avond vooral niet te missen. De titel was: “Belachelijk goed zakelijk bloggen”. Er waren twee sprekers aangekondigd: Kitty Kilian (een professioneel blogger en trainer) en Bram Koster van de site Marketingfacts. Dat beloofde wat te worden!
 
 Ik was niet de enige… Vanwege het overweldigende aantal aanmeldingen moest de organisatie van #SMC055 al uitwijken naar een andere locatie. Op de avond zelf waren er een goede 190 aanwezigen, volgens mij een absoluut record voor de Social Media Club in Apeldoorn.
 
@@ -43,13 +44,13 @@ Ze heeft haar excuses online aangeboden en daar moet dan volgens mij de kous voo
 
 De tweede spreker van de avond, Bram Koster van Marketingfacts, had een leuk verhaal over de groei van de site en de verandering die bloggen door de jaren heen heeft doorgemaakt. Zo liet hij een “blogbericht” uit 2003 zien, die enkel bestond uit een onliner! Eén regeltje! Daar zou je tegenwoordig niet meer mee wegkomen als blogger!
 
-Maar ook de organisatie van #SMC055 heeft naar aanleiding van deze avond een artikel online gepubliceerd. Je kunt het artikel “[Hoe een #SMC055 avond soms anders verloopt](http://smcapeldoorn.nl/index.php/83-hoe-een-smc055-avond-soms-anders-verloopt)” op de site van Social Media Club Apeldoorn nalezen. De link er naartoe vind je in de show notes, op [www.reputatiecoaching.nl/115](https://www.reputatiecoaching.nl/115/). De organisatie betreurt het dat het de gestelde verwachtingen niet geheel heeft kunnen nakomen.
+Maar ook de organisatie van #SMC055 heeft naar aanleiding van deze avond een artikel online gepubliceerd. Je kunt het artikel “[Hoe een #SMC055 avond soms anders verloopt](http://smcapeldoorn.nl/index.php/83-hoe-een-smc055-avond-soms-anders-verloopt)” op de site van Social Media Club Apeldoorn nalezen. De link er naartoe vind je in de show notes, op [www.reputatiecoaching.nl/115](https://web.archive.org/web/20150312095417/http://www.reputatiecoaching.nl/115/). De organisatie betreurt het dat het de gestelde verwachtingen niet geheel heeft kunnen nakomen.
 
 So be it! De mensen achter #SMC055 lopen de benen uit hun lijf om elke maand een fantastische avond te organiseren. Ook die mensen mogen best eens bij name genoemd worden. Daarom nu van deze kant…
 
 ## Pas op voor dubbele Google+ vermeldingen!
 
-[*Historische afbeelding niet beschikbaar: Google*](https://www.reputatiecoaching.nl/wp-content/uploads/2013/10/Google_Plus_icon-e1382615817226.png)Sinds ik de serie webinars “Internetmarketing voor Fotografen” heb gegeven zijn diverse fotografen in het westen van het land druk bezig met het verstevigen van hun online presence voor het verbeteren van hun zichtbaarheid, vindbaarheid en reputatie. En dat begint zijn vruchten af te werpen!
+[*Historische afbeelding niet beschikbaar: Google*](https://web.archive.org/web/20131129191921/http://www.reputatiecoaching.nl/wp-content/uploads/2013/10/Google_Plus_icon-e1382615817226.png)Sinds ik de serie webinars “Internetmarketing voor Fotografen” heb gegeven zijn diverse fotografen in het westen van het land druk bezig met het verstevigen van hun online presence voor het verbeteren van hun zichtbaarheid, vindbaarheid en reputatie. En dat begint zijn vruchten af te werpen!
 
 Fotograaf Joris uit Leiden vertelde op Google+ dat hij vorige week maar liefst drie aanvragen had binnengekregen, omdat mensen zochten naar een fotograaf in Leiden, waarop ze bij hem terecht kwamen! Dat gaat dus de goede kant op!
 
@@ -66,7 +67,7 @@ Pas nadat Mart een categorie had ingesteld voor de pagina en dit had opgeslagen,
 ## Hoe informeer je lezers van je site over nieuwe blogposts?
 
 ![RSS-logo](rss.png)
-Een paar weken geleden vertelde ik je over Diana Albrink, de schrijfster van het boek “New York in 40 dates”, dat ergens in de eerste helft van 2015 uitkomt. Zij vroeg in [podcast 111](https://www.reputatiecoaching.nl/111/) hoe je een soort alter ego of pseudoniem online kon creëren en autoriteit geven. Daar heb ik toen die podcast voor een substantieel deel aan gewijd.
+Een paar weken geleden vertelde ik je over Diana Albrink, de schrijfster van het boek “New York in 40 dates”, dat ergens in de eerste helft van 2015 uitkomt. Zij vroeg in [podcast 111](https://web.archive.org/web/20150312095303/http://www.reputatiecoaching.nl/111/) hoe je een soort alter ego of pseudoniem online kon creëren en autoriteit geven. Daar heb ik toen die podcast voor een substantieel deel aan gewijd.
 
 Eerder deze week ontving ik weer een leuke mail van Diana. Zij begon met vertellen dat ze inmiddels ALLE 114 podcasts heeft beluisterd! Dus ze is helemaal bij! Wauw Diana, knap dat je dat is gelukt tijdens het stofzuigen, schoonmaken, autorijden en dergelijke! Ik ben benieuwd of je hoofd inmiddels niet overloopt van alle informatie die ik in de podcasts deel!
 
@@ -76,7 +77,7 @@ Tja Diana, dat is in alle voorgaande podcasts inderdaad nog nooit aan bod gekome
 
 Ik zie twee mogelijkheden, waarvan ik er eentje echt adviseer. Laat ik beginnen met de simpelste. Als je dezelfde mogelijkheden wilt in je eigen WordPress website, als dat je hebt op wordpress.com, dan moet je de plugin “[Jetpack by wordpress.com](https://wordpress.org/plugins/jetpack/)” installeren.
 
-[![Jetpack by wordpress.com plugin](Jetpack-Logo.png)](https://wordpress.org/plugins/jetpack/)Je moet het maar eens nalezen op de informatiepagina van deze plugin. De link daar naartoe vind je in de show notes op [www.reputatiecoaching.nl/115](https://www.reputatiecoaching.nl/115/).
+[![Jetpack by wordpress.com plugin](Jetpack-Logo.png)](https://wordpress.org/plugins/jetpack/)Je moet het maar eens nalezen op de informatiepagina van deze plugin. De link daar naartoe vind je in de show notes op [www.reputatiecoaching.nl/115](https://web.archive.org/web/20150312095417/http://www.reputatiecoaching.nl/115/).
 
 [![Mailchimp](mailchimp-logo.png)](http://www.mailchimp.com)De andere oplossing is technisch iets complexer, maar volgens mij wel waardevoller, zeker op de langere termijn. Ik zou je aanmelden bij [Mailchimp](http://www.mailchimp.com). Dan kun je beginnen met het bouwen van een mailinglijst. Maak in Mailchimp een simpel invulformuliertje voor op je site. Dat is in Mailchimp echt een fluitje van een cent als je je er eventjes in verdiept. Laat mensen zich dus via dat formuliertje op jouw site aanmelden om op de hoogte te blijven.
 
@@ -128,7 +129,7 @@ Als je de podcast leuk vindt en je wilt nog meer op de hoogte blijven, volg me d
 
 Heb je inderdaad wat aan alle informatie die ik met je deel, help mij dan met het verder verbeteren en promoten van deze podcast. Abonneer je op de podcast, zodat je altijd meteen de nieuwste uitzending krijgt voorgeschoteld.
 
-Zoek de podcast op, in [iTunes](https://www.reputatiecoaching.nl/itunes) of [Stitcher](https://www.reputatiecoaching.nl/stitcher), geef de podcast een sterrenbeoordeling en laat ook je reactie achter. Door de podcast te beoordelen op iTunes en/of Stitcher breng je de podcast onder de aandacht van een breder publiek.
+Zoek de podcast op, in iTunes of Stitcher, geef de podcast een sterrenbeoordeling en laat ook je reactie achter. Door de podcast te beoordelen op iTunes en/of Stitcher breng je de podcast onder de aandacht van een breder publiek.
 
 Je kunt me verder helpen, door de podcast aan te bevelen bij vrienden of collega’s, waarvan je denkt dat ze er hun voordeel mee kunnen doen, of door ’m te delen op Twitter, like’n en delen op Facebook of een “+1” te geven op Google+.
 
@@ -136,7 +137,7 @@ En vergeet niet: ik ben hier om je te helpen! Als je een vraag of een probleem h
 
 Als je dat te lastig vindt, of als je de podcast beluistert terwijl je in de auto zit en je hebt acuut een vraag, spreek dan een boodschap in op de ReputatieCoaching Hotline, op nummer: 084 - 883 15 56. Mogelijk behandel ik je vraag of probleem dan in een artikel of in de podcast.
 
-En je kunt ook rechtstreeks op de website een voicemail achterlaten, door op de tab aan de rechterkant van elke pagina te klikken, en je bericht in te spreken. Dit was [ReputatieCoaching Podcast aflevering 115](https://www.reputatiecoaching.nl/115/) en mijn naam is [Eduard de Boer](http://nl.linkedin.com/in/eduarddeboer/nl).
+En je kunt ook rechtstreeks op de website een voicemail achterlaten, door op de tab aan de rechterkant van elke pagina te klikken, en je bericht in te spreken. Dit was [ReputatieCoaching Podcast aflevering 115](https://web.archive.org/web/20150312095417/http://www.reputatiecoaching.nl/115/) en mijn naam is [Eduard de Boer](http://nl.linkedin.com/in/eduarddeboer/nl).
 
 Ik wens je de komende week weer succes met het werken aan je reputatie, zodat je meteen je reputatie voor jou kunt laten werken!
 
@@ -147,10 +148,10 @@ Doei!
 Links naar content die in deze podcast aan bod komt:
 
 ```
-  * [ReputatieCoaching Podcast in iTunes](https://www.reputatiecoaching.nl/itunes)
-  * [ReputatieCoaching Podcast op Stitcher](https://www.reputatiecoaching.nl/stitcher)
+  * ReputatieCoaching Podcast in iTunes
+  * ReputatieCoaching Podcast op Stitcher
   * [ReputatieCoaching Podcast op TuneIn Radio](http://tunein.com/radio/ReputatieCoaching-Podcast-p655084/)
-  * [ReputatieCoaching Podcast RSS-feed](https://feeds.reputatiecoaching.nl/ReputatieCoachingPodcast)
+  * [ReputatieCoaching Podcast RSS-feed](https://web.archive.org/web/20150228235938/http://feeds.reputatiecoaching.nl:80/ReputatieCoachingPodcast)
   * [Jetpack by wordpress.com](https://wordpress.org/plugins/jetpack/) (Plugin die jouw WordPress sitte dezelfde mogelijkheden geeft als op wordpress.com)
   * [New York in 40 dates](http://newyorkin40dates.nl/) (Site bij het boek dat in Q2/2015 uitkomt)
   * [Security checklist van Google](http://goo.gl/ccgyV0) voor 2 GB extra ruimte op je Google Drive!
