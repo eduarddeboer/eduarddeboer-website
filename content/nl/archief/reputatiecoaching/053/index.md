@@ -3,6 +3,7 @@ title: '53: 208.395 woorden in 52 weken, Google brengt Review management tool, M
 date: '2013-12-02T07:30:05+00:00'
 description: Morgen is het op de kop af een jaar geleden dat ik mijn eerste podcast uitbracht en oh, wat vond ik dat toen spannend! Inmiddels zijn we 52 afleveringen verder en is het maken van de podcast eigenlijk routine geworden. Dat wil niet zeggen dat elke podcast binnen no-time gemaakt is, maar ik heb mijn werkwijze aardig vastomlijnd en geoptimaliseerd, waardoor de benodigde tijd en inspanning is teruggebracht. De podcast van vandaag begin ik met een terugblik, wat statistieken en een korte samenvatting van mijn bevindingen na één jaar podcasten over online reputatiecoaching en reputatiemanagement.
 episode: 53
+kgRef: podcast_episode/reputatiecoaching_053
 historical: true
 archivePeriod: 2012–2016
 transcriptStatus: full
@@ -22,7 +23,7 @@ showTaxonomies: false
 **Transcriptiestatus:** Volledige transcriptie uit het oorspronkelijke archief.
 
 ***Historische afbeelding niet beschikbaar: ReputatieCoaching Podcast*
-Morgen is het op de kop af een jaar geleden dat ik mijn [eerste podcast](https://www.reputatiecoaching.nl/53/) uitbracht en oh, wat vond ik dat toen spannend! Inmiddels zijn we 52 afleveringen verder en is het maken van de podcast eigenlijk routine geworden. Dat wil niet zeggen dat elke podcast binnen no-time gemaakt is, maar ik heb mijn werkwijze aardig vastomlijnd en geoptimaliseerd, waardoor de benodigde tijd en inspanning is teruggebracht.**
+Morgen is het op de kop af een jaar geleden dat ik mijn [eerste podcast](https://web.archive.org/web/20150312093513/http://www.reputatiecoaching.nl/53/) uitbracht en oh, wat vond ik dat toen spannend! Inmiddels zijn we 52 afleveringen verder en is het maken van de podcast eigenlijk routine geworden. Dat wil niet zeggen dat elke podcast binnen no-time gemaakt is, maar ik heb mijn werkwijze aardig vastomlijnd en geoptimaliseerd, waardoor de benodigde tijd en inspanning is teruggebracht.**
 
 **De podcast van vandaag begin ik met een terugblik, wat statistieken en een korte samenvatting van mijn bevindingen na één jaar podcasten over online reputatiecoaching en reputatiemanagement. Eerder afgelopen week heeft Google de markt verrast door het uitbrengen van een reviewmanagement tool, was het bedrijf in het NOS-journaal van 20:00 uur ’s avonds vanwege alle gegevens die het verzamelt en heeft het Google Map Maker weer online gezet.**
 
@@ -48,7 +49,7 @@ Een kort lijstje met wat statistieken van het afgelopen jaar:
   * De 3 uitgebrachte ReputatieCoaching Podcast boeken zijn ook honderden keren bekeken.
 ```
 
-Dit waren zo maar wat statistieken. Soms kan een bepaald stuk content opeens ontzettend populair worden. Ik zal niet gelijk claimen dat content van mij viraal is gegaan, maar de instructievideo die ik 31 mei van dit jaar heb gemaakt over het [uitsnijden van een object in een foto](https://www.reputatiecoaching.nl/foto-uitsnijden-achtergrond-verwijderen-instructievideo/), is toch al meer dan 2.100 keer bekeken! Dat is ook veruit de meest populaire video. Hij is zelfs meer bekeken dan de video waarin ik [Corpus Justitia](http://www.corpusjustitia.nl) ontmaskerde.
+Dit waren zo maar wat statistieken. Soms kan een bepaald stuk content opeens ontzettend populair worden. Ik zal niet gelijk claimen dat content van mij viraal is gegaan, maar de instructievideo die ik 31 mei van dit jaar heb gemaakt over het [uitsnijden van een object in een foto](https://web.archive.org/web/20140328233245/http://www.reputatiecoaching.nl:80/foto-uitsnijden-achtergrond-verwijderen-instructievideo/), is toch al meer dan 2.100 keer bekeken! Dat is ook veruit de meest populaire video. Hij is zelfs meer bekeken dan de video waarin ik [Corpus Justitia](https://web.archive.org/web/20131205032848/http://www.corpusjustitia.nl/) ontmaskerde.
 
 Daarentegen zijn de podcast video’s amper bekeken: slechts een handjevol views hier en daar. Dus na het in video uitbrengen van podcast 39, ben ik daarmee gestopt. Dit wil echter absoluut niet zeggen dat ik geen heil zie in video. Het enige wat ik hier uit kan concluderen, is dat het type video zoals ik het heb gemaakt, bestaande uit een openingsslide en een slide met een spreuk het publiek niet voldoende aanspreekt om op te klikken, of om naar te luisteren. Daarom ga ik ook zeker door met het maken van andersoortige video’s!
 
@@ -70,13 +71,13 @@ Afgelopen week verraste Google de markt door een nieuwe en nuttige tool uit te b
 
 Daar heb je sinds deze week de mogelijkheid om alle recensies op Google+ te bekijken, erop te reageren en kun je statistieken van je recensies bekijken.
 
-Als je hier meer over wilt weten, of wilt weten hoe deze nieuwe reviewmanagement tool er uitziet, dan adviseer ik je om de [nieuwsflitsvideo](https://www.reputatiecoaching.nl/review-management-in-google-places-zakelijk/) te bekijken, die ik eerder deze week online heb gezet. De link naar het artikel met deze video kun je vinden in de show notes. Zoals altijd kun je de volledige transcriptie van de podcast nalezen op de website. De transcriptie voor deze podcast vind je op [www.reputatiecoaching.nl/53](https://www.reputatiecoaching.nl/53/).
+Als je hier meer over wilt weten, of wilt weten hoe deze nieuwe reviewmanagement tool er uitziet, dan adviseer ik je om de [nieuwsflitsvideo](https://web.archive.org/web/20150802022820/http://www.reputatiecoaching.nl:80/review-management-in-google-places-zakelijk/) te bekijken, die ik eerder deze week online heb gezet. De link naar het artikel met deze video kun je vinden in de show notes. Zoals altijd kun je de volledige transcriptie van de podcast nalezen op de website. De transcriptie voor deze podcast vind je op [www.reputatiecoaching.nl/53](https://web.archive.org/web/20150312093513/http://www.reputatiecoaching.nl/53/).
 
 Wat echter nog interessanter is, is dat de tool ook recensies van andere sites op Internet vertoont. Althans, ik zag ze nog niet voor Allround Fotografie, maar wel voor een [tandarts uit Apeldoorn](https://plus.google.com/+WKTandartsenNL/about). Voor die tandarts werden alleen nog maar reviews gevonden op independer.nl. De tool lijkt dus in elk geval nog in ontwikkeling, maar ja, dat is alles wat Google op de markt brengt en heeft gebracht: dat is continu aan verandering onderhevig. Zo werken in deze tool de links naar de andere reviews op Internet nog niet naar behoren.
 
 ## Google Map Maker weer online
 
-Sinds vorige week was [Google Map Maker offline](https://www.reputatiecoaching.nl/google-mapmaker-tijdelijk-uit-de-lucht-en-google-maps-toont-3-bedrijven/). Of beter gezegd: je kon geen wijzigingen doorvoeren en ook geen wijzigingen beoordelen. De site was dus in “read-only” mode. Inmiddels is de site weer live. Visueel lijkt er niet echt veel veranderd, maar wat ik begrijp waren de veranderingen voornamelijk in de achterliggende systemen, omdat Google naar één bron wilde voor alle mapgegevens. Die zou namelijk nog verdeeld zijn over 4 bronnen.
+Sinds vorige week was [Google Map Maker offline](https://web.archive.org/web/20140803035105/http://www.reputatiecoaching.nl:80/google-mapmaker-tijdelijk-uit-de-lucht-en-google-maps-toont-3-bedrijven/). Of beter gezegd: je kon geen wijzigingen doorvoeren en ook geen wijzigingen beoordelen. De site was dus in “read-only” mode. Inmiddels is de site weer live. Visueel lijkt er niet echt veel veranderd, maar wat ik begrijp waren de veranderingen voornamelijk in de achterliggende systemen, omdat Google naar één bron wilde voor alle mapgegevens. Die zou namelijk nog verdeeld zijn over 4 bronnen.
 
 Dit leverde allerhande vervelende synchronisatieproblemen op, waardoor het kon gebeuren dat wijzigingen die je zelf had aangebracht in je bedrijfsgegevens, een paar dagen later weer door één of andere synchronisatiebot van Google werden overschreven, omdat Google ergens op Internet weer nieuwe gegevens over je bedrijf had gevonden. Dat zou nu dus tot het verleden moeten behoren.
 
@@ -126,7 +127,7 @@ Ik verwacht niet dat het zo’n vaart zal lopen en in de tussentijd ga ik gewoon
 
 ## Social media is meer dan “Like” en “Tweet”… Het is creatie!
 
-\*\*[Historische afbeelding: Erno Hannink](https://lh4.googleusercontent.com/-nJT-rAjP9cc/TusqqnJN9aI/AAAAAAAAHDI/I5kKDNKuUUo/s200-no/ernohannink-500x500.jpg)
+\*\*[Historische afbeelding: Erno Hannink](https://web.archive.org/web/20150312093523/https://lh4.googleusercontent.com/-nJT-rAjP9cc/TusqqnJN9aI/AAAAAAAAHDI/I5kKDNKuUUo/s200-no/ernohannink-500x500.jpg)
 \*\*Dit brengt mij op een artikel van Erno Hannink, dat ik deze week online vond. Erno schrijft in het artikel “[Social Media is niet ‘Vind ik Leuk’ en een Tweet – het is creatie](http://ernohannink.nl/social-media-creatie/)” dat teveel mensen zich onder de noemer van “social media” alleen maar richten op het verzamelen van Likes, het uitdelen van Likes en het Tweeten of re-Tweeten van berichten die note bene niet eens van henzelf zijn.
 
 Social media is niet Liken en Tweeten of re-Tweeten. Social media zou nooit een succes zijn geworden zonder goede content. Want als er geen goede content is, valt er niets te Like’n. OK, je kunt een “Vind ik leuk”-je uitdelen als je buurman vertelt dat hij het gras heeft gemaaid en nu van een welverdiend biertje geniet, maar daarmee onderscheid je je echt niet in de markt.
@@ -159,11 +160,11 @@ Ik heb al eerder uitgelegd dat het een kwestie is van je boodschap verspreiden i
 
 ## Pinterest gaat lokaal
 
-Eigenlijk had ik je het vorige week al willen vertellen, maar toen had ik al meer dan voldoende onderwerpen. Maar een goede twee weken geleden postte Pinterest een interessant bericht op hun weblog, over een nieuw type pin, te weten “[Place Pins](http://blog.pinterest.com/post/67622502341/introducing-place-pins-for-the-explorer-in-all-of-us)”. Dit zijn Pins die gekoppeld zijn aan een locatie.
+Eigenlijk had ik je het vorige week al willen vertellen, maar toen had ik al meer dan voldoende onderwerpen. Maar een goede twee weken geleden postte Pinterest een interessant bericht op hun weblog, over een nieuw type pin, te weten “[Place Pins](https://web.archive.org/web/20131202170803/http://blog.pinterest.com/post/67622502341/introducing-place-pins-for-the-explorer-in-all-of-us)”. Dit zijn Pins die gekoppeld zijn aan een locatie.
 
 Pinterest heeft al meer dan een jaar geleden geconstateerd dat mensen meer en meer borden maakten over geplande vakantieoorden, plaatsen waar ze leven en plekken die ze ooit willen bezoeken. Inmiddels pinnen de pinners op Pinterest dagelijks zo’n anderhalf miljoen plaatsen en inmiddels zijn er al meer dan 750 miljoen gepinde plaatsen op Pinterest.
 
-Daarom hebben ze nu “[Place Pins](http://blog.pinterest.com/post/67622502341/introducing-place-pins-for-the-explorer-in-all-of-us)” geïntroduceerd. Hiermee kun je mooie foto’s combineren met geografische kaarten, zodat je het met vrienden kunt delen. Je kunt de Place Pins bekijken op je iPhone of Android device en het is zelfs mogelijk om de routebeschrijving er naartoe op te vragen.
+Daarom hebben ze nu “[Place Pins](https://web.archive.org/web/20131202170803/http://blog.pinterest.com/post/67622502341/introducing-place-pins-for-the-explorer-in-all-of-us)” geïntroduceerd. Hiermee kun je mooie foto’s combineren met geografische kaarten, zodat je het met vrienden kunt delen. Je kunt de Place Pins bekijken op je iPhone of Android device en het is zelfs mogelijk om de routebeschrijving er naartoe op te vragen.
 
 Extra gegevens die jij bij Place Pins kunt invoeren, zijn adres en telefoonnummer. En daar wordt het volgens mij interessant voor lokale SEO, ofwel het creëren van citations of bedrijfsvermeldingen met een hoge mate van autoriteit. De vraag is alleen hoelang het duurt, voordat Google deze Place Pins ook als zodanig gaat meewegen in de ranking in de lokale zoekresultaten. Dat is natuurlijk afwachten.
 
@@ -196,9 +197,9 @@ Als je de podcast leuk vindt en je hebt inderdaad wat aan alle informatie die ik
 
 Als je een vraag of een probleem hebt met betrekking tot je online reputatie of de vindbaarheid van je website, kun je een mailtje sturen naar [podcast@reputatiecoaching.nl](mailto:podcast@reputatiecoaching.nl). Als je dat te lastig vindt, of als je de podcast beluistert terwijl je in de auto zit en je hebt acuut een vraag, spreek dan een boodschap in op de ReputatieCoaching Hotline, op nummer: 084 - 883 15 56. Mogelijk behandel ik je vraag of probleem dan in een artikel of in de podcast.
 
-Als laatste kun je je ook inschrijven voor de nieuwsbrief. Dan ontvang je altijd als eerste het laatste nieuws wat ik publiceer en automatisch elk kwartaal het ReputatieCoaching Podcast Boek van het afgelopen kwartaal. Surf daartoe naar [www.reputatiecoaching.nl/nieuwsbrief/](https://www.reputatiecoaching.nl/nieuwsbrief/) en schrijf je meteen in.
+Als laatste kun je je ook inschrijven voor de nieuwsbrief. Dan ontvang je altijd als eerste het laatste nieuws wat ik publiceer en automatisch elk kwartaal het ReputatieCoaching Podcast Boek van het afgelopen kwartaal. Surf daartoe naar [www.reputatiecoaching.nl/nieuwsbrief/](https://web.archive.org/web/20131205063155/http://www.reputatiecoaching.nl/nieuwsbrief/) en schrijf je meteen in.
 
-En je kunt ook rechtstreeks op de website een voicemail achterlaten, door op de tab aan de rechterkant van elke pagina te klikken, en je bericht in te spreken. Dit was [ReputatieCoaching Podcast aflevering 53](https://www.reputatiecoaching.nl/53/) en mijn naam is [Eduard de Boer](http://nl.linkedin.com/in/eduarddeboer/nl).
+En je kunt ook rechtstreeks op de website een voicemail achterlaten, door op de tab aan de rechterkant van elke pagina te klikken, en je bericht in te spreken. Dit was [ReputatieCoaching Podcast aflevering 53](https://web.archive.org/web/20150312093513/http://www.reputatiecoaching.nl/53/) en mijn naam is [Eduard de Boer](http://nl.linkedin.com/in/eduarddeboer/nl).
 
 Ik wens je de komende week weer succes met het werken aan je reputatie, zodat je meteen je reputatie voor jou kunt laten werken!
 
@@ -210,5 +211,5 @@ Overzicht van de links die in deze podcast aan bod komen:
 
 ```
   * “[Social Media is niet ‘Vind ik Leuk’ en een Tweet – het is creatie](http://www.google.com/mapmaker)” (Erno Hannink, november 2013)
-  * “[Introducing Place Pins, for the explorer in all of us](http://blog.pinterest.com/post/67622502341/introducing-place-pins-for-the-explorer-in-all-of-us)” (Pinterest blog, 20 november 2013)
+  * “[Introducing Place Pins, for the explorer in all of us](https://web.archive.org/web/20131202170803/http://blog.pinterest.com/post/67622502341/introducing-place-pins-for-the-explorer-in-all-of-us)” (Pinterest blog, 20 november 2013)
 ```

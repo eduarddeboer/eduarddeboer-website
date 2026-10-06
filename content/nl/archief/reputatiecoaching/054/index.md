@@ -3,6 +3,7 @@ title: '54: 50 GB in de cloud, Facebook pagina''s, Klout voor bedrijven, Google+
 date: '2013-12-09T20:30:49+00:00'
 description: Voordat ik van start ga met deze podcast even excuses voor het wat latere verschijnen. Je moet weten dat ik de podcast altijd op zondag samenstel, inspreek, opneem en klaar zet, zodat die maandagmorgen automatisch om 08:30 uur live gaat. Echter, ik was gisteren gevloerd door de griep en zag geen kans om zo’n acht tot negen uur bijna onafgebroken eraan te werken. Inmiddels voel ik me weer een stuk beter en ben ik weer in staat je te fatsoenlijk te woord te staan.
 episode: 54
+kgRef: podcast_episode/reputatiecoaching_054
 historical: true
 archivePeriod: 2012–2016
 transcriptStatus: full
@@ -28,7 +29,7 @@ Voordat ik van start ga met deze podcast even excuses voor het wat latere versch
 
 **De onderwerpen voor vandaag… Als eerste heb ik een leuke en bovenal nuttige tip voor je, waar je gratis 50 GB aan opslagcapaciteit in de cloud kunt krijgen. Dan kom ik nogmaals terug op Facebook profielen versus Facebook pagina’s en ook op Klout, want Klout kan nu ook een Klout-score aan bedrijven toekennen! Maar niet voor lang. Ook bestaat Hyves niet meer in de vorm, waarin het eerst bestond en wordt Google+ voor mij steeds meer een bron van nieuws. “Content stitching is uit”, zegt Matt Cutts. Ik sluit de podcast van vandaag af met een stuk of 8 tips om extra op te vallen met je blog. Deze tips komen van een infographic, waarop je meer dan 120 tips kunt lezen.**
 
-Al deze onderwerpen komen aan bod in deze 54e aflevering van de ReputatieCoaching Podcast. Je kunt de volledige transcriptie van deze podcast op je gemak nalezen op de site. Elke transcriptie is gemakkelijk te vinden, door te surfen naar [www.reputatiecoaching.nl](/) - slash - en dan het nummer van de podcast, in dit geval 54. Dus surf naar [www.reputatiecoaching.nl/54](https://www.reputatiecoaching.nl/54/) voor de volledige tekst van deze podcast.
+Al deze onderwerpen komen aan bod in deze 54e aflevering van de ReputatieCoaching Podcast. Je kunt de volledige transcriptie van deze podcast op je gemak nalezen op de site. Elke transcriptie is gemakkelijk te vinden, door te surfen naar [www.reputatiecoaching.nl](/) - slash - en dan het nummer van de podcast, in dit geval 54. Dus surf naar [www.reputatiecoaching.nl/54](https://web.archive.org/web/20140310175816/http://www.reputatiecoaching.nl:80/54/) voor de volledige tekst van deze podcast.
 
 In elk geval hartelijk welkom bij deze aflevering van de ReputatieCoaching Podcast. Mijn naam is Eduard de Boer, ook bekend als de ReputatieCoach. Dit is dé podcast die je moet beluisteren als je meer wilt leren over online reputatie en reputatiemanagement en ook als je wilt werken aan je online reputatie en je online vindbaarheid wilt verbeteren. Dit alles kan je helpen om jezelf beter op de online kaart te plaatsen, waardoor je als bedrijf meer business kunt doen.
 
@@ -51,7 +52,7 @@ Wellicht heb je hier iets aan, voor als je een offsite backup wilt van je gegeve
 ## Facebook pagina of Facebook profiel?
 
 *Historische afbeelding niet beschikbaar: Bedrijfspagina maken op Facebook*
-Bijna een jaar geleden heb ik een instructievideo gepost over hoe je een [Facebookpagina kunt aanmaken voor je bedrijf of organisatie](https://www.reputatiecoaching.nl/maak-je-eigen-bedrijfspagina-op-facebook-instructievideo/). Toevallig zag ik ook afgelopen week weer een voorbeeld van een organisatie die een persoonlijk Facebookprofiel gebruikt. Ik weet zeker dat er duizenden kleine organisaties, ondernemers en bedrijven uit het MKB-segment in Nederland zijn die dit doen, maar hier betrof het nota bene een lokale overheidsorganisatie, te weten de [gemeente Overbetuwe](https://www.facebook.com/gemeente.overbetuwe).
+Bijna een jaar geleden heb ik een instructievideo gepost over hoe je een [Facebookpagina kunt aanmaken voor je bedrijf of organisatie](https://web.archive.org/web/20140306152742/http://www.reputatiecoaching.nl:80/maak-je-eigen-bedrijfspagina-op-facebook-instructievideo/). Toevallig zag ik ook afgelopen week weer een voorbeeld van een organisatie die een persoonlijk Facebookprofiel gebruikt. Ik weet zeker dat er duizenden kleine organisaties, ondernemers en bedrijven uit het MKB-segment in Nederland zijn die dit doen, maar hier betrof het nota bene een lokale overheidsorganisatie, te weten de [gemeente Overbetuwe](https://www.facebook.com/gemeente.overbetuwe).
 
 Je moet weten dat Facebook het in principe niet toestaat dat je als organisatie of bedrijf een profiel gebruikt. Met een Facebookpagina heb je bovendien een aantal voordelen:
 
@@ -66,11 +67,11 @@ Je moet weten dat Facebook het in principe niet toestaat dat je als organisatie 
 
 ## Klout-score voor bedrijven
 
-Een bijkomend voordeel is dat je een Facebookpagina ook kunt koppelen aan een Klout bedrijfsprofiel. In [podcast 8](https://www.reputatiecoaching.nl/8/) heb ik je al eens over Klout verteld. Toen was Klout alleen nog maar voor individuen. Ik zeg het je eerlijk: ergens heb ik tussen podcast 8 en een week geleden nieuws over Klout gemist, in elk geval dat ze nu ook een Klout-score voor bedrijven hebben.
+Een bijkomend voordeel is dat je een Facebookpagina ook kunt koppelen aan een Klout bedrijfsprofiel. In [podcast 8](https://web.archive.org/web/20131009021929/http://www.reputatiecoaching.nl:80/8/) heb ik je al eens over Klout verteld. Toen was Klout alleen nog maar voor individuen. Ik zeg het je eerlijk: ergens heb ik tussen podcast 8 en een week geleden nieuws over Klout gemist, in elk geval dat ze nu ook een Klout-score voor bedrijven hebben.
 
 [[Historische afbeelding: Klout score van Allround Fotografie bij aanmelden](https://lh5.googleusercontent.com/5c83F7T5Inh-OM6XdPrAXtI7A6WQEAZDNpEArnQEprE=w484-h222-p-no)](http://www.klout.com/AllroundFoto)
 
-Dat kon ik niet hebben en ben gaan terugzoeken, wanneer ze daarmee zijn begonnen. Het blijkt dat “[Klout voor bedrijven](http://blog.klout.com/2013/03/klout-for-businesses/)” al operationeel is sinds 19 maart dit jaar! Dat is dus bijna 9 maanden geleden!
+Dat kon ik niet hebben en ben gaan terugzoeken, wanneer ze daarmee zijn begonnen. Het blijkt dat “[Klout voor bedrijven](https://web.archive.org/web/20131102135229/http://blog.klout.com/2013/03/klout-for-businesses/)” al operationeel is sinds 19 maart dit jaar! Dat is dus bijna 9 maanden geleden!
 
 Maar goed, zo zie je: ik mis ook wel eens belangrijke nieuwsupdates. Wel heb ik meteen de Klout RSS-feed aan mijn Feedly-account toegevoegd, zodat ik in de toekomst geen nieuws van Klout hoef te missen.
 
@@ -145,7 +146,7 @@ Ik heb geen aandelen in [mijndomein.nl](http://www.mijndomein.nl), maar ben gewo
 
 Anyway, je hebt dus een weblog en je begint artikelen te posten. Op Internet kwam ik een infographic tegen van “Digital Philippines”. Deze infographic heb ik ook opgenomen in de show notes van deze podcast.
 
-[Historische afbeelding: bekijk bron](http://media.reputatiecoaching.nl/wp-content/uploads/2013/12/120-tips-om-je-content-onder-de-aandacht-te-brengen-infographic.jpg)
+[Historische afbeelding: bekijk bron](https://web.archive.org/web/20150312093546/http://media.reputatiecoaching.nl/wp-content/uploads/2013/12/120-tips-om-je-content-onder-de-aandacht-te-brengen-infographic.jpg)
 
 Ik ga ze hier niet alle 120 voorlezen, maar ik heb er een paar leuke, nuttige of aparte c.q. opmerkelijke uit gepakt:
 
@@ -157,16 +158,16 @@ Ik ga ze hier niet alle 120 voorlezen, maar ik heb er een paar leuke, nuttige of
   * **Converteer je blogpost naar PDF en post die op diverse document sharing sites** – Hier ben ik het minder mee eens, want als je dit doet, is dat pure duplicate content, ook al is het in een ander formaat. Het is op dit moment niet zo, dat je ervoor wordt afgestraft, maar zelf betwijfel ik het nut van de extra inspanning die je hiervoor moet doen. Mijn advies is om enkele specifieke en bovenal originele en unieke documenten te maken en díe op de document sharing sites te plaatsen. Let er dan wel op, dat je meteen ook daar je profiel goed invult en je bedrijfsvermelding, bestaande uit naam, adres, postcode, plaats en telefoonnummer er juist bij zet. En niet alleen in het profiel, maar ook in het document dat je uploadt.
   * **Maak “pinnable” infographics** – Tja, gemakkelijk gezegd, maar dat is echt niet voor iedereen weggelegd. Mijn advies is om leuke infographics te zoeken, die te gebruiken in je weblog en er een originele tekst bij te schrijven, net als ik nu doe. Vervolgens pin je dan de infographic op een relevant Pinterest-bord van je.
   * **Link ook naar “oudere” artikelen op je site** – Je ziet dat ik dat ook continu doe: ik praat heel vaak over eerder uitgezonden podcasts of reeds gepubliceerde artikelen en ik link er dan ook naartoe. Dit helpt om ook oudere artikelen vaker onder de aandacht te brengen.
-  * **Gebruik “YARPP”, ofwel “Yet Another Related Post Plugin”** – Helemaal mee eens. In podcast 26 schreef ik ook over [“Yet Another Related Post Plugin” (YARPP)](https://www.reputatiecoaching.nl/26/). Zie je? Daar doe ik het weer: linken naar een ouder weblog artikel, in dit geval [podcast 26](https://www.reputatiecoaching.nl/26/).
+  * **Gebruik “YARPP”, ofwel “Yet Another Related Post Plugin”** – Helemaal mee eens. In podcast 26 schreef ik ook over [“Yet Another Related Post Plugin” (YARPP)](https://web.archive.org/web/20140312234217/http://www.reputatiecoaching.nl:80/26/). Zie je? Daar doe ik het weer: linken naar een ouder weblog artikel, in dit geval [podcast 26](https://web.archive.org/web/20140312234217/http://www.reputatiecoaching.nl:80/26/).
 ```
 
 Als je de podcast leuk vindt en je hebt inderdaad wat aan alle informatie die ik met je deel, help mij dan met het verder verbeteren en promoten van deze podcast. Deel ‘m op Twitter, like ‘m op Facebook of geef een “+1” op Google+. Het zou helemaal super zijn, als je een bericht achterlaat op iTunes of LinkedIn.
 
 Als je een vraag of een probleem hebt met betrekking tot je online reputatie of de vindbaarheid van je website, kun je een mailtje sturen naar [podcast@reputatiecoaching.nl](mailto:podcast@reputatiecoaching.nl). Als je dat te lastig vindt, of als je de podcast beluistert terwijl je in de auto zit en je hebt acuut een vraag, spreek dan een boodschap in op de ReputatieCoaching Hotline, op nummer: 084 - 883 15 56. Mogelijk behandel ik je vraag of probleem dan in een artikel of in de podcast.
 
-Als laatste kun je je ook inschrijven voor de nieuwsbrief. Dan ontvang je altijd als eerste het laatste nieuws wat ik publiceer en automatisch elk kwartaal het ReputatieCoaching Podcast Boek van het afgelopen kwartaal. Surf daartoe naar [www.reputatiecoaching.nl/nieuwsbrief/](https://www.reputatiecoaching.nl/nieuwsbrief/) en schrijf je meteen in.
+Als laatste kun je je ook inschrijven voor de nieuwsbrief. Dan ontvang je altijd als eerste het laatste nieuws wat ik publiceer en automatisch elk kwartaal het ReputatieCoaching Podcast Boek van het afgelopen kwartaal. Surf daartoe naar [www.reputatiecoaching.nl/nieuwsbrief/](https://web.archive.org/web/20131205063155/http://www.reputatiecoaching.nl/nieuwsbrief/) en schrijf je meteen in.
 
-En je kunt ook rechtstreeks op de website een voicemail achterlaten, door op de tab aan de rechterkant van elke pagina te klikken, en je bericht in te spreken. Dit was [ReputatieCoaching Podcast aflevering 54](https://www.reputatiecoaching.nl/54/) en mijn naam is [Eduard de Boer](http://nl.linkedin.com/in/eduarddeboer/nl).
+En je kunt ook rechtstreeks op de website een voicemail achterlaten, door op de tab aan de rechterkant van elke pagina te klikken, en je bericht in te spreken. Dit was [ReputatieCoaching Podcast aflevering 54](https://web.archive.org/web/20140310175816/http://www.reputatiecoaching.nl:80/54/) en mijn naam is [Eduard de Boer](http://nl.linkedin.com/in/eduarddeboer/nl).
 
 Ik wens je de komende week weer succes met het werken aan je reputatie, zodat je meteen je reputatie voor jou kunt laten werken!
 
@@ -178,5 +179,5 @@ Links naar artikelen die in deze podcast aan bod komen:
 
 ```
   * [Gemeente Overbetuwe op Facebook](http://www.facebook.com/gemeente.overbetuwe)
-  * “[Klout is Open for Business(es)](http://blog.klout.com/2013/03/klout-for-businesses/)” (The Official Klout Blog, 19 maart 2013)
+  * “[Klout is Open for Business(es)](https://web.archive.org/web/20131102135229/http://blog.klout.com/2013/03/klout-for-businesses/)” (The Official Klout Blog, 19 maart 2013)
 ```

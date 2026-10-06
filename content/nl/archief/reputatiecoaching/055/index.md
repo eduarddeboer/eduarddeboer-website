@@ -3,6 +3,7 @@ title: '55: WordPress 3.8, vernieuwde Google+ Hangouts, Qype in Yelp en nieuws v
 date: '2013-12-16T19:24:40+00:00'
 description: Tjongejonge, heb ik net vorige week beloofd dat ik deze week op tijd zou zijn met de podcast, red ik het weer niet! Ik vertel je zo waarom. Afgelopen week is WordPress 3.8 uitgekomen, daarover zo meer, evenals over de vernieuwingen in Google+ Hangouts en de samenvoeging van Yelp en Qype Nederland en andere ontwikkelingen bij Yelp en Twitter. Verder ruimt Google nu aan de lopende band linknetwerken op, vertelt Matt Cutts nogmaals over guest blogging en ik heb 15 contentmarketing voorspellingen voor 2014 voor je, rechtstreeks van de contentmarketing goeroes.
 episode: 55
+kgRef: podcast_episode/reputatiecoaching_055
 historical: true
 archivePeriod: 2012–2016
 transcriptStatus: full
@@ -28,7 +29,7 @@ Tjongejonge, heb ik net vorige week beloofd dat ik deze week op tijd zou zijn me
 
 Als persoon kun je met de diverse tips aan de slag om bijvoorbeeld je online reputatie als ambulancechauffeur, heilsoldaat, ornitoloog, vinoloog, zilversmid of wat dan ook te verbeteren.
 
-De volledige transcriptie van deze podcast kun je zoals altijd vinden op de website, en wel op: [www.reputatiecoaching.nl/55](https://www.reputatiecoaching.nl/55/).
+De volledige transcriptie van deze podcast kun je zoals altijd vinden op de website, en wel op: www.reputatiecoaching.nl/55.
 
 Allereerst: hoe komt het nu, dat ik ook deze week later dan normaal ben met het uitbrengen van de ReputatieCoaching Podcast, terwijl ik vorige week nog zo had gezegd dat ik deze week op tijd zou zijn? Ik vind dat ik je hiervoor een uitleg verschuldigd ben.
 
@@ -72,7 +73,7 @@ Yelp is al sinds oktober 2012 bezig het inlijven en integreren van Qype, van de 
 
 [[Historische afbeelding: bekijk bron](https://lh4.googleusercontent.com/3aKk5UNG-_otzBJL9oJk9clEqFsgJGqH0R7u_DimRi3VfL5t6hx0qJPiTi4iOFuFqnekIo7NcRTY6566gK8onrSZ0OxVLmacTNs-1eUTJP1ifPvTNU_SU7kibg)](https://lh4.googleusercontent.com/3aKk5UNG-_otzBJL9oJk9clEqFsgJGqH0R7u_DimRi3VfL5t6hx0qJPiTi4iOFuFqnekIo7NcRTY6566gK8onrSZ0OxVLmacTNs-1eUTJP1ifPvTNU_SU7kibg)
 
-In [podcast 36](https://www.reputatiecoaching.nl/36/) liet ik je zien dat het scherm van Qype nog de tekst vertoonde, dat Yelp ermee bezig was om Qype te integreren. Maar als je nu naar [www.qype.nl](http://www.qype.nl) gaat, dan kom je op de Nederlandse site van Yelp terecht. Met andere woorden: de integratie is afgerond!
+In [podcast 36](https://web.archive.org/web/20150312093030/http://www.reputatiecoaching.nl/36/) liet ik je zien dat het scherm van Qype nog de tekst vertoonde, dat Yelp ermee bezig was om Qype te integreren. Maar als je nu naar [www.qype.nl](http://www.qype.nl) gaat, dan kom je op de Nederlandse site van Yelp terecht. Met andere woorden: de integratie is afgerond!
 
 [![](20131216-Qype-Yelp.png)](https://lh3.googleusercontent.com/-DiT49QNycBs/Uq9VCwpjHcI/AAAAAAAAAOY/kqj6WkMpA0s/w963-h79-no/20131216-Qype-Yelp.png)
 
@@ -138,7 +139,7 @@ In andere woorden: je inspanningen worden uiteindelijk heus beloond. Als jij wel
 
 ## 15 contentmarketing voorspellingen voor 2014
 
-En nu ik het toch over contentmarketing heb: ik kwam op Slideshare een interessante presentatie tegen met als titel “[50 Content Marketing Predictions for 2014](https://www.slideshare.net/CMI/cmi-predictions-2014)” van het Content Marketing Institute. Deze presentatie heb ik ook opgenomen in de show notes, op [www.reputatiecoaching.nl/55](https://www.reputatiecoaching.nl/55/).
+En nu ik het toch over contentmarketing heb: ik kwam op Slideshare een interessante presentatie tegen met als titel “[50 Content Marketing Predictions for 2014](https://www.slideshare.net/CMI/cmi-predictions-2014)” van het Content Marketing Institute. Deze presentatie heb ik ook opgenomen in de show notes, op www.reputatiecoaching.nl/55.
 
 ```
   * _“Tenminste drie bedrijven uit de Fortune 500 nemen in 2014 een Chief Content Officer in dienst”_ (Joe Pulizzi)
@@ -213,9 +214,9 @@ Als je de podcast leuk vindt en je hebt inderdaad wat aan alle informatie die ik
 
 Als je een vraag of een probleem hebt met betrekking tot je online reputatie of de vindbaarheid van je website, kun je een mailtje sturen naar [podcast@reputatiecoaching.nl](mailto:podcast@reputatiecoaching.nl). Als je dat te lastig vindt, of als je de podcast beluistert terwijl je in de auto zit en je hebt acuut een vraag, spreek dan een boodschap in op de ReputatieCoaching Hotline, op nummer: 084 - 883 15 56. Mogelijk behandel ik je vraag of probleem dan in een artikel of in de podcast.
 
-Als laatste kun je je ook inschrijven voor de nieuwsbrief. Dan ontvang je altijd als eerste het laatste nieuws wat ik publiceer en automatisch elk kwartaal het ReputatieCoaching Podcast Boek van het afgelopen kwartaal. Surf daartoe naar [www.reputatiecoaching.nl/nieuwsbrief/](https://www.reputatiecoaching.nl/nieuwsbrief/) en schrijf je meteen in.
+Als laatste kun je je ook inschrijven voor de nieuwsbrief. Dan ontvang je altijd als eerste het laatste nieuws wat ik publiceer en automatisch elk kwartaal het ReputatieCoaching Podcast Boek van het afgelopen kwartaal. Surf daartoe naar [www.reputatiecoaching.nl/nieuwsbrief/](https://web.archive.org/web/20131205063155/http://www.reputatiecoaching.nl/nieuwsbrief/) en schrijf je meteen in.
 
-En je kunt ook rechtstreeks op de website een voicemail achterlaten, door op de tab aan de rechterkant van elke pagina te klikken, en je bericht in te spreken. Dit was [ReputatieCoaching Podcast aflevering 55](https://www.reputatiecoaching.nl/55/) en mijn naam is [Eduard de Boer](http://nl.linkedin.com/in/eduarddeboer/nl).
+En je kunt ook rechtstreeks op de website een voicemail achterlaten, door op de tab aan de rechterkant van elke pagina te klikken, en je bericht in te spreken. Dit was ReputatieCoaching Podcast aflevering 55 en mijn naam is [Eduard de Boer](http://nl.linkedin.com/in/eduarddeboer/nl).
 
 Ik wens je de komende week weer succes met het werken aan je reputatie en de voorbereidingen voor Kerstmis. Blijf werken aan je reputatie, zodat je meteen je reputatie voor jou kunt laten werken!
 
