@@ -1,0 +1,1402 @@
+{
+  "generated_at": "2026-10-06T15:14:55.745011+00:00",
+  "scope": {
+    "unlinked_occurrences": 336,
+    "unique_unlinked_urls": 77
+  },
+  "summary": {
+    "unique_high_confidence_recoverable": 3,
+    "occurrences_high_confidence_recoverable": 4,
+    "unique_medium_confidence_recoverable": 0,
+    "occurrences_medium_confidence_recoverable": 0,
+    "unique_still_unresolved": 74,
+    "occurrences_still_unresolved": 332
+  },
+  "policy": {
+    "high_exact": "Same normalized host family and path; scheme/www/slash/query variants allowed.",
+    "high_repo_supported": "Alternative historical path is supported by the preserved reputatiecoaching.nl source repository.",
+    "high_redirect": "Archived redirect replay was verified to resolve successfully.",
+    "high_structural": "Malformed historical URL contained an identifiable external destination and a capture was found for it.",
+    "medium_variant": "Wayback capture found only through a broader URL variant; manual review recommended.",
+    "medium_redirect": "Archived redirect exists but replay could not be independently verified; manual review recommended.",
+    "none": "No usable 200 capture found in availability API or bounded CDX search."
+  },
+  "results": [
+    {
+      "original_url": "http://brielle.kadasterdata.nl/dr%20de%20snooplein/12",
+      "kind": "external",
+      "occurrences": 1,
+      "episodes": [
+        142
+      ],
+      "labels": [
+        "Dr de Snooplein 12"
+      ],
+      "old_repo_evidence": [],
+      "result": null,
+      "confidence": "none"
+    },
+    {
+      "original_url": "http://cdn2.hubspot.net/hub/304927/file-2095457964-pdf/Reports/GWI_Social_Summary_Q3_2014.pdf?submissionGuid=cf9bf5eb-810b-4f4d-8365-94e6db712d6e",
+      "kind": "external",
+      "occurrences": 1,
+      "episodes": [
+        104
+      ],
+      "labels": [
+        "onderzoek van de Global Web Index"
+      ],
+      "old_repo_evidence": [],
+      "result": null,
+      "confidence": "none"
+    },
+    {
+      "original_url": "http://google.com/+AllroundFotografie",
+      "kind": "external",
+      "occurrences": 2,
+      "episodes": [
+        50,
+        51
+      ],
+      "labels": [
+        "+Allround Fotografie",
+        "+AllroundFotografie"
+      ],
+      "old_repo_evidence": [],
+      "result": null,
+      "confidence": "none"
+    },
+    {
+      "original_url": "http://google.com/+EduarddeBoer",
+      "kind": "external",
+      "occurrences": 1,
+      "episodes": [
+        50
+      ],
+      "labels": [
+        "+EduarddeBoer"
+      ],
+      "old_repo_evidence": [],
+      "result": null,
+      "confidence": "none"
+    },
+    {
+      "original_url": "http://google.com/+ReputatieCoachingNL",
+      "kind": "external",
+      "occurrences": 1,
+      "episodes": [
+        50
+      ],
+      "labels": [
+        "+ReputatieCoachingNL"
+      ],
+      "old_repo_evidence": [],
+      "result": null,
+      "confidence": "none"
+    },
+    {
+      "original_url": "http://m.deondernemer.nl/kennis/678667/Slechte-onderneming-betaalt-meer.html",
+      "kind": "external",
+      "occurrences": 1,
+      "episodes": [
+        148
+      ],
+      "labels": [
+        "Slechte onderneming betaalt meer"
+      ],
+      "old_repo_evidence": [],
+      "result": null,
+      "confidence": "none"
+    },
+    {
+      "original_url": "http://podcasts.infoworld.com/d/security/twitter-hackers-take-over-ap-account-false-tweet-217100",
+      "kind": "external",
+      "occurrences": 1,
+      "episodes": [
+        23
+      ],
+      "labels": [
+        "Twitter hackers take over AP account with false tweet"
+      ],
+      "old_repo_evidence": [],
+      "result": null,
+      "confidence": "none"
+    },
+    {
+      "original_url": "http://www.anwb.nl/garagereviews",
+      "kind": "external",
+      "occurrences": 1,
+      "episodes": [
+        110
+      ],
+      "labels": [
+        "anwb.nl/garagereviews"
+      ],
+      "old_repo_evidence": [],
+      "result": null,
+      "confidence": "none"
+    },
+    {
+      "original_url": "http://www.arendlandman.nl/2010/08/angst-voor-vrijdag-de-13e-heet-paraskeviadekatriafobie-symboliek-van-het-getal-dertien-de-twaalf-met-de-dertiende-in-het-midden/",
+      "kind": "external",
+      "occurrences": 1,
+      "episodes": [
+        38
+      ],
+      "labels": [
+        "paraskeviadekatriafobie"
+      ],
+      "old_repo_evidence": [],
+      "result": null,
+      "confidence": "none"
+    },
+    {
+      "original_url": "http://www.coosto.com/nl/inzichten/blog/helft-webcare-is-besloten-twitter-facebook-nek-aan-nek",
+      "kind": "external",
+      "occurrences": 1,
+      "episodes": [
+        153
+      ],
+      "labels": [
+        "Helft webcare is besloten, Twitter & Facebook nek-aan-nek"
+      ],
+      "old_repo_evidence": [],
+      "result": null,
+      "confidence": "none"
+    },
+    {
+      "original_url": "http://www.coosto.com/nl/inzichten/blog/onderzoek-naar-taalgebruik-webcareteams",
+      "kind": "external",
+      "occurrences": 1,
+      "episodes": [
+        153
+      ],
+      "labels": [
+        "Onderzoek naar taalgebruik webcareteams"
+      ],
+      "old_repo_evidence": [],
+      "result": null,
+      "confidence": "none"
+    },
+    {
+      "original_url": "http://www.location3.com/what-does-the-firefox-automatic-block-mean-for-advertisers/",
+      "kind": "external",
+      "occurrences": 1,
+      "episodes": [
+        14
+      ],
+      "labels": [
+        "What does the Firefox Automatic Block Mean for Advertisers?"
+      ],
+      "old_repo_evidence": [],
+      "result": null,
+      "confidence": "none"
+    },
+    {
+      "original_url": "http://www.ordina.nl/nl-nl/evenementen/20140314---ordina-glass-contest/",
+      "kind": "external",
+      "occurrences": 1,
+      "episodes": [
+        65
+      ],
+      "labels": [
+        "Ordina Glass Contest"
+      ],
+      "old_repo_evidence": [],
+      "result": null,
+      "confidence": "none"
+    },
+    {
+      "original_url": "http://www.reviewmediacompany.com/",
+      "kind": "external",
+      "occurrences": 1,
+      "episodes": [
+        108
+      ],
+      "labels": [
+        "Review Media Company"
+      ],
+      "old_repo_evidence": [],
+      "result": null,
+      "confidence": "none"
+    },
+    {
+      "original_url": "http://www.tsu.co/eduarddeboer",
+      "kind": "external",
+      "occurrences": 1,
+      "episodes": [
+        160
+      ],
+      "labels": [
+        "Mijn Tsu.co profiel"
+      ],
+      "old_repo_evidence": [],
+      "result": null,
+      "confidence": "none"
+    },
+    {
+      "original_url": "http://www.wimsexport.nl/",
+      "kind": "external",
+      "occurrences": 1,
+      "episodes": [
+        21
+      ],
+      "labels": [
+        "www.wimsexport.nl"
+      ],
+      "old_repo_evidence": [],
+      "result": null,
+      "confidence": "none"
+    },
+    {
+      "original_url": "http://www.woonboerderijtekoooplimburg.nl/",
+      "kind": "external",
+      "occurrences": 1,
+      "episodes": [
+        122
+      ],
+      "labels": [
+        "http://www.woonboerderijtekoooplimburg.nl"
+      ],
+      "old_repo_evidence": [],
+      "result": null,
+      "confidence": "none"
+    },
+    {
+      "original_url": "https://itunes.apple.com/nl/app/edge-of-the-web-radio/id634471633?mt=8",
+      "kind": "external",
+      "occurrences": 1,
+      "episodes": [
+        82
+      ],
+      "labels": [
+        "Edge of the Web Radio"
+      ],
+      "old_repo_evidence": [],
+      "result": null,
+      "confidence": "none"
+    },
+    {
+      "original_url": "https://itunes.apple.com/nl/podcast/local-marketing-industry-updates/id527098954?mt=2",
+      "kind": "external",
+      "occurrences": 1,
+      "episodes": [
+        82
+      ],
+      "labels": [
+        "Local Marketing Source"
+      ],
+      "old_repo_evidence": [],
+      "result": null,
+      "confidence": "none"
+    },
+    {
+      "original_url": "https://itunes.apple.com/nl/podcast/reputatiecoaching-podcast/id584370482",
+      "kind": "external",
+      "occurrences": 1,
+      "episodes": [
+        52
+      ],
+      "labels": [
+        "iTunes"
+      ],
+      "old_repo_evidence": [],
+      "result": null,
+      "confidence": "none"
+    },
+    {
+      "original_url": "https://itunes.apple.com/nl/podcast/reputatiecoaching-podcast/id584370482?l=en&mt=2",
+      "kind": "external",
+      "occurrences": 3,
+      "episodes": [
+        165,
+        166,
+        167
+      ],
+      "labels": [
+        "ReputatieCoaching Podcast in iTunes"
+      ],
+      "old_repo_evidence": [],
+      "result": null,
+      "confidence": "none"
+    },
+    {
+      "original_url": "https://support.google.com/business/answer/2622994?rd=2&hl=nl",
+      "kind": "external",
+      "occurrences": 1,
+      "episodes": [
+        153
+      ],
+      "labels": [
+        "Google Beleid ten aanzien van reviews en foto’s"
+      ],
+      "old_repo_evidence": [],
+      "result": null,
+      "confidence": "none"
+    },
+    {
+      "original_url": "https://support.google.com/mail/answer/3294854?p=profiles&hl=nl&rd=1",
+      "kind": "external",
+      "occurrences": 1,
+      "episodes": [
+        59
+      ],
+      "labels": [
+        "mailen van je vrienden via Google+"
+      ],
+      "old_repo_evidence": [],
+      "result": null,
+      "confidence": "none"
+    },
+    {
+      "original_url": "https://www.facebook.com/business/a/local-awareness",
+      "kind": "external",
+      "occurrences": 1,
+      "episodes": [
+        97
+      ],
+      "labels": [
+        "Local Awareness Ads"
+      ],
+      "old_repo_evidence": [],
+      "result": null,
+      "confidence": "none"
+    },
+    {
+      "original_url": "https://www.google.com/webmasters/tools/",
+      "kind": "external",
+      "occurrences": 1,
+      "episodes": [
+        121
+      ],
+      "labels": [
+        "Google Webmaster Tools"
+      ],
+      "old_repo_evidence": [],
+      "result": null,
+      "confidence": "none"
+    },
+    {
+      "original_url": "https://www.google.com/webmasters/tools/?hl=nl%E2%80%8E",
+      "kind": "external",
+      "occurrences": 1,
+      "episodes": [
+        44
+      ],
+      "labels": [
+        "Google Webmaster Tools"
+      ],
+      "old_repo_evidence": [],
+      "result": null,
+      "confidence": "none"
+    },
+    {
+      "original_url": "https://www.reputatiecoaching.nl//www.slideshare.net/ReputatieCoaching",
+      "kind": "internal_reputatiecoaching",
+      "occurrences": 2,
+      "episodes": [
+        120,
+        153
+      ],
+      "labels": [
+        "Eduard de Boer"
+      ],
+      "old_repo_evidence": [],
+      "result": {
+        "capture_url": "https://web.archive.org/web/20160322214551/http://www.slideshare.net:80/ReputatieCoaching/",
+        "timestamp": "20160322214551",
+        "candidate": "https://www.slideshare.net/ReputatieCoaching/",
+        "method": "available",
+        "archive_status": "200"
+      },
+      "confidence": "high_structural"
+    },
+    {
+      "original_url": "https://www.reputatiecoaching.nl//www.slideshare.net/ReputatieCoaching/hoe-werf-je-als-tandarts-nieuwe-patienten-online",
+      "kind": "internal_reputatiecoaching",
+      "occurrences": 1,
+      "episodes": [
+        120
+      ],
+      "labels": [
+        "Hoe werf je als tandarts nieuwe patiënten online?"
+      ],
+      "old_repo_evidence": [],
+      "result": {
+        "capture_url": "https://web.archive.org/web/20230126131639/https://www.slideshare.net/ReputatieCoaching/hoe-werf-je-als-tandarts-nieuwe-patienten-online",
+        "timestamp": "20230126131639",
+        "candidate": "https://www.slideshare.net/ReputatieCoaching/hoe-werf-je-als-tandarts-nieuwe-patienten-online",
+        "method": "available",
+        "archive_status": "200"
+      },
+      "confidence": "high_structural"
+    },
+    {
+      "original_url": "https://www.reputatiecoaching.nl//www.slideshare.net/ReputatieCoaching/vragen-over-lokale-restaurants-in-google-maps-op-ios",
+      "kind": "internal_reputatiecoaching",
+      "occurrences": 1,
+      "episodes": [
+        153
+      ],
+      "labels": [
+        "Vragen over lokale restaurants in Google Maps op iOS"
+      ],
+      "old_repo_evidence": [],
+      "result": {
+        "capture_url": "https://web.archive.org/web/20160314212738/http://www.slideshare.net/ReputatieCoaching/vragen-over-lokale-restaurants-in-google-maps-op-ios",
+        "timestamp": "20160314212738",
+        "candidate": "https://www.slideshare.net/ReputatieCoaching/vragen-over-lokale-restaurants-in-google-maps-op-ios",
+        "method": "available",
+        "archive_status": "200"
+      },
+      "confidence": "high_structural"
+    },
+    {
+      "original_url": "https://www.reputatiecoaching.nl/29",
+      "kind": "internal_reputatiecoaching",
+      "occurrences": 1,
+      "episodes": [
+        29
+      ],
+      "labels": [
+        "www.reputatiecoaching.nl/29"
+      ],
+      "old_repo_evidence": [],
+      "result": null,
+      "confidence": "none"
+    },
+    {
+      "original_url": "https://www.reputatiecoaching.nl/29/",
+      "kind": "internal_reputatiecoaching",
+      "occurrences": 4,
+      "episodes": [
+        31,
+        39,
+        40,
+        78
+      ],
+      "labels": [
+        "eigendom van Google",
+        "podcast 29"
+      ],
+      "old_repo_evidence": [],
+      "result": null,
+      "confidence": "none"
+    },
+    {
+      "original_url": "https://www.reputatiecoaching.nl/2factorgoogle",
+      "kind": "internal_reputatiecoaching",
+      "occurrences": 1,
+      "episodes": [
+        9
+      ],
+      "labels": [
+        "Authenticatie in twee stappen"
+      ],
+      "old_repo_evidence": [],
+      "result": null,
+      "confidence": "none"
+    },
+    {
+      "original_url": "https://www.reputatiecoaching.nl/55/",
+      "kind": "internal_reputatiecoaching",
+      "occurrences": 1,
+      "episodes": [
+        55
+      ],
+      "labels": [
+        "www.reputatiecoaching.nl/55"
+      ],
+      "old_repo_evidence": [],
+      "result": null,
+      "confidence": "none"
+    },
+    {
+      "original_url": "https://www.reputatiecoaching.nl/62/",
+      "kind": "internal_reputatiecoaching",
+      "occurrences": 2,
+      "episodes": [
+        62,
+        63
+      ],
+      "labels": [
+        "podcast van vorige week",
+        "www.reputatiecoaching.nl/62"
+      ],
+      "old_repo_evidence": [],
+      "result": null,
+      "confidence": "none"
+    },
+    {
+      "original_url": "https://www.reputatiecoaching.nl/65/",
+      "kind": "internal_reputatiecoaching",
+      "occurrences": 6,
+      "episodes": [
+        65,
+        66,
+        69,
+        74,
+        103,
+        109
+      ],
+      "labels": [
+        "*Historische afbeelding niet beschikbaar: Google Maps logo*\nVorige week",
+        "Facebook WhatsApp",
+        "Foto’s van je smartphone naar OneDrive van Microsoft",
+        "podcast 65",
+        "www.reputatiecoaching.nl/65"
+      ],
+      "old_repo_evidence": [],
+      "result": null,
+      "confidence": "none"
+    },
+    {
+      "original_url": "https://www.reputatiecoaching.nl/79/",
+      "kind": "internal_reputatiecoaching",
+      "occurrences": 2,
+      "episodes": [
+        79,
+        127
+      ],
+      "labels": [
+        "podcast 79",
+        "www.reputatiecoaching.nl/79"
+      ],
+      "old_repo_evidence": [],
+      "result": null,
+      "confidence": "none"
+    },
+    {
+      "original_url": "https://www.reputatiecoaching.nl/backuptodropbox",
+      "kind": "internal_reputatiecoaching",
+      "occurrences": 1,
+      "episodes": [
+        4
+      ],
+      "labels": [
+        "WordPress Backup to Dropbox"
+      ],
+      "old_repo_evidence": [],
+      "result": null,
+      "confidence": "none"
+    },
+    {
+      "original_url": "https://www.reputatiecoaching.nl/backwpup",
+      "kind": "internal_reputatiecoaching",
+      "occurrences": 4,
+      "episodes": [
+        4,
+        9,
+        15,
+        64
+      ],
+      "labels": [
+        "BackWPup"
+      ],
+      "old_repo_evidence": [],
+      "result": null,
+      "confidence": "none"
+    },
+    {
+      "original_url": "https://www.reputatiecoaching.nl/backwpup/",
+      "kind": "internal_reputatiecoaching",
+      "occurrences": 2,
+      "episodes": [
+        21,
+        65
+      ],
+      "labels": [
+        "BackWPup"
+      ],
+      "old_repo_evidence": [],
+      "result": null,
+      "confidence": "none"
+    },
+    {
+      "original_url": "https://www.reputatiecoaching.nl/binnenkijken",
+      "kind": "internal_reputatiecoaching",
+      "occurrences": 1,
+      "episodes": [
+        164
+      ],
+      "labels": [
+        "www.reputatiecoaching.nl/binnenkijken"
+      ],
+      "old_repo_evidence": [],
+      "result": null,
+      "confidence": "none"
+    },
+    {
+      "original_url": "https://www.reputatiecoaching.nl/dropbox",
+      "kind": "internal_reputatiecoaching",
+      "occurrences": 2,
+      "episodes": [
+        4,
+        9
+      ],
+      "labels": [
+        "Dropbox"
+      ],
+      "old_repo_evidence": [],
+      "result": null,
+      "confidence": "none"
+    },
+    {
+      "original_url": "https://www.reputatiecoaching.nl/facebook",
+      "kind": "internal_reputatiecoaching",
+      "occurrences": 15,
+      "episodes": [
+        8,
+        9,
+        10,
+        11,
+        12,
+        13,
+        14,
+        15,
+        16,
+        17,
+        18,
+        19,
+        20,
+        21,
+        23
+      ],
+      "labels": [
+        "www.reputatiecoaching.nl/facebook",
+        "www.reputatiecoaching.nl/facebook."
+      ],
+      "old_repo_evidence": [],
+      "result": null,
+      "confidence": "none"
+    },
+    {
+      "original_url": "https://www.reputatiecoaching.nl/facebook/",
+      "kind": "internal_reputatiecoaching",
+      "occurrences": 1,
+      "episodes": [
+        7
+      ],
+      "labels": [
+        "www.reputatiecoaching.nl/facebook"
+      ],
+      "old_repo_evidence": [],
+      "result": null,
+      "confidence": "none"
+    },
+    {
+      "original_url": "https://www.reputatiecoaching.nl/gplus",
+      "kind": "internal_reputatiecoaching",
+      "occurrences": 18,
+      "episodes": [
+        7,
+        8,
+        9,
+        10,
+        11,
+        12,
+        13,
+        14,
+        15,
+        16,
+        17,
+        18,
+        19,
+        20,
+        21,
+        23,
+        25,
+        32
+      ],
+      "labels": [
+        "www.reputatiecoaching.nl/gplus"
+      ],
+      "old_repo_evidence": [],
+      "result": null,
+      "confidence": "none"
+    },
+    {
+      "original_url": "https://www.reputatiecoaching.nl/gplus/",
+      "kind": "internal_reputatiecoaching",
+      "occurrences": 1,
+      "episodes": [
+        45
+      ],
+      "labels": [
+        "www.reputatiecoaching.nl/gplus/"
+      ],
+      "old_repo_evidence": [],
+      "result": null,
+      "confidence": "none"
+    },
+    {
+      "original_url": "https://www.reputatiecoaching.nl/itunes",
+      "kind": "internal_reputatiecoaching",
+      "occurrences": 96,
+      "episodes": [
+        62,
+        63,
+        64,
+        65,
+        66,
+        67,
+        68,
+        69,
+        70,
+        71,
+        72,
+        73,
+        74,
+        75,
+        76,
+        77,
+        78,
+        79,
+        80,
+        81,
+        82,
+        83,
+        84,
+        85,
+        86,
+        87,
+        88,
+        89,
+        90,
+        96,
+        97,
+        98,
+        99,
+        100,
+        101,
+        102,
+        103,
+        104,
+        105,
+        106,
+        107,
+        108,
+        109,
+        110,
+        111,
+        112,
+        113,
+        114,
+        115,
+        116,
+        117,
+        118,
+        119,
+        120,
+        121,
+        122,
+        123,
+        124,
+        125,
+        126,
+        127,
+        128,
+        129,
+        130,
+        131,
+        132,
+        133,
+        134,
+        135,
+        136,
+        137,
+        138,
+        139,
+        140,
+        141,
+        142,
+        143,
+        144,
+        145,
+        146,
+        147,
+        148,
+        149,
+        150,
+        151,
+        152,
+        153,
+        154,
+        155,
+        156,
+        157,
+        158,
+        160,
+        161,
+        162,
+        164
+      ],
+      "labels": [
+        "ReputatieCoaching Podcast in iTunes",
+        "iTunes",
+        "www.reputatiecoaching.nl/itunes"
+      ],
+      "old_repo_evidence": [],
+      "result": null,
+      "confidence": "none"
+    },
+    {
+      "original_url": "https://www.reputatiecoaching.nl/keepass",
+      "kind": "internal_reputatiecoaching",
+      "occurrences": 1,
+      "episodes": [
+        9
+      ],
+      "labels": [
+        "KeePass"
+      ],
+      "old_repo_evidence": [],
+      "result": null,
+      "confidence": "none"
+    },
+    {
+      "original_url": "https://www.reputatiecoaching.nl/keepass/",
+      "kind": "internal_reputatiecoaching",
+      "occurrences": 1,
+      "episodes": [
+        7
+      ],
+      "labels": [
+        "KeePass"
+      ],
+      "old_repo_evidence": [],
+      "result": null,
+      "confidence": "none"
+    },
+    {
+      "original_url": "https://www.reputatiecoaching.nl/lastpass",
+      "kind": "internal_reputatiecoaching",
+      "occurrences": 1,
+      "episodes": [
+        9
+      ],
+      "labels": [
+        "LastPass"
+      ],
+      "old_repo_evidence": [],
+      "result": null,
+      "confidence": "none"
+    },
+    {
+      "original_url": "https://www.reputatiecoaching.nl/lastpass/",
+      "kind": "internal_reputatiecoaching",
+      "occurrences": 1,
+      "episodes": [
+        7
+      ],
+      "labels": [
+        "LastPass"
+      ],
+      "old_repo_evidence": [],
+      "result": null,
+      "confidence": "none"
+    },
+    {
+      "original_url": "https://www.reputatiecoaching.nl/linkedin",
+      "kind": "internal_reputatiecoaching",
+      "occurrences": 8,
+      "episodes": [
+        15,
+        16,
+        17,
+        18,
+        19,
+        20,
+        21,
+        23
+      ],
+      "labels": [
+        "www.reputatiecoaching.nl/linkedin"
+      ],
+      "old_repo_evidence": [],
+      "result": null,
+      "confidence": "none"
+    },
+    {
+      "original_url": "https://www.reputatiecoaching.nl/mijndomein",
+      "kind": "internal_reputatiecoaching",
+      "occurrences": 1,
+      "episodes": [
+        17
+      ],
+      "labels": [
+        "www.mijndomein.nl"
+      ],
+      "old_repo_evidence": [],
+      "result": null,
+      "confidence": "none"
+    },
+    {
+      "original_url": "https://www.reputatiecoaching.nl/pinterest",
+      "kind": "internal_reputatiecoaching",
+      "occurrences": 1,
+      "episodes": [
+        23
+      ],
+      "labels": [
+        "www.reputatiecoaching.nl/pinterest"
+      ],
+      "old_repo_evidence": [],
+      "result": null,
+      "confidence": "none"
+    },
+    {
+      "original_url": "https://www.reputatiecoaching.nl/podcast-11/",
+      "kind": "internal_reputatiecoaching",
+      "occurrences": 1,
+      "episodes": [
+        11
+      ],
+      "labels": [
+        "www.reputatiecoaching.nl/podcast-11"
+      ],
+      "old_repo_evidence": [],
+      "result": null,
+      "confidence": "none"
+    },
+    {
+      "original_url": "https://www.reputatiecoaching.nl/podcast-17/",
+      "kind": "internal_reputatiecoaching",
+      "occurrences": 1,
+      "episodes": [
+        17
+      ],
+      "labels": [
+        "www.reputatiecoaching.nl/podcast-17"
+      ],
+      "old_repo_evidence": [],
+      "result": null,
+      "confidence": "none"
+    },
+    {
+      "original_url": "https://www.reputatiecoaching.nl/podcast-7/",
+      "kind": "internal_reputatiecoaching",
+      "occurrences": 2,
+      "episodes": [
+        7,
+        9
+      ],
+      "labels": [
+        "*Historische afbeelding niet beschikbaar: ReputatieCoaching Podcast Aflevering 7 (14-01-2013)*",
+        "podcast 7"
+      ],
+      "old_repo_evidence": [],
+      "result": null,
+      "confidence": "none"
+    },
+    {
+      "original_url": "https://www.reputatiecoaching.nl/powerpress",
+      "kind": "internal_reputatiecoaching",
+      "occurrences": 1,
+      "episodes": [
+        9
+      ],
+      "labels": [
+        "Blubrry PowerPress"
+      ],
+      "old_repo_evidence": [],
+      "result": null,
+      "confidence": "none"
+    },
+    {
+      "original_url": "https://www.reputatiecoaching.nl/reputatiebakkerij",
+      "kind": "internal_reputatiecoaching",
+      "occurrences": 1,
+      "episodes": [
+        157
+      ],
+      "labels": [
+        "www.reputatiecoaching.nl/reputatiebakkerij"
+      ],
+      "old_repo_evidence": [],
+      "result": null,
+      "confidence": "none"
+    },
+    {
+      "original_url": "https://www.reputatiecoaching.nl/repwarn",
+      "kind": "internal_reputatiecoaching",
+      "occurrences": 1,
+      "episodes": [
+        145
+      ],
+      "labels": [
+        "RepWarn"
+      ],
+      "old_repo_evidence": [],
+      "result": null,
+      "confidence": "none"
+    },
+    {
+      "original_url": "https://www.reputatiecoaching.nl/review/",
+      "kind": "internal_reputatiecoaching",
+      "occurrences": 1,
+      "episodes": [
+        58
+      ],
+      "labels": [
+        "www.reputatiecoaching.nl/review"
+      ],
+      "old_repo_evidence": [],
+      "result": null,
+      "confidence": "none"
+    },
+    {
+      "original_url": "https://www.reputatiecoaching.nl/simplybook",
+      "kind": "internal_reputatiecoaching",
+      "occurrences": 1,
+      "episodes": [
+        134
+      ],
+      "labels": [
+        "SimplyBook.me"
+      ],
+      "old_repo_evidence": [],
+      "result": null,
+      "confidence": "none"
+    },
+    {
+      "original_url": "https://www.reputatiecoaching.nl/smc055-media-en-social-media-20140512/",
+      "kind": "internal_reputatiecoaching",
+      "occurrences": 1,
+      "episodes": [
+        77
+      ],
+      "labels": [
+        "Media en Social Media"
+      ],
+      "old_repo_evidence": [],
+      "result": null,
+      "confidence": "none"
+    },
+    {
+      "original_url": "https://www.reputatiecoaching.nl/smc055-monitoring-09032015/",
+      "kind": "internal_reputatiecoaching",
+      "occurrences": 1,
+      "episodes": [
+        119
+      ],
+      "labels": [
+        "Storify-bord"
+      ],
+      "old_repo_evidence": [],
+      "result": null,
+      "confidence": "none"
+    },
+    {
+      "original_url": "https://www.reputatiecoaching.nl/stitcher",
+      "kind": "internal_reputatiecoaching",
+      "occurrences": 96,
+      "episodes": [
+        62,
+        63,
+        64,
+        65,
+        66,
+        67,
+        68,
+        69,
+        70,
+        71,
+        72,
+        73,
+        74,
+        75,
+        76,
+        77,
+        78,
+        79,
+        80,
+        81,
+        82,
+        83,
+        84,
+        85,
+        86,
+        87,
+        88,
+        89,
+        90,
+        96,
+        97,
+        98,
+        99,
+        100,
+        101,
+        102,
+        103,
+        104,
+        105,
+        106,
+        107,
+        108,
+        109,
+        110,
+        111,
+        112,
+        113,
+        114,
+        115,
+        116,
+        117,
+        118,
+        119,
+        120,
+        121,
+        122,
+        123,
+        124,
+        125,
+        126,
+        127,
+        128,
+        129,
+        130,
+        131,
+        132,
+        133,
+        134,
+        135,
+        136,
+        137,
+        138,
+        139,
+        140,
+        141,
+        142,
+        143,
+        144,
+        145,
+        146,
+        147,
+        148,
+        149,
+        150,
+        151,
+        152,
+        153,
+        154,
+        155,
+        156,
+        157,
+        158,
+        160,
+        161,
+        162,
+        164
+      ],
+      "labels": [
+        "ReputatieCoaching Podcast op Stitcher",
+        "Stitcher",
+        "www.reputatiecoaching.nl/stitcher"
+      ],
+      "old_repo_evidence": [],
+      "result": null,
+      "confidence": "none"
+    },
+    {
+      "original_url": "https://www.reputatiecoaching.nl/webinarignition",
+      "kind": "internal_reputatiecoaching",
+      "occurrences": 1,
+      "episodes": [
+        110
+      ],
+      "labels": [
+        "Webinar Ignition"
+      ],
+      "old_repo_evidence": [],
+      "result": null,
+      "confidence": "none"
+    },
+    {
+      "original_url": "https://www.reputatiecoaching.nl/wiki/duckduckgo/",
+      "kind": "internal_reputatiecoaching",
+      "occurrences": 1,
+      "episodes": [
+        5
+      ],
+      "labels": [
+        "DuckDuckGo"
+      ],
+      "old_repo_evidence": [],
+      "result": null,
+      "confidence": "none"
+    },
+    {
+      "original_url": "https://www.reputatiecoaching.nl/wiki/google-authorship/",
+      "kind": "internal_reputatiecoaching",
+      "occurrences": 12,
+      "episodes": [
+        3,
+        15,
+        16,
+        25,
+        28,
+        34,
+        37,
+        44,
+        46,
+        50,
+        56,
+        58
+      ],
+      "labels": [
+        "Google Authorship",
+        "Google Authorship hebt ingesteld",
+        "Google Authorship in te stellen",
+        "Google Authorship instellen",
+        "Google Authorship voor jouw blog kunt activeren",
+        "Instructievideo voor het instellen van Google Authorship",
+        "activeren van Google Authorship",
+        "instellen van Google Authorship"
+      ],
+      "old_repo_evidence": [],
+      "result": null,
+      "confidence": "none"
+    },
+    {
+      "original_url": "https://www.reputatiecoaching.nl/wp-content/uploads/2013/07/10-SEO-Copywriting-Tips-For-Writing-Content-That-Ranks-In-2013-Infographic.png",
+      "kind": "internal_reputatiecoaching",
+      "occurrences": 1,
+      "episodes": [
+        35
+      ],
+      "labels": [
+        "*Historische afbeelding niet beschikbaar: 10-SEO-Copywriting-Tips-For-Writing-Content-That-Ranks-In-2013-Infographic*"
+      ],
+      "old_repo_evidence": [],
+      "result": null,
+      "confidence": "none"
+    },
+    {
+      "original_url": "https://www.reputatiecoaching.nl/wp-content/uploads/2013/10/20131028-AppleMaps-fotos.png",
+      "kind": "internal_reputatiecoaching",
+      "occurrences": 1,
+      "episodes": [
+        48
+      ],
+      "labels": [
+        "*Historische afbeelding niet beschikbaar: 20131028-AppleMaps-fotos*"
+      ],
+      "old_repo_evidence": [],
+      "result": null,
+      "confidence": "none"
+    },
+    {
+      "original_url": "https://www.reputatiecoaching.nl/wp-content/uploads/2013/10/20131028-AppleMaps-info.png",
+      "kind": "internal_reputatiecoaching",
+      "occurrences": 1,
+      "episodes": [
+        48
+      ],
+      "labels": [
+        "*Historische afbeelding niet beschikbaar: 20131028-AppleMaps-info*"
+      ],
+      "old_repo_evidence": [],
+      "result": null,
+      "confidence": "none"
+    },
+    {
+      "original_url": "https://www.reputatiecoaching.nl/wp-content/uploads/2013/10/20131028-AppleMaps-reviews.png",
+      "kind": "internal_reputatiecoaching",
+      "occurrences": 1,
+      "episodes": [
+        48
+      ],
+      "labels": [
+        "*Historische afbeelding niet beschikbaar: 20131028-AppleMaps-reviews*"
+      ],
+      "old_repo_evidence": [],
+      "result": null,
+      "confidence": "none"
+    },
+    {
+      "original_url": "https://www.reputatiecoaching.nl/wp-content/uploads/2015/11/20151112-Lokale-Gidsen-punten.png",
+      "kind": "internal_reputatiecoaching",
+      "occurrences": 1,
+      "episodes": [
+        154
+      ],
+      "labels": [
+        "*Historische afbeelding niet beschikbaar: 20151112-Lokale-Gidsen-punten*"
+      ],
+      "old_repo_evidence": [],
+      "result": null,
+      "confidence": "none"
+    },
+    {
+      "original_url": "https://www.reputatiecoaching.nl/wp-content/uploads/2015/11/20151119-google-lokale-gidsen-punten.jpg",
+      "kind": "internal_reputatiecoaching",
+      "occurrences": 1,
+      "episodes": [
+        155
+      ],
+      "labels": [
+        "20151119-google-lokale-gidsen-punten\n\n"
+      ],
+      "old_repo_evidence": [],
+      "result": null,
+      "confidence": "none"
+    },
+    {
+      "original_url": "https://www.reputatiecoaching.nl/yubikey",
+      "kind": "internal_reputatiecoaching",
+      "occurrences": 1,
+      "episodes": [
+        9
+      ],
+      "labels": [
+        "Yubikey"
+      ],
+      "old_repo_evidence": [],
+      "result": null,
+      "confidence": "none"
+    },
+    {
+      "original_url": "https://www.reputatiecoaching.nl/yubikey/",
+      "kind": "internal_reputatiecoaching",
+      "occurrences": 1,
+      "episodes": [
+        7
+      ],
+      "labels": [
+        "YubiKey"
+      ],
+      "old_repo_evidence": [],
+      "result": null,
+      "confidence": "none"
+    },
+    {
+      "original_url": "https://www.reputatiecoaching.nl65/",
+      "kind": "external",
+      "occurrences": 1,
+      "episodes": [
+        80
+      ],
+      "labels": [
+        "podcast 65"
+      ],
+      "old_repo_evidence": [],
+      "result": null,
+      "confidence": "none"
+    },
+    {
+      "original_url": "https://www.reputatiecoaching.nl79/",
+      "kind": "external",
+      "occurrences": 1,
+      "episodes": [
+        80
+      ],
+      "labels": [
+        "podcast 79"
+      ],
+      "old_repo_evidence": [],
+      "result": null,
+      "confidence": "none"
+    }
+  ]
+}
