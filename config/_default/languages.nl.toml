@@ -15,7 +15,7 @@ copyright = "© Eduard de Boer"
 [params.author]
   name = "Eduard de Boer"
   headline = "Houtlegaliteit · ontbossingsvrije ketens · due diligence"
-  bio = "Specialist in houtlegaliteit, keten-due-diligence en EUDR/EUTR, werkzaam bij Ingenieursbureau Evan Buytendijk (IEB)."
+  bio = "Specialist in houtlegaliteit, keten-due-diligence en EUDR/EUTR, werkzaam bij [Ingenieursbureau Evan Buytendijk](https://www.evanbuytendijk.nl/) (IEB)."
   links = [
     { linkedin = "https://www.linkedin.com/in/eduarddeboer/" },
     { github = "https://github.com/eduarddeboer" }
