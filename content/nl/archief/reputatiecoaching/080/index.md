@@ -3,6 +3,7 @@ title: '80: DuckDuckGo in Safari, SEO fout nr. 1 en PageRank uitleg. Workshop me
 date: '2014-06-09T06:30:56+00:00'
 description: Tjonge, nog twintig podcasts en ik heb er alweer honderd geproduceerd… Wat vliegt de tijd! Maar vandaag hebben we dus de tachtigste podcast. Twee weken geleden had ik het nog over DuckDuckGo en vandaag heb ik een nieuwtje, dat DuckDuckGo wellicht een enorme boost kan geven. Het tweede onderwerp voor vandaag is de vraag of een keyword in je domein nodig is om te ranken in de zoekresultaten en ook heb ik dit keer weer een paar video’s met vragen en antwoorden door Matt Cutts.
 episode: 80
+kgRef: podcast_episode/reputatiecoaching_080
 historical: true
 archivePeriod: 2012–2016
 transcriptStatus: full
@@ -32,17 +33,17 @@ Hallo en hartelijk welkom bij deze aflevering van de ReputatieCoaching Podcast. 
 
 Als persoon kun je met de diverse tips aan de slag om bijvoorbeeld je online reputatie als zweminstructeur, reisbureaumedewerker, matroos, binnenhuisstylist, hoofdverpleegkundige of wat dan ook te verbeteren.
 
-De podcast kun je online vinden op [www.reputatiecoaching.nl/80](https://www.reputatiecoaching.nl/80/). Daar vind je niet alleen de tekst, maar ook video’s waar ik het in deze uitzending over heb, alsmede afbeeldingen, links enzovoorts. Bovendien is de podcast te beluisteren in [iTunes](https://www.reputatiecoaching.nl/itunes) en op [Stitcher](https://www.reputatiecoaching.nl/stitcher). Daar kun je je dus ook abonneren op de wekelijkse podcast. Veel mensen vinden het ideaal om de wekelijkse afleveringen van de podcast op hun gemak te beluisteren, terwijl ze autorijden, hardlopen, mountainbiken of trainen in de sportschool.
+De podcast kun je online vinden op [www.reputatiecoaching.nl/80](https://web.archive.org/web/20150312094356/http://www.reputatiecoaching.nl/80/). Daar vind je niet alleen de tekst, maar ook video’s waar ik het in deze uitzending over heb, alsmede afbeeldingen, links enzovoorts. Bovendien is de podcast te beluisteren in iTunes en op Stitcher. Daar kun je je dus ook abonneren op de wekelijkse podcast. Veel mensen vinden het ideaal om de wekelijkse afleveringen van de podcast op hun gemak te beluisteren, terwijl ze autorijden, hardlopen, mountainbiken of trainen in de sportschool.
 
 ## Terugblik podcast 79: compressor.io
 
-Als ik terugkijk naar [podcast 79](https://www.reputatiecoaching.nl79/), dan denk ik dat voor jou de belangrijkste tip is, om al je afbeeldingen altijd te verkleinen, voordat je ze uploadt. Dit scheelt bandbreedte en verkort dus de laadtijd van je pagina’s en je afbeeldingen. De tool die ik in de vorige podcast hiervoor heb behandeld, heet “Compressor”. Je kunt die tool vinden op [compressor.io](http://compressor.io):
+Als ik terugkijk naar podcast 79, dan denk ik dat voor jou de belangrijkste tip is, om al je afbeeldingen altijd te verkleinen, voordat je ze uploadt. Dit scheelt bandbreedte en verkort dus de laadtijd van je pagina’s en je afbeeldingen. De tool die ik in de vorige podcast hiervoor heb behandeld, heet “Compressor”. Je kunt die tool vinden op [compressor.io](http://compressor.io):
 
 [[Historische afbeelding: bekijk bron](https://lh5.googleusercontent.com/-ykRIMWEm2gI/U4tp56JxyWI/AAAAAAAAA1E/swtNO5U1z-I/w600/20140602-compressor.png)](http://compressor.io)
 
-Zo heb ik met alle afbeeldingen in de transcriptie van de podcast van vorige week meer dan 1 MB bespaard. En wees je ervan bewust dat ik dit dus bespaar bij elke keer dat de pagina van [podcast 79](https://www.reputatiecoaching.nl79/) wordt gedownload en bekeken door een bezoeker! Elke keer! Moet je je voorstellen wat dat scheelt op jaarbasis!
+Zo heb ik met alle afbeeldingen in de transcriptie van de podcast van vorige week meer dan 1 MB bespaard. En wees je ervan bewust dat ik dit dus bespaar bij elke keer dat de pagina van podcast 79 wordt gedownload en bekeken door een bezoeker! Elke keer! Moet je je voorstellen wat dat scheelt op jaarbasis!
 
-Wie weet zie je zoveel potentiële besparing, dat je al je afbeeldingen van je website één voor één gaat optimaliseren! Laat het me weten, onderaan de show notes op [www.reputatiecoaching.nl/80](https://www.reputatiecoaching.nl/80/).
+Wie weet zie je zoveel potentiële besparing, dat je al je afbeeldingen van je website één voor één gaat optimaliseren! Laat het me weten, onderaan de show notes op [www.reputatiecoaching.nl/80](https://web.archive.org/web/20150312094356/http://www.reputatiecoaching.nl/80/).
 
 ## Workshop “Bodylogics” door Emile Ratelband
 
@@ -112,7 +113,7 @@ Matt Cutts deelt ook vaak goede tips, zei ik zojuist al. En afgelopen week verte
 
 Het ranking algoritme van Google was in den beginne alleen maar gebaseerd op de verhouding van het aantal inkomende links en het aantal uitgaande links. Dit is het befaamde “PageRank” algoritme, dat toen is bedacht door, en genoemd naar Google oprichter Larry Page.
 
-Inmiddels zijn er honderden factoren die de ranking van pagina’s in de zoekresultaten bepalen, maar het aantal links speelt desondanks toch nog een belangrijke rol. In [podcast 65](https://www.reputatiecoaching.nl65/) heb ik een video van Matt Cutts opgenomen, waarin hij vertelt dat de zoekresultaten nog steeds niet geheel zonder backlinks kunnen worden bepaald. En als Google het concept van backlinks zou weglaten, dan zouden de resultaatpagina’s niet de kwaliteit hebben, die ze nu hebben.
+Inmiddels zijn er honderden factoren die de ranking van pagina’s in de zoekresultaten bepalen, maar het aantal links speelt desondanks toch nog een belangrijke rol. In podcast 65 heb ik een video van Matt Cutts opgenomen, waarin hij vertelt dat de zoekresultaten nog steeds niet geheel zonder backlinks kunnen worden bepaald. En als Google het concept van backlinks zou weglaten, dan zouden de resultaatpagina’s niet de kwaliteit hebben, die ze nu hebben.
 
 Met andere woorden: backlinks zijn nog steeds nodig, maar het belang ervan zal de komende jaren afnemen. Mede waarschijnlijk hierom wordt aan Matt Cutts de vraag gesteld hoe content zonder veel backlinks toch kan ranken in de zoekresultaten. Matt geeft hierop antwoord in een video op het Google Webmasters YouTube-kanaal. Deze video heb ik ook in de show notes opgenomen:
 
@@ -128,7 +129,7 @@ In essentie kun je dus zeggen dat Google op dat moment terugvalt op de beoordeli
 
 Kort geleden werd een interessante en aan PageRank-gerelateerde vraag gesteld aan Matt Cutts. Deze vraag luidde als volgt:
 
-Ook de video waarin Matt Cutts deze vraag beantwoordt, heb ik opgenomen in de show notes, op [www.reputatiecoaching.nl/80](https://www.reputatiecoaching.nl/80/):
+Ook de video waarin Matt Cutts deze vraag beantwoordt, heb ik opgenomen in de show notes, op [www.reputatiecoaching.nl/80](https://web.archive.org/web/20150312094356/http://www.reputatiecoaching.nl/80/):
 
 In het Engels is hiervoor een mooie term: “splitting hair stuff”, in het Nederlands vrij vertaald als “muggenzifterij”.
 
@@ -141,7 +142,7 @@ Hij sluit de video af met nogmaals te benadrukken, dat je je strategie niet van 
 ## Google verandert webmaster richtlijnen voor verplaatsen van websites
 
 [Historische afbeelding: bekijk bron](https://lh3.googleusercontent.com/-kphIULzrHpk/UsCrF7o5SXI/AAAAAAAAAQ8/gpjUnuOts_8/s200-no/google-hummingbird-200x200.jpg)
-En ik blijf met de updates nog even bij Google. Wat voor sommige webmasters mogelijk nuttig is om te weten, is dat Google de [richtlijnen voor het overzetten, verplaatsen of migreren van websites](https://support.google.com/webmasters/topic/6029673?hl=nl) heeft aangepast. Daarbij wordt er onderscheiid gemaakt tussen twee manieren om je site te verhuizen:
+En ik blijf met de updates nog even bij Google. Wat voor sommige webmasters mogelijk nuttig is om te weten, is dat Google de [richtlijnen voor het overzetten, verplaatsen of migreren van websites](https://web.archive.org/web/20140625173908/https://support.google.com/webmasters/topic/6029673?hl=nl) heeft aangepast. Daarbij wordt er onderscheiid gemaakt tussen twee manieren om je site te verhuizen:
 
 ```
   1. Je site verhuizen zonder URL-wijzigingen
@@ -172,7 +173,7 @@ Dat is dus essentieel, bij het overzetten van content, waarbij de URL’s verand
 
 En let er dus ook op, dat je gekopieerde content op de originele site verwijdert. Zo voorkom je dat Google één van de twee artikelen of beide aanmerkt als “duplicate content”. Dat wil je niet, want dat is vrijwel een garantie dat beide pagina’s lager gaan scoren in de zoekresultaten!
 
-Dat was even in een notedop, hoe je een website verhuist. Op Google kun je onder het kopje “[Uw site overzetten, verplaatsen of migreren](https://support.google.com/webmasters/topic/6029673?hl=nl)” nog meer informatie, tips en trucs hierover vinden. Ook kun je daar lezen over de tool die Google heeft geïmplementeerd voor verhuizingen. Dus als dit voor jou relevant is, doe er dan je voordeel mee en lees die content eerst eens door, voordat je eraan begint.
+Dat was even in een notedop, hoe je een website verhuist. Op Google kun je onder het kopje “[Uw site overzetten, verplaatsen of migreren](https://web.archive.org/web/20140625173908/https://support.google.com/webmasters/topic/6029673?hl=nl)” nog meer informatie, tips en trucs hierover vinden. Ook kun je daar lezen over de tool die Google heeft geïmplementeerd voor verhuizingen. Dus als dit voor jou relevant is, doe er dan je voordeel mee en lees die content eerst eens door, voordat je eraan begint.
 
 En mocht je dan alsnog vragen hebben, stuur dan gerust een mailtje naar [podcast@reputatiecoaching.nl](mailto:podcast@reputatiecoaching.nl) en ik zal mijn best doen je vraag of vragen te beantwoorden en je verder te helpen.
 
@@ -229,7 +230,7 @@ Met deze aankondiging over de handout en kennis over video SEO kom ik dan weer a
 
 Als je de podcast leuk vindt en je wilt nog meer op de hooge blijven, volg me dan op Twitter, via [@reputatiecoach1](https://twitter.com/reputatiecoach1).
 
-En heb je inderdaad wat aan alle informatie die ik met je deel, help mij dan met het verder verbeteren en promoten van deze podcast. Surf daarvoor naar [iTunes](https://www.reputatiecoaching.nl/itunes) of [Stitcher](https://www.reputatiecoaching.nl/stitcher), geef de podcast een sterrenbeoordeling en laat ook je reactie achter. Door de podcast te beoordelen op iTunes en/of Stitcher breng je de podcast onder de aandacht van een breder publiek.
+En heb je inderdaad wat aan alle informatie die ik met je deel, help mij dan met het verder verbeteren en promoten van deze podcast. Surf daarvoor naar iTunes of Stitcher, geef de podcast een sterrenbeoordeling en laat ook je reactie achter. Door de podcast te beoordelen op iTunes en/of Stitcher breng je de podcast onder de aandacht van een breder publiek.
 
 Je kunt me verder helpen, door de podcast aan te bevelen bij vrienden of collega’s, waarvan je denkt dat ze er hun voordeel mee kunnen doen, of door ’m te delen op Twitter, like’n en delen op Facebook of een “+1” te geven op Google+.
 
@@ -237,7 +238,7 @@ En vergeet niet: ik ben hier om je te helpen! Als je een vraag of een probleem h
 
 Als je dat te lastig vindt, of als je de podcast beluistert terwijl je in de auto zit en je hebt acuut een vraag, spreek dan een boodschap in op de ReputatieCoaching Hotline, op nummer: 084 - 883 15 56. Mogelijk behandel ik je vraag of probleem dan in een artikel of in de podcast.
 
-En je kunt ook rechtstreeks op de website een voicemail achterlaten, door op de tab aan de rechterkant van elke pagina te klikken, en je bericht in te spreken. Dit was [ReputatieCoaching Podcast aflevering 80](https://www.reputatiecoaching.nl/80/) en mijn naam is [Eduard de Boer](http://nl.linkedin.com/in/eduarddeboer/nl).
+En je kunt ook rechtstreeks op de website een voicemail achterlaten, door op de tab aan de rechterkant van elke pagina te klikken, en je bericht in te spreken. Dit was [ReputatieCoaching Podcast aflevering 80](https://web.archive.org/web/20150312094356/http://www.reputatiecoaching.nl/80/) en mijn naam is [Eduard de Boer](http://nl.linkedin.com/in/eduarddeboer/nl).
 
 Ik wens je de komende week weer succes met het werken aan je reputatie, zodat je meteen je reputatie voor jou kunt laten werken!
 
@@ -248,8 +249,8 @@ Doei!
 Links naar content die in deze podcast aan bod komt:
 
 ```
-  * [ReputatieCoaching Podcast in iTunes](https://www.reputatiecoaching.nl/itunes)
-  * [ReputatieCoaching Podcast op Stitcher](https://www.reputatiecoaching.nl/stitcher)
-  * [ReputatieCoaching Podcast RSS-feed](https://feeds.reputatiecoaching.nl/ReputatieCoachingPodcast)
-  * “[Uw site overzetten, verplaatsen of migreren](https://support.google.com/webmasters/topic/6029673?hl=nl)” (Google Webmasterhulpprogramma’s)
+  * ReputatieCoaching Podcast in iTunes
+  * ReputatieCoaching Podcast op Stitcher
+  * [ReputatieCoaching Podcast RSS-feed](https://web.archive.org/web/20140803035048/http://feeds.reputatiecoaching.nl:80/ReputatieCoachingPodcast)
+  * “[Uw site overzetten, verplaatsen of migreren](https://web.archive.org/web/20140625173908/https://support.google.com/webmasters/topic/6029673?hl=nl)” (Google Webmasterhulpprogramma’s)
 ```

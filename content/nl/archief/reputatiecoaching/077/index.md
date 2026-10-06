@@ -3,6 +3,7 @@ title: '77: 5 lokale SEO fabels, 7 lokale SEO belemmeringen, hacking WordPress e
 date: '2014-05-19T06:30:01+00:00'
 description: 'Vorige week maandagavond was ik in Apeldoorn bij de Social Media Club, ofwel #SMC055. Hoewel ik meteen maandagavond ook een Storify-bord ervan heb gepubliceerd, kom ik daar nog even kort op terug. Verder heb ik veel over lokale SEO. Zo heb ik vijf lokale SEO fabels voor je en een zevental psychische belemmeringen of excuses, waarom ondernemers niets met lokale SEO willen of doen. Verder heb ik nieuws van Foursquare, over Buenoo en over het hacken van WordPress sites.'
 episode: 77
+kgRef: podcast_episode/reputatiecoaching_077
 historical: true
 archivePeriod: 2012–2016
 transcriptStatus: full
@@ -28,17 +29,17 @@ Hallo en hartelijk welkom bij deze aflevering van de ReputatieCoaching Podcast. 
 
 Als persoon kun je met de diverse tips aan de slag om bijvoorbeeld je online reputatie als songwriter, seizoenarbeider, nasynchronisatie-regisseur, paleontoloog, meubelstoffeerder of wat dan ook te verbeteren.
 
-De podcast kun je vinden op [www.reputatiecoaching.nl/77](https://www.reputatiecoaching.nl/77/). Daar vind je niet alleen de tekst, maar ook links waar ik het in deze uitzending over heb, alsmede afbeeldingen enzovoorts. Bovendien is de podcast te beluisteren in [iTunes](https://www.reputatiecoaching.nl/itunes) en op [Stitcher](https://www.reputatiecoaching.nl/stitcher). Daar kun je je dus ook abonneren op de wekelijkse podcast. En mocht je een ander programma gebruiken om naar podcasts te luisteren, dan vind je in de show notes ook de URL van de RSS-feed van de podcast. Veel mensen vinden het ideaal om de wekelijkse afleveringen van de podcast op hun gemak te beluisteren, terwijl ze autorijden, hardlopen, fietsen of actief zijn in de sportschool.
+De podcast kun je vinden op [www.reputatiecoaching.nl/77](https://web.archive.org/web/20150312094253/http://www.reputatiecoaching.nl/77/). Daar vind je niet alleen de tekst, maar ook links waar ik het in deze uitzending over heb, alsmede afbeeldingen enzovoorts. Bovendien is de podcast te beluisteren in iTunes en op Stitcher. Daar kun je je dus ook abonneren op de wekelijkse podcast. En mocht je een ander programma gebruiken om naar podcasts te luisteren, dan vind je in de show notes ook de URL van de RSS-feed van de podcast. Veel mensen vinden het ideaal om de wekelijkse afleveringen van de podcast op hun gemak te beluisteren, terwijl ze autorijden, hardlopen, fietsen of actief zijn in de sportschool.
 
 ## Korte terugblik podcast 76
 
-[Vorige week](https://www.reputatiecoaching.nl/76/) vertelde ik je aan de hand van een paar knipsels uit een infographic over wat mensen lokaal zoeken vanaf een smartphone, dat 54% op zoek is naar de openingstijden, 53% naar de routebeschrijving en 50% naar het adres.
+[Vorige week](https://web.archive.org/web/20140622012913/http://www.reputatiecoaching.nl:80/76/) vertelde ik je aan de hand van een paar knipsels uit een infographic over wat mensen lokaal zoeken vanaf een smartphone, dat 54% op zoek is naar de openingstijden, 53% naar de routebeschrijving en 50% naar het adres.
 
 Heb je zelf al eens je bedrijfsnaam ingetypt? Dat doe je vast heel vaak, om te zien hoe je scoort en wat er over jouw bedrijf wordt geschreven… Maar controleer je wel eens je openingstijden op een aantal websites, zoals allebedrijvenin.nl, openingstijden.nl, openingstijden.com, Yelp enzovoorts?
 
 Kloppen de openingstijden van jouw bedrijf op Google+ en Facebook? Zijn ze allemaal overal hetzelfde? Weet je het zeker? Reden dat ik het toch maar weer eens vraag, is dat Google van consistente gegevens houdt. Dat wil dus zeggen dat je bedrijfsgegevens overal hetzelfde moeten zijn. En dat geldt dan dus ook voor de openingstijden…
 
-Begin dit jaar heb ik de [werkinstructie “opschonen citations”](https://www.reputatiecoaching.nl/werkinstructie-opschonen-citations/) gepubliceerd. Daarin beschrijf ik wat je moet doen om te controleren of je gegevens overal hetzelfde zijn. Ook bied ik je daar een spreadsheet, waarop je zelf je voortgang kunt bijhouden.
+Begin dit jaar heb ik de [werkinstructie “opschonen citations”](https://web.archive.org/web/20140314201735/http://www.reputatiecoaching.nl:80/werkinstructie-opschonen-citations/) gepubliceerd. Daarin beschrijf ik wat je moet doen om te controleren of je gegevens overal hetzelfde zijn. Ook bied ik je daar een spreadsheet, waarop je zelf je voortgang kunt bijhouden.
 
 De les van vorige week: zorg dat niet alleen je bedrijfsnaam, adres, postcode, plaats en telefoonnummer overal hetzelfde zijn in elke bedrijfsvermelding, maar ook je openingstijden!
 
@@ -46,7 +47,7 @@ Laat ik dan nu overgaan op de onderwerpen voor vandaag…
 
 ## #SMC055: Brechtje de Leij en Jeroen Olthof over Media en Social Media
 
-Vorige week maandagavond was het weer tijd voor de maandelijkse avond van de Social Media Club Apeldoorn, ook bekend onder #SMC055. Gastsprekers waren Brechtje de Leij van Samona, de club achter NU.nl en Jeroen Olthof van The WebMen. Zij presenteerden over het thema “[Media en Social Media](https://www.reputatiecoaching.nl/smc055-media-en-social-media-20140512/)”.
+Vorige week maandagavond was het weer tijd voor de maandelijkse avond van de Social Media Club Apeldoorn, ook bekend onder #SMC055. Gastsprekers waren Brechtje de Leij van Samona, de club achter NU.nl en Jeroen Olthof van The WebMen. Zij presenteerden over het thema “Media en Social Media”.
 
 Na afloop heb ik meteen een Storify-bord gepubliceerd met daarin de tweets tijdens het evenement.
 
@@ -199,7 +200,7 @@ De komende week zal ik mijn best doen om in contact te komen met de personen ach
 
 Omwille van de privacy van de ondernemer zal ik de naam niet bekend maken, maar ik kreeg laatst een mailtje met het verzoek of ik even in de WordPress installatie wilde kijken, omdat die was gehackt. Dat is altijd ellendig!
 
-Uiteindelijk is alles opgeschoond en heeft deze ondernemer ook [WordFence](http://www.wordfence.com) geïnstalleerd. “WordFence” is een beveiligingsplugin voor WordPress. Er is een gratis versie en een premium versie, die US$39 per jaar kost. In de show notes, die je overigens kunt vinden op [www.reputatiecoaching.nl/77](https://www.reputatiecoaching.nl/77/) heb ik ook een link naar deze plugin opgenomen, voor het geval je er meer over wilt weten. Binnenkort zal ik deze plugin eens onder de loep nemen en er een artikel over schrijven. ’k Heb het meteen even als een actie genoteerd, om te voorkomen dat ik het vergeet. Wat ik al wel heb gedaan, is de plugin geïnstalleerd op een tweetal sites, om te zien wat die zoal in de gaten heeft, om je dan binnenkort echte ervaringen uit de praktijk te kunnen geven.
+Uiteindelijk is alles opgeschoond en heeft deze ondernemer ook [WordFence](http://www.wordfence.com) geïnstalleerd. “WordFence” is een beveiligingsplugin voor WordPress. Er is een gratis versie en een premium versie, die US$39 per jaar kost. In de show notes, die je overigens kunt vinden op [www.reputatiecoaching.nl/77](https://web.archive.org/web/20150312094253/http://www.reputatiecoaching.nl/77/) heb ik ook een link naar deze plugin opgenomen, voor het geval je er meer over wilt weten. Binnenkort zal ik deze plugin eens onder de loep nemen en er een artikel over schrijven. ’k Heb het meteen even als een actie genoteerd, om te voorkomen dat ik het vergeet. Wat ik al wel heb gedaan, is de plugin geïnstalleerd op een tweetal sites, om te zien wat die zoal in de gaten heeft, om je dan binnenkort echte ervaringen uit de praktijk te kunnen geven.
 
 Maar wat is nu hacking? Hoewel het vroeger een positieve betekenis had, is dat tegenwoordig wel anders. Hacking wordt geassocieerd met illegale, technische praktijken om ongeoorloofd toegang te krijgen tot computers, bestanden en informatiesystemen. In het geval van WordPress is het de hackers er vaak om te doen om onzichtbare of soms zichtbare content op je site te plaatsen, bijvoorbeeld om extra backlinks te creëren. Je ziet deze praktijken vaak voor websites die worden geassocieerd met gokken, Viagra-achtige pillen of porno.
 
@@ -233,7 +234,7 @@ En hiermee kom ik dan weer aan het einde van deze podcast.
 
 Als je de podcast leuk vindt en je wilt nog meer op de hooge blijven, volg me dan ook op Twitter, via [@reputatiecoach1](https://twitter.com/reputatiecoach1).
 
-En als je inderdaad wat aan alle informatie die ik met je deel hebt, help mij dan met het verder verbeteren en promoten van deze podcast. Surf naar [iTunes](https://www.reputatiecoaching.nl/itunes) of [Stitcher](https://www.reputatiecoaching.nl/stitcher), geef de podcast een sterrenbeoordeling en geef ook je reactie. Door de podcast te beoordelen op iTunes en/of Stitcher breng je de podcast onder de aandacht van een breder publiek.
+En als je inderdaad wat aan alle informatie die ik met je deel hebt, help mij dan met het verder verbeteren en promoten van deze podcast. Surf naar iTunes of Stitcher, geef de podcast een sterrenbeoordeling en geef ook je reactie. Door de podcast te beoordelen op iTunes en/of Stitcher breng je de podcast onder de aandacht van een breder publiek.
 
 Je kunt me verder helpen, door de podcast aan te bevelen bij vrienden of collega’s, waarvan je denkt dat ze er hun voordeel mee kunnen doen, of door ’m te delen op Twitter, like’n en delen op Facebook of een “+1” te geven op Google+.
 
@@ -241,7 +242,7 @@ En vergeet niet: ik ben hier om je te helpen! Als je een vraag of een probleem h
 
 Als je dat te lastig vindt, of als je de podcast beluistert terwijl je in de auto zit en je hebt acuut een vraag, spreek dan een boodschap in op de ReputatieCoaching Hotline, op nummer: 084 - 883 15 56. Mogelijk behandel ik je vraag of probleem dan in een artikel of in de podcast.
 
-En je kunt ook rechtstreeks op de website een voicemail achterlaten, door op de tab aan de rechterkant van elke pagina te klikken, en je bericht in te spreken. Dit was [ReputatieCoaching Podcast aflevering 77](https://www.reputatiecoaching.nl/77/) en mijn naam is [Eduard de Boer](http://nl.linkedin.com/in/eduarddeboer/nl).
+En je kunt ook rechtstreeks op de website een voicemail achterlaten, door op de tab aan de rechterkant van elke pagina te klikken, en je bericht in te spreken. Dit was [ReputatieCoaching Podcast aflevering 77](https://web.archive.org/web/20150312094253/http://www.reputatiecoaching.nl/77/) en mijn naam is [Eduard de Boer](http://nl.linkedin.com/in/eduarddeboer/nl).
 
 Ik wens je de komende week weer succes met het werken aan je reputatie, zodat je meteen je reputatie voor jou kunt laten werken!
 
@@ -252,9 +253,9 @@ Doei!
 Links naar content die in deze podcast aan bod komt:
 
 ```
-  * [ReputatieCoaching Podcast in iTunes](https://www.reputatiecoaching.nl/itunes)
-  * [ReputatieCoaching Podcast op Stitcher](https://www.reputatiecoaching.nl/stitcher)
-  * [ReputatieCoaching Podcast RSS-feed](https://feeds.reputatiecoaching.nl/ReputatieCoachingPodcast)
+  * ReputatieCoaching Podcast in iTunes
+  * ReputatieCoaching Podcast op Stitcher
+  * [ReputatieCoaching Podcast RSS-feed](https://web.archive.org/web/20140803035048/http://feeds.reputatiecoaching.nl:80/ReputatieCoachingPodcast)
   * [Wordfence](http://www.wordfence.com) WordPress security plugin
   * [Buenoo](http://www.buenoo.nl) voor de beste reviews van je bedrijf
 ```
