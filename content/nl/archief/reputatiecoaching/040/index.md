@@ -65,7 +65,7 @@ Maar terugkomend op mijn contentmarketing experiment. Zoals ik al zei is dit all
 
 ## Google Maps en Waze nu geïntegreerd
 
-In [[podcast 29](/nl/archief/reputatiecoaching/029/)](/nl/archief/reputatiecoaching/029/) vertelde ik je dat Waze in juni 2013 was overgenomen door Google en sprak ik de verwachting uit dat Google de krenten uit de Waze-pap zou halen om haar eigen product, Google Maps, te verbeteren en/of uit te breiden.
+In [podcast 29](/nl/archief/reputatiecoaching/029/) vertelde ik je dat Waze in juni 2013 was overgenomen door Google en sprak ik de verwachting uit dat Google de krenten uit de Waze-pap zou halen om haar eigen product, Google Maps, te verbeteren en/of uit te breiden.
 
 Nou, dat is inderdaad gebeurd. Op het weblog van Google Maps is allereerst te lezen dat je in Google Maps nu de realtime updates krijgt van Waze-gebruikers, zoals ongelukken, werkzaamheden, wegafsluitingen etc. Echter, deze updates zijn op dit moment alleen nog maar beschikbaar in de Android en iOS Google Maps in Argentinië, Brazilië, Chili, Colombia, Duitsland, Ecuador, Frankrijk, Mexico, Panama, Verenigd Koninkrijk, de USA en Zwitserland. Helaas moeten we in Nederland nog even wachten.
 
