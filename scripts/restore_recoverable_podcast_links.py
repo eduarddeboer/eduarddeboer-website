@@ -131,7 +131,7 @@ def restore_pretty_links() -> list[str]:
                 if link.get("action") != "unlinked":
                     continue
                 url = link.get("original_url") or ""
-                m = re.search(r"reputatiecoaching\\.nl/([^/?#]+)/?$", url, re.I)
+                m = re.search(r"reputatiecoaching\.nl/([^/?#]+)/?$", url, re.I)
                 if not m:
                     continue
                 slug = m.group(1).lower()
