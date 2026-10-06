@@ -349,8 +349,12 @@ def repair_episode(
                     decision.replacement_url = replacement
                     decision.wayback_timestamp = capture["timestamp"]
                 else:
-                    replacement = url
-                    decision.action = "kept_uncertain"
+                    replacement = None
+                    decision.action = "unlinked"
+                    decision.note = (
+                        (decision.note + "; " if decision.note else "")
+                        + "No usable Wayback capture found"
+                    )
 
         if sleep > 0:
             time.sleep(sleep)
@@ -425,7 +429,7 @@ def main() -> int:
             "internal_reputatiecoaching": "Wayback if available; otherwise unlink",
             "external_live": "retain",
             "external_clearly_dead": "Wayback if available; otherwise unlink",
-            "external_uncertain": "Wayback if available; otherwise retain for review",
+            "external_uncertain": "Wayback if available; otherwise unlink",
         },
         "episodes": reports,
         "summary": {
