@@ -3,6 +3,7 @@ title: '71: Zomertijd in WordPress, over lokale landingpagina''s, Twitter privac
 date: '2014-04-07T06:30:00+00:00'
 description: We zitten alweer iets meer dan een week op de zomertijd en meteen merk je dat de avonden langer worden… Gecombineerd met het mooie weer geeft dat direct zo’n zomergevoel. Maar bij mij ging er iets fout in WordPress met de ingang van de zomertijd. Wat er fout ging, vertel ik je zometeen. Een tijdje geleden had ik een probleem met de performance van een WordPress blog. Om dat te tacklen heb ik een hele nuttige plugin gevonden, die ik graag met je wil delen.
 episode: 71
+kgRef: podcast_episode/reputatiecoaching_071
 historical: true
 archivePeriod: 2012–2016
 transcriptStatus: full
@@ -30,7 +31,7 @@ Hallo en hartelijk welkom bij deze aflevering van de ReputatieCoaching Podcast. 
 
 Als persoon kun je met de diverse tips aan de slag om bijvoorbeeld je online reputatie als cameraman, filiaalmanager, audicien, glasblazer, bloembinder, orthopedisch chirurg of wat dan ook te verbeteren.
 
-De podcast kun je vinden op [www.reputatiecoaching.nl/71](https://www.reputatiecoaching.nl/71/). Daar vind je niet alleen de tekst, maar ook video’s waar ik het in deze uitzending over heb, alsmede afbeeldingen, links enzovoorts. Bovendien is de podcast te beluisteren in [iTunes](https://www.reputatiecoaching.nl/itunes) en op [Stitcher](https://www.reputatiecoaching.nl/stitcher). Daar kun je je dus ook abonneren op de wekelijkse podcast. Veel mensen vinden het ideaal om de wekelijkse afleveringen van de podcast op hun gemak te beluisteren, terwijl ze autorijden.
+De podcast kun je vinden op [www.reputatiecoaching.nl/71](https://web.archive.org/web/20141104094502/http://www.reputatiecoaching.nl:80/71/). Daar vind je niet alleen de tekst, maar ook video’s waar ik het in deze uitzending over heb, alsmede afbeeldingen, links enzovoorts. Bovendien is de podcast te beluisteren in iTunes en op Stitcher. Daar kun je je dus ook abonneren op de wekelijkse podcast. Veel mensen vinden het ideaal om de wekelijkse afleveringen van de podcast op hun gemak te beluisteren, terwijl ze autorijden.
 
 Oh, voordat ik begin met de topics van vandaag. Ik las van de week een aardig artikel over [hoe Internetters voornamelijk naar muziek luisteren](https://www.reelseo.com/youtube-music/). Ik dacht altijd dat dat vanaf diensten als Spotify, Pandora, iHeartRadio, iTunes of andere streaming services was. Maar ik had dat fout. Het artikel dat ik las ging echter wel over de Amerikaanse markt. Het blijkt dat in de Verenigde Staten veruit de meeste mensen voornamelijk muziek beluisteren… via… jawel: YouTube!
 
@@ -48,13 +49,13 @@ Alle jaren dat ik WordPress gebruik heb ik me er eigenlijk nooit zo in verdiept:
 
 Tja, ik weet dat dat niet de bedoeling is, maar zoals ik al zei: ik had het gewoon niet in de gaten dat het ook anders kon… en eigenlijk anders moest.
 
-Afgelopen week ging het dus ook weer fout. Ik constateerde dat de [podcast van vorige week](https://www.reputatiecoaching.nl/70/) inderdaad een uur later dan anders online kwam, namelijk om halftien in plaats van om halfnegen. Op zich was dat geen halszaak, maar ik vind halfnegen nu eenmaal een mooiere tijd, dan halftien. Bovendien heb ik me gecommit om de podcast altijd om halfnegen te publiceren en dus wil ik me daar aan houden.
+Afgelopen week ging het dus ook weer fout. Ik constateerde dat de [podcast van vorige week](https://web.archive.org/web/20150312094041/http://www.reputatiecoaching.nl/70/) inderdaad een uur later dan anders online kwam, namelijk om halftien in plaats van om halfnegen. Op zich was dat geen halszaak, maar ik vind halfnegen nu eenmaal een mooiere tijd, dan halftien. Bovendien heb ik me gecommit om de podcast altijd om halfnegen te publiceren en dus wil ik me daar aan houden.
 
 Bij nadere controle zag ik wel dat de tijd van de server juist was, want ik dacht eerst dat het daar fout was gegaan. Dus dook ik weer in de tijdinstellingen van WordPress en bladerde iets verder dan de UTC–12 tot en met de UTC+14 mogelijkheden.
 
 [![WordPress tijdzone instellen](20140407-wordpress-tijdzone.png)](https://lh5.googleusercontent.com/-DyTvAw0YY1s/U0HJFovM0SI/AAAAAAAAAn0/dicUGKqc50I/w890-h450-no/20140407-wordpress-tijdzone.png)
 
-En opeens zag ik Europa » Amsterdam staan. Na die keuze te hebben aangeklikt, de wijzigingen te hebben opgeslagen, stond de tijd voor WordPress meteen goed! In de show notes, die je overigens kunt vinden op [www.reputatiecoaching.nl/71](https://www.reputatiecoaching.nl/71/), zie je een screenshot hoe dit eruit ziet. Je komt daar door in WordPress te surfen naar *Instellingen* » *Algemeen*.
+En opeens zag ik Europa » Amsterdam staan. Na die keuze te hebben aangeklikt, de wijzigingen te hebben opgeslagen, stond de tijd voor WordPress meteen goed! In de show notes, die je overigens kunt vinden op [www.reputatiecoaching.nl/71](https://web.archive.org/web/20141104094502/http://www.reputatiecoaching.nl:80/71/), zie je een screenshot hoe dit eruit ziet. Je komt daar door in WordPress te surfen naar *Instellingen* » *Algemeen*.
 
 Grappig genoeg heb ik in het verleden een aantal WordPress sites ooit wel op Amsterdam gezet, maar bij nadere controle vond ik een zestal sites die altijd verkeerd hebben gestaan. Die heb ik dan ook maar meteen goed gezet.
 
@@ -66,7 +67,7 @@ Een aantal weken geleden had ik de idee dat één van mijn WordPress sites om we
 
 De andere WordPress sites leken niet langzamer, dus het kon op zich niet aan de server liggen. Bovendien was de server gemiddeld slechts voor zo’n 5–10% belast.
 
-De WordPress-installatie was up-to-date en gebruikte ook het Genesis framework, dus had ik het vermoeden dat ik de oorzaak in een plugin moest zoeken. Na wat rondzoeken op Internet kwam ik terecht bij de WordPress plugin: “[P3 Profiler](https://wordpress.org/extend/plugins/p3-profiler/)”. De link hier naartoe vind je in de show notes van deze podcast, op: [www.reputatiecoaching.nl/71](https://www.reputatiecoaching.nl/71/).
+De WordPress-installatie was up-to-date en gebruikte ook het Genesis framework, dus had ik het vermoeden dat ik de oorzaak in een plugin moest zoeken. Na wat rondzoeken op Internet kwam ik terecht bij de WordPress plugin: “[P3 Profiler](https://wordpress.org/extend/plugins/p3-profiler/)”. De link hier naartoe vind je in de show notes van deze podcast, op: [www.reputatiecoaching.nl/71](https://web.archive.org/web/20141104094502/http://www.reputatiecoaching.nl:80/71/).
 
 Ik had op die site ooit de plugin “JetPack” geïnstalleerd, omdat ik graag een paar functies wilde hebben die je standaard op WordPress.com krijgt. Het bleek dat JetPack verantwoordelijk was voor meer dan 60% van de totale laadtijd van alle plugins. Na het uitschakelen van JetPack laadden de pagina’s opeens weer supersnel. Na enig zoeken bleek dat de website ook prima zonder de functies van JetPack kon.
 
@@ -80,7 +81,7 @@ Maar terugkomend op de plugin “[P3 Profiler](https://wordpress.org/extend/plug
 
 Als dat het geval is en je ziet dat je site een stuk sneller laadt als je bepaalde plugins uitschakelt, ga dan eens op zoek naar een alternatief, die wellicht wel sneller werkt. Maar blijf elke keer testen om te proberen de laadtijd van de voorpagina van je site onder de één seconde te houden en de laadtijd van andere pagina’s toch ergens tussen de twee à drie seconden. Vergeet niet, dat Internetters tegenwoordig steeds minder lang willen wachten op de content. Dus als jouw pagina’s langzaam laden, dan is de kans groot dat mensen al op de “Back”-knop klikken, voordat je pagina is geladen.
 
-In de show notes heb ik een paar grafieken opgenomen van de analyse van de plugins die ik op [www.reputatiecoaching.nl](http://www.reputatiecoaching.nl) gebruik. Daaruit blijkt dat de meest tijdrovende plugin voor mijn site de “WordPress SEO”-plugin van Joost de Valk is.
+In de show notes heb ik een paar grafieken opgenomen van de analyse van de plugins die ik op [www.reputatiecoaching.nl](https://web.archive.org/web/20140706162453/http://www.reputatiecoaching.nl/) gebruik. Daaruit blijkt dat de meest tijdrovende plugin voor mijn site de “WordPress SEO”-plugin van Joost de Valk is.
 
 [![P3 Profiler voor WordPress](20140407-p3-runtime-globaal.png)](https://lh3.googleusercontent.com/-3bOYF4dBQaw/U0HJErcNuXI/AAAAAAAAAnc/nLBYnTsNO0A/w860-h773-no/20140407-p3-runtime-globaal.png)
 
@@ -88,7 +89,7 @@ In de show notes heb ik een paar grafieken opgenomen van de analyse van de plugi
 
 [![P3 Profiler voor WordPress](20140407-p3-detailed-timeline.png)](https://lh5.googleusercontent.com/-6elkBuzFTSs/U0HJEU2GU4I/AAAAAAAAAn4/VJ9-4L9Q0pI/w860-h773-no/20140407-p3-detailed-timeline.png)
 
-Heb jij het idee hebben dat jouw site niet snel genoeg is, of dat het laden sneller kan? Probeer dan eens wat ik je hiervoor heb verteld. En als je er niet uitkomt, neem dan gerust contact met me op, of laat een bericht achter onderaan de show notes, op: [www.reputatiecoaching.nl/71](https://www.reputatiecoaching.nl/71/)
+Heb jij het idee hebben dat jouw site niet snel genoeg is, of dat het laden sneller kan? Probeer dan eens wat ik je hiervoor heb verteld. En als je er niet uitkomt, neem dan gerust contact met me op, of laat een bericht achter onderaan de show notes, op: [www.reputatiecoaching.nl/71](https://web.archive.org/web/20141104094502/http://www.reputatiecoaching.nl:80/71/)
 
 Tot zover over WordPress…
 
@@ -121,7 +122,7 @@ Wat essentieel is voor de verschillende zakelijke Google+ pagina’s, is dat ze 
   * www.mijnbedrijf.nl/locaties/Maastricht
 ```
 
-Het spreek voor zich dat de gegevens op de lokale landing pagina’s op je website [www.mijnbedrijf.nl](http://www.mijnbedrijf.nl) exact overeen moeten komen, met die op de zakelijke Google+ pagina. Maar wat kun je of beter gezegd: “moet je” er dan nog meer op zetten om de pagina’s uniek te maken, en ze voor Google duidelijk te markeren als lokale landing pagina’s??
+Het spreek voor zich dat de gegevens op de lokale landing pagina’s op je website [www.mijnbedrijf.nl](https://web.archive.org/web/20050403200005/http://www.mijnbedrijf.nl:80/) exact overeen moeten komen, met die op de zakelijke Google+ pagina. Maar wat kun je of beter gezegd: “moet je” er dan nog meer op zetten om de pagina’s uniek te maken, en ze voor Google duidelijk te markeren als lokale landing pagina’s??
 
 In de show notes heb ik een afbeelding opgenomen, waarin je kunt zien wat bedrijven zoal op hun lokale landingpagina’s zetten en welk percentage van de bedrijven dat er op zet:
 
@@ -205,7 +206,7 @@ Het artikel sluit af met een vijftal leerpunten:
 
 Ik ga de komende tijd eens nadenken hoe ik de coverfoto van diverse Google+ pagina’s beter en mooier kan maken. Jij ook? Met deze tips over het verbeteren van de coverfoto van je Google+ pagina kom ik dan vandaag weer aan het einde van de podcast.
 
-Als je de podcast leuk vindt en je hebt inderdaad wat aan alle informatie die ik met je deel, help mij dan met het verder verbeteren en promoten van deze podcast. Surf dan naar [iTunes](https://www.reputatiecoaching.nl/itunes) of [Stitcher](https://www.reputatiecoaching.nl/stitcher), geef de podcast een sterrenbeoordeling en geef ook je reactie. Door de podcast te beoordelen op iTunes en/of Stitcher breng je de podcast onder de aandacht van een breder publiek. Je vindt de links naar iTunes en Stitcher onderaan de show notes.
+Als je de podcast leuk vindt en je hebt inderdaad wat aan alle informatie die ik met je deel, help mij dan met het verder verbeteren en promoten van deze podcast. Surf dan naar iTunes of Stitcher, geef de podcast een sterrenbeoordeling en geef ook je reactie. Door de podcast te beoordelen op iTunes en/of Stitcher breng je de podcast onder de aandacht van een breder publiek. Je vindt de links naar iTunes en Stitcher onderaan de show notes.
 
 Je kunt me verder helpen, door de podcast aan te bevelen bij vrienden of collega’s, waarvan je denkt dat ze er hun voordeel mee kunnen doen, of door ’m te delen op Twitter, like’n en delen op Facebook of een “+1” te geven op Google+.
 
@@ -213,7 +214,7 @@ En vergeet niet: ik ben hier om je te helpen! Als je een vraag of een probleem h
 
 Als je dat te lastig vindt, of als je de podcast beluistert terwijl je in de auto zit en je hebt acuut een vraag, spreek dan een boodschap in op de ReputatieCoaching Hotline, op nummer: 084 - 883 15 56. Mogelijk behandel ik je vraag of probleem dan in een artikel of in de podcast.
 
-En je kunt ook rechtstreeks op de website een voicemail achterlaten, door op de tab aan de rechterkant van elke pagina te klikken, en je bericht in te spreken. Dit was [ReputatieCoaching Podcast aflevering 71](https://www.reputatiecoaching.nl/71/) en mijn naam is [Eduard de Boer](http://nl.linkedin.com/in/eduarddeboer/nl).
+En je kunt ook rechtstreeks op de website een voicemail achterlaten, door op de tab aan de rechterkant van elke pagina te klikken, en je bericht in te spreken. Dit was [ReputatieCoaching Podcast aflevering 71](https://web.archive.org/web/20141104094502/http://www.reputatiecoaching.nl:80/71/) en mijn naam is [Eduard de Boer](http://nl.linkedin.com/in/eduarddeboer/nl).
 
 Ik wens je de komende week weer succes met het werken aan je reputatie, zodat je meteen je reputatie voor jou kunt laten werken!
 
@@ -224,9 +225,9 @@ Doei!
 Links naar content die in deze podcast aan bod komt:
 
 ```
-  * [ReputatieCoaching Podcast in iTunes](https://www.reputatiecoaching.nl/itunes)
-  * [ReputatieCoaching Podcast op Stitcher](https://www.reputatiecoaching.nl/stitcher)
-  * [ReputatieCoaching Podcast RSS-feed](https://feeds.reputatiecoaching.nl/ReputatieCoachingPodcast)
+  * ReputatieCoaching Podcast in iTunes
+  * ReputatieCoaching Podcast op Stitcher
+  * [ReputatieCoaching Podcast RSS-feed](https://web.archive.org/web/20140803035048/http://feeds.reputatiecoaching.nl:80/ReputatieCoachingPodcast)
   * [P3 Profiler](https://wordpress.org/plugins/p3-profiler/) - zoek uit welke plugin in WordPress je site vertraagt
   * “[Photos just got more social](https://blog.twitter.com/2014/photos-just-got-more-social)” (Twitter blog, 26 maart 2014)
   * “[Among Top 100 Etail Sites Only 9 Pct Using Responsive Design](http://marketingland.com/among-top-100-e-tail-sites-9-percent-using-responsive-design-77974)” (MarketingLand, 27 maart 2014)
