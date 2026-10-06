@@ -54,4 +54,4 @@ Doei!
 
 Op verzoek van een paar trouwe luisteraars, hierbij een overzicht van de links die in de podcast aan bod komen:
 
-- Dropbox - om je bestanden in de cloud op te slaan \* WordPress Backup to Dropbox - plugin voor automatische backups \* BackWPup - een betere plugin voor automatische volledige backups van je WordPress blog \* [outlook.com](https://outlook.com) - de nieuwe gratis emaildienst van Microsoft \* [Yelp](https://www.yelp.nl) - populaire review site om jouw site(s) op aan te melden
+- [Dropbox](https://www.dropbox.com/) - om je bestanden in de cloud op te slaan \* WordPress Backup to Dropbox - plugin voor automatische backups \* [BackWPup](https://nl.wordpress.org/plugins/backwpup/) - een betere plugin voor automatische volledige backups van je WordPress blog \* [outlook.com](https://outlook.com) - de nieuwe gratis emaildienst van Microsoft \* [Yelp](https://www.yelp.nl) - populaire review site om jouw site(s) op aan te melden

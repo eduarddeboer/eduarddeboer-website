@@ -217,7 +217,7 @@ Ter afsluiting van de topics en tips in deze podcast geef ik je een paar praktis
 
 Met deze tips voor het vergroten van je inkomende telefoonverkeer kom ik dan weer aan het einde van deze podcast.
 
-Als je de podcast leuk vindt en je hebt inderdaad wat aan alle informatie die ik met je deel, help mij dan met het verder verbeteren en promoten van deze podcast. Deel ‘m op Twitter, like ‘m op Facebook of geef een “+1” op Google+. Je kunt de Google+ pagina vinden, door te surfen naar www.reputatiecoaching.nl/gplus/. Het zou ook super zijn, als je een review van de podcast achterlaat op iTunes of op LinkedIn.
+Als je de podcast leuk vindt en je hebt inderdaad wat aan alle informatie die ik met je deel, help mij dan met het verder verbeteren en promoten van deze podcast. Deel ‘m op Twitter, like ‘m op Facebook of geef een “+1” op Google+. Je kunt de Google+ pagina vinden, door te surfen naar [www.reputatiecoaching.nl/gplus/](https://www.google.com/maps?cid=4978892197645719955). Het zou ook super zijn, als je een review van de podcast achterlaat op iTunes of op LinkedIn.
 
 Zoek op Google op “reputatie” en “itunes” en je ziet meteen de ReputatieCoaching Podcast pagina van iTunes. Door een review te posten op iTunes help je mij om de podcast ook onder de aandacht van anderen te krijgen.
 

@@ -115,7 +115,7 @@ Dus het is ook beschikbaar voor Nederlandstalige sites. Zoals elke keer als ik e
 
 ## Google als GRATIS CDN (Content Delivery Network)
 
-Ik vertelde je al in [podcast 65](/nl/archief/reputatiecoaching/065/) dat ik Google+ voor mijn site [www.reputatiecoaching.nl](/) gebruik als een Content Delivery Network, afgekort “CDN”, voor vrijwel al mijn afbeeldingen. Hoe ik dat doe, wil ik je in deze podcast kort uitleggen. En ik zal er binnenkort ook een instructievideo over maken.
+Ik vertelde je al in [[podcast 65](/nl/archief/reputatiecoaching/065/)](/nl/archief/reputatiecoaching/065/) dat ik Google+ voor mijn site [www.reputatiecoaching.nl](/) gebruik als een Content Delivery Network, afgekort “CDN”, voor vrijwel al mijn afbeeldingen. Hoe ik dat doe, wil ik je in deze podcast kort uitleggen. En ik zal er binnenkort ook een instructievideo over maken.
 
 Maar waarom zou je überhaupt de afbeeldingen in jouw berichten, op jouw website, vanaf een andere website willen laten vertonen?
 

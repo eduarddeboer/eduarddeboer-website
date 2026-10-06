@@ -42,9 +42,9 @@ De ReputatieCoaching Podcast wordt populair! Op dit moment zie ik tussen de 100 
 
 *Daarvoor ben ik jullie dus ook heel dankbaar! En ga vooral zo door met het aanbevelen van de podcast aan mensen in je omgeving. Toevallig raakte ik eerder deze week in gesprek met een directrice van een lokaal kinderdagverblijf hier in Apeldoorn en zij gaf meteen te kennen dat ze uitermate geïnteresseerd was in meer kennis en informatie over hoe zij haar kinderdagverblijven beter kan laten vinden om daarmee de reputatie te verbeteren. Dus welkom Rianne als nieuwe luisteraar van de podcast.*
 
-*Nu ik het toch even over de podcast heb: als je deze podcast leuk vindt, laat het me dan weten. Vertel erover aan je familie, vrienden of collega’s of laat een review achter op iTunes. Ook stel ik het op prijs als je een bericht achterlaat op onze Facebookpagina, op: www.reputatiecoaching.nl/facebook. Like dit artikel en deel het op Facebook, of klik op “+1” onderaan dit artikel om het te delen op Google+. Je mag ook een bericht achterlaten op de Google+ pagina. De Google+ pagina kun je vinden op: www.reputatiecoaching.nl/gplus (dat is “g-p-l-u-s”).*
+*Nu ik het toch even over de podcast heb: als je deze podcast leuk vindt, laat het me dan weten. Vertel erover aan je familie, vrienden of collega’s of laat een review achter op iTunes. Ook stel ik het op prijs als je een bericht achterlaat op onze Facebookpagina, op: [www.reputatiecoaching.nl/facebook](https://www.facebook.com/reputatiecoaching/). Like dit artikel en deel het op Facebook, of klik op “+1” onderaan dit artikel om het te delen op Google+. Je mag ook een bericht achterlaten op de Google+ pagina. De Google+ pagina kun je vinden op: [www.reputatiecoaching.nl/gplus](https://www.google.com/maps?cid=4978892197645719955) (dat is “g-p-l-u-s”).*
 
-*Je kunt natuurlijk ook een leuke recensie achterlaten op op mijn LinkedIn-profiel, op: www.reputatiecoaching.nl/linkedin.*
+*Je kunt natuurlijk ook een leuke recensie achterlaten op op mijn LinkedIn-profiel, op: [www.reputatiecoaching.nl/linkedin](https://www.linkedin.com/in/eduarddeboer/nl).*
 
 *Of post simpelweg een reactie, onderaan de transcriptie van deze podcast.*
 
@@ -110,7 +110,7 @@ De ReputatieCoaching Podcast wordt populair! Op dit moment zie ik tussen de 100 
   1.
 ```
 
-***Maak backups** – ik kan het niet vaak genoeg herhalen, maar met BackWPup of andere plugins kun je jouw WordPress blog automatisch met een door jou gekozen frequentie op een alternatieve locatie veiligstellen. Als er dan iets gebeurt met je site, hoef je alleen maar de meest recente of een erg recente backup terug te zetten, waarna je meteen weer in business bent.*
+***Maak backups** – ik kan het niet vaak genoeg herhalen, maar met [BackWPup](https://nl.wordpress.org/plugins/backwpup/) of andere plugins kun je jouw WordPress blog automatisch met een door jou gekozen frequentie op een alternatieve locatie veiligstellen. Als er dan iets gebeurt met je site, hoef je alleen maar de meest recente of een erg recente backup terug te zetten, waarna je meteen weer in business bent.*
 
 ```
   2.

@@ -111,7 +111,7 @@ Het is goed mogelijk dat Google zelf een foto kiest om te tonen. Dus is het van 
 
 ## DuckDuckGo naar 3 miljoen in 8 dagen
 
-Nieuws over DuckDuckGo… Ik meldde in [podcast 29](/nl/archief/reputatiecoaching/029/) dat DuckDuckGo enorm groeide en inmiddels al meer dan 2 miljoen zoekpogingen per dag verwerkte. Toen kwam opeens in het nieuws dat de NSA –de Amerikaanse veiligheidsdienst– met PRISM vrijwel het hele Internet in de gaten houdt, nam het aantal dagelijkse zoekpogingen op DuckDuckGo binnen acht dagen met 50% toe. Dus slechts acht dagen nadat deze zoekmachine 2 miljoen zoekpogingen per dag verwerkte, zaten ze al op de 3 miljoen per dag!
+Nieuws over DuckDuckGo… Ik meldde in [[podcast 29](/nl/archief/reputatiecoaching/029/)](/nl/archief/reputatiecoaching/029/) dat DuckDuckGo enorm groeide en inmiddels al meer dan 2 miljoen zoekpogingen per dag verwerkte. Toen kwam opeens in het nieuws dat de NSA –de Amerikaanse veiligheidsdienst– met PRISM vrijwel het hele Internet in de gaten houdt, nam het aantal dagelijkse zoekpogingen op DuckDuckGo binnen acht dagen met 50% toe. Dus slechts acht dagen nadat deze zoekmachine 2 miljoen zoekpogingen per dag verwerkte, zaten ze al op de 3 miljoen per dag!
 
 Reden hiervoor is, dat je op DuckDuckGo nog wel anoniem kunt surfen. Volgens hun zeggen houden zij niet bij wat gebruikers zoeken om de scores van websites te bepalen. Althans, de zoekgegevens zijn niet te herleiden tot individuen of bepaalde IP-adressen, zoals op alle andere social media sites en zoekmachines.
 

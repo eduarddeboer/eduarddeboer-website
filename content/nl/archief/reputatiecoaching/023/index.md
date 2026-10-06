@@ -293,21 +293,21 @@ Een recensie posten op iTunes
   3.
 ```
 
-Een reactie posten op de Google+ pagina, die je kunt vinden op: www.reputatiecoaching.nl/gplus (g-p-l-u-s)
+Een reactie posten op de Google+ pagina, die je kunt vinden op: [www.reputatiecoaching.nl/gplus](https://www.google.com/maps?cid=4978892197645719955) (g-p-l-u-s)
 
 ```
   4.
 ```
 
-Een reactie posten op de Facebook pagina. Deze staat op: www.reputatiecoaching.nl/facebook
+Een reactie posten op de Facebook pagina. Deze staat op: [www.reputatiecoaching.nl/facebook](https://www.facebook.com/reputatiecoaching/)
 
 ```
   5.
 ```
 
-Of als laatste: een reactie posten op LinkedIn: www.reputatiecoaching.nl/linkedin
+Of als laatste: een reactie posten op LinkedIn: [www.reputatiecoaching.nl/linkedin](https://www.linkedin.com/in/eduarddeboer/nl)
 
-Daarnaast ben ik tegenwoordig ook redelijk actief met Pinterest, waar ik dikwijls diverse leuke infographics post. Deze kun je vinden op: www.reputatiecoaching.nl/pinterest.
+Daarnaast ben ik tegenwoordig ook redelijk actief met Pinterest, waar ik dikwijls diverse leuke infographics post. Deze kun je vinden op: [www.reputatiecoaching.nl/pinterest](https://nl.pinterest.com/reputatiecoach/).
 
 Heb je ergens iets gepost, laat het met dan weten. Ook als je een vraag of een probleem hebt met betrekking tot je online reputatie of de vindbaarheid van je website, kun je een mailtje sturen naar [podcast@reputatiecoaching.nl](mailto:podcast@reputatiecoaching.nl). Als je dat te lastig vindt, of als je de podcast beluistert terwijl je in de auto zit en je hebt acuut een vraag, spreek dan een boodschap in op de ReputatieCoaching Hotline, op nummer: 084 - 883 15 56. Mogelijk behandel ik je vraag of probleem dan in een artikel of in de podcast.
 

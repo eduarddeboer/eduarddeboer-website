@@ -75,7 +75,7 @@ Ik heb het er al vaker over gehad, over het maken van backups… In de show note
   * [Foto’s van je smartphone met behulp van de app CameraSync](https://web.archive.org/web/20150312093102/http://www.reputatiecoaching.nl/38/) in podcast 38
   * [Foto’s van iMac met Flickrbucket](https://web.archive.org/web/20150312093219/http://www.reputatiecoaching.nl/43/) in podcast 43
   * [Je weblog naar Dropbox](https://web.archive.org/web/20140308061823/http://www.reputatiecoaching.nl:80/47/) in podcast 47
-  * [Foto’s van je smartphone naar OneDrive van Microsoft](/nl/archief/reputatiecoaching/065/) in podcast 65
+  * [[Foto’s van je smartphone naar OneDrive van Microsoft](/nl/archief/reputatiecoaching/065/)](/nl/archief/reputatiecoaching/065/) in podcast 65
 ```
 
 Je mag me ook gerust een berichtje sturen, als je vindt dat ik het te vaak over backups heb. Wellicht behoor jij tot de kleine groep mensen die meerdere automatische backupmechanismes heeft ingesteld voor het veiligstellen van de data. Maar uit ervaring weet ik dat de meeste ondernemers en particulieren helaas toch nog een ontoereikende backupstrategie hebben. En dan druk ik het zachtjes uit…

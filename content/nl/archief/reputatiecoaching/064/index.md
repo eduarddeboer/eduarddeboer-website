@@ -25,7 +25,7 @@ showTaxonomies: false
 ***Historische afbeelding niet beschikbaar: ReputatieCoaching Podcast*
 Afgelopen vrijdag was het Valentijnsdag… Heb jij nog kaarten of e-mails ontvangen van stille aanbidders of aanbidsters? Heb je je partner een kadootje gegeven of hebben jullie samen iets leuks gedaan? Hoewel het verhaal van priester Valentijn teruggaat tot 269 na Christus, is het tegenwoordig een uiterst commerciële aangelegenheid. Is het nog wel intessant om veel tijd, geld en energie te steken in marketing voor Valentijnsdag? Straks een aantal statistieken om je te helpen met je keuze voor volgend jaar.**
 
-**En zoals een tijdje geleden heb ik ook nu weer problemen met de plugin BackWPup, de plugin die automatisch elke nacht een backup van deze site zou moeten maken.**
+**En zoals een tijdje geleden heb ik ook nu weer problemen met de plugin [BackWPup](https://nl.wordpress.org/plugins/backwpup/), de plugin die automatisch elke nacht een backup van deze site zou moeten maken.**
 
 **Vorige week vertelde ik je van de investering die Microsoft heeft gedaan in Foursquare. Deze week was in het nieuws te lezen dat Yahoo! nu een partnership met Yelp is aangegaan om de zoekresultaten te verrijken met gegevens van lokale bedrijven en dat de Yelp website is vernieuwd.**
 

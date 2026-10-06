@@ -124,7 +124,7 @@ Hallo en welkom bij de ReputatieCoaching Podcast! In deze podcast deel ik nieuws
 
 *Hiermee kom ik dan langzaamaan weer aan het einde van deze podcast. Ik hoop dat je het weer leuk vond om naar deze podcast te luisteren.*
 
-*Als je wat hebt aan de informatie en je vind het leuk om naar de podcast te luisteren, dan kun je een bericht achterlaten op onze Facebookpagina, op: www.reputatiecoaching.nl/facebook of op onze Google+ pagina, op: www.reputatiecoaching.nl/gplus (dat is dus g-p-l-u-s).*
+*Als je wat hebt aan de informatie en je vind het leuk om naar de podcast te luisteren, dan kun je een bericht achterlaten op onze Facebookpagina, op: [www.reputatiecoaching.nl/facebook](https://www.facebook.com/reputatiecoaching/) of op onze Google+ pagina, op: [www.reputatiecoaching.nl/gplus](https://www.google.com/maps?cid=4978892197645719955) (dat is dus g-p-l-u-s).*
 
 *Ga vandaag nog naar iTunes en maak een account aan, als je die nog niet hebt. Beoordeel dan deze podcast op iTunes en stuur een berichtje naar [podcast@reputatiecoaching.nl](mailto:podcast@reputatiecoaching.nl), dat je een recensie hebt gegeven. Zit je achter je computer en heb je Twitter of Tweetdeck of iets dergelijks geopend, stuur dan een tweet met je mening met hashtag “repcoach”, dus #repcoach erbij.*
 

@@ -176,7 +176,7 @@ Op de videomarketing tips van vorige week heb ik dan ook meteen een aanvulling�
 
 ## Het effect van de WordPress plugin “Tweet old Post”
 
-Laatst heb ik in [podcast 29](/nl/archief/reputatiecoaching/029/) beloofd na een tijdje terug te komen op het effect van de plugin “[Tweet Old Post](https://wordpress.org/plugins/tweet-old-post/)”. Welnu, deze podcast lijkt me een mooi moment, want dat is al weer een goede 10 weken (ofwel tweeeneenhalve maand) geleden.
+Laatst heb ik in [[podcast 29](/nl/archief/reputatiecoaching/029/)](/nl/archief/reputatiecoaching/029/) beloofd na een tijdje terug te komen op het effect van de plugin “[Tweet Old Post](https://wordpress.org/plugins/tweet-old-post/)”. Welnu, deze podcast lijkt me een mooi moment, want dat is al weer een goede 10 weken (ofwel tweeeneenhalve maand) geleden.
 
 Ik zal je nu daar alles over uit de doeken doen. Allereerst: welke site was het? Omdat ik de meting niet wilde verstoren heb ik dat stil gehouden, maar nu zal ik je het vertellen. Het is een site die ik ooit hebt gemaakt om mogelijk extra verkeer te genereren voor de trouwreportages van [Allround Fotografie](http://www.allround-fotografie.com/bruidsreportage/), te weten: [www.trouwdag-tips.info](https://web.archive.org/web/20130522092639/http://www.trouwdag-tips.info:80/).
 

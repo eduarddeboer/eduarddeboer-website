@@ -35,7 +35,7 @@ Hallo en hartelijk welkom bij deze aflevering van de ReputatieCoaching Podcast. 
 
 Als persoon kun je met de diverse tips aan de slag om bijvoorbeeld je online reputatie als timmerman, ambulancechauffeur, studie adviseur, matroos of wat dan ook te verbeteren.
 
-In deze podcast noem ik een aantal sites, video’s en verwijs ik naar verschillende artikelen. De links naar al deze content èn de volledige transcriptie van de podcast vind je op [www.reputatiecoaching.nl/62](/nl/archief/reputatiecoaching/062/). En je kunt de podcast rechtstreeks beluisteren op zowel iTunes, als op Stitcher. Surf hiertoe respectievelijk naar www.reputatiecoaching.nl/itunes of naar www.reputatiecoaching.nl/stitcher.
+In deze podcast noem ik een aantal sites, video’s en verwijs ik naar verschillende artikelen. De links naar al deze content èn de volledige transcriptie van de podcast vind je op [[www.reputatiecoaching.nl/62](/nl/archief/reputatiecoaching/062/)](/nl/archief/reputatiecoaching/062/). En je kunt de podcast rechtstreeks beluisteren op zowel iTunes, als op Stitcher. Surf hiertoe respectievelijk naar www.reputatiecoaching.nl/itunes of naar www.reputatiecoaching.nl/stitcher.
 
 En mocht je de podcast in een andere podcatcher of podcastplayer willen beluisteren, dan kun je je op de feed [feeds.reputatiecoaching.nl/reputatiecoachingpodcast](https://web.archive.org/web/20131205064344/http://feeds.reputatiecoaching.nl/reputatiecoachingpodcast) abonneren. Al deze links vind je ook in de show notes van deze podcast, alsmede op de website.
 
@@ -147,7 +147,7 @@ Natuurlijk blijf ik de mogelijkheid bieden, om vanaf de transcriptie van elke po
 
 Ik zou bijvoorbeeld ook een DVD kunnen samenstellen met daarop alle podcasts van een jaar, tezamen met PDF’s met de transcriptie van elke aflevering. Deze DVD zou dan tegen geringe vergoeding online te koop zijn.
 
-Graag hoor/lees ik wat jij hiervan vindt en welke ideeën jij hierover hebt. Laat het me weten onderaan de show notes van deze podcast, die je online kunt vinden op [www.reputatiecoaching.nl/62](/nl/archief/reputatiecoaching/062/).
+Graag hoor/lees ik wat jij hiervan vindt en welke ideeën jij hierover hebt. Laat het me weten onderaan de show notes van deze podcast, die je online kunt vinden op [[www.reputatiecoaching.nl/62](/nl/archief/reputatiecoaching/062/)](/nl/archief/reputatiecoaching/062/).
 
 Het spreekt voor zich dat ik je laat weten hoe ik dit probleem ga tacklen, zodra ik de oplossing heb bepaald. Ik heb gewoon nog even wat tijd en vooral jouw feedback nodig om de meest vriendelijke manier te vinden.
 
@@ -157,7 +157,7 @@ Het werd al lange tijd verwacht: de introductie van de Google Carrousel in ander
 
 Als je nog geen idee hebt, hoe de Google Carrousel er uitziet, dan moet je maar eens op Google.com in het Engels zoeken. Dat doe je, door bijvoorbeeld de regel in je adresbalk in te vullen, die ik in de show notes heb staan. Dit is een soort van workaround, om in de Amerikaanse resultaten van Google te zoeken, waardoor in een aantal gevallen de Carrousel wordt vertoond.
 
-Dan zie je een scherm dat lijkt op de screenshot die ik heb opgenomen in de transcriptie, op [www.reputatiecoaching.nl/62](/nl/archief/reputatiecoaching/062/):
+Dan zie je een scherm dat lijkt op de screenshot die ik heb opgenomen in de transcriptie, op [[www.reputatiecoaching.nl/62](/nl/archief/reputatiecoaching/062/)](/nl/archief/reputatiecoaching/062/):
 
 [[Historische afbeelding: Google Carrousel voor Hotels Amsterdam](https://lh6.googleusercontent.com/-pdSI043OEpo/Uu7WpSutLjI/AAAAAAAAAYU/SMR8r8Lgibw/w1181-no/20140202-Carrousel-Hotels-Amsterdam.png)](https://lh6.googleusercontent.com/-pdSI043OEpo/Uu7WpSutLjI/AAAAAAAAAYU/SMR8r8Lgibw/w1181-no/20140202-Carrousel-Hotels-Amsterdam.png)
 

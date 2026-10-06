@@ -154,7 +154,7 @@ Bron: [StatCounter Global Stats - Browser Market Share](http://gs.statcounter.co
 
 *Als je een andere vraag of een ander probleem hebt met betrekking tot je online reputatie, stuur dan een mailtje naar [podcast@reputatiecoaching.nl](mailto:podcast@reputatiecoaching.nl) of spreek een boodschap in op de ReputatieCoaching Hotline, op: 084 - 883 15 56. Mogelijk behandel ik je vraag of probleem dan in een artikel of in de podcast.*
 
-*Als jij wat hebt aan de informatie en je vind het leuk om naar de podcast te luisteren, dan kun je een bericht achterlaten op onze Facebookpagina, op: www.reputatiecoaching.nl/facebook of op onze Google+ pagina, op: www.reputatiecoaching.nl/gplus (dat is dus g-p-l-u-s). Geef een “Like” of “+1”, waardoor je laat weten dat je de content op prijs stelt.*
+*Als jij wat hebt aan de informatie en je vind het leuk om naar de podcast te luisteren, dan kun je een bericht achterlaten op onze Facebookpagina, op: [www.reputatiecoaching.nl/facebook](https://www.facebook.com/reputatiecoaching/) of op onze Google+ pagina, op: [www.reputatiecoaching.nl/gplus](https://www.google.com/maps?cid=4978892197645719955) (dat is dus g-p-l-u-s). Geef een “Like” of “+1”, waardoor je laat weten dat je de content op prijs stelt.*
 
 *Een alternatief: ga vandaag nog naar iTunes en maak een account aan, als je die nog niet hebt. Beoordeel dan deze podcast op iTunes en stuur een berichtje naar [podcast@reputatiecoaching.nl](mailto:podcast@reputatiecoaching.nl), dat je een recensie hebt gegeven. Zit je achter je computer en heb je Twitter of Tweetdeck of iets dergelijks geopend, stuur dan een tweet met je mening met hashtag “repcoach”, dus #repcoach erbij.*
 
