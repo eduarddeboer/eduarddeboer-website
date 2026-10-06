@@ -3,6 +3,7 @@ title: '153: Podcast nieuwe stijl! Podcast binnenkort op Google Play Music?! Nie
 date: '2015-11-05T07:30:40+00:00'
 description: 'De podcast van vandaag is een experiment: na meer dan 150 afleveringen verander ik eens van stijl! Voorheen werkte ik de podcast letterlijk uit, maar deze aflevering is voor het eerst free format! In zekere zin dan. Want ter voorbereiding van de show zoek ik een aantal onderwerpen die ik met je wil delen en daar schrijf ik dan wat bullets voor op. Aan de hand daarvan vertel ik nu mijn verhaal.'
 episode: 153
+kgRef: podcast_episode/reputatiecoaching_153
 historical: true
 archivePeriod: 2012–2016
 transcriptStatus: shownotes
@@ -49,7 +50,7 @@ Hieronder een samenvatting van de onderwerpen die in deze podcast aan bod komen:
     11. **Google Maps op iOS stelt vragen over lokale restaurants** – Ik was het nog niet eerder tegengekomen, maar opeens kreeg ik allerhande vragen over restaurants van Google.
 ```
 
-\*\* [Vragen over lokale restaurants in Google Maps op iOS](https://www.reputatiecoaching.nl//www.slideshare.net/ReputatieCoaching/vragen-over-lokale-restaurants-in-google-maps-op-ios) \*\* from **[Eduard de Boer](https://www.reputatiecoaching.nl//www.slideshare.net/ReputatieCoaching)**
+\*\* [Vragen over lokale restaurants in Google Maps op iOS](https://web.archive.org/web/20160314212738/http://www.slideshare.net/ReputatieCoaching/vragen-over-lokale-restaurants-in-google-maps-op-ios) \*\* from **[Eduard de Boer](https://web.archive.org/web/20160322214551/http://www.slideshare.net:80/ReputatieCoaching/)**
 
 **Hoe vond je dit format? Mis je eigenlijk de volledige transcriptie?
 Laat het me weten onderaan de show notes van deze podcast.**
@@ -57,12 +58,12 @@ Laat het me weten onderaan de show notes van deze podcast.**
 Links naar content die in deze podcast aan bod komt:
 
 ```
-    * [ReputatieCoaching Podcast in iTunes](https://www.reputatiecoaching.nl/itunes)
-    * [ReputatieCoaching Podcast op Stitcher](https://www.reputatiecoaching.nl/stitcher)
+    * ReputatieCoaching Podcast in iTunes
+    * ReputatieCoaching Podcast op Stitcher
     * [ReputatieCoaching Podcast op TuneIn Radio](http://tunein.com/radio/ReputatieCoaching-Podcast-p655084/)
-    * [ReputatieCoaching Podcast RSS-feed](https://feeds.reputatiecoaching.nl/ReputatieCoachingPodcast)
+    * [ReputatieCoaching Podcast RSS-feed](https://web.archive.org/web/20151006093045/http://feeds.reputatiecoaching.nl:80/ReputatieCoachingPodcast)
     * [Aanmelden van je podcast bij Google Play Music](http://g.co/podcastportal)
-    * [Google Beleid ten aanzien van reviews en foto’s](https://support.google.com/business/answer/2622994?rd=2&hl=nl)
-    * “[Onderzoek naar taalgebruik webcareteams](http://www.coosto.com/nl/inzichten/blog/onderzoek-naar-taalgebruik-webcareteams)” (Coosto, 14 oktober 2015)
-    * “[Helft webcare is besloten, Twitter & Facebook nek-aan-nek](http://www.coosto.com/nl/inzichten/blog/helft-webcare-is-besloten-twitter-facebook-nek-aan-nek)” (Coosto, 19 oktober 2015)
+    * Google Beleid ten aanzien van reviews en foto’s
+    * “Onderzoek naar taalgebruik webcareteams” (Coosto, 14 oktober 2015)
+    * “Helft webcare is besloten, Twitter & Facebook nek-aan-nek” (Coosto, 19 oktober 2015)
 ```

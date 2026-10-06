@@ -3,6 +3,7 @@ title: '79: Facebook malware in actie, YouTube krijgt concurrent, tooltip over v
 date: '2014-06-02T06:30:33+00:00'
 description: We zijn bijna halverwege het jaar, dus over zo’n 3 weken begint alweer de zomer. Na een periode van veel regen, is het nu gelukkig beter weer. En dat nodigt uit tot meer wandelen met de honden, dus de afgelopen dagen heb ik weer de nodige kilometers te voet afgelegd over de Veluwe. Oh sorry! Je hebt je niet op de podcast geabonneerd om te horen over mijn wandelingen met de honden.
 episode: 79
+kgRef: podcast_episode/reputatiecoaching_079
 historical: true
 archivePeriod: 2012–2016
 transcriptStatus: full
@@ -26,7 +27,7 @@ We zijn bijna halverwege het jaar, dus over zo’n 3 weken begint alweer de zome
 
 **Oh sorry! Je hebt je niet op de podcast geabonneerd om te horen over mijn wandelingen met de honden. Dus, over op de onderwerpen voor vandaag. Allereerst spotte ik afgelopen week Facebook walware in actie op de tijdlijn van twee goede vriendinnen en kreeg een garage in mijn omgeving een erg negatieve review op Google+. Daarop stelde men mij de vraag, wat hieraan kon worden gedaan. Met die onderwerpen begin ik zo.**
 
-**Verder heb ik nieuws over van Google, dat inmiddels een webformulier heeft gepubliceerd, waar je URLs kunt aanmelden, die je verwijderd wilt zien uit de zoekresultaten. Vorige week had ik het hier al over, over [de uitspraak van het Europese Hof, waarbij inwoners van de EU het recht kregen om data uit de zoekmachines te laten verwijderen](https://www.reputatiecoaching.nl/78/).**
+**Verder heb ik nieuws over van Google, dat inmiddels een webformulier heeft gepubliceerd, waar je URLs kunt aanmelden, die je verwijderd wilt zien uit de zoekresultaten. Vorige week had ik het hier al over, over [de uitspraak van het Europese Hof, waarbij inwoners van de EU het recht kregen om data uit de zoekmachines te laten verwijderen](https://web.archive.org/web/20150312094309/http://www.reputatiecoaching.nl/78/).**
 
 **YouTube krijgt er een concurrent bij… Althans, als het aan Yahoo ligt. Want deze laatste wil komende zomer een concurrent van YouTube lanceren. Binnenkort heb je overigens geen tolk meer nodig als je met iemand wilt communiceren, terwijl je de taal van je gesprekspartner niet machtig bent, als het aan Microsoft ligt, althans.**
 
@@ -36,11 +37,11 @@ Hallo en hartelijk welkom bij deze aflevering van de ReputatieCoaching Podcast. 
 
 Als persoon kun je met de diverse tips aan de slag om bijvoorbeeld je online reputatie als gerechtsdeurwaarder, stedenbouwkundige, huidtherapeut, bartender, etalage ontwerper of wat dan ook te verbeteren.
 
-De podcast en alle gerelateerde content kun je vinden op [www.reputatiecoaching.nl/79](https://www.reputatiecoaching.nl/79/). Daar vind je niet alleen de tekst, maar ook video’s waar ik het in deze uitzending over heb, alsmede afbeeldingen, links enzovoorts. Bovendien is de podcast te beluisteren in [iTunes](https://www.reputatiecoaching.nl/itunes) en op [Stitcher](https://www.reputatiecoaching.nl/stitcher). Daar kun je je dus ook abonneren op de wekelijkse podcast. Veel mensen vinden het ideaal om de wekelijkse afleveringen van de podcast op hun gemak te beluisteren, terwijl ze autorijden.
+De podcast en alle gerelateerde content kun je vinden op [www.reputatiecoaching.nl/79](/nl/archief/reputatiecoaching/079/). Daar vind je niet alleen de tekst, maar ook video’s waar ik het in deze uitzending over heb, alsmede afbeeldingen, links enzovoorts. Bovendien is de podcast te beluisteren in iTunes en op Stitcher. Daar kun je je dus ook abonneren op de wekelijkse podcast. Veel mensen vinden het ideaal om de wekelijkse afleveringen van de podcast op hun gemak te beluisteren, terwijl ze autorijden.
 
 ## Terugblik podcast 78
 
-Eerst even een korte terugblik naar de podcast van vorige week, [podcast 78](https://www.reputatiecoaching.nl/78/). Een belangrijke ontwikkeling die ik daarin noemde, was volgens mij wel dat Yelp gaat beginnen met video reviews: allereerst voor de Elite Yelpies, maar later ook voor de overige Yelp-gebruikers.
+Eerst even een korte terugblik naar de podcast van vorige week, [podcast 78](https://web.archive.org/web/20150312094309/http://www.reputatiecoaching.nl/78/). Een belangrijke ontwikkeling die ik daarin noemde, was volgens mij wel dat Yelp gaat beginnen met video reviews: allereerst voor de Elite Yelpies, maar later ook voor de overige Yelp-gebruikers.
 
 Video heeft natuurlijk de toekomst, als je de toekomstvoorspellers mag geloven. Zelf ben ik ook die mening toegedaan. Want mensen willen steeds meer content consumeren, in zo kort mogelijke tijd. Dus als men met behulp van beeld en geluid (ofwel: video) meer content in kortere tijd tot zich kan nemen, zal men dat kiezen.
 
@@ -94,13 +95,13 @@ Wat dan volgens mij de enige mogelijkheid is die nog overblijft, het overstemmen
 
 ## “Het Europese recht om vergeten te worden”
 
-Als individu heb je het sinds een week of twee een stuk gemakkelijker met je online reputatiemanagement. Vorige week vertelde ik je in [podcast 78](https://www.reputatiecoaching.nl/nieuwsbrief/), dat alle inwoners van de EU sinds die tijd een nieuw recht hebben, namelijk het recht om “vergeten te worden door de zoekmachines”.
+Als individu heb je het sinds een week of twee een stuk gemakkelijker met je online reputatiemanagement. Vorige week vertelde ik je in [podcast 78](https://web.archive.org/web/20140525211114/http://www.reputatiecoaching.nl:80/nieuwsbrief/), dat alle inwoners van de EU sinds die tijd een nieuw recht hebben, namelijk het recht om “vergeten te worden door de zoekmachines”.
 
 Dit houdt in dat je bij de zoekmachines een verzoek kunt indienen om bepaalde pagina’s uit de zoekresultaten te verwijderen.
 
 Let op: dit houdt niet in dat de content van Internet verdwijnt! Het verdwijnt pas als het van alle websites is verwijderd. Deze bepaling in de EU zorgt er alleen voor, dat de data niet meer zo gemakkelijk kan worden gevonden, als voorheen. Het beperkt dus alleen de vindbaarheid en wist je sporen dus niet uit. Laat dat duidelijk zijn!
 
-Google heeft inmiddels een formulier live staan, waar je [pagina’s kunt aanmelden, die je graag verwijderd ziet](https://support.google.com/legal/contact/lr_eudpa?product=websearch&hl=nl). In de show notes heb ik een link opgenomen naar dit formulier.
+Google heeft inmiddels een formulier live staan, waar je [pagina’s kunt aanmelden, die je graag verwijderd ziet](https://web.archive.org/web/20140902081044/https://support.google.com/legal/contact/lr_eudpa?product=websearch&hl=nl). In de show notes heb ik een link opgenomen naar dit formulier.
 
 Op het formulier moet je natuurlijk de URLs invullen, die je uit de zoekresultaten verwijderd wilt zien. Natuurlijk moet je een verklaring geveven *waarom* je wilt dat ze worden verwijderd. Verder moet je natuurlijk je naam en e-mailadres geven en een geldig en leesbaar legitimatiebewijs meesturen.
 
@@ -126,11 +127,11 @@ De meeste verzoeken kwamen toen uit Duitsland (40%), gevolgd door Spanje (14%), 
 
 Tussen de nieuwsberichten door wil ik je weer eens een tooltip geven. Zoals je je mogelijk nog kunt herinneren heb ik een aantal podcasts geleden verteld dat ik je zou vertellen over leuke, handige tools die ik af en toe tegenkom.
 
-Nou, ik heb er weer eentje voor je, te weten: [compressor.io](http://compressor.io). Deze tool werkt weer wat anders dan [smush.it](https://www.reputatiecoaching.nl/74/), waar ik je in podcast 74 over vertelde.
+Nou, ik heb er weer eentje voor je, te weten: [compressor.io](http://compressor.io). Deze tool werkt weer wat anders dan [smush.it](https://web.archive.org/web/20150312094201/http://www.reputatiecoaching.nl/74/), waar ik je in podcast 74 over vertelde.
 
 In principe doet compressor.io hetzelfde als smush.it, namelijk het verkleinen van de bestandsgrootte van afbeeldingen. De dienst is gratis, evenals smush.it. Het leuke is echter, dat compressor.io niet alleen .JPG, .PNG en .GIF bestanden verder kan comprimeren, maar ook SVG, het Scalable Vector Graphics formaat. Nu gebruiken niet bijster veel mensen SVG, maar het is handig om te weten.
 
-In de show notes, die je overigens kunt vinden op [www.reputatiecoaching.nl/79](https://www.reputatiecoaching.nl/79/) heb ik een screenshot opgenomen van de website van compressor.io. Toen ik de initiële versie van deze screenshot maakte, was het bestand afgerond 419 KiloByte:
+In de show notes, die je overigens kunt vinden op [www.reputatiecoaching.nl/79](/nl/archief/reputatiecoaching/079/) heb ik een screenshot opgenomen van de website van compressor.io. Toen ik de initiële versie van deze screenshot maakte, was het bestand afgerond 419 KiloByte:
 
 [![Compressor.io website](20140602-compressor.png)](https://lh5.googleusercontent.com/-ykRIMWEm2gI/U4tp56JxyWI/AAAAAAAAA1E/swtNO5U1z-I/w1081-h697-no/20140602-compressor.png)
 
@@ -180,7 +181,7 @@ Toch heeft Microsoft dit eerder deze week gedemonstreerd. De demonstratievideo h
 
 Volgens de video spreekt Gurdeep Pall geen Duits, maar ik moet zeggen dat de over en weer vertaling toch al wel erg goed is. Waar Diana Heinrichs, de Duitse collega heel erg goed articuleert en rustig spreekt, spreekt Gurdeep snel Engels. Toch gaat het aardig goed, qua vertaling. Als ik het zo beluister dan lijkt het voor mij dat de essentie van de verhalen wel duidelijk wordt in de andere taal.
 
-Misschien vraag je je af, waarom ik dat hier in deze podcast vertel. Nou, volgens mij hebben ook dit soort ontwikkelingen enorme gevolgen voor marketing, zodra ze nog verder zijn verbeterd. Welke gevolgen kan ik niet zo 1–2–3 overzien, anders dan dat je simpelweg een reclame niet meer door mensen hoeft te laten nasynchroniseren, omdat dat nu geautomatiseerd kan. Heb jij ideeën? Laat me ze weten onderaan de show notes, op [www.reputatiecoaching.nl/79](https://www.reputatiecoaching.nl/79/).
+Misschien vraag je je af, waarom ik dat hier in deze podcast vertel. Nou, volgens mij hebben ook dit soort ontwikkelingen enorme gevolgen voor marketing, zodra ze nog verder zijn verbeterd. Welke gevolgen kan ik niet zo 1–2–3 overzien, anders dan dat je simpelweg een reclame niet meer door mensen hoeft te laten nasynchroniseren, omdat dat nu geautomatiseerd kan. Heb jij ideeën? Laat me ze weten onderaan de show notes, op [www.reputatiecoaching.nl/79](/nl/archief/reputatiecoaching/079/).
 
 ## ACER C720P Chromebook
 
@@ -260,7 +261,7 @@ Met deze update over Panda 4.0 kom ik aan het einde van deze podcast. Het waren 
 
 Als je de podcast leuk vindt en je wilt nog meer op de hooge blijven, volg me dan ook op Twitter, via [@reputatiecoach1](https://twitter.com/reputatiecoach1).
 
-Heb je inderdaad wat aan alle informatie die ik met je deel, help mij dan met het verder verbeteren en promoten van deze podcast. Surf daarvoor naar [iTunes](https://www.reputatiecoaching.nl/itunes) of [Stitcher](https://www.reputatiecoaching.nl/stitcher), geef de podcast een sterrenbeoordeling en laat ook je reactie achter. Door de podcast te beoordelen op iTunes en/of Stitcher breng je de podcast onder de aandacht van een breder publiek.
+Heb je inderdaad wat aan alle informatie die ik met je deel, help mij dan met het verder verbeteren en promoten van deze podcast. Surf daarvoor naar iTunes of Stitcher, geef de podcast een sterrenbeoordeling en laat ook je reactie achter. Door de podcast te beoordelen op iTunes en/of Stitcher breng je de podcast onder de aandacht van een breder publiek.
 
 Je kunt me verder helpen, door de podcast aan te bevelen bij vrienden of collega’s, waarvan je denkt dat ze er hun voordeel mee kunnen doen, of door ’m te delen op Twitter, like’n en delen op Facebook of een “+1” te geven op Google+.
 
@@ -268,7 +269,7 @@ En vergeet niet: ik ben hier om je te helpen! Als je een vraag of een probleem h
 
 Als je dat te lastig vindt, of als je de podcast beluistert terwijl je in de auto zit en je hebt acuut een vraag, spreek dan een boodschap in op de ReputatieCoaching Hotline, op nummer: 084 - 883 15 56. Mogelijk behandel ik je vraag of probleem dan in een artikel of in de podcast.
 
-En je kunt ook rechtstreeks op de website een voicemail achterlaten, door op de tab aan de rechterkant van elke pagina te klikken, en je bericht in te spreken. Dit was [ReputatieCoaching Podcast aflevering 79](https://www.reputatiecoaching.nl/79/) en mijn naam is [Eduard de Boer](http://nl.linkedin.com/in/eduarddeboer/nl).
+En je kunt ook rechtstreeks op de website een voicemail achterlaten, door op de tab aan de rechterkant van elke pagina te klikken, en je bericht in te spreken. Dit was [ReputatieCoaching Podcast aflevering 79](/nl/archief/reputatiecoaching/079/) en mijn naam is [Eduard de Boer](http://nl.linkedin.com/in/eduarddeboer/nl).
 
 Ik wens je de komende week weer succes met het werken aan je reputatie, zodat je meteen je reputatie voor jou kunt laten werken!
 
@@ -279,7 +280,7 @@ Doei!
 Links naar content die in deze podcast aan bod komt:
 
 ```
-  * [ReputatieCoaching Podcast in iTunes](https://www.reputatiecoaching.nl/itunes)
-  * [ReputatieCoaching Podcast op Stitcher](https://www.reputatiecoaching.nl/stitcher)
-  * [ReputatieCoaching Podcast RSS-feed](https://feeds.reputatiecoaching.nl/ReputatieCoachingPodcast)
+  * ReputatieCoaching Podcast in iTunes
+  * ReputatieCoaching Podcast op Stitcher
+  * [ReputatieCoaching Podcast RSS-feed](https://web.archive.org/web/20140803035048/http://feeds.reputatiecoaching.nl:80/ReputatieCoachingPodcast)
 ```

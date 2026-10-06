@@ -3,6 +3,7 @@ title: Podcast Aflevering 20 (13-04-2013)
 date: '2013-04-13T18:00:50+00:00'
 description: 'ReputatieCoaching Podcast aflevering 20! Spectaculair nieuws deze week… Eindelijk is het dan zover: de langverwachte Facebook Home is uit! Dus daarover straks meer. En vorige week vertelde ik je over Jeanet Bathoorn die een leuk artikel had gepubliceerd op FrankWatching. Dat artikel kreeg nog een staartje… Verder heb ik een update over het belang van reviews. De podcast van vandaag sluit ik af met een leuk interview met een uitermate enthousiaste en gedreven vrouwelijke gast.'
 episode: 20
+kgRef: podcast_episode/reputatiecoaching_020
 historical: true
 archivePeriod: 2012–2016
 transcriptStatus: full
@@ -42,7 +43,7 @@ Spectaculair nieuws deze week… Eindelijk is het dan zover: de langverwachte Fa
 
 *Vergeet niet: Facebook kan nu nog meer gegevens registreren over wat mensen like’n en vooral WAAR ze dat doen op dat moment. Dit vergroot hun kansen om zichzelf later echt als lokale zoekmachine te profileren.*
 
-*Vorige week schreef ik al over het boek van Jeanet Bathoorn, naar aanleiding van het artikel over de “[5 A’s voor werkzoekenden](https://www.frankwatching.com/archive/2013/04/04/werkvinders-zo-word-je-een-online-persoonlijkheid/)”, dat ze op FrankWatching had gepubliceerd. Nou, het bleek dat op een andere site, te weten [recruitmentmatters.nl](http://recruitmentmatters.nl/2013/04/05/werkloos-mooi-dan-ga-ik-je-nog-even-rotter-laten-voelen/) er bijkant een ware [hetze tegen Jeanet](http://www.jeanetbathoorn.nl/2013/04/jeetje-een-online-fittie/) in het algemeen en tegen het artikel in het bijzonder ontstond.*
+*Vorige week schreef ik al over het boek van Jeanet Bathoorn, naar aanleiding van het artikel over de “[5 A’s voor werkzoekenden](https://www.frankwatching.com/archive/2013/04/04/werkvinders-zo-word-je-een-online-persoonlijkheid/)”, dat ze op FrankWatching had gepubliceerd. Nou, het bleek dat op een andere site, te weten [recruitmentmatters.nl](http://recruitmentmatters.nl/2013/04/05/werkloos-mooi-dan-ga-ik-je-nog-even-rotter-laten-voelen/) er bijkant een ware [hetze tegen Jeanet](https://web.archive.org/web/20130502020519/http://www.jeanetbathoorn.nl/2013/04/jeetje-een-online-fittie/) in het algemeen en tegen het artikel in het bijzonder ontstond.*
 
 *Als buitenstaander vond ik het wel interessant om te zien dat de persoon die de hetze initieerde en er vol tegenin ging, eigenlijk alle vijf de A’s goed had begrepen. Ik heb dit ook op haar weblog gepost. Daar schreef ik:*
 
@@ -88,7 +89,7 @@ Zowel op de website, als in de podcast heb ik al een aantal keren gerefereerd aa
 
 *6. Zelf ben ik sinds maart 2012 ingeschreven bij Yelp, omdat ik er toen min of meer toevallig in figuurlijke zin tegenaan liep. Maar het is pas sinds juli 2012, dat ik ben begonnen met het posten van reviews. Misschien ben ik gewoon traag van begrip, maar ik vroeg me lange tijd af, wat het nut was om al die ervaringen te posten voor de wereld.*
 
-*Inmiddels ben ik driekwart jaar verder en ik heb wat dat betreft het licht gezien. Ik post zelf nu frequent reviews en foto’s van bedrijven die ik bezoek. Ook adviseer ik als ReputatieCoach iedereen om zich [aan te melden op Yelp](https://www.reputatiecoaching.nl/bedrijf-toevoegen-op-yelp-instructievideo/), zowel bedrijven voor hun bedrijfsvermelding en vrienden en bekenden, om reviews te posten. Dus zo snel kunnen dingen gaan.*
+*Inmiddels ben ik driekwart jaar verder en ik heb wat dat betreft het licht gezien. Ik post zelf nu frequent reviews en foto’s van bedrijven die ik bezoek. Ook adviseer ik als ReputatieCoach iedereen om zich [aan te melden op Yelp](https://web.archive.org/web/20131117173632/http://www.reputatiecoaching.nl:80/bedrijf-toevoegen-op-yelp-instructievideo/), zowel bedrijven voor hun bedrijfsvermelding en vrienden en bekenden, om reviews te posten. Dus zo snel kunnen dingen gaan.*
 
 *Maar wat ik me afvraag: wat doet Yelp actief aan marketing voor het werven van nieuwe Yelp’ers? En groeit Yelp naar wens?*
 
@@ -108,13 +109,13 @@ Zowel op de website, als in de podcast heb ik al een aantal keren gerefereerd aa
 
 *Dit was best een lang interview, daarom bewaar ik een aantal tips die ik deze week weer links en rechts ontdekte, voor de volgende podcast.*
 
-*Nu ik het toch even over de podcast heb: als je deze podcast leuk vindt, laat het me dan weten. Vertel erover aan je familie, vrienden of collega’s of laat een review achter op iTunes. Ook stel ik het op prijs als je een bericht achterlaat op onze Facebookpagina, op: [www.reputatiecoaching.nl/facebook](https://www.reputatiecoaching.nl/facebook). Like dit artikel, of klik op “+1” onderaan dit artikel. Je mag ook een bericht achterlaten op de Google+ pagina. De Google+ pagina kun je vinden op: [www.reputatiecoaching.nl/gplus](https://www.reputatiecoaching.nl/gplus) (dat is “g-p-l-u-s”).*
+*Nu ik het toch even over de podcast heb: als je deze podcast leuk vindt, laat het me dan weten. Vertel erover aan je familie, vrienden of collega’s of laat een review achter op iTunes. Ook stel ik het op prijs als je een bericht achterlaat op onze Facebookpagina, op: [www.reputatiecoaching.nl/facebook](https://www.facebook.com/reputatiecoaching/). Like dit artikel, of klik op “+1” onderaan dit artikel. Je mag ook een bericht achterlaten op de Google+ pagina. De Google+ pagina kun je vinden op: [www.reputatiecoaching.nl/gplus](https://www.google.com/maps?cid=4978892197645719955) (dat is “g-p-l-u-s”).*
 
-*Je kunt natuurlijk ook een leuke recensie achterlaten op op mijn LinkedIn-profiel, op: [www.reputatiecoaching.nl/linkedin](https://www.reputatiecoaching.nl/linkedin).*
+*Je kunt natuurlijk ook een leuke recensie achterlaten op op mijn LinkedIn-profiel, op: [www.reputatiecoaching.nl/linkedin](https://www.linkedin.com/in/eduarddeboer/nl).*
 
 *Of post ook simpelweg een reactie, onderaan de transcriptie van deze podcast.*
 
-*Als je opmerkingen hebt over deze podcast, laat die dan op de website onderaan de transcriptie achter. Je kunt de transcriptie van deze podcast snel online vinden door te surfen naar: [www.reputatiecoaching.nl/20/](https://www.reputatiecoaching.nl/20/). Als je ergens een recensie hebt geplaatst, stuur me dan een mailtje zodat ik je recensie kan vermelden in de podcast.*
+*Als je opmerkingen hebt over deze podcast, laat die dan op de website onderaan de transcriptie achter. Je kunt de transcriptie van deze podcast snel online vinden door te surfen naar: [www.reputatiecoaching.nl/20/](https://web.archive.org/web/20150312092617/http://www.reputatiecoaching.nl/20/). Als je ergens een recensie hebt geplaatst, stuur me dan een mailtje zodat ik je recensie kan vermelden in de podcast.*
 
 *Als je een vraag of een probleem hebt met betrekking tot je online reputatie, stuur dan een mailtje naar [podcast@reputatiecoaching.nl](mailto:podcast@reputatiecoaching.nl) of spreek een boodschap in op de ReputatieCoaching Hotline, op: 084 - 883 15 56. Mogelijk behandel ik je vraag of probleem dan in een artikel of in de podcast.*
 

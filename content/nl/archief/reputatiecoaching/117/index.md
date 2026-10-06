@@ -3,6 +3,7 @@ title: '117: Rode waarschuwing in Google voor trage sites! NIEUW: Google+ Bedrij
 date: '2015-02-26T07:30:30+00:00'
 description: Afgelopen weekend zat ik in een prachtig hotel in Monschau dat het belang van reviews echt begrijpt. Tijdens dat weekend heb ik gegeten in een restaurant in Spa, dat nog niet eens een website had. Over tegenstellingen gesproken! Het consistent houden van citations blijft lastig evenals het vinden van nieuwe bestemmingen, waar je citations voor je bedrijf kunt creëren. Vorige week was ik nog een Google Lokale Gids niveau 2 en inmiddels heb ik niveau 3 bereikt.
 episode: 117
+kgRef: podcast_episode/reputatiecoaching_117
 historical: true
 archivePeriod: 2012–2016
 transcriptStatus: full
@@ -28,7 +29,7 @@ Afgelopen weekend zat ik in een prachtig hotel in Monschau dat het belang van re
 
 Hallo en hartelijk welkom bij deze aflevering van de ReputatieCoaching Podcast. Ik ben Eduard de Boer, ReputatieCoach. Dit is dé podcast die jou helpt om meer business te genereren, doordat jouw website beter gevonden wordt, zowel lokaal als landelijk en doordat ik je uitleg hoe je je online reputatie kunt verbeteren. Dit alles helpt je om je bedrijf en jezelf beter op de online kaart te plaatsen.
 
-De podcast kun je vinden op [www.reputatiecoaching.nl/117](https://www.reputatiecoaching.nl/117/). Daar vind je niet alleen de tekst, maar ook video’s waar ik het in deze uitzending over heb, alsmede afbeeldingen, links enzovoorts. Bovendien is de podcast te beluisteren in [iTunes](https://www.reputatiecoaching.nl/itunes), op [Stitcher](https://www.reputatiecoaching.nl/stitcher) en ook op [TuneIn Radio](http://tunein.com/radio/ReputatieCoaching-Podcast-p655084/). Ik raad je aan om je op één van die drie kanalen te abonneren op de podcast, zodat je geen aflevering hoeft te missen!
+De podcast kun je vinden op [www.reputatiecoaching.nl/117](https://web.archive.org/web/20150312091910/http://www.reputatiecoaching.nl/117/). Daar vind je niet alleen de tekst, maar ook video’s waar ik het in deze uitzending over heb, alsmede afbeeldingen, links enzovoorts. Bovendien is de podcast te beluisteren in iTunes, op Stitcher en ook op [TuneIn Radio](http://tunein.com/radio/ReputatieCoaching-Podcast-p655084/). Ik raad je aan om je op één van die drie kanalen te abonneren op de podcast, zodat je geen aflevering hoeft te missen!
 
 Laat ik dan nu overgaan op de onderwerpen voor vandaag…
 
@@ -112,7 +113,7 @@ Tjongejonge, ongelofelijk dat bedrijven dit nog steeds proberen. En zal ik je wa
 
 Als je door dit soort bedrijven wordt gebeld is bijna steevast het verhaal dat het ontzettend helpt bij je ranking in Google, dat hun pagina’s goed scoren in de zoekresultaten, dat ze partner zijn van Google en dergelijke.
 
-Maar ik heb eens een kijkje genomen op de site “onlinebedrijvenzoeker.nl” en gezocht op “fotograaf Leiden”. Toen zag ik onder andere het scherm, zoals ik dat in show notes op [www.reputatiecoaching.nl/117](https://www.reputatiecoaching.nl/117/) heb opgenomen:
+Maar ik heb eens een kijkje genomen op de site “onlinebedrijvenzoeker.nl” en gezocht op “fotograaf Leiden”. Toen zag ik onder andere het scherm, zoals ik dat in show notes op [www.reputatiecoaching.nl/117](https://web.archive.org/web/20150312091910/http://www.reputatiecoaching.nl/117/) heb opgenomen:
 
 [![Onlinebedrijvenzoeker.nl](20150226-online-bedrijvenzoeker.png)](https://lh6.googleusercontent.com/-IKdxvzKx-LY/VO7MYK2z_pI/AAAAAAAABxY/D19bk0Ds6H4/w950-h546-no/20150226-online-bedrijvenzoeker.png)
 
@@ -154,7 +155,7 @@ Ik raad het mensen ook altijd aan om een domeinnaam even te controleren. Zo kun 
 
 Deze paar simpele signalen zetten je toch wel aan het denken… Toch?
 
-Mocht je dit allemaal niet hebben gedaan, maar je als alleen de footer van de factuur aandachtig leest, dan valt je wel iets anders op. Zo leest de footer moeilijk vanwege ontbrekende spaties en is het taalgebruik klungelig en gekunsteld om het officieel te laten lijken. Ik zal je de footer even voorlezen. In de show notes heb ik de tekst letterlijk gekopieerd en geplakt, inclusief de ontbrekende spaties. Kijk het maar eens na op [www.reputatiecoaching.nl/117](https://www.reputatiecoaching.nl/117/):
+Mocht je dit allemaal niet hebben gedaan, maar je als alleen de footer van de factuur aandachtig leest, dan valt je wel iets anders op. Zo leest de footer moeilijk vanwege ontbrekende spaties en is het taalgebruik klungelig en gekunsteld om het officieel te laten lijken. Ik zal je de footer even voorlezen. In de show notes heb ik de tekst letterlijk gekopieerd en geplakt, inclusief de ontbrekende spaties. Kijk het maar eens na op [www.reputatiecoaching.nl/117](https://web.archive.org/web/20150312091910/http://www.reputatiecoaching.nl/117/):
 
 Daaruit blijkt dus wat het bedrijf biedt: het registreren van de .mobi domeinnaam en die doorlussen naar je eigen .nl-domein.
 
@@ -164,7 +165,7 @@ Ik hoop dat ik je hiermee een paar nuttige handvatten heb gegeven waarmee jij in
 
 ## Google+ Mijn bedrijf laat je foto’s beheren!
 
-Sinds een paar dagen biedt Google je in Google+ Mijn Bedrijf de mogelijkheid om foto’s te uploaden in diverse categorieën. Als je inlogt op je zakelijke Google+ pagina, zie je opeens een nieuwe button in de header staan. In de show notes op [www.reputatiecoaching.nl/117](https://www.reputatiecoaching.nl/117/) heb ik daar een afbeelding van opgenomen:
+Sinds een paar dagen biedt Google je in Google+ Mijn Bedrijf de mogelijkheid om foto’s te uploaden in diverse categorieën. Als je inlogt op je zakelijke Google+ pagina, zie je opeens een nieuwe button in de header staan. In de show notes op [www.reputatiecoaching.nl/117](https://web.archive.org/web/20150312091910/http://www.reputatiecoaching.nl/117/) heb ik daar een afbeelding van opgenomen:
 
 [![Nieuwe button in Google+ : Foto’s beheren](20150226-google-plus-fotosbutton.png)](https://lh3.googleusercontent.com/-FcT5pw2y7C8/VO7MWTkH4eI/AAAAAAAABx8/3X5N3YW4i7s/w912-h296-no/20150226-google-plus-fotosbutton.png)
 
@@ -195,13 +196,13 @@ Google waarschuwt al tijden niet voor niets dat je je websites moet optimalisere
 
 Het zat er al een lange tijd aan te komen… Sinds 2010 maakt Google gebruik van PageSpeed voor het ranking algoritme. In welke mate, dat weet natuurlijk alleen Google.
 
-Google gaat nu een stapje verder en waarschuwt je zelfs met een rode tekst als websites traag zijn. In de zoekresultaten in de VS zijn deze tests opgedoken. In de show notes op [www.reputatiecoaching.nl/117](https://www.reputatiecoaching.nl/117/) heb ik een screenshot hiervan opgenomen:
+Google gaat nu een stapje verder en waarschuwt je zelfs met een rode tekst als websites traag zijn. In de zoekresultaten in de VS zijn deze tests opgedoken. In de show notes op [www.reputatiecoaching.nl/117](https://web.archive.org/web/20150312091910/http://www.reputatiecoaching.nl/117/) heb ik een screenshot hiervan opgenomen:
 
 [![Google waarschuwt in mobiele SERPs voor trage sites](google-mobile-slow-label.png)](https://lh6.googleusercontent.com/-q8NvUMaiAFA/VO7MZyBbMpI/AAAAAAAABx0/31UjVuxzewU/w480-h600-no/google-mobile-slow-label.png)
 
 Al zou de weging van de laadtijd van een pagina nog op nul staan in het ranking algoritme, dan is dit duidelijk een signaal voor gebruikers om weg te blijven van de desbetreffende website, omdat die “traag” is.
 
-Wauw! Dit zal duidelijk minder bezoekers opleveren, ook al sta je hoog in de zoekresultaten! Begin dus alvast met het meten en verbeteren van de laadtijd van je pagina’s. Toevallig heb ik daar een tijdje geleden in [podcast 114](https://www.reputatiecoaching.nl/114/) twee instructievideo’s voor gepubliceerd. Kijk die nog naar eens terug.
+Wauw! Dit zal duidelijk minder bezoekers opleveren, ook al sta je hoog in de zoekresultaten! Begin dus alvast met het meten en verbeteren van de laadtijd van je pagina’s. Toevallig heb ik daar een tijdje geleden in [podcast 114](https://web.archive.org/web/20150312095401/http://www.reputatiecoaching.nl/114/) twee instructievideo’s voor gepubliceerd. Kijk die nog naar eens terug.
 
 Ik heb een video van het [meten van de laadtijd van je website met Pingdom](https://www.youtube.com/watch?v=F_SeN1MnErE) en een video van het [meten van de laadtijd van je website met Google PageSpeed Insights](https://www.youtube.com/watch?v=GlmQmNJWMB4). Ik zou beginnen met de tweede en de adviezen gaan implementeren, die Google je geeft. De kans is echter groot dat je daar zelf niet uitkomt. In dat geval raad ik je aan contact op te nemen met je webbouwer.
 
@@ -211,7 +212,7 @@ Als je de podcast leuk vindt en je wilt nog meer op de hoogte blijven, volg me d
 
 Heb je inderdaad wat aan alle informatie die ik met je deel, help mij dan met het verder verbeteren en promoten van deze podcast. Abonneer je op de podcast, zodat je altijd meteen de nieuwste uitzending krijgt voorgeschoteld.
 
-Zoek de podcast op, in [iTunes](https://www.reputatiecoaching.nl/itunes) of [Stitcher](https://www.reputatiecoaching.nl/stitcher), geef de podcast een sterrenbeoordeling en laat ook je reactie achter. Door de podcast te beoordelen op iTunes en/of Stitcher breng je de podcast onder de aandacht van een breder publiek.
+Zoek de podcast op, in iTunes of Stitcher, geef de podcast een sterrenbeoordeling en laat ook je reactie achter. Door de podcast te beoordelen op iTunes en/of Stitcher breng je de podcast onder de aandacht van een breder publiek.
 
 Je kunt me verder helpen, door de podcast aan te bevelen bij vrienden of collega’s, waarvan je denkt dat ze er hun voordeel mee kunnen doen, of door ’m te delen op Twitter, like’n en delen op Facebook of een “+1” te geven op Google+.
 
@@ -219,7 +220,7 @@ En vergeet niet: ik ben hier om je te helpen! Als je een vraag of een probleem h
 
 Als je dat te lastig vindt, of als je de podcast beluistert terwijl je in de auto zit en je hebt acuut een vraag, spreek dan een boodschap in op de ReputatieCoaching Hotline, op nummer: 084 - 883 15 56. Mogelijk behandel ik je vraag of probleem dan in een artikel of in de podcast.
 
-En je kunt ook rechtstreeks op de website een voicemail achterlaten, door op de tab aan de rechterkant van elke pagina te klikken, en je bericht in te spreken. Dit was [ReputatieCoaching Podcast aflevering 117](https://www.reputatiecoaching.nl/117/) en mijn naam is [Eduard de Boer](http://nl.linkedin.com/in/eduarddeboer/nl).
+En je kunt ook rechtstreeks op de website een voicemail achterlaten, door op de tab aan de rechterkant van elke pagina te klikken, en je bericht in te spreken. Dit was [ReputatieCoaching Podcast aflevering 117](https://web.archive.org/web/20150312091910/http://www.reputatiecoaching.nl/117/) en mijn naam is [Eduard de Boer](http://nl.linkedin.com/in/eduarddeboer/nl).
 
 Ik wens je de komende week weer succes met het werken aan je reputatie, zodat je meteen je reputatie voor jou kunt laten werken!
 
@@ -230,10 +231,10 @@ Doei!
 Links naar content die in deze podcast aan bod komt:
 
 ```
-  * [ReputatieCoaching Podcast in iTunes](https://www.reputatiecoaching.nl/itunes)
-  * [ReputatieCoaching Podcast op Stitcher](https://www.reputatiecoaching.nl/stitcher)
+  * ReputatieCoaching Podcast in iTunes
+  * ReputatieCoaching Podcast op Stitcher
   * [ReputatieCoaching Podcast op TuneIn Radio](http://tunein.com/radio/ReputatieCoaching-Podcast-p655084/)
-  * [ReputatieCoaching Podcast RSS-feed](https://feeds.reputatiecoaching.nl/ReputatieCoachingPodcast)
+  * [ReputatieCoaching Podcast RSS-feed](https://web.archive.org/web/20150228235938/http://feeds.reputatiecoaching.nl:80/ReputatieCoachingPodcast)
   * [Stichting Internet Domeinregistratie Nederland](https://www.sidn.nl)
   * [Pingdom : Laadtijd website meten](https://www.youtube.com/watch?v=F_SeN1MnErE)
   * Google PageSpeed Insights: Laadtijd website meten

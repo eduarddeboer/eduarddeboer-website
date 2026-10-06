@@ -3,6 +3,7 @@ title: '51: Congres Contentmarketing (#congrescm13), VGZ adverteert voor reviews
 date: '2013-11-18T06:30:58+00:00'
 description: '**Hallo, hallo en leuk dat je er bij bent, bij deze 51e aflevering van de ReputatieCoaching Podcast. Mijn naam is Eduard de Boer, ook bekend als de ReputatieCoach. Dit is dé podcast die je moet beluisteren als je meer wilt leren over online reputatie en reputatiemanagement en ook als je wilt werken aan je online reputatie en je online vindbaarheid wilt verbeteren. Dit alles kan je helpen om jezelf beter op de online kaart te plaatsen, waardoor je als bedrijf meer business kunt doen.'
 episode: 51
+kgRef: podcast_episode/reputatiecoaching_051
 historical: true
 archivePeriod: 2012–2016
 transcriptStatus: full
@@ -21,7 +22,7 @@ showTaxonomies: false
 
 **Transcriptiestatus:** Volledige transcriptie uit het oorspronkelijke archief.
 
-\*\*[*Historische afbeelding niet beschikbaar: ReputatieCoaching Podcast*](https://www.reputatiecoaching.nl/wp-content/uploads/2012/12/Reputatie-Coaching-Podcast-logo-200x200.jpg)Hallo, hallo en leuk dat je er bij bent, bij deze 51e aflevering van de ReputatieCoaching Podcast. Mijn naam is Eduard de Boer, ook bekend als de ReputatieCoach. Dit is dé podcast die je moet beluisteren als je meer wilt leren over online reputatie en reputatiemanagement en ook als je wilt werken aan je online reputatie en je online vindbaarheid wilt verbeteren. Dit alles kan je helpen om jezelf beter op de online kaart te plaatsen, waardoor je als bedrijf meer business kunt doen.\*\*
+\*\*[*Historische afbeelding niet beschikbaar: ReputatieCoaching Podcast*](https://web.archive.org/web/20131010084553/http://www.reputatiecoaching.nl/wp-content/uploads/2012/12/Reputatie-Coaching-Podcast-logo-200x200.jpg)Hallo, hallo en leuk dat je er bij bent, bij deze 51e aflevering van de ReputatieCoaching Podcast. Mijn naam is Eduard de Boer, ook bekend als de ReputatieCoach. Dit is dé podcast die je moet beluisteren als je meer wilt leren over online reputatie en reputatiemanagement en ook als je wilt werken aan je online reputatie en je online vindbaarheid wilt verbeteren. Dit alles kan je helpen om jezelf beter op de online kaart te plaatsen, waardoor je als bedrijf meer business kunt doen.\*\*
 
 **Als persoon kun je met de diverse tips aan de slag om bijvoorbeeld je online reputatie als bergingsduiker, circusacrobaat, filosoof, kok, gezagvoerder of wat dan ook te verbeteren.**
 
@@ -38,11 +39,11 @@ In eerdere podcasts heb ik het al een paar keer gehad over “Gefilterde reviews
 
 63% van de iPhone gebruikers maakt gebruik van Apple Kaarten c.q. Apple Maps. Hierdoor neemt de populariteit van Google Maps af. Vandaag heb ik een video voor je van Matt Cutts, waarin hij zegt dat je het beste onder je eigen naam reacties op weblogartikelen kunt posten. Afgelopen week werd in het Mediaplaza in de Jaarbeurs het Congres Content Marketing 2013 gehouden, waar ik je ook één en ander over te vertellen heb en de verzekeraar VGZ adverteert zelfs op televisie voor het feit dat zij online reviews verzamelt.
 
-Als de topics die ik zojuist opsomde je aanspreken, blijf dan luisteren. Al zit er maar één interessant puntje voor je bij: blijf dan in figuurlijke zin aan de lijn, want wie weet steek je van de overige onderwerpen ook nog iets op. Als er niets bijzit wat je aanspreekt, schakel dan de podcast uit en laat me zo snel mogelijk weten wat je dan wel wilt horen. Je kunt me dit laten weten onderaan de show notes, op [www.reputatiecoaching.nl/51/](https://www.reputatiecoaching.nl/51/).
+Als de topics die ik zojuist opsomde je aanspreken, blijf dan luisteren. Al zit er maar één interessant puntje voor je bij: blijf dan in figuurlijke zin aan de lijn, want wie weet steek je van de overige onderwerpen ook nog iets op. Als er niets bijzit wat je aanspreekt, schakel dan de podcast uit en laat me zo snel mogelijk weten wat je dan wel wilt horen. Je kunt me dit laten weten onderaan de show notes, op [www.reputatiecoaching.nl/51/](https://web.archive.org/web/20131215165811/http://www.reputatiecoaching.nl/51/).
 
 ## Vragen van afgelopen week
 
-In de [podcast van vorige week](https://www.reputatiecoaching.nl/50/) heb ik een deel van de vragen van **Frank Grootaarts** uit Nijmegen beantwoord. Ik heb toen ook toegezegd binnenkort nog een artikel te schrijven over hoe je sterretjes bij je vermeldingen krijg in Google, dus dat hou je nog tegoed. Afgelopen week had ik Frank ook aan de telefoon. Hij ziet helemaal het nut van een bedrijfspanorama voor zijn zaak en wil er graag één laten maken.
+In de [podcast van vorige week](https://web.archive.org/web/20131214103543/http://www.reputatiecoaching.nl/50/) heb ik een deel van de vragen van **Frank Grootaarts** uit Nijmegen beantwoord. Ik heb toen ook toegezegd binnenkort nog een artikel te schrijven over hoe je sterretjes bij je vermeldingen krijg in Google, dus dat hou je nog tegoed. Afgelopen week had ik Frank ook aan de telefoon. Hij ziet helemaal het nut van een bedrijfspanorama voor zijn zaak en wil er graag één laten maken.
 
 Frank vroeg ook hoe het kwam dat de reviews die hij had verzameld op Yelp, niet meer werden vertoond. Deze vraag beantwoord ik zometeen, als ik het over de vernieuwingen van Yelp heb.
 
@@ -52,15 +53,15 @@ Sinds WordPress 3.7 is het updaten van WordPress zelf een stuk eenvoudiger gewor
 
 Ik zie alleen nog niet dat plugins automatisch worden bijgewerkt. Ik heb inmiddels hiervoor wel een plugin gevonden, dus die heb ik meteen op een minder populaire website geïnstalleerd om te zien of die goed werkt. Binnenkort vertel ik je mijn bevindingen hiermee. Voor jouw informatie, de plugin heet “Advanced Automatic Updates”. Nogmaals, ik weet dus niet of die z’n werk goed doet, dus ik ga het eerst eens uitproberen.
 
-[[Historische afbeelding: bekijk bron](https://marketpress.de/files/2013/02/backwpupbanner2.png)](http://marketpress.com/product/backwpup-pro/)
+[[Historische afbeelding: bekijk bron](https://web.archive.org/web/20130821025833/https://marketpress.de/files/2013/02/backwpupbanner2.png)](http://marketpress.com/product/backwpup-pro/)
 
 Essentieel bij automatische updates is wel, dat je je backups goed hebt ingeregeld. Zo vertelde ik Robert-Jan ook dat ik voor elke website een dedicated Gmailadres aanmaak, in combinatie met een Dropbox-account. De backup van de desbetreffende site, wordt dan op de Dropbox van het corresponderende account gemaakt. En ik deel de Dropbox-folders van alle accounts met mijn eigen Dropbox gebruikers-ID, zodat ik te allen tijd overal bij kan.
 
 De derde vraag van afgelopen week was van **Suzanne** van [Wijnhandel B.J. de Logie uit Amsterdam](https://plus.google.com/107357851696942330555/about). Zij vroeg hoe het kwam dat ze geen vanity URL kon claimen voor de zakelijke Google+ pagina van de wijnhandel waarvoor zij de content beheert. Ook daar ben ik eens ingedoken en ik kwam erachter dat er twee Google+ pagina’s bleken te zijn voor dezelfde locatie. Suzanne logt in op de ene Google+ pagina, waar ze ook berichten post, terwijl de Bedrijfspanorama op de andere Google+ pagina staat, evenals de reviews.
 
-[[Historische afbeelding: Wijnhandel B.J. de Logie in Amsterdam](https://lh4.googleusercontent.com/-kcuyXe8i3EM/UdZK2WTTZZI/AAAAAAAK6qU/mFAGiPlz_ZI/w580/photo.jpg)](https://plus.google.com/107357851696942330555/about)
+[[Historische afbeelding: Wijnhandel B.J. de Logie in Amsterdam](https://web.archive.org/web/20131215203258/https://lh4.googleusercontent.com/-kcuyXe8i3EM/UdZK2WTTZZI/AAAAAAAK6qU/mFAGiPlz_ZI/w580/photo.jpg)](https://plus.google.com/107357851696942330555/about)
 
-Het is maar gelukkig dat de reviews op dezelfde pagina staan als de bedrijfspanorama. Want nu kan ze gewoon de eerste pagina verwijderen, en de tweede claimen. Als Suzanne dan de tweede pagina heeft geclaimd, kan ze ook de [vanity URL claimen op Google+](https://www.reputatiecoaching.nl/google-vanity-url-claimen/).
+Het is maar gelukkig dat de reviews op dezelfde pagina staan als de bedrijfspanorama. Want nu kan ze gewoon de eerste pagina verwijderen, en de tweede claimen. Als Suzanne dan de tweede pagina heeft geclaimd, kan ze ook de [vanity URL claimen op Google+](https://web.archive.org/web/20131204122457/http://www.reputatiecoaching.nl/google-vanity-url-claimen/).
 
 ## Vernieuwde website van Allround Fotografie is live
 
@@ -84,13 +85,13 @@ Als je het leuk vindt, dan kan ik in een aantal artikelen beschrijven hoe en waa
 
 Welnu, het volledige effect weet ik zelf ook nog niet, daarvoor moet ik nog een tijdje wachten om het resultaat te kunnen zien. Nu ik zie dat ik binnen een week al twee foto’s op de voorpagina heb, heb ik er wel vertrouwen in, dat het goed komt. Natuurlijk houd ik alles nauwlettend in de gaten.
 
-Maar als je binnenkort wilt weten wat ik allemaal heb gedaan, abonneer je dan nu alvast op de nieuwsbrief, op [www.reputatiecoaching.nl/nieuwsbrief/](https://www.reputatiecoaching.nl/nieuwsbrief/). Bovendien krijg je dan elk kwartaal het ReputatieCoaching Podcast Boek met daarin de transcripties van alle podcasts van het afgelopen kwartaal.
+Maar als je binnenkort wilt weten wat ik allemaal heb gedaan, abonneer je dan nu alvast op de nieuwsbrief, op [www.reputatiecoaching.nl/nieuwsbrief/](https://web.archive.org/web/20131205063155/http://www.reputatiecoaching.nl/nieuwsbrief/). Bovendien krijg je dan elk kwartaal het ReputatieCoaching Podcast Boek met daarin de transcripties van alle podcasts van het afgelopen kwartaal.
 
 Dit herinnert mij eraan dat ik nog het Podcast Boek van Q3 van 2013 moet afmaken. Die is door alle drukte onderaan mijn lijstje beland, maar niet getreurd: ik zet hem ook meteen weer bovenaan! Dus binnenkort kunnen de abonnees op de nieuwsbrief een mail tegemoet zien met daarin het ReputatieCoaching Podcast Boek van Q3/2013.
 
 ## Allround Fotografie verliest 7 reviews op Google+
 
-Afgelopen week schreef ik er al een artikel over: eerst had Allround Fotografie met veel moeite eindelijk al 17 reviews verzameld en opeens [vond Google dat er nog maar 10 stonden](https://www.reputatiecoaching.nl/heeft-google-problemen-met-tellen/). Het bijzondere van dit probleem was, dat als je zelf handmatig ging tellen, je toch 17 reviews zag staan!
+Afgelopen week schreef ik er al een artikel over: eerst had Allround Fotografie met veel moeite eindelijk al 17 reviews verzameld en opeens [vond Google dat er nog maar 10 stonden](https://web.archive.org/web/20131215140713/http://www.reputatiecoaching.nl/heeft-google-problemen-met-tellen/). Het bijzondere van dit probleem was, dat als je zelf handmatig ging tellen, je toch 17 reviews zag staan!
 
 Daarom maakte ik me ook niet zoveel zorgen, temeer daar er flink aan Google+ werd geknutseld en er gedurende zo’n anderhalve dag wel meer grotere en kleinere problemen te bespeuren waren. Daar ga ik zo nog even verder op in.
 
@@ -110,7 +111,7 @@ Het belang van goede foto’s, waaronder eentje als omslagfoto, begint nu echt t
 
 [![20131118-Woeste-Hoeve-Googleplus](20131118-Woeste-Hoeve-Googleplus.png)](/wp-content/uploads/2013/11/20131118-Woeste-Hoeve-Googleplus.png)
 
-Ik moet zeggen dat ik de vernieuwde weergave (en zeker de banner) een stuk mooier vind, dan de vorige. In de show notes heb ik een screenshot van de vernieuwde Google+ pagina van [+Allround Fotografie](http://google.com/+AllroundFotografie) opgenomen.
+Ik moet zeggen dat ik de vernieuwde weergave (en zeker de banner) een stuk mooier vind, dan de vorige. In de show notes heb ik een screenshot van de vernieuwde Google+ pagina van +Allround Fotografie opgenomen.
 
 [![Allround Fotografie op Google+](20131118-Allround-Fotografie-Googleplus.png)](/wp-content/uploads/2013/11/20131118-Allround-Fotografie-Googleplus.jpg)
 
@@ -118,7 +119,7 @@ Ik moet zeggen dat ik de vernieuwde weergave (en zeker de banner) een stuk mooie
 
 [*Historische afbeelding niet beschikbaar: Logo Yelp*](https://www.yelp.nl/biz/allround-fotografie-apeldoorn)In de intro van deze podcast vertelde ik over Frank Grootaarts uit Nijmegen. Hij was heel voortvarend aan de slag gegaan met het verzamelen van reviews op een aantal sites, waaronder Yelp. Toen ik hem afgelopen week aan de telefoon had vroeg hij hoe het kwam dat hij slechts 2 reviews op Yelp zag, terwijl hij er eerst 5 had.
 
-De bedrijfsvermelding van Frank is een typisch geval dat het virtuele slachtoffer is geworden van Yelp haar “gefilterde reviews”. In podcasts [31](https://www.reputatiecoaching.nl/31/), [36](https://www.reputatiecoaching.nl/36/), [44](https://www.reputatiecoaching.nl/44/) en [45](https://www.reputatiecoaching.nl/45/) zijn gefilterde reviews op Yelp al eens aan bod gekomen.
+De bedrijfsvermelding van Frank is een typisch geval dat het virtuele slachtoffer is geworden van Yelp haar “gefilterde reviews”. In podcasts [31](https://web.archive.org/web/20150312092905/http://www.reputatiecoaching.nl/31/), [36](https://web.archive.org/web/20150312093030/http://www.reputatiecoaching.nl/36/), [44](https://web.archive.org/web/20140526005716/http://www.reputatiecoaching.nl:80/44/) en [45](https://web.archive.org/web/20140119013856/http://www.reputatiecoaching.nl:80/45/) zijn gefilterde reviews op Yelp al eens aan bod gekomen.
 
 Samenvattend zijn gefilterde reviews, díe reviews, waarvan het Yelp filter denkt dat ze niet helemaal legitiem zijn. Hoewel niemand buiten Yelp precies weet hoe het filter wordt getriggerd, zijn er wel enkele voor de hand liggende triggers:
 
@@ -167,7 +168,7 @@ En zolang je het niet tot je dagtaak hebt gemaakt om te reageren op bijvoorbeeld
 
 ## VGZ gaat ook in de recensiebusiness
 
-Een paar weken geleden had ik het over [meetingroomreview.com](https://www.reputatiecoaching.nl/45/), een niche site voor vergaderlocaties, waarop deze hun reviews kunnen vergaren. Gisteravond keek ik eventjes tv en zag ik een commercial van VGZ, die ging over een nieuwe dienst met de naam “Samen delen”.
+Een paar weken geleden had ik het over [meetingroomreview.com](https://web.archive.org/web/20140119013856/http://www.reputatiecoaching.nl:80/45/), een niche site voor vergaderlocaties, waarop deze hun reviews kunnen vergaren. Gisteravond keek ik eventjes tv en zag ik een commercial van VGZ, die ging over een nieuwe dienst met de naam “Samen delen”.
 
 [![20131118-VGZ-delen](20131118-VGZ-delen.png)](/wp-content/uploads/2013/11/20131118-VGZ-delen.png)
 
@@ -182,11 +183,11 @@ Op dinsdag 12 november 2013 organiseerde het bureau [Entopic uit Amsterdam](http
 [caption id=“attachment\_1966” align=“alignright” width=“199”]*Historische afbeelding niet beschikbaar: Mark Schaefer op Congres Content Marketing 2013 (#congrescm13)*
 Mark Schaefer (#congrescm13)[/caption]
 
-Mensen sluiten zich steeds meer af voor reclameboodschappen. Daarom passen marketeers nieuwe methoden toe om klanten aan te trekken en te behouden. Eén de meest veelbelovende methoden is contentmarketing. Zelf ben ik hier ook druk mee bezig en in [podcast 42](https://www.reputatiecoaching.nl/42/) had ik hierover een interview met [Arend Landman uit Utrecht](https://www.reputatiecoaching.nl/42/).
+Mensen sluiten zich steeds meer af voor reclameboodschappen. Daarom passen marketeers nieuwe methoden toe om klanten aan te trekken en te behouden. Eén de meest veelbelovende methoden is contentmarketing. Zelf ben ik hier ook druk mee bezig en in [podcast 42](https://web.archive.org/web/20131010083238/http://www.reputatiecoaching.nl/42/) had ik hierover een interview met [Arend Landman uit Utrecht](https://web.archive.org/web/20131010083238/http://www.reputatiecoaching.nl/42/).
 
 De Verenigde Staten is voorloper als het gaat om contentmarketing. Daarom is het begrijpelijk dat twee van de vier keynotes werden gehouden door Amerikaanse sprekers. [C.C. Chapman](http://www.cc-chapman.com) en [Mark Schaefer](http://www.businessesgrow.com) verzorgden een inspirerende keynote.
 
-[caption id="" align=“alignright” width=“200”][Historische afbeelding: C.C. Chapman (#congrescm13)](https://pbs.twimg.com/profile_images/378800000444527425/7733a645aa4f737ba9999ea0cb5a615b.png)
+[caption id="" align=“alignright” width=“200”][Historische afbeelding: C.C. Chapman (#congrescm13)](https://web.archive.org/web/20131215215001/https://pbs.twimg.com/profile_images/378800000444527425/7733a645aa4f737ba9999ea0cb5a615b.png)
 C.C. Chapman (#congrescm13)[/caption]
 
 C.C. Chapman vroeg de mensen in de zaal wie er regelmatig blogt. Hij was enorm verbaasd dat slechts ongeveer tien van de meer dan 500 deelnemers hun hand opstaken. Als je tegenwoordig serieus met contentmarketing aan de slag wilt, is een eigen weblog ongeveer de basis.
@@ -194,12 +195,12 @@ C.C. Chapman vroeg de mensen in de zaal wie er regelmatig blogt. Hij was enorm v
 Chapman nodigde de bloggers in de zaal uit om over het congres te bloggen. Inmiddels zijn er meerdere verslagen over het evenement verschenen:
 
 ```
-  * [Blutarsky](http://www.blutarsky.nl/show-news/2013-11-14/13-tips-voor-amazing-content/)
-  * [Henk Hofman](http://hphofman.wordpress.com/2013/11/12/congrescm13-niet-je-product-maar-je-verhaal/)
-  * [Arend Landman](http://www.arendlandman.nl/2013/11/contentmarktingcongres-2013-entopic-zeven-tips-online-marketeers-webredacteuren/)
+  * [Blutarsky](https://web.archive.org/web/20140715052103/http://www.blutarsky.nl:80/show-news/2013-11-14/13-tips-voor-amazing-content/)
+  * [Henk Hofman](https://web.archive.org/web/20131118072649/http://hphofman.wordpress.com:80/2013/11/12/congrescm13-niet-je-product-maar-je-verhaal/)
+  * [Arend Landman](https://web.archive.org/web/20131118072939/http://www.arendlandman.nl:80/2013/11/contentmarktingcongres-2013-entopic-zeven-tips-online-marketeers-webredacteuren/)
   * [Patrick Mackaaij](http://www.eenmanierom.nl/congres-content-marketing-webredactie-2013-congrescm13/)
   * [Irene Vink](http://finkelsteinandsons.com/2013/11/13/how-to-be-a-marketing-guru/)
-  * [Nicole Wedler](http://nicolewedler.nl/2013/11/content-rules-zeker-op-content-marketing-congres-2013/)
+  * [Nicole Wedler](https://web.archive.org/web/20170118170247/http://nicolewedler.nl/2013/11/content-rules-zeker-op-content-marketing-congres-2013/)
 ```
 
 Uit deze blogs en diverse tweets over het Congres Contentmarketing & Webredactie 2013 blijkt dat veel deelnemers enthousiast waren over het evenement. De concepten van contentmarketing zijn blijkbaar voor veel webredacteuren nieuw.
@@ -218,7 +219,7 @@ Hier volgen negen tips die geformuleerd zijn naar aanleiding van de keynote van 
   9. Denk visueel en maak plaatjes en video’s om je verhaal en je boodschap over te dragen.
 ```
 
-Mark Schaefer verzorgde een interessante keynote over hoe essentieel content is om invloed te creëren. Arend Landman heeft daarover ook een [gastblog](https://www.reputatiecoaching.nl/congres-contentmarketing-2013-congrescm13-mark-schaefer-onthulde-keynote-principes-van-online-invloed-uitoefenen/) geschreven op [www.reputatiecoaching.nl](http://www.reputatiecoaching.nl).
+Mark Schaefer verzorgde een interessante keynote over hoe essentieel content is om invloed te creëren. Arend Landman heeft daarover ook een [gastblog](https://web.archive.org/web/20140106224045/http://www.reputatiecoaching.nl:80/congres-contentmarketing-2013-congrescm13-mark-schaefer-onthulde-keynote-principes-van-online-invloed-uitoefenen/) geschreven op [www.reputatiecoaching.nl](https://web.archive.org/web/20131105035958/http://www.reputatiecoaching.nl/).
 
 Met deze negen tips van C.C. Chapman tijdens het Congres Content Marketing 2013 (#congrescm13) kom ik dan weer aan het einde van deze podcast.
 
@@ -226,9 +227,9 @@ Als je de podcast leuk vindt en je hebt inderdaad wat aan alle informatie die ik
 
 Als je een vraag of een probleem hebt met betrekking tot je online reputatie of de vindbaarheid van je website, kun je een mailtje sturen naar [podcast@reputatiecoaching.nl](mailto:podcast@reputatiecoaching.nl). Als je dat te lastig vindt, of als je de podcast beluistert terwijl je in de auto zit en je hebt acuut een vraag, spreek dan een boodschap in op de ReputatieCoaching Hotline, op nummer: 084 - 883 15 56. Mogelijk behandel ik je vraag of probleem dan in een artikel of in de podcast.
 
-Als laatste kun je je ook inschrijven voor de nieuwsbrief. Dan ontvang je altijd als eerste het laatste nieuws wat ik publiceer en automatisch elk kwartaal het ReputatieCoaching Podcast Boek van het afgelopen kwartaal. Surf daartoe naar [www.reputatiecoaching.nl/nieuwsbrief/](https://www.reputatiecoaching.nl/nieuwsbrief/) en schrijf je meteen in.
+Als laatste kun je je ook inschrijven voor de nieuwsbrief. Dan ontvang je altijd als eerste het laatste nieuws wat ik publiceer en automatisch elk kwartaal het ReputatieCoaching Podcast Boek van het afgelopen kwartaal. Surf daartoe naar [www.reputatiecoaching.nl/nieuwsbrief/](https://web.archive.org/web/20131205063155/http://www.reputatiecoaching.nl/nieuwsbrief/) en schrijf je meteen in.
 
-En je kunt ook rechtstreeks op de website een voicemail achterlaten, door op de tab aan de rechterkant van elke pagina te klikken, en je bericht in te spreken. Dit was [ReputatieCoaching Podast aflevering 51](https://www.reputatiecoaching.nl/51/) en mijn naam is [Eduard de Boer](http://nl.linkedin.com/in/eduarddeboer/nl).
+En je kunt ook rechtstreeks op de website een voicemail achterlaten, door op de tab aan de rechterkant van elke pagina te klikken, en je bericht in te spreken. Dit was [ReputatieCoaching Podast aflevering 51](https://web.archive.org/web/20131215165811/http://www.reputatiecoaching.nl/51/) en mijn naam is [Eduard de Boer](http://nl.linkedin.com/in/eduarddeboer/nl).
 
 Ik wens je de komende week weer succes met het werken aan je reputatie, zodat je meteen je reputatie voor jou kunt laten werken!
 
@@ -243,5 +244,5 @@ Links naar artikelen die in deze podcast aan bod komen:
   * [C.C. Chapman](http://www.cc-chapman.com)
   * [Mark Schaefer](http://www.businessesgrow.com)
   * “[63% of iPhone Owners Use Apple Maps Says Comscore](http://applemapsmarketing.com/2013/11/63-of-iphone-owners-use-apple-maps-says-comscore/)” (Apple Maps Marketing.com, 11 november 2013)
-  * “[Congres Contentmarketing 2013 (#congrescm13): Mark Schaefer onthulde in keynote principes van online invloed uitoefenen](https://www.reputatiecoaching.nl/congres-contentmarketing-2013-congrescm13-mark-schaefer-onthulde-keynote-principes-van-online-invloed-uitoefenen/)” (ReputatieCoaching, 16 november 2013)
+  * “[Congres Contentmarketing 2013 (#congrescm13): Mark Schaefer onthulde in keynote principes van online invloed uitoefenen](https://web.archive.org/web/20140106224045/http://www.reputatiecoaching.nl:80/congres-contentmarketing-2013-congrescm13-mark-schaefer-onthulde-keynote-principes-van-online-invloed-uitoefenen/)” (ReputatieCoaching, 16 november 2013)
 ```

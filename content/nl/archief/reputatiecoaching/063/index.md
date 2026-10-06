@@ -1,8 +1,9 @@
 ---
 title: '63: #SMC055, win een taart, vragen van luisteraars en over de juiste Google+ categorie voor een begrafenisondernemer'
 date: '2014-02-10T07:30:11+00:00'
-description: Oh, voordat ik overga op de daadwerkelijke podcast van vandaag, eerst eventjes mijn excuses voor de mindere geluidskwaliteit van de podcast van vorige week. Er was iets fout gegaan met de instellingen ergens en ik had het al wel in de gaten dat het niet helemaal lekker klonk, zoals het normaal klinkt. Maar als gevolg van tijdgebrek, omdat ik toch de podcast op maandagmorgen om 08:30 uur wilde uitbrengen, kon ik de juiste instellingen niet zo 1–2–3 terugvinden.
+description: Oh, voordat ik overga op de daadwerkelijke podcast van vandaag, eerst eventjes mijn excuses voor de mindere geluidskwaliteit van de [podcast van vorige week](/nl/archief/reputatiecoaching/062/). Er was iets fout gegaan met de instellingen ergens en ik had het al wel in de gaten dat het niet helemaal lekker klonk, zoals het normaal klinkt. Maar als gevolg van tijdgebrek, omdat ik toch de podcast op maandagmorgen om 08:30 uur wilde uitbrengen, kon ik de juiste instellingen niet zo 1–2–3 terugvinden.
 episode: 63
+kgRef: podcast_episode/reputatiecoaching_063
 historical: true
 archivePeriod: 2012–2016
 transcriptStatus: full
@@ -22,9 +23,9 @@ showTaxonomies: false
 **Transcriptiestatus:** Volledige transcriptie uit het oorspronkelijke archief.
 
 ***Historische afbeelding niet beschikbaar: ReputatieCoaching Podcast*
-Oh, voordat ik overga op de daadwerkelijke podcast van vandaag, eerst eventjes mijn excuses voor de mindere geluidskwaliteit van de podcast van vorige week. Er was iets fout gegaan met de instellingen ergens en ik had het al wel in de gaten dat het niet helemaal lekker klonk, zoals het normaal klinkt. Maar als gevolg van tijdgebrek, omdat ik toch de podcast op maandagmorgen om 08:30 uur wilde uitbrengen, kon ik de juiste instellingen niet zo 1–2–3 terugvinden. Ik denk dat ik zometeen na afloop van deze podcast eerst maar eens foto’s maak van alle knoppen, zodat ik de knoppen snel weer goed kan zetten, als een kat hier op kantoor heeft zitten spelen. Als het goed is zijn de instellingen nu weer zoals vanouds en moet de podcast dus weer beter klinken.**
+Oh, voordat ik overga op de daadwerkelijke podcast van vandaag, eerst eventjes mijn excuses voor de mindere geluidskwaliteit van de [podcast van vorige week](/nl/archief/reputatiecoaching/062/). Er was iets fout gegaan met de instellingen ergens en ik had het al wel in de gaten dat het niet helemaal lekker klonk, zoals het normaal klinkt. Maar als gevolg van tijdgebrek, omdat ik toch de podcast op maandagmorgen om 08:30 uur wilde uitbrengen, kon ik de juiste instellingen niet zo 1–2–3 terugvinden. Ik denk dat ik zometeen na afloop van deze podcast eerst maar eens foto’s maak van alle knoppen, zodat ik de knoppen snel weer goed kan zetten, als een kat hier op kantoor heeft zitten spelen. Als het goed is zijn de instellingen nu weer zoals vanouds en moet de podcast dus weer beter klinken.**
 
-**Eens even denken, waar zal ik vandaag mee beginnen? Voor het geval je de podcast van vorige week hebt gemist, begin ik vandaag met een korte samenvatting van de [podcast van vorige week](https://www.reputatiecoaching.nl/62/) en de artikelen die ik deze week heb gepubliceerd.**
+**Eens even denken, waar zal ik vandaag mee beginnen? Voor het geval je de [podcast van vorige week](/nl/archief/reputatiecoaching/062/) hebt gemist, begin ik vandaag met een korte samenvatting van de [podcast van vorige week](/nl/archief/reputatiecoaching/062/) en de artikelen die ik deze week heb gepubliceerd.**
 
 **Daarna: zo’n anderhalve week geleden ontving ik een vraag van een luisteraar over welke categorie hij moest kiezen voor een Google+ pagina; hij kon namelijk geen geschikte categorie vinden.**
 
@@ -36,13 +37,13 @@ Hallo en hartelijk welkom bij deze aflevering van de ReputatieCoaching Podcast. 
 
 Als persoon kun je met de diverse tips aan de slag om bijvoorbeeld je online reputatie als behanger, zwemleraar, thuiskapper, beleidsadviseur, docent of wat dan ook te verbeteren.
 
-In deze podcast noem ik een aantal sites, video’s en verwijs ik naar verschillende artikelen. De links naar al deze content èn de volledige transcriptie van de podcast vind je op [www.reputatiecoaching.nl/63](https://www.reputatiecoaching.nl/63/). Je kunt de podcast rechtstreeks beluisteren op zowel iTunes, als op Stitcher. Surf hiertoe respectievelijk naar [www.reputatiecoaching.nl/itunes](https://www.reputatiecoaching.nl/itunes) of naar [www.reputatiecoaching.nl/stitcher](https://www.reputatiecoaching.nl/stitcher).
+In deze podcast noem ik een aantal sites, video’s en verwijs ik naar verschillende artikelen. De links naar al deze content èn de volledige transcriptie van de podcast vind je op [www.reputatiecoaching.nl/63](https://web.archive.org/web/20150312093820/http://www.reputatiecoaching.nl/63/). Je kunt de podcast rechtstreeks beluisteren op zowel iTunes, als op Stitcher. Surf hiertoe respectievelijk naar www.reputatiecoaching.nl/itunes of naar www.reputatiecoaching.nl/stitcher.
 
-Mocht je de podcast in een andere podcatcher of podcastplayer willen beluisteren, dan kun je je op de feed [feeds.reputatiecoaching.nl/reputatiecoachingpodcast](https://feeds.reputatiecoaching.nl/ReputatieCoachingPodcast) abonneren. Al deze links vind je ook in de show notes van deze podcast, alsmede op de website.
+Mocht je de podcast in een andere podcatcher of podcastplayer willen beluisteren, dan kun je je op de feed [feeds.reputatiecoaching.nl/reputatiecoachingpodcast](https://web.archive.org/web/20131205064344/http://feeds.reputatiecoaching.nl/reputatiecoachingpodcast) abonneren. Al deze links vind je ook in de show notes van deze podcast, alsmede op de website.
 
 ## Terugblik podcast 62
 
-Voordat ik overga op de onderwerpen van vandaag even een korte terugblik naar de uitzending van vorige week: [ReputatieCoaching Podcast nummer 62](https://www.reputatiecoaching.nl/62/). Daarin vertelde ik je over de Rabobank Reputatiemanager die nog niet goed ingewerkt leek, omdat hij schitterde door afwezigheid in het nieuwsvacuüm, dat ontstond nadat de Rabobank vrijdagavond om 19:30 aankondigde nog eens zo’n 1.000 tot 2.000 werknemers te ontslaan.
+Voordat ik overga op de onderwerpen van vandaag even een korte terugblik naar de uitzending van vorige week: [ReputatieCoaching Podcast nummer 62](/nl/archief/reputatiecoaching/062/). Daarin vertelde ik je over de Rabobank Reputatiemanager die nog niet goed ingewerkt leek, omdat hij schitterde door afwezigheid in het nieuwsvacuüm, dat ontstond nadat de Rabobank vrijdagavond om 19:30 aankondigde nog eens zo’n 1.000 tot 2.000 werknemers te ontslaan.
 
 Omdat ik gewoon content online wilde laten verschijnen tijdens mijn vakantie had ik een heleboel voorbereid en in de vorige podcast deelde ik wat statistieken over het resultaat van mijn inspanningen.
 
@@ -92,7 +93,7 @@ Afgelopen week had ik Frank uit Nijmegen aan de lijn. Frank luistert naar de Rep
 
 Zo is hij een tijdje geleden serieus begonnen met het verzamelen van reviews. Om zijn goede reputatie te verbreden en risico’s te minimaliseren, verzamelt hij niet alleen reviews op Google+, maar spreidt hij de reviews over een aantal sites, zoals de Telefoongids, Yelp en Facebook. Het voordeel is dat zijn bedrijf zo meer exposure krijgt, ook op andere pagina’s die op voor zijn bedrijf relevante zoektermen de voorpagina van Google halen.
 
-Frank vertelde dat hij naar aanleiding van mijn advies om eens je citations op te sporen en te controlen, ook hiermee was begonnen. Hij had niet verwacht dat hij op zoveel sites vermeld zou staan. Een onderzoekje langs de eerste tien pagina’s op Google en Bing leverde hem maar liefst 55(!) sites op, waar zijn bedrijf staat vermeld. Al die vermeldingen gaat hij nu stuk voor stuk controleren en indien nodig aanpassen, zoals ik heb uitgelegd in de [Werkinstructie “Opschonen Citations”](https://www.reputatiecoaching.nl/werkinstructie-opschonen-citations/).
+Frank vertelde dat hij naar aanleiding van mijn advies om eens je citations op te sporen en te controlen, ook hiermee was begonnen. Hij had niet verwacht dat hij op zoveel sites vermeld zou staan. Een onderzoekje langs de eerste tien pagina’s op Google en Bing leverde hem maar liefst 55(!) sites op, waar zijn bedrijf staat vermeld. Al die vermeldingen gaat hij nu stuk voor stuk controleren en indien nodig aanpassen, zoals ik heb uitgelegd in de [Werkinstructie “Opschonen Citations”](https://web.archive.org/web/20140314201735/http://www.reputatiecoaching.nl:80/werkinstructie-opschonen-citations/).
 
 Waar mogelijk controleert en actualiseert hij niet alleen de vermeldingen, maar gaat hij ze ook claimen, om ze zo zijn virtuele eigendom te maken. Hiermee verstevigt hij zijn virtuele onroerend goed. En wellicht ontdekt hij nog één of twee sites, waar hij óók nog reviews kan gaan verzamelen.
 
@@ -118,7 +119,7 @@ Als je zoekt, zoek je juist vaak naar kennis of informatie die je nog *niet* heb
 
 Hoe komt dit nu? Wat beïnvloedt de resultaten die jij of iemand anders te zien krijgen als zij op een bepaalde term zoeken? En wat bepaalt dan de positie in de zoekresultaten?
 
-Ik vond afgelopen week een Engelstalige infographic, waarin dit wordt uitgelegd. Deze infographic heb ik in de show notes opgenomen. Je kunt ’m bekijken op [www.reputatiecoaching.nl/63](https://www.reputatiecoaching.nl/63/)
+Ik vond afgelopen week een Engelstalige infographic, waarin dit wordt uitgelegd. Deze infographic heb ik in de show notes opgenomen. Je kunt ’m bekijken op [www.reputatiecoaching.nl/63](https://web.archive.org/web/20150312093820/http://www.reputatiecoaching.nl/63/)
 
 [Historische afbeelding: bekijk bron](https://lh6.googleusercontent.com/-i5Yw-e6JZpA/UvI54DluB2I/AAAAAAAAAY0/r8VjrqfCzLk/w600-no/average-ranking-in-google-infographic.png)
 Er is een aantal factoren dat de positie van een bepaalde webpagina in de zoekresultaten op Google beïnvloedt. Enkele factoren zijn:
@@ -144,32 +145,32 @@ Hierdoor komen er weer kansen voor andere bedrijven en je ziet ook dat steeds me
 
 In diverse podcasts is DuckDuckGo al aan bod geweest en daarom wil ik je nu een paar andere zoekmachines geven die (volgens hun zeggen), niets van je bijhouden en je dus als het goed is objectievere resultaten geven.
 
-Je kunt deze zoekmachines ook eens gebruiken, als je op zoek bent naar meer sites waar je citations kunt vinden van je bedrijf als je begint met ze consistent te maken, zoals ik een paar weken geleden heb uitgelegd in de “[Werkinstructie ‘opschonen citations’](https://www.reputatiecoaching.nl/werkinstructie-opschonen-citations/)”. Daar noemde ik al Bing en DuckDuckgo, maar zoek ook eens op de volgende zoekmachines, om te zien of je wellicht nog meer foute of incomplete bedrijfsvermeldingen op kunt sporen.
+Je kunt deze zoekmachines ook eens gebruiken, als je op zoek bent naar meer sites waar je citations kunt vinden van je bedrijf als je begint met ze consistent te maken, zoals ik een paar weken geleden heb uitgelegd in de “[Werkinstructie ‘opschonen citations’](https://web.archive.org/web/20140314201735/http://www.reputatiecoaching.nl:80/werkinstructie-opschonen-citations/)”. Daar noemde ik al Bing en DuckDuckgo, maar zoek ook eens op de volgende zoekmachines, om te zien of je wellicht nog meer foute of incomplete bedrijfsvermeldingen op kunt sporen.
 
 ```
-  * [Ixquick](http://www.ixquick.com)
+  * [Ixquick](https://web.archive.org/web/20140210223526/https://ixquick.com/)
   * [Blekko](http://www.blekko.com)
-  * [Gigablast](http://www.gigablast.com)
-  * [Zeekly](http://www.zeekly.com)
+  * [Gigablast](https://web.archive.org/web/20140210180554/https://www.gigablast.com/)
+  * [Zeekly](https://web.archive.org/web/20140212165531/http://zeekly.com:80/)
   * [Gibiru](http://gibiru.com/)
-  * [Qrobe](https://qrobe.it/)
+  * [Qrobe](https://web.archive.org/web/20140213121536/http://qrobe.it/)
 ```
 
 Schrik niet, want ik acht de kans groot dat je de meeste namen nog nooit eerder hebt gehoord. Dat komt, doordat Google zo immens groot en populair is: daardoor vallen nieuwe zoekmachine-initiatieven in de schaduw van de reusachtige kolos die “Google” heet.
 
 Heb je geen idee waar ik het over heb, als ik het over het opschonen van citations heb? Lees dan het artikel, waar ik in de transcriptie van deze podcast naar heb gelinkt. Daarin leg ik je uit hoe je moet beginnen met het proces om je bedrijf beter te laten scoren in de lokale zoekresultaten.
 
-Om dat proces goed te doorlopen en ervoor te zorgen dat je niets over het hoofd ziet, heb ik een Google Spreadsheet gemaakt. Deze krijg je als je je abonneert op de ReputatieCoaching Nieuwsbrief. Dat doe je door te surfen naar [www.reputatiecoaching.nl/nieuwsbrief](https://www.reputatiecoaching.nl/nieuwsbrief/) en je meteen in te schrijven. Via de nieuwsbrief houd ik je op de hoogte van nog meer ontwikkelingen en krijg je af en toe exclusieve tips van me, die ik niet in de podcast of op het weblog vermeld.
+Om dat proces goed te doorlopen en ervoor te zorgen dat je niets over het hoofd ziet, heb ik een Google Spreadsheet gemaakt. Deze krijg je als je je abonneert op de ReputatieCoaching Nieuwsbrief. Dat doe je door te surfen naar [www.reputatiecoaching.nl/nieuwsbrief](https://web.archive.org/web/20140314070619/http://www.reputatiecoaching.nl:80/nieuwsbrief/) en je meteen in te schrijven. Via de nieuwsbrief houd ik je op de hoogte van nog meer ontwikkelingen en krijg je af en toe exclusieve tips van me, die ik niet in de podcast of op het weblog vermeld.
 
 ## Tooltips komen eraan!
 
-In de terugblik op 2013 aan het begin van dit jaar vertelde ik je over de populaire instructievideo die ik vorig jaar heb gemaakt met de titel “[Foto uitsnijden en achtergrond verwijderen](https://www.reputatiecoaching.nl/foto-uitsnijden-achtergrond-verwijderen-instructievideo/)”. Deze video heeft inmiddels al meer dan 4.100 views!
+In de terugblik op 2013 aan het begin van dit jaar vertelde ik je over de populaire instructievideo die ik vorig jaar heb gemaakt met de titel “[Foto uitsnijden en achtergrond verwijderen](https://web.archive.org/web/20140328233245/http://www.reputatiecoaching.nl:80/foto-uitsnijden-achtergrond-verwijderen-instructievideo/)”. Deze video heeft inmiddels al meer dan 4.100 views!
 
 Nog steeds krijg ik van diverse mensen te horen dat dit een fantastisch nuttige tool is, die ze vaak gebruiken voor het maken van fotomontages etc. En zo gebruik ik nog zoveel andere tooltjes, hulpmiddelen en websites. Dus heb ik besloten af en toe eens een tooltip te geven: een verwijzing naar een nuttige site of een handig hulpmiddel, waar jij mogelijk wat aan hebt.
 
 Deze tooltips komen waar mogelijk in de vorm van een instructievideo, waar ik een artikel bij publiceer. Ook in de daarop volgende podcast zal ik dan een melding maken van de tooltip, zodat je ook als luisteraar van de podcast hierop attent wordt gemaakt.
 
-Overigens raad ik je niet aan om alleen maar de podcast te beluisteren. De reden hiervoor is dat ik frequent actueel nieuws en diverse andere artikelen op de site publiceer. Dus kijk af en toe ook eens op de website, abonneer je op de RSS-feed van de site en schrijf je in voor de [ReputatieCoaching Nieuwsbrief](https://www.reputatiecoaching.nl/nieuwsbrief/). Want sommige dingen deel ik alleen via de nieuwsbrief en het zou jammer zijn als je een nuttige tip misloopt.
+Overigens raad ik je niet aan om alleen maar de podcast te beluisteren. De reden hiervoor is dat ik frequent actueel nieuws en diverse andere artikelen op de site publiceer. Dus kijk af en toe ook eens op de website, abonneer je op de RSS-feed van de site en schrijf je in voor de [ReputatieCoaching Nieuwsbrief](https://web.archive.org/web/20140314070619/http://www.reputatiecoaching.nl:80/nieuwsbrief/). Want sommige dingen deel ik alleen via de nieuwsbrief en het zou jammer zijn als je een nuttige tip misloopt.
 
 ## Reviews worden gelezen door 61% van je klanten
 
@@ -217,17 +218,17 @@ Gebruik je eigen gezonde verstand en bekijk de video eens in de rol van verschil
 
 Weet je wat? Ik verhoog de inzet! Schrap dat reageren onderaan de show notes… Nou ja, natuurlijk mag het, maar wil je kans maken op een taart en een 1:1 gesprek van een uur met mij, waarin je me het hemd van het lijf mag vragen over lokale SEO, reputatiemarketing et cetera?
 
-Ik zet een taart en één uur coaching als prijs op degene die de meeste verbeteradviezen heeft. Abonneer je eerst op de Nieuwsbrief, als je dat nog niet hebt gedaan. Je kunt je abonneren door te surfen naar [www.reputatiecoaching.nl/nieuwsbrief](https://www.reputatiecoaching.nl/nieuwsbrief/) en je daar in te schrijven. Verzamel al je tips en stuur deze **vóór 28 februari** naar: [podcast@reputatiecoaching.nl](mailto:podcast@reputatiecoaching.nl). Dan maak ik in de podcast van 3 maart de winnaar of winnares bekend. Die krijgt de taart thuisgestuurd en een één op één coachinggesprek met mij.
+Ik zet een taart en één uur coaching als prijs op degene die de meeste verbeteradviezen heeft. Abonneer je eerst op de Nieuwsbrief, als je dat nog niet hebt gedaan. Je kunt je abonneren door te surfen naar [www.reputatiecoaching.nl/nieuwsbrief](https://web.archive.org/web/20140314070619/http://www.reputatiecoaching.nl:80/nieuwsbrief/) en je daar in te schrijven. Verzamel al je tips en stuur deze **vóór 28 februari** naar: [podcast@reputatiecoaching.nl](mailto:podcast@reputatiecoaching.nl). Dan maak ik in de podcast van 3 maart de winnaar of winnares bekend. Die krijgt de taart thuisgestuurd en een één op één coachinggesprek met mij.
 
 Bekijk de video’s en ga op zoek naar alle verbeterpunten. Wie weet krijg jij op 3 maart aanstaande te horen dat jij de taart en het uur coaching hebt gewonnen! Let wel: je inzending telt alleen mee, als je daadwerkelijk bent aangemeld voor de Nieuwsbrief!
 
 Als je de podcast leuk vindt en je hebt inderdaad wat aan alle informatie die ik met je deel, help mij dan met het verder verbeteren en promoten van deze podcast. Deel ‘m op Twitter, like ‘m op Facebook of geef een “+1” op Google+. Het zou helemaal super zijn, als je een bericht achterlaat op iTunes of LinkedIn.
 
-Als je een vraag of een probleem hebt met betrekking tot je online reputatie of de vindbaarheid van je website, kun je reageren onderaan de show notes op [www.reputatiecoaching.nl/63](https://www.reputatiecoaching.nl/63/) of je kunt een mailtje sturen naar [podcast@reputatiecoaching.nl](mailto:podcast@reputatiecoaching.nl).
+Als je een vraag of een probleem hebt met betrekking tot je online reputatie of de vindbaarheid van je website, kun je reageren onderaan de show notes op [www.reputatiecoaching.nl/63](https://web.archive.org/web/20150312093820/http://www.reputatiecoaching.nl/63/) of je kunt een mailtje sturen naar [podcast@reputatiecoaching.nl](mailto:podcast@reputatiecoaching.nl).
 
 Als je dat te lastig vindt, of als je de podcast beluistert terwijl je in de auto zit en je hebt acuut een vraag, spreek dan een boodschap in op de ReputatieCoaching Hotline, op nummer: 084 - 883 15 56. Mogelijk behandel ik je vraag of probleem dan in een artikel of in de podcast.
 
-En je kunt ook rechtstreeks op de website een voicemail achterlaten, door op de tab aan de rechterkant van elke pagina te klikken, en je bericht in te spreken. Dit was [ReputatieCoaching Podcast aflevering 63](https://www.reputatiecoaching.nl/63/) en mijn naam is [Eduard de Boer](http://nl.linkedin.com/in/eduarddeboer/nl).
+En je kunt ook rechtstreeks op de website een voicemail achterlaten, door op de tab aan de rechterkant van elke pagina te klikken, en je bericht in te spreken. Dit was [ReputatieCoaching Podcast aflevering 63](https://web.archive.org/web/20150312093820/http://www.reputatiecoaching.nl/63/) en mijn naam is [Eduard de Boer](http://nl.linkedin.com/in/eduarddeboer/nl).
 
 Ik wens je de komende week weer succes met het werken aan je reputatie, zodat je meteen je reputatie voor jou kunt laten werken!
 
@@ -238,9 +239,9 @@ Doei!
 Links naar content die in deze podcast aan bod komt:
 
 ```
-  * [ReputatieCoaching Podcast in iTunes](https://www.reputatiecoaching.nl/itunes)
-  * [ReputatieCoaching Podcast op Stitcher](https://www.reputatiecoaching.nl/stitcher)
-  * [ReputatieCoaching Podcast RSS-feed](https://feeds.reputatiecoaching.nl/ReputatieCoachingPodcast)
+  * ReputatieCoaching Podcast in iTunes
+  * ReputatieCoaching Podcast op Stitcher
+  * [ReputatieCoaching Podcast RSS-feed](https://web.archive.org/web/20131205064344/http://feeds.reputatiecoaching.nl/reputatiecoachingpodcast)
 ```
 
 Titel: 63: #SMC055, win een taart, vragen van luisteraars en over de juiste Google+ categorie voor een begrafenisondernemer

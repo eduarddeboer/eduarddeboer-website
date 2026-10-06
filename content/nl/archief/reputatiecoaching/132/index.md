@@ -3,6 +3,7 @@ title: '132: Interview met Dirk Doorn van Savvii. Verlies je "Geverifieerd" stat
 date: '2015-06-11T06:30:23+00:00'
 description: Gisteren publiceerde ik het bericht dat Google je geverifieerde bedrijfspagina weer op “ongeverifieerd” kan zetten. Daar kom ik zo nog even op terug, voor het geval je het hebt gemist. In Google Maps is de link naar de Google+ pagina van een bedrijf verdwenen. Wat zal daar achter zitten? Ook zijn reviews van andere sites op Internet uit je Mijn Bedrijf Dashboard verdwenen. Na de intro hoor je er meer over!
 episode: 132
+kgRef: podcast_episode/reputatiecoaching_132
 historical: true
 archivePeriod: 2012–2016
 transcriptStatus: full
@@ -30,20 +31,20 @@ Gisteren publiceerde ik het bericht dat Google je geverifieerde bedrijfspagina w
 
 Hallo en hartelijk welkom bij deze aflevering van de ReputatieCoaching Podcast. Ik ben Eduard de Boer, ReputatieCoach. Dit is dé podcast die jou helpt om meer business te genereren, doordat jouw website beter gevonden wordt, zowel lokaal als landelijk en doordat ik je uitleg hoe je je online reputatie kunt verbeteren. Dit alles helpt je om je bedrijf en jezelf beter op de online kaart te plaatsen.
 
-De podcast kun je vinden op [www.reputatiecoaching.nl/132](https://www.reputatiecoaching.nl/132/). Daar vind je niet alleen de tekst, maar ook video’s waar ik het in deze uitzending over heb, alsmede afbeeldingen, links enzovoorts. Bovendien is de podcast te beluisteren in [iTunes](https://www.reputatiecoaching.nl/itunes), op [Stitcher](https://www.reputatiecoaching.nl/stitcher) en ook op [TuneIn Radio](http://tunein.com/radio/ReputatieCoaching-Podcast-p655084/). Ik raad je aan om je op één van die drie kanalen te abonneren op de podcast, zodat je geen aflevering hoeft te missen!
+De podcast kun je vinden op [www.reputatiecoaching.nl/132](https://web.archive.org/web/20190718110857/https://www.reputatiecoaching.nl/132/). Daar vind je niet alleen de tekst, maar ook video’s waar ik het in deze uitzending over heb, alsmede afbeeldingen, links enzovoorts. Bovendien is de podcast te beluisteren in iTunes, op Stitcher en ook op [TuneIn Radio](http://tunein.com/radio/ReputatieCoaching-Podcast-p655084/). Ik raad je aan om je op één van die drie kanalen te abonneren op de podcast, zodat je geen aflevering hoeft te missen!
 
 Laat ik dan nu overgaan op de onderwerpen voor vandaag…
 
 ## Google kan de “geverifieerd”-status van je Google Mijn Bedrijf pagina afnemen!
 
 *Historische afbeelding niet beschikbaar: Google+*
-Vorige week werd duidelijk dat Google bezig gaat met het opschonen van alle bedrijfspagina’s. [Zo was te lezen dat als je langere tijd niet inlogt op je Google Mijn Bedrijf pagina, je de “geverifieerd”-status kunt kwijtraken](https://www.reputatiecoaching.nl/google-maakt-paginas-ongeverifieerd-na-inactiviteit/). Want Google ziet dat als geringe betrokkenheid of een gebrek daaraan, waardoor de vermelde data mogelijk niet meer geheel actueel kan zijn.
+Vorige week werd duidelijk dat Google bezig gaat met het opschonen van alle bedrijfspagina’s. [Zo was te lezen dat als je langere tijd niet inlogt op je Google Mijn Bedrijf pagina, je de “geverifieerd”-status kunt kwijtraken](https://web.archive.org/web/20150731005540/http://www.reputatiecoaching.nl:80/google-maakt-paginas-ongeverifieerd-na-inactiviteit). Want Google ziet dat als geringe betrokkenheid of een gebrek daaraan, waardoor de vermelde data mogelijk niet meer geheel actueel kan zijn.
 
 Heb echter geen angst: als jij je pagina(’s) hebt geverifieerd en je ontvangt en leest nog steeds de mail van het bijbehorende mailadres, dan is er niets aan de hand. Google stuurt namelijk eerst een herinneringsmailtje.
 
 ## Google+ link verdwijnt in Google Maps
 
-Even verder over Google+: voorheen kon je in Google Maps doorklikken naar de Google+ pagina van een bedrijf. Maar die link is weggehaald. Met de ontkoppeling van Google Foto’s, waar ik het [vorige week](https://www.reputatiecoaching.nl/131/) over had, de “geverifieerd”-status verwijderen en nu dit is het de vraag waar het heen zal gaan met Google Mijn Bedrijf. Wie weet wordt het weer helemaal kaal gestript en gaan we terug naar de soort Google Places die we een paar jaar geleden nog hadden.
+Even verder over Google+: voorheen kon je in Google Maps doorklikken naar de Google+ pagina van een bedrijf. Maar die link is weggehaald. Met de ontkoppeling van Google Foto’s, waar ik het [vorige week](https://web.archive.org/web/20150605073649/http://www.reputatiecoaching.nl/131) over had, de “geverifieerd”-status verwijderen en nu dit is het de vraag waar het heen zal gaan met Google Mijn Bedrijf. Wie weet wordt het weer helemaal kaal gestript en gaan we terug naar de soort Google Places die we een paar jaar geleden nog hadden.
 
 Wat het wordt? Dat weet alleen Google!
 
@@ -98,7 +99,7 @@ Als je de podcast leuk vindt en je wilt nog meer op de hoogte blijven, volg me d
 
 Heb je daadwerkelijk wat aan alle informatie die ik met je deel, help mij dan met het verder verbeteren en promoten van deze podcast. Abonneer je op de podcast, zodat je altijd meteen de nieuwste uitzending krijgt voorgeschoteld.
 
-Zoek de podcast op, in [iTunes](https://www.reputatiecoaching.nl/itunes) of [Stitcher](https://www.reputatiecoaching.nl/stitcher), geef de podcast een sterrenbeoordeling en laat ook je reactie achter. Door de podcast te beoordelen op iTunes en/of Stitcher breng je de podcast onder de aandacht van een breder publiek.
+Zoek de podcast op, in iTunes of Stitcher, geef de podcast een sterrenbeoordeling en laat ook je reactie achter. Door de podcast te beoordelen op iTunes en/of Stitcher breng je de podcast onder de aandacht van een breder publiek.
 
 Je kunt me verder helpen, door de podcast aan te bevelen bij vrienden of collega’s, waarvan je denkt dat ze er hun voordeel mee kunnen doen, of door ’m te delen op Twitter, like’n en delen op Facebook of een “+1” te geven op Google+.
 
@@ -117,9 +118,9 @@ Doei!
 Links naar content die in deze podcast aan bod komt:
 
 ```
-  * [ReputatieCoaching Podcast in iTunes](https://www.reputatiecoaching.nl/itunes)
-  * [ReputatieCoaching Podcast op Stitcher](https://www.reputatiecoaching.nl/stitcher)
+  * ReputatieCoaching Podcast in iTunes
+  * ReputatieCoaching Podcast op Stitcher
   * [ReputatieCoaching Podcast op TuneIn Radio](http://tunein.com/radio/ReputatieCoaching-Podcast-p655084/)
-  * [ReputatieCoaching Podcast RSS-feed](https://feeds.reputatiecoaching.nl/ReputatieCoachingPodcast)
+  * [ReputatieCoaching Podcast RSS-feed](https://web.archive.org/web/20150802021912/http://feeds.reputatiecoaching.nl:80/ReputatieCoachingPodcast)
   * [Savvii](http://www.savvii.nl) (Managed WordPress Hosting)
 ```

@@ -3,6 +3,7 @@ title: Podcast Aflevering 16 (18-03-2013)
 date: '2013-03-18T17:00:23+00:00'
 description: ReputatieCoaching Podcast aflevering 16! Hallo en welkom bij deze aflevering van de ReputatieCoaching Podcast. Afgelopen week heb ik zoals altijd nieuws, roddels en tips verzameld uit de wereld van zoekmachine optimalisatie, social media en reputatiemanagement. Vandaag zal ik de belangrijkste items weer met je delen, zoals elke week. Mijn naam is Eduard de Boer -ook wel bekend als de ReputatieCoach- en ik ben je host voor vandaag. Als eerste heb ik een belangrijke mededeling voor je over het verschijnen van de ReputatieCoaching Podcast.
 episode: 16
+kgRef: podcast_episode/reputatiecoaching_016
 historical: true
 archivePeriod: 2012–2016
 transcriptStatus: full
@@ -101,15 +102,15 @@ Hallo en welkom bij deze aflevering van de ReputatieCoaching Podcast. Afgelopen 
   8. _**Je kunt dan eindelijk Hangouts organiseren** – Google Hangouts zijn echt fantastisch. Het is ongelofelijk dat Google die dienst gratis heeft gemaakt, want daarmee zijn ze opeens een concurrent voor bijvoorbeeld de Citrix diensten “gotowebinar” en “gotomeeting”._
 ```
 
-*Samenvattend: je kunt er gewoon niet meer omheen. Dus ik hoop je met deze 8 redenen dan eindelijk over de streep te hebben getrokken, zodat jij je ook aanmeldt. Als je je dan toch hebt aangemeld, volg dan meteen ook de ReputatieCoaching. Je kunt mij gemakkelijk vinden door in Google+ naar “ReputatieCoaching” te zoeken. Als alternatief kun je naar de pagina [www.reputatiecoaching.nl/gplus](https://www.reputatiecoaching.nl/gplus) gaan (dat is “g-p-l-u-s”).*
+*Samenvattend: je kunt er gewoon niet meer omheen. Dus ik hoop je met deze 8 redenen dan eindelijk over de streep te hebben getrokken, zodat jij je ook aanmeldt. Als je je dan toch hebt aangemeld, volg dan meteen ook de ReputatieCoaching. Je kunt mij gemakkelijk vinden door in Google+ naar “ReputatieCoaching” te zoeken. Als alternatief kun je naar de pagina [www.reputatiecoaching.nl/gplus](https://www.google.com/maps?cid=4978892197645719955) gaan (dat is “g-p-l-u-s”).*
 
-\_Nu ik het toch hierover heb: als jij wat hebt aan de informatie en je vind het leuk om naar de podcast te luisteren, dan kun je ook een bericht achterlaten op onze Facebookpagina, op: [www.reputatiecoaching.nl/facebook](https://www.reputatiecoaching.nl/facebook). Geef een “Like” of “+1” op Google+, waardoor je laat weten dat je de content op prijs stelt. Of laat een leuke recensie achter op mijn LinkedIn-profiel, op: [www.reputatiecoaching.nl/linkedin](https://www.reputatiecoaching.nl/linkedin). \_
+\_Nu ik het toch hierover heb: als jij wat hebt aan de informatie en je vind het leuk om naar de podcast te luisteren, dan kun je ook een bericht achterlaten op onze Facebookpagina, op: [www.reputatiecoaching.nl/facebook](https://www.facebook.com/reputatiecoaching/). Geef een “Like” of “+1” op Google+, waardoor je laat weten dat je de content op prijs stelt. Of laat een leuke recensie achter op mijn LinkedIn-profiel, op: [www.reputatiecoaching.nl/linkedin](https://www.linkedin.com/in/eduarddeboer/nl). \_
 
 *Je kunt me ook helpen met het verder vergroten van de populariteit door vrienden, vriendinnen of collega’s over deze podcast te vertellen. Of ga vandaag nog naar iTunes en maak een account aan, als je die nog niet hebt. Beoordeel dan deze podcast op iTunes en stuur een berichtje naar [podcast@reputatiecoaching.nl](mailto:podcast@reputatiecoaching.nl), dat je een recensie hebt gegeven. Zit je achter je computer en heb je Twitter of iets dergelijks geopend, stuur dan een tweet met je mening met hashtag “repcoach”, dus #repcoach erbij.*
 
-*Geef gerust een recensie. En als je opmerkingen hebt over deze podcast, laat die dan op de website onderaan de transcriptie achter. Je kunt de transcriptie van deze podcast snel online vinden door te surfen naar: [www.reputatiecoaching.nl/podcast-16/](https://www.reputatiecoaching.nl/podcast-16/). Als je ergens een recensie hebt geplaatst, stuur me dan een mailtje zodat ik je recensie kan vermelden in de podcast.*
+*Geef gerust een recensie. En als je opmerkingen hebt over deze podcast, laat die dan op de website onderaan de transcriptie achter. Je kunt de transcriptie van deze podcast snel online vinden door te surfen naar: [www.reputatiecoaching.nl/podcast-16/](https://web.archive.org/web/20130327190412/http://www.reputatiecoaching.nl:80/podcast-16/). Als je ergens een recensie hebt geplaatst, stuur me dan een mailtje zodat ik je recensie kan vermelden in de podcast.*
 
-*Ik ga er nu van uit dat je je op Google+ hebt aangemeld en dat je inmiddels ook [Google Authorship hebt ingesteld](https://www.reputatiecoaching.nl/wiki/google-authorship/). Op SearchEnginePeople kwam ik een leuk lijstje tegen met 7 tips hoe het maximale kunt halen uit je Google+ Authorship. Zij hebben het over AuthorRank, maar de discussie over het verschil met Authorship voer ik graag een andere keer. Eerst de 7 tips:*
+*Ik ga er nu van uit dat je je op Google+ hebt aangemeld en dat je inmiddels ook Google Authorship hebt ingesteld. Op SearchEnginePeople kwam ik een leuk lijstje tegen met 7 tips hoe het maximale kunt halen uit je Google+ Authorship. Zij hebben het over AuthorRank, maar de discussie over het verschil met Authorship voer ik graag een andere keer. Eerst de 7 tips:*
 
 ```
   1. _**Produceer goede content** – Content is king. Dat staat al tijden als een paal boven water. Datzelfde geldt dus ook voor de content, waar jij door middel van Google+ Authorship jouw naam aan verbindt._

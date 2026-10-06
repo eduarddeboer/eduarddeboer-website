@@ -3,6 +3,7 @@ title: '103: Geen reviews in Winterberg. Google Carrousel komt en gaat. Sitelink
 date: '2014-11-20T07:30:37+00:00'
 description: In Winterberg (Duitsland) is men nog niet zichtbaar actief met reviews. Dat ervoer ik afgelopen weekend. En dan lijkt het erop, alsof we in Nederland binnenkort ook de carrousel voor lokale resultaten gaan krijgen, terwijl Google in de Verenigde Staten is begonnen de carrousel weer weg te halen. Het wordt er niet duidelijker op. Maar wat verandert er dan wellicht in de toekomst? Ik vertel het je zometeen! Ik ben aan het experimenteren met de zogenaamde “sitelinks search box”; dat is het volgende onderwerp voor vandaag.
 episode: 103
+kgRef: podcast_episode/reputatiecoaching_103
 historical: true
 archivePeriod: 2012–2016
 transcriptStatus: full
@@ -28,7 +29,7 @@ In Winterberg (Duitsland) is men nog niet zichtbaar actief met reviews. Dat ervo
 
 Hallo en hartelijk welkom bij deze aflevering van de ReputatieCoaching Podcast. Ik ben Eduard de Boer, ReputatieCoach. Dit is dé podcast die jou helpt om meer business te genereren, doordat jouw website beter gevonden wordt, zowel lokaal als landelijk en doordat ik je uitleg hoe je je online reputatie kunt verbeteren. Hierdoor zet je je bedrijf en jezelf beter op de online kaart.
 
-De podcast kun je vinden op [www.reputatiecoaching.nl/103](https://www.reputatiecoaching.nl/103/). Daar vind je niet alleen de tekst, maar ook video’s waar ik het in deze uitzending over heb, alsmede afbeeldingen, links enzovoorts. Bovendien is de podcast te beluisteren in [iTunes](https://www.reputatiecoaching.nl/itunes), op [Stitcher](https://www.reputatiecoaching.nl/stitcher) en ook op [TuneIn Radio](http://tunein.com/radio/ReputatieCoaching-Podcast-p655084/)103. Daar kun je je dus ook abonneren op de wekelijkse podcast. Veel mensen vinden het ideaal om de wekelijkse afleveringen van de podcast op hun gemak te beluisteren, terwijl ze autorijden, fietsen, wandelen of trainen in de sportschool.
+De podcast kun je vinden op [www.reputatiecoaching.nl/103](https://web.archive.org/web/20150312095056/http://www.reputatiecoaching.nl/103/). Daar vind je niet alleen de tekst, maar ook video’s waar ik het in deze uitzending over heb, alsmede afbeeldingen, links enzovoorts. Bovendien is de podcast te beluisteren in iTunes, op Stitcher en ook op [TuneIn Radio](http://tunein.com/radio/ReputatieCoaching-Podcast-p655084/)103. Daar kun je je dus ook abonneren op de wekelijkse podcast. Veel mensen vinden het ideaal om de wekelijkse afleveringen van de podcast op hun gemak te beluisteren, terwijl ze autorijden, fietsen, wandelen of trainen in de sportschool.
 
 Laat ik dan nu overgaan op de onderwerpen voor vandaag…
 
@@ -76,7 +77,7 @@ Tot zover over de promotie van een reis-informatie-site.
 
 ## “To carrousel or NOT to carrousel?”
 
-Laatst had ik de lokale [Google carrousel voor het eerst in de Nederlandstalige zoekresultaten](https://www.reputatiecoaching.nl/google-carrousel-in-nederland/) op google.nl gespot. Daar heb ik toen ook meteen een video van gemaakt. Lange tijd heb ik geroepen dat de carrousel ook naar Nederland zou komen. En ja, in zekere zin heb ik daar dus gelijk in gekregen.
+Laatst had ik de lokale [Google carrousel voor het eerst in de Nederlandstalige zoekresultaten](https://web.archive.org/web/20141120162637/http://www.reputatiecoaching.nl:80/google-carrousel-in-nederland/) op google.nl gespot. Daar heb ik toen ook meteen een video van gemaakt. Lange tijd heb ik geroepen dat de carrousel ook naar Nederland zou komen. En ja, in zekere zin heb ik daar dus gelijk in gekregen.
 
 Maar inmiddels is de carrousel in de Verenigde Staten alweer op zijn retour! De markt was er niet blij mee en ook Google wilde naar een andere weergave van lokale bedrijven. Daar is het nu mee begonnen, lijkt het.
 
@@ -98,7 +99,7 @@ Om te beginnen: wat is de sitelinks search box? Dit is een extra zoekveld, dat j
 
 [![Sitelinks voor Allround Fotografie](20141120-sitelinks-allround-fotografie.png)](https://lh6.googleusercontent.com/-_nOBRcPFNrE/VG2ozMGAsjI/AAAAAAAABVw/QVqUw7Ty5b8/w547-h250-no/20141120-sitelinks-allround-fotografie.png)
 
-Begin september heb ik voor het eerst over de sitelinks search box gelezen. Op het Google Webmaster Central Blog werd toen op 5 september een artikel gepubliceerd, met de titel “[An improved search box within the search results](http://googlewebmastercentral.blogspot.nl/2014/09/improved-sitelinks-search-box.html)”. Daarin werden toen screenshots van een mobiele weergave vertoond. Later doken er ook screenshots van desktopversies op.
+Begin september heb ik voor het eerst over de sitelinks search box gelezen. Op het Google Webmaster Central Blog werd toen op 5 september een artikel gepubliceerd, met de titel “[An improved search box within the search results](https://web.archive.org/web/20141028150609/http://googlewebmastercentral.blogspot.nl:80/2014/09/improved-sitelinks-search-box.html)”. Daarin werden toen screenshots van een mobiele weergave vertoond. Later doken er ook screenshots van desktopversies op.
 
 Het komt erop neer dat Google een tweede zoekveld vertoont in de zoekresultaten, als er bij jouw site de zogenaamde sitelinks worden vertoond. Dat is het gemakkelijkste te testen door je bedrijfsnaam in te toetsen, zoals ik in de afbeelding van de sitelinks voor Allround Fotografie heb gedaan.
 
@@ -114,7 +115,7 @@ Dus het is ook beschikbaar voor Nederlandstalige sites. Zoals elke keer als ik e
 
 ## Google als GRATIS CDN (Content Delivery Network)
 
-Ik vertelde je al in [podcast 65](https://www.reputatiecoaching.nl/65/) dat ik Google+ voor mijn site [www.reputatiecoaching.nl](/) gebruik als een Content Delivery Network, afgekort “CDN”, voor vrijwel al mijn afbeeldingen. Hoe ik dat doe, wil ik je in deze podcast kort uitleggen. En ik zal er binnenkort ook een instructievideo over maken.
+Ik vertelde je al in [podcast 65](/nl/archief/reputatiecoaching/065/) dat ik Google+ voor mijn site [www.reputatiecoaching.nl](/) gebruik als een Content Delivery Network, afgekort “CDN”, voor vrijwel al mijn afbeeldingen. Hoe ik dat doe, wil ik je in deze podcast kort uitleggen. En ik zal er binnenkort ook een instructievideo over maken.
 
 Maar waarom zou je überhaupt de afbeeldingen in jouw berichten, op jouw website, vanaf een andere website willen laten vertonen?
 
@@ -145,7 +146,7 @@ Welkom in de mooie wereld van Google+! Ik gebruik Google+ inmiddels al ongeveer 
 
 Om te beginnen moet je een Google+ account hebben, ofwel een persoonlijk Google+ profiel, of een Google+ pagina. Zo heb ik voor ReputatieCoaching een aparte Google+ pagina, die je trouwens kunt vinden op: [plus.google.com/+ReputatieCoachingNL](https://plus.google.com/+ReputatieCoachingNL). Daar sla ik de afbeeldingen op, die ik in de artikelen gebruik. Natuurlijk zorg ik ervoor dat afbeeldingen welluidende bestandsnamen hebben, die bij voorkeur wat relevante zoektermen bevatten.
 
-Maar voordat ik de afbeeldingen upload, optimaliseer ik ze eerst met compressor.io. De instructievideo hiervoor heb ik nogmaals opgenomen in de show notes, op [www.reputatiecoaching.nl/103](https://www.reputatiecoaching.nl/103/):
+Maar voordat ik de afbeeldingen upload, optimaliseer ik ze eerst met compressor.io. De instructievideo hiervoor heb ik nogmaals opgenomen in de show notes, op [www.reputatiecoaching.nl/103](https://web.archive.org/web/20150312095056/http://www.reputatiecoaching.nl/103/):
 
 Ik vind overigens het verkleinen van de resolutie en de bestandsgrootte van een afbeelding normaliter een goede gewoonte, om zo de bandbreedte te beperken, de laadtijd van pagina’s te verkorten en dus de gebruikerservaring te verhogen. Maar… Op Google+ upload ik bij voorkeur afbeeldingen met een zo hoog mogelijke resolutie. Waarom? Dat leg ik je zometeen uit.
 
@@ -173,7 +174,7 @@ Dat doe je door in de URL iets te veranderen:
 
 [![Pas de afmetingen van de afbeelding op Google+ aan](20141120-gplus-upload-4.png)](https://lh4.googleusercontent.com/-llVmhP_ZrSk/VG2qqNCUarI/AAAAAAAABWs/c8ilNvraQiA/w1280/20141120-gplus-upload-10.png)
 
-Op de afbeelding die je kunt vinden in de show notes van deze podcast op [www.reputatiecoaching.nl/103](https://www.reputatiecoaching.nl/103/) zie je staan “W” of “S” en dan nog wat getallen en letters. Verander dat in bijvoorbeeld W200 om een afbeelding te krijgen die slechts 200 pixels breed is. Daarmee kun je dus de grootte van de afbeelding aanpassen.
+Op de afbeelding die je kunt vinden in de show notes van deze podcast op [www.reputatiecoaching.nl/103](https://web.archive.org/web/20150312095056/http://www.reputatiecoaching.nl/103/) zie je staan “W” of “S” en dan nog wat getallen en letters. Verander dat in bijvoorbeeld W200 om een afbeelding te krijgen die slechts 200 pixels breed is. Daarmee kun je dus de grootte van de afbeelding aanpassen.
 
 Zo voorkom je dat een *te grote* afbeelding naar de browser wordt gestuurd, die dan vervolgens daar softwarematig wordt verkleind. Dat is iets wat je koste wat het kost wilt voorkomen.
 
@@ -183,13 +184,13 @@ Mocht je er niet uitkomen, schroom dan niet en post je vraag onderaan de show no
 
 Tja, het zat er al een tijdje aan te komen en nu heeft Google het ook daadwerkelijk zelf min of meer bevestigd: mobielvriendelijke sites kunnen hoger gaan scoren in de zoekmachines dan sites die minder goed worden weergegeven op mobiele apparaten… Echt waar!
 
-Google is namelijk begonnen om op mobiele apparaten in de zoekresultaten te laten zien of een site mobielvriendelijk is. Dit heeft Google 18 november jongstleden bekendgemaakt. Je kunt dit nalezen in het artikel “[Helping users find mobile-friendly pages](http://googlewebmastercentral.blogspot.nl/2014/11/helping-users-find-mobile-friendly-pages.html)” op het Google Webmaster Central Blog.
+Google is namelijk begonnen om op mobiele apparaten in de zoekresultaten te laten zien of een site mobielvriendelijk is. Dit heeft Google 18 november jongstleden bekendgemaakt. Je kunt dit nalezen in het artikel “[Helping users find mobile-friendly pages](https://web.archive.org/web/20141121005845/http://googlewebmastercentral.blogspot.nl:80/2014/11/helping-users-find-mobile-friendly-pages.html)” op het Google Webmaster Central Blog.
 
 In de show notes heb ik een screenshot opgenomen, waarin je kunt zien hoe dit er uit komt te zien:
 
 [![Nieuwe Google Mobile Friendly tag](20141120-mobile-friendly.png)](https://lh3.googleusercontent.com/-gv6UD8ScpsY/VG2oyMiJl7I/AAAAAAAABVo/3aLZ2fbNoQg/w400/20141120-mobile-friendly.png)Het komt erop neer dat voor het stukje introtekst onder de URL in de vermelding in de zoekresultaten een grijze tekst wordt vertoond, die luidt: “Mobile-friendly”. Dat is in elk geval, wat Google zegt over de Engelse zoekresultaten.
 
-En Google stelt jou ook in staat om nu meteen te testen of jouw site mobielvriendelijk is. Daarvoor heeft het bedrijf namelijk de “[Mobile-Friendly Test](https://www.google.com/webmasters/tools/mobile-friendly/)” ontwikkeld. De link hier naartoe vind je natuurlijk in de show notes van deze podcast, op [www.reputatiecoaching.nl/103](https://www.reputatiecoaching.nl/103/).
+En Google stelt jou ook in staat om nu meteen te testen of jouw site mobielvriendelijk is. Daarvoor heeft het bedrijf namelijk de “[Mobile-Friendly Test](https://www.google.com/webmasters/tools/mobile-friendly/)” ontwikkeld. De link hier naartoe vind je natuurlijk in de show notes van deze podcast, op [www.reputatiecoaching.nl/103](https://web.archive.org/web/20150312095056/http://www.reputatiecoaching.nl/103/).
 
 Ik heb direct een aantal sites getest, want ik wil natuurlijk wel dat mijn sites het label van mobielvriendelijk krijgen toebedeeld van Google. Gelukkig kwamen alle sites door de test:
 
@@ -244,7 +245,7 @@ Als je werkzaam bent in het ontwikkelen van informatiesystemen, dan zul je smull
 
 ## 23 minder bekende toepassingen voor Twitter lists
 
-Het laatste topic voor vandaag gaat ook over Twitter. Op de site van Buffer kwam ik een tijdje geleden een leuk artikel tegen over bijzondere toepassingen van Twitter lists. In podcasts [3](https://www.reputatiecoaching.nl/3/), [12](https://www.reputatiecoaching.nl/12/) en [35](https://www.reputatiecoaching.nl/35/) vertelde ik je al eens over Twitter lists, maar dit artikel op het weblog van Buffer vond ik dermate leuk dat ik het graag met je wilde delen.
+Het laatste topic voor vandaag gaat ook over Twitter. Op de site van Buffer kwam ik een tijdje geleden een leuk artikel tegen over bijzondere toepassingen van Twitter lists. In podcasts [3](https://web.archive.org/web/20140909084944/http://www.reputatiecoaching.nl:80/3/), [12](https://web.archive.org/web/20150312092433/http://www.reputatiecoaching.nl/12/) en [35](https://web.archive.org/web/20150312093013/http://www.reputatiecoaching.nl/35/) vertelde ik je al eens over Twitter lists, maar dit artikel op het weblog van Buffer vond ik dermate leuk dat ik het graag met je wilde delen.
 
 ```
   1. _Maak een lijst van alle personeelsleden van je bedrijf_ – Dit is een goede motivatie voor nieuwe medewerkers die nog niet op Twitter zitten, om ook op Twitter te gaan en kennis te delen.
@@ -278,7 +279,7 @@ En met deze 23 minder bekende toepassingen voor Twitter lists kom ik dan ook van
 
 Als je de podcast leuk vindt en je wilt nog meer op de hoogte blijven, volg me dan ook op Twitter, via [@reputatiecoach1](https://twitter.com/reputatiecoach1).
 
-Heb je inderdaad wat aan alle informatie die ik met je deel, help mij dan met het verder verbeteren en promoten van deze podcast. Surf daarvoor naar [iTunes](https://www.reputatiecoaching.nl/itunes) of [Stitcher](https://www.reputatiecoaching.nl/stitcher), geef de podcast een sterrenbeoordeling en laat ook je reactie achter. Door de podcast te beoordelen op iTunes en/of Stitcher breng je de podcast onder de aandacht van een breder publiek.
+Heb je inderdaad wat aan alle informatie die ik met je deel, help mij dan met het verder verbeteren en promoten van deze podcast. Surf daarvoor naar iTunes of Stitcher, geef de podcast een sterrenbeoordeling en laat ook je reactie achter. Door de podcast te beoordelen op iTunes en/of Stitcher breng je de podcast onder de aandacht van een breder publiek.
 
 Je kunt me verder helpen, door de podcast aan te bevelen bij vrienden of collega’s, waarvan je denkt dat ze er hun voordeel mee kunnen doen, of door ’m te delen op Twitter, like’n en delen op Facebook of een “+1” te geven op Google+.
 
@@ -286,7 +287,7 @@ En vergeet niet: ik ben hier om je te helpen! Als je een vraag of een probleem h
 
 Als je dat te lastig vindt, of als je de podcast beluistert terwijl je in de auto zit en je hebt acuut een vraag, spreek dan een boodschap in op de ReputatieCoaching Hotline, op nummer: 084 - 883 15 56. Mogelijk behandel ik je vraag of probleem dan in een artikel of in de podcast.
 
-En je kunt ook rechtstreeks op de website een voicemail achterlaten, door op de tab aan de rechterkant van elke pagina te klikken, en je bericht in te spreken. Dit was [ReputatieCoaching Podcast aflevering 103](https://www.reputatiecoaching.nl/103/) en mijn naam is [Eduard de Boer](http://nl.linkedin.com/in/eduarddeboer/nl).
+En je kunt ook rechtstreeks op de website een voicemail achterlaten, door op de tab aan de rechterkant van elke pagina te klikken, en je bericht in te spreken. Dit was [ReputatieCoaching Podcast aflevering 103](https://web.archive.org/web/20150312095056/http://www.reputatiecoaching.nl/103/) en mijn naam is [Eduard de Boer](http://nl.linkedin.com/in/eduarddeboer/nl).
 
 Ik wens je de komende week weer succes met het werken aan je reputatie, zodat je meteen je reputatie voor jou kunt laten werken!
 
@@ -297,13 +298,13 @@ Doei!
 Links naar content die in deze podcast aan bod komt:
 
 ```
-  * [ReputatieCoaching Podcast in iTunes](https://www.reputatiecoaching.nl/itunes)
-  * [ReputatieCoaching Podcast op Stitcher](https://www.reputatiecoaching.nl/stitcher)
+  * ReputatieCoaching Podcast in iTunes
+  * ReputatieCoaching Podcast op Stitcher
   * [ReputatieCoaching Podcast op TuneIn Radio](http://tunein.com/radio/ReputatieCoaching-Podcast-p655084/)
-  * [ReputatieCoaching Podcast RSS-feed](https://feeds.reputatiecoaching.nl/ReputatieCoachingPodcast)
+  * [ReputatieCoaching Podcast RSS-feed](https://web.archive.org/web/20141223114514/http://feeds.reputatiecoaching.nl:80/ReputatieCoachingPodcast)
   * [Google Mobile-Friendly Test](https://www.google.com/webmasters/tools/mobile-friendly/)
-  * “[Sitelinks Search Box](https://developers.google.com/webmasters/richsnippets/sitelinkssearch)” (Google Developers)
+  * “[Sitelinks Search Box](https://web.archive.org/web/20141207235844/https://developers.google.com/webmasters/richsnippets/sitelinkssearch)” (Google Developers)
   * “[23 Seldom-Used Ideas for How to Use Twitter Lists](https://blog.bufferapp.com/twitter-lists)” (BufferSocial, 20 oktober 2014)
-  * “[Helping users find mobile-friendly pages](http://googlewebmastercentral.blogspot.nl/2014/11/helping-users-find-mobile-friendly-pages.html)” (Google Webmaster Central Blog, 18 november 2014)
+  * “[Helping users find mobile-friendly pages](https://web.archive.org/web/20141121005845/http://googlewebmastercentral.blogspot.nl:80/2014/11/helping-users-find-mobile-friendly-pages.html)” (Google Webmaster Central Blog, 18 november 2014)
   * “[Building a complete Tweet index](https://blog.twitter.com/2014/building-a-complete-tweet-index)” (Twitter Blog, 18 november 2014)
 ```

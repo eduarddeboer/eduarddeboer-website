@@ -3,6 +3,7 @@ title: '83: Google stopt met Authorship foto’s en met Orkut. Interview met Rob
 date: '2014-07-03T06:30:35+00:00'
 description: Ik begin deze podcast met een bericht van luisteraar Edwin. Daarna heb ik een update over Google Authorship, want sinds afgelopen week worden er geen auteurfoto’s meer vertoond bij de zoekresultaten. Ook stopt Google met Orkut en wordt het effect van het “Recht om te worden vergeten” zichtbaar in de zoekresultaten op Google. Verder maakte KLM ex-amigos na afloop van de wedstrijd Nederland-Mexico en als laatste heb ik vandaag weer een interview met Robert Spakman, één van de initiatiefnemers van MeetingRoomReview.
 episode: 83
+kgRef: podcast_episode/reputatiecoaching_083
 historical: true
 archivePeriod: 2012–2016
 transcriptStatus: full
@@ -28,9 +29,9 @@ Hallo en hartelijk welkom bij deze aflevering van de ReputatieCoaching Podcast. 
 
 Als persoon kun je met de diverse tips aan de slag om bijvoorbeeld je online reputatie als gezagvoerder, stewardess, purser, piloot, social media medewerker of wat dan ook bij de KLM te verbeteren.
 
-De podcast kun je vinden op [www.reputatiecoaching.nl/83](https://www.reputatiecoaching.nl/83/). Daar vind je niet alleen de tekst, maar ook video’s waar ik het in deze uitzending over heb, alsmede afbeeldingen, links enzovoorts. Bovendien is de podcast te beluisteren in [iTunes](https://www.reputatiecoaching.nl/itunes) en op [Stitcher](https://www.reputatiecoaching.nl/stitcher). Daar kun je je dus ook abonneren op de wekelijkse podcast. Veel mensen vinden het ideaal om de wekelijkse afleveringen van de podcast op hun gemak te beluisteren, terwijl ze autorijden.
+De podcast kun je vinden op [www.reputatiecoaching.nl/83](https://web.archive.org/web/20140803035055/http://www.reputatiecoaching.nl:80/83/). Daar vind je niet alleen de tekst, maar ook video’s waar ik het in deze uitzending over heb, alsmede afbeeldingen, links enzovoorts. Bovendien is de podcast te beluisteren in iTunes en op Stitcher. Daar kun je je dus ook abonneren op de wekelijkse podcast. Veel mensen vinden het ideaal om de wekelijkse afleveringen van de podcast op hun gemak te beluisteren, terwijl ze autorijden.
 
-Vandaag begin ik dus met de vragen van een luisteraar. Edwin liet op het weblog een bericht achter bij [podcast 81](https://www.reputatiecoaching.nl/81/). Hij schreef het volgende:
+Vandaag begin ik dus met de vragen van een luisteraar. Edwin liet op het weblog een bericht achter bij [podcast 81](https://web.archive.org/web/20150312094418/http://www.reputatiecoaching.nl/81/). Hij schreef het volgende:
 
 Wellicht is het handig om tussen de verschillende items “iets” te doen waardoor je weet dat het over een nieuw onderwerp gaat. Je was in deze podcast bezig met een onderwerp en ging direct over naar een ander onderwerp. Nogal verwarrend als je niet in de gaten hebt dat het over een ander onderwerp gaat.
 
@@ -46,7 +47,7 @@ De reden dat ik je reactie overigens vorige week nog niet heb behandeld, komt do
 
 Zoals je hebt kunnen horen, heb ik eentje gevonden. Maar ik kan je wel vertellen dat ik er nog niet 100% tevreden over ben. Toegegeven, het is beter dan niets! Graag hoor of lees ik wat jij ervan vindt, Edwin, en ook wat de andere luisteraars ervan vinden.
 
-Verhoogt dit de kwaliteit? Is het zo duidelijker dat ik overga op een ander onderwerp? Heb je eventueel suggesties voor een andere transitie tune? Laat het me weten en reageer onderaan de show notes van deze podcast, die je kunt vinden op [www.reputatiecoaching.nl/83](https://www.reputatiecoaching.nl/83/).
+Verhoogt dit de kwaliteit? Is het zo duidelijker dat ik overga op een ander onderwerp? Heb je eventueel suggesties voor een andere transitie tune? Laat het me weten en reageer onderaan de show notes van deze podcast, die je kunt vinden op [www.reputatiecoaching.nl/83](https://web.archive.org/web/20140803035055/http://www.reputatiecoaching.nl:80/83/).
 
 Dan als reactie op het tweede deel van je bericht, Edwin. Je zegt dat er steeds meer tijd gaat zitten in de standaardteksten. Als je hiermee doelt op het verschil in standaardteksten van de eerste paar podcasts en de huidige, dan geef ik je meteen gelijk!
 
@@ -68,7 +69,7 @@ Soms experimenteer ik met een soort van terugblik naar de vorige podcast. Dit do
 
 Mijn doel is een podcast te maken die het grootste deel van de luisteraars waardeert, alhoewel ik me ervan bewust ben dat ik het nooit voor 100% van de luisteraars helemaal goed kan doen.
 
-Ik maak de podcast voor jou, als luisteraar! Dus laat gerust je stem horen, net als Edwin, als je vindt dat ik sommige dingen volgens jou beter of anders kan doen. Daar sta ik echt voor open! Post je reacties, op: [www.reputatiecoaching.nl/83](https://www.reputatiecoaching.nl/83/).
+Ik maak de podcast voor jou, als luisteraar! Dus laat gerust je stem horen, net als Edwin, als je vindt dat ik sommige dingen volgens jou beter of anders kan doen. Daar sta ik echt voor open! Post je reacties, op: [www.reputatiecoaching.nl/83](https://web.archive.org/web/20140803035055/http://www.reputatiecoaching.nl:80/83/).
 
 ## Google verwijdert foto’s bij Google Authorship
 
@@ -126,7 +127,7 @@ In de show notes heb ik hier ook een screenshot van opgenomen:
 
 [![Recht om vergeten te worden op Google een feit (waarschuwing)](20140703-google-forgotten-us.png)](https://lh5.googleusercontent.com/-MKrrhqqehMM/U7RIUP52W9I/AAAAAAAAA9o/uKWRijKQ3p4/w558-h171-no/20140703-google-forgotten-nl.png)
 
-Zoals ook al werd verwacht, voert Google deze beperking niet wereldwijd in. Want als je op de Amerikaanse site van Google zoekt, dan zie je helemaal niet een soortgelijke tekst. Dat kun je verifiëren in de tweede screenshot, die ik in de show notes op [www.reputatiecoaching.nl/83](https://www.reputatiecoaching.nl/83/) heb opgenomen:
+Zoals ook al werd verwacht, voert Google deze beperking niet wereldwijd in. Want als je op de Amerikaanse site van Google zoekt, dan zie je helemaal niet een soortgelijke tekst. Dat kun je verifiëren in de tweede screenshot, die ik in de show notes op [www.reputatiecoaching.nl/83](https://web.archive.org/web/20140803035055/http://www.reputatiecoaching.nl:80/83/) heb opgenomen:
 
 [![Recht om vergeten te worden niet van toepassing in de USA](20140703-google-forgotten-us.png)](https://lh4.googleusercontent.com/-BVywrny2QEI/U7RIUvciifI/AAAAAAAAA9g/xQWwSooKiAE/w558-h275-no/20140703-google-forgotten-us.png)
 
@@ -171,7 +172,7 @@ Tot zover over de commotie rond die ene tweet van KLM.
 
 ## Interview met Robert Spakman over de vernieuwde MeetingRoomReview
 
-In oktober vorig jaar had ik Robert Spakman van het bedrijf Rooomer (met drie o’s) in de show, omdat Rooomer toen net was begonnen met de dienst [MeetingRoomReview.com,](http://www.meetingroomreview.com) een site voor het verzamelen van reviews voor vergaderlocaties. Dat was in [podcast 46](https://www.reputatiecoaching.nl/46/).
+In oktober vorig jaar had ik Robert Spakman van het bedrijf Rooomer (met drie o’s) in de show, omdat Rooomer toen net was begonnen met de dienst [MeetingRoomReview.com,](http://www.meetingroomreview.com) een site voor het verzamelen van reviews voor vergaderlocaties. Dat was in [podcast 46](https://web.archive.org/web/20140803034607/http://www.reputatiecoaching.nl:80/46/).
 
 [*Historische afbeelding niet beschikbaar: MeetingroomReview.com*](http://www.meetingroomreview.com)
 
@@ -204,13 +205,13 @@ De eerste vier personen die instemden met een interview, heb ik ter voorbereidin
 
 Nou, als alles zo voorspoedig verloopt en iedereen meewerkt, kun je gedurende de zomermaanden dus daadwerkelijk diverse interviews verwachten.
 
-Waar ik wel benieuwd naar ben, is wat jou het meeste aanspreekt: alleen maar nieuws, alleen interviews, of een combinatie van beide? Of vind je dat ik interviews apart moet publiceren, los van het nieuws en de tips die ik in de podcast presenteer? Geef je mening onderaan de show notes, op [www.reputatiecoaching.nl/83/](https://www.reputatiecoaching.nl/83/).
+Waar ik wel benieuwd naar ben, is wat jou het meeste aanspreekt: alleen maar nieuws, alleen interviews, of een combinatie van beide? Of vind je dat ik interviews apart moet publiceren, los van het nieuws en de tips die ik in de podcast presenteer? Geef je mening onderaan de show notes, op [www.reputatiecoaching.nl/83/](https://web.archive.org/web/20140803035055/http://www.reputatiecoaching.nl:80/83/).
 
 Dan kom ik hiermee aan het einde van deze 83e podcast en begin ik met de standaard afkondiging, waar ik elke podcast mee afsluit. Als je die al kent, kun je nu dus rustig stoppen met luisteren…
 
 Als je de podcast leuk vindt en je wilt nog meer op de hooge blijven, volg me dan ook op Twitter, via [@reputatiecoach1](https://twitter.com/reputatiecoach1).
 
-Heb je inderdaad wat aan alle informatie die ik met je deel, help mij dan met het verder verbeteren en promoten van deze podcast. Surf daarvoor naar [iTunes](https://www.reputatiecoaching.nl/itunes) of [Stitcher](https://www.reputatiecoaching.nl/stitcher), geef de podcast een sterrenbeoordeling en laat ook je reactie achter. Door de podcast te beoordelen op iTunes en/of Stitcher breng je de podcast onder de aandacht van een breder publiek.
+Heb je inderdaad wat aan alle informatie die ik met je deel, help mij dan met het verder verbeteren en promoten van deze podcast. Surf daarvoor naar iTunes of Stitcher, geef de podcast een sterrenbeoordeling en laat ook je reactie achter. Door de podcast te beoordelen op iTunes en/of Stitcher breng je de podcast onder de aandacht van een breder publiek.
 
 Je kunt me verder helpen, door de podcast aan te bevelen bij vrienden of collega’s, waarvan je denkt dat ze er hun voordeel mee kunnen doen, of door ’m te delen op Twitter, like’n en delen op Facebook of een “+1” te geven op Google+.
 
@@ -218,7 +219,7 @@ En vergeet niet: ik ben hier om je te helpen! Als je een vraag of een probleem h
 
 Als je dat te lastig vindt, of als je de podcast beluistert terwijl je in de auto zit en je hebt acuut een vraag, spreek dan een boodschap in op de ReputatieCoaching Hotline, op nummer: 084 - 883 15 56. Mogelijk behandel ik je vraag of probleem dan in een artikel of in de podcast.
 
-En je kunt ook rechtstreeks op de website een voicemail achterlaten, door op de tab aan de rechterkant van elke pagina te klikken, en je bericht in te spreken. Dit was [ReputatieCoaching Podcast aflevering 83](https://www.reputatiecoaching.nl/83/) en mijn naam is [Eduard de Boer](http://nl.linkedin.com/in/eduarddeboer/nl).
+En je kunt ook rechtstreeks op de website een voicemail achterlaten, door op de tab aan de rechterkant van elke pagina te klikken, en je bericht in te spreken. Dit was [ReputatieCoaching Podcast aflevering 83](https://web.archive.org/web/20140803035055/http://www.reputatiecoaching.nl:80/83/) en mijn naam is [Eduard de Boer](http://nl.linkedin.com/in/eduarddeboer/nl).
 
 Ik wens je de komende week weer succes met het werken aan je reputatie, zodat je meteen je reputatie voor jou kunt laten werken!
 
@@ -229,7 +230,7 @@ Doei!
 Links naar content die in deze podcast aan bod komt:
 
 ```
-  * [ReputatieCoaching Podcast in iTunes](https://www.reputatiecoaching.nl/itunes)
-  * [ReputatieCoaching Podcast op Stitcher](https://www.reputatiecoaching.nl/stitcher)
-  * [ReputatieCoaching Podcast RSS-feed](https://feeds.reputatiecoaching.nl/ReputatieCoachingPodcast)
+  * ReputatieCoaching Podcast in iTunes
+  * ReputatieCoaching Podcast op Stitcher
+  * [ReputatieCoaching Podcast RSS-feed](https://web.archive.org/web/20140803035048/http://feeds.reputatiecoaching.nl:80/ReputatieCoachingPodcast)
 ```

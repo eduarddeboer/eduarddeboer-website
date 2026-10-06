@@ -3,6 +3,7 @@ title: '93: Het Nieuwe Werken (Flex!), Dropbox problemen, endless scrolling en s
 date: '2014-09-11T06:30:42+00:00'
 description: De onderwerpen voor deze podcast zijn voornamelijk uitgewerkt tijdens een flexwerksessie, daarover zo meteen meer. En vorige week na het publiceren van de podcast, zag ik dat WordPress 4.0 was uitgekomen, dus daar wil ik je ook het één en ander over vertellen. Ook heb ik de oplossing, als je tegen problemen aanloopt met het autoriseren van de plugin BackWPup met je Dropbox-account. Verder heb ik antwoord op de vraag of responsive webdesign een ranking signaal is voor Google, een topic over de hersteltijd bij een Penguin algoritmische penalty en sindskort is de Google Webmaster Academy ook in het Nederlands beschikbaar.
 episode: 93
+kgRef: podcast_episode/reputatiecoaching_093
 historical: true
 archivePeriod: 2012–2016
 transcriptStatus: full
@@ -28,7 +29,7 @@ Hallo en hartelijk welkom bij deze aflevering van de ReputatieCoaching Podcast. 
 
 Als persoon kun je met de diverse tips aan de slag om bijvoorbeeld je online reputatie als chef werkplaats, databaseontwerper, softwaretester, elektromonteur, beleidsaviseur, ijzervlechter of wat dan ook te verbeteren.
 
-De podcast kun je vinden op [www.reputatiecoaching.nl/93](https://www.reputatiecoaching.nl/93/). Daar vind je niet alleen de tekst, maar ook video’s waar ik het in deze uitzending over heb, alsmede afbeeldingen, links enzovoorts. Bovendien is de podcast te beluisteren in [iTunes](https://www.reputatiecoaching.nl/itunes) en op [Stitcher](https://www.reputatiecoaching.nl/stitcher). Daar kun je je dus ook abonneren op de wekelijkse podcast. Veel mensen vinden het ideaal om de wekelijkse afleveringen van de podcast op hun gemak te beluisteren, terwijl ze autorijden.
+De podcast kun je vinden op [www.reputatiecoaching.nl/93](https://web.archive.org/web/20150312094817/http://www.reputatiecoaching.nl/93/). Daar vind je niet alleen de tekst, maar ook video’s waar ik het in deze uitzending over heb, alsmede afbeeldingen, links enzovoorts. Bovendien is de podcast te beluisteren in iTunes en op Stitcher. Daar kun je je dus ook abonneren op de wekelijkse podcast. Veel mensen vinden het ideaal om de wekelijkse afleveringen van de podcast op hun gemak te beluisteren, terwijl ze autorijden.
 
 Laat ik dan nu overgaan op de onderwerpen voor vandaag…
 
@@ -138,11 +139,11 @@ Mocht het je trouwens verbazen dat op dit moment alleen John Mueller vaak aangeh
 
 ## Google Webmaster Academy
 
-In [podcast 84](https://www.reputatiecoaching.nl/84/) vertelde ik je over de YouTube Academy, maar wist je eigenlijk dat Google ook al ruim twee jaar de [Webmaster Academy](https://support.google.com/webmasters/answer/6001102?hl=nl) heeft? Voorheen was die alleen in het Engels beschikbaar, maar sinds een paar dagen is die in maar liefst 22 talen te raadplegen.
+In [podcast 84](https://web.archive.org/web/20150312094507/http://www.reputatiecoaching.nl/84/) vertelde ik je over de YouTube Academy, maar wist je eigenlijk dat Google ook al ruim twee jaar de [Webmaster Academy](https://web.archive.org/web/20140913044855/https://support.google.com/webmasters/answer/6001102?hl=nl) heeft? Voorheen was die alleen in het Engels beschikbaar, maar sinds een paar dagen is die in maar liefst 22 talen te raadplegen.
 
 [![](webmaster_academy_international.png)](https://lh3.googleusercontent.com/-zw6Ge0YODVo/VBC5NCBK9dI/AAAAAAAABJQ/0c258WM0Kjs/s880-no/webmaster_academy_international.png)
 
-De Webmaster Academy is nu dus ook ook in het Nederlands [beschikbaar](https://support.google.com/webmasters/answer/6001102?hl=nl). Mocht je denken dat je alles al weet, probeer dan eens de quiz aan het einde van elke module te maken en zie hoe je scoort. Toch kan het doorlopen van de academy waarschijnlijk geen kwaad, zeker niet als je nog niet zo lang bezig bent met je website en/of contentmarketing.
+De Webmaster Academy is nu dus ook ook in het Nederlands [beschikbaar](https://web.archive.org/web/20140913044855/https://support.google.com/webmasters/answer/6001102?hl=nl). Mocht je denken dat je alles al weet, probeer dan eens de quiz aan het einde van elke module te maken en zie hoe je scoort. Toch kan het doorlopen van de academy waarschijnlijk geen kwaad, zeker niet als je nog niet zo lang bezig bent met je website en/of contentmarketing.
 
 De cursus bestaat uit de volgende drie modules:
 
@@ -179,7 +180,7 @@ Laten we dan eens zien welke nadelen er potentieel aan kleven. Want als er allee
   * De meningen over het effect dat dit kan hebben op SEO als gevolg van de schier oneindige lengte van pagina’s (die dan dus eigenlijk geen pagina’s meer zijn) zijn verdeeld. Want hoe kan bijvoorbeeld Googlebot nu weten wat het einde is en als die eerder afbreekt, loop je dan niet het risico dat belangrijke content _niet_ wordt geïndexeerd?
 ```
 
-Heb jij al eens overwogen om je site te presenteren als één lange pagina? Of heb je dit mogelijk al geïmplementeerd? Het lijkt mij interessant en leerzaam eens te zien hoe jij dit hebt gerealiseerd. Dus laat het me weten en laat een berichtje achter op [www.reputatiecoaching.nl/93](https://www.reputatiecoaching.nl/93/).
+Heb jij al eens overwogen om je site te presenteren als één lange pagina? Of heb je dit mogelijk al geïmplementeerd? Het lijkt mij interessant en leerzaam eens te zien hoe jij dit hebt gerealiseerd. Dus laat het me weten en laat een berichtje achter op [www.reputatiecoaching.nl/93](https://web.archive.org/web/20150312094817/http://www.reputatiecoaching.nl/93/).
 
 ## Content marketing met spreuken
 
@@ -193,7 +194,7 @@ Zo helpen spreuken niet alleen maar met het trekken van verkeer naar je site van
   * Exposure op sites als Twitter, Instagram en Pinterest, als je de spreuken publiceert met of op een mooie foto
 ```
 
-Ik heb samen met Arend Landman al enigszins geëxperimenteerd met spreuken. Hij heeft als gastblogger vier weken lang spreuken gepubliceerd op [www.reputatiecoaching.nl](http://www.reputatiecoaching.nl), en ik moet zeggen dat die spreuken nog steeds aardig wat verkeer trekken, evenals de spreuken die ik zelf heb gepubliceerd.
+Ik heb samen met Arend Landman al enigszins geëxperimenteerd met spreuken. Hij heeft als gastblogger vier weken lang spreuken gepubliceerd op [www.reputatiecoaching.nl](https://web.archive.org/web/20140926065913/http://www.reputatiecoaching.nl:80/), en ik moet zeggen dat die spreuken nog steeds aardig wat verkeer trekken, evenals de spreuken die ik zelf heb gepubliceerd.
 
 En al die spreuken zijn niet verspreid op mooie foto’s die echt tot de verbeelding moeten spreken. Mijn eigen spreuken had ik gewoon op virtuele tegeltjes geplaatst. Dat kan nog een stuk beter!
 
@@ -213,7 +214,7 @@ Ik dacht altijd dat dat alleen voor de grote Amerikaanse jongens en meisjes was 
 
 Als je de podcast leuk vindt en je wilt nog meer op de hoogte blijven, volg me dan ook op Twitter, via [@reputatiecoach1](https://twitter.com/reputatiecoach1).
 
-Heb je inderdaad wat aan alle informatie die ik met je deel, help mij dan met het verder verbeteren en promoten van deze podcast. Surf daarvoor naar [iTunes](https://www.reputatiecoaching.nl/itunes) of [Stitcher](https://www.reputatiecoaching.nl/stitcher), geef de podcast een sterrenbeoordeling en laat ook je reactie achter. Door de podcast te beoordelen op iTunes en/of Stitcher breng je de podcast onder de aandacht van een breder publiek.
+Heb je inderdaad wat aan alle informatie die ik met je deel, help mij dan met het verder verbeteren en promoten van deze podcast. Surf daarvoor naar iTunes of Stitcher, geef de podcast een sterrenbeoordeling en laat ook je reactie achter. Door de podcast te beoordelen op iTunes en/of Stitcher breng je de podcast onder de aandacht van een breder publiek.
 
 Je kunt me verder helpen, door de podcast aan te bevelen bij vrienden of collega’s, waarvan je denkt dat ze er hun voordeel mee kunnen doen, of door ’m te delen op Twitter, like’n en delen op Facebook of een “+1” te geven op Google+.
 
@@ -221,7 +222,7 @@ En vergeet niet: ik ben hier om je te helpen! Als je een vraag of een probleem h
 
 Als je dat te lastig vindt, of als je de podcast beluistert terwijl je in de auto zit en je hebt acuut een vraag, spreek dan een boodschap in op de ReputatieCoaching Hotline, op nummer: 084 - 883 15 56. Mogelijk behandel ik je vraag of probleem dan in een artikel of in de podcast.
 
-En je kunt ook rechtstreeks op de website een voicemail achterlaten, door op de tab aan de rechterkant van elke pagina te klikken, en je bericht in te spreken. Dit was [ReputatieCoaching Podcast aflevering 93](https://www.reputatiecoaching.nl/93/) en mijn naam is [Eduard de Boer](http://nl.linkedin.com/in/eduarddeboer/nl).
+En je kunt ook rechtstreeks op de website een voicemail achterlaten, door op de tab aan de rechterkant van elke pagina te klikken, en je bericht in te spreken. Dit was [ReputatieCoaching Podcast aflevering 93](https://web.archive.org/web/20150312094817/http://www.reputatiecoaching.nl/93/) en mijn naam is [Eduard de Boer](http://nl.linkedin.com/in/eduarddeboer/nl).
 
 Ik wens je de komende week weer succes met het werken aan je reputatie, zodat je meteen je reputatie voor jou kunt laten werken!
 
@@ -232,8 +233,8 @@ Doei!
 Links naar content die in deze podcast aan bod komt:
 
 ```
-  * [ReputatieCoaching Podcast in iTunes](https://www.reputatiecoaching.nl/itunes)
-  * [ReputatieCoaching Podcast op Stitcher](https://www.reputatiecoaching.nl/stitcher)
-  * [ReputatieCoaching Podcast RSS-feed](https://feeds.reputatiecoaching.nl/ReputatieCoachingPodcast)
-  * [Google Webmaster Academy](https://support.google.com/webmasters/answer/6001102?hl=nl) (Nederlands)
+  * ReputatieCoaching Podcast in iTunes
+  * ReputatieCoaching Podcast op Stitcher
+  * [ReputatieCoaching Podcast RSS-feed](https://web.archive.org/web/20200719034852/https://feeds.reputatiecoaching.nl/ReputatieCoachingPodcast)
+  * [Google Webmaster Academy](https://web.archive.org/web/20140913044855/https://support.google.com/webmasters/answer/6001102?hl=nl) (Nederlands)
 ```

@@ -3,6 +3,7 @@ title: '123: YouTube-kanaal overdragen. Apple Kaarten vernieuwd. Over reviewinfl
 date: '2015-04-09T06:30:11+00:00'
 description: 'Dat is een mooi nummer: 123… Oftewel: één - twee - drie. De volgende keer dat ik zo’n mooie opeenvolgende reeks van cijfers kan krijgen is pas over 111 podcasts, want dan ben ik bij aflevering 234: twee - drie - vier. Maar dat duurt nog wel even voor we zover zijn. Wat heb ik vandaag voor je… Eens zien… Ik begin met mijn ervaring te delen voor het overdragen van het eigendom van een YouTube-kanaal aan een Google+ pagina.'
 episode: 123
+kgRef: podcast_episode/reputatiecoaching_123
 historical: true
 archivePeriod: 2012–2016
 transcriptStatus: full
@@ -32,7 +33,7 @@ Dat is een mooi nummer: 123… Oftewel: één - twee - drie. De volgende keer da
 
 Hallo en hartelijk welkom bij deze aflevering van de ReputatieCoaching Podcast. Ik ben Eduard de Boer, ReputatieCoach. Dit is dé podcast die jou helpt om meer business te genereren, doordat jouw website beter gevonden wordt, zowel lokaal als landelijk en doordat ik je uitleg hoe je je online reputatie kunt verbeteren. Dit alles helpt je om je bedrijf en jezelf beter op de online kaart te plaatsen.
 
-De podcast kun je vinden op [www.reputatiecoaching.nl/123](https://www.reputatiecoaching.nl/123/). Daar vind je niet alleen de tekst, maar ook video’s waar ik het in deze uitzending over heb, alsmede afbeeldingen, links enzovoorts. Bovendien is de podcast te beluisteren in [iTunes](https://www.reputatiecoaching.nl/itunes), op [Stitcher](https://www.reputatiecoaching.nl/stitcher) en ook op [TuneIn Radio](http://tunein.com/radio/ReputatieCoaching-Podcast-p655084/). Ik raad je aan om je op één van die drie kanalen te abonneren op de podcast, zodat je geen aflevering hoeft te missen!
+De podcast kun je vinden op [www.reputatiecoaching.nl/123](https://web.archive.org/web/20150605073459/http://www.reputatiecoaching.nl/123/). Daar vind je niet alleen de tekst, maar ook video’s waar ik het in deze uitzending over heb, alsmede afbeeldingen, links enzovoorts. Bovendien is de podcast te beluisteren in iTunes, op Stitcher en ook op [TuneIn Radio](http://tunein.com/radio/ReputatieCoaching-Podcast-p655084/). Ik raad je aan om je op één van die drie kanalen te abonneren op de podcast, zodat je geen aflevering hoeft te missen!
 
 Laat ik dan nu overgaan op de onderwerpen voor vandaag…
 
@@ -47,7 +48,7 @@ Op het info@ account heb ik een YouTube-kanaal aangemaakt, alwaar ik alle video�
 
 Maar, waar het ooit fout ging in het verleden, was toen ik de Google+ pagina voor ReputatieCoaching heb aangemaakt. Dat heb ik namelijk onder mijn persoonlijke Gmail-adres gedaan. Pas veel later kwam ik erachter dat dit dus niet handig was, want nu waren de Google+ pagina van ReputatieCoaching en het YouTube-kanaal dus niet gekoppeld. Ik had wel eens getracht het eigendom van het YouTube-kanaal over te zetten, maar dat kreeg ik niet voor elkaar. Het leek erop alsof het toen alleen kon tussen verschillende Google-accounts en daarom liet ik het er toen maar bij.
 
-Maar eerder deze week las ik een artikel op het YouTube Help kanaal met als titel “[Gekoppeld aan het verkeerde Google+ profiel of de verkeerde Google+ pagina](https://support.google.com/youtube/answer/3056283?hl=nl)”. Dat was precies mijn probleem! Ik dook er in en keek eerst de Engelstalige video waarin het werd toegelicht:
+Maar eerder deze week las ik een artikel op het YouTube Help kanaal met als titel “[Gekoppeld aan het verkeerde Google+ profiel of de verkeerde Google+ pagina](https://web.archive.org/web/20230127050719/https://support.google.com/youtube/answer/3056283?hl=nl)”. Dat was precies mijn probleem! Ik dook er in en keek eerst de Engelstalige video waarin het werd toegelicht:
 
 ![Eigenaarschap Google+ pagia overdragen](20150408-eigenaar-rc.png)
 
@@ -129,7 +130,7 @@ In elk geval verdwijnt het onderscheidend vermogen en zul je als potentiële gas
 
 Aan de andere kant wordt het voor de hotels dus ook steeds moeilijker om zich te onderscheiden en op basis van recensies gasten te trekken! Mogelijk gaat dan de positie nóg meer een rol spelen: de hotels in Apeldoorn worden conform de volgorde op de lijst van boven naar beneden gevuld…
 
-Ik heb hier niet zo 1–2–3 een pasklare oplossing voor. Jij wel? Wat zie jij als mogelijkheden? En als jij een restaurant of ander bedrijf beoordeelt, hoeveel sterren geef jij dan gemiddeld? Reageer eens onderaan de show notes van deze podcast, op [www.reputatiecoaching.nl/123](https://www.reputatiecoaching.nl/123/).
+Ik heb hier niet zo 1–2–3 een pasklare oplossing voor. Jij wel? Wat zie jij als mogelijkheden? En als jij een restaurant of ander bedrijf beoordeelt, hoeveel sterren geef jij dan gemiddeld? Reageer eens onderaan de show notes van deze podcast, op [www.reputatiecoaching.nl/123](https://web.archive.org/web/20150605073459/http://www.reputatiecoaching.nl/123/).
 
 ## 10 geboden voor Pinterest voor business
 
@@ -233,7 +234,7 @@ Maar goed, terug naar Pinterest. Amy heeft een tijdje geleden op haar weblog de 
     * Maak gebruik van Google Analytics voor het meten van het effect van je werk.
 ```
 
-In de show notes op [www.reputatiecoaching.nl/123](https://www.reputatiecoaching.nl/123/) heb ik van deze tips van Any Porterfield ook een infographic opgenomen:[![10 Commandments for using Pinterest](Pinterest_Commandments1.jpg)](https://lh5.googleusercontent.com/-IH0J8vnhI_w/VSWCR744DRI/AAAAAAAAB-U/SAEQgw-N_f8/w554-no/Pinterest_Commandments1.jpg)
+In de show notes op [www.reputatiecoaching.nl/123](https://web.archive.org/web/20150605073459/http://www.reputatiecoaching.nl/123/) heb ik van deze tips van Any Porterfield ook een infographic opgenomen:[![10 Commandments for using Pinterest](Pinterest_Commandments1.jpg)](https://lh5.googleusercontent.com/-IH0J8vnhI_w/VSWCR744DRI/AAAAAAAAB-U/SAEQgw-N_f8/w554-no/Pinterest_Commandments1.jpg)
 
 ## Interesse in een video challenge met Brenda Kok?
 
@@ -252,7 +253,7 @@ Met deze aankondiging van een mogelijke video challenge door Brenda Kok kom ik d
 
 Heb je inderdaad wat aan alle informatie die ik met je deel, help mij dan met het verder verbeteren en promoten van deze podcast. Abonneer je op de podcast, zodat je altijd meteen de nieuwste uitzending krijgt voorgeschoteld.
 
-Zoek de podcast op, in [iTunes](https://www.reputatiecoaching.nl/itunes) of [Stitcher](https://www.reputatiecoaching.nl/stitcher), geef de podcast een sterrenbeoordeling en laat ook je reactie achter. Door de podcast te beoordelen op iTunes en/of Stitcher breng je de podcast onder de aandacht van een breder publiek.
+Zoek de podcast op, in iTunes of Stitcher, geef de podcast een sterrenbeoordeling en laat ook je reactie achter. Door de podcast te beoordelen op iTunes en/of Stitcher breng je de podcast onder de aandacht van een breder publiek.
 
 Je kunt me verder helpen, door de podcast aan te bevelen bij vrienden of collega’s, waarvan je denkt dat ze er hun voordeel mee kunnen doen, of door ’m te delen op Twitter, like’n en delen op Facebook of een “+1” te geven op Google+.
 
@@ -260,7 +261,7 @@ En vergeet niet: ik ben hier om je te helpen! Als je een vraag of een probleem h
 
 Als je dat te lastig vindt, of als je de podcast beluistert terwijl je in de auto zit en je hebt acuut een vraag, spreek dan een boodschap in op de ReputatieCoaching Hotline, op nummer: 084 - 883 15 56. Mogelijk behandel ik je vraag of probleem dan in een artikel of in de podcast.
 
-En je kunt ook rechtstreeks op de website een voicemail achterlaten, door op de tab aan de rechterkant van elke pagina te klikken, en je bericht in te spreken. Dit was [ReputatieCoaching Podcast aflevering 123](https://www.reputatiecoaching.nl/123/) en mijn naam is [Eduard de Boer](http://nl.linkedin.com/in/eduarddeboer/nl).
+En je kunt ook rechtstreeks op de website een voicemail achterlaten, door op de tab aan de rechterkant van elke pagina te klikken, en je bericht in te spreken. Dit was [ReputatieCoaching Podcast aflevering 123](https://web.archive.org/web/20150605073459/http://www.reputatiecoaching.nl/123/) en mijn naam is [Eduard de Boer](http://nl.linkedin.com/in/eduarddeboer/nl).
 
 Ik wens je de komende week weer succes met het werken aan je reputatie, zodat je meteen je reputatie voor jou kunt laten werken!
 
@@ -271,10 +272,10 @@ Doei!
 Links naar content die in deze podcast aan bod komt:
 
 ```
-  * [ReputatieCoaching Podcast in iTunes](https://www.reputatiecoaching.nl/itunes)
-  * [ReputatieCoaching Podcast op Stitcher](https://www.reputatiecoaching.nl/stitcher)
+  * ReputatieCoaching Podcast in iTunes
+  * ReputatieCoaching Podcast op Stitcher
   * [ReputatieCoaching Podcast op TuneIn Radio](http://tunein.com/radio/ReputatieCoaching-Podcast-p655084/)
-  * [ReputatieCoaching Podcast RSS-feed](https://feeds.reputatiecoaching.nl/ReputatieCoachingPodcast)
-  * “[Gekoppeld aan het verkeerde Google+ profiel of de verkeerde Google+ pagina](https://support.google.com/youtube/answer/3056283?hl=nl)” (YouTube Help)
-  * “[Eigendom van een pagina overdragen](https://support.google.com/business/answer/3415281?hl=nl)” (Google Mijn Bedrijf Help)
+  * [ReputatieCoaching Podcast RSS-feed](https://web.archive.org/web/20150228235938/http://feeds.reputatiecoaching.nl:80/ReputatieCoachingPodcast)
+  * “[Gekoppeld aan het verkeerde Google+ profiel of de verkeerde Google+ pagina](https://web.archive.org/web/20230127050719/https://support.google.com/youtube/answer/3056283?hl=nl)” (YouTube Help)
+  * “[Eigendom van een pagina overdragen](https://web.archive.org/web/20140923234835/https://support.google.com/business/answer/3415281?hl=nl)” (Google Mijn Bedrijf Help)
 ```

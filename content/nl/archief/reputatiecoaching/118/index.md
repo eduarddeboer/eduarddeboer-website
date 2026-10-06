@@ -3,6 +3,7 @@ title: '118: Ik ben gestopt met Facebook! Bezoek het online spreekuur. Mobielvri
 date: '2015-03-05T07:30:22+00:00'
 description: Ik ben gestopt met Facebook… Waarom? Dat vertel ik je zometeen als eerste. Vanaf volgende week dinsdag heb ik wekelijks een online spreekuur waar iedereen virtueel kan binnenlopen. Mobielvriendelijkheid van websites wordt vanaf 21 april 2015 een ranking factor in de mobiele zoekresultaten. Ik sluit de podcast van vandaag af met een presentatie van assistent-professor Guido Berens over het effect op je reputatie van het toestaan van reacties op je site.
 episode: 118
+kgRef: podcast_episode/reputatiecoaching_118
 historical: true
 archivePeriod: 2012–2016
 transcriptStatus: full
@@ -26,7 +27,7 @@ Ik ben gestopt met Facebook… Waarom? Dat vertel ik je zometeen als eerste. Van
 
 Hallo en hartelijk welkom bij deze aflevering van de ReputatieCoaching Podcast. Ik ben Eduard de Boer, ReputatieCoach. Dit is dé podcast die jou helpt om meer business te genereren, doordat jouw website beter gevonden wordt, zowel lokaal als landelijk en doordat ik je uitleg hoe je je online reputatie kunt verbeteren. Dit alles helpt je om je bedrijf en jezelf beter op de online kaart te plaatsen.
 
-De podcast kun je vinden op [www.reputatiecoaching.nl/118](https://www.reputatiecoaching.nl/118/). Daar vind je niet alleen de tekst, maar ook video’s waar ik het in deze uitzending over heb, alsmede afbeeldingen, links enzovoorts. Bovendien is de podcast te beluisteren in [iTunes](https://www.reputatiecoaching.nl/itunes), op [Stitcher](https://www.reputatiecoaching.nl/stitcher) en ook op [TuneIn Radio](http://tunein.com/radio/ReputatieCoaching-Podcast-p655084/). Ik raad je aan om je op één van die drie kanalen te abonenneren op de podcast, zodat je geen aflevering hoeft te missen!
+De podcast kun je vinden op [www.reputatiecoaching.nl/118](https://web.archive.org/web/20150312084041/http://www.reputatiecoaching.nl/118/). Daar vind je niet alleen de tekst, maar ook video’s waar ik het in deze uitzending over heb, alsmede afbeeldingen, links enzovoorts. Bovendien is de podcast te beluisteren in iTunes, op Stitcher en ook op [TuneIn Radio](http://tunein.com/radio/ReputatieCoaching-Podcast-p655084/). Ik raad je aan om je op één van die drie kanalen te abonenneren op de podcast, zodat je geen aflevering hoeft te missen!
 
 Laat ik dan nu overgaan op de onderwerpen voor vandaag…
 
@@ -55,7 +56,7 @@ De plugin was met één klik geïnstalleerd. Volgens de instructies heb ik mijn 
 
 Na 20 deletes stopte de extensie ermee en kreeg ik de melding dat ik US$2,49 moest betalen als ik de rest van mijn content ook wilde laten verwijderen. Dat deed ik met liefde en dus kon ik verder. Ik heb de extensie anderhalve dag laten draaien en toen was het meeste weg. Sommige zaken waren niet verwijderd, dus die heb ik alsnog handmatig uitgepoetst.
 
-Vervolgens heb ik één openbare statusupdate gepost, die ik in de show notes op [www.reputatiecoaching.nl/118](https://www.reputatiecoaching.nl/118/) heb opgenomen. De tekst van deze update luidt als volgt:
+Vervolgens heb ik één openbare statusupdate gepost, die ik in de show notes op [www.reputatiecoaching.nl/118](https://web.archive.org/web/20150312084041/http://www.reputatiecoaching.nl/118/) heb opgenomen. De tekst van deze update luidt als volgt:
 
 [![Stoppen met Facebook](20150305-FB-last-post.png)](https://lh6.googleusercontent.com/-1AvbTU0q7SM/VPbsMujb5ZI/AAAAAAAAB0E/g03hsLRV9a8/w501-h502-no/20150305-FB-last-post.png)
 
@@ -85,7 +86,7 @@ Op zich komt dit niet als een verrassing, want Google hamert al een aantal jaar 
 
 Verder is het volgens Google ook belangrijk dat Googlebot toegang heeft tot alle CSS- en Javascript-bestanden op je site. Soms kan het namelijk voorkomen dat een CMS of een webmaster de toegang hiertoe blokkeert door middel van één of meer disallow-regels in de “robots.txt”-file.
 
-Google heeft ook al een [Q&A-Hangout](https://www.youtube.com/watch?v=v-0Q4s9ThU0) gepland. Die vindt plaats op 24 maart 2015 om 19:00 Nederlandse tijd. De URL naar die Hangout heb ik opgenomen in de show notes, op [www.reputatiecoaching.nl/118](https://www.reputatiecoaching.nl/118/).
+Google heeft ook al een [Q&A-Hangout](https://www.youtube.com/watch?v=v-0Q4s9ThU0) gepland. Die vindt plaats op 24 maart 2015 om 19:00 Nederlandse tijd. De URL naar die Hangout heb ik opgenomen in de show notes, op [www.reputatiecoaching.nl/118](https://web.archive.org/web/20150312084041/http://www.reputatiecoaching.nl/118/).
 
 Verder heb ik in de show notes een video van de “English Google Webmaster Central office-hours hangout” van 27 februari opgenomen, waarin John Mueller van Google in de eerste 15 minuten of zo een korte toelichting geeft op deze change:
 
@@ -93,7 +94,7 @@ Als jouw site nog niet mobielvriendelijk is, raad ik je aan om de eerste 15 minu
 
 ## F5 Sessie: Guido Berens
 
-Vorige week donderdagmiddag was ik bij de [F5-sessie van Lubbers en de Jong](http://www.l-dj.nl/blogs/blog/159/Online+reputatie%3A+reageren+mag), in Pakhuis de Zwijger in Amsterdam over online reputatiemanagement. De eerste spreker daar was Guido Berens, assistant professor aan de Rotterdam School of Management van de Erasmus Universiteit.
+Vorige week donderdagmiddag was ik bij de [F5-sessie van Lubbers en de Jong](https://web.archive.org/web/20150324112308/http://www.l-dj.nl:80/blogs/blog/159/Online+reputatie%3A+reageren+mag), in Pakhuis de Zwijger in Amsterdam over online reputatiemanagement. De eerste spreker daar was Guido Berens, assistant professor aan de Rotterdam School of Management van de Erasmus Universiteit.
 
 Guido vertelde over twee experimenten die zijn studenten hebben gedaan om de invloed op je reputatie te meten van het wel of niet toestaan van reacties op je content. De korte conclusie is dat het toestaan van reacties op je site een klein maar positief effect heeft op je reputatie.
 
@@ -105,7 +106,7 @@ Als je de podcast leuk vindt en je wilt nog meer op de hoogte blijven, volg me d
 
 Heb je inderdaad wat aan alle informatie die ik met je deel, help mij dan met het verder verbeteren en promoten van deze podcast. Abonneer je op de podcast, zodat je altijd meteen de nieuwste uitzending krijgt voorgeschoteld.
 
-Zoek de podcast op, in [iTunes](https://www.reputatiecoaching.nl/itunes) of [Stitcher](https://www.reputatiecoaching.nl/stitcher), geef de podcast een sterrenbeoordeling en laat ook je reactie achter. Door de podcast te beoordelen op iTunes en/of Stitcher breng je de podcast onder de aandacht van een breder publiek.
+Zoek de podcast op, in iTunes of Stitcher, geef de podcast een sterrenbeoordeling en laat ook je reactie achter. Door de podcast te beoordelen op iTunes en/of Stitcher breng je de podcast onder de aandacht van een breder publiek.
 
 Je kunt me verder helpen, door de podcast aan te bevelen bij vrienden of collega’s, waarvan je denkt dat ze er hun voordeel mee kunnen doen, of door ’m te delen op Twitter, like’n en delen op Facebook of een “+1” te geven op Google+.
 
@@ -113,7 +114,7 @@ En vergeet niet: ik ben hier om je te helpen! Als je een vraag of een probleem h
 
 Als je dat te lastig vindt, of als je de podcast beluistert terwijl je in de auto zit en je hebt acuut een vraag, spreek dan een boodschap in op de ReputatieCoaching Hotline, op nummer: 084 - 883 15 56. Mogelijk behandel ik je vraag of probleem dan in een artikel of in de podcast.
 
-En je kunt ook rechtstreeks op de website een voicemail achterlaten, door op de tab aan de rechterkant van elke pagina te klikken, en je bericht in te spreken. Dit was [ReputatieCoaching Podcast aflevering 118](https://www.reputatiecoaching.nl/118/) en mijn naam is [Eduard de Boer](http://nl.linkedin.com/in/eduarddeboer/nl).
+En je kunt ook rechtstreeks op de website een voicemail achterlaten, door op de tab aan de rechterkant van elke pagina te klikken, en je bericht in te spreken. Dit was [ReputatieCoaching Podcast aflevering 118](https://web.archive.org/web/20150312084041/http://www.reputatiecoaching.nl/118/) en mijn naam is [Eduard de Boer](http://nl.linkedin.com/in/eduarddeboer/nl).
 
 Ik wens je de komende week weer succes met het werken aan je reputatie, zodat je meteen je reputatie voor jou kunt laten werken!
 
@@ -124,11 +125,11 @@ Doei!
 Links naar content die in deze podcast aan bod komt:
 
 ```
-  * [ReputatieCoaching Podcast in iTunes](https://www.reputatiecoaching.nl/itunes)
-  * [ReputatieCoaching Podcast op Stitcher](https://www.reputatiecoaching.nl/stitcher)
+  * ReputatieCoaching Podcast in iTunes
+  * ReputatieCoaching Podcast op Stitcher
   * [ReputatieCoaching Podcast op TuneIn Radio](http://tunein.com/radio/ReputatieCoaching-Podcast-p655084/)
-  * [ReputatieCoaching Podcast RSS-feed](https://feeds.reputatiecoaching.nl/ReputatieCoachingPodcast)
+  * [ReputatieCoaching Podcast RSS-feed](https://web.archive.org/web/20150228235938/http://feeds.reputatiecoaching.nl:80/ReputatieCoachingPodcast)
   * [Facebook Activity Remover](https://chrome.google.com/webstore/detail/facebook-activity-remover/cjhdaapekomkhcdfkeogcmhimmmkgkpb) extensie voor Chrome
-  * “[Online reputatie: reageren mag](http://www.l-dj.nl/blogs/blog/159/Online+reputatie%3A+reageren+mag)” (Lubbers en de Jong, 27 februari 2015)
+  * “[Online reputatie: reageren mag](https://web.archive.org/web/20150324112308/http://www.l-dj.nl:80/blogs/blog/159/Online+reputatie%3A+reageren+mag)” (Lubbers en de Jong, 27 februari 2015)
   * [HoA “Q&A session for mobile-friendly ranking change”](https://www.youtube.com/watch?v=v-0Q4s9ThU0) op 24 maart 19:00 Nederlandse tijd
 ```

@@ -3,6 +3,7 @@ title: '148: Leuke tooltip van Google Keep. Site gehackt! Help, een negatieve re
 date: '2015-10-01T06:30:27+00:00'
 description: 'Het probleem van vorige week is echt helemaal opgelost: de server zoemt lekker en de bandbreedte is nog steeds toereikend. Ik heb net nog gekeken en inmiddels hebben de bijna 6.000 downloads al meer dan 22 GB aan bandbreedte verbruikt! Ik ben dus blij dat ik de content op een echt Content Delivery Netwerk heb geplaatst! Overigens zag ik gelukkig bijtijds de toename in bandbreedte op de server. Want weet je nog dat ik in het kader van de Summer Citations Sequence een instructievideo postte over het aanmelden van je bedrijf bij de website provincialegids.'
 episode: 148
+kgRef: podcast_episode/reputatiecoaching_148
 historical: true
 archivePeriod: 2012–2016
 transcriptStatus: full
@@ -42,7 +43,7 @@ Het probleem van vorige week is echt helemaal opgelost: de server zoemt lekker e
 
 Hallo en hartelijk welkom bij deze aflevering van de ReputatieCoaching Podcast. Ik ben Eduard de Boer, ReputatieCoach. Dit is dé podcast die jou helpt om meer business te genereren, doordat jouw website beter gevonden wordt, zowel lokaal als landelijk en doordat ik je uitleg hoe je je online reputatie kunt verbeteren. Dit alles helpt je om je bedrijf en jezelf beter op de online kaart te plaatsen.
 
-De podcast van vandaag kun je vinden op [www.reputatiecoaching.nl/148](https://www.reputatiecoaching.nl/148/). Daar vind je niet alleen de tekst, maar ook video’s waar ik het in deze uitzending over heb, alsmede afbeeldingen, links enzovoorts. Bovendien is de podcast te beluisteren in [iTunes](https://www.reputatiecoaching.nl/itunes), op [Stitcher](https://www.reputatiecoaching.nl/stitcher) en ook op [TuneIn Radio](http://tunein.com/radio/ReputatieCoaching-Podcast-p655084/). Ik raad je aan om je op één van die drie kanalen te abonneren op de podcast, zodat je geen aflevering hoeft te missen!
+De podcast van vandaag kun je vinden op [www.reputatiecoaching.nl/148](https://web.archive.org/web/20190818194215/https://www.reputatiecoaching.nl/148/). Daar vind je niet alleen de tekst, maar ook video’s waar ik het in deze uitzending over heb, alsmede afbeeldingen, links enzovoorts. Bovendien is de podcast te beluisteren in iTunes, op Stitcher en ook op [TuneIn Radio](http://tunein.com/radio/ReputatieCoaching-Podcast-p655084/). Ik raad je aan om je op één van die drie kanalen te abonneren op de podcast, zodat je geen aflevering hoeft te missen!
 
 Laat ik dan nu overgaan op de onderwerpen voor vandaag…
 
@@ -106,7 +107,7 @@ Dus als jij met je bedrijf mensen wilt werven en behouden, dan weet je waar je a
 
 Afgelopen week onderzocht ik de site van een opdrachtgever. Visueel zag die er goed uit en voor mijn idee laadde die ook best aardig snel. Maar soms had ik het gevoel dat site wat stroperig werkte…
 
-Als onderdeel van alles wat ik zoal doe bij het onderzoeken van een site, checkte ik ook de [laadtijd van de website](https://www.reputatiecoaching.nl/114/) en andere karakteristieken in Pingdom, een tool waar ik al een instructievideo voor heb:
+Als onderdeel van alles wat ik zoal doe bij het onderzoeken van een site, checkte ik ook de [laadtijd van de website](https://web.archive.org/web/20150312095401/http://www.reputatiecoaching.nl/114/) en andere karakteristieken in Pingdom, een tool waar ik al een instructievideo voor heb:
 
 Vervolgens zag in de lijst van opgevraagde onderdelen de meest vage domeinnamen verschijnen, en bestanden met namen als “bt”, “net”, “trk” en dergelijke erin. Dat zag er niet goed uit!
 
@@ -173,11 +174,11 @@ Met andere woorden: podcast 144 en 145 leken er dus niet te zijn!
 
 Ik snapte er niets van! Eerst dacht ik dat ik per ongeluk podcasts 144 en 145 niet in de categorie “Podcasts” had ingedeeld, maar dat was niet het geval. Ze stonden netjes in de juiste categorie.
 
-Opeens bedacht ik me iets… Ik maak gebruik van de plugin Pretty Link Lite, een WordPress plugin om mooie links te maken onder je eigen website, naar andere content, die zowel op je eigen site mag staan, als elders op Internet. Dat komt vaak handig van pas. En ik meende me te herinneren dat ik ooit in een grijs verleden eens een pretty link heb gemaakt, onder [www.reputatiecoaching.nl/podcasts](http://www.reputatiecoaching.nl/podcasts). Maar die link verwees door naar een playlist op YouTube, waar ik podcast 1 tot en met 35 ooit eens in videovorm heb uitgebracht. Dat is overigens nooit een succes geworden…
+Opeens bedacht ik me iets… Ik maak gebruik van de plugin Pretty Link Lite, een WordPress plugin om mooie links te maken onder je eigen website, naar andere content, die zowel op je eigen site mag staan, als elders op Internet. Dat komt vaak handig van pas. En ik meende me te herinneren dat ik ooit in een grijs verleden eens een pretty link heb gemaakt, onder [www.reputatiecoaching.nl/podcasts](https://web.archive.org/web/20151006084743/http://www.reputatiecoaching.nl:80/podcasts/). Maar die link verwees door naar een playlist op YouTube, waar ik podcast 1 tot en met 35 ooit eens in videovorm heb uitgebracht. Dat is overigens nooit een succes geworden…
 
 Terugkomend op het probleem… Ik verwijderde de pretty link en voilà: bij het verversen van de categoriepagina /podcasts prijkte 147 nu netjes bovenaan als de meest recente podcast!
 
-Een paar dagen later bedacht ik me ook nog eens dat dit hoogstwaarschijnlijk ook de oorzaak was dat ik soms niet de meest recente podcasts op [iTunes](https://www.reputatiecoaching.nl/itunes), [Stitcher](https://www.reputatiecoaching.nl/stitcher) of [TuneIn Radio](http://tunein.com/radio/ReputatieCoaching-Podcast-p655084/) zag! Nou Jeroen, wederom scherp opgemerkt!
+Een paar dagen later bedacht ik me ook nog eens dat dit hoogstwaarschijnlijk ook de oorzaak was dat ik soms niet de meest recente podcasts op iTunes, Stitcher of [TuneIn Radio](http://tunein.com/radio/ReputatieCoaching-Podcast-p655084/) zag! Nou Jeroen, wederom scherp opgemerkt!
 
 ## Hergebruik van reviews in een positieve reviews video
 
@@ -232,7 +233,7 @@ Als je de podcast leuk vindt en je wilt nog meer op de hoogte blijven, volg me d
 
 Heb je inderdaad wat aan alle informatie die ik met je deel, help mij dan met het verder verbeteren en promoten van deze podcast. Abonneer je op de podcast, zodat je altijd meteen de nieuwste uitzending krijgt voorgeschoteld.
 
-Zoek de podcast op, in [iTunes](https://www.reputatiecoaching.nl/itunes) of [Stitcher](https://www.reputatiecoaching.nl/stitcher), geef de podcast een sterrenbeoordeling en laat ook je reactie achter. Door de podcast te beoordelen op iTunes en/of Stitcher breng je de podcast onder de aandacht van een breder publiek.
+Zoek de podcast op, in iTunes of Stitcher, geef de podcast een sterrenbeoordeling en laat ook je reactie achter. Door de podcast te beoordelen op iTunes en/of Stitcher breng je de podcast onder de aandacht van een breder publiek.
 
 Je kunt me verder helpen, door de podcast aan te bevelen bij vrienden of collega’s, waarvan je denkt dat ze er hun voordeel mee kunnen doen, of door ’m te delen op Twitter, like’n en delen op Facebook of een “+1” te geven op Google+.
 
@@ -240,7 +241,7 @@ En vergeet niet: ik ben hier om je te helpen! Als je een vraag of een probleem h
 
 Als je dat te lastig vindt, of als je de podcast beluistert terwijl je in de auto zit en je hebt acuut een vraag, spreek dan een boodschap in op de ReputatieCoaching Hotline, op nummer: 084 - 883 15 56. Mogelijk behandel ik je vraag of probleem dan in een artikel of in de podcast.
 
-En je kunt ook rechtstreeks op de website een voicemail achterlaten, door op de tab aan de rechterkant van elke pagina te klikken, en je bericht in te spreken. Dit was [ReputatieCoaching Podcast aflevering 148](https://www.reputatiecoaching.nl/148/) en mijn naam is [Eduard de Boer](http://nl.linkedin.com/in/eduarddeboer/nl).
+En je kunt ook rechtstreeks op de website een voicemail achterlaten, door op de tab aan de rechterkant van elke pagina te klikken, en je bericht in te spreken. Dit was [ReputatieCoaching Podcast aflevering 148](https://web.archive.org/web/20190818194215/https://www.reputatiecoaching.nl/148/) en mijn naam is [Eduard de Boer](http://nl.linkedin.com/in/eduarddeboer/nl).
 
 Ik wens je de komende week weer succes met het werken aan je reputatie, zodat je meteen je reputatie voor jou kunt laten werken!
 
@@ -251,11 +252,11 @@ Doei!
 Links naar content die in deze podcast aan bod komt:
 
 ```
-  * [ReputatieCoaching Podcast in iTunes](https://www.reputatiecoaching.nl/itunes)
-  * [ReputatieCoaching Podcast op Stitcher](https://www.reputatiecoaching.nl/stitcher)
+  * ReputatieCoaching Podcast in iTunes
+  * ReputatieCoaching Podcast op Stitcher
   * [ReputatieCoaching Podcast op TuneIn Radio](http://tunein.com/radio/ReputatieCoaching-Podcast-p655084/)
-  * [ReputatieCoaching Podcast RSS-feed](https://feeds.reputatiecoaching.nl/ReputatieCoachingPodcast)
+  * [ReputatieCoaching Podcast RSS-feed](https://web.archive.org/web/20151006093045/http://feeds.reputatiecoaching.nl:80/ReputatieCoachingPodcast)
   * [Jing](https://www.techsmith.com/jing.html) - DE ideale en gratis tool voor screenshots en screencasts
   * [Pretty Link Lite](https://wordpress.org/support/plugin/pretty-link) - WordPress plugin voor mooie URL's vanaf jouw domein naar elke plaats op Internet
-  * “[Slechte onderneming betaalt meer](http://m.deondernemer.nl/kennis/678667/Slechte-onderneming-betaalt-meer.html)” (De Ondernemer, 25 september 2015)
+  * “Slechte onderneming betaalt meer” (De Ondernemer, 25 september 2015)
 ```

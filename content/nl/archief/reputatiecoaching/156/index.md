@@ -3,6 +3,7 @@ title: '156: Doel Lokale Gidsen programma bereikt! Openingstijden bron van erger
 date: '2015-11-26T07:30:23+00:00'
 description: '**Welke onderwerpen komen vandaag aan bod? Ik begin met de voortgang van mijn activiteiten voor het Lokale Gidsen programma van Google. Mijn doel is tenslotte om voor 1 januari 2016, in totaal 500 punten te hebben vergaard, zodat ik dan op niveau 5 zit.** De feestdagen komen eraan… En wat is dan een grote bron van online ergernis? Openingstijden! Of beter gezegd: het ontbreken van openingstijden. Ik vertel je er meer over.'
 episode: 156
+kgRef: podcast_episode/reputatiecoaching_156
 historical: true
 archivePeriod: 2012–2016
 transcriptStatus: shownotes
@@ -21,7 +22,7 @@ showTaxonomies: false
 
 **Transcriptiestatus:** Oorspronkelijke shownotes. Vanaf aflevering 153 werd de podcast niet meer volledig uitgeschreven.
 
-\*\*[*Historische afbeelding niet beschikbaar: ReputatieCoaching Podcast*](https://www.reputatiecoaching.nl/wp-content/uploads/2012/12/Reputatie-Coaching-Podcast-logo-200x200.jpg)Welke onderwerpen komen vandaag aan bod? Ik begin met de voortgang van mijn activiteiten voor het Lokale Gidsen programma van Google. Mijn doel is tenslotte om voor 1 januari 2016, in totaal 500 punten te hebben vergaard, zodat ik dan op niveau 5 zit.\*\*
+\*\*[*Historische afbeelding niet beschikbaar: ReputatieCoaching Podcast*](https://web.archive.org/web/20160422081458/http://www.reputatiecoaching.nl/wp-content/uploads/2012/12/Reputatie-Coaching-Podcast-logo-200x200.jpg)Welke onderwerpen komen vandaag aan bod? Ik begin met de voortgang van mijn activiteiten voor het Lokale Gidsen programma van Google. Mijn doel is tenslotte om voor 1 januari 2016, in totaal 500 punten te hebben vergaard, zodat ik dan op niveau 5 zit.\*\*
 
 **De feestdagen komen eraan… En wat is dan een grote bron van online ergernis? Openingstijden! Of beter gezegd: het ontbreken van openingstijden. Ik vertel je er meer over.**
 
@@ -95,10 +96,10 @@ Waar zit je mee in je online business, waarvan je denkt dat ik je kan helpen?
 Links naar content elders op Internet die in deze podcast aan bod komt:
 
 ```
-  * [ReputatieCoaching Podcast in iTunes](https://www.reputatiecoaching.nl/itunes)
-  * [ReputatieCoaching Podcast op Stitcher](https://www.reputatiecoaching.nl/stitcher)
+  * ReputatieCoaching Podcast in iTunes
+  * ReputatieCoaching Podcast op Stitcher
   * [ReputatieCoaching Podcast op TuneIn Radio](http://tunein.com/radio/ReputatieCoaching-Podcast-p655084/)
-  * [ReputatieCoaching Podcast RSS-feed](https://feeds.reputatiecoaching.nl/ReputatieCoachingPodcast)
+  * [ReputatieCoaching Podcast RSS-feed](https://web.archive.org/web/20200719034852/https://feeds.reputatiecoaching.nl/ReputatieCoachingPodcast)
   * [Google My Business Page Finder](http://www.michaelcottam.com/google-business-page-finder/) van Michael Cottam
   * [Google Says AMP Will Come To Google Search “Early Next Year”](http://searchengineland.com/google-says-amp-will-come-to-google-search-early-next-year-236999) (Search Engine Land, 24 november 2015)
 ```

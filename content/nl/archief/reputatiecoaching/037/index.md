@@ -3,6 +3,7 @@ title: '37: Corpus Justitia ter ziele en de podcast verhuist. Pinterest of Insta
 date: '2013-08-12T06:30:17+00:00'
 description: Hallo, hallo!! Mijn naam is Eduard de Boer –bekend als de ReputatieCoach– en ik heet je van harte welkom bij deze 37e ReputatieCoaching Podcast. In deze podcast geef ik je tips en adviezen waarmee je meer business kunt doen door op de juiste manier aan je reputatie te werken, je online vindbaarheid te verbeteren en het optimaliseren van je website voor zowel gebruikers, als voor de zoekmachines. Het was een drukke week in meerdere opzichten… Daarover straks meer.
 episode: 37
+kgRef: podcast_episode/reputatiecoaching_037
 historical: true
 archivePeriod: 2012–2016
 transcriptStatus: full
@@ -112,7 +113,7 @@ Zoals ik kunstenaars ken, hoort er bij elk schilderij of kunstwerk een verhaal. 
 
 Ik ben benieuwd of ik je hiermee een stukje verder heb geholpen. Laat het me gerust weten, als iets niet duidelijk is, of als je wilt dat ik ergens dieper op in ga.
 
-Afgelopen week kwam ik overigens wel een leuk artikel tegen over Pinterest, wat vanuit dit perspectief interessant is om te delen. De titel van het artikel is: “[21% Of Pinterest Users Bought Pinned Products In Stores](http://blog.sweetiq.com/2013/08/21-of-pinterest-users-bought-pinned-products-in-stores/)” en ik las het op SweetIQ.
+Afgelopen week kwam ik overigens wel een leuk artikel tegen over Pinterest, wat vanuit dit perspectief interessant is om te delen. De titel van het artikel is: “[21% Of Pinterest Users Bought Pinned Products In Stores](https://web.archive.org/web/20130811165351/http://blog.sweetiq.com:80/2013/08/21-of-pinterest-users-bought-pinned-products-in-stores/)” en ik las het op SweetIQ.
 
 Dat artikel was gebaseerd op een rapport van de Harvard Business School. De schrijvers van dit rapport hebben onderzocht of de angst voor “showrooming” terecht is. “Showrooming” is een verschijnsel waarbij mensen eerst in de winkel een product bekijken en het dan vervolgens online kopen (en dus niet in de winkel).
 
@@ -146,7 +147,7 @@ Op technisch gebied is er een nieuwe audio/video API gekomen, die je toegang gee
 
 ## Claim je Google Authorship nu!
 
-Google Authorship stelt je in staat om content die je publiceert te relateren aan jou, als originele auteur. Ik heb er al vaker op gehamerd, dat er meerdere redenen zijn om dit te doen. Naast dat dit het aantal clicks op de getoonde zoekresultaten verhoogt, heb ik ooit al eens meer redenen gegeven om [Google Authorship in te stellen](https://www.reputatiecoaching.nl/wiki/google-authorship/). Afgelopen week las ik een artikel, waarin ik nóg een reden tegenkwam voor jou om zo snel mogelijk Google Authorship voor jouw content te activeren.
+Google Authorship stelt je in staat om content die je publiceert te relateren aan jou, als originele auteur. Ik heb er al vaker op gehamerd, dat er meerdere redenen zijn om dit te doen. Naast dat dit het aantal clicks op de getoonde zoekresultaten verhoogt, heb ik ooit al eens meer redenen gegeven om Google Authorship in te stellen. Afgelopen week las ik een artikel, waarin ik nóg een reden tegenkwam voor jou om zo snel mogelijk Google Authorship voor jouw content te activeren.
 
 In het artikel wordt namelijk beschreven dat een site-eigenaar zijn content op andere sites tegenkwam, die niet van hemzelf waren. Met andere woorden: er werd dus plagiaat gepleegd met zijn content! Terwijl de originele auteur geen Google Authorship had ingesteld, hadden de fraudeurs dat wel gedaan op de gekopieerde content.
 
@@ -156,7 +157,7 @@ Hoewel niemand buiten Google kan zeggen of op dit moment Google Authorship al al
 
 ## Overig Google nieuws
 
-En nu we het toch over Google hebben. In podcasts [14](https://www.reputatiecoaching.nl/14/) en [32](https://www.reputatiecoaching.nl/32/) had ik het onder andere over mobiele websites en responsive webdesign. Toen vertelde ik dat het steeds belangrijker wordt om je website ook op mobiele apparaten goed te tonen voor een betere gebruikerservaring en daarmee mogelijk ook een hogere positie in de zoekresultaten. En in podcast 31 vertelde ik dat ook [laadsnelheid van je pagina’s](https://www.reputatiecoaching.nl/31/) een factor is, die steeds meer in waarde toeneemt.
+En nu we het toch over Google hebben. In podcasts [14](https://web.archive.org/web/20140116051008/http://www.reputatiecoaching.nl:80/14/) en [32](https://web.archive.org/web/20150312092922/http://www.reputatiecoaching.nl/32/) had ik het onder andere over mobiele websites en responsive webdesign. Toen vertelde ik dat het steeds belangrijker wordt om je website ook op mobiele apparaten goed te tonen voor een betere gebruikerservaring en daarmee mogelijk ook een hogere positie in de zoekresultaten. En in podcast 31 vertelde ik dat ook [laadsnelheid van je pagina’s](https://web.archive.org/web/20150312092905/http://www.reputatiecoaching.nl/31/) een factor is, die steeds meer in waarde toeneemt.
 
 Afgelopen week heeft Google ook haar richtlijnen ten aanzien van mobiele sites aangepast. Hierbij wordt de laadsnelheid en alle daaraan gerelateerde vereisten heel duidelijk beschreven. In de show notes heb ik de link opgenomen naar de pagina “[Mobile Analysis in PageSpeed Insights](https://developers.google.com/speed/docs/insights/mobile/)” op de Google PageSpeed site.
 
@@ -164,9 +165,9 @@ Afgelopen week heeft Google ook haar richtlijnen ten aanzien van mobiele sites a
 
 En toen viel afgelopen donderdag opeens een brief in de brievenbus van Corpus Justitia uit Amsterdam. De brief was gericht aan Suzanne, mijn vrouw. Zij werd gesommeerd om binnen vijf dagen een bedrag van EUR 129,80 te betalen. Als ze dat niet zou doen, zou de aarde nog net niet vergaan, maar dreigde dit incassobureau het haar toch echt wel lastig te maken met deurwaarders, rechtzaken en wat dies meer zij.
 
-[Historische afbeelding: bekijk bron](http://cdn5.reputatiecoaching.nl/wp-content/uploads/2013/08/20130808-spookfactuur-corpus-justitia-2.png)
+[Historische afbeelding: bekijk bron](https://web.archive.org/web/20131214113053/http://cdn5.reputatiecoaching.nl/wp-content/uploads/2013/08/20130808-spookfactuur-corpus-justitia-2.png)
 
-Nu weten wij redelijk goed wat wij aan openstaande rekeningen hebben en deze herkende ik niet als zodanig. Dus ging ik op zoek naar meer informatie. In de brief werd verwezen naar de bedrijfswebsite: [www.corpusjustitia.com](http://www.corpusjustitia.com).
+Nu weten wij redelijk goed wat wij aan openstaande rekeningen hebben en deze herkende ik niet als zodanig. Dus ging ik op zoek naar meer informatie. In de brief werd verwezen naar de bedrijfswebsite: [www.corpusjustitia.com](https://web.archive.org/web/20140517072124/http://corpusjustitia.com/).
 
 Daarop presenteerde het in 1968 opgerichte bedrijf zich als een grote internationale onderneming met 1.370 medewerkers, verdeeld over kantoren in 12 landen. Ondanks dat werd aangeraden dat je schriftelijk moest reageren om bezwaar aan te tekenen, stond er ook een telefoonnummer op de site (en op de brief): 0900-2020794. Hoewel ik al het gevoel had dat het om fraude ging, heb ik toch kort het nummer gebeld. Het was mij al snel duidelijk dat het de fraudeurs te doen was om mensen zo lang mogelijk aan de lijn te houden. Het nummer kostte namelijk EUR 0,45 per minuut met een maximum van EUR 22,50 per gesprek.
 
@@ -178,13 +179,13 @@ Ook leverde het zoeken naar de letterlijke string “corpus justitia” (met aan
 
 Het leek mij voor de hand te liggen dat het bedrijf op z’n minst ook de domeinnaam in elk land zou vastleggen. Maar eigenlijk kwam het niet eens meer als een verrassing, dat de domeinnaam “corpusjustitia.nl” helemaal niet geclaimd bleek.
 
-Dus besloot ik die meteen te claimen en een waarschuwingspagina op “[www.corpusjustitia.nl](http://www.corpusjustitia.nl)” te zetten. Toen ik daarmee klaar was, was de site nog niet op Internet te vinden. Dus ik heb een aantal vrienden en bekenden benaderd om me te helpen zo snel mogelijk deze site te te promoten, zodra die online kwam. Vanaf ongeveer dire uur werd het feest!
+Dus besloot ik die meteen te claimen en een waarschuwingspagina op “[www.corpusjustitia.nl](https://web.archive.org/web/20130815092127/http://www.corpusjustitia.nl:80/)” te zetten. Toen ik daarmee klaar was, was de site nog niet op Internet te vinden. Dus ik heb een aantal vrienden en bekenden benaderd om me te helpen zo snel mogelijk deze site te te promoten, zodra die online kwam. Vanaf ongeveer dire uur werd het feest!
 
 Eerst druppelde het verkeer langzaam binnen: allemaal mensen die op (voornamelijk) Google zochten op: Corpus Justitia. Dat werd al maar meer. De eerste piek was omstreeks 9 uur op donderdagavond 8 augustus: toen had ik 149 bezoekers binnen een uur. Het volgende hoogtepunt was vrijdag omstreeks 9 uur ‘s ochtends. Toen had ik continu meer dan 40 bezoekers gelijktijdig op de site en kreeg ik per uur meer dan 200 bezoekers. Ik was blij dat ik een statische site had gemaakt…[Historische afbeelding: bekijk bron](https://lh5.googleusercontent.com/a-jd8sN9cuTemfd5nXVpjqGVCPXYcYvJuJJnxwjbpfdBa7i09_nQiDKLd8oSphV4kQ7Sy245glVYS2rjJmWD0F1MWuRJDoxU8Nkh0iirKN1SMJ7YaVpoFglWRA)
 
 Vrijdagmiddag kreeg ik vanwege mijn initiatieven een voicemail van EditieNL, maar helaas was ik toen even te druk met een paar andere zaken en was ik niet in staat hen van meer informatie te voorzien. Ik had op zich ook niet meer informatie dan de .nl-site en het artikel op m’n weblog.
 
-In die paar dagen heb ik meer dan 3.000 mensen op de site ‘[www.corpusjustitia.nl](http://www.corpusjustitia.nl)’ gehad en meer dan 1.000 mensen op m’n weblog op basis van deze kleine actie.[Historische afbeelding: bekijk bron](https://lh5.googleusercontent.com/FBDd5IHzWJpjKO42FCI_2wl1xKQWrY440p152hcox3KFWS1YsTkvtiT4RpJBsDvgC7XU6KZvBwMizcfmsKjYpn-nu7EV-fJNNqMzntygEgjLXn_xj3SzYPx6eA)
+In die paar dagen heb ik meer dan 3.000 mensen op de site ‘[www.corpusjustitia.nl](https://web.archive.org/web/20130815092127/http://www.corpusjustitia.nl:80/)’ gehad en meer dan 1.000 mensen op m’n weblog op basis van deze kleine actie.[Historische afbeelding: bekijk bron](https://lh5.googleusercontent.com/FBDd5IHzWJpjKO42FCI_2wl1xKQWrY440p152hcox3KFWS1YsTkvtiT4RpJBsDvgC7XU6KZvBwMizcfmsKjYpn-nu7EV-fJNNqMzntygEgjLXn_xj3SzYPx6eA)
 
 Hieruit kun je een paar conclusies trekken:
 
@@ -204,9 +205,9 @@ Hiermee kom ik dan weer aan het einde van de podcast van vandaag. Als je de podc
 
 Als je een vraag of een probleem hebt met betrekking tot je online reputatie of de vindbaarheid van je website, kun je een mailtje sturen naar [podcast@reputatiecoaching.nl](mailto:podcast@reputatiecoaching.nl). Als je dat te lastig vindt, of als je de podcast beluistert terwijl je in de auto zit en je hebt acuut een vraag, spreek dan een boodschap in op de ReputatieCoaching Hotline, op nummer: 084 - 883 15 56. Mogelijk behandel ik je vraag of probleem dan in een artikel of in de podcast.
 
-Als laatste kun je je ook inschrijven voor de nieuwsbrief. Dan ontvang je altijd als eerste het laatste nieuws wat ik publiceer en automatisch elk kwartaal het ReputatieCoaching Podcast Boek van het afgelopen kwartaal. Surf daartoe naar [www.reputatiecoaching.nl/nieuwsbrief](https://www.reputatiecoaching.nl/nieuwsbrief) en schrijf je meteen in.
+Als laatste kun je je ook inschrijven voor de nieuwsbrief. Dan ontvang je altijd als eerste het laatste nieuws wat ik publiceer en automatisch elk kwartaal het ReputatieCoaching Podcast Boek van het afgelopen kwartaal. Surf daartoe naar [www.reputatiecoaching.nl/nieuwsbrief](https://web.archive.org/web/20131205063155/http://www.reputatiecoaching.nl/nieuwsbrief/) en schrijf je meteen in.
 
-En je kunt rechtstreeks op de website een voicemail achterlaten, door op de tab aan de rechterkant van elke pagina te klikken, en je bericht in te spreken. Dit was [ReputatieCoaching Podast aflevering 37](https://www.reputatiecoaching.nl/37) en mijn naam is [Eduard de Boer](http://nl.linkedin.com/in/eduarddeboer).
+En je kunt rechtstreeks op de website een voicemail achterlaten, door op de tab aan de rechterkant van elke pagina te klikken, en je bericht in te spreken. Dit was [ReputatieCoaching Podast aflevering 37](https://web.archive.org/web/20130817163450/http://www.reputatiecoaching.nl:80/37/) en mijn naam is [Eduard de Boer](http://nl.linkedin.com/in/eduarddeboer).
 
 Ik wens je de komende week weer succes met het werken aan je reputatie, zodat je meteen je reputatie voor jou kunt laten werken!
 
@@ -223,8 +224,8 @@ Doei!
   * [Electronicazaak Grootaarts in Nijmegen](http://www.grootaarts-nijmegen.nl/)
   * [Brechtje Hendriks](http://brechtjehendriks.com) (kunstenares)
   * “[WordPress 3.6 ‘Oscar’](https://wordpress.org/news/2013/08/oscar/)” (Wordpress.org, 1 augustus 2013)
-  * “[21% Of Pinterest Users Bought Pinned Products In Stores](http://blog.sweetiq.com/2013/08/21-of-pinterest-users-bought-pinned-products-in-stores/)” (SweetIQ, 6 augustus 2013)
+  * “[21% Of Pinterest Users Bought Pinned Products In Stores](https://web.archive.org/web/20130811165351/http://blog.sweetiq.com:80/2013/08/21-of-pinterest-users-bought-pinned-products-in-stores/)” (SweetIQ, 6 augustus 2013)
   * “[Mobile Analysis in PageSpeed Insights](https://developers.google.com/speed/docs/insights/mobile/)” (Google PageSpeed, 6 augustus 2013)
   * “[Is Google Authorship Affecting Rankings Today?](http://searchengineland.com/is-google-authorship-affecting-rankings-today-168230)” (Search Engine Land, 8 augustus 2013)
-  * “[Corpus Justitia: slechte reputatie door fraude met spookfactuur/aanmaning](https://www.reputatiecoaching.nl/corpus-justitia-fraude-met-spookfactuur/)” (ReputatieCoaching, 8 augustus 2013)[/info_box]
+  * “[Corpus Justitia: slechte reputatie door fraude met spookfactuur/aanmaning](https://web.archive.org/web/20190822072150/https://www.reputatiecoaching.nl/corpus-justitia-fraude-met-spookfactuur/)” (ReputatieCoaching, 8 augustus 2013)[/info_box]
 ```

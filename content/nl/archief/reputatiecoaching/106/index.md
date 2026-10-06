@@ -3,6 +3,7 @@ title: '106: Eerste webinar over Internetmarketing voor Fotografen een succes! G
 date: '2014-12-11T19:00:31+00:00'
 description: Gisteravond presenteerde ik deel 1 van een een serie van twee webinars met als titel “Internetmarketing voor Fotografen”. Daar begin ik zometeen mee. Maar dat is tegelijkertijd ook de reden dat deze podcast iets later uit is gekomen, dan dat je gewend bent. Door enorme drukte had ik eerder deze week ook niet de gelegenheid om al veel voor te bereiden voor deze podcast, omdat ik druk was met het webinar.
 episode: 106
+kgRef: podcast_episode/reputatiecoaching_106
 historical: true
 archivePeriod: 2012–2016
 transcriptStatus: full
@@ -30,11 +31,11 @@ Gisteravond presenteerde ik deel 1 van een een serie van twee webinars met als t
 
 Hallo en hartelijk welkom bij deze aflevering van de ReputatieCoaching Podcast. Ik ben Eduard de Boer, ReputatieCoach. Dit is dé podcast die jou helpt om meer business te genereren, doordat jouw website beter gevonden wordt, zowel lokaal als landelijk en doordat ik je uitleg hoe je je online reputatie kunt verbeteren. Dit alles helpt jou om jouw bedrijf en jezelf beter op de online kaart te plaatsen.
 
-De podcast kun je vinden op [www.reputatiecoaching.nl/106](https://www.reputatiecoaching.nl/106/). Daar vind je niet alleen de tekst, maar ook video’s waar ik het in deze uitzending over heb, alsmede afbeeldingen, links enzovoorts. Bovendien is de podcast te beluisteren in [iTunes](https://www.reputatiecoaching.nl/itunes), op [Stitcher](https://www.reputatiecoaching.nl/stitcher) en ook op [TuneIn Radio](http://tunein.com/radio/ReputatieCoaching-Podcast-p655084/). Daar kun je je dus ook abonneren op de wekelijkse podcast. Veel mensen vinden het ideaal om de wekelijkse afleveringen van de podcast op hun gemak te beluisteren, terwijl ze autorijden, hardlopen, fietsen of trainen in de sportschool.
+De podcast kun je vinden op [www.reputatiecoaching.nl/106](https://web.archive.org/web/20150312095143/http://www.reputatiecoaching.nl/106/). Daar vind je niet alleen de tekst, maar ook video’s waar ik het in deze uitzending over heb, alsmede afbeeldingen, links enzovoorts. Bovendien is de podcast te beluisteren in iTunes, op Stitcher en ook op [TuneIn Radio](http://tunein.com/radio/ReputatieCoaching-Podcast-p655084/). Daar kun je je dus ook abonneren op de wekelijkse podcast. Veel mensen vinden het ideaal om de wekelijkse afleveringen van de podcast op hun gemak te beluisteren, terwijl ze autorijden, hardlopen, fietsen of trainen in de sportschool.
 
 ## Terugblik op podcast 105
 
-Herinner je je Jerry nog, die in [podcast 105](https://www.reputatiecoaching.nl/105/) vroeg hoe je een webshop kon optimaliseren? Hij heeft afgelopen week ook geluisterd naar mijn tips en heeft er meteen een aantal ter harte genomen en de spreekwoordelijke koe bij de horens gevat.
+Herinner je je Jerry nog, die in [podcast 105](https://web.archive.org/web/20150312095128/http://www.reputatiecoaching.nl/105/) vroeg hoe je een webshop kon optimaliseren? Hij heeft afgelopen week ook geluisterd naar mijn tips en heeft er meteen een aantal ter harte genomen en de spreekwoordelijke koe bij de horens gevat.
 
 Ik ontving vorige week vrijdag al meteen het mailtje, waarin Jerry onder andere schreef:
 
@@ -82,7 +83,7 @@ Dit webinar over “Internetmarketing voor Fotografen” was voor mij het eerste
 
 Na afloop kreeg ik veel positieve feedback van de mensen die het webinar hadden bijgewoond. En niet alleen bij hen smaakte het naar meer omdat ze de materie interessant vonden, ook ik vond het zo leuk dat ik heb besloten veel meer webinars te gaan organiseren. Die zal ik dan wel iets langer vooraf aankondigen, zodat meer mensen de webinars tijdig in hun agenda’s kunnen plannen.
 
-Om je een idee te geven van het webinar, heb ik de opname die automatisch is gemaakt op YouTube, opgenomen in de show notes, op [www.reputatiecoaching.nl/106](https://www.reputatiecoaching.nl/106/):
+Om je een idee te geven van het webinar, heb ik de opname die automatisch is gemaakt op YouTube, opgenomen in de show notes, op [www.reputatiecoaching.nl/106](https://web.archive.org/web/20150312095143/http://www.reputatiecoaching.nl/106/):
 
 ## Fundament van je succes op Internet
 
@@ -109,7 +110,7 @@ Ik kan me goed voorstellen dat jij ook dolgraag wil dat ik bepaalde onderwerpen 
 
 Waar het voorheen vaak maanden duurde, voordat Google bepaalde veranderingen in de Engelstalige sites ook toonde in andere talen, duurt het nu maar een paar weken. Want eerder deze week is voor het eerst de tekst “*Voor mobiel*” gespot in de Nederlandstalige mobiele zoekresultaten.
 
-In de transcriptie van deze podcast op [www.reputatiecoaching.nl/106](https://www.reputatiecoaching.nl/106/) heb ik een screenshot van mijn iPhone opgenomen, die je te zien krijgt als je zoekt op “reputatiecoaching”. Daarbij is duidelijk te zien dat de omschrijving bij het zoekresultaat wordt voorafgegaan door de grijze tekst “Voor mobiel”.
+In de transcriptie van deze podcast op [www.reputatiecoaching.nl/106](https://web.archive.org/web/20150312095143/http://www.reputatiecoaching.nl/106/) heb ik een screenshot van mijn iPhone opgenomen, die je te zien krijgt als je zoekt op “reputatiecoaching”. Daarbij is duidelijk te zien dat de omschrijving bij het zoekresultaat wordt voorafgegaan door de grijze tekst “Voor mobiel”.
 
 Vanaf nu vrees ik echt dat een groot aantal webmasters van wie de site nog niet mobielvriendelijk is, het verkeer naar hun site aanzienlijk zullen zien dalen. Dat komt doordat zo’n 54% van alle zoekpogingen wordt gedaan vanaf een mobiel apparaat. En nu zullen Internetters sneller een site aanklikken die wel geschikt is voor mobiele apparaten, dan sites die er niet speciaal voor zijn gemaakt.
 
@@ -164,7 +165,7 @@ En met dit nieuwtje over Google News kom ik dan weer aan het einde van de podcas
 
 Als je de podcast leuk vindt en je wilt nog meer op de hoogte blijven, volg me dan ook op Twitter, via [@reputatiecoach1](https://twitter.com/reputatiecoach1).
 
-Heb je inderdaad wat aan alle informatie die ik met je deel, help mij dan met het verder verbeteren en promoten van deze podcast. Surf daarvoor naar [iTunes](https://www.reputatiecoaching.nl/itunes) of [Stitcher](https://www.reputatiecoaching.nl/stitcher), geef de podcast een sterrenbeoordeling en laat ook je reactie achter. Door de podcast te beoordelen op iTunes en/of Stitcher breng je de podcast onder de aandacht van een breder publiek.
+Heb je inderdaad wat aan alle informatie die ik met je deel, help mij dan met het verder verbeteren en promoten van deze podcast. Surf daarvoor naar iTunes of Stitcher, geef de podcast een sterrenbeoordeling en laat ook je reactie achter. Door de podcast te beoordelen op iTunes en/of Stitcher breng je de podcast onder de aandacht van een breder publiek.
 
 Je kunt me verder helpen, door de podcast aan te bevelen bij vrienden of collega’s, waarvan je denkt dat ze er hun voordeel mee kunnen doen, of door ’m te delen op Twitter, like’n en delen op Facebook of een “+1” te geven op Google+.
 
@@ -172,7 +173,7 @@ En vergeet niet: ik ben hier om je te helpen! Als je een vraag of een probleem h
 
 Als je dat te lastig vindt, of als je de podcast beluistert terwijl je in de auto zit en je hebt acuut een vraag, spreek dan een boodschap in op de ReputatieCoaching Hotline, op nummer: 084 - 883 15 56. Mogelijk behandel ik je vraag of probleem dan in een artikel of in de podcast.
 
-En je kunt ook rechtstreeks op de website een voicemail achterlaten, door op de tab aan de rechterkant van elke pagina te klikken, en je bericht in te spreken. Dit was [ReputatieCoaching Podcast aflevering 106](https://www.reputatiecoaching.nl/106/) en mijn naam is [Eduard de Boer](http://nl.linkedin.com/in/eduarddeboer/nl).
+En je kunt ook rechtstreeks op de website een voicemail achterlaten, door op de tab aan de rechterkant van elke pagina te klikken, en je bericht in te spreken. Dit was [ReputatieCoaching Podcast aflevering 106](https://web.archive.org/web/20150312095143/http://www.reputatiecoaching.nl/106/) en mijn naam is [Eduard de Boer](http://nl.linkedin.com/in/eduarddeboer/nl).
 
 Ik wens je de komende week weer succes met het werken aan je reputatie, zodat je meteen je reputatie voor jou kunt laten werken!
 
@@ -183,10 +184,10 @@ Doei!
 Links naar content die in deze podcast aan bod komt:
 
 ```
-  * [ReputatieCoaching Podcast in iTunes](https://www.reputatiecoaching.nl/itunes)
-  * [ReputatieCoaching Podcast op Stitcher](https://www.reputatiecoaching.nl/stitcher)
+  * ReputatieCoaching Podcast in iTunes
+  * ReputatieCoaching Podcast op Stitcher
   * [ReputatieCoaching Podcast op TuneIn Radio](http://tunein.com/radio/ReputatieCoaching-Podcast-p655084/)
-  * [ReputatieCoaching Podcast RSS-feed](https://feeds.reputatiecoaching.nl/ReputatieCoachingPodcast)
+  * [ReputatieCoaching Podcast RSS-feed](https://web.archive.org/web/20141223114514/http://feeds.reputatiecoaching.nl:80/ReputatieCoachingPodcast)
   * “[Yelp And Michelin Have The Same Taste In New York Restaurants](http://fivethirtyeight.com/features/yelp-and-michelin-have-the-same-taste-in-new-york-restaurants/)” (FiveThirtyEight, 2 oktober 2014)
   * “[Yelp Is Just as Good As Michelin at Rating Expensive Restaurants](https://lifehacker.com/yelp-is-just-as-good-as-michelin-at-rating-expensive-re-1656048652)” (Lifehacker, 7 november 2014)
   * “[Google stopt met nieuwszoekmachine in Spanje](http://www.emerce.nl/nieuws/google-stopt-nieuwszoekmachine-spanje)” (Emerce, 11 december 2014)

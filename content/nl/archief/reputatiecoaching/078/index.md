@@ -3,6 +3,7 @@ title: '78: Einde eKudos, bronnen voor Apple Maps, nieuwe DuckDuckgo live. Nieuw
 date: '2014-05-26T06:30:28+00:00'
 description: 'Vandaag stopt de nieuwssite eKudos ermee. Apple Maps gebruikt nog nog meer bronnen voor haar app Apple Kaarten. OpenStreetMap is nu even goed als Google Maps en wellicht beter. En afgelopen week is de nieuwe versie van DuckDuckGo live gegaan, ook in Nederland. Ook is binnen de EU bepaald dat Google persoonlijke, gevoelige content op verzoek van de gedupeerde moet verwijderen. Overig nieuws in de podcast vandaag: V&D brent Internet in de warenhuizen en YouTube of beter gezegd: Google koopt Twitch.'
 episode: 78
+kgRef: podcast_episode/reputatiecoaching_078
 historical: true
 archivePeriod: 2012–2016
 transcriptStatus: full
@@ -28,11 +29,11 @@ Hallo en hartelijk welkom bij deze aflevering van de ReputatieCoaching Podcast. 
 
 Als persoon kun je met de diverse tips aan de slag om bijvoorbeeld je online reputatie als ijscoman, stationschef, waarzegger, EDP-auditor, keurmeester of wat dan ook te verbeteren.
 
-De podcast kun je vinden op [www.reputatiecoaching.nl/78](https://www.reputatiecoaching.nl/78/). Daar vind je niet alleen de tekst, maar ook video’s waar ik het in deze uitzending over heb, alsmede afbeeldingen, links enzovoorts. Bovendien is de podcast te beluisteren in [iTunes](https://www.reputatiecoaching.nl/itunes) en op [Stitcher](https://www.reputatiecoaching.nl/stitcher). Daar kun je je dus ook abonneren op de wekelijkse podcast. Veel mensen vinden het ideaal om de wekelijkse afleveringen van de podcast op hun gemak te beluisteren, terwijl ze autorijden.
+De podcast kun je vinden op [www.reputatiecoaching.nl/78](https://web.archive.org/web/20150312094309/http://www.reputatiecoaching.nl/78/). Daar vind je niet alleen de tekst, maar ook video’s waar ik het in deze uitzending over heb, alsmede afbeeldingen, links enzovoorts. Bovendien is de podcast te beluisteren in iTunes en op Stitcher. Daar kun je je dus ook abonneren op de wekelijkse podcast. Veel mensen vinden het ideaal om de wekelijkse afleveringen van de podcast op hun gemak te beluisteren, terwijl ze autorijden.
 
 ## Terugblik podcast 77: Buenoo
 
-Eerst even een korte terugblik naar de [podcast van vorige week](https://www.reputatiecoaching.nl/77/). Daarin had ik het over de relatief nieuwe reviewsite, genaamd “[Buenoo](http://www.buenoo.nl/)”. Inmiddels heb ik afgelopen week de oprichter Maurice Natte gesproken, zelfs al in levenden lijve. We gaan ons best doen hem volgende week in de show te interviewen.
+Eerst even een korte terugblik naar de [podcast van vorige week](https://web.archive.org/web/20150312094253/http://www.reputatiecoaching.nl/77/). Daarin had ik het over de relatief nieuwe reviewsite, genaamd “[Buenoo](http://www.buenoo.nl/)”. Inmiddels heb ik afgelopen week de oprichter Maurice Natte gesproken, zelfs al in levenden lijve. We gaan ons best doen hem volgende week in de show te interviewen.
 
 Laat ik dan nu overgaan op de onderwerpen voor vandaag…
 
@@ -100,7 +101,7 @@ Factual is overigens een dataprovider, waar je ook zeker je bedrijf moet aanmeld
 
 Zoals altijd is het wel belangrijk, zeker op zo’n dataprovider website, dat je de gegevens van je bedrijf precies zó invoert, als je je bedrijf overal vermeldt. Want als Google een te groot verschil bespeurt, wordt binnen no-time een tweede bedrijfsvermelding op Google Maps gemaakt en dan zul je zien dat beide lokale bedrijfsvermeldingen minder hoog zullen scoren in de lokale zoekresultaten.
 
-Waze is natuurlijk al geruime tijd [eigendom van Google](https://www.reputatiecoaching.nl/29/). Daarover heb ik in het verleden al meer gepubliceerd.
+Waze is natuurlijk al geruime tijd [eigendom van Google](/nl/archief/reputatiecoaching/029/). Daarover heb ik in het verleden al meer gepubliceerd.
 
 ## OpenStreetMap nu even goed als, of zelfs beter dan Google Maps?
 
@@ -122,7 +123,7 @@ Zoals je ziet zijn op OSM in elk geval de individuele woningen en bedrijven bete
 ## Nieuwe DuckDuckGo nu live
 
 *Historische afbeelding niet beschikbaar: DuckDuckGo*
-In podcast 76 vertelde ik je al over de [vernieuwde DuckDuckGo](https://www.reputatiecoaching.nl/76/). Die was toen op een aparte URL te bekijken en ik kon op dat moment alleen maar de Engelstalige versie vinden. Sinds eerder deze week is de nieuwe versie live, ook in het Nederlands.
+In podcast 76 vertelde ik je al over de [vernieuwde DuckDuckGo](https://web.archive.org/web/20140622012913/http://www.reputatiecoaching.nl:80/76/). Die was toen op een aparte URL te bekijken en ik kon op dat moment alleen maar de Engelstalige versie vinden. Sinds eerder deze week is de nieuwe versie live, ook in het Nederlands.
 
 Waar we in Nederland nog op de carrousel in Google moeten wachten, is DuckDuckGo de zoekgigant vóór, want als je bijvoorbeeld zoekt op de zoekterm: “hotel amsterdam”, dan zie je meteen de carrousel verschijnen, met daarin de resultaten uit Yelp:
 
@@ -130,7 +131,7 @@ Waar we in Nederland nog op de carrousel in Google moeten wachten, is DuckDuckGo
 
 Het is niet duidelijk op welke volgorde de bedrijfsvermeldingen vanuit Yelp worden vertoond, maar het is in elk geval níet op basis van aantal reviews of de reviewscore. Mogelijk is het op basis een bepaalde formule waarin deze beide gegevens zijn verwerkt. Ik zie in elk geval niet meteen een verband.
 
-En het is nu pijnlijk duidelijk, wat er gebeurt, als je bedrijf wordt vertoond, terwijl je je bedrijfsvermelding op Yelp nog niet volledig hebt gevuld en ook nog geen foto’s op Yelp hebt geplaatst. Ook daarvan heb ik een screenshot opgenomen in de show notes, op [www.reputatiecoaching.nl/78](https://www.reputatiecoaching.nl/78/). Daarin laat ik zien wat DuckDuckGo vertoont, als je zoekt op “hotel Apeldoorn”:
+En het is nu pijnlijk duidelijk, wat er gebeurt, als je bedrijf wordt vertoond, terwijl je je bedrijfsvermelding op Yelp nog niet volledig hebt gevuld en ook nog geen foto’s op Yelp hebt geplaatst. Ook daarvan heb ik een screenshot opgenomen in de show notes, op [www.reputatiecoaching.nl/78](https://web.archive.org/web/20150312094309/http://www.reputatiecoaching.nl/78/). Daarin laat ik zien wat DuckDuckGo vertoont, als je zoekt op “hotel Apeldoorn”:
 
 [![DuckDuckGo resultaten voor ‘hotel Apeldoorn’](20140526-duckduckgo-hotel-apeldoorn.png)](https://lh5.googleusercontent.com/-2lc-rbGVgV4/U4IIn5BQ9bI/AAAAAAAAAzA/L91aesjmOS8/w894-h566-no/20140526-duckduckgo-hotel-apeldoorn.png)
 
@@ -172,13 +173,13 @@ Zou dit lang in stand gehouden kunnen worden? Ik geef je één vraag ter overweg
 
 Je kunt voor een paar euro per maand (en soms zelfs gratis) met behulp van proxies de illusie wekken dat je je in een heel ander land bevindt. Dus zo zou je eventueel verborgen resultaten die wel buiten de EU worden vertoond, alsnog zichtbaar kunnen maken.
 
-Heb jij ideeën hierover? Reageer onderaan de show notes, op [www.reputatiecoaching.nl/78](https://www.reputatiecoaching.nl/78/).
+Heb jij ideeën hierover? Reageer onderaan de show notes, op [www.reputatiecoaching.nl/78](https://web.archive.org/web/20150312094309/http://www.reputatiecoaching.nl/78/).
 
 Anyway, ook hiervoor geldt: de toekomst zal uitwijzen of de soep zo heet wordt gegeten, als die wordt opgediend.
 
 ## V&D gaat bezoekers in de warenhuizen volgen
 
-In podcast 70 vertelde ik je over [iBeacons](https://www.reputatiecoaching.nl/70/), kleine apparaatjes waarmee je mensen of objecten inpandig kunt volgen. Wel nu, ook V&D begint ermee om Internet naar zijn warenhuizen te brengen. Dat is te lezen in een artikel op “Twinkle”, met als titel “[V&D brengt internet naar zijn warenhuizen](http://www.twinklemagazine.nl/nieuws/2014/05/vd-brengt-internet-naar-zijn-warenhuizen/index.xml)”. Twinkle schijft hierover het volgende:
+In podcast 70 vertelde ik je over [iBeacons](https://web.archive.org/web/20150312094041/http://www.reputatiecoaching.nl/70/), kleine apparaatjes waarmee je mensen of objecten inpandig kunt volgen. Wel nu, ook V&D begint ermee om Internet naar zijn warenhuizen te brengen. Dat is te lezen in een artikel op “Twinkle”, met als titel “[V&D brengt internet naar zijn warenhuizen](http://www.twinklemagazine.nl/nieuws/2014/05/vd-brengt-internet-naar-zijn-warenhuizen/index.xml)”. Twinkle schijft hierover het volgende:
 
 ## Google koopt Twitch
 
@@ -231,7 +232,7 @@ Het is alweer een tijdje geleden dat ik nieuws meldde over outlook.com, de opvol
 
 Het mooie aan deze filters is dat je nu mail op basis van meerdere complexe regels kunt filteren. Zo kun je bijvoorbeeld filters instellen, in de trant van: “*als een mail ouder is dan 3 dagen en afkomstig van één van je contacten, markeer die dan als belangrijk en zet er een vlaggetje bij*”.
 
-Verder zijn er nog een paar vernieuwingen in Outlook.com, zoals een nieuwe “Undo” (CTRL+Z), voor als je ergens iets fout hebt gedaan, in-line antwoorden en meer personal messaging. Je kunt de details lezen in het artikel, dat onderaan de show notes staat, op [www.reputatiecoaching.nl/78](https://www.reputatiecoaching.nl/78/).
+Verder zijn er nog een paar vernieuwingen in Outlook.com, zoals een nieuwe “Undo” (CTRL+Z), voor als je ergens iets fout hebt gedaan, in-line antwoorden en meer personal messaging. Je kunt de details lezen in het artikel, dat onderaan de show notes staat, op [www.reputatiecoaching.nl/78](https://web.archive.org/web/20150312094309/http://www.reputatiecoaching.nl/78/).
 
 ## Facebook laat restaurants menu’s tonen op hun FB pagina
 
@@ -268,7 +269,7 @@ Leuk om te zien dat Yelp nu als eerste met video reviews komt. Ik ben benieuwd h
 
 Althans, ik vond ze wel leuk en ik hoop dat jij ze ook leuk vond en er iets mee kunt. Als je de podcast leuk vindt en je wilt nóg beter op de hooge blijven, volg me dan ook op Twitter, via [@reputatiecoach1](https://twitter.com/reputatiecoach1).
 
-Heb je inderdaad wat aan alle informatie die ik met je deel, help mij dan met het verder verbeteren en promoten van deze podcast. Surf daarvoor naar [iTunes](https://www.reputatiecoaching.nl/itunes) of [Stitcher](https://www.reputatiecoaching.nl/stitcher), geef de podcast een sterrenbeoordeling en laat ook je reactie achter. Door de podcast te beoordelen op iTunes en/of Stitcher breng je de podcast onder de aandacht van een breder publiek.
+Heb je inderdaad wat aan alle informatie die ik met je deel, help mij dan met het verder verbeteren en promoten van deze podcast. Surf daarvoor naar iTunes of Stitcher, geef de podcast een sterrenbeoordeling en laat ook je reactie achter. Door de podcast te beoordelen op iTunes en/of Stitcher breng je de podcast onder de aandacht van een breder publiek.
 
 Je kunt me verder helpen, door de podcast aan te bevelen bij vrienden of collega’s, waarvan je denkt dat ze er hun voordeel mee kunnen doen, of door ’m te delen op Twitter, like’n en delen op Facebook of een “+1” te geven op Google+.
 
@@ -276,7 +277,7 @@ En vergeet niet: ik ben hier om je te helpen! Als je een vraag of een probleem h
 
 Als je dat te lastig vindt, of als je de podcast beluistert terwijl je in de auto zit en je hebt acuut een vraag, spreek dan een boodschap in op de ReputatieCoaching Hotline, op nummer: 084 - 883 15 56. Mogelijk behandel ik je vraag of probleem dan in een artikel of in de podcast.
 
-En je kunt ook rechtstreeks op de website een voicemail achterlaten, door op de tab aan de rechterkant van elke pagina te klikken, en je bericht in te spreken. Dit was [ReputatieCoaching Podcast aflevering 78](https://www.reputatiecoaching.nl/78/) en mijn naam is [Eduard de Boer](http://nl.linkedin.com/in/eduarddeboer/nl).
+En je kunt ook rechtstreeks op de website een voicemail achterlaten, door op de tab aan de rechterkant van elke pagina te klikken, en je bericht in te spreken. Dit was [ReputatieCoaching Podcast aflevering 78](https://web.archive.org/web/20150312094309/http://www.reputatiecoaching.nl/78/) en mijn naam is [Eduard de Boer](http://nl.linkedin.com/in/eduarddeboer/nl).
 
 Ik wens je de komende week weer succes met het werken aan je reputatie, zodat je meteen je reputatie voor jou kunt laten werken!
 
@@ -287,9 +288,9 @@ Doei!
 Links naar content die in deze podcast aan bod komt:
 
 ```
-  * [ReputatieCoaching Podcast in iTunes](https://www.reputatiecoaching.nl/itunes)
-  * [ReputatieCoaching Podcast op Stitcher](https://www.reputatiecoaching.nl/stitcher)
-  * [ReputatieCoaching Podcast RSS-feed](https://feeds.reputatiecoaching.nl/ReputatieCoachingPodcast)
+  * ReputatieCoaching Podcast in iTunes
+  * ReputatieCoaching Podcast op Stitcher
+  * [ReputatieCoaching Podcast RSS-feed](https://web.archive.org/web/20140803035048/http://feeds.reputatiecoaching.nl:80/ReputatieCoachingPodcast)
   * “[V&D brengt internet naar zijn warenhuizen](http://www.twinklemagazine.nl/nieuws/2014/05/vd-brengt-internet-naar-zijn-warenhuizen/)” (Twinkle, 8 mei 2014)
   * “[Outlook.com introduces the most sophisticated rules in webmail](http://blogs.office.com/2014/05/13/outlook-com-introduces-the-most-sophisticated-rules-in-webmail/)” (Outlook.com blog, 13 mei 2014)
   * “[Tip #1: How To Help Older Videos Rank Better in Search Results](https://www.reelseo.com/tube-talk-23/)” (Reel SEO, 14 mei 2014)

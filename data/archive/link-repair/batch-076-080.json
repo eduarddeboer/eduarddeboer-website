@@ -1,0 +1,1061 @@
+{
+  "generated_at": "2026-10-06T06:51:05.544835+00:00",
+  "batch": {
+    "start": 76,
+    "end": 80
+  },
+  "policy": {
+    "max_batch_size": 5,
+    "internal_reputatiecoaching": "Wayback if available; otherwise unlink",
+    "external_live": "retain",
+    "external_clearly_dead": "Wayback if available; otherwise unlink",
+    "external_uncertain": "retain original and report for review"
+  },
+  "episodes": [
+    {
+      "episode": 76,
+      "path": "content/nl/archief/reputatiecoaching/076/index.md",
+      "kg_ref": "podcast_episode/reputatiecoaching_076",
+      "kg_ref_added": true,
+      "changed": true,
+      "links": [
+        {
+          "label": "podcast 75",
+          "original_url": "https://www.reputatiecoaching.nl/75/",
+          "kind": "internal_reputatiecoaching",
+          "live_status": null,
+          "live_http_status": null,
+          "action": "wayback",
+          "replacement_url": "https://web.archive.org/web/20150312094219/http://www.reputatiecoaching.nl/75/",
+          "wayback_timestamp": "20150312094219",
+          "note": null
+        },
+        {
+          "label": "www.reputatiecoaching.nl/76",
+          "original_url": "https://www.reputatiecoaching.nl/76/",
+          "kind": "internal_reputatiecoaching",
+          "live_status": null,
+          "live_http_status": null,
+          "action": "wayback",
+          "replacement_url": "https://web.archive.org/web/20140622012913/http://www.reputatiecoaching.nl:80/76/",
+          "wayback_timestamp": "20140622012913",
+          "note": null
+        },
+        {
+          "label": "iTunes",
+          "original_url": "https://www.reputatiecoaching.nl/itunes",
+          "kind": "internal_reputatiecoaching",
+          "live_status": null,
+          "live_http_status": null,
+          "action": "unlinked",
+          "replacement_url": null,
+          "wayback_timestamp": null,
+          "note": "No usable Wayback capture found"
+        },
+        {
+          "label": "Stitcher",
+          "original_url": "https://www.reputatiecoaching.nl/stitcher",
+          "kind": "internal_reputatiecoaching",
+          "live_status": null,
+          "live_http_status": null,
+          "action": "unlinked",
+          "replacement_url": null,
+          "wayback_timestamp": null,
+          "note": "No usable Wayback capture found"
+        },
+        {
+          "label": "Jeugdtandarts Waalsprong in Lent",
+          "original_url": "http://www.jeugdtandarts.nl/waalsprong",
+          "kind": "external",
+          "live_status": "live",
+          "live_http_status": 200,
+          "action": "kept_live",
+          "replacement_url": null,
+          "wayback_timestamp": null,
+          "note": null
+        },
+        {
+          "label": "allebedrijveninnijmegen.nl",
+          "original_url": "http://www.allebedrijveninnijmegen.nl/beauty-en-gezondheid/tandtechnische-bedrijven/lent/jeugdtandarts-waalsprong",
+          "kind": "external",
+          "live_status": "live",
+          "live_http_status": 200,
+          "action": "kept_live",
+          "replacement_url": null,
+          "wayback_timestamp": null,
+          "note": null
+        },
+        {
+          "label": "www.grootaarts-nijmegen.nl",
+          "original_url": "http://www.grootaarts-nijmegen.nl",
+          "kind": "external",
+          "live_status": "live",
+          "live_http_status": 200,
+          "action": "kept_live",
+          "replacement_url": null,
+          "wayback_timestamp": null,
+          "note": null
+        },
+        {
+          "label": "next.duckduckgo.com",
+          "original_url": "https://next.duckduckgo.com",
+          "kind": "external",
+          "live_status": "live",
+          "live_http_status": 200,
+          "action": "kept_live",
+          "replacement_url": null,
+          "wayback_timestamp": null,
+          "note": null
+        },
+        {
+          "label": "onderzoek van het Amerikaanse bedrijf “Net Applications”",
+          "original_url": "http://www.cnet.com/news/google-chrome-continues-to-outpace-firefox/",
+          "kind": "external",
+          "live_status": "dead",
+          "live_http_status": 404,
+          "action": "wayback",
+          "replacement_url": "https://web.archive.org/web/20140506224937/http://www.cnet.com:80/news/google-chrome-continues-to-outpace-firefox/",
+          "wayback_timestamp": "20140506224937",
+          "note": null
+        },
+        {
+          "label": "[Historische afbeelding: Populariteit van browsers per maart/april 2014",
+          "original_url": "https://lh3.googleusercontent.com/8hx7BhmwYMqaGPfe0fMXzvgT1rltKlCfiljT9pO6V3s=w688-h205-p-no",
+          "kind": "external",
+          "live_status": "live",
+          "live_http_status": 200,
+          "action": "kept_live",
+          "replacement_url": null,
+          "wayback_timestamp": null,
+          "note": null
+        },
+        {
+          "label": "podcast 74",
+          "original_url": "https://www.reputatiecoaching.nl/74/",
+          "kind": "internal_reputatiecoaching",
+          "live_status": null,
+          "live_http_status": null,
+          "action": "wayback",
+          "replacement_url": "https://web.archive.org/web/20150312094201/http://www.reputatiecoaching.nl/74/",
+          "wayback_timestamp": "20150312094201",
+          "note": null
+        },
+        {
+          "label": "website van Akismet",
+          "original_url": "http://akismet.com",
+          "kind": "external",
+          "live_status": "live",
+          "live_http_status": 200,
+          "action": "kept_live",
+          "replacement_url": null,
+          "wayback_timestamp": null,
+          "note": null
+        },
+        {
+          "label": "podcast 23",
+          "original_url": "https://www.reputatiecoaching.nl/23/",
+          "kind": "internal_reputatiecoaching",
+          "live_status": null,
+          "live_http_status": null,
+          "action": "wayback",
+          "replacement_url": "https://web.archive.org/web/20150312092701/http://www.reputatiecoaching.nl/23/",
+          "wayback_timestamp": "20150312092701",
+          "note": null
+        },
+        {
+          "label": "@reputatiecoach1",
+          "original_url": "https://twitter.com/reputatiecoach1",
+          "kind": "external",
+          "live_status": "live",
+          "live_http_status": 200,
+          "action": "kept_live",
+          "replacement_url": null,
+          "wayback_timestamp": null,
+          "note": null
+        },
+        {
+          "label": "Eduard de Boer",
+          "original_url": "http://nl.linkedin.com/in/eduarddeboer/nl",
+          "kind": "external",
+          "live_status": "uncertain",
+          "live_http_status": 999,
+          "action": "kept_uncertain",
+          "replacement_url": null,
+          "wayback_timestamp": null,
+          "note": "HTTP 999"
+        },
+        {
+          "label": "ReputatieCoaching Podcast RSS-feed",
+          "original_url": "https://feeds.reputatiecoaching.nl/ReputatieCoachingPodcast",
+          "kind": "external",
+          "live_status": "dead",
+          "live_http_status": null,
+          "action": "wayback",
+          "replacement_url": "https://web.archive.org/web/20140803035048/http://feeds.reputatiecoaching.nl:80/ReputatieCoachingPodcast",
+          "wayback_timestamp": "20140803035048",
+          "note": "gaierror: [Errno -2] Name or service not known"
+        },
+        {
+          "label": "#SMC055 12 mei, Media en Social Media",
+          "original_url": "http://smcapeldoorn.nl/index.php/69-smc055-12-mei-media-en-social-media",
+          "kind": "external",
+          "live_status": "live",
+          "live_http_status": 200,
+          "action": "kept_live",
+          "replacement_url": null,
+          "wayback_timestamp": null,
+          "note": null
+        }
+      ],
+      "summary": {
+        "links_examined": 17,
+        "wayback": 6,
+        "unlinked": 2,
+        "kept_live": 8,
+        "kept_uncertain": 1
+      }
+    },
+    {
+      "episode": 77,
+      "path": "content/nl/archief/reputatiecoaching/077/index.md",
+      "kg_ref": "podcast_episode/reputatiecoaching_077",
+      "kg_ref_added": true,
+      "changed": true,
+      "links": [
+        {
+          "label": "www.reputatiecoaching.nl/77",
+          "original_url": "https://www.reputatiecoaching.nl/77/",
+          "kind": "internal_reputatiecoaching",
+          "live_status": null,
+          "live_http_status": null,
+          "action": "wayback",
+          "replacement_url": "https://web.archive.org/web/20150312094253/http://www.reputatiecoaching.nl/77/",
+          "wayback_timestamp": "20150312094253",
+          "note": null
+        },
+        {
+          "label": "iTunes",
+          "original_url": "https://www.reputatiecoaching.nl/itunes",
+          "kind": "internal_reputatiecoaching",
+          "live_status": null,
+          "live_http_status": null,
+          "action": "unlinked",
+          "replacement_url": null,
+          "wayback_timestamp": null,
+          "note": "No usable Wayback capture found"
+        },
+        {
+          "label": "Stitcher",
+          "original_url": "https://www.reputatiecoaching.nl/stitcher",
+          "kind": "internal_reputatiecoaching",
+          "live_status": null,
+          "live_http_status": null,
+          "action": "unlinked",
+          "replacement_url": null,
+          "wayback_timestamp": null,
+          "note": "No usable Wayback capture found"
+        },
+        {
+          "label": "Vorige week",
+          "original_url": "https://www.reputatiecoaching.nl/76/",
+          "kind": "internal_reputatiecoaching",
+          "live_status": null,
+          "live_http_status": null,
+          "action": "wayback",
+          "replacement_url": "https://web.archive.org/web/20140622012913/http://www.reputatiecoaching.nl:80/76/",
+          "wayback_timestamp": "20140622012913",
+          "note": null
+        },
+        {
+          "label": "werkinstructie “opschonen citations”",
+          "original_url": "https://www.reputatiecoaching.nl/werkinstructie-opschonen-citations/",
+          "kind": "internal_reputatiecoaching",
+          "live_status": null,
+          "live_http_status": null,
+          "action": "wayback",
+          "replacement_url": "https://web.archive.org/web/20140314201735/http://www.reputatiecoaching.nl:80/werkinstructie-opschonen-citations/",
+          "wayback_timestamp": "20140314201735",
+          "note": null
+        },
+        {
+          "label": "Media en Social Media",
+          "original_url": "https://www.reputatiecoaching.nl/smc055-media-en-social-media-20140512/",
+          "kind": "internal_reputatiecoaching",
+          "live_status": null,
+          "live_http_status": null,
+          "action": "unlinked",
+          "replacement_url": null,
+          "wayback_timestamp": null,
+          "note": "No usable Wayback capture found"
+        },
+        {
+          "label": "tandarts Beuningen",
+          "original_url": "http://www.jeugdtandarts.nl/beuningen/",
+          "kind": "external",
+          "live_status": "live",
+          "live_http_status": 200,
+          "action": "kept_live",
+          "replacement_url": null,
+          "wayback_timestamp": null,
+          "note": null
+        },
+        {
+          "label": "Buenoo",
+          "original_url": "http://www.buenoo.nl",
+          "kind": "external",
+          "live_status": "live",
+          "live_http_status": 200,
+          "action": "kept_live",
+          "replacement_url": null,
+          "wayback_timestamp": null,
+          "note": null
+        },
+        {
+          "label": "WordFence",
+          "original_url": "http://www.wordfence.com",
+          "kind": "external",
+          "live_status": "live",
+          "live_http_status": 202,
+          "action": "kept_live",
+          "replacement_url": null,
+          "wayback_timestamp": null,
+          "note": null
+        },
+        {
+          "label": "Google Alerts",
+          "original_url": "http://www.google.com/alerts",
+          "kind": "external",
+          "live_status": "live",
+          "live_http_status": 200,
+          "action": "kept_live",
+          "replacement_url": null,
+          "wayback_timestamp": null,
+          "note": null
+        },
+        {
+          "label": "@reputatiecoach1",
+          "original_url": "https://twitter.com/reputatiecoach1",
+          "kind": "external",
+          "live_status": "live",
+          "live_http_status": 200,
+          "action": "kept_live",
+          "replacement_url": null,
+          "wayback_timestamp": null,
+          "note": null
+        },
+        {
+          "label": "Eduard de Boer",
+          "original_url": "http://nl.linkedin.com/in/eduarddeboer/nl",
+          "kind": "external",
+          "live_status": "uncertain",
+          "live_http_status": 999,
+          "action": "kept_uncertain",
+          "replacement_url": null,
+          "wayback_timestamp": null,
+          "note": "HTTP 999"
+        },
+        {
+          "label": "ReputatieCoaching Podcast RSS-feed",
+          "original_url": "https://feeds.reputatiecoaching.nl/ReputatieCoachingPodcast",
+          "kind": "external",
+          "live_status": "dead",
+          "live_http_status": null,
+          "action": "wayback",
+          "replacement_url": "https://web.archive.org/web/20140803035048/http://feeds.reputatiecoaching.nl:80/ReputatieCoachingPodcast",
+          "wayback_timestamp": "20140803035048",
+          "note": "gaierror: [Errno -2] Name or service not known"
+        }
+      ],
+      "summary": {
+        "links_examined": 13,
+        "wayback": 4,
+        "unlinked": 3,
+        "kept_live": 5,
+        "kept_uncertain": 1
+      }
+    },
+    {
+      "episode": 78,
+      "path": "content/nl/archief/reputatiecoaching/078/index.md",
+      "kg_ref": "podcast_episode/reputatiecoaching_078",
+      "kg_ref_added": true,
+      "changed": true,
+      "links": [
+        {
+          "label": "www.reputatiecoaching.nl/78",
+          "original_url": "https://www.reputatiecoaching.nl/78/",
+          "kind": "internal_reputatiecoaching",
+          "live_status": null,
+          "live_http_status": null,
+          "action": "wayback",
+          "replacement_url": "https://web.archive.org/web/20150312094309/http://www.reputatiecoaching.nl/78/",
+          "wayback_timestamp": "20150312094309",
+          "note": null
+        },
+        {
+          "label": "iTunes",
+          "original_url": "https://www.reputatiecoaching.nl/itunes",
+          "kind": "internal_reputatiecoaching",
+          "live_status": null,
+          "live_http_status": null,
+          "action": "unlinked",
+          "replacement_url": null,
+          "wayback_timestamp": null,
+          "note": "No usable Wayback capture found"
+        },
+        {
+          "label": "Stitcher",
+          "original_url": "https://www.reputatiecoaching.nl/stitcher",
+          "kind": "internal_reputatiecoaching",
+          "live_status": null,
+          "live_http_status": null,
+          "action": "unlinked",
+          "replacement_url": null,
+          "wayback_timestamp": null,
+          "note": "No usable Wayback capture found"
+        },
+        {
+          "label": "podcast van vorige week",
+          "original_url": "https://www.reputatiecoaching.nl/77/",
+          "kind": "internal_reputatiecoaching",
+          "live_status": null,
+          "live_http_status": null,
+          "action": "wayback",
+          "replacement_url": "https://web.archive.org/web/20150312094253/http://www.reputatiecoaching.nl/77/",
+          "wayback_timestamp": "20150312094253",
+          "note": null
+        },
+        {
+          "label": "Buenoo",
+          "original_url": "http://www.buenoo.nl/",
+          "kind": "external",
+          "live_status": "live",
+          "live_http_status": 200,
+          "action": "kept_live",
+          "replacement_url": null,
+          "wayback_timestamp": null,
+          "note": null
+        },
+        {
+          "label": "vorige week is aangekondigd dat per vandaag de stekker eruit gaat",
+          "original_url": "http://webwereld.nl/markttrends/82591-overgebleven-ekudos-gebruiker-krijgt-6-dagen",
+          "kind": "external",
+          "live_status": "uncertain",
+          "live_http_status": null,
+          "action": "kept_uncertain",
+          "replacement_url": null,
+          "wayback_timestamp": null,
+          "note": "TimeoutError: The read operation timed out"
+        },
+        {
+          "label": "eigendom van Google",
+          "original_url": "https://www.reputatiecoaching.nl/29/",
+          "kind": "internal_reputatiecoaching",
+          "live_status": null,
+          "live_http_status": null,
+          "action": "unlinked",
+          "replacement_url": null,
+          "wayback_timestamp": null,
+          "note": "No usable Wayback capture found"
+        },
+        {
+          "label": "OpenStreetMap",
+          "original_url": "http://www.openstreetmap.org",
+          "kind": "external",
+          "live_status": "live",
+          "live_http_status": 200,
+          "action": "kept_live",
+          "replacement_url": null,
+          "wayback_timestamp": null,
+          "note": null
+        },
+        {
+          "label": "vernieuwde DuckDuckGo",
+          "original_url": "https://www.reputatiecoaching.nl/76/",
+          "kind": "internal_reputatiecoaching",
+          "live_status": null,
+          "live_http_status": null,
+          "action": "wayback",
+          "replacement_url": "https://web.archive.org/web/20140622012913/http://www.reputatiecoaching.nl:80/76/",
+          "wayback_timestamp": "20140622012913",
+          "note": null
+        },
+        {
+          "label": "iBeacons",
+          "original_url": "https://www.reputatiecoaching.nl/70/",
+          "kind": "internal_reputatiecoaching",
+          "live_status": null,
+          "live_http_status": null,
+          "action": "wayback",
+          "replacement_url": "https://web.archive.org/web/20150312094041/http://www.reputatiecoaching.nl/70/",
+          "wayback_timestamp": "20150312094041",
+          "note": null
+        },
+        {
+          "label": "V&D brengt internet naar zijn warenhuizen",
+          "original_url": "http://www.twinklemagazine.nl/nieuws/2014/05/vd-brengt-internet-naar-zijn-warenhuizen/index.xml",
+          "kind": "external",
+          "live_status": "uncertain",
+          "live_http_status": null,
+          "action": "kept_uncertain",
+          "replacement_url": null,
+          "wayback_timestamp": null,
+          "note": "TimeoutError: timed out"
+        },
+        {
+          "label": "ReelSEO",
+          "original_url": "https://www.reelseo.com/",
+          "kind": "external",
+          "live_status": "live",
+          "live_http_status": 200,
+          "action": "kept_live",
+          "replacement_url": null,
+          "wayback_timestamp": null,
+          "note": null
+        },
+        {
+          "label": "Outlook.com introduces the most sophisticated rules in webmail",
+          "original_url": "http://blogs.office.com/2014/05/13/outlook-com-introduces-the-most-sophisticated-rules-in-webmail/",
+          "kind": "external",
+          "live_status": "live",
+          "live_http_status": 200,
+          "action": "kept_live",
+          "replacement_url": null,
+          "wayback_timestamp": null,
+          "note": null
+        },
+        {
+          "label": "Business Insider",
+          "original_url": "http://www.businessinsider.com/yelp-video-reviews-2014-5",
+          "kind": "external",
+          "live_status": "live",
+          "live_http_status": 200,
+          "action": "kept_live",
+          "replacement_url": null,
+          "wayback_timestamp": null,
+          "note": null
+        },
+        {
+          "label": "@reputatiecoach1",
+          "original_url": "https://twitter.com/reputatiecoach1",
+          "kind": "external",
+          "live_status": "live",
+          "live_http_status": 200,
+          "action": "kept_live",
+          "replacement_url": null,
+          "wayback_timestamp": null,
+          "note": null
+        },
+        {
+          "label": "Eduard de Boer",
+          "original_url": "http://nl.linkedin.com/in/eduarddeboer/nl",
+          "kind": "external",
+          "live_status": "uncertain",
+          "live_http_status": 999,
+          "action": "kept_uncertain",
+          "replacement_url": null,
+          "wayback_timestamp": null,
+          "note": "HTTP 999"
+        },
+        {
+          "label": "ReputatieCoaching Podcast RSS-feed",
+          "original_url": "https://feeds.reputatiecoaching.nl/ReputatieCoachingPodcast",
+          "kind": "external",
+          "live_status": "dead",
+          "live_http_status": null,
+          "action": "wayback",
+          "replacement_url": "https://web.archive.org/web/20140803035048/http://feeds.reputatiecoaching.nl:80/ReputatieCoachingPodcast",
+          "wayback_timestamp": "20140803035048",
+          "note": "gaierror: [Errno -2] Name or service not known"
+        },
+        {
+          "label": "V&D brengt internet naar zijn warenhuizen",
+          "original_url": "http://www.twinklemagazine.nl/nieuws/2014/05/vd-brengt-internet-naar-zijn-warenhuizen/",
+          "kind": "external",
+          "live_status": "uncertain",
+          "live_http_status": null,
+          "action": "kept_uncertain",
+          "replacement_url": null,
+          "wayback_timestamp": null,
+          "note": "TimeoutError: timed out"
+        },
+        {
+          "label": "Tip #1: How To Help Older Videos Rank Better in Search Results",
+          "original_url": "https://www.reelseo.com/tube-talk-23/",
+          "kind": "external",
+          "live_status": "uncertain",
+          "live_http_status": null,
+          "action": "kept_uncertain",
+          "replacement_url": null,
+          "wayback_timestamp": null,
+          "note": "TimeoutError: The read operation timed out"
+        },
+        {
+          "label": "New for Facebook Pages: Restaurant Menus",
+          "original_url": "https://www.facebook.com/business/news/restaurant-menus-facebook-pages",
+          "kind": "external",
+          "live_status": "live",
+          "live_http_status": 200,
+          "action": "kept_live",
+          "replacement_url": null,
+          "wayback_timestamp": null,
+          "note": null
+        }
+      ],
+      "summary": {
+        "links_examined": 20,
+        "wayback": 5,
+        "unlinked": 3,
+        "kept_live": 7,
+        "kept_uncertain": 5
+      }
+    },
+    {
+      "episode": 79,
+      "path": "content/nl/archief/reputatiecoaching/079/index.md",
+      "kg_ref": "podcast_episode/reputatiecoaching_079",
+      "kg_ref_added": true,
+      "changed": true,
+      "links": [
+        {
+          "label": "de uitspraak van het Europese Hof, waarbij inwoners van de EU het recht kregen om data uit de zoekmachines te laten verwijderen",
+          "original_url": "https://www.reputatiecoaching.nl/78/",
+          "kind": "internal_reputatiecoaching",
+          "live_status": null,
+          "live_http_status": null,
+          "action": "wayback",
+          "replacement_url": "https://web.archive.org/web/20150312094309/http://www.reputatiecoaching.nl/78/",
+          "wayback_timestamp": "20150312094309",
+          "note": null
+        },
+        {
+          "label": "www.reputatiecoaching.nl/79",
+          "original_url": "https://www.reputatiecoaching.nl/79/",
+          "kind": "internal_reputatiecoaching",
+          "live_status": null,
+          "live_http_status": null,
+          "action": "unlinked",
+          "replacement_url": null,
+          "wayback_timestamp": null,
+          "note": "No usable Wayback capture found"
+        },
+        {
+          "label": "iTunes",
+          "original_url": "https://www.reputatiecoaching.nl/itunes",
+          "kind": "internal_reputatiecoaching",
+          "live_status": null,
+          "live_http_status": null,
+          "action": "unlinked",
+          "replacement_url": null,
+          "wayback_timestamp": null,
+          "note": "No usable Wayback capture found"
+        },
+        {
+          "label": "Stitcher",
+          "original_url": "https://www.reputatiecoaching.nl/stitcher",
+          "kind": "internal_reputatiecoaching",
+          "live_status": null,
+          "live_http_status": null,
+          "action": "unlinked",
+          "replacement_url": null,
+          "wayback_timestamp": null,
+          "note": "No usable Wayback capture found"
+        },
+        {
+          "label": "podcast 78",
+          "original_url": "https://www.reputatiecoaching.nl/nieuwsbrief/",
+          "kind": "internal_reputatiecoaching",
+          "live_status": null,
+          "live_http_status": null,
+          "action": "wayback",
+          "replacement_url": "https://web.archive.org/web/20140525211114/http://www.reputatiecoaching.nl:80/nieuwsbrief/",
+          "wayback_timestamp": "20140525211114",
+          "note": null
+        },
+        {
+          "label": "pagina’s kunt aanmelden, die je graag verwijderd ziet",
+          "original_url": "https://support.google.com/legal/contact/lr_eudpa?product=websearch&hl=nl",
+          "kind": "external",
+          "live_status": "dead",
+          "live_http_status": 404,
+          "action": "wayback",
+          "replacement_url": "https://web.archive.org/web/20140902081044/https://support.google.com/legal/contact/lr_eudpa?product=websearch&hl=nl",
+          "wayback_timestamp": "20140902081044",
+          "note": null
+        },
+        {
+          "label": "Search Engine Journal",
+          "original_url": "http://www.searchenginejournal.com/googles-right-forgotten-form-now-available-users-europe/108127/",
+          "kind": "external",
+          "live_status": "live",
+          "live_http_status": 200,
+          "action": "kept_live",
+          "replacement_url": null,
+          "wayback_timestamp": null,
+          "note": null
+        },
+        {
+          "label": "Google in quandary over how to uphold EU privacy ruling",
+          "original_url": "http://www.reuters.com/article/2014/05/30/us-google-eu-quandary-idUSKBN0EA1ZT20140530",
+          "kind": "external",
+          "live_status": "live",
+          "live_http_status": 401,
+          "action": "kept_live",
+          "replacement_url": null,
+          "wayback_timestamp": null,
+          "note": "HTTP 401 but resource is reachable"
+        },
+        {
+          "label": "compressor.io",
+          "original_url": "http://compressor.io",
+          "kind": "external",
+          "live_status": "live",
+          "live_http_status": 200,
+          "action": "kept_live",
+          "replacement_url": null,
+          "wayback_timestamp": null,
+          "note": null
+        },
+        {
+          "label": "smush.it",
+          "original_url": "https://www.reputatiecoaching.nl/74/",
+          "kind": "internal_reputatiecoaching",
+          "live_status": null,
+          "live_http_status": null,
+          "action": "wayback",
+          "replacement_url": "https://web.archive.org/web/20150312094201/http://www.reputatiecoaching.nl/74/",
+          "wayback_timestamp": "20150312094201",
+          "note": null
+        },
+        {
+          "label": "stackedit.io",
+          "original_url": "http://stackedit.io",
+          "kind": "external",
+          "live_status": "live",
+          "live_http_status": 200,
+          "action": "kept_live",
+          "replacement_url": null,
+          "wayback_timestamp": null,
+          "note": null
+        },
+        {
+          "label": "Search Engine Journal",
+          "original_url": "http://www.searchenginejournal.com/hit-hardest-panda-4-0-answer-may-surprise/106461/",
+          "kind": "external",
+          "live_status": "live",
+          "live_http_status": 200,
+          "action": "kept_live",
+          "replacement_url": null,
+          "wayback_timestamp": null,
+          "note": null
+        },
+        {
+          "label": "@reputatiecoach1",
+          "original_url": "https://twitter.com/reputatiecoach1",
+          "kind": "external",
+          "live_status": "live",
+          "live_http_status": 200,
+          "action": "kept_live",
+          "replacement_url": null,
+          "wayback_timestamp": null,
+          "note": null
+        },
+        {
+          "label": "Eduard de Boer",
+          "original_url": "http://nl.linkedin.com/in/eduarddeboer/nl",
+          "kind": "external",
+          "live_status": "uncertain",
+          "live_http_status": 999,
+          "action": "kept_uncertain",
+          "replacement_url": null,
+          "wayback_timestamp": null,
+          "note": "HTTP 999"
+        },
+        {
+          "label": "ReputatieCoaching Podcast RSS-feed",
+          "original_url": "https://feeds.reputatiecoaching.nl/ReputatieCoachingPodcast",
+          "kind": "external",
+          "live_status": "dead",
+          "live_http_status": null,
+          "action": "wayback",
+          "replacement_url": "https://web.archive.org/web/20140803035048/http://feeds.reputatiecoaching.nl:80/ReputatieCoachingPodcast",
+          "wayback_timestamp": "20140803035048",
+          "note": "gaierror: [Errno -2] Name or service not known"
+        }
+      ],
+      "summary": {
+        "links_examined": 15,
+        "wayback": 5,
+        "unlinked": 3,
+        "kept_live": 6,
+        "kept_uncertain": 1
+      }
+    },
+    {
+      "episode": 80,
+      "path": "content/nl/archief/reputatiecoaching/080/index.md",
+      "kg_ref": "podcast_episode/reputatiecoaching_080",
+      "kg_ref_added": true,
+      "changed": true,
+      "links": [
+        {
+          "label": "www.reputatiecoaching.nl/80",
+          "original_url": "https://www.reputatiecoaching.nl/80/",
+          "kind": "internal_reputatiecoaching",
+          "live_status": null,
+          "live_http_status": null,
+          "action": "wayback",
+          "replacement_url": "https://web.archive.org/web/20150312094356/http://www.reputatiecoaching.nl/80/",
+          "wayback_timestamp": "20150312094356",
+          "note": null
+        },
+        {
+          "label": "iTunes",
+          "original_url": "https://www.reputatiecoaching.nl/itunes",
+          "kind": "internal_reputatiecoaching",
+          "live_status": null,
+          "live_http_status": null,
+          "action": "unlinked",
+          "replacement_url": null,
+          "wayback_timestamp": null,
+          "note": "No usable Wayback capture found"
+        },
+        {
+          "label": "Stitcher",
+          "original_url": "https://www.reputatiecoaching.nl/stitcher",
+          "kind": "internal_reputatiecoaching",
+          "live_status": null,
+          "live_http_status": null,
+          "action": "unlinked",
+          "replacement_url": null,
+          "wayback_timestamp": null,
+          "note": "No usable Wayback capture found"
+        },
+        {
+          "label": "podcast 79",
+          "original_url": "https://www.reputatiecoaching.nl79/",
+          "kind": "external",
+          "live_status": "dead",
+          "live_http_status": null,
+          "action": "unlinked",
+          "replacement_url": null,
+          "wayback_timestamp": null,
+          "note": "gaierror: [Errno -2] Name or service not known; No usable Wayback capture found"
+        },
+        {
+          "label": "compressor.io",
+          "original_url": "http://compressor.io",
+          "kind": "external",
+          "live_status": "live",
+          "live_http_status": 200,
+          "action": "kept_live",
+          "replacement_url": null,
+          "wayback_timestamp": null,
+          "note": null
+        },
+        {
+          "label": "[Historische afbeelding: bekijk bron",
+          "original_url": "https://lh5.googleusercontent.com/-ykRIMWEm2gI/U4tp56JxyWI/AAAAAAAAA1E/swtNO5U1z-I/w600/20140602-compressor.png",
+          "kind": "external",
+          "live_status": "live",
+          "live_http_status": 200,
+          "action": "kept_live",
+          "replacement_url": null,
+          "wayback_timestamp": null,
+          "note": null
+        },
+        {
+          "label": "Future Fun Ballooning",
+          "original_url": "http://www.futurefun.nl/",
+          "kind": "external",
+          "live_status": "live",
+          "live_http_status": 200,
+          "action": "kept_live",
+          "replacement_url": null,
+          "wayback_timestamp": null,
+          "note": null
+        },
+        {
+          "label": "[Historische afbeelding: bekijk bron",
+          "original_url": "https://lh4.googleusercontent.com/-wSQooSoNs90/U5V-53qvmnI/AAAAAAAAA4o/3BscHpcmpRk/w250/Somatology+van+Emile+Ratelband.jpg",
+          "kind": "external",
+          "live_status": "live",
+          "live_http_status": 200,
+          "action": "kept_live",
+          "replacement_url": null,
+          "wayback_timestamp": null,
+          "note": null
+        },
+        {
+          "label": "Somatology",
+          "original_url": "http://partnerprogramma.bol.com/click/click?p=1&t=url&s=20124&url=http%3A//www.bol.com/nl/p/somatology/1001004005600746/&f=TXL&subid=EmileRatelband&name=ReputatieCoaching",
+          "kind": "external",
+          "live_status": "live",
+          "live_http_status": 403,
+          "action": "kept_live",
+          "replacement_url": null,
+          "wayback_timestamp": null,
+          "note": "HTTP 403 but resource is reachable"
+        },
+        {
+          "label": "podcast 65",
+          "original_url": "https://www.reputatiecoaching.nl65/",
+          "kind": "external",
+          "live_status": "dead",
+          "live_http_status": null,
+          "action": "unlinked",
+          "replacement_url": null,
+          "wayback_timestamp": null,
+          "note": "gaierror: [Errno -2] Name or service not known; No usable Wayback capture found"
+        },
+        {
+          "label": "Historische afbeelding: bekijk bron",
+          "original_url": "https://lh3.googleusercontent.com/-kphIULzrHpk/UsCrF7o5SXI/AAAAAAAAAQ8/gpjUnuOts_8/s200-no/google-hummingbird-200x200.jpg",
+          "kind": "external",
+          "live_status": "live",
+          "live_http_status": 200,
+          "action": "kept_live",
+          "replacement_url": null,
+          "wayback_timestamp": null,
+          "note": null
+        },
+        {
+          "label": "richtlijnen voor het overzetten, verplaatsen of migreren van websites",
+          "original_url": "https://support.google.com/webmasters/topic/6029673?hl=nl",
+          "kind": "external",
+          "live_status": "dead",
+          "live_http_status": 404,
+          "action": "wayback",
+          "replacement_url": "https://web.archive.org/web/20140625173908/https://support.google.com/webmasters/topic/6029673?hl=nl",
+          "wayback_timestamp": "20140625173908",
+          "note": null
+        },
+        {
+          "label": "[Historische afbeelding: Vimeo logo",
+          "original_url": "https://lh4.googleusercontent.com/-Aoyap7IqZlY/U5V3qg9GPlI/AAAAAAAAA1k/wxYNe50j05A/s200-no/vimeo_icon.png",
+          "kind": "external",
+          "live_status": "live",
+          "live_http_status": 200,
+          "action": "kept_live",
+          "replacement_url": null,
+          "wayback_timestamp": null,
+          "note": null
+        },
+        {
+          "label": "Vimeo",
+          "original_url": "http://www.vimeo.com",
+          "kind": "external",
+          "live_status": "live",
+          "live_http_status": 200,
+          "action": "kept_live",
+          "replacement_url": null,
+          "wayback_timestamp": null,
+          "note": null
+        },
+        {
+          "label": "YouTube",
+          "original_url": "https://www.youtube.com",
+          "kind": "external",
+          "live_status": "live",
+          "live_http_status": 200,
+          "action": "kept_live",
+          "replacement_url": null,
+          "wayback_timestamp": null,
+          "note": null
+        },
+        {
+          "label": "Dailymotion",
+          "original_url": "http://www.dailymotion.com",
+          "kind": "external",
+          "live_status": "live",
+          "live_http_status": 200,
+          "action": "kept_live",
+          "replacement_url": null,
+          "wayback_timestamp": null,
+          "note": null
+        },
+        {
+          "label": "Photobucket",
+          "original_url": "http://www.photobucket.com",
+          "kind": "external",
+          "live_status": "live",
+          "live_http_status": 200,
+          "action": "kept_live",
+          "replacement_url": null,
+          "wayback_timestamp": null,
+          "note": null
+        },
+        {
+          "label": "Flickr",
+          "original_url": "http://www.flickr.com",
+          "kind": "external",
+          "live_status": "live",
+          "live_http_status": 200,
+          "action": "kept_live",
+          "replacement_url": null,
+          "wayback_timestamp": null,
+          "note": null
+        },
+        {
+          "label": "Historische afbeelding: Video SEO",
+          "original_url": "https://lh5.googleusercontent.com/-NetXfQKijs4/U5V43mh3luI/AAAAAAAAA14/oGcRITnS1M4/s200-no/Video-SEO.jpg",
+          "kind": "external",
+          "live_status": "live",
+          "live_http_status": 200,
+          "action": "kept_live",
+          "replacement_url": null,
+          "wayback_timestamp": null,
+          "note": null
+        },
+        {
+          "label": "@reputatiecoach1",
+          "original_url": "https://twitter.com/reputatiecoach1",
+          "kind": "external",
+          "live_status": "live",
+          "live_http_status": 200,
+          "action": "kept_live",
+          "replacement_url": null,
+          "wayback_timestamp": null,
+          "note": null
+        },
+        {
+          "label": "Eduard de Boer",
+          "original_url": "http://nl.linkedin.com/in/eduarddeboer/nl",
+          "kind": "external",
+          "live_status": "uncertain",
+          "live_http_status": 999,
+          "action": "kept_uncertain",
+          "replacement_url": null,
+          "wayback_timestamp": null,
+          "note": "HTTP 999"
+        },
+        {
+          "label": "ReputatieCoaching Podcast RSS-feed",
+          "original_url": "https://feeds.reputatiecoaching.nl/ReputatieCoachingPodcast",
+          "kind": "external",
+          "live_status": "dead",
+          "live_http_status": null,
+          "action": "wayback",
+          "replacement_url": "https://web.archive.org/web/20140803035048/http://feeds.reputatiecoaching.nl:80/ReputatieCoachingPodcast",
+          "wayback_timestamp": "20140803035048",
+          "note": "gaierror: [Errno -2] Name or service not known"
+        }
+      ],
+      "summary": {
+        "links_examined": 22,
+        "wayback": 3,
+        "unlinked": 4,
+        "kept_live": 14,
+        "kept_uncertain": 1
+      }
+    }
+  ],
+  "summary": {
+    "episodes": 5,
+    "changed_episodes": 5,
+    "wayback": 23,
+    "unlinked": 15,
+    "kept_live": 40,
+    "kept_uncertain": 9
+  }
+}

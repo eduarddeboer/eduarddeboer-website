@@ -3,6 +3,7 @@ title: '107: Nieuws van Yelp! DuckDuckGo goes more local! Kwaliteit van content 
 date: '2014-12-18T07:30:21+00:00'
 description: DuckDuckGo goes more local; daar begin ik zo mee. Ook heb ik een bijzonder nieuwtje van het Yelp-front voor je. Instagram is inmiddels trouwens groter dan Twitter en wist je dat zowel Bing als Google content ook echt beoordelen op kwaliteit? Ik heb nieuws over “betrouwbare” SEO services uit India en ik vertel je waarom continu onderhoud aan je citations nodig is. Hallo en hartelijk welkom bij deze aflevering van de ReputatieCoaching Podcast.
 episode: 107
+kgRef: podcast_episode/reputatiecoaching_107
 historical: true
 archivePeriod: 2012–2016
 transcriptStatus: full
@@ -28,7 +29,7 @@ DuckDuckGo goes more local; daar begin ik zo mee. Ook heb ik een bijzonder nieuw
 
 Hallo en hartelijk welkom bij deze aflevering van de ReputatieCoaching Podcast. Ik ben Eduard de Boer, ReputatieCoach. Dit is dé podcast die jou helpt om meer business te genereren, doordat jouw website beter gevonden wordt, zowel lokaal als landelijk en doordat ik je uitleg hoe je je online reputatie kunt verbeteren. Dit alles helpt je om je bedrijf en jezelf beter op de online kaart te plaatsen.
 
-De podcast kun je vinden op [www.reputatiecoaching.nl/107](https://www.reputatiecoaching.nl/107/). Daar vind je niet alleen de tekst, maar ook video’s waar ik het in deze uitzending over heb, alsmede afbeeldingen, links enzovoorts. Bovendien is de podcast te beluisteren in [iTunes](https://www.reputatiecoaching.nl/itunes), op [Stitcher](https://www.reputatiecoaching.nl/stitcher) en ook op [TuneIn Radio](http://tunein.com/radio/ReputatieCoaching-Podcast-p655084/). Daar kun je je dus ook abonneren op de wekelijkse podcast. Veel mensen vinden het ideaal om de wekelijkse afleveringen van de podcast op hun gemak te beluisteren, terwijl ze autorijden, fietsen, wandelen of trainen in de sportschool.
+De podcast kun je vinden op [www.reputatiecoaching.nl/107](https://web.archive.org/web/20150312095159/http://www.reputatiecoaching.nl/107/). Daar vind je niet alleen de tekst, maar ook video’s waar ik het in deze uitzending over heb, alsmede afbeeldingen, links enzovoorts. Bovendien is de podcast te beluisteren in iTunes, op Stitcher en ook op [TuneIn Radio](http://tunein.com/radio/ReputatieCoaching-Podcast-p655084/). Daar kun je je dus ook abonneren op de wekelijkse podcast. Veel mensen vinden het ideaal om de wekelijkse afleveringen van de podcast op hun gemak te beluisteren, terwijl ze autorijden, fietsen, wandelen of trainen in de sportschool.
 
 Laat ik dan nu overgaan op de onderwerpen voor vandaag…
 
@@ -36,7 +37,7 @@ Laat ik dan nu overgaan op de onderwerpen voor vandaag…
 
 DuckDuckGo Local. Local? Gaat DuckDuckGo nu ook lokaal? Ja, in zekere zin wel. Voordat ik hierin duik, geef ik je eerst wat meer context. Om een beter gevoel te krijgen van wat de andere zoekmachines naast Google aan resultaten tonen, heb ik mezelf voorgenomen om in Safari op mijn iPhone elke maand de ingestelde zoekmachine te wijzigen. En deze maand gebruik ik DuckDuckGo. Dan switch ik volgende maand eens een maand naar Bing.
 
-Het was natuurlijk al bekend dat DuckDuckGo lokale resultaten vertoont, als je zoekt met de extra zoekterm “nearby” gevolgd door de plaatsnaam. Dat vertelde ik je reeds in [podcast 76](https://www.reputatiecoaching.nl/76/) in mei van dit jaar. Maar ook DuckDuckGo zit niet stil en is continu bezig de zoekresultaten en de gebruikerservaring te verbeteren.
+Het was natuurlijk al bekend dat DuckDuckGo lokale resultaten vertoont, als je zoekt met de extra zoekterm “nearby” gevolgd door de plaatsnaam. Dat vertelde ik je reeds in [podcast 76](https://web.archive.org/web/20150312094235/http://www.reputatiecoaching.nl/76/) in mei van dit jaar. Maar ook DuckDuckGo zit niet stil en is continu bezig de zoekresultaten en de gebruikerservaring te verbeteren.
 
 Zo ontdekte ik afgelopen zondagavond een tweetal vernieuwingen, die me nog niet eerder waren opgevallen.
 
@@ -52,7 +53,7 @@ Dat is tenminste als je het regiofilter, dat rechts in het scherm staat, uit heb
 
 [![Fotograaf in Apeldoorn: Allround Fotografie - Ketelboetershoek 14 - 7328 JE Apeldoorn - 087-7841336 op Yelp](20141218-DDG-local-0a.png)](https://lh3.googleusercontent.com/-ktU0tqQaK4k/VJNKvSfNRcI/AAAAAAAABb0/fCd3cLS4TsU/w1280/20141218-DDG-local-0a.png)
 
-Ook de derde vermelding komt van Wikimapia… Zoals je kunt zien in de screenshot in de transcriptie van deze podcast, op [www.reputatiecoaching.nl/107](https://www.reputatiecoaching.nl/107/) komt de bedrijfsvermelding dus van Yelp. Eerst vroeg ik me af of DuckDuckGo mogelijk ook Wikimapia gebruikt voor haar zoekresultaten en dat zou mij op zich helemaal niet verbazen.
+Ook de derde vermelding komt van Wikimapia… Zoals je kunt zien in de screenshot in de transcriptie van deze podcast, op [www.reputatiecoaching.nl/107](https://web.archive.org/web/20150312095159/http://www.reputatiecoaching.nl/107/) komt de bedrijfsvermelding dus van Yelp. Eerst vroeg ik me af of DuckDuckGo mogelijk ook Wikimapia gebruikt voor haar zoekresultaten en dat zou mij op zich helemaal niet verbazen.
 
 Maar toen ik eens beter ging kijken naar de twee Wikimapia vermeldingen, zag ik dat daar ook het woord “nearby” in voorkwam, dus ik denk dat dit de reden is dat die twee vermeldingen zo hoog staan vermeld.
 
@@ -76,7 +77,7 @@ Er is eigenlijk geen pijl op te trekken, wat je te zien krijgt, als je varieert 
 
 Hoewel de resultaten vooralsnog niet consistent lijken, is het wel duidelijk dat DuckDuckGo zich ook meer en meer gaat richten op het bieden van lokale zoekresultaten.
 
-Nog eenmaal benadruk ik dat het je bedrijf dus kan helpen om het aan te melden op Yelp. Als je wilt weten hoe je dat moet doen, verwijs ik je naar mijn instructievideo die ik heb opgenomen in de show notes op [www.reputatiecoaching.nl/107](https://www.reputatiecoaching.nl/107/):
+Nog eenmaal benadruk ik dat het je bedrijf dus kan helpen om het aan te melden op Yelp. Als je wilt weten hoe je dat moet doen, verwijs ik je naar mijn instructievideo die ik heb opgenomen in de show notes op [www.reputatiecoaching.nl/107](https://web.archive.org/web/20150312095159/http://www.reputatiecoaching.nl/107/):
 
 ## Yelp lanceert “Yelp voor Zakelijke Accounts”
 
@@ -195,7 +196,7 @@ Eigenlijk kun je deze drie facetten samenvatten in één woord: “Reputatie”�
 
 Terug naar de drie beoordelingscriteria voor kwaliteit van content. Volgens Google worden webpagina’s die op alle drie de onderdelen laag scoren, dan ook niet hoog vertoond in de zoekresultaten. Om haar algoritmes te leren content beter te beoordelen gebruikt Google de zogenaamde content raters, ofwel “content beoordelaars”. Die krijgen willekeurige pagina’s voorgeschoteld, die ze vervolgens op deze onderdelen moeten beoordelen. Hierdoor worden de algoritmes van Google steeds beter om ook andere content te beoordelen.
 
-In het artikel “[Google Rewrites Quality Rating Guide – What SEOs Need to Know](http://www.thesempost.com/google-rewrites-quality-rating-guide-seos-need-know/)” kun je hier veel meer over lezen, als je dit interessant vindt. Ik gebruik het mogelijk een andere keer om er verder op in te gaan. De link naar dat artikel vind je, evenals alle andere links in de show notes, op [www.reputatiecoaching.nl/107](https://www.reputatiecoaching.nl/107/).
+In het artikel “[Google Rewrites Quality Rating Guide – What SEOs Need to Know](http://www.thesempost.com/google-rewrites-quality-rating-guide-seos-need-know/)” kun je hier veel meer over lezen, als je dit interessant vindt. Ik gebruik het mogelijk een andere keer om er verder op in te gaan. De link naar dat artikel vind je, evenals alle andere links in de show notes, op [www.reputatiecoaching.nl/107](https://web.archive.org/web/20150312095159/http://www.reputatiecoaching.nl/107/).
 
 ## “Betrouwbare” SEO services uit India
 
@@ -251,7 +252,7 @@ Hiermee kom ik dan weer aan het einde van deze podcast. Volgende week donderdag 
 
 Als je de podcast leuk vindt en je wilt nog meer op de hoogte blijven, volg me dan ook op Twitter, via [@reputatiecoach1](https://twitter.com/reputatiecoach1).
 
-Heb je inderdaad wat aan alle informatie die ik met je deel, help mij dan met het verder verbeteren en promoten van deze podcast. Surf daarvoor naar [iTunes](https://www.reputatiecoaching.nl/itunes) of [Stitcher](https://www.reputatiecoaching.nl/stitcher), geef de podcast een sterrenbeoordeling en laat ook je reactie achter. Door de podcast te beoordelen op iTunes en/of Stitcher breng je de podcast onder de aandacht van een breder publiek.
+Heb je inderdaad wat aan alle informatie die ik met je deel, help mij dan met het verder verbeteren en promoten van deze podcast. Surf daarvoor naar iTunes of Stitcher, geef de podcast een sterrenbeoordeling en laat ook je reactie achter. Door de podcast te beoordelen op iTunes en/of Stitcher breng je de podcast onder de aandacht van een breder publiek.
 
 Je kunt me verder helpen, door de podcast aan te bevelen bij vrienden of collega’s, waarvan je denkt dat ze er hun voordeel mee kunnen doen, of door ’m te delen op Twitter, like’n en delen op Facebook of een “+1” te geven op Google+.
 
@@ -259,7 +260,7 @@ En vergeet niet: ik ben hier om je te helpen! Als je een vraag of een probleem h
 
 Als je dat te lastig vindt, of als je de podcast beluistert terwijl je in de auto zit en je hebt acuut een vraag, spreek dan een boodschap in op de ReputatieCoaching Hotline, op nummer: 084 - 883 15 56. Mogelijk behandel ik je vraag of probleem dan in een artikel of in de podcast.
 
-En je kunt ook rechtstreeks op de website een voicemail achterlaten, door op de tab aan de rechterkant van elke pagina te klikken, en je bericht in te spreken. Dit was [ReputatieCoaching Podcast aflevering 107](https://www.reputatiecoaching.nl/107/) en mijn naam is [Eduard de Boer](http://nl.linkedin.com/in/eduarddeboer/nl).
+En je kunt ook rechtstreeks op de website een voicemail achterlaten, door op de tab aan de rechterkant van elke pagina te klikken, en je bericht in te spreken. Dit was [ReputatieCoaching Podcast aflevering 107](https://web.archive.org/web/20150312095159/http://www.reputatiecoaching.nl/107/) en mijn naam is [Eduard de Boer](http://nl.linkedin.com/in/eduarddeboer/nl).
 
 Ik wens je de komende week weer succes met het werken aan je reputatie, zodat je meteen je reputatie voor jou kunt laten werken!
 
@@ -270,10 +271,10 @@ Doei!
 Links naar content die in deze podcast aan bod komt:
 
 ```
-  * [ReputatieCoaching Podcast in iTunes](https://www.reputatiecoaching.nl/itunes)
-  * [ReputatieCoaching Podcast op Stitcher](https://www.reputatiecoaching.nl/stitcher)
+  * ReputatieCoaching Podcast in iTunes
+  * ReputatieCoaching Podcast op Stitcher
   * [ReputatieCoaching Podcast op TuneIn Radio](http://tunein.com/radio/ReputatieCoaching-Podcast-p655084/)
-  * [ReputatieCoaching Podcast RSS-feed](https://feeds.reputatiecoaching.nl/ReputatieCoachingPodcast)
+  * [ReputatieCoaching Podcast RSS-feed](https://web.archive.org/web/20200719034852/https://feeds.reputatiecoaching.nl/ReputatieCoachingPodcast)
   * [Yelp voor Zakelijke Accounts app (iTunes App Store)](https://itunes.apple.com/nl/app/yelp-voor-zakelijke-accounts/id936983378?mt=8)
   * [Yelp voor Zakelijke Accounts app (Google Play Store)](https://play.google.com/store/apps/details?id=com.yelp.android.biz&hl=nl_NL)
   * “[Google Rewrites Quality Rating Guide – What SEOs Need to Know](http://www.thesempost.com/google-rewrites-quality-rating-guide-seos-need-know/)” (The SEM Post, 9 juli 2014)

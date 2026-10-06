@@ -1,0 +1,104 @@
+name: Repair ReputatieCoaching podcast links
+
+on:
+  push:
+    branches:
+      - "archive/podcast-links-*"
+    paths:
+      - "data/archive/link-repair/requests/*.json"
+
+permissions:
+  contents: write
+
+concurrency:
+  group: podcast-link-repair-${{ github.ref }}
+  cancel-in-progress: false
+
+jobs:
+  repair:
+    runs-on: ubuntu-latest
+    timeout-minutes: 30
+    steps:
+      - name: Checkout batch branch
+        uses: actions/checkout@v7
+        with:
+          ref: ${{ github.sha }}
+          fetch-depth: 0
+
+      - name: Python 3.12
+        uses: actions/setup-python@v6
+        with:
+          python-version: "3.12"
+
+      - name: Resolve batch request
+        id: batch
+        shell: bash
+        run: |
+          set -euo pipefail
+          suffix="${GITHUB_REF_NAME#archive/podcast-links-}"
+          if [[ ! "$suffix" =~ ^[0-9]{3}-[0-9]{3}$ ]]; then
+            echo "skip=true" >> "$GITHUB_OUTPUT"
+            echo "Unexpected batch branch name: $GITHUB_REF_NAME"
+            exit 0
+          fi
+
+          request="data/archive/link-repair/requests/batch-${suffix}.json"
+          if [[ ! -f "$request" ]]; then
+            echo "skip=true" >> "$GITHUB_OUTPUT"
+            echo "Expected request $request is not present; nothing to do."
+            exit 0
+          fi
+
+          echo "skip=false" >> "$GITHUB_OUTPUT"
+          python3 - "$request" "$suffix" <<'PY' >> "$GITHUB_OUTPUT"
+          import json, sys
+          payload = json.load(open(sys.argv[1], encoding="utf-8"))
+          start = int(payload["start"])
+          end = int(payload["end"])
+          suffix = sys.argv[2]
+          expected = f"{start:03d}-{end:03d}"
+          if not (1 <= start <= end <= 167):
+              raise SystemExit("Invalid podcast batch range")
+          if end - start + 1 > 5:
+              raise SystemExit("Podcast batch may contain at most five episodes")
+          if expected != suffix:
+              raise SystemExit(
+                  f"Request range {expected} does not match branch suffix {suffix}"
+              )
+          print(f"start={start}")
+          print(f"end={end}")
+          print(f"request={sys.argv[1]}")
+          PY
+
+      - name: Repair requested batch
+        if: steps.batch.outputs.skip != 'true'
+        shell: bash
+        run: |
+          set -euo pipefail
+          python3 scripts/repair_reputatiecoaching_links.py \
+            --start "${{ steps.batch.outputs.start }}" \
+            --end "${{ steps.batch.outputs.end }}"
+
+      - name: Validate repository
+        if: steps.batch.outputs.skip != 'true'
+        shell: bash
+        run: |
+          set -euo pipefail
+          python3 scripts/validate.py
+
+      - name: Commit batch result
+        if: steps.batch.outputs.skip != 'true'
+        shell: bash
+        run: |
+          set -euo pipefail
+          git config user.name "github-actions[bot]"
+          git config user.email "41898282+github-actions[bot]@users.noreply.github.com"
+          git add -- \
+            "content/nl/archief/reputatiecoaching" \
+            "data/archive/link-repair"
+          if git diff --cached --quiet; then
+            echo "No batch changes to commit."
+            exit 0
+          fi
+          git commit -m "Archive podcast links ${{ steps.batch.outputs.start }}-${{ steps.batch.outputs.end }}"
+          git push origin "HEAD:${{ github.ref_name }}"

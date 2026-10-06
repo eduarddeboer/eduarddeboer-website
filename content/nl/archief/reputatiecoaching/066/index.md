@@ -3,6 +3,7 @@ title: '66: Promotievideo''s voor Google Glass, spam in Google Maps, handig gebr
 date: '2014-03-03T07:30:09+00:00'
 description: 'Laat ik het maar meteen zeggen: vorige podcast sprak ik wel heel snel! Ik had in recordtempo zo’n 4.400 woorden erdoor gejaagd. Wat daar de oorzaak van was, vertel ik je zo. Bing gaat belabberd taalgebruik afstraffen en Matt Cutts licht toe of je eenvoudig moet schrijven, of juist heel wetenschappelijk. En afgelopen week was ik te druk met al mijn activiteiten om daarnaast ook artikelen te schrijven en te publiceren… Zo heb ik voor Ordina twee video’s gemaakt voor de promotie van twee evenementen.'
 episode: 66
+kgRef: podcast_episode/reputatiecoaching_066
 historical: true
 archivePeriod: 2012–2016
 transcriptStatus: full
@@ -32,7 +33,7 @@ Hallo en hartelijk welkom bij deze aflevering van de ReputatieCoaching Podcast. 
 
 Als persoon kun je met de diverse tips aan de slag om bijvoorbeeld je online reputatie als dermatoloog, egyptoloog, horlogemaker, geschiedkundige of wat dan ook te verbeteren.
 
-De volledige transcriptie (dat is een ander woord voor “tekst”) van deze podcast kun je vinden op [www.reputatiecoaching.nl/66](https://www.reputatiecoaching.nl/66/). Daar vind je niet alleen de tekst, maar ook video’s waar ik het in deze uitzending over heb, alsmede afbeeldingen, links enzovoorts.
+De volledige transcriptie (dat is een ander woord voor “tekst”) van deze podcast kun je vinden op [www.reputatiecoaching.nl/66](https://web.archive.org/web/20150312093915/http://www.reputatiecoaching.nl/66/). Daar vind je niet alleen de tekst, maar ook video’s waar ik het in deze uitzending over heb, alsmede afbeeldingen, links enzovoorts.
 
 ## Terugblik podcast #65
 
@@ -50,13 +51,13 @@ Dan nu over op de onderwerpen voor vandaag…
 
 ## Bing bestraft slechte spelling en typfouten
 
-Eerst een kort nieuwtje van Bing, ondanks dat deze zoekmachine volgens mij in Nederland amper wordt gebruikt. Duane Forrester, de Senior Product Manager van Bing, schrijft in het artikel “[Quality: Do You Have It, or Just Think You Have It?](http://www.bing.com/blogs/site_blogs/b/webmaster/archive/2014/02/20/quality-do-you-have-it-or-just-think-you-have-it.aspx)” op het Bing Webmaster Blog dat de zoekmachine van Microsoft daadwerkelijk slechte grammatica, typfouten en belabberd taalgebruik meeneemt als rankingfactor in de zoekresultaten.
+Eerst een kort nieuwtje van Bing, ondanks dat deze zoekmachine volgens mij in Nederland amper wordt gebruikt. Duane Forrester, de Senior Product Manager van Bing, schrijft in het artikel “[Quality: Do You Have It, or Just Think You Have It?](https://web.archive.org/web/20140304035612/http://www.bing.com/blogs/site_blogs/b/webmaster/archive/2014/02/20/quality-do-you-have-it-or-just-think-you-have-it.aspx)” op het Bing Webmaster Blog dat de zoekmachine van Microsoft daadwerkelijk slechte grammatica, typfouten en belabberd taalgebruik meeneemt als rankingfactor in de zoekresultaten.
 
 Als Bing de idee heeft dat het aantal fouten echt een negatief effect heeft op de gebruikerservaring tot een punt waarbij iemand hoogstwaarschijnlijk zal stoppen met lezen, dan is de kans groot dat dit een negatief effect heeft op de ranking.
 
 Duane schrijft vrij vertaald:
 
-Dit is in tegenstelling tot Google, althans volgens een uitleg van Matt Cutts in 2011 en ook volgens de video die ik in [podcast 64](https://www.reputatiecoaching.nl/64/) heb opgenomen, waarin hij zegt dat reacties op artikelen met fouten geen negatief effect hebben op de ranking van jouw pagina’s.
+Dit is in tegenstelling tot Google, althans volgens een uitleg van Matt Cutts in 2011 en ook volgens de video die ik in [podcast 64](https://web.archive.org/web/20150312093837/http://www.reputatiecoaching.nl/64/) heb opgenomen, waarin hij zegt dat reacties op artikelen met fouten geen negatief effect hebben op de ranking van jouw pagina’s.
 
 In de praktijk apen de zoekmachines elkaar redelijk na, dus ik acht het zeker mogelijk dat Google over enige tijd ook de kwaliteit zal gaan meewegen. Wie weet zal belabberd taalgebruik geen direct negatief effect hebben, maar krijgt (vrijwel) foutloze content extra pluspunten, waardoor het mogelijk hoger in de zoekresultaten vertoond zal worden.
 
@@ -103,7 +104,7 @@ Hij vraagt dus te melden als je content scrapers ziet, die hoger scoren in de zo
   * URL van Google waarop de scraped content hoger scoort
 ```
 
-De link naar dit formulier vind je in de show notes op [www.reputatiecoaching.nl/66](https://www.reputatiecoaching.nl/66/).
+De link naar dit formulier vind je in de show notes op [www.reputatiecoaching.nl/66](https://web.archive.org/web/20150312093915/http://www.reputatiecoaching.nl/66/).
 
 Het is mij een paar jaar geleden overkomen dat een fotograaf uit Roermond alle content van mijn eigen site voor Allround Fotografie letterlijk had gekopieerd en geplakt, inclusief de prijzen. Het enige dat hij anders had, waren de foto’s en de bedrijfsnaam.
 
@@ -145,8 +146,8 @@ We zullen zien hoe de komende tijd het aandeel van Google zich ontwikkelt. Afgel
 
 ## Nieuws van Google Maps en spam in de kaarten!
 
-[*Historische afbeelding niet beschikbaar: Google Maps logo*
-Vorige week](https://www.reputatiecoaching.nl/65/) vertelde ik dat de nieuwe Google Maps nu officieel live is, maar dat nog niet alle features van de originele Google Maps erin waren verwerkt. Inmiddels is er alweer één “oude” feature (met drie onderliggende mogelijkheden) terug.
+*Historische afbeelding niet beschikbaar: Google Maps logo*
+[Vorige week](/nl/archief/reputatiecoaching/065/) vertelde ik dat de nieuwe Google Maps nu officieel live is, maar dat nog niet alle features van de originele Google Maps erin waren verwerkt. Inmiddels is er alweer één “oude” feature (met drie onderliggende mogelijkheden) terug.
 
 Het betreft de mogelijkheid om een rechterklik te doen op een kaart. Dit werkte tot vorige week niet, maar inmiddels werkt het wel weer. Op dit moment heb je de volgende drie mogelijkheden, als je in Google Maps op de rechterknop van je muis klikt:
 
@@ -220,7 +221,7 @@ Voeg een foto of afbeelding toe en klik op “Publiceer!”. Vergeet daarna niet
 
 En dan zit het erop! Hoewel het heel veel voldoening kan geven om uren te werken aan de perfecte blogpost, heb je dikwijls momenten dat je snel iets moet produceren. Als je dit binnenkort gebeurt, schiet dan niet in paniek en denk terug aan deze podcast, nummer 66.
 
-Heb jij nog bepaalde tips of trucs voor het schrijven van een blogbericht? Laat ze achter in een reactie onderaan de show notes op [www.reputatiecoaching.nl/66](https://www.reputatiecoaching.nl/66/).
+Heb jij nog bepaalde tips of trucs voor het schrijven van een blogbericht? Laat ze achter in een reactie onderaan de show notes op [www.reputatiecoaching.nl/66](https://web.archive.org/web/20150312093915/http://www.reputatiecoaching.nl/66/).
 
 Om je nog wat handvatten te geven heb ik in de show notes ook een infographic opgenomen over de “8 secrets to writing faster blog posts”:
 
@@ -231,9 +232,9 @@ Als je de podcast leuk vindt en je hebt inderdaad wat aan alle informatie die ik
 
 Als je een vraag of een probleem hebt met betrekking tot je online reputatie of de vindbaarheid van je website, kun je een mailtje sturen naar [podcast@reputatiecoaching.nl](mailto:podcast@reputatiecoaching.nl). Als je dat te lastig vindt, of als je de podcast beluistert terwijl je in de auto zit en je hebt acuut een vraag, spreek dan een boodschap in op de ReputatieCoaching Hotline, op nummer: 084 - 883 15 56. Mogelijk behandel ik je vraag of probleem dan in een artikel of in de podcast.
 
-Als laatste kun je je ook inschrijven voor de nieuwsbrief. Dan ontvang je altijd als eerste het laatste nieuws wat ik publiceer en automatisch elk kwartaal het ReputatieCoaching Podcast Boek van het afgelopen kwartaal. Surf daartoe naar [www.reputatiecoaching.nl/nieuwsbrief/](https://www.reputatiecoaching.nl/nieuwsbrief/) en schrijf je meteen in.
+Als laatste kun je je ook inschrijven voor de nieuwsbrief. Dan ontvang je altijd als eerste het laatste nieuws wat ik publiceer en automatisch elk kwartaal het ReputatieCoaching Podcast Boek van het afgelopen kwartaal. Surf daartoe naar [www.reputatiecoaching.nl/nieuwsbrief/](https://web.archive.org/web/20140314070619/http://www.reputatiecoaching.nl:80/nieuwsbrief/) en schrijf je meteen in.
 
-En je kunt ook rechtstreeks op de website een voicemail achterlaten, door op de tab aan de rechterkant van elke pagina te klikken, en je bericht in te spreken. Dit was [ReputatieCoaching Podcast aflevering 66](https://www.reputatiecoaching.nl/66/) en mijn naam is [Eduard de Boer](http://nl.linkedin.com/in/eduarddeboer/nl).
+En je kunt ook rechtstreeks op de website een voicemail achterlaten, door op de tab aan de rechterkant van elke pagina te klikken, en je bericht in te spreken. Dit was [ReputatieCoaching Podcast aflevering 66](https://web.archive.org/web/20150312093915/http://www.reputatiecoaching.nl/66/) en mijn naam is [Eduard de Boer](http://nl.linkedin.com/in/eduarddeboer/nl).
 
 Ik wens je de komende week weer succes met het werken aan je reputatie, zodat je meteen je reputatie voor jou kunt laten werken!
 
@@ -244,9 +245,9 @@ Doei!
 Links naar content die in deze podcast aan bod komt:
 
 ```
-  * [ReputatieCoaching Podcast in iTunes](https://www.reputatiecoaching.nl/itunes)
-  * [ReputatieCoaching Podcast op Stitcher](https://www.reputatiecoaching.nl/stitcher)
-  * [ReputatieCoaching Podcast RSS-feed](https://feeds.reputatiecoaching.nl/ReputatieCoachingPodcast)
-  * “[Quality: Do You Have It, or Just Think You Have It?](http://www.bing.com/blogs/site_blogs/b/webmaster/archive/2014/02/20/quality-do-you-have-it-or-just-think-you-have-it.aspx)” (Bing Webmaster Blog, 20 februari 2014)
+  * ReputatieCoaching Podcast in iTunes
+  * ReputatieCoaching Podcast op Stitcher
+  * [ReputatieCoaching Podcast RSS-feed](https://web.archive.org/web/20131205064344/http://feeds.reputatiecoaching.nl/reputatiecoachingpodcast)
+  * “[Quality: Do You Have It, or Just Think You Have It?](https://web.archive.org/web/20140304035612/http://www.bing.com/blogs/site_blogs/b/webmaster/archive/2014/02/20/quality-do-you-have-it-or-just-think-you-have-it.aspx)” (Bing Webmaster Blog, 20 februari 2014)
   * “[Google Yanks Fake FBI Listing From Google Maps, Puts New Blocks In Place To Stop Further Abuse](http://searchengineland.com/google-yanks-fake-fbi-listing-google-maps-puts-new-blocks-place-stop-abuse-185601)” (Search Engine Land, 27 februari 2014)
 ```

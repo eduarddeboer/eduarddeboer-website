@@ -3,6 +3,7 @@ title: '134: Lokale SEO op 6.000 km afstand! Einde spreekuur, welkom geplande gr
 date: '2015-06-25T06:30:44+00:00'
 description: Vandaag begin ik met een tip, die ik al eens eerder heb gegeven, namelijk over het veiligstellen van al je foto’s. Lokale SEO kan zelfs zijn vruchten afwerpen op 6.000 kilometer afstand… Lokaal? 6.000 kilometer? Zo meer hierover. Ik stop met het ReputatieCoaching Spreekuur, en start met gratis consulten op afspraak! Verder raadt Google Maps mensen àf om jouw bedrijf te bezoeken, als zij de routebeschrijving naar jouw bedrijf zoeken. Waarom en wanneer Google Maps dat doet, dat vertel ik je zo.
 episode: 134
+kgRef: podcast_episode/reputatiecoaching_134
 historical: true
 archivePeriod: 2012–2016
 transcriptStatus: full
@@ -36,7 +37,7 @@ Vandaag begin ik met een tip, die ik al eens eerder heb gegeven, namelijk over h
 
 Hallo en hartelijk welkom bij deze aflevering van de ReputatieCoaching Podcast. Ik ben Eduard de Boer, ReputatieCoach. Dit is dé podcast die jou helpt om meer business te genereren, doordat jouw website beter gevonden wordt, zowel lokaal als landelijk en doordat ik je uitleg hoe je je online reputatie kunt verbeteren. Dit alles helpt jou om je bedrijf en jezelf beter op de online kaart te plaatsen.
 
-De podcast kun je vinden op [www.reputatiecoaching.nl/134](https://www.reputatiecoaching.nl/134/). Daar vind je niet alleen de tekst, maar ook video’s waar ik het in deze uitzending over heb, alsmede afbeeldingen, links enzovoorts. Bovendien is de podcast te beluisteren in [iTunes](https://www.reputatiecoaching.nl/itunes), op [Stitcher](https://www.reputatiecoaching.nl/stitcher) en ook op [TuneIn Radio](http://tunein.com/radio/ReputatieCoaching-Podcast-p655084/). Ik raad je aan om je op één van die drie kanalen te abonneren op de podcast, zodat je geen aflevering hoeft te missen!
+De podcast kun je vinden op [www.reputatiecoaching.nl/134](https://web.archive.org/web/20190717191411/https://www.reputatiecoaching.nl/134/). Daar vind je niet alleen de tekst, maar ook video’s waar ik het in deze uitzending over heb, alsmede afbeeldingen, links enzovoorts. Bovendien is de podcast te beluisteren in iTunes, op Stitcher en ook op [TuneIn Radio](http://tunein.com/radio/ReputatieCoaching-Podcast-p655084/). Ik raad je aan om je op één van die drie kanalen te abonneren op de podcast, zodat je geen aflevering hoeft te missen!
 
 ## TIP: Maak meerdere backups van je foto’s! Ook online!
 
@@ -54,7 +55,7 @@ Moet je je eens voorstellen: geen vakantiefoto’s, geen foto’s van het opgroe
 *Historische afbeelding niet beschikbaar: Geotagged fotos uploaden naar Flickr*
 Behalve het grote verdriet dat een dergelijk incident met zich meebrengt, kan het ook reputatieschade veroorzaken. Het kan zijn dat bepaalde foto’s beslist niet online mogen of kunnen om welke redenen dan ook. En als die dan toch in de openbaarheid komen, kan dit dus negatieve gevolgen hebben.
 
-Lang geleden vertelde ik je in podcast 26 dat Flickr vanaf dat moment elke gebruiker gratis 1 TB aan opslagcapaciteit gaf, voor het [bewaren van foto’s op Flickr](https://www.reputatiecoaching.nl/26/). En sinds een paar weken geeft [Google onbeperkte opslagcapaciteit om je foto’s te backuppen](https://www.reputatiecoaching.nl/131/).
+Lang geleden vertelde ik je in podcast 26 dat Flickr vanaf dat moment elke gebruiker gratis 1 TB aan opslagcapaciteit gaf, voor het [bewaren van foto’s op Flickr](https://web.archive.org/web/20150312092749/http://www.reputatiecoaching.nl/26/). En sinds een paar weken geeft [Google onbeperkte opslagcapaciteit om je foto’s te backuppen](https://web.archive.org/web/20150605073649/http://www.reputatiecoaching.nl/131).
 
 Dus je hebt eigenlijk geen excuus om je foto’s NIET meer in de cloud te bewaren. Als je daarnaast zorgt dat je tenminste altijd twee kopieën hebt op bijvoorbeeld twee externe USB-disks of op andere media, dan is het risico van verlies van alle foto’s aanzienlijk verkleind… Zeker, als je ook nog eens één van de twee harddisks op een andere fysieke locatie opslaat en bijvoorbeeld eens per maand de harddisks omwisselt.
 
@@ -112,13 +113,13 @@ Maar nu stop ik ermee. Enkele redenen hiervoor zijn:
   * Het tijdstip komt veel mensen niet goed uit
 ```
 
-Geen zorg, ik laat je niet in de kou staan. Want je kunt nu online snel en simpel een gratis één op één consult plannen! Daarvoor surf je naar [www.reputatiecoaching.nl/gratisconsult](https://www.reputatiecoaching.nl/gratisconsult/) en je maakt een afspraak. Ik zal mijn best doen de online agenda actueel te houden voor wat betreft mijn beschikbaarheid:
+Geen zorg, ik laat je niet in de kou staan. Want je kunt nu online snel en simpel een gratis één op één consult plannen! Daarvoor surf je naar [www.reputatiecoaching.nl/gratisconsult](https://web.archive.org/web/20150802022755/http://www.reputatiecoaching.nl:80/gratisconsult/) en je maakt een afspraak. Ik zal mijn best doen de online agenda actueel te houden voor wat betreft mijn beschikbaarheid:
 
 [Historische afbeelding: GRATIS online consult inplannen](https://lh3.googleusercontent.com/6E4fNucMWTxHWXXX2Pa1PxHfG4K4Ip-uvgqCF23HuQg=w622-h484-no)
 
 Overigens kan het consult zowel via Skype als in een Google Hangout, al naar gelang jouw voorkeur.
 
-Voor deze boekingsmodule maak ik gebruik van de service [SimplyBook.me](https://www.reputatiecoaching.nl/simplybook). Die dienst is gratis, als je minder dan 50 afspraken per maand hebt. Het ziet er mijns inziens goed uit en ik vind het leuk om eens ervaring met die service op te doen. De link die ik heb opgenomen in de show notes is overigens een affiliate link. Als je een betalende klant wordt, dan krijg ik een kleine vergoeding.
+Voor deze boekingsmodule maak ik gebruik van de service [SimplyBook.me](https://simplybook.me/nl/). Die dienst is gratis, als je minder dan 50 afspraken per maand hebt. Het ziet er mijns inziens goed uit en ik vind het leuk om eens ervaring met die service op te doen. De link die ik heb opgenomen in de show notes is overigens een affiliate link. Als je een betalende klant wordt, dan krijg ik een kleine vergoeding.
 
 Het mooie van SimplyBook.me is dat je het volledig kunt configureren naar je eigen behoefte. Zo kun je je werktijden opgeven en dagen of tijdslots blokkeren, bijvoorbeeld als je op vakantie bent. Ik ga graag op sommige dagen vroeg in de ochtend een aantal kilometers wandelen met de honden. Op die dagen heb ik dus de eerste paar uur van de ochtend geblokkeerd.
 
@@ -208,7 +209,7 @@ Als je de podcast leuk vindt en je wilt nog meer op de hoogte blijven, volg me d
 
 Heb je inderdaad wat aan alle informatie die ik met je deel, help mij dan met het verder verbeteren en promoten van deze podcast. Abonneer je op de podcast, zodat je altijd meteen de nieuwste uitzending krijgt voorgeschoteld.
 
-Zoek de podcast op, in [iTunes](https://www.reputatiecoaching.nl/itunes) of [Stitcher](https://www.reputatiecoaching.nl/stitcher), geef de podcast een sterrenbeoordeling en laat ook je reactie achter. Door de podcast te beoordelen op iTunes en/of Stitcher breng je de podcast onder de aandacht van een breder publiek.
+Zoek de podcast op, in iTunes of Stitcher, geef de podcast een sterrenbeoordeling en laat ook je reactie achter. Door de podcast te beoordelen op iTunes en/of Stitcher breng je de podcast onder de aandacht van een breder publiek.
 
 Je kunt me verder helpen, door de podcast aan te bevelen bij vrienden of collega’s, waarvan je denkt dat ze er hun voordeel mee kunnen doen, of door ’m te delen op Twitter, like’n en delen op Facebook of een “+1” te geven op Google+.
 
@@ -216,9 +217,9 @@ En vergeet niet: ik ben hier om je te helpen! Als je een vraag of een probleem h
 
 Als je dat te lastig vindt, of als je de podcast beluistert terwijl je in de auto zit en je hebt acuut een vraag, spreek dan een boodschap in op de ReputatieCoaching Hotline, op nummer: 084 - 883 15 56. Mogelijk behandel ik je vraag of probleem dan in een artikel of in de podcast.
 
-En je kunt ook rechtstreeks op de website een voicemail achterlaten, door op de tab aan de rechterkant van elke pagina te klikken, en je bericht in te spreken. En sinds vandaag kun je op de site ook een gratis consult van 15 minuten boeken, op [www.reputatiecoaching.nl/gratisconsult](https://www.reputatiecoaching.nl/gratisconsult).
+En je kunt ook rechtstreeks op de website een voicemail achterlaten, door op de tab aan de rechterkant van elke pagina te klikken, en je bericht in te spreken. En sinds vandaag kun je op de site ook een gratis consult van 15 minuten boeken, op [www.reputatiecoaching.nl/gratisconsult](https://web.archive.org/web/20150802022755/http://www.reputatiecoaching.nl:80/gratisconsult/).
 
-Dit was [ReputatieCoaching Podcast aflevering 134](https://www.reputatiecoaching.nl/134/) en mijn naam is [Eduard de Boer](http://nl.linkedin.com/in/eduarddeboer/nl).
+Dit was [ReputatieCoaching Podcast aflevering 134](https://web.archive.org/web/20190717191411/https://www.reputatiecoaching.nl/134/) en mijn naam is [Eduard de Boer](http://nl.linkedin.com/in/eduarddeboer/nl).
 
 Ik wens je de komende week weer succes met het werken aan je reputatie, zodat je meteen je reputatie voor jou kunt laten werken!
 
@@ -229,10 +230,10 @@ Doei!
 Links naar content die in deze podcast aan bod komt:
 
 ```
-  * [ReputatieCoaching Podcast in iTunes](https://www.reputatiecoaching.nl/itunes)
-  * [ReputatieCoaching Podcast op Stitcher](https://www.reputatiecoaching.nl/stitcher)
+  * ReputatieCoaching Podcast in iTunes
+  * ReputatieCoaching Podcast op Stitcher
   * [ReputatieCoaching Podcast op TuneIn Radio](http://tunein.com/radio/ReputatieCoaching-Podcast-p655084/)
-  * [ReputatieCoaching Podcast RSS-feed](https://feeds.reputatiecoaching.nl/ReputatieCoachingPodcast)
-  * [SimplyBook.me](https://www.reputatiecoaching.nl/simplybook) - Een gratis online boekingmodule die je kunt koppelen met je Google Kalender en ook kunt gebruiken in je WordPress site
+  * [ReputatieCoaching Podcast RSS-feed](https://web.archive.org/web/20150802021912/http://feeds.reputatiecoaching.nl:80/ReputatieCoachingPodcast)
+  * SimplyBook.me - Een gratis online boekingmodule die je kunt koppelen met je Google Kalender en ook kunt gebruiken in je WordPress site
   * “[Can You Repurpose Customers’ Yelp Reviews on Your Website? An Answer from Yelp HQ](http://www.localvisibilitysystem.com/2015/06/17/can-you-repurpose-customers-yelp-reviews-on-your-website-an-answer-from-yelp-hq/)” (Local Visibility System, 17 juni 2015)
 ```

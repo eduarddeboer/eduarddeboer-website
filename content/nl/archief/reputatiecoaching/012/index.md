@@ -3,6 +3,7 @@ title: Podcast Aflevering 12 (18-02-2013)
 date: '2013-02-18T22:00:51+00:00'
 description: ReputatieCoaching Podcast nummer twaalf! Hallo en welkom bij de ReputatieCoaching Podcast! In deze podcast deel ik nieuws uit de Internet en Content Marketing wereld en geef ik praktische tips over hoe je vandaag al kunt beginnen met het verder opbouwen van je online reputatie en het vergroten van je vindbaarheid op Internet. Zo zorg je ervoor dat je meer potentiële klanten naar je site trekt en dus meer omzet en dus winst kunt maken.
 episode: 12
+kgRef: podcast_episode/reputatiecoaching_012
 historical: true
 archivePeriod: 2012–2016
 transcriptStatus: full
@@ -47,7 +48,7 @@ Hallo en welkom bij de ReputatieCoaching Podcast! In deze podcast deel ik nieuws
 *Op diverse Twitter accounts heb ik het aantal mensen dat ik volg teruggebracht van over de 800-900 naar iets meer dan een dozijn. De rest zit op Twitter verdeeld over een aantal lijsten. Maar die tweets zie ik dus in ieder geval niet.*
 *Ik vind dat mensen dit niet persoonlijk moeten opvatten. Ze kunnen me nog altijd bellen of een berichtje sturen, die ik dan ook zeker lees en waarop ik ook zal reageren, als is het mogelijk iets vertraagd, als gevolg van alle drukte.*
 
-*Waar ik benieuwd naar ben is jouw ervaring, als luisteraar. Je luistert nu naar de podcast (of je zit deze tekst in de vorm van een transcriptie te lezen), dus dat volg of lees je nog wel. Maar ben jij nog steeds net zo fanatiek op de diverse sociale media zoals Facebook en Twitter als voorheen, of wordt het bij jou ook minder? Heb je ook het gevoel dat je eventjes een vitamine F of T vakantie nodig hebt? Of heb je recentelijk een tijdje afstand genomen van de sociale media? Laat het onderaan de transcriptie van de podcast weten, door een reactie te posten. Je kunt de transcriptie van deze podcast trouwens vinden op [www.reputatiecoaching.nl/12](https://www.reputatiecoaching.nl/12).*
+*Waar ik benieuwd naar ben is jouw ervaring, als luisteraar. Je luistert nu naar de podcast (of je zit deze tekst in de vorm van een transcriptie te lezen), dus dat volg of lees je nog wel. Maar ben jij nog steeds net zo fanatiek op de diverse sociale media zoals Facebook en Twitter als voorheen, of wordt het bij jou ook minder? Heb je ook het gevoel dat je eventjes een vitamine F of T vakantie nodig hebt? Of heb je recentelijk een tijdje afstand genomen van de sociale media? Laat het onderaan de transcriptie van de podcast weten, door een reactie te posten. Je kunt de transcriptie van deze podcast trouwens vinden op [www.reputatiecoaching.nl/12](https://web.archive.org/web/20131009022158/http://www.reputatiecoaching.nl:80/12/).*
 
 *In het voornoemde onderzoek werd de kandidaten ook gevraagd of ze in 2013 meer of minder tijd op Facebook dachten te zullen doorbrengen. Daarop antwoordde 3% dat ze verwachten meer tijd te zullen doorbrengen, en 27% verwacht minder tijd te zullen doorbrengen op Facebook. Maar liefst 69% verwacht dat het ongewijzigd blijft.*
 
@@ -123,11 +124,11 @@ Hallo en welkom bij de ReputatieCoaching Podcast! In deze podcast deel ik nieuws
 
 *Hiermee kom ik dan langzaamaan weer aan het einde van deze podcast. Ik hoop dat je het weer leuk vond om naar deze podcast te luisteren.*
 
-*Als je wat hebt aan de informatie en je vind het leuk om naar de podcast te luisteren, dan kun je een bericht achterlaten op onze Facebookpagina, op: [www.reputatiecoaching.nl/facebook](https://www.reputatiecoaching.nl/facebook) of op onze Google+ pagina, op: [www.reputatiecoaching.nl/gplus](https://www.reputatiecoaching.nl/gplus) (dat is dus g-p-l-u-s).*
+*Als je wat hebt aan de informatie en je vind het leuk om naar de podcast te luisteren, dan kun je een bericht achterlaten op onze Facebookpagina, op: [www.reputatiecoaching.nl/facebook](https://www.facebook.com/reputatiecoaching/) of op onze Google+ pagina, op: [www.reputatiecoaching.nl/gplus](https://www.google.com/maps?cid=4978892197645719955) (dat is dus g-p-l-u-s).*
 
 *Ga vandaag nog naar iTunes en maak een account aan, als je die nog niet hebt. Beoordeel dan deze podcast op iTunes en stuur een berichtje naar [podcast@reputatiecoaching.nl](mailto:podcast@reputatiecoaching.nl), dat je een recensie hebt gegeven. Zit je achter je computer en heb je Twitter of Tweetdeck of iets dergelijks geopend, stuur dan een tweet met je mening met hashtag “repcoach”, dus #repcoach erbij.*
 
-*Geef gerust een recensie. En als je opmerkingen hebt over deze podcast, laat die dan op de website onderaan de transcriptie achter. Je kunt de transcriptie van deze podcast snel online vinden door te surfen naar:[www.reputatiecoaching.nl/12](https://www.reputatiecoaching.nl/12)  . Als je ergens een recensie hebt geplaatst, stuur me dan een mailtje zodat ik je recensie kan vermelden in de podcast.*
+*Geef gerust een recensie. En als je opmerkingen hebt over deze podcast, laat die dan op de website onderaan de transcriptie achter. Je kunt de transcriptie van deze podcast snel online vinden door te surfen naar:[www.reputatiecoaching.nl/12](https://web.archive.org/web/20131009022158/http://www.reputatiecoaching.nl:80/12/)  . Als je ergens een recensie hebt geplaatst, stuur me dan een mailtje zodat ik je recensie kan vermelden in de podcast.*
 
 *Heb je een vraag of probleem met betrekking tot je online reputatie: stuur dan een mailtje naar [podcast@reputatiecoaching.nl](mailto:podcast@reputatiecoaching.nl) of spreek een boodschap in op de ReputatieCoaching Hotline, op: 084 - 883 15 56. Mogelijk behandel ik je vraag of probleem dan in een artikel of in de podcast.*
 

@@ -20,6 +20,7 @@
 {{- if and .IsPage (eq .Section "insights") }}{{ $pageType = "Article" }}{{ end -}}
 
 {{- $seedIDs := slice -}}
+{{- with .Params.kgRef }}{{ $seedIDs = $seedIDs | append . }}{{ end -}}
 {{- $itemListNodes := slice -}}
 {{- $pageRelations := newScratch -}}
 {{- $pageRelations.Set "map" (dict) -}}

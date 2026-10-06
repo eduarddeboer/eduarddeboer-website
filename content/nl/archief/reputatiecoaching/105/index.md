@@ -3,6 +3,7 @@ title: '105: #FAIL voor @Vitens. Hoe optimaliseer je een webshop? Scoort jouw si
 date: '2014-12-04T07:30:20+00:00'
 description: De onderwerpen voor vandaag, de dag voor Sinterklaas. Dus daar begin ik vandaag mee… althans met online business. Afgelopen week ontving ik een voicemail van Jerry over het optimaliseren van een webshop. Daarover zometeen meer. Google heeft haar kwaliteitsrichtlijnen voor Google+ Mijn Bedrijf aangepast. De grote verschillen deel ik straks met je. En hoe scoort jouw site op Bing? Of op DuckDuckGo? Waarom dat belangrijk kan worden, hoor je ook in deze podcast.
 episode: 105
+kgRef: podcast_episode/reputatiecoaching_105
 historical: true
 archivePeriod: 2012–2016
 transcriptStatus: full
@@ -26,7 +27,7 @@ De onderwerpen voor vandaag, de dag voor Sinterklaas. Dus daar begin ik vandaag 
 
 Hallo en hartelijk welkom bij deze aflevering van de ReputatieCoaching Podcast. Ik ben Eduard de Boer, ReputatieCoach. Dit is dé podcast die jou helpt om meer business te genereren, doordat jouw website beter gevonden wordt, zowel lokaal als landelijk en doordat ik je uitleg hoe je je online reputatie kunt verbeteren. Dit alles helpt je om je bedrijf en jezelf beter op de online kaart te plaatsen.
 
-De podcast kun je vinden op [www.reputatiecoaching.nl/105](https://www.reputatiecoaching.nl/105/). Daar vind je niet alleen de tekst, maar ook video’s waar ik het in deze uitzending over heb, alsmede afbeeldingen, links enzovoorts. Bovendien is de podcast te beluisteren in [iTunes](https://www.reputatiecoaching.nl/itunes), op [Stitcher](https://www.reputatiecoaching.nl/stitcher) en ook op [TuneIn Radio](http://tunein.com/radio/ReputatieCoaching-Podcast-p655084/). Daar kun je je dus ook abonneren op de wekelijkse podcast. Veel mensen vinden het ideaal om de wekelijkse afleveringen van de podcast op hun gemak te beluisteren, terwijl ze autorijden.
+De podcast kun je vinden op [www.reputatiecoaching.nl/105](https://web.archive.org/web/20150312095128/http://www.reputatiecoaching.nl/105/). Daar vind je niet alleen de tekst, maar ook video’s waar ik het in deze uitzending over heb, alsmede afbeeldingen, links enzovoorts. Bovendien is de podcast te beluisteren in iTunes, op Stitcher en ook op [TuneIn Radio](http://tunein.com/radio/ReputatieCoaching-Podcast-p655084/). Daar kun je je dus ook abonneren op de wekelijkse podcast. Veel mensen vinden het ideaal om de wekelijkse afleveringen van de podcast op hun gemak te beluisteren, terwijl ze autorijden.
 
 ## #FAIL voor @Vitens webcare
 
@@ -58,7 +59,7 @@ Een deel van de inkopen heb ik gedaan bij Intertoys, omdat één van de verlangl
 
 Hoe wrang het ook moge zijn voor de detailhandel: ik denk dat er steeds meer online besteld zal worden en dat deze stijging ten koste zal gaan van de lokale speelgoedwinkeliers in dit geval. Maar hetzelfde geldt straks voor Kerstmis en de Kerstinkopen. Ook daar zal de lokale detailhandel een knauw voelen, vrees ik.
 
-Hoe zit het met jou? Of als je een lokale winkelier bent: heb jij dit jaar iets gemerkt van een daling van verkopen in je winkel? En voor alle hulpklazen en hulppieten: heb jij inkopen gedaan bij lokale winkels, of ook al meer online? Wat was daarvoor je beweegreden? Daar ben ik heel benieuwd naar. Geef eens je reactie onderaan de transcriptie van deze podcast, op [www.reputatiecoaching.nl/105](https://www.reputatiecoaching.nl/105/).
+Hoe zit het met jou? Of als je een lokale winkelier bent: heb jij dit jaar iets gemerkt van een daling van verkopen in je winkel? En voor alle hulpklazen en hulppieten: heb jij inkopen gedaan bij lokale winkels, of ook al meer online? Wat was daarvoor je beweegreden? Daar ben ik heel benieuwd naar. Geef eens je reactie onderaan de transcriptie van deze podcast, op [www.reputatiecoaching.nl/105](https://web.archive.org/web/20150312095128/http://www.reputatiecoaching.nl/105/).
 
 ## Online promotie van een webshop
 
@@ -236,7 +237,7 @@ Tja, originele, unieke, relevante en interessante content spreekt natuurlijk voo
 
 ```
   1. **Leeftijd van de domeinnaam** – Waar Google vaak voorkeur heeft voor nieuwe en populaire sites, lijkt Bing meer waarde te hechten aan de leeftijd van de domeinnaam. Dus als je begint met een nieuwe site, zou het interessant kunnen zijn om een oudere domeinnaam te kopen. Daarnaast lijken .edu en .gov sites ook sneller hoger te kunnen scoren in Bing.
-  2. **Zorg dat je site wordt geïndexeerd** – Dus [zend je site in bij Bing](http://www.bing.com/toolbox/submit-site-url) en begin met wachten. Helaas actualiseert Bing haar index niet zo vaak als Google, dus je moet geduld betrachten.
+  2. **Zorg dat je site wordt geïndexeerd** – Dus [zend je site in bij Bing](https://web.archive.org/web/20141204180331/http://www.bing.com:80/toolbox/submit-site-url) en begin met wachten. Helaas actualiseert Bing haar index niet zo vaak als Google, dus je moet geduld betrachten.
   3. **Juiste technische vereisten** – Er zijn zes gebieden waar Bing zich voornamelijk op richt bij het scoren van je site in de zoekresultaten:
 
     * _Laadtijd van de pagina_ – Hoe sneller, des te beter!
@@ -289,13 +290,13 @@ Oh ja, nog een paar tips, wat je beslist niet moet doen op Bing. De meeste ken j
   * **Keyword stuffing** – Dit is al zo oud als de weg naar Rome… Dat doet toch niemand meer? Want dat is iets wat elke zoekmachine al jaren verbiedt in haar kwaliteitsrichtlijnen!
 ```
 
-Nu ik zoveeel heb verteld over Bing en je mogelijke kansen… Heb je op basis hiervan al eens gekeken hoe jouw site scoort op Bing? Verschilt het erg met Google en DuckDuckGo? Vertel het me, onderaan de show notes van deze podcast, op [www.reputatiecoaching.nl/105](https://www.reputatiecoaching.nl/105/). Ik ben benieuwd naar je bevindingen!
+Nu ik zoveeel heb verteld over Bing en je mogelijke kansen… Heb je op basis hiervan al eens gekeken hoe jouw site scoort op Bing? Verschilt het erg met Google en DuckDuckGo? Vertel het me, onderaan de show notes van deze podcast, op [www.reputatiecoaching.nl/105](https://web.archive.org/web/20150312095128/http://www.reputatiecoaching.nl/105/). Ik ben benieuwd naar je bevindingen!
 
 Met deze “koffiedikkijkerij” over de toekomstige standaard zoekmachine in 45% van alle mobiele apparaten in de wereld, kom ik aan het einde van deze podcast.
 
 Als je de podcast leuk vindt en je wilt nog meer op de hoogte blijven, volg me dan ook op Twitter, via [@reputatiecoach1](https://twitter.com/reputatiecoach1).
 
-Heb je inderdaad wat aan alle informatie die ik met je deel, help mij dan met het verder verbeteren en promoten van deze podcast. Surf daarvoor naar [iTunes](https://www.reputatiecoaching.nl/itunes) of [Stitcher](https://www.reputatiecoaching.nl/stitcher), geef de podcast een sterrenbeoordeling en laat ook je reactie achter. Door de podcast te beoordelen op iTunes en/of Stitcher breng je de podcast onder de aandacht van een breder publiek.
+Heb je inderdaad wat aan alle informatie die ik met je deel, help mij dan met het verder verbeteren en promoten van deze podcast. Surf daarvoor naar iTunes of Stitcher, geef de podcast een sterrenbeoordeling en laat ook je reactie achter. Door de podcast te beoordelen op iTunes en/of Stitcher breng je de podcast onder de aandacht van een breder publiek.
 
 Je kunt me verder helpen, door de podcast aan te bevelen bij vrienden of collega’s, waarvan je denkt dat ze er hun voordeel mee kunnen doen, of door ’m te delen op Twitter, like’n en delen op Facebook of een “+1” te geven op Google+.
 
@@ -305,7 +306,7 @@ Als je dat te lastig vindt, of als je de podcast beluistert terwijl je in de aut
 
 En je kunt ook rechtstreeks op de website een voicemail achterlaten, net als Jerry afgelopen week deed met zijn vraag over de optimalisatie van een webshop. Wil jij ook een voicemail inspreken, klik dan op de tab aan de rechterkant van elke pagina en spreek je bericht in.
 
-Dit was [ReputatieCoaching Podcast aflevering 105](https://www.reputatiecoaching.nl/105/) en mijn naam is [Eduard de Boer](http://nl.linkedin.com/in/eduarddeboer/nl).
+Dit was [ReputatieCoaching Podcast aflevering 105](https://web.archive.org/web/20150312095128/http://www.reputatiecoaching.nl/105/) en mijn naam is [Eduard de Boer](http://nl.linkedin.com/in/eduarddeboer/nl).
 
 Ik wens je de komende week weer succes met het werken aan je reputatie, zodat je meteen je reputatie voor jou kunt laten werken!
 
@@ -316,10 +317,10 @@ Doei!
 Links naar content die in deze podcast aan bod komt:
 
 ```
-  * [ReputatieCoaching Podcast in iTunes](https://www.reputatiecoaching.nl/itunes)
-  * [ReputatieCoaching Podcast op Stitcher](https://www.reputatiecoaching.nl/stitcher)
+  * ReputatieCoaching Podcast in iTunes
+  * ReputatieCoaching Podcast op Stitcher
   * [ReputatieCoaching Podcast op TuneIn Radio](http://tunein.com/radio/ReputatieCoaching-Podcast-p655084/)
-  * [ReputatieCoaching Podcast RSS-feed](https://feeds.reputatiecoaching.nl/ReputatieCoachingPodcast)
+  * [ReputatieCoaching Podcast RSS-feed](https://web.archive.org/web/20141223114514/http://feeds.reputatiecoaching.nl:80/ReputatieCoachingPodcast)
   * “[Yahoo Replaces Google As Default Search Provider in Firefox](http://searchengineland.com/yahoo-becomes-default-search-engine-firefox-browser-209267)” (Search Engine Land, 19 november 2014)
   * “[Europees Parlement wil Google opsplitsen](http://www.computable.nl/artikel/nieuws/overheid/5202376/1277202/europees-parlement-wil-google-opsplitsen.html)” (Computable, 28 november 2014)
   * “[Yahoo Sees Big Search Bump From Firefox “Default” Relationship](http://searchengineland.com/yahoo-becomes-default-search-engine-firefox-browser-209267)” (Search Engine Land, 3 december 2014)

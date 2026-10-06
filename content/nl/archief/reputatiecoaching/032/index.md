@@ -3,6 +3,7 @@ title: '32: AltaVista exit, mobiele websites in de Fortune 500, Google+, het Rep
 date: '2013-07-06T22:55:19+00:00'
 description: 'ReputatieCoaching Podcast aflevering 32! Hallo en hartelijk welkom bij dé bekendste Nederlandstalige podcast over reputatiemanagement en reputatiecoaching, het verbeteren van je online vindbaarheid en optimalisatie van je website voor zoekmachines. Vandaag is volgens mij de zomer echt begonnen. Ik zit hier op kantoor en het is hier aangenaam warm. Het raam staat open en ik hoor de vogeltjes buiten fluiten. De podcast van vandaag begin ik met een stukje geschiedenis: AltaVista.'
 episode: 32
+kgRef: podcast_episode/reputatiecoaching_032
 historical: true
 archivePeriod: 2012–2016
 transcriptStatus: full
@@ -46,7 +47,7 @@ En Overture werd later in 2003 overgenomen door Yahoo!. Zo werd AltaVista dus ui
 
 Google is zo’n drie jaar na de lancering van AltaVista begonnen, in 1998. AltaVista heeft haar voorsprong echter maar drie jaar langer weten vol te houden. Want omstreeks februari 2001 haalde Google concurrent AltaVista in. De ontwikkeling van het zoekverkeer kun je in een grafiek bekijken in de show notes.[Historische afbeelding: bekijk bron](https://lh3.googleusercontent.com/IpYVXbiDIElUbRMMMCqsBbH7Cn4Xqc4_AloDXbZij5WFLp6jbvf61rHimKe4ZLArugVZprfR5UVt-Qg9P616N0tGOjA9ugj2edpkDXtLEYcVio2enZGeNohPmQ)
 
-Deze show notes zijn na te lezen op [www.reputatiecoaching.nl/32](https://www.reputatiecoaching.nl/32). Yahoo! heeft Altavista dus nog een goede 10 jaar laten voortbestaan en inmiddels heeft ze aangekondigd dat op 8 juli aanstaande het licht bij AltaVista uitgaat.
+Deze show notes zijn na te lezen op [www.reputatiecoaching.nl/32](https://web.archive.org/web/20150312092922/http://www.reputatiecoaching.nl/32/). Yahoo! heeft Altavista dus nog een goede 10 jaar laten voortbestaan en inmiddels heeft ze aangekondigd dat op 8 juli aanstaande het licht bij AltaVista uitgaat.
 
 Hoewel AltaVista één van de trendsetters was voor de hedendaagse zoektechnologieën en geruime tijd een geduchte tegenstander was voor alle andere zoekmachines, denk ik dat op 8 juli niet veel mensen erg teleurgesteld zijn, omdat ze hun favoriete zoekmachine missen…\*\*\*\*
 
@@ -60,7 +61,7 @@ Hoewel AltaVista één van de trendsetters was voor de hedendaagse zoektechnolog
 
 Het is al lang bekend dat het mobiele gebruik van zoekmachines enorm groeit en dat binnen niet al te lange tijd het mobiele gebruik zelfs groter zal zijn dan het aantal zoekpogingen vanaf vaste PC’s. Matt Cutts van Google heeft al aangekondigd dat het bedrijf meer aandacht gaat geven aan mobiele technologie en mobiel zoeken.
 
-Wat dus belangrijk is, is dat je als bedrijf een website hebt die ook goed te bekijken is op mobiele apparaten. Hiervoor zijn technologieën als responsive webdesign ontwikkeld. “[Wat is responsive webdesign](https://www.reputatiecoaching.nl/14)?” vraag je je af? Daarvoor verwijs ik je graag naar de website en dan met name naar [podcast 14](https://www.reputatiecoaching.nl/14), waar ik er dieper op inga.
+Wat dus belangrijk is, is dat je als bedrijf een website hebt die ook goed te bekijken is op mobiele apparaten. Hiervoor zijn technologieën als responsive webdesign ontwikkeld. “[Wat is responsive webdesign](https://web.archive.org/web/20140116051008/http://www.reputatiecoaching.nl:80/14/)?” vraag je je af? Daarvoor verwijs ik je graag naar de website en dan met name naar [podcast 14](https://web.archive.org/web/20140116051008/http://www.reputatiecoaching.nl:80/14/), waar ik er dieper op inga.
 
 Maar op Search Engine Land las ik dat het bedrijf Pure Oxygen Labs een onderzoek heeft gedaan onder de Fortune 500 bedrijven om te zien in welke mate ze de aanwijzingen van Google goed opvolgen. Het bleek dat 44% van de bedrijven niet eens een specifieke mobiele website heeft en dat 45% wel een aparte mobiele site heeft. Slechts 11% van alle bedrijven gebruikt responsive technologie voor haar website.
 
@@ -102,11 +103,11 @@ Wat ik verder een hele nuttige en bruikbare functionaliteit vind op Google+, zij
 
 Als laatste over Google+: een paar dagen geleden is Google+ 2 jaar geworden. Ter gelegenheid daarvan hebben ze nieuwe follow buttons voor personen en badges voor communities beschikbaar gesteld. Een andere vernieuwing die Google+ heeft doorgevoerd heeft betrekking op het gebruik van foto’s in Google+. Zo is er een nieuwe manier om foto’s tussen albums te verplaatsen, kun je geselecteerde foto’s gemakkelijk downloaden en is het uploaden van foto’s van je computer naar Google+ versneld.
 
-Volgens mij moet dit bij elkaar voor jou nu voldoende reden zijn om nu toch te beginnen met Google+. Als je je dan hebt aangemeld, volg dan ook de Google pagina voor ReputatieCoaching, die je kunt vinden op [www.reputatiecoaching.nl/gplus](https://www.reputatiecoaching.nl/gplus) (dat is: “g-p-l-u-s”).
+Volgens mij moet dit bij elkaar voor jou nu voldoende reden zijn om nu toch te beginnen met Google+. Als je je dan hebt aangemeld, volg dan ook de Google pagina voor ReputatieCoaching, die je kunt vinden op [www.reputatiecoaching.nl/gplus](https://www.google.com/maps?cid=4978892197645719955) (dat is: “g-p-l-u-s”).
 
 ### Zijn reviews op Google+ relevant voor je ranking?
 
-In [podcast 31](https://www.reputatiecoaching.nl/31/) vertelde ik je over de nieuwe functionaliteit die al in de Verenigde Staten in Google Search zit en binnenkort ook in Nederland wordt verwacht: de carrousel. De carrousel verschijnt ook in Amerika nog lang niet bij alle lokale zoekpogingen.
+In [podcast 31](https://web.archive.org/web/20150312092905/http://www.reputatiecoaching.nl/31/) vertelde ik je over de nieuwe functionaliteit die al in de Verenigde Staten in Google Search zit en binnenkort ook in Nederland wordt verwacht: de carrousel. De carrousel verschijnt ook in Amerika nog lang niet bij alle lokale zoekpogingen.
 
 Op de site van Mike Blumenthal, een expert op het gebied van Google+ Local, kun je een overzicht zien van meer dan 300 zoektermen die inmiddels al wèl de carrousel laten zien. De link naar deze lijst staat ook de show notes.
 
@@ -134,13 +135,13 @@ Ik wil daar nog drie tips aan toevoegen:
 
 ### ReputatieCoaching Podcast Boek 2013 #2
 
-De ReputatieCoaching Podcast boeken die al op Slideshare staan, worden ook best goed bekeken. Het [Reputatie Boek van 2012](https://www.slideshare.net/ReputatieCoaching/reputatiecoaching-podcast-boek-2012) is inmiddels al 98 keer bekeken en het eerste [Reputatie Boek van 2013](https://www.slideshare.net/ReputatieCoaching/reputatie-coaching-podcast-boek-2013-1) is 42 keer ingezien. Maar goed, dezelfde boeken staan ook op nog een paar andere sites. Een andere site is bijvoorbeeld [docstoc.com](http://www.docstoc.com/profile/info9183483954). Daar zijn de boeken respectievelijk 86 en 92 keer bekeken. Bovendien zijn de boeken gezamenlijk op [issuu.com](http://www.issuu.com/reputatiecoaching/) maar liefst 160x ingezien!
+De ReputatieCoaching Podcast boeken die al op Slideshare staan, worden ook best goed bekeken. Het [Reputatie Boek van 2012](https://www.slideshare.net/ReputatieCoaching/reputatiecoaching-podcast-boek-2012) is inmiddels al 98 keer bekeken en het eerste [Reputatie Boek van 2013](https://www.slideshare.net/ReputatieCoaching/reputatie-coaching-podcast-boek-2013-1) is 42 keer ingezien. Maar goed, dezelfde boeken staan ook op nog een paar andere sites. Een andere site is bijvoorbeeld [docstoc.com](http://www.docstoc.com/profile/info9183483954). Daar zijn de boeken respectievelijk 86 en 92 keer bekeken. Bovendien zijn de boeken gezamenlijk op [issuu.com](https://web.archive.org/web/20190716091928/https://issuu.com/reputatiecoaching) maar liefst 160x ingezien!
 
 Hiermee wil ik illustreren dat je gemakkelijk met dezelfde content –een tweetal ebooks in dit geval– extra jouw producten en/of diensten onder de aandacht van anderen kunt brengen, zonder dat het je iets hoeft te kosten.
 
 Binnenkort komt trouwens ook weer het ReputatieCoaching Podcast Boek uit. Dat is alweer het tweede boek van 2013 met daarin dus ook de 13 volledige transcripties van alle podcasts van het tweede kwartaal van 2013.
 
-Dit exemplaar kun je meteen na publicatie in je bezit krijgen door je te abonneren op de nieuwsbrief. Het abonneren is heel simpel: surf naar [www.reputatiecoaching.nl/nieuwsbrief](https://www.reputatiecoaching.nl/nieuwsbrief) en vul je naam en e-mailadres in. Of nog sneller: klik rechtsboven op elke pagina op de website op de grote Facebook button. Daarmee ben je dan gelijk aangemeld op de nieuwsbrief.
+Dit exemplaar kun je meteen na publicatie in je bezit krijgen door je te abonneren op de nieuwsbrief. Het abonneren is heel simpel: surf naar [www.reputatiecoaching.nl/nieuwsbrief](https://web.archive.org/web/20131205063155/http://www.reputatiecoaching.nl/nieuwsbrief/) en vul je naam en e-mailadres in. Of nog sneller: klik rechtsboven op elke pagina op de website op de grote Facebook button. Daarmee ben je dan gelijk aangemeld op de nieuwsbrief.
 
 Waarschijnlijk is dit ook het laatste exemplaar in deze vorm c.q. opmaak. Ik denk erover om het ReputatieCoaching Podcast Boek in een wat andere vorm te gaan uitbrengen, een nog beter leesbare vorm… Zodra die ideeën verder zijn uitgewerkt, hoor je er meer over.
 
@@ -155,22 +156,22 @@ En met zoveel video’s op al die videosites, is de content ook gemakkelijker vi
 Veel bedrijven zijn lokaal georiënteerd. Daarom is het om te beginnen essentieel dat je website goed scoort in de lokale zoekresultaten. Nu heb ik al heel vaak en veel verteld over wat je er allemaal omheen moet regelen om je site in de lokale zoekresultaten er uit te laten springen. Zo helpt het bijvoorbeeld om met je bedrijfsgegevens vermeld te staan op de volgende websites:
 
 ```
-  * [Yelp](https://www.reputatiecoaching.nl/bedrijf-toevoegen-op-yelp-instructievideo/)
-  * [Foursquare](https://www.reputatiecoaching.nl/je-bedrijf-aanmelden-op-foursquare/)
-  * [TomTom Places](https://www.reputatiecoaching.nl/zet-je-bedrijf-op-de-kaart-van-tomtom/)
-  * [YelloYello](https://www.reputatiecoaching.nl/bedrijf-aanmelden-op-yelloyello-instructievideo/)
-  * [MisterWhat](https://www.reputatiecoaching.nl/bedrijf-aanmelden-op-misterwhat/)
-  * [Yalwa](https://www.reputatiecoaching.nl/bedrijf-aanmelden-op-yalwa/)
-  * [Hotfrog](https://www.reputatiecoaching.nl/bedrijf-aanmelden-op-hotfrog/)
+  * [Yelp](https://web.archive.org/web/20131117173632/http://www.reputatiecoaching.nl:80/bedrijf-toevoegen-op-yelp-instructievideo/)
+  * [Foursquare](https://web.archive.org/web/20131115041010/http://www.reputatiecoaching.nl:80/je-bedrijf-aanmelden-op-foursquare/)
+  * [TomTom Places](https://web.archive.org/web/20130615133413/http://www.reputatiecoaching.nl:80/zet-je-bedrijf-op-de-kaart-van-tomtom/)
+  * [YelloYello](https://web.archive.org/web/20130626034926/http://www.reputatiecoaching.nl:80/bedrijf-aanmelden-op-yelloyello-instructievideo/)
+  * [MisterWhat](https://web.archive.org/web/20130626050654/http://www.reputatiecoaching.nl:80/bedrijf-aanmelden-op-misterwhat/)
+  * [Yalwa](https://web.archive.org/web/20131202231721/http://www.reputatiecoaching.nl:80/bedrijf-aanmelden-op-yalwa/)
+  * [Hotfrog](https://web.archive.org/web/20190717184857/https://www.reputatiecoaching.nl/bedrijf-aanmelden-op-hotfrog/)
 ```
 
-Daarnaast helpt het om je [foto’s te geotaggen in Picasa](https://www.reputatiecoaching.nl/geotag-je-bedrijfsfotos-met-picasa/) en vervolgens te uploaden naar:
+Daarnaast helpt het om je [foto’s te geotaggen in Picasa](https://web.archive.org/web/20131124042637/http://www.reputatiecoaching.nl:80/geotag-je-bedrijfsfotos-met-picasa/) en vervolgens te uploaden naar:
 
 ```
   * [Google+](https://plus.google.com/b/116464908335605976641/116464908335605976641/about)
-  * [Facebook](https://www.reputatiecoaching.nl/maak-je-eigen-bedrijfspagina-op-facebook-instructievideo/)
-  * [Flickr](https://www.reputatiecoaching.nl/geotagged-fotos-uploaden-naar-flickr/)
-  * [Panoramio](https://www.reputatiecoaching.nl/geotagged-fotos-uploaden-naar-panoramio/)
+  * [Facebook](https://web.archive.org/web/20140306152742/http://www.reputatiecoaching.nl:80/maak-je-eigen-bedrijfspagina-op-facebook-instructievideo/)
+  * [Flickr](https://web.archive.org/web/20131123181636/http://www.reputatiecoaching.nl:80/geotagged-fotos-uploaden-naar-flickr/)
+  * [Panoramio](https://web.archive.org/web/20131124043155/http://www.reputatiecoaching.nl:80/geotagged-fotos-uploaden-naar-panoramio/)
 ```
 
 Bovendien moet je ook video’s met je bedrijfsvermeldingen maken en die beschikbaar stellen op:
@@ -179,7 +180,7 @@ Bovendien moet je ook video’s met je bedrijfsvermeldingen maken en die beschik
   * [YouTube](https://www.youtube.com/reputatiecoaching)
   * [Vimeo](http://vimeo.com/reputatiecoaching)
   * [Dailymotion](http://www.dailymotion.com/reputatiecoaching)
-  * [Metacafe](http://www.metacafe.com/channels/ReputatieCoaching/)
+  * [Metacafe](https://web.archive.org/web/20130821060508/http://www.metacafe.com:80/channels/ReputatieCoaching/)
 ```
 
 En tenslotte helpt het ook als je documenten maakt, waarin je je bedrijfsgegevens opneemt, waarna je die documenten uploadt naar sites als:
@@ -188,7 +189,7 @@ En tenslotte helpt het ook als je documenten maakt, waarin je je bedrijfsgegeven
   * [Slideshare](https://www.slideshare.net/reputatiecoaching)
   * [Scribd](http://www.scribd.com/ReputatieCoaching)
   * [Docstoc](http://www.docstoc.com/profile/info9183483954)
-  * [Issuu](http://issuu.com/reputatiecoaching)
+  * [Issuu](https://web.archive.org/web/20190716091928/https://issuu.com/reputatiecoaching)
 ```
 
 Er zijn nog veel meer sites, waar je jouw bedrijf moet aanmelden. Gedurende de zomervakantie kom ik met nog meer instructievideo’s voor andere sites, waar jouw bedrijfsvermelding niet mag ontbreken.
@@ -229,9 +230,9 @@ Als je de podcast leuk vindt en je hebt inderdaad wat aan alle informatie die ik
 
 Als je een vraag of een probleem hebt met betrekking tot je online reputatie of de vindbaarheid van je website, kun je een mailtje sturen naar [podcast@reputatiecoaching.nl](mailto:podcast@reputatiecoaching.nl). Als je dat te lastig vindt, of als je de podcast beluistert terwijl je in de auto zit en je hebt acuut een vraag, spreek dan een boodschap in op de ReputatieCoaching Hotline, op nummer: 084 - 883 15 56. Mogelijk behandel ik je vraag of probleem dan in een artikel of in de podcast.
 
-Als laatste kun je je ook inschrijven voor de nieuwsbrief. Dan ontvang je altijd als eerste het laatste nieuws wat ik publiceer en automatisch elk kwartaal het ReputatieCoaching Podcast Boek van het afgelopen kwartaal. Surf daartoe naar [www.reputatiecoaching.nl/nieuwsbrief](https://www.reputatiecoaching.nl/nieuwsbrief) en schrijf je meteen in.
+Als laatste kun je je ook inschrijven voor de nieuwsbrief. Dan ontvang je altijd als eerste het laatste nieuws wat ik publiceer en automatisch elk kwartaal het ReputatieCoaching Podcast Boek van het afgelopen kwartaal. Surf daartoe naar [www.reputatiecoaching.nl/nieuwsbrief](https://web.archive.org/web/20131205063155/http://www.reputatiecoaching.nl/nieuwsbrief/) en schrijf je meteen in.
 
-En je kunt rechtstreeks op de website een voicemail achterlaten, door op de tab aan de rechterkant van elke pagina te klikken, en je bericht in te spreken. Dit was [ReputatieCoaching Podast aflevering 32](https://www.reputatiecoaching.nl/32) en mijn naam is [Eduard de Boer](http://nl.linkedin.com/in/eduarddeboer).
+En je kunt rechtstreeks op de website een voicemail achterlaten, door op de tab aan de rechterkant van elke pagina te klikken, en je bericht in te spreken. Dit was [ReputatieCoaching Podast aflevering 32](https://web.archive.org/web/20150312092922/http://www.reputatiecoaching.nl/32/) en mijn naam is [Eduard de Boer](http://nl.linkedin.com/in/eduarddeboer).
 
 Ik wens je de komende week weer succes met het werken aan je reputatie, zodat je meteen je reputatie voor jou kunt laten werken!
 
@@ -243,8 +244,8 @@ Tot volgende week!
 [info\_box]Hieronder het overzicht van de links die in de podcast aan bod komen:
 
 ```
-  * “[Answers on Air](http://www.karelgeenen.nl/answersonair/)” van Karel Geenen
-  * “[Social Media Growth Forecast: Google+ to overtake Facebook?](http://blog.searchmetrics.com/us/2013/06/20/social-media-growth-forecast-google-to-overtake-facebook/)” (SearchMetrics blog, 20 juni 2013)
+  * “[Answers on Air](https://web.archive.org/web/20130706225025/http://www.karelgeenen.nl:80/answersonair/?)” van Karel Geenen
+  * “[Social Media Growth Forecast: Google+ to overtake Facebook?](https://web.archive.org/web/20130707155351/http://blog.searchmetrics.com:80/us/2013/06/20/social-media-growth-forecast-google-to-overtake-facebook/?)” (SearchMetrics blog, 20 juni 2013)
   * “[Only 6% Of Top 100 Fortune 500 Companies Have Sites That Comply With Google’s Mobile Requirements](http://searchengineland.com/only-6-of-top-100-fortune-500-companies-have-sites-that-comply-with-googles-mobile-requirements-164748)” (Search Engine Land, 25 juni 2013)
   * “[Keeping our Focus on What’s Next](http://yahoo.tumblr.com/post/54125001066/keeping-our-focus-on-whats-next)” (Yahoo!, 28 juni 2013)
   * “[A Eulogy For AltaVista, The Google Of Its Time](http://searchengineland.com/altavista-eulogy-165366)” (Search Engine Land, 28 juni 2013)

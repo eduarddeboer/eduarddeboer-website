@@ -3,6 +3,7 @@ title: '36: Google City Experts, de Google reviews, Google Helpouts en nieuws ov
 date: '2013-08-03T17:30:05+00:00'
 description: ReputatieCoaching Podcast aflevering 36! Hallo en hartelijk welkom bij dé Nederlandstalige podcast die je helpt om jezelf en/of je bedrijf prominent op de kaart te zetten. Ik geef je tips en adviezen waarmee je meer business kunt doen door op de juiste manier aan je reputatie te werken, je online vindbaarheid te verbeteren en het optimaliseren van je website voor gebruikers en zoekmachines. Vanwege het mooie weer zou je verwachten dat het nu een rustige periode is, zonder veel toevoer van interessant of relevant nieuws.
 episode: 36
+kgRef: podcast_episode/reputatiecoaching_036
 historical: true
 archivePeriod: 2012–2016
 transcriptStatus: full
@@ -34,13 +35,13 @@ Hallo en hartelijk welkom bij dé Nederlandstalige podcast die je helpt om jezel
 
 **Mijn naam is Eduard de Boer –bekend als de ReputatieCoach– en ik ben je host voor vandaag!**
 
-Voordat ik overga op de onderwerpen van vandaag even twee dingen. Als eerste: de vorige podcast bevatte allemaal klikjes en tikjes. Er stond blijkbaar iets verkeerd ingesteld op m’n audioapparatuur. Maar vandaag krijg je weer een klikloze opname, zoals je die van mij gewend bent. En als tweede: eerder deze week zijn de [ReputatieCoaching Podcast video’s](https://www.reputatiecoaching.nl/video-podcasts-juli-2013-op-youtube/) van juli 2013 online gekomen. Deze kun je ook bekijken in het YouTube-kanaal, dat je kunt vinden op: [www.youtube.com/reputatiecoaching](https://www.youtube.com/reputatiecoaching).
+Voordat ik overga op de onderwerpen van vandaag even twee dingen. Als eerste: de vorige podcast bevatte allemaal klikjes en tikjes. Er stond blijkbaar iets verkeerd ingesteld op m’n audioapparatuur. Maar vandaag krijg je weer een klikloze opname, zoals je die van mij gewend bent. En als tweede: eerder deze week zijn de [ReputatieCoaching Podcast video’s](https://web.archive.org/web/20130901230500/http://www.reputatiecoaching.nl:80/video-podcasts-juli-2013-op-youtube/) van juli 2013 online gekomen. Deze kun je ook bekijken in het YouTube-kanaal, dat je kunt vinden op: [www.youtube.com/reputatiecoaching](https://www.youtube.com/reputatiecoaching).
 
 ## Google City Experts
 
 Yelp heeft de Yelp Elite, een groep speciale Yelpies die uiterst frequent reviews posten van gelegenheden die zij bezoeken. Het lijkt er nu op alsof Google Yelp gaat nadoen. Een paar dagen geleden heeft Google in New York het Google City Experts programma gelanceerd. Dit is bestemd voor mensen die tenminste 50 reviews hebben gepost, waarvan maar liefst 5 in één maand.
 
-Net als de Yelp Elite krijgen de Google City Experts ook bepaalde privileges en uitnodigingen voor bijzondere gelegenheden en evenementen. Ik heb nog geen Nederlandstalige content hierover kunnen vinden, maar in de show notes vind je de link naar de Engelstalige pagina’s. En de show notes kun je vinden op [www.reputatiecoaching.nl/36](https://www.reputatiecoaching.nl/36).
+Net als de Yelp Elite krijgen de Google City Experts ook bepaalde privileges en uitnodigingen voor bijzondere gelegenheden en evenementen. Ik heb nog geen Nederlandstalige content hierover kunnen vinden, maar in de show notes vind je de link naar de Engelstalige pagina’s. En de show notes kun je vinden op [www.reputatiecoaching.nl/36](https://web.archive.org/web/20150312093030/http://www.reputatiecoaching.nl/36/).
 
 Op dit moment is het programma actief in de volgende steden: Austin (USA), Birmingham (UK), Chicago, Edinburgh, Londen, New York, Portland (OR), Phoenix, Raleigh-Durham, San Francisco en Sydney. Google zegt dat ze hoopt dat ze binnenkort meer steden kan toevoegen.
 
@@ -56,7 +57,7 @@ Maar nu zag ik dat je je bedrijf weer kunt claimen via de telefoon:[Historische 
 
 ## Google reviews vernieuwd
 
-In [podcast 34](https://www.reputatiecoaching.nl/34/) vertelde ik je dat de vijf sterren reviews terug zijn in Google. Dat is een hele vooruitgang. Als je links en rechts op Internet onderzoek doet, dan lopen de meningen over het effect van de review sterretjes behoorlijk uiteen.
+In [podcast 34](https://web.archive.org/web/20130724043021/http://www.reputatiecoaching.nl:80/34/) vertelde ik je dat de vijf sterren reviews terug zijn in Google. Dat is een hele vooruitgang. Als je links en rechts op Internet onderzoek doet, dan lopen de meningen over het effect van de review sterretjes behoorlijk uiteen.
 
 Aan de ene kant staan mensen die verwachten dat het niet veel effect zal hebben op de CTR, ofwel de Click-Through-Rate, terwijl anderen er wel een hoge verwachting van hebben. Ik behoor bij de tweede groep, want ik heb het sterke vermoeden dat het visuele aspect van de review sterretjes echt leidt tot een hogere CTR.
 
@@ -102,7 +103,7 @@ Matt Cutts zegt hierover dat deze domeinnamen eigenlijk bestemd zijn voor het be
 
 Er zijn wel algemene TLD’s, die je volgens Google mag gebruiken, zoals .io (wat eigenlijk voor de Indische Oceaan bestemd is). Dus als je een Nederlandstalige site op een domeinnaam, eindigend op .io aanbiedt, is dat geen probleem.
 
-Als je meer wilt lezen en precies wilt weten welke top level domeinen je wel algemeen mag gebruiken, dan verwijs ik je naar de link naar Googles [“Domeinen voor geotargeting](https://support.google.com/webmasters/answer/1347922)”, die je ook in de show notes kunt vinden.
+Als je meer wilt lezen en precies wilt weten welke top level domeinen je wel algemeen mag gebruiken, dan verwijs ik je naar de link naar Googles [“Domeinen voor geotargeting](https://web.archive.org/web/20130816220031/https://support.google.com/webmasters/answer/1347922)”, die je ook in de show notes kunt vinden.
 
 ## Google Helpouts
 
@@ -258,9 +259,9 @@ Als je de podcast leuk vindt en je hebt inderdaad wat aan alle informatie die ik
 
 Als je een vraag of een probleem hebt met betrekking tot je online reputatie of de vindbaarheid van je website, kun je een mailtje sturen naar [podcast@reputatiecoaching.nl](mailto:podcast@reputatiecoaching.nl). Als je dat te lastig vindt, of als je de podcast beluistert terwijl je in de auto zit en je hebt acuut een vraag, spreek dan een boodschap in op de ReputatieCoaching Hotline, op nummer: 084 - 883 15 56. Mogelijk behandel ik je vraag of probleem dan in een artikel of in de podcast.
 
-Als laatste kun je je ook inschrijven voor de nieuwsbrief. Dan ontvang je altijd als eerste het laatste nieuws wat ik publiceer en automatisch elk kwartaal het ReputatieCoaching Podcast Boek van het afgelopen kwartaal. Surf daartoe naar [www.reputatiecoaching.nl/nieuwsbrief](https://www.reputatiecoaching.nl/nieuwsbrief) en schrijf je meteen in.
+Als laatste kun je je ook inschrijven voor de nieuwsbrief. Dan ontvang je altijd als eerste het laatste nieuws wat ik publiceer en automatisch elk kwartaal het ReputatieCoaching Podcast Boek van het afgelopen kwartaal. Surf daartoe naar [www.reputatiecoaching.nl/nieuwsbrief](https://web.archive.org/web/20131205063155/http://www.reputatiecoaching.nl/nieuwsbrief/) en schrijf je meteen in.
 
-En je kunt rechtstreeks op de website een voicemail achterlaten, door op de tab aan de rechterkant van elke pagina te klikken, en je bericht in te spreken. Dit was [ReputatieCoaching Podast aflevering 36](https://www.reputatiecoaching.nl/36) en mijn naam is [Eduard de Boer](http://nl.linkedin.com/in/eduarddeboer).
+En je kunt rechtstreeks op de website een voicemail achterlaten, door op de tab aan de rechterkant van elke pagina te klikken, en je bericht in te spreken. Dit was [ReputatieCoaching Podast aflevering 36](https://web.archive.org/web/20150312093030/http://www.reputatiecoaching.nl/36/) en mijn naam is [Eduard de Boer](http://nl.linkedin.com/in/eduarddeboer).
 
 Ik wens je de komende week weer succes met het werken aan je reputatie, zodat je meteen je reputatie voor jou kunt laten werken!
 
@@ -275,13 +276,13 @@ Doei!
   * [Google Fiber](https://fiber.google.com/about/)
   * [Gravatar](http://www.gravatar.com/)
   * [RealSEO](https://www.reelseo.com)
-  * [Domeinen voor geotargeting](https://support.google.com/webmasters/answer/1347922) (Google)
+  * [Domeinen voor geotargeting](https://web.archive.org/web/20130816220031/https://support.google.com/webmasters/answer/1347922) (Google)
   * “[Qype + Yelp bundelen hun krachten om de wereld te ontdekken](http://nl.blog.qype.com/2013/04/19/qype-yelp-bundelen-hun-krachten-om-de-wereld-te-ontdekken/)” (Qype, 19 april 2013)
   * “[How to Upload Lots of Videos Without Spamming Your Subscribers](https://www.reelseo.com/upload-lots-videos-spamming-subscribers-creators-tip-98/)” (RealSEO, juli 2013)
   * “[Fake it Till You Make it: Reputation, Competition, and Yelp Review Fraud](http://papers.ssrn.com/sol3/papers.cfm?abstract_id=2293164)” (Harvard Business School, 12 juli 2013)
   * “[Meet Helpouts, Google’s Secret Project That Turns Hangouts Into A Commerce Platform](http://techcrunch.com/2013/07/24/meet-helpouts-googles-secret-plan-to-bring-live-video-commerce-to-local-businesses/)” (TechCrunch, 24 juli 2013)
   * “[Introducing Google City Experts!](https://plus.google.com/+GoogleLocalNewYork/posts/eV9jgEyPca8)” (Google Plus, 30 juli 2013)
-  * “[Become a Google City Expert](https://www.google.com/local/contest/cityexpert)” (Google Local)
+  * “[Become a Google City Expert](https://web.archive.org/web/20130810055617/https://www.google.com/local/contest/cityexpert)” (Google Local)
   * “[Starbucks WiFi goes Google](http://googleblog.blogspot.nl/2013/07/starbucks-wifi-goes-google.html)” (Google Official Blog, 31 juli 2013)
   * “[Yelp: 59 Percent Of Searches Now Mobile](http://marketingland.com/yelp-59-percent-of-searches-now-mobile-53968)” (MarketingLand, 31 juli 2013)
   * “[Google levert WiFi aan Starbucks](http://www.emerce.nl/nieuws/google-levert-wifi-starbucks)” (emerce, 2 augustus 2013)[/info_box]

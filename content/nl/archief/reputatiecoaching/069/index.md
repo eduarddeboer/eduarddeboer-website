@@ -3,6 +3,7 @@ title: '69: Backup van je email, mobiel Internetgebruik groeit enorm en claim NU
 date: '2014-03-24T07:30:50+00:00'
 description: Vandaag begin ik met een praktische tip over het backuppen van je mail, gevolgd door een korte terugblik naar een leerpunt in de vorige podcast. Dan een belangrijke update over mobiel Internetgebruik en signalen van Google dat bedrijven en organisaties nu ècht hun zakelijke Google+ pagina moeten claimen en verifiëren. Hoe je dat moet doen, vertel ik je ook meteen. Tenslotte beantwoordt Matt Cutts de vraag of je als eerlijk bedrijf nog wel kunt scoren in de zoekresultaten, zonder te spammen…
 episode: 69
+kgRef: podcast_episode/reputatiecoaching_069
 historical: true
 archivePeriod: 2012–2016
 transcriptStatus: full
@@ -28,7 +29,7 @@ Hallo en hartelijk welkom bij deze aflevering van de ReputatieCoaching Podcast. 
 
 Als persoon kun je met de diverse tips aan de slag om bijvoorbeeld je online reputatie als uitvaartondernemer, anesthesiemedewerker, combinatiefunctionaris, verzekeringsagent, zadelmaker, pluimveehouder of wat dan ook te verbeteren.
 
-De volledige transcriptie (dat is gewoon een ander woord voor “tekst”) van deze podcast kun je vinden op [www.reputatiecoaching.nl/69](https://www.reputatiecoaching.nl/69/). Daar vind je niet alleen de tekst, maar ook video’s waar ik het in deze uitzending over heb, alsmede afbeeldingen, links enzovoorts.
+De volledige transcriptie (dat is gewoon een ander woord voor “tekst”) van deze podcast kun je vinden op [www.reputatiecoaching.nl/69](https://web.archive.org/web/20140417223635/http://www.reputatiecoaching.nl:80/69/). Daar vind je niet alleen de tekst, maar ook video’s waar ik het in deze uitzending over heb, alsmede afbeeldingen, links enzovoorts.
 
 ## TIP: Mijn mailmanagement en automatische backup van je mail
 
@@ -67,21 +68,21 @@ Toen ik me realiseerde dat ik de mail ook gewoon via outlook.com kon terugzoeken
 
 Zo zie je maar weer eens hoe prettig het is om een keertje wat tijd te reserveren om je backups goed in te stellen. Wat doe jij overigens ten aanzien van backups in het algemeen en het veiligstellen van je mail in het bijzonder? Heb je überhaupt wel een mechanisme ingericht om te voorkomen dat je je documenten, afbeeldingen, spreadsheets, presentaties, mail en andere data kwijtraakt?
 
-Ik heb het er al vaker over gehad, over het maken van backups… In de show notes, die je overigens terugvindt op [www.reputatiecoaching.nl/69](https://www.reputatiecoaching.nl/69/) heb ik links opgenomen naar meer informatie over het maken van backups van:
+Ik heb het er al vaker over gehad, over het maken van backups… In de show notes, die je overigens terugvindt op [www.reputatiecoaching.nl/69](https://web.archive.org/web/20140417223635/http://www.reputatiecoaching.nl:80/69/) heb ik links opgenomen naar meer informatie over het maken van backups van:
 
 ```
-  * [Je weblog database en bestanden](https://www.reputatiecoaching.nl/15/) in podcast 15
-  * [Foto’s van je smartphone met behulp van de app CameraSync](https://www.reputatiecoaching.nl/38/) in podcast 38
-  * [Foto’s van iMac met Flickrbucket](https://www.reputatiecoaching.nl/43/) in podcast 43
-  * [Je weblog naar Dropbox](https://www.reputatiecoaching.nl/47/) in podcast 47
-  * [Foto’s van je smartphone naar OneDrive van Microsoft](https://www.reputatiecoaching.nl/65/) in podcast 65
+  * [Je weblog database en bestanden](https://web.archive.org/web/20131220184240/http://www.reputatiecoaching.nl:80/15/) in podcast 15
+  * [Foto’s van je smartphone met behulp van de app CameraSync](https://web.archive.org/web/20150312093102/http://www.reputatiecoaching.nl/38/) in podcast 38
+  * [Foto’s van iMac met Flickrbucket](https://web.archive.org/web/20150312093219/http://www.reputatiecoaching.nl/43/) in podcast 43
+  * [Je weblog naar Dropbox](https://web.archive.org/web/20140308061823/http://www.reputatiecoaching.nl:80/47/) in podcast 47
+  * [Foto’s van je smartphone naar OneDrive van Microsoft](/nl/archief/reputatiecoaching/065/) in podcast 65
 ```
 
 Je mag me ook gerust een berichtje sturen, als je vindt dat ik het te vaak over backups heb. Wellicht behoor jij tot de kleine groep mensen die meerdere automatische backupmechanismes heeft ingesteld voor het veiligstellen van de data. Maar uit ervaring weet ik dat de meeste ondernemers en particulieren helaas toch nog een ontoereikende backupstrategie hebben. En dan druk ik het zachtjes uit…
 
 ## Terugblik podcast #68
 
-Als ik de transcriptie van de [podcast van vorige week](https://www.reputatiecoaching.nl/68/) nog eens nalees, dan denk ik dat de belangrijkste les uit die aflevering was, dat je ontzettend moet oppassen voor phishing aanvallen, waarbij kwaadwillende figuren hun best doen met legitiem uitziende websites jouw data te ontfutselen. Deze kunnen ze dan verkopen of gebruiken om in andere accounts van jou in te breken met alle gevolgen van dien.
+Als ik de transcriptie van de [podcast van vorige week](https://web.archive.org/web/20141201231612/http://www.reputatiecoaching.nl:80/68/) nog eens nalees, dan denk ik dat de belangrijkste les uit die aflevering was, dat je ontzettend moet oppassen voor phishing aanvallen, waarbij kwaadwillende figuren hun best doen met legitiem uitziende websites jouw data te ontfutselen. Deze kunnen ze dan verkopen of gebruiken om in andere accounts van jou in te breken met alle gevolgen van dien.
 
 Let dus altijd op, als je ergens opeens moet inloggen, of de URL van de pagina wel van de site komt, waar je verwacht dat die hoort te staan. En pas helemaal op op mobiele apparaten, omdat je daar vaak de URL standaard helemaal niet ziet.
 
@@ -112,7 +113,7 @@ En dan Re/Max… Dit bedrijf zag een 1.100% toename in geïndexeerde pagina’s 
 
 Daarom raad ik je ook altijd aan om eerst te werken aan het verbeteren van je lokale vindbaarheid… Althans, als je redelijk lokaal opereert. Als je alleen een webshop hebt, dan heb je niet veel aan dit soort nieuws en mijn tips over het verbeteren van je lokale vindbaarheid.
 
-Maar al te vaak zie ik echter ook een sterke verbetering van de posities in de organische resultaten, als ik een bedrijf help met het verbeteren van de lokale vindbaarheid. Vrijwel al die opdrachten begin ik met datgene wat ik je begin dit jaar uitvoerig uit de doeken deed, te weten het “[Opschonen van je citations](https://www.reputatiecoaching.nl/werkinstructie-opschonen-citations/)”.
+Maar al te vaak zie ik echter ook een sterke verbetering van de posities in de organische resultaten, als ik een bedrijf help met het verbeteren van de lokale vindbaarheid. Vrijwel al die opdrachten begin ik met datgene wat ik je begin dit jaar uitvoerig uit de doeken deed, te weten het “[Opschonen van je citations](https://web.archive.org/web/20140314201735/http://www.reputatiecoaching.nl:80/werkinstructie-opschonen-citations/)”.
 
 Op dit moment ben ik hiermee bezig voor een tandartspraktijk met twee vestigingen in Gelderland en de resultaten die we daar zien nadat ik een paar weken bezig ben met het opschonen en consistent maken van alle bedrijfsvermeldingen zijn ook verbluffend. Zo staat de ene praktijk al op de eerste plaats in de lokale resultaten, op de zoekterm “tandarts” en de andere is inmiddels al van de zesde plaats naar de tweede gestegen! Daarnaast zijn ook de bijbehorende organische vermeldingen al sterk verbeterd en is mijn verwachting dat die binnenkort nog verder zullen verbeteren.
 
@@ -141,7 +142,7 @@ Geloof me: je bent heus niet de enige die zijn zakelijke Google+ pagina niet hee
   * [Hewlett Packard Nederland](https://plus.google.com/114570141120211693934/about) in Amstelveen
 ```
 
-De links naar de bijbehorende Google+ pagina’s vind je in de show notes, op [www.reputatiecoaching.nl/69](https://www.reputatiecoaching.nl/69/). Maar goed, dit is dus zomaar een negental bedrijven en organisaties die geen van allen hun zakelijke Google+ pagina hebben geclaimd, noch geverifieerd, geen vanity URL hebben en niets of nauwelijks iets hebben gedaan om hun Google+ pagina van content te voorzien. Het is ongelofelijk, maar waar!
+De links naar de bijbehorende Google+ pagina’s vind je in de show notes, op [www.reputatiecoaching.nl/69](https://web.archive.org/web/20140417223635/http://www.reputatiecoaching.nl:80/69/). Maar goed, dit is dus zomaar een negental bedrijven en organisaties die geen van allen hun zakelijke Google+ pagina hebben geclaimd, noch geverifieerd, geen vanity URL hebben en niets of nauwelijks iets hebben gedaan om hun Google+ pagina van content te voorzien. Het is ongelofelijk, maar waar!
 
 Ik vind dit een interessant topic, dus ik ga binnenkort hier nog eens dieper in duiken.
 
@@ -188,7 +189,7 @@ Let op: als je een kleine ondernemer bent en er staat wel een vinkje achter je b
 
 Nu ik vandaag toch diep inga op het hele fenomeen Google+, wil ik ook een leuke infographic die ik onlangs tegenkwam, met je delen:
 
-[[Historische afbeelding: bekijk bron](http://media.reputatiecoaching.nl/wp-content/uploads/2014/03/Googleplus-infographic-20140324-1.jpg)](http://media.reputatiecoaching.nl/wp-content/uploads/2014/03/Googleplus-infographic-20140324-1.jpg)
+[[Historische afbeelding: bekijk bron](https://web.archive.org/web/20150312094026/http://media.reputatiecoaching.nl/wp-content/uploads/2014/03/Googleplus-infographic-20140324-1.jpg)](http://media.reputatiecoaching.nl/wp-content/uploads/2014/03/Googleplus-infographic-20140324-1.jpg)
 
 Je moet de infographic maar eens op je gemak bekijken. Wat ik wel leuk vind, is een paar aspecten van de infographic er uit te lichten. Zo heb je als luisteraar van de podcast ook een idee, wat er zoal in de infographic staat:
 
@@ -202,7 +203,7 @@ Je moet de infographic maar eens op je gemak bekijken. Wat ik wel leuk vind, is 
 
 Ook vond ik een interessante, wat oudere infographic over Google+, toen ik even ging zoeken. Het is wel leuk om deze te vergelijken met de vorige, want deze infographic stamt volgens mij uit 2012. Toen had Google+ nog naar 90 miljoen actieve gebruikers, terwijl dat nu toch al meer dan 360 miljoen is:
 
-[[Historische afbeelding: bekijk bron](http://media.reputatiecoaching.nl/wp-content/uploads/2014/03/Googleplus-infographic-20140324-2.png)](http://media.reputatiecoaching.nl/wp-content/uploads/2014/03/Googleplus-infographic-20140324-2.png)
+[[Historische afbeelding: bekijk bron](https://web.archive.org/web/20150312094026/http://media.reputatiecoaching.nl/wp-content/uploads/2014/03/Googleplus-infographic-20140324-2.png)](http://media.reputatiecoaching.nl/wp-content/uploads/2014/03/Googleplus-infographic-20140324-2.png)
 
 Dit is een grote infographic, daarom raad ik je aan die eens op je gemak op de site te bekijken. In deze infographic is te lezen dat de inhoud van Google+ ook door Google wordt geïndexeerd. Dat vond ik wel grappig om te lezen… Want hoewel ik dit wel wist, was ik tot afgelopen week nog nooit Google+ posts van mijzelf in de organische zoekresultaten tegengekomen. Maar inderdaad zag ik afgelopen week een paar verschillende Google+ posts vertoond worden, tussen alle andere zoekresultaten.
 
@@ -230,7 +231,7 @@ Als je de podcast leuk vindt en je hebt inderdaad wat aan alle informatie die ik
 
 Als je een vraag of een probleem hebt met betrekking tot je online reputatie of de vindbaarheid van je website, kun je een mailtje sturen naar [podcast@reputatiecoaching.nl](mailto:podcast@reputatiecoaching.nl). Als je dat te lastig vindt, of als je de podcast beluistert terwijl je in de auto zit en je hebt acuut een vraag, spreek dan een boodschap in op de ReputatieCoaching Hotline, op nummer: 084 - 883 15 56. Mogelijk behandel ik je vraag of probleem dan in een artikel of in de podcast.
 
-En je kunt ook rechtstreeks op de website een voicemail achterlaten, door op de tab aan de rechterkant van elke pagina te klikken, en je bericht in te spreken. Dit was [ReputatieCoaching Podcast aflevering 69](https://www.reputatiecoaching.nl/69/) en mijn naam is [Eduard de Boer](http://nl.linkedin.com/in/eduarddeboer/nl).
+En je kunt ook rechtstreeks op de website een voicemail achterlaten, door op de tab aan de rechterkant van elke pagina te klikken, en je bericht in te spreken. Dit was [ReputatieCoaching Podcast aflevering 69](https://web.archive.org/web/20140417223635/http://www.reputatiecoaching.nl:80/69/) en mijn naam is [Eduard de Boer](http://nl.linkedin.com/in/eduarddeboer/nl).
 
 Ik wens je de komende week weer succes met het werken aan je reputatie, zodat je meteen je reputatie voor jou kunt laten werken!
 
@@ -241,8 +242,8 @@ Doei!
 Links naar content die in deze podcast aan bod komt:
 
 ```
-  * [ReputatieCoaching Podcast in iTunes](https://www.reputatiecoaching.nl/itunes)
-  * [ReputatieCoaching Podcast op Stitcher](https://www.reputatiecoaching.nl/stitcher)
-  * [ReputatieCoaching Podcast RSS-feed](https://feeds.reputatiecoaching.nl/ReputatieCoachingPodcast)
+  * ReputatieCoaching Podcast in iTunes
+  * ReputatieCoaching Podcast op Stitcher
+  * [ReputatieCoaching Podcast RSS-feed](https://web.archive.org/web/20131205064344/http://feeds.reputatiecoaching.nl/reputatiecoachingpodcast)
   * “[What Does Mobile Query Growth Mean for Local Search?](http://screenwerk.com/2014/03/18/what-does-mobile-query-growth-mean-for-local-search/)” (Screenwerk, 18 maart 2014)
 ```

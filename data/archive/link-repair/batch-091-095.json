@@ -1,0 +1,445 @@
+{
+  "generated_at": "2026-10-06T11:18:41.263257+00:00",
+  "batch": {
+    "start": 91,
+    "end": 95
+  },
+  "policy": {
+    "max_batch_size": 5,
+    "internal_reputatiecoaching": "Wayback if available; otherwise unlink",
+    "external_live": "retain",
+    "external_clearly_dead": "Wayback if available; otherwise unlink",
+    "external_uncertain": "retain original and report for review"
+  },
+  "episodes": [
+    {
+      "episode": 91,
+      "path": "content/nl/archief/reputatiecoaching/091/index.md",
+      "kg_ref": "podcast_episode/reputatiecoaching_091",
+      "kg_ref_added": false,
+      "changed": false,
+      "links": [
+        {
+          "label": "Historische afbeelding: bekijk bron",
+          "original_url": "https://lh5.googleusercontent.com/-rGm9INqJxoI/VAAm9-rwTtI/AAAAAAAABIA/jj3x9rONgnc/s200-no/question-mark.jpg",
+          "kind": "external",
+          "live_status": "live",
+          "live_http_status": 200,
+          "action": "kept_live",
+          "replacement_url": null,
+          "wayback_timestamp": null,
+          "note": null
+        },
+        {
+          "label": "Mobiel bereik Nederland ‘groter’ dan op vast internet",
+          "original_url": "http://www.emerce.nl/nieuws/mobiel-bereik-nederland-groter-vast-internet",
+          "kind": "external",
+          "live_status": "live",
+          "live_http_status": 200,
+          "action": "kept_live",
+          "replacement_url": null,
+          "wayback_timestamp": null,
+          "note": null
+        },
+        {
+          "label": "Google Webmaster Help forum",
+          "original_url": "https://productforums.google.com/forum/",
+          "kind": "external",
+          "live_status": "live",
+          "live_http_status": 200,
+          "action": "kept_live",
+          "replacement_url": null,
+          "wayback_timestamp": null,
+          "note": null
+        },
+        {
+          "label": "dit artikel",
+          "original_url": "http://searchengineland.com/apple-maps-represents-70-uk-mapping-traffic-according-uk-cell-data-provider-200681",
+          "kind": "external",
+          "live_status": "live",
+          "live_http_status": 403,
+          "action": "kept_live",
+          "replacement_url": null,
+          "wayback_timestamp": null,
+          "note": "HTTP 403 but resource is reachable"
+        },
+        {
+          "label": "artikel van 2 juli",
+          "original_url": "http://searchengineland.com/report-apple-accelerating-crowdsourced-maps-improvements-195641",
+          "kind": "external",
+          "live_status": "live",
+          "live_http_status": 403,
+          "action": "kept_live",
+          "replacement_url": null,
+          "wayback_timestamp": null,
+          "note": "HTTP 403 but resource is reachable"
+        },
+        {
+          "label": "Apple Insider",
+          "original_url": "http://appleinsider.com/articles/14/07/29/apple-patents-smart-navigation-routing-with-crowd-sourced-stop-light-pattern-recognition",
+          "kind": "external",
+          "live_status": "live",
+          "live_http_status": 403,
+          "action": "kept_live",
+          "replacement_url": null,
+          "wayback_timestamp": null,
+          "note": "HTTP 403 but resource is reachable"
+        },
+        {
+          "label": "@reputatiecoach1",
+          "original_url": "https://twitter.com/reputatiecoach1",
+          "kind": "external",
+          "live_status": "live",
+          "live_http_status": 200,
+          "action": "kept_live",
+          "replacement_url": null,
+          "wayback_timestamp": null,
+          "note": null
+        },
+        {
+          "label": "Eduard de Boer",
+          "original_url": "http://nl.linkedin.com/in/eduarddeboer/nl",
+          "kind": "external",
+          "live_status": "uncertain",
+          "live_http_status": 999,
+          "action": "kept_uncertain",
+          "replacement_url": null,
+          "wayback_timestamp": null,
+          "note": "HTTP 999"
+        },
+        {
+          "label": "GifYouTube",
+          "original_url": "http://www.gifyoutube.com",
+          "kind": "external",
+          "live_status": "live",
+          "live_http_status": 200,
+          "action": "kept_live",
+          "replacement_url": null,
+          "wayback_timestamp": null,
+          "note": null
+        }
+      ],
+      "summary": {
+        "links_examined": 9,
+        "wayback": 0,
+        "unlinked": 0,
+        "kept_live": 8,
+        "kept_uncertain": 1
+      }
+    },
+    {
+      "episode": 92,
+      "path": "content/nl/archief/reputatiecoaching/092/index.md",
+      "kg_ref": "podcast_episode/reputatiecoaching_092",
+      "kg_ref_added": false,
+      "changed": false,
+      "links": [
+        {
+          "label": "artikel op Search Engine Round Table",
+          "original_url": "https://www.seroundtable.com/green-google-rating-review-stars-19067.html",
+          "kind": "external",
+          "live_status": "live",
+          "live_http_status": 200,
+          "action": "kept_live",
+          "replacement_url": null,
+          "wayback_timestamp": null,
+          "note": null
+        },
+        {
+          "label": "N.A.P. Hunter!",
+          "original_url": "https://chrome.google.com/webstore/detail/nap-hunter/ligeiippheclogiddffemogcgpjmieao",
+          "kind": "external",
+          "live_status": "live",
+          "live_http_status": 200,
+          "action": "kept_live",
+          "replacement_url": null,
+          "wayback_timestamp": null,
+          "note": null
+        },
+        {
+          "label": "@reputatiecoach1",
+          "original_url": "https://twitter.com/reputatiecoach1",
+          "kind": "external",
+          "live_status": "live",
+          "live_http_status": 200,
+          "action": "kept_live",
+          "replacement_url": null,
+          "wayback_timestamp": null,
+          "note": null
+        },
+        {
+          "label": "Eduard de Boer",
+          "original_url": "http://nl.linkedin.com/in/eduarddeboer/nl",
+          "kind": "external",
+          "live_status": "uncertain",
+          "live_http_status": 999,
+          "action": "kept_uncertain",
+          "replacement_url": null,
+          "wayback_timestamp": null,
+          "note": "HTTP 999"
+        }
+      ],
+      "summary": {
+        "links_examined": 4,
+        "wayback": 0,
+        "unlinked": 0,
+        "kept_live": 3,
+        "kept_uncertain": 1
+      }
+    },
+    {
+      "episode": 93,
+      "path": "content/nl/archief/reputatiecoaching/093/index.md",
+      "kg_ref": "podcast_episode/reputatiecoaching_093",
+      "kg_ref_added": false,
+      "changed": false,
+      "links": [
+        {
+          "label": "[Historische afbeelding: Panoramafoto van de Business Lounge van Regus Apeldoorn",
+          "original_url": "https://lh3.googleusercontent.com/-uEe1QVuSNi0/VA__PnuadiI/AAAAAAAA9EA/g69H2Y7_nbQ/w1110-h434-no/IMG_6280.JPG",
+          "kind": "external",
+          "live_status": "live",
+          "live_http_status": 200,
+          "action": "kept_live",
+          "replacement_url": null,
+          "wayback_timestamp": null,
+          "note": null
+        },
+        {
+          "label": "Historische afbeelding: Thinkpad in Regus Apeldoorn",
+          "original_url": "https://lh4.googleusercontent.com/-AjsVUxIhFPw/VA__WBVkceI/AAAAAAAA9As/RxD-pbzzThw/s880-no/IMG_6284.JPG",
+          "kind": "external",
+          "live_status": "live",
+          "live_http_status": 200,
+          "action": "kept_live",
+          "replacement_url": null,
+          "wayback_timestamp": null,
+          "note": null
+        },
+        {
+          "label": "[Historische afbeelding: Regus reviewmanagement",
+          "original_url": "https://lh4.googleusercontent.com/-dEJaXcxZ-a0/VBAdgSaMH2I/AAAAAAAA9Bo/ng2ShtAW7qE/w1110-h833-no/IMG_6286.JPG",
+          "kind": "external",
+          "live_status": "live",
+          "live_http_status": 200,
+          "action": "kept_live",
+          "replacement_url": null,
+          "wayback_timestamp": null,
+          "note": null
+        },
+        {
+          "label": "Google ooit een officieel statement heeft gedaan of je alleen na een Penguin update terug kunt keren in de zoekresultaten, als je voorheen je rankings bent kwijtgeraakt als gevolg van een Penguin algoritmewijziging",
+          "original_url": "https://productforums.google.com/forum/",
+          "kind": "external",
+          "live_status": "live",
+          "live_http_status": 200,
+          "action": "kept_live",
+          "replacement_url": null,
+          "wayback_timestamp": null,
+          "note": null
+        },
+        {
+          "label": "EduarddeBoer",
+          "original_url": "https://instagram.com/eduarddeboer",
+          "kind": "external",
+          "live_status": "live",
+          "live_http_status": 429,
+          "action": "kept_live",
+          "replacement_url": null,
+          "wayback_timestamp": null,
+          "note": "HTTP 429 but resource is reachable"
+        },
+        {
+          "label": "@reputatiecoach1",
+          "original_url": "https://twitter.com/reputatiecoach1",
+          "kind": "external",
+          "live_status": "live",
+          "live_http_status": 200,
+          "action": "kept_live",
+          "replacement_url": null,
+          "wayback_timestamp": null,
+          "note": null
+        },
+        {
+          "label": "Eduard de Boer",
+          "original_url": "http://nl.linkedin.com/in/eduarddeboer/nl",
+          "kind": "external",
+          "live_status": "uncertain",
+          "live_http_status": 999,
+          "action": "kept_uncertain",
+          "replacement_url": null,
+          "wayback_timestamp": null,
+          "note": "HTTP 999"
+        }
+      ],
+      "summary": {
+        "links_examined": 7,
+        "wayback": 0,
+        "unlinked": 0,
+        "kept_live": 6,
+        "kept_uncertain": 1
+      }
+    },
+    {
+      "episode": 94,
+      "path": "content/nl/archief/reputatiecoaching/094/index.md",
+      "kg_ref": "podcast_episode/reputatiecoaching_094",
+      "kg_ref_added": false,
+      "changed": false,
+      "links": [
+        {
+          "label": "Brenda Kok",
+          "original_url": "https://nl.linkedin.com/in/brendakok/nl",
+          "kind": "external",
+          "live_status": "uncertain",
+          "live_http_status": 999,
+          "action": "kept_uncertain",
+          "replacement_url": null,
+          "wayback_timestamp": null,
+          "note": "HTTP 999"
+        },
+        {
+          "label": "Sparkling TV",
+          "original_url": "https://www.youtube.com/user/Sparklingprofs",
+          "kind": "external",
+          "live_status": "live",
+          "live_http_status": 200,
+          "action": "kept_live",
+          "replacement_url": null,
+          "wayback_timestamp": null,
+          "note": null
+        },
+        {
+          "label": "@reputatiecoach1",
+          "original_url": "https://twitter.com/reputatiecoach1",
+          "kind": "external",
+          "live_status": "live",
+          "live_http_status": 200,
+          "action": "kept_live",
+          "replacement_url": null,
+          "wayback_timestamp": null,
+          "note": null
+        },
+        {
+          "label": "Eduard de Boer",
+          "original_url": "http://nl.linkedin.com/in/eduarddeboer/nl",
+          "kind": "external",
+          "live_status": "uncertain",
+          "live_http_status": 999,
+          "action": "kept_uncertain",
+          "replacement_url": null,
+          "wayback_timestamp": null,
+          "note": "HTTP 999"
+        }
+      ],
+      "summary": {
+        "links_examined": 4,
+        "wayback": 0,
+        "unlinked": 0,
+        "kept_live": 2,
+        "kept_uncertain": 2
+      }
+    },
+    {
+      "episode": 95,
+      "path": "content/nl/archief/reputatiecoaching/095/index.md",
+      "kg_ref": "podcast_episode/reputatiecoaching_095",
+      "kg_ref_added": false,
+      "changed": false,
+      "links": [
+        {
+          "label": "Sparkling Professionals",
+          "original_url": "http://www.sparklingprofessionals.com",
+          "kind": "external",
+          "live_status": "live",
+          "live_http_status": 200,
+          "action": "kept_live",
+          "replacement_url": null,
+          "wayback_timestamp": null,
+          "note": null
+        },
+        {
+          "label": "WebP",
+          "original_url": "https://developers.google.com/speed/webp/?csw=1",
+          "kind": "external",
+          "live_status": "live",
+          "live_http_status": 200,
+          "action": "kept_live",
+          "replacement_url": null,
+          "wayback_timestamp": null,
+          "note": null
+        },
+        {
+          "label": "[Historische afbeelding: Botto Italian Bistro op TripAdvisor",
+          "original_url": "https://lh4.googleusercontent.com/Md43PPHV5VsN2zWM82NqqJbeVypI9nrmlEpXm7qKljY=w678-h481-no",
+          "kind": "external",
+          "live_status": "live",
+          "live_http_status": 200,
+          "action": "kept_live",
+          "replacement_url": null,
+          "wayback_timestamp": null,
+          "note": null
+        },
+        {
+          "label": "@reputatiecoach1",
+          "original_url": "https://twitter.com/reputatiecoach1",
+          "kind": "external",
+          "live_status": "live",
+          "live_http_status": 200,
+          "action": "kept_live",
+          "replacement_url": null,
+          "wayback_timestamp": null,
+          "note": null
+        },
+        {
+          "label": "Eduard de Boer",
+          "original_url": "http://nl.linkedin.com/in/eduarddeboer/nl",
+          "kind": "external",
+          "live_status": "uncertain",
+          "live_http_status": 999,
+          "action": "kept_uncertain",
+          "replacement_url": null,
+          "wayback_timestamp": null,
+          "note": "HTTP 999"
+        },
+        {
+          "label": "Nederlandstalige",
+          "original_url": "http://nl.wikipedia.org/wiki/WebP",
+          "kind": "external",
+          "live_status": "live",
+          "live_http_status": 200,
+          "action": "kept_live",
+          "replacement_url": null,
+          "wayback_timestamp": null,
+          "note": null
+        },
+        {
+          "label": "Engelse",
+          "original_url": "https://en.wikipedia.org/wiki/WebP",
+          "kind": "external",
+          "live_status": "live",
+          "live_http_status": 200,
+          "action": "kept_live",
+          "replacement_url": null,
+          "wayback_timestamp": null,
+          "note": null
+        }
+      ],
+      "summary": {
+        "links_examined": 7,
+        "wayback": 0,
+        "unlinked": 0,
+        "kept_live": 6,
+        "kept_uncertain": 1
+      }
+    }
+  ],
+  "summary": {
+    "episodes": 5,
+    "changed_episodes": 0,
+    "wayback": 0,
+    "unlinked": 0,
+    "kept_live": 25,
+    "kept_uncertain": 6
+  }
+}

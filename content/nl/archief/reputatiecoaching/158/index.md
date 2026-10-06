@@ -3,6 +3,7 @@ title: '158: Photo hijacking, 12 tips voor livestreaming, wat doe ik voor een "S
 date: '2015-12-10T07:30:40+00:00'
 description: '**WordPress 4.4 is uitgekomen. Ik vertel jou zo wat er nieuw aan is… Dan heb ik een verhaal over photo hijacking en ik vertel je kort over de presentatie die ik bij een opdrachtgever heb gegeven ten behoeve van een (lokale) SEO audit.** Wist je dat klikken op je lokale vermelding helpt om hogerop te komen in de lokale resultaten? Nee? Ga vooral luisteren! Daarna vertel ik je over het belang van instellen van afwijkende openingstijden gedurende de feestdagen en hoe je dat moet doen.'
 episode: 158
+kgRef: podcast_episode/reputatiecoaching_158
 historical: true
 archivePeriod: 2012–2016
 transcriptStatus: shownotes
@@ -21,7 +22,7 @@ showTaxonomies: false
 
 **Transcriptiestatus:** Oorspronkelijke shownotes. Vanaf aflevering 153 werd de podcast niet meer volledig uitgeschreven.
 
-\*\*[*Historische afbeelding niet beschikbaar: ReputatieCoaching Podcast*](https://www.reputatiecoaching.nl/wp-content/uploads/2012/12/Reputatie-Coaching-Podcast-logo-200x200.jpg)WordPress 4.4 is uitgekomen. Ik vertel jou zo wat er nieuw aan is… Dan heb ik een verhaal over photo hijacking en ik vertel je kort over de presentatie die ik bij een opdrachtgever heb gegeven ten behoeve van een (lokale) SEO audit.\*\*
+\*\*[*Historische afbeelding niet beschikbaar: ReputatieCoaching Podcast*](https://web.archive.org/web/20160422081458/http://www.reputatiecoaching.nl/wp-content/uploads/2012/12/Reputatie-Coaching-Podcast-logo-200x200.jpg)WordPress 4.4 is uitgekomen. Ik vertel jou zo wat er nieuw aan is… Dan heb ik een verhaal over photo hijacking en ik vertel je kort over de presentatie die ik bij een opdrachtgever heb gegeven ten behoeve van een (lokale) SEO audit.\*\*
 
 **Wist je dat klikken op je lokale vermelding helpt om hogerop te komen in de lokale resultaten? Nee? Ga vooral luisteren!**
 
@@ -70,7 +71,7 @@ Toen dit openbaar werd, heeft ze het er ook snel weer vanaf gehaald. In de podca
 
 ## Afwijkende openingstijden gedurende de feestdagen
 
-[*Historische afbeelding niet beschikbaar: Zet je bedrijf op de mobiele kaarten!*](https://www.reputatiecoaching.nl/wp-content/uploads/2012/11/lokale-SEO-kaart-met-pin.jpg)Sinterklaas is alweer terug naar Spanje, maar er staan nog de nodige feestdagen voor de deur. We hebben Kerstavond, 1e Kerstdag, 2e Kerstdag, Oudejaarsdag en Nieuwjaarsdag. Dat zijn allemaal dagen dat veel bedrijven afwijkende openingstijden hebben en sommige bedrijven hebben ook vóór die tijd bijvoorbeeld een aantal extra avonden koopavond.
+[*Historische afbeelding niet beschikbaar: Zet je bedrijf op de mobiele kaarten!*](https://web.archive.org/web/20150312093329/http://www.reputatiecoaching.nl/wp-content/uploads/2012/11/lokale-SEO-kaart-met-pin.jpg)Sinterklaas is alweer terug naar Spanje, maar er staan nog de nodige feestdagen voor de deur. We hebben Kerstavond, 1e Kerstdag, 2e Kerstdag, Oudejaarsdag en Nieuwjaarsdag. Dat zijn allemaal dagen dat veel bedrijven afwijkende openingstijden hebben en sommige bedrijven hebben ook vóór die tijd bijvoorbeeld een aantal extra avonden koopavond.
 
 Natuurlijk moet je die tijden communiceren. Ze op een etalageruit plakken, zoals men vroeger deed, is niet echt handig meer. Veel mensen gaan niet doelloos door een winkelstraat lopen om vervolgens in elke etalage te kijken wanneer die bepaalde winkel wel of niet open is.
 
@@ -107,7 +108,7 @@ Ik zal mijn best doen ze morgen op te volgen!
 
 ## Lokale SEO audit: waar kijk ik zoal naar?
 
-[*Historische afbeelding niet beschikbaar: Zet je bedrijf op de kaart van TomTom*](https://www.reputatiecoaching.nl/wp-content/uploads/2013/01/local-seo-phone-pin.png)Recent heb ik een bedrijf geholpen met het verbeteren van de ranking in de lokale resultaten. De korte versie is dat het bedrijf meer dan één bedrijfsvermelding in Google had, die inconsistente gegevens naar Google communiceerden als gevolg van een paar verhuizingen in het verleden. Die foute vermeldingen hebben we verwijderd. Volgens mij heb ik ze allemaal kunnen opsporen.
+[*Historische afbeelding niet beschikbaar: Zet je bedrijf op de kaart van TomTom*](https://web.archive.org/web/20150312094752/http://www.reputatiecoaching.nl/wp-content/uploads/2013/01/local-seo-phone-pin.png)Recent heb ik een bedrijf geholpen met het verbeteren van de ranking in de lokale resultaten. De korte versie is dat het bedrijf meer dan één bedrijfsvermelding in Google had, die inconsistente gegevens naar Google communiceerden als gevolg van een paar verhuizingen in het verleden. Die foute vermeldingen hebben we verwijderd. Volgens mij heb ik ze allemaal kunnen opsporen.
 
 Het is nog iets te vroeg om nu te zeggen of dat het euvel was, maar ik heb verder niets kunnen vinden.
 
@@ -116,10 +117,10 @@ Heb jij issues met je ranking in de lokale zoekresultaten? Wil je weten, waar ik
 Links naar content elders op Internet die in deze podcast aan bod komt:
 
 ```
-  * [ReputatieCoaching Podcast in iTunes](https://www.reputatiecoaching.nl/itunes)
-  * [ReputatieCoaching Podcast op Stitcher](https://www.reputatiecoaching.nl/stitcher)
+  * ReputatieCoaching Podcast in iTunes
+  * ReputatieCoaching Podcast op Stitcher
   * [ReputatieCoaching Podcast op TuneIn Radio](http://tunein.com/radio/ReputatieCoaching-Podcast-p655084/)
-  * [ReputatieCoaching Podcast RSS-feed](https://feeds.reputatiecoaching.nl/ReputatieCoachingPodcast)
+  * [ReputatieCoaching Podcast RSS-feed](https://web.archive.org/web/20160204123538/http://feeds.reputatiecoaching.nl:80/ReputatieCoachingPodcast)
   * [WordPress 4.4](https://wordpress.org/news/2015/12/clifford/)
   * "[Periscope: 12 tips om livestream zakelijk in te zetten](https://www.frankwatching.com/archive/2015/11/25/periscope-12-tips-om-livestream-zakelijk-in-te-zetten/)" (Frankwatching, 25 november 2015)
 ```

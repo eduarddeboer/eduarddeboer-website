@@ -3,6 +3,7 @@ title: '45: MeetingroomReview.com is nieuw! Hoe schrijf je een review? Yelp, spa
 date: '2013-10-07T06:30:14+00:00'
 description: Vandaag heb ik weer een aantal leerzame onderwerpen voor je, waarvan ik denk dat je er wat aan hebt. Ook heb ik weer nieuws van diverse bronnen. Het grootste gedeelte van deze podcast gaat over reviews. Het eerste aangaande reviews heb ik gevonden als een nieuwsbericht op FrankWatching. Ook vertel ik je hoe je reviews schrijft en deel ik wat misvattingen over Yelps review filter met je. En ik heb nieuws over de integratie van Qype en Yelp.
 episode: 45
+kgRef: podcast_episode/reputatiecoaching_045
 historical: true
 archivePeriod: 2012–2016
 transcriptStatus: full
@@ -105,7 +106,7 @@ Reviews zijn belangrijk, dat kan ik ook niet vaak genoeg benadrukken. Op dit mom
 
 ## Misvattingen over Yelps reviewfilter
 
-Ik vertelde je in [podcast 44](https://www.reputatiecoaching.nl/44/) over die 19 bedrijven die bij elkaar een boete van US$350.000 hadden gekregen voor het posten van fake reviews.
+Ik vertelde je in [podcast 44](https://web.archive.org/web/20140526005716/http://www.reputatiecoaching.nl:80/44/) over die 19 bedrijven die bij elkaar een boete van US$350.000 hadden gekregen voor het posten van fake reviews.
 
 Als dit de prijs kan zijn die je als “reputatiemanagement”-bedrijf kan betalen voor je acties, dan… Hmmm… Daarmee schept deze actie een precedent en zal mensen en bedrijven die snel geld willen verdienen met het posten van fake reviews toch eens een keertje extra achter de oren doen laten krabben.
 
@@ -117,7 +118,7 @@ Op het “Moz blog” kwam ik een artikel tegen, dat is geschreven door David Mi
 Het reviewfilter van Yelp staat bekend als het meest agressieve filter. Maar daarmee is het nog niet het beste of meest succesvolle review filter. Want het lijkt erop, alsof teveel reviews onterecht als spam of fake worden beoordeeld.
 
 **Punt twee: gefilterde reviews zijn niet hetzelfde als frauduleuze reviews**
-Yelp geeft zelfs toe, dat sommige reviews onterecht worden gefilterd, omdat ze de reviewalgoritmes op de verkeerde punten triggeren. In [podcast 36](https://www.reputatiecoaching.nl/36/) vertelde ik je over het onderzoek dat twee wetenschappers van Harvard hadden gedaan naar het Yelp reviewfilter. Daaruit kwamen de volgende conclusies naar voren:
+Yelp geeft zelfs toe, dat sommige reviews onterecht worden gefilterd, omdat ze de reviewalgoritmes op de verkeerde punten triggeren. In [podcast 36](https://web.archive.org/web/20150312093030/http://www.reputatiecoaching.nl/36/) vertelde ik je over het onderzoek dat twee wetenschappers van Harvard hadden gedaan naar het Yelp reviewfilter. Daaruit kwamen de volgende conclusies naar voren:
 
 ```
   1. Restaurants verwerven vaker frauduleuze reviews, als ze (nog) niet zoveel reviews hebben.
@@ -150,7 +151,7 @@ Ik heb het hier ook al eens eerder over gehad. Als de reviews zijn gefilterd van
 
 ## Qype UK nu samengevoegd met Yelp
 
-Nu ik het toch over Yelp heb, eventjes een korte statusupdate over de integratie van Qype en Yelp. In [podcast 36](https://www.reputatiecoaching.nl/36/) had ik het ook hierover. Na Ierland, Spanje, Italië, Frankrijk en Brazilië zijn nu de gegevens, foto’s en reviews van Qype UK ook samengevoegd met Yelp. Hiermee wordt Yelp in het Verenigd Koninkrijk de marktleider op het gebied van bedrijfsreviews.
+Nu ik het toch over Yelp heb, eventjes een korte statusupdate over de integratie van Qype en Yelp. In [podcast 36](https://web.archive.org/web/20150312093030/http://www.reputatiecoaching.nl/36/) had ik het ook hierover. Na Ierland, Spanje, Italië, Frankrijk en Brazilië zijn nu de gegevens, foto’s en reviews van Qype UK ook samengevoegd met Yelp. Hiermee wordt Yelp in het Verenigd Koninkrijk de marktleider op het gebied van bedrijfsreviews.
 
 Ik ben toch wel heel benieuwd hoelang het nog duurt, totdat de Nederlandse Qype is geïntegreerd in Yelp Nederland.
 
@@ -174,7 +175,7 @@ Onder het kopje “Reacties”, onder de “Instellingen” op je WordPress site
 
 Maar wat je daar ook instelt, je zult nog steeds een grote hoeveelheid blogspam op je site krijgen. Schakel daarom altijd “Akismet” in. Deze plugin komt standaard mee met WordPress, maar je moet er nog wel iets voor doen om deze fantastische plugin te activeren.
 
-Om te beginnen moet je een account aanmaken op “[akismet.com](http://www.akismet.com/)”. De link naar deze site vind je, evenals links naar alle andere relevante artikelen, in de show notes, op [www.reputatiecoaching.nl/45/](https://www.reputatiecoaching.nl/nieuwsbrief/). Op de site zie je een button staan met de tekst “Get a WordPress key”. Die moet je klikken, waarna je je kunt aanmelden.
+Om te beginnen moet je een account aanmaken op “[akismet.com](http://www.akismet.com/)”. De link naar deze site vind je, evenals links naar alle andere relevante artikelen, in de show notes, op [www.reputatiecoaching.nl/45/](https://web.archive.org/web/20131205063155/http://www.reputatiecoaching.nl/nieuwsbrief/). Op de site zie je een button staan met de tekst “Get a WordPress key”. Die moet je klikken, waarna je je kunt aanmelden.
 
 *Historische afbeelding niet beschikbaar: Akistmet Signup*
 
@@ -216,15 +217,15 @@ Ter afsluiting van de topics en tips in deze podcast geef ik je een paar praktis
 
 Met deze tips voor het vergroten van je inkomende telefoonverkeer kom ik dan weer aan het einde van deze podcast.
 
-Als je de podcast leuk vindt en je hebt inderdaad wat aan alle informatie die ik met je deel, help mij dan met het verder verbeteren en promoten van deze podcast. Deel ‘m op Twitter, like ‘m op Facebook of geef een “+1” op Google+. Je kunt de Google+ pagina vinden, door te surfen naar [www.reputatiecoaching.nl/gplus/](https://www.reputatiecoaching.nl/gplus/). Het zou ook super zijn, als je een review van de podcast achterlaat op iTunes of op LinkedIn.
+Als je de podcast leuk vindt en je hebt inderdaad wat aan alle informatie die ik met je deel, help mij dan met het verder verbeteren en promoten van deze podcast. Deel ‘m op Twitter, like ‘m op Facebook of geef een “+1” op Google+. Je kunt de Google+ pagina vinden, door te surfen naar [www.reputatiecoaching.nl/gplus/](https://www.google.com/maps?cid=4978892197645719955). Het zou ook super zijn, als je een review van de podcast achterlaat op iTunes of op LinkedIn.
 
 Zoek op Google op “reputatie” en “itunes” en je ziet meteen de ReputatieCoaching Podcast pagina van iTunes. Door een review te posten op iTunes help je mij om de podcast ook onder de aandacht van anderen te krijgen.
 
 Als je een vraag of een probleem hebt met betrekking tot je online reputatie of de vindbaarheid van je website, kun je een mailtje sturen naar [podcast@reputatiecoaching.nl](mailto:podcast@reputatiecoaching.nl). Als je dat te lastig vindt, of als je de podcast beluistert terwijl je in de auto zit en je hebt acuut een vraag, spreek dan een boodschap in op de ReputatieCoaching Hotline, op nummer: 084 - 883 15 56. Mogelijk behandel ik je vraag of probleem dan in een artikel of in de podcast.
 
-Als laatste kun je je ook inschrijven voor de nieuwsbrief. Dan ontvang je altijd als eerste het laatste nieuws wat ik publiceer en automatisch elk kwartaal het ReputatieCoaching Podcast Boek van het afgelopen kwartaal. Surf daartoe naar [www.reputatiecoaching.nl/nieuwsbrief/](https://www.reputatiecoaching.nl/nieuwsbrief/) en schrijf je meteen in.
+Als laatste kun je je ook inschrijven voor de nieuwsbrief. Dan ontvang je altijd als eerste het laatste nieuws wat ik publiceer en automatisch elk kwartaal het ReputatieCoaching Podcast Boek van het afgelopen kwartaal. Surf daartoe naar [www.reputatiecoaching.nl/nieuwsbrief/](https://web.archive.org/web/20131205063155/http://www.reputatiecoaching.nl/nieuwsbrief/) en schrijf je meteen in.
 
-En je kunt ook rechtstreeks op de website een voicemail achterlaten, door op de tab aan de rechterkant van elke pagina te klikken, en je bericht in te spreken. Dit was [ReputatieCoaching Podcast aflevering 45](https://www.reputatiecoaching.nl/45/) en mijn naam is [Eduard de Boer](http://nl.linkedin.com/in/eduarddeboer/nl).
+En je kunt ook rechtstreeks op de website een voicemail achterlaten, door op de tab aan de rechterkant van elke pagina te klikken, en je bericht in te spreken. Dit was [ReputatieCoaching Podcast aflevering 45](https://web.archive.org/web/20140119013856/http://www.reputatiecoaching.nl:80/45/) en mijn naam is [Eduard de Boer](http://nl.linkedin.com/in/eduarddeboer/nl).
 
 Ik wens je de komende week weer succes met het werken aan je reputatie, zodat je meteen je reputatie voor jou kunt laten werken!
 

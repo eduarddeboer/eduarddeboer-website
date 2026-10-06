@@ -3,6 +3,7 @@ title: Podcast Aflevering 14 (04-03-2013)
 date: '2013-03-04T22:00:29+00:00'
 description: 'Je luistert naar alweer de veertiende aflevering van de ReputatieCoaching Podcast! Hallo en welkom. Mijn naam is Eduard de Boer -ook wel bekend als de ReputatieCoach- en ik ben je host voor vandaag! Steeds meer bronnen bevestigen het: 2013 wordt het jaar van mobiele websites. Dat is het eerste onderwerp van vandaag. Daaraan gerelateerd geef ik je drie redenen om je site in 2013 een responsive design te geven. Als tweede onderwerp heb ik nieuws over Firefox die een nekslag geeft aan online adverteerders.'
 episode: 14
+kgRef: podcast_episode/reputatiecoaching_014
 historical: true
 archivePeriod: 2012–2016
 transcriptStatus: full
@@ -37,7 +38,7 @@ Als tweede onderwerp heb ik nieuws over Firefox die een nekslag geeft aan online
 
 *Jongeren communiceren via SMS, WhatsApp en Twitter. E-mail vinden ze maar onhandig, omslachtig en ouderwets. Hetzelfde lot lijkt dus de PC te wachten: een apparaat met “beperkte” toepassingsmogelijkheden (je moet er tenslotte naartoe, in plaats van dat het altijd bij je in de buurt is) en het is bedoeld voor “oude mensen”.*
 
-\_In de transcriptie van deze podcast, die je overigens kunt vinden op [www.reputatiecoaching.nl/14/](https://www.reputatiecoaching.nl/14/) heb ik een grafiek van comScore opgenomen. Hierin is de verdeling te zien wat mensen doen op Internet, onderverdeeld in “vaste PC” en mobiele apparaten.[Historische afbeelding: bekijk bron](https://lh4.googleusercontent.com/nAvcqesCDZptnffpnlQHJX2dP2K0KCO3TSVkJxfl_LxK_ZUxlQQONDul_Gqjm-mHCqEuwASAeeIbXQNOU7oGAoEuoFcnlUTAzBGzowKWejM3XJ0Kc_1DA3e6FQ)
+\_In de transcriptie van deze podcast, die je overigens kunt vinden op [www.reputatiecoaching.nl/14/](https://web.archive.org/web/20140116051008/http://www.reputatiecoaching.nl:80/14/) heb ik een grafiek van comScore opgenomen. Hierin is de verdeling te zien wat mensen doen op Internet, onderverdeeld in “vaste PC” en mobiele apparaten.[Historische afbeelding: bekijk bron](https://lh4.googleusercontent.com/nAvcqesCDZptnffpnlQHJX2dP2K0KCO3TSVkJxfl_LxK_ZUxlQQONDul_Gqjm-mHCqEuwASAeeIbXQNOU7oGAoEuoFcnlUTAzBGzowKWejM3XJ0Kc_1DA3e6FQ)
 \_
 *Twee markante statistieken van deze grafiek wil ik toch even benadrukken: als eerste de mate waarin kaarten worden geraadpleegd en als tweede het koopgedrag of koopintentie. Het blijkt namelijk uit deze gegevens dat kaarten voor 84% op mobiele apparaten worden bekeken (en dus slechts 16% vanaf vaste PC’s). Maar wat hoopgevend is voor bedrijven die hun mobiele website goed op orde hebben, is dat 38% van de mensen die een koopintentie hebben, of daadwerkelijk iets kopen, dit al via hun mobiele apparaat doen.*
 
@@ -45,7 +46,7 @@ Als tweede onderwerp heb ik nieuws over Firefox die een nekslag geeft aan online
 
 *Als je nog niet overtuigd was, dat 2013 waarschijnlijk het omslagpunt wordt, waarin mensen meer op Internet doorbrengen op hun mobiel, dan vanaf hun vaste PC, dan zouden deze getallen je toch wakker moeten schudden. Zeker als jouw site nog niet goed te bekijken is op mobiele apparaten, moet je je maar eens achter te oren krabben, als je het nog langer wilt uitstellen.*
 
-*Op 28 november heb ik in het artikel “[Mobiele website? Hoezo?](https://www.reputatiecoaching.nl/waarom-een-mobiele-website/)” al gerept over responsive web design. Ook hierin geef ik een aantal getallen ten aanzien van de ontwikkelingen op mobiel gebied, evenals in mijn “[7 online marketing trends voor 2013](https://www.reputatiecoaching.nl/7-online-marketing-trends-in-2013/)”. Ik zal je nu nog eens drie redenen geven, om je te motiveren het design van je site in 2013 om te zetten (of om te laten zetten) naar een responsive web design en waarom dit beter is dan een aparte mobiele website maken.*
+*Op 28 november heb ik in het artikel “[Mobiele website? Hoezo?](https://web.archive.org/web/20160205064217/http://www.reputatiecoaching.nl:80/waarom-een-mobiele-website/)” al gerept over responsive web design. Ook hierin geef ik een aantal getallen ten aanzien van de ontwikkelingen op mobiel gebied, evenals in mijn “[7 online marketing trends voor 2013](https://web.archive.org/web/20130419053745/http://www.reputatiecoaching.nl:80/7-online-marketing-trends-in-2013/)”. Ik zal je nu nog eens drie redenen geven, om je te motiveren het design van je site in 2013 om te zetten (of om te laten zetten) naar een responsive web design en waarom dit beter is dan een aparte mobiele website maken.*
 
 *Ten eerste is een responsive thema of template beter voor de SEO, de zoekmachineoptimalisatie. Het helpt je ook met het verkrijgen van links naar je site. Als je twee verschillende sites hebt, moet je links naar beide verwerven. Met één en dezelfde site en dus ook dezelfde URL’s voor zowel de mobiele content, als de content die bestemd is voor grote schermen van bijvoorbeeld desktops, werken backlinks altijd in je voordeel.*
 
@@ -153,11 +154,11 @@ Bron: [StatCounter Global Stats - Browser Market Share](http://gs.statcounter.co
 
 *Als je een andere vraag of een ander probleem hebt met betrekking tot je online reputatie, stuur dan een mailtje naar [podcast@reputatiecoaching.nl](mailto:podcast@reputatiecoaching.nl) of spreek een boodschap in op de ReputatieCoaching Hotline, op: 084 - 883 15 56. Mogelijk behandel ik je vraag of probleem dan in een artikel of in de podcast.*
 
-*Als jij wat hebt aan de informatie en je vind het leuk om naar de podcast te luisteren, dan kun je een bericht achterlaten op onze Facebookpagina, op: [www.reputatiecoaching.nl/facebook](https://www.reputatiecoaching.nl/facebook) of op onze Google+ pagina, op: [www.reputatiecoaching.nl/gplus](https://www.reputatiecoaching.nl/gplus) (dat is dus g-p-l-u-s). Geef een “Like” of “+1”, waardoor je laat weten dat je de content op prijs stelt.*
+*Als jij wat hebt aan de informatie en je vind het leuk om naar de podcast te luisteren, dan kun je een bericht achterlaten op onze Facebookpagina, op: [www.reputatiecoaching.nl/facebook](https://www.facebook.com/reputatiecoaching/) of op onze Google+ pagina, op: [www.reputatiecoaching.nl/gplus](https://www.google.com/maps?cid=4978892197645719955) (dat is dus g-p-l-u-s). Geef een “Like” of “+1”, waardoor je laat weten dat je de content op prijs stelt.*
 
 *Een alternatief: ga vandaag nog naar iTunes en maak een account aan, als je die nog niet hebt. Beoordeel dan deze podcast op iTunes en stuur een berichtje naar [podcast@reputatiecoaching.nl](mailto:podcast@reputatiecoaching.nl), dat je een recensie hebt gegeven. Zit je achter je computer en heb je Twitter of Tweetdeck of iets dergelijks geopend, stuur dan een tweet met je mening met hashtag “repcoach”, dus #repcoach erbij.*
 
-*Geef gerust een recensie. En als je opmerkingen hebt over deze podcast, laat die dan op de website onderaan de transcriptie achter. Je kunt de transcriptie van deze podcast snel online vinden door te surfen naar: [www.reputatiecoaching.nl/14](https://www.reputatiecoaching.nl/14). Als je ergens een recensie hebt geplaatst, stuur me dan een mailtje zodat ik je recensie kan vermelden in de podcast.*
+*Geef gerust een recensie. En als je opmerkingen hebt over deze podcast, laat die dan op de website onderaan de transcriptie achter. Je kunt de transcriptie van deze podcast snel online vinden door te surfen naar: [www.reputatiecoaching.nl/14](https://web.archive.org/web/20140116051008/http://www.reputatiecoaching.nl:80/14/). Als je ergens een recensie hebt geplaatst, stuur me dan een mailtje zodat ik je recensie kan vermelden in de podcast.*
 
 *En er is nieuws over Google+ Local. Als eerste over het verhuizen in Google+. In een [bericht op de Google productforums](https://productforums.google.com/forum/#!category-topic/business/need-advice/S6APN5ijnOQ) werd ik hierover getipt. Voorheen moest je namelijk een nieuwe locatie aanmaken en de oude verwijderen met als reden “gesloten”.*
 
@@ -243,7 +244,7 @@ D\_e hoofdvoorwaarde is echter wel dat voor elke vermelding een apart telefoonnu
   * _“[Why 2013 Is the Year of Responsive Web Design](http://mashable.com/2012/12/11/responsive-web-design/)” (Mashable, 11 december 2012)_
   * _[“Three Ways a Mobile Responsive Website Beats Using a Separate Mobile Site](http://www.copyblogger.com/mobile-responsive-design-benefits/)” (Copyblogger, 22 februari 2013)_
   * _[Brad Frost](http://bradfrostweb.com/)_
-  * _“[What does the Firefox Automatic Block Mean for Advertisers?](http://www.location3.com/what-does-the-firefox-automatic-block-mean-for-advertisers/)” (Location3, 26 februari 2013)_
+  * _“What does the Firefox Automatic Block Mean for Advertisers?” (Location3, 26 februari 2013)_
   * _“[Google Image Search Traffic Drops 80% Since Redesign](https://www.seroundtable.com/google-image-search-design-traffic-16417.html)” (SERoundTable, 26 februari 2013)_
   * _“[Evernote reset wachtwoorden gebruikers na hack](http://webwereld.nl/nieuws/113566/evernote-reset-wachtwoorden-gebruikers-na-hack.html)” (WebWereld, 2 maart 2013)_
   * _“[Koning klant is fabeltje](https://www.telegraaf.nl/overgeld/consument/21350474/__Koning_klant_is_fabeltje__.html)” (Telegraaf, 4 maart 2013)_

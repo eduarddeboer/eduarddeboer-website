@@ -3,6 +3,7 @@ title: '57: Terugblik op 2013 social media trends, Google Alerts wordt slechter,
 date: '2013-12-30T07:30:20+00:00'
 description: Tjonge, inmiddels is dit alweer de laatste podcast van 2013. Terwijl ik deze podcast inspreek, hoor ik overal in de verte vuurwerk knallen, als voorbode voor de jaarwisseling. Morgen is het Oudjaarsdag en nemen we om middernacht afscheid van 2013 om dan 2014 welkom te heten. Zo’n laatste uitzending van het jaar is vaak typisch een moment om terug te blikken, want ook dit jaar is er weer veel gebeurd op het gebied van contentmarketing, social media, zoekmachines enzovoorts.
 episode: 57
+kgRef: podcast_episode/reputatiecoaching_057
 historical: true
 archivePeriod: 2012–2016
 transcriptStatus: full
@@ -76,13 +77,13 @@ Ruim een jaar lang heeft Google in de lokale zoekresultaten de zogenaamde “Zag
 *Historische afbeelding niet beschikbaar: Pinterest*
 Pinterest kwam dit jaar met Pinterest accounts voor bedrijven, waardoor je jouw website kunt koppelen aan aan Pinterest-account. Voor de rest lijkt dit vooralsnog niet echt veel meerwaarde te bieden, anders dan dat de autenticiteit van een geclaimd Pinterest-account duidelijk is voor iedereen op Pinterest.
 
-En wat volgens mij natuurlijk een grote vlucht gaat nemen, zijn de [Pinterest Place Pins](http://www.42bis.nl/2013/12/pinterest-place-pins-zet-je-pins-op-de-kaart/), waar ik het ook in [podcast 53](https://www.reputatiecoaching.nl/53/) over had. Met Pinterest Place Pins kun je Pins op de kaart zetten; je koppelt ze dan aan locaties die in Foursquare zijn opgenomen.
+En wat volgens mij natuurlijk een grote vlucht gaat nemen, zijn de [Pinterest Place Pins](http://www.42bis.nl/2013/12/pinterest-place-pins-zet-je-pins-op-de-kaart/), waar ik het ook in [podcast 53](https://web.archive.org/web/20150312093513/http://www.reputatiecoaching.nl/53/) over had. Met Pinterest Place Pins kun je Pins op de kaart zetten; je koppelt ze dan aan locaties die in Foursquare zijn opgenomen.
 
 Inmiddels heb ik een aantal Pins op de kaart gezet op Pinterest, om eens te zien wat het effect ervan is. Dat is nog heel recent, dus daar kan ik op dit moment verder niets zinnigs over melden. Gezien het lokale c.q. geografische karakter van de Place Pins, verwacht ik dat dit in de toekomst ook zal gaan meetellen als citation of bedrijfsvermelding die wordt gebruikt voor het bepalen van de positie in de lokale zoekresultaten in diverse social media en zoekmachines.
 
 ## 7 online marketing trends in 2013
 
-1 januari 2013 publiceerde ik een [zevental online marketing trends](https://www.reputatiecoaching.nl/7-online-marketing-trends-in-2013/), waarvan ik verwachtte dat die actueel zouden worden of een grote vlucht zouden nemen. Deze 7 trends waren:
+1 januari 2013 publiceerde ik een [zevental online marketing trends](https://web.archive.org/web/20130421034804/http://www.reputatiecoaching.nl:80/7-online-marketing-trends-in-2013/), waarvan ik verwachtte dat die actueel zouden worden of een grote vlucht zouden nemen. Deze 7 trends waren:
 
 ```
   1. Unieke en relevante content is cruciaal
@@ -145,7 +146,7 @@ Over Clipit (bron: Frankwatching)[/caption]
 
 Helaas is het niet mogelijk om via RSS-feeds te monitoren, wat er over mij of bepaalde bedrijven wordt geschreven, omdat Google Alerts steeds minder zoekresultaten teruggeeft. Voor een dergelijke reputatiemonitoring heb je specifieke tools nodig. Het lijkt me interessant om hier komend jaar eens verder in te duiken en mensen van diverse leveranciers van deze software te interviewen. Dus, als er onder de luisteraars bedrijven zijn die social media monitoring tooling leveren, neem dan contact op.
 
-Je kunt reageren onderaan de show notes van deze podcast, die je kunt vinden op [www.reputatiecoaching.nl/57](https://www.reputatiecoaching.nl/57/).
+Je kunt reageren onderaan de show notes van deze podcast, die je kunt vinden op [www.reputatiecoaching.nl/57](https://web.archive.org/web/20150312093644/http://www.reputatiecoaching.nl/57/).
 
 In de tussentijd heb ik –om toch eens de gratis Google Alerts te vergelijken met de eveneens gratis [TalkWalker Alerts](http://www.talkwalker.com/alerts/)– inmiddels ook een paar alerts bij deze laatste ingesteld, om te zien welke tool nu wat rapporteert en hoe snel na publicatie.
 
@@ -166,13 +167,13 @@ Het eerste type content dat het altijd goed doet en zal blijven doen, is de “e
 
 Het mooie aan evergreen content is dat het –dankzij de continue relevantie– steeds bezocht wordt en groeit in autoriteit en daarmee stijgt in de zoekresultaten.
 
-Ik zal je eerlijk zeggen: tot nu toe heb ik één echt stuk evergreen content geproduceerd. Dat is het artikel met als titel “[Foto uitsnijden en achtergrond verwijderen](https://www.reputatiecoaching.nl/foto-uitsnijden-achtergrond-verwijderen-instructievideo/)”. Daarin laat ik de werking van de online tool [Clipping Magic](http://clippingmagic.com/) zien, met behulp een instructievideo. Ik heb zojuist nog even gekeken: de video heeft op dit moment maar liefst 2.995 views en het artikel is van 31 mei 2013. De laatste dertig dagen is dit artikel meer dan 1.300 keer gevonden en geraadpleegd. Daarvan zijn meer dan 1.100 bezoekers nieuw, is de bounce rate 39% en verblijft men gemiddeld 2m32s op deze pagina.
+Ik zal je eerlijk zeggen: tot nu toe heb ik één echt stuk evergreen content geproduceerd. Dat is het artikel met als titel “[Foto uitsnijden en achtergrond verwijderen](https://web.archive.org/web/20140328233245/http://www.reputatiecoaching.nl:80/foto-uitsnijden-achtergrond-verwijderen-instructievideo/)”. Daarin laat ik de werking van de online tool [Clipping Magic](http://clippingmagic.com/) zien, met behulp een instructievideo. Ik heb zojuist nog even gekeken: de video heeft op dit moment maar liefst 2.995 views en het artikel is van 31 mei 2013. De laatste dertig dagen is dit artikel meer dan 1.300 keer gevonden en geraadpleegd. Daarvan zijn meer dan 1.100 bezoekers nieuw, is de bounce rate 39% en verblijft men gemiddeld 2m32s op deze pagina.
 
 Omdat we toch een beetje aan het terugblikken zijn: als ik dan kijk naar de statistieken van het hele jaar, dan heeft die pagina sinds 31 mei 4.238 unieke bezoekers gehad.
 
 De meestbekeken twee pagina’s die daarop volgen zijn absoluut geen evergreen content. Die plaatsen worden namelijk ingenomen door twee artikelen over de spookfacturen van “Corpus Justitia”. Dat speelde in september. Ook de site “www.corpusjustitia.nl” die ik toen snel had opgezet beleefde in die periode een hoogtepunt qua aantal bezoekers. Als ik van elke bezoeker een euro zou hebben ontvangen, dan kon ik een paar maanden op vakantie.
 
-De eerstvolgende evergreen pagina vinden we daarna. Dat is de pagina waarin ik uitleg hoe je Outlook.com kunt gebruiken als “[Google Apps alternatief voor email met je eigen domeinnaam](https://www.reputatiecoaching.nl/google-apps-alternatief-voor-email-met-je-eigen-domeinnaam-instructievideo/). Maar die pagina heeft afgelopen jaar ”slechts" 627 unieke bezoekers gehad.
+De eerstvolgende evergreen pagina vinden we daarna. Dat is de pagina waarin ik uitleg hoe je Outlook.com kunt gebruiken als “[Google Apps alternatief voor email met je eigen domeinnaam](https://web.archive.org/web/20131124042413/http://www.reputatiecoaching.nl:80/google-apps-alternatief-voor-email-met-je-eigen-domeinnaam-instructievideo/). Maar die pagina heeft afgelopen jaar ”slechts" 627 unieke bezoekers gehad.
 
 Met de meeste instructievideo’s die ik maak, creëer ik over het algemeen ook evergreen content, want alle pagina’s met instructievideo’s hebben twee belangrijke kenmerken: ze worden steeds meer bezocht en hebben een lage bounce rate. Dat laatste geeft dus aan dat mensen de pagina’s echt lezen en de video’s bekijken.
 
@@ -218,9 +219,9 @@ Deel deze op Twitter, like ‘m op Facebook of geef een “+1” op Google+. Het
 
 Als je een vraag of een probleem hebt met betrekking tot je online reputatie of de vindbaarheid van je website, kun je een mailtje sturen naar [podcast@reputatiecoaching.nl](mailto:podcast@reputatiecoaching.nl). Als je dat te lastig vindt, of als je de podcast beluistert terwijl je in de auto zit en je hebt acuut een vraag, spreek dan een boodschap in op de ReputatieCoaching Hotline, op nummer: 084 - 883 15 56. Mogelijk behandel ik je vraag of probleem dan in een artikel of in de podcast.
 
-Als laatste kun je je ook inschrijven voor de nieuwsbrief. Dan ontvang je altijd als eerste het laatste nieuws wat ik publiceer en automatisch elk kwartaal het ReputatieCoaching Podcast Boek van het afgelopen kwartaal. Surf daartoe naar [www.reputatiecoaching.nl/nieuwsbrief/](https://www.reputatiecoaching.nl/nieuwsbrief/) en schrijf je meteen in.
+Als laatste kun je je ook inschrijven voor de nieuwsbrief. Dan ontvang je altijd als eerste het laatste nieuws wat ik publiceer en automatisch elk kwartaal het ReputatieCoaching Podcast Boek van het afgelopen kwartaal. Surf daartoe naar [www.reputatiecoaching.nl/nieuwsbrief/](https://web.archive.org/web/20131205063155/http://www.reputatiecoaching.nl/nieuwsbrief/) en schrijf je meteen in.
 
-Je kunt ook rechtstreeks op de website een voicemail achterlaten, door op de tab aan de rechterkant van elke pagina te klikken, en je bericht in te spreken. Dit was [ReputatieCoaching Podcast aflevering 57](https://www.reputatiecoaching.nl/57/) en mijn naam is [Eduard de Boer](http://nl.linkedin.com/in/eduarddeboer/nl).
+Je kunt ook rechtstreeks op de website een voicemail achterlaten, door op de tab aan de rechterkant van elke pagina te klikken, en je bericht in te spreken. Dit was [ReputatieCoaching Podcast aflevering 57](https://web.archive.org/web/20150312093644/http://www.reputatiecoaching.nl/57/) en mijn naam is [Eduard de Boer](http://nl.linkedin.com/in/eduarddeboer/nl).
 
 Ik neem aan dat je de komende dagen niet bijster druk zult zijn met het werken aan je online reputatie; ik laat alles in ieder geval even voor wat het is.
 

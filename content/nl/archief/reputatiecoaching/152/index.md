@@ -3,6 +3,7 @@ title: '152: Rode reviewsterren in Google, Amazon daagt fake reviewers voor de r
 date: '2015-10-29T07:30:01+00:00'
 description: De sterren op Google kleurden laatst opeens rood, in plaats van oranje… Zou het wederom een experiment zijn? Of zou het meteen blijvend zijn? Je hoort er zo meer over! Amazon heeft aanbieders van fake reviews op Fiverr.com voor de rechter gedaagd! Het lijkt erop, alsof je geen fake Amazon reviews meer kunt kopen op Fiverr… Of toch wel? En het laatste onderwerp van de podcast van vandaag is een samenvatting van de presentatie die Koop Brandsma van LVB Networks laatst gaf bij Social Media Club Apeldoorn.
 episode: 152
+kgRef: podcast_episode/reputatiecoaching_152
 historical: true
 archivePeriod: 2012–2016
 transcriptStatus: full
@@ -30,7 +31,7 @@ De sterren op Google kleurden laatst opeens rood, in plaats van oranje… Zou he
 
 Hallo en hartelijk welkom bij deze aflevering van de ReputatieCoaching Podcast. Ik ben Eduard de Boer, ReputatieCoach. Dit is dé podcast die jou helpt om meer business te genereren, doordat jouw website beter gevonden wordt, zowel lokaal als landelijk en doordat ik je uitleg hoe je je online reputatie kunt verbeteren. Dit alles helpt je om je bedrijf en jezelf beter op de online kaart te plaatsen.
 
-De podcast van vandaag kun je vinden op [www.reputatiecoaching.nl/152](https://www.reputatiecoaching.nl/152/). Daar vind je niet alleen de tekst, maar ook video’s waar ik het in deze uitzending over heb, alsmede afbeeldingen, links enzovoorts. Bovendien is de podcast te beluisteren in [iTunes](https://www.reputatiecoaching.nl/itunes), op [Stitcher](https://www.reputatiecoaching.nl/stitcher) en ook op [TuneIn Radio](http://tunein.com/radio/ReputatieCoaching-Podcast-p655084/). Ik raad je aan om je op één van die drie kanalen te abonneren op de podcast, zodat je geen aflevering hoeft te missen!
+De podcast van vandaag kun je vinden op [www.reputatiecoaching.nl/152](https://web.archive.org/web/20160420042206/http://www.reputatiecoaching.nl:80/152/). Daar vind je niet alleen de tekst, maar ook video’s waar ik het in deze uitzending over heb, alsmede afbeeldingen, links enzovoorts. Bovendien is de podcast te beluisteren in iTunes, op Stitcher en ook op [TuneIn Radio](http://tunein.com/radio/ReputatieCoaching-Podcast-p655084/). Ik raad je aan om je op één van die drie kanalen te abonneren op de podcast, zodat je geen aflevering hoeft te missen!
 
 Laat ik dan nu overgaan op de onderwerpen voor vandaag…
 
@@ -42,7 +43,7 @@ Maar ook uitgelogd, in een privévenster op Safari en in Incognitomodus op Chrom
 
 Ik maakte een screenshot en postte die in een lokale SEO community op Google+ met de vraag of anderen het ook zagen in de wereld. Maar niemand reageerde, anders dan dat het wellicht een experiment van Google was.
 
-Of dat zo is, zien we vanzelf. Google experimenteert veel vaker met de weergave, dus ook dit kan tijdelijk zijn. In de show notes op [www.reputatiecoaching.nl/152](https://www.reputatiecoaching.nl/152/) vind je een screenshot van mijn waarneming:
+Of dat zo is, zien we vanzelf. Google experimenteert veel vaker met de weergave, dus ook dit kan tijdelijk zijn. In de show notes op [www.reputatiecoaching.nl/152](https://web.archive.org/web/20160420042206/http://www.reputatiecoaching.nl:80/152/) vind je een screenshot van mijn waarneming:
 
 *Historische afbeelding niet beschikbaar: Rode reviewsterren*
 
@@ -154,7 +155,7 @@ Oh… en nu het vanaf deze week ook daadwerkelijk kan, post jij nu meteen even e
 
 Op de website kun je me een berichtje sturen en zelfs een gratis consult inboeken. Ook kun je me bellen op 084–8831556 en ook rechtstreeks op de website een voicemail achterlaten, door op de tab aan de rechterkant van elke pagina te klikken, en je bericht in te spreken.
 
-Dit was [ReputatieCoaching Podcast aflevering 152](https://www.reputatiecoaching.nl/152/) en mijn naam is [Eduard de Boer](http://nl.linkedin.com/in/eduarddeboer/nl).
+Dit was [ReputatieCoaching Podcast aflevering 152](https://web.archive.org/web/20160420042206/http://www.reputatiecoaching.nl:80/152/) en mijn naam is [Eduard de Boer](http://nl.linkedin.com/in/eduarddeboer/nl).
 
 Ik wens je de komende week weer succes met het werken aan je reputatie, zodat je meteen je reputatie voor jou kunt laten werken!
 
@@ -165,10 +166,10 @@ Doei!
 Links naar content die in deze podcast aan bod komt:
 
 ```
-  * [ReputatieCoaching Podcast in iTunes](https://www.reputatiecoaching.nl/itunes)
-  * [ReputatieCoaching Podcast op Stitcher](https://www.reputatiecoaching.nl/stitcher)
+  * ReputatieCoaching Podcast in iTunes
+  * ReputatieCoaching Podcast op Stitcher
   * [ReputatieCoaching Podcast op TuneIn Radio](http://tunein.com/radio/ReputatieCoaching-Podcast-p655084/)
-  * [ReputatieCoaching Podcast RSS-feed](https://feeds.reputatiecoaching.nl/ReputatieCoachingPodcast)
+  * [ReputatieCoaching Podcast RSS-feed](https://web.archive.org/web/20151006093045/http://feeds.reputatiecoaching.nl:80/ReputatieCoachingPodcast)
   * [LVB Networks](http://www.lvbnetworks.nl)
   * [Koop Brandsma op LinkedIn](https://nl.linkedin.com/in/koopbrandsma)
 ```

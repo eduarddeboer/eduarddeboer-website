@@ -3,6 +3,7 @@ title: Podcast Aflevering 18 (30-03-2013)
 date: '2013-03-30T18:00:39+00:00'
 description: 'ReputatieCoaching Podcast aflevering 18! In de ReputatieCoaching Podcast heb ik tot en met vorige week altijd nieuws uit de wereld van SEO, reputatiemanagement en contentmarketing gebracht en dat blijf ik ook doen. Maar een paar weken geleden had ik al aangekondigd dat ik ook mensen zou gaan interviewen. En vandaag is het dan zover: zometeen hoor je het eerste interview dat ik als ReputatieCoach heb afgenomen van een bijzondere gast. Maar ik begin zo eerst met wat actueel nieuws en bruikbare tips uit de diverse bronnen op Internet!'
 episode: 18
+kgRef: podcast_episode/reputatiecoaching_018
 historical: true
 archivePeriod: 2012–2016
 transcriptStatus: full
@@ -76,7 +77,7 @@ In de ReputatieCoaching Podcast heb ik tot en met vorige week altijd nieuws uit 
 
 *Dan het interview. Het heeft me even tijd gekost om alles op de rit te krijgen, zowel technisch, als qua sprekers. Daar heb ik ook weer van geleerd. Het heeft me ook doen inzien dat het met al mijn werkzaamheden lastig is om elke week een gast te hebben, die ik kan interviewen. Bovendien kan ik dan ook niet meer zoveel nieuws melden, of kennis en ervaringen delen en dat zou ik ook jammer vinden. Dus ik heb besloten dat ik een mix ga brengen: de ene keer heb ik een uitzending met alleen nieuws en tips, terwijl ik in een andere uitzending een interview zal publiceren.*
 
-*De gast van vandaag is Gé Bouma, van [Bouma Webteksten](http://www.bouma-webteksten.nl/) uit Oosterwolde in Friesland. Ik ben Gé op figuurlijke wijze tegen het lijf gelopen, toen ik zag dat ze me op Twitter ging volgen. Ik begroet zoveel mogelijk alle nieuwe volgers persoonlijk, omdat ik niet houd van geautomatiseerde tweets. Het risico daarmee is dat je de controle verliest of mogelijk de verkeerde dingen zegt.*
+*De gast van vandaag is Gé Bouma, van [Bouma Webteksten](https://web.archive.org/web/20130309190016/http://www.bouma-webteksten.nl/) uit Oosterwolde in Friesland. Ik ben Gé op figuurlijke wijze tegen het lijf gelopen, toen ik zag dat ze me op Twitter ging volgen. Ik begroet zoveel mogelijk alle nieuwe volgers persoonlijk, omdat ik niet houd van geautomatiseerde tweets. Het risico daarmee is dat je de controle verliest of mogelijk de verkeerde dingen zegt.*
 
 \_En ik nam natuurlijk ook een kijkje op de website van Gé. Zij is gespecialiseerd in het het schrijven van pakkende webteksten en het bewaken van de goede naam van bedrijven op Internet. Zij doet dit laatste door het Internet af te schuimen tot de verste uithoeken, om te zien wat er over haar opdrachtgevers wordt geschreven, zowel positief als negatief. Dit rapporteert ze vervolgens terug aan haar klanten.[[Historische afbeelding: bekijk bron](https://lh3.googleusercontent.com/9g-wR06L964U0CMmJZgXuWMIjrUECG_o_2pmSg5ReG_y01FMti3Zx7sFCzJevc0wndB6W_ysMYWv8huoSPK3JM0uPc8v39DLI7WbnGhGzfN8ED_CATZTqDS-DA)](http://www.bouma-webteksten.nl)\_
 
@@ -112,11 +113,11 @@ In de ReputatieCoaching Podcast heb ik tot en met vorige week altijd nieuws uit 
 
 > *Wat me leuk lijkt voor de luisteraars: heb je –nu we zo richting het einde van het interview lopen– nog één of twee tips voor de luisteraars, waarmee zij hun voordeel kunnen doen als het gaat om reactief reputatiemanagement?*
 
-*Vond je deze podcast leuk, laat het me dan weten. Je kunt een bericht achterlaten op onze Facebookpagina, op: [www.reputatiecoaching.nl/facebook](https://www.reputatiecoaching.nl/facebook) of op Google+. De Google+ pagina kun je vinden op: [www.reputatiecoaching.nl/gplus](https://www.reputatiecoaching.nl/gplus) (dat is “g-p-l-u-s”).*
+*Vond je deze podcast leuk, laat het me dan weten. Je kunt een bericht achterlaten op onze Facebookpagina, op: [www.reputatiecoaching.nl/facebook](https://www.facebook.com/reputatiecoaching/) of op Google+. De Google+ pagina kun je vinden op: [www.reputatiecoaching.nl/gplus](https://www.google.com/maps?cid=4978892197645719955) (dat is “g-p-l-u-s”).*
 
-*Geef een “Like” of “+1” op Google+, waardoor je laat weten dat je de content op prijs stelt. Of laat een leuke recensie achter op mijn LinkedIn-profiel, op: [www.reputatiecoaching.nl/linkedin](https://www.reputatiecoaching.nl/linkedin).*
+*Geef een “Like” of “+1” op Google+, waardoor je laat weten dat je de content op prijs stelt. Of laat een leuke recensie achter op mijn LinkedIn-profiel, op: [www.reputatiecoaching.nl/linkedin](https://www.linkedin.com/in/eduarddeboer/nl).*
 
-*Als je opmerkingen hebt over deze podcast, laat die dan op de website onderaan de transcriptie achter. Je kunt de transcriptie van deze podcast snel online vinden door te surfen naar: [www.reputatiecoaching.nl/podcast-18/](https://www.reputatiecoaching.nl/podcast-18/). Als je ergens een recensie hebt geplaatst, stuur me dan een mailtje zodat ik je recensie kan vermelden in de podcast.*
+*Als je opmerkingen hebt over deze podcast, laat die dan op de website onderaan de transcriptie achter. Je kunt de transcriptie van deze podcast snel online vinden door te surfen naar: [www.reputatiecoaching.nl/podcast-18/](https://web.archive.org/web/20130422005725/http://www.reputatiecoaching.nl:80/podcast-18/). Als je ergens een recensie hebt geplaatst, stuur me dan een mailtje zodat ik je recensie kan vermelden in de podcast.*
 
 *Als je een vraag of een probleem hebt met betrekking tot je online reputatie, stuur dan een mailtje naar [podcast@reputatiecoaching.nl](mailto:podcast@reputatiecoaching.nl) of spreek een boodschap in op de ReputatieCoaching Hotline, op: 084 - 883 15 56. Mogelijk behandel ik je vraag of probleem dan in een artikel of in de podcast.*
 
@@ -132,6 +133,6 @@ In de ReputatieCoaching Podcast heb ik tot en met vorige week altijd nieuws uit 
   * _“[New first stop for hacked site recovery](http://googlewebmastercentral.blogspot.co.uk/2013/03/new-first-stop-for-hacked-site-recovery.html)” (Google Webmaster Central Blog, 12 maart 2013)_
   * _“[Google Panda Goes Into Hiding: No More Official Confirmations](https://www.seroundtable.com/google-panda-hiding-16516.html)“ (SE Round Table, 18 maart 2013)_
   * _“[Google Says No To Phone Numbers In PPC Ads, Forcing The Use Of Call Extensions](http://searchengineland.com/google-says-no-to-phone-numbers-in-ppc-ads-forcing-the-use-of-call-extensions-152592)” (Search Engine Land, 22 maart 2013)_
-  * _[Bouma Webteksten](http://www.bouma-webteksten.nl/) website_
-  * _[Gé Bouma op Twitter](https://twitter.com/gbouma) ([@GBouma](https://twitter.com/gbouma))[/info_box]_
+  * _[Bouma Webteksten](https://web.archive.org/web/20130309190016/http://www.bouma-webteksten.nl/) website_
+  * _[Gé Bouma op Twitter](https://web.archive.org/web/20150323145107/https://twitter.com/GBouma) ([@GBouma](https://web.archive.org/web/20150323145107/https://twitter.com/GBouma))[/info_box]_
 ```
