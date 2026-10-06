@@ -3,6 +3,7 @@ title: Eerste podcast (03-12-2012)
 date: '2012-12-03T22:00:56+00:00'
 description: 'Hallo allemaal en hartelijk welkom op deze bijzondere dag. Mijn naam is Eduard de Boer –ook wel bekend als de ReputatieCoach– en ik ben de host voor vandaag! Twee weken geleden was een bijzondere dag, omdat ik toen live ging met de site www.reputatiecoaching.nl en vandaag is het ook weer een gedenkwaardige dag: na werkelijk maandenlang testen en experimenteren met audio-apparatuur, software enzovoorts ga ik nu dan daadwerkelijk live met mijn eerste echte podcast: de ReputatieCoaching Podcast!'
 episode: 1
+kgRef: podcast_episode/reputatiecoaching_001
 historical: true
 archivePeriod: 2012–2016
 transcriptStatus: full
@@ -32,10 +33,10 @@ Twee weken geleden was een bijzondere dag, omdat ik toen live ging met de site [
 
 In deze podcast komen de volgende onderwerpen aan bod:
 
-- [Over de ReputatieCoaching Podcast](https://www.reputatiecoaching.nl/over-de-reputatiecoaching-podcast/)
-- [Wat is ‘reputatie’?](https://www.reputatiecoaching.nl/reputatie/)
+- [Over de ReputatieCoaching Podcast](https://web.archive.org/web/20121203000026/http://www.reputatiecoaching.nl/over-de-reputatiecoaching-podcast/)
+- [Wat is ‘reputatie’?](https://web.archive.org/web/20121203220056/http://www.reputatiecoaching.nl/reputatie/)
 - Blog voor je reputatie
-- [WordPress 3.5 komt eraan](https://www.reputatiecoaching.nl/wordpress-3-5-komt-eraan/)
+- [WordPress 3.5 komt eraan](https://web.archive.org/web/20121203020017/http://www.reputatiecoaching.nl/wordpress-3-5-komt-eraan/)
 
 En natuurlijk heb ik ook echt jullie feedback nodig, want zonder jullie reacties en vragen heb ik geen idee waar jullie mee worstelen om je online reputatie op te vijzelen. Of misschien heb je wel een negatieve reputatie opgebouwd en heb je advies nodig over hoe je daarmee moet omgaan.
 
