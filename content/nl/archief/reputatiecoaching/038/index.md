@@ -3,6 +3,7 @@ title: '38: Evergreen content… tips en trucs. Foto''s van je smartphone backup
 date: '2013-08-19T06:30:24+00:00'
 description: Het is vakantietijd! En op dit moment ben ik daadwerkelijk op vakantie! We zitten nu lekker met het gezin in Zuid-Frankrijk. Ik wilde je echter niet zonder podcast laten zitten. Daarom heb ik deze podcast van tevoren ingesproken. Overal lees je dat je luisteraars van je podcast en lezers van je weblog niet zomaar in de kou moet laten staan door een soort van “radiostilte”. Zeker als je eenmaal een kring van trouwe “volgers” hebt opgebouwd, werkt dit averechts.
 episode: 38
+kgRef: podcast_episode/reputatiecoaching_038
 historical: true
 archivePeriod: 2012–2016
 transcriptStatus: full
@@ -48,17 +49,17 @@ Zoals ik in de introductie al vertelde, is “evergreen content” tijdloos of z
 
 ![Evergreen content](evergreen-content.jpg)
 
-Als je de artikelen en podcasts op mijn site [www.reputatiecoaching.nl](https://www.reputatiecoaching.nl) bekijkt, vind je zowel nieuws, als tijdloze content. Een voorbeeld van de tijdloze content die ik op mijn site heb staan, zijn de instructievideo’s.
+Als je de artikelen en podcasts op mijn site [www.reputatiecoaching.nl](https://web.archive.org/web/20130711051452/http://www.reputatiecoaching.nl:80/) bekijkt, vind je zowel nieuws, als tijdloze content. Een voorbeeld van de tijdloze content die ik op mijn site heb staan, zijn de instructievideo’s.
 
 Andere voorbeelden van “evergreen content” zijn lijstjes met tips, bepaalde oefeningen, product reviews, video’s en beschouwende artikelen. Hoewel het dateren van content vaak indruist tegen het principe van “evergreen content”, kan het ook in je voordeel werken.
 
-Zo kun je natuurlijk jaarlijks nieuwe en originele content produceren voor terugkerende evenementen of data. Zo heeft Content Marketing Spreker [Arend Landman](http://www.arendlandman.nl/) op 12 augustus 2010 een artikel geschreven over angst voor vrijdag de 13e, ook wel “paraskeviadekatriafobie” genaamd. Het fenomeen van angst voor vrijdag de 13e komt een aantal keren per jaar terug en dit maakt het dus “altijd groen”. Dit artikel scoort nog steeds in de top 3 van de zoekresultaten, als je zoekt op “angst voor vrijdag de 13e” of op “[paraskeviadekatriafobie](http://www.arendlandman.nl/2010/08/angst-voor-vrijdag-de-13e-heet-paraskeviadekatriafobie-symboliek-van-het-getal-dertien-de-twaalf-met-de-dertiende-in-het-midden/)”.
+Zo kun je natuurlijk jaarlijks nieuwe en originele content produceren voor terugkerende evenementen of data. Zo heeft Content Marketing Spreker [Arend Landman](http://www.arendlandman.nl/) op 12 augustus 2010 een artikel geschreven over angst voor vrijdag de 13e, ook wel “paraskeviadekatriafobie” genaamd. Het fenomeen van angst voor vrijdag de 13e komt een aantal keren per jaar terug en dit maakt het dus “altijd groen”. Dit artikel scoort nog steeds in de top 3 van de zoekresultaten, als je zoekt op “angst voor vrijdag de 13e” of op “paraskeviadekatriafobie”.
 
 Ook artikelen over Valentijnsdag, Moederdag, Vaderdag, Kerstmis, Sinterklaas en dergelijke kun je als evergreen content beschouwen, hoewel die evenementen slechts één keer per jaar terugkeren.
 
 Arend Landman heeft honderden evergreen artikelen geschreven. Dit zorgt er dan ook voor dat maandelijks duizenden mensen zijn weblog bezoeken en zijn artikelen lezen.
 
-Denk jij zelf ook eens na over evergreen content voor jouw bedrijf, waarmee je je website beter en steviger op de kaart kunt zetten. Als ik nog eens terugkijk naar schilderes Brechtje Hendriks die vorige week een vraag stelde over het [gebruik van Pinterest en Instagram](https://www.reputatiecoaching.nl/37), kan ik me zo voorstellen dat zij bepaalde onderdelen van haar workshops online kan publiceren in artikelen, ondersteund met foto’s en video’s; bijvoorbeeld bepaalde verftechnieken.
+Denk jij zelf ook eens na over evergreen content voor jouw bedrijf, waarmee je je website beter en steviger op de kaart kunt zetten. Als ik nog eens terugkijk naar schilderes Brechtje Hendriks die vorige week een vraag stelde over het [gebruik van Pinterest en Instagram](https://web.archive.org/web/20130817163450/http://www.reputatiecoaching.nl:80/37/), kan ik me zo voorstellen dat zij bepaalde onderdelen van haar workshops online kan publiceren in artikelen, ondersteund met foto’s en video’s; bijvoorbeeld bepaalde verftechnieken.
 
 Om je op gang te brengen geef ik je hier een paar tips voor het schrijven van evergreen content:
 
@@ -74,7 +75,7 @@ Om je op gang te brengen geef ik je hier een paar tips voor het schrijven van ev
 
 Maar schrijf niet alleen maar tijdloze, groene content. Ook artikelen die extreem tijdsgevoelig zijn kunnen verkeer naar je site trekken en daarmee je bekendheid vergroten. Bovendien laat je daarmee zien dat je ook de actualiteit volgt en op de hoogte bent van wat er speelt in jouw vakgebied.
 
-Op de site “moz.com” staat een interessant artikel uit 2012, dat verder ingaat op “evergreen content”. In dit artikel met de titel “[The True Power of Evergreen Content - A Case Study](https://moz.com/blog/the-true-power-of-evergreen-content-a-case-study)” beschrijft Nick Eubanks heel goed wat evergreen content allemaal voor jouw site kan betekenen. In de show notes op [www.reputatiecoaching.nl/38](https://www.reputatiecoaching.nl/38) vind je niet alleen zoals altijd de transcriptie van deze podcast, maar ook de links naar alle artikelen die ik heb gebruikt bij het samenstellen van deze podcast.
+Op de site “moz.com” staat een interessant artikel uit 2012, dat verder ingaat op “evergreen content”. In dit artikel met de titel “[The True Power of Evergreen Content - A Case Study](https://moz.com/blog/the-true-power-of-evergreen-content-a-case-study)” beschrijft Nick Eubanks heel goed wat evergreen content allemaal voor jouw site kan betekenen. In de show notes op [www.reputatiecoaching.nl/38](https://web.archive.org/web/20150312093102/http://www.reputatiecoaching.nl/38/) vind je niet alleen zoals altijd de transcriptie van deze podcast, maar ook de links naar alle artikelen die ik heb gebruikt bij het samenstellen van deze podcast.
 
 En een fantastisch voorbeeld over hoe je evergreen content kunt gebruiken voor het groeien van je business kun je lezen op de site van [Marcus Sheridan](http://www.thesaleslion.com/), ook wel bekend als de “Sales Lion”. Zijn zwembadbedrijfje maakte een heel moeilijke tijd door, na het instorten van de onroerend goed markt in de VS in 2008.
 
@@ -102,7 +103,7 @@ Heb je er wel eens over nagedacht of je het erg vindt als je al deze foto’s in
 
 Dan ga ik nog een stap verder… Hoeveel foto’s heb je op je laptop of desktop computer staan? Heb je daar wel een backup van? Wordt het niet eens tijd dat goed in te regelen?
 
-Over dit laatste wil ik alleen maar zeggen: zorg ervoor dat je altijd een backup hebt van al je foto’s op een externe USB-harddisk. En maak gebruik van de [1 TB opslagcapaciteit](https://www.reputatiecoaching.nl/26/) die je GRATIS krijgt als je een account aanmaakt bij Flickr, zoals ik al in [podcast 26](https://www.reputatiecoaching.nl/26) meldde.
+Over dit laatste wil ik alleen maar zeggen: zorg ervoor dat je altijd een backup hebt van al je foto’s op een externe USB-harddisk. En maak gebruik van de [1 TB opslagcapaciteit](https://web.archive.org/web/20140312234217/http://www.reputatiecoaching.nl:80/26/) die je GRATIS krijgt als je een account aanmaakt bij Flickr, zoals ik al in [podcast 26](https://web.archive.org/web/20140312234217/http://www.reputatiecoaching.nl:80/26/) meldde.
 
 Ook al heb je dat allemaal gedaan, als je dan niet geregeld de foto’s van je smartphone downloadt op je computer en naar je USB-disk en Flickr stuurt, dan nóg loop je het risico dat je ofwel door verlies van je smartphone of door een technische storing de duizenden foto’s op je telefoon kwijtraakt.
 
@@ -185,7 +186,7 @@ Als jij in staat bent je beter te concentreren, komt dit je productiviteit ten g
 ## 5 tips voor beter scoren met YouTube video’s
 
 *Historische afbeelding niet beschikbaar: YouTube*
-Als laatste onderwerp voor vandaag heb ik vijf tips voor je, hoe je beter kunt scoren met je video’s op YouTube, als in Google. In [podcast 36](https://www.reputatiecoaching.nl/36/) vertelde ik je al hoe je een aantal video’s in één keer kunt uploaden zonder als spammer te worden gezien en gaf ik je een gouden tip voor het hoger scoren met video’s door een correcte ondertiteling bij elke video te uploaden.
+Als laatste onderwerp voor vandaag heb ik vijf tips voor je, hoe je beter kunt scoren met je video’s op YouTube, als in Google. In [podcast 36](https://web.archive.org/web/20150312093030/http://www.reputatiecoaching.nl/36/) vertelde ik je al hoe je een aantal video’s in één keer kunt uploaden zonder als spammer te worden gezien en gaf ik je een gouden tip voor het hoger scoren met video’s door een correcte ondertiteling bij elke video te uploaden.
 
 **1. Bestandsnaam en titel van je video**
 Goed scoren met video’s begint bij het begin. En het begin is de bestandsnaam die je aan je video geeft, in combinatie met de titel van je video. De bestandsnaam wordt namelijk door YouTube opgeslagen en kun je niet meer veranderen. Wel wordt die gebruikt bij het zoeken van video’s.
@@ -212,9 +213,9 @@ Met deze vijf tips om beter te worden gevonden met je video’s, kom ik dan weer
 
 Als je een vraag of een probleem hebt met betrekking tot je online reputatie of de vindbaarheid van je website, kun je een mailtje sturen naar [podcast@reputatiecoaching.nl](mailto:podcast@reputatiecoaching.nl). Als je dat te lastig vindt, of als je de podcast beluistert terwijl je in de auto zit en je hebt acuut een vraag, spreek dan een boodschap in op de ReputatieCoaching Hotline, op nummer: 084 - 883 15 56. Mogelijk behandel ik je vraag of probleem dan in een artikel of in de podcast.
 
-Als laatste kun je je ook inschrijven voor de nieuwsbrief. Dan ontvang je altijd als eerste het laatste nieuws wat ik publiceer en automatisch elk kwartaal het ReputatieCoaching Podcast Boek van het afgelopen kwartaal. Surf daartoe naar [www.reputatiecoaching.nl/nieuwsbrief](https://www.reputatiecoaching.nl/nieuwsbrief) en schrijf je meteen in.
+Als laatste kun je je ook inschrijven voor de nieuwsbrief. Dan ontvang je altijd als eerste het laatste nieuws wat ik publiceer en automatisch elk kwartaal het ReputatieCoaching Podcast Boek van het afgelopen kwartaal. Surf daartoe naar [www.reputatiecoaching.nl/nieuwsbrief](https://web.archive.org/web/20131205063155/http://www.reputatiecoaching.nl/nieuwsbrief/) en schrijf je meteen in.
 
-En je kunt rechtstreeks op de website een voicemail achterlaten, door op de tab aan de rechterkant van elke pagina te klikken, en je bericht in te spreken. Dit was [ReputatieCoaching Podast aflevering 38](https://www.reputatiecoaching.nl/38) en mijn naam is [Eduard de Boer](http://nl.linkedin.com/in/eduarddeboer).
+En je kunt rechtstreeks op de website een voicemail achterlaten, door op de tab aan de rechterkant van elke pagina te klikken, en je bericht in te spreken. Dit was [ReputatieCoaching Podast aflevering 38](https://web.archive.org/web/20150312093102/http://www.reputatiecoaching.nl/38/) en mijn naam is [Eduard de Boer](http://nl.linkedin.com/in/eduarddeboer).
 
 Let wel, ik ben tot en met eind augustus op vakantie, dus ik kan mogelijk niet zo snel reageren op je berichten. Wel doe ik mijn best om af en toe de mail te checken.
 
@@ -232,5 +233,5 @@ Doei!
   * “[7 Ways To Beat Distraction and Improve Concentration](http://sidsavara.com/personal-development/improve-concentration-distraction-free-work-environment)” (Sid Savara)
   * “[The True Power of Evergreen Content - A Case Study](https://moz.com/blog/the-true-power-of-evergreen-content-a-case-study)” (moz.com, 14 september 2012)
   * “[Blogging for Business: How Content Can Improve Your Sales](http://www.socialmediaexaminer.com/blogging-for-business-how-content-can-improve-your-sales/)” (Social Media Examiner” (21 september 2012)
-  * “[How To Optimise YouTube Videos – 5 Top Tips](http://www.hallaminternet.com/2013/business-benefit-youtube-part-2/)” (Hallam Internet, 12 augustus 2013)[/info_box]
+  * “[How To Optimise YouTube Videos – 5 Top Tips](https://web.archive.org/web/20130819232316/http://www.hallaminternet.com:80/2013/business-benefit-youtube-part-2/)” (Hallam Internet, 12 augustus 2013)[/info_box]
 ```
