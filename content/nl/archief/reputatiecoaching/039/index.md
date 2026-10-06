@@ -3,6 +3,7 @@ title: '39: Reviews kopen? Effect van "Tweet old Post", lokale ranking factoren,
 date: '2013-08-26T06:30:33+00:00'
 description: Ik ben op dit moment nog steeds op vakantie. Inmiddels is dit de laatste week en volgende week maandag heb ik weer al het nieuws doorgespit om je bij te kunnen praten over de laatste ontwikkelingen op het gebied van lokale SEO, content en video marketing en reputatiemanagement. Evenals de podcast van vorige week heb ik ook deze podcast vóór onze vakantie ingesproken en ook nu breng ik je een paar nieuwtjes en wetenswaardigheden, in combinatie met wat evergreen content.
 episode: 39
+kgRef: podcast_episode/reputatiecoaching_039
 historical: true
 archivePeriod: 2012–2016
 transcriptStatus: full
@@ -34,7 +35,7 @@ Evenals de podcast van vorige week heb ik ook deze podcast vóór onze vakantie 
 
 Voordat ik overga op de onderwerpen van vandaag wil ik nog even terugkomen op de podcast van vorige week. Daarin had ik het over evergreen content. Heb jij al eens nagedacht over wat voor soort groene en bovenal tijdloze content jij kunt produceren voor jouw business?
 
-Neem gerust contact op, als je hier wat tips voor wilt hebben. Post een reactie onderaan de show notes van deze podcast, die je kunt vinden op [www.reputatiecoaching.nl/39](https://www.reputatiecoaching.nl/39), spreek een bericht in op de ReputatieCoaching Hotline op 084 - 883 15 56 of spreek een voicemail in door middel van de tab aan de rechterkant van de pagina op de site. Natuurlijk kun je ook een berichtje sturen naar [podcast@reputatiecoaching.nl](mailto:podcast@reputatiecoaching.nl).
+Neem gerust contact op, als je hier wat tips voor wilt hebben. Post een reactie onderaan de show notes van deze podcast, die je kunt vinden op [www.reputatiecoaching.nl/39](https://web.archive.org/web/20131023225914/http://www.reputatiecoaching.nl:80/39/), spreek een bericht in op de ReputatieCoaching Hotline op 084 - 883 15 56 of spreek een voicemail in door middel van de tab aan de rechterkant van de pagina op de site. Natuurlijk kun je ook een berichtje sturen naar [podcast@reputatiecoaching.nl](mailto:podcast@reputatiecoaching.nl).
 
 Vorige podcast had ik het ook over backups en voornamelijk het backuppen van de foto’s op je smartphone. Maar nu wil ik toch even een verhaal aanhalen over backups in het algemeen.
 
@@ -175,9 +176,9 @@ Op de videomarketing tips van vorige week heb ik dan ook meteen een aanvulling�
 
 ## Het effect van de WordPress plugin “Tweet old Post”
 
-Laatst heb ik in [podcast 29](https://www.reputatiecoaching.nl/29/) beloofd na een tijdje terug te komen op het effect van de plugin “[Tweet Old Post](https://wordpress.org/plugins/tweet-old-post/)”. Welnu, deze podcast lijkt me een mooi moment, want dat is al weer een goede 10 weken (ofwel tweeeneenhalve maand) geleden.
+Laatst heb ik in podcast 29 beloofd na een tijdje terug te komen op het effect van de plugin “[Tweet Old Post](https://wordpress.org/plugins/tweet-old-post/)”. Welnu, deze podcast lijkt me een mooi moment, want dat is al weer een goede 10 weken (ofwel tweeeneenhalve maand) geleden.
 
-Ik zal je nu daar alles over uit de doeken doen. Allereerst: welke site was het? Omdat ik de meting niet wilde verstoren heb ik dat stil gehouden, maar nu zal ik je het vertellen. Het is een site die ik ooit hebt gemaakt om mogelijk extra verkeer te genereren voor de trouwreportages van [Allround Fotografie](http://www.allround-fotografie.com/bruidsreportage/), te weten: [www.trouwdag-tips.info](http://www.trouwdag-tips.info).
+Ik zal je nu daar alles over uit de doeken doen. Allereerst: welke site was het? Omdat ik de meting niet wilde verstoren heb ik dat stil gehouden, maar nu zal ik je het vertellen. Het is een site die ik ooit hebt gemaakt om mogelijk extra verkeer te genereren voor de trouwreportages van [Allround Fotografie](http://www.allround-fotografie.com/bruidsreportage/), te weten: [www.trouwdag-tips.info](https://web.archive.org/web/20130522092639/http://www.trouwdag-tips.info:80/).
 
 Lange tijd heb ik daar zelf artikelen op geschreven, leuke artikelen door anderen op laten publiceren en links naar andere artikelen op Internet geplaatst. Maar de site was op sterven na dood, omdat ik door al mijn andere activiteiten daar geen tijd meer voor had. Het enige wat ik af en toe nog deed, was verzamelingen met links naar leuke artikelen posten. Dat proces had ik dermate vereenvoudigd, dat het mij dagelijks een paar minuten kostte om een paar links te verzamelen en te publiceren.
 
@@ -221,9 +222,9 @@ Hiermee kom ik dan weer aan het einde van de podcast van vandaag. Als je de podc
 
 Als je een vraag of een probleem hebt met betrekking tot je online reputatie of de vindbaarheid van je website, kun je een mailtje sturen naar [podcast@reputatiecoaching.nl](mailto:podcast@reputatiecoaching.nl). Als je dat te lastig vindt, of als je de podcast beluistert terwijl je in de auto zit en je hebt acuut een vraag, spreek dan een boodschap in op de ReputatieCoaching Hotline, op nummer: 084 - 883 15 56. Mogelijk behandel ik je vraag of probleem dan in een artikel of in de podcast.
 
-Als laatste kun je je ook inschrijven voor de nieuwsbrief. Dan ontvang je altijd als eerste het laatste nieuws wat ik publiceer en automatisch elk kwartaal het ReputatieCoaching Podcast Boek van het afgelopen kwartaal. Surf daartoe naar [www.reputatiecoaching.nl/nieuwsbrief](https://www.reputatiecoaching.nl/nieuwsbrief) en schrijf je meteen in.
+Als laatste kun je je ook inschrijven voor de nieuwsbrief. Dan ontvang je altijd als eerste het laatste nieuws wat ik publiceer en automatisch elk kwartaal het ReputatieCoaching Podcast Boek van het afgelopen kwartaal. Surf daartoe naar [www.reputatiecoaching.nl/nieuwsbrief](https://web.archive.org/web/20131205063155/http://www.reputatiecoaching.nl/nieuwsbrief/) en schrijf je meteen in.
 
-En je kunt rechtstreeks op de website een voicemail achterlaten, door op de tab aan de rechterkant van elke pagina te klikken, en je bericht in te spreken. Dit was [ReputatieCoaching Podast aflevering 39](https://www.reputatiecoaching.nl/39) en mijn naam is [Eduard de Boer](http://nl.linkedin.com/in/eduarddeboer).
+En je kunt rechtstreeks op de website een voicemail achterlaten, door op de tab aan de rechterkant van elke pagina te klikken, en je bericht in te spreken. Dit was [ReputatieCoaching Podast aflevering 39](https://web.archive.org/web/20131023225914/http://www.reputatiecoaching.nl:80/39/) en mijn naam is [Eduard de Boer](http://nl.linkedin.com/in/eduarddeboer).
 
 Let wel, ik ben tot en met eind augustus op vakantie, dus ik kan mogelijk niet zo snel reageren op je berichten. Wel doe ik mijn best om af en toe de mail te checken.
 
