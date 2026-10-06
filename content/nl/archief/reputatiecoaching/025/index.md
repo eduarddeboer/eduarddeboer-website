@@ -92,7 +92,7 @@ Letterlijk zegt hij daar:
 
 Let wel: hij zegt hiermee niets over Google Authorship, maar als Google Authorship op dit moment nog niet echt wordt gebruikt in het bepalen van de zoekresultaten, dan kun je op basis van deze informatie verwachten dat dit ook binnen afzienbare tijd zal komen. Reden temeer om nu toch echt jezelf aan te melden bij Google+ en Google Authorship in te stellen voor jouw site of websites.
 
-Als je je dan toch hebt aangemeld voor Google+ ga dan ook even naar www.reputatiecoaching.nl/gplus en voeg ons toe aan je kringen. Vergeet dan ook niet om meteen een “+1” te geven!
+Als je je dan toch hebt aangemeld voor Google+ ga dan ook even naar [www.reputatiecoaching.nl/gplus](https://www.google.com/maps?cid=4978892197645719955) en voeg ons toe aan je kringen. Vergeet dan ook niet om meteen een “+1” te geven!
 
 ## Google+ is veranderd
 

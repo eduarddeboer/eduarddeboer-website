@@ -109,9 +109,9 @@ Zowel op de website, als in de podcast heb ik al een aantal keren gerefereerd aa
 
 *Dit was best een lang interview, daarom bewaar ik een aantal tips die ik deze week weer links en rechts ontdekte, voor de volgende podcast.*
 
-*Nu ik het toch even over de podcast heb: als je deze podcast leuk vindt, laat het me dan weten. Vertel erover aan je familie, vrienden of collega’s of laat een review achter op iTunes. Ook stel ik het op prijs als je een bericht achterlaat op onze Facebookpagina, op: www.reputatiecoaching.nl/facebook. Like dit artikel, of klik op “+1” onderaan dit artikel. Je mag ook een bericht achterlaten op de Google+ pagina. De Google+ pagina kun je vinden op: www.reputatiecoaching.nl/gplus (dat is “g-p-l-u-s”).*
+*Nu ik het toch even over de podcast heb: als je deze podcast leuk vindt, laat het me dan weten. Vertel erover aan je familie, vrienden of collega’s of laat een review achter op iTunes. Ook stel ik het op prijs als je een bericht achterlaat op onze Facebookpagina, op: [www.reputatiecoaching.nl/facebook](https://www.facebook.com/reputatiecoaching/). Like dit artikel, of klik op “+1” onderaan dit artikel. Je mag ook een bericht achterlaten op de Google+ pagina. De Google+ pagina kun je vinden op: [www.reputatiecoaching.nl/gplus](https://www.google.com/maps?cid=4978892197645719955) (dat is “g-p-l-u-s”).*
 
-*Je kunt natuurlijk ook een leuke recensie achterlaten op op mijn LinkedIn-profiel, op: www.reputatiecoaching.nl/linkedin.*
+*Je kunt natuurlijk ook een leuke recensie achterlaten op op mijn LinkedIn-profiel, op: [www.reputatiecoaching.nl/linkedin](https://www.linkedin.com/in/eduarddeboer/nl).*
 
 *Of post ook simpelweg een reactie, onderaan de transcriptie van deze podcast.*
 

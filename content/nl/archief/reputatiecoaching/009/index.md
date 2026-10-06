@@ -36,7 +36,7 @@ De onderwerpen die ik in deze negende podcast voor je heb: als eerste een tip ui
 
 *En de podcast sluit ik af met een stukje over mijn social engagement (ofwel mijn betrokkenheid in de sociale media) in relatie tot iets wat vanwege mijn achtergrond nog steeds mijn interesse heeft: fotografie.*
 
-*Maar eerst: je kunt helpen met het promoten van de ReputatieCoaching Podcast. Als je wat hebt aan de informatie en je vind het leuk om naar de podcast te luisteren, laat dan bijvoorbeeld een recensie achter in iTunes, of op Google+. Je kunt onze Google+ pagina vinden op: www.reputatiecoaching.nl/gplus (dat mag zowel g-p-l-u-s zijn als de letter “g” met een plustekentje). Ook kun je een bericht achterlaten op onze Facebookpagina, die je kunt vinden op: www.reputatiecoaching.nl/facebook*
+*Maar eerst: je kunt helpen met het promoten van de ReputatieCoaching Podcast. Als je wat hebt aan de informatie en je vind het leuk om naar de podcast te luisteren, laat dan bijvoorbeeld een recensie achter in iTunes, of op Google+. Je kunt onze Google+ pagina vinden op: [www.reputatiecoaching.nl/gplus](https://www.google.com/maps?cid=4978892197645719955) (dat mag zowel g-p-l-u-s zijn als de letter “g” met een plustekentje). Ook kun je een bericht achterlaten op onze Facebookpagina, die je kunt vinden op: [www.reputatiecoaching.nl/facebook](https://www.facebook.com/reputatiecoaching/)*
 
 *Geef gerust een recensie. En als je opmerkingen hebt over deze podcast, laat die dan op de website onderaan de transcriptie achter. Je kunt de transcriptie van deze podcast snel online vinden door te surfen naar:[www.reputatiecoaching.nl/9](https://web.archive.org/web/20190718122217/https://www.reputatiecoaching.nl/9/) .*
 
@@ -48,7 +48,7 @@ De onderwerpen die ik in deze negende podcast voor je heb: als eerste een tip ui
 
 *Wat leren we hiervan? Je kunt dus best eens online een zeperd begaan, maar als je je achteraf realiseert dat je fout zit, geef het dan ruiterlijk toe en biedt in het openbaar je excuses aan. Deze publiekelijke knieval kan best even pijn doen, maar helpt vaak de aangerichte schade te beperken. En als je geluk hebt, zoals in dit verhaal, dan wordt je excuuspost zelfs nog aangehaald als lichtend voorbeeld!*
 
-*In podcast 7 vertelde ik je over de offerte die ik moest uitbrengen voor het verbeteren van de reputatie van een bedrijventerrein waar geesten zouden huizen. Die offerte is inmiddels de deur uit. Zodra ik meer kan en mag vertellen over deze spokenjacht, zal ik dat zeker doen.*
+*In [podcast 7](/nl/archief/reputatiecoaching/007/) vertelde ik je over de offerte die ik moest uitbrengen voor het verbeteren van de reputatie van een bedrijventerrein waar geesten zouden huizen. Die offerte is inmiddels de deur uit. Zodra ik meer kan en mag vertellen over deze spokenjacht, zal ik dat zeker doen.*
 \_ Maar ik ben niet de enige die op spokenjacht gaat. Ook Instagram (dat, zoals je mogelijk weet eigendom is van Facebook) is ook op spokenjacht, las ik van het weekend op NU.nl. Maar dan naar zogenaamde “spook-accounts”. Hoewel het altijd een sterk punt was van Instagram, dat mensen anoniem zich konden aanmelden, hebben ze nu hun beleid aangepast. Om je aan te melden moet je tegenwoordig een identiteitsbewijs overleggen.\_
 
 *En nu ik het toch over Instagram heb: wat gebruik jij het meest voor promotie van jouw beeldmateriaal: Instagram of Pinterest?*
@@ -94,11 +94,11 @@ De onderwerpen die ik in deze negende podcast voor je heb: als eerste een tip ui
 
 *Ook is er nog een drietal security issues opgelost, waar ik niet te diep op wil ingaan omdat het dan wel erg technisch wordt.*
 
-*Zoals ik vertelde in podcast 7 had ik ook het probleem dat stukken HTML-code verdwenen als ik een blogbericht met video vooraf agendeerde om op een bepaalde dag/tijd online te komen. Dit probleem is gelukkig opgelost.*
+*Zoals ik vertelde in [podcast 7](/nl/archief/reputatiecoaching/007/) had ik ook het probleem dat stukken HTML-code verdwenen als ik een blogbericht met video vooraf agendeerde om op een bepaalde dag/tijd online te komen. Dit probleem is gelukkig opgelost.*
 
-*Mede vanwege de gefixte beveiligingsissues, raad ik je aan zo snel mogelijk deze update door te voeren. Vergeet -zoals altijd- niet eerst een backup te maken van je WordPress blog en je database. Je kunt gemakkelijk een volledige backup maken van de actuele versie van je volledige weblog in je Dropbox drive door gebruik te maken van BackWPup, een gratis plugin die ik al eens eerder heb aanbevolen.*
+*Mede vanwege de gefixte beveiligingsissues, raad ik je aan zo snel mogelijk deze update door te voeren. Vergeet -zoals altijd- niet eerst een backup te maken van je WordPress blog en je database. Je kunt gemakkelijk een volledige backup maken van de actuele versie van je volledige weblog in je [Dropbox](https://www.dropbox.com/) drive door gebruik te maken van [BackWPup](https://nl.wordpress.org/plugins/backwpup/), een gratis plugin die ik al eens eerder heb aanbevolen.*
 
-*Nadat ik de WordPress software van dit weblog had aangepast, kreeg ik ook twee plugin-updates. Eentje vind ik wel even aardig om te noemen, namelijk de Blubrry PowerPress plugin. Deze plugin zal veel mensen niets zeggen, maar dankzij die gratis plugin kan ik gemakkelijk en snel de audiobestanden linken aan de blogberichten en multimedia RSS feeds maken van de podcasts die ik dan vervolgens kan aanbieden aan bijvoorbeeld iTunes.*
+*Nadat ik de WordPress software van dit weblog had aangepast, kreeg ik ook twee plugin-updates. Eentje vind ik wel even aardig om te noemen, namelijk de [Blubrry PowerPress](https://nl.wordpress.org/plugins/powerpress/) plugin. Deze plugin zal veel mensen niets zeggen, maar dankzij die gratis plugin kan ik gemakkelijk en snel de audiobestanden linken aan de blogberichten en multimedia RSS feeds maken van de podcasts die ik dan vervolgens kan aanbieden aan bijvoorbeeld iTunes.*
 
 *Het ging over een nogal ernstig probleem met de 1 Pixel Out Audio Player. Door een lek kunnen kwaadwillende gebruikers vervelende dingen doen op je site. Ik gebruik die gelukkig niet op mijn site, dus ik loop verder geen risico. Maar voor het geval je zelf ook podcast, wilde ik je dit toch even melden.*
 
@@ -109,7 +109,7 @@ De onderwerpen die ik in deze negende podcast voor je heb: als eerste een tip ui
 
 *Dan heb ik goed nieuws voor je: sinds vorige week heeft Google+ een verbeterde manier om je pagina’s te beheren. Deze kun je vinden op: <https://plus.google.com/dashboard> . Natuurlijk staat deze link ook weer in de show notes.*
 
-*Je leest het overal en ook ik kan er niet genoeg op hameren: kies voor al je online diensten een ander -complex- wachtwoord en sla deze ergens veilig op, bijvoorbeeld met behulp van KeePass of  LastPass, in combinatie met een Yubikey. Hoe dat precies in z’n werk gaat wil ik hier nu even niet op ingaan. Ik wil je vertellen van iets wat iemand van de Engelse BBC is overkomen. Ik hoop dat dit je aan het denken zet over je eigen beveiligingsmaatregelen.*
+*Je leest het overal en ook ik kan er niet genoeg op hameren: kies voor al je online diensten een ander -complex- wachtwoord en sla deze ergens veilig op, bijvoorbeeld met behulp van [KeePass](https://keepass.info/) of  [LastPass](https://www.lastpass.com/nl), in combinatie met een [Yubikey](https://www.yubico.com/). Hoe dat precies in z’n werk gaat wil ik hier nu even niet op ingaan. Ik wil je vertellen van iets wat iemand van de Engelse BBC is overkomen. Ik hoop dat dit je aan het denken zet over je eigen beveiligingsmaatregelen.*
 \_ Ik heb een link naar het volledige verhaal opgenomen in de show notes, maar in het kort komt het hier op neer…\_
 
 *Terwijl Ed Stourton van de BBC staat te wachten op de metro in London, leest hij in de krant dat hij in de Filippijnen zou zijn beroofd door gewapende criminelen.*

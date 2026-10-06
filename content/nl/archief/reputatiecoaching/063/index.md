@@ -1,7 +1,7 @@
 ---
 title: '63: #SMC055, win een taart, vragen van luisteraars en over de juiste Google+ categorie voor een begrafenisondernemer'
 date: '2014-02-10T07:30:11+00:00'
-description: Oh, voordat ik overga op de daadwerkelijke podcast van vandaag, eerst eventjes mijn excuses voor de mindere geluidskwaliteit van de podcast van vorige week. Er was iets fout gegaan met de instellingen ergens en ik had het al wel in de gaten dat het niet helemaal lekker klonk, zoals het normaal klinkt. Maar als gevolg van tijdgebrek, omdat ik toch de podcast op maandagmorgen om 08:30 uur wilde uitbrengen, kon ik de juiste instellingen niet zo 1–2–3 terugvinden.
+description: Oh, voordat ik overga op de daadwerkelijke podcast van vandaag, eerst eventjes mijn excuses voor de mindere geluidskwaliteit van de [podcast van vorige week](/nl/archief/reputatiecoaching/062/). Er was iets fout gegaan met de instellingen ergens en ik had het al wel in de gaten dat het niet helemaal lekker klonk, zoals het normaal klinkt. Maar als gevolg van tijdgebrek, omdat ik toch de podcast op maandagmorgen om 08:30 uur wilde uitbrengen, kon ik de juiste instellingen niet zo 1–2–3 terugvinden.
 episode: 63
 kgRef: podcast_episode/reputatiecoaching_063
 historical: true
@@ -23,9 +23,9 @@ showTaxonomies: false
 **Transcriptiestatus:** Volledige transcriptie uit het oorspronkelijke archief.
 
 ***Historische afbeelding niet beschikbaar: ReputatieCoaching Podcast*
-Oh, voordat ik overga op de daadwerkelijke podcast van vandaag, eerst eventjes mijn excuses voor de mindere geluidskwaliteit van de podcast van vorige week. Er was iets fout gegaan met de instellingen ergens en ik had het al wel in de gaten dat het niet helemaal lekker klonk, zoals het normaal klinkt. Maar als gevolg van tijdgebrek, omdat ik toch de podcast op maandagmorgen om 08:30 uur wilde uitbrengen, kon ik de juiste instellingen niet zo 1–2–3 terugvinden. Ik denk dat ik zometeen na afloop van deze podcast eerst maar eens foto’s maak van alle knoppen, zodat ik de knoppen snel weer goed kan zetten, als een kat hier op kantoor heeft zitten spelen. Als het goed is zijn de instellingen nu weer zoals vanouds en moet de podcast dus weer beter klinken.**
+Oh, voordat ik overga op de daadwerkelijke podcast van vandaag, eerst eventjes mijn excuses voor de mindere geluidskwaliteit van de [podcast van vorige week](/nl/archief/reputatiecoaching/062/). Er was iets fout gegaan met de instellingen ergens en ik had het al wel in de gaten dat het niet helemaal lekker klonk, zoals het normaal klinkt. Maar als gevolg van tijdgebrek, omdat ik toch de podcast op maandagmorgen om 08:30 uur wilde uitbrengen, kon ik de juiste instellingen niet zo 1–2–3 terugvinden. Ik denk dat ik zometeen na afloop van deze podcast eerst maar eens foto’s maak van alle knoppen, zodat ik de knoppen snel weer goed kan zetten, als een kat hier op kantoor heeft zitten spelen. Als het goed is zijn de instellingen nu weer zoals vanouds en moet de podcast dus weer beter klinken.**
 
-**Eens even denken, waar zal ik vandaag mee beginnen? Voor het geval je de podcast van vorige week hebt gemist, begin ik vandaag met een korte samenvatting van de podcast van vorige week en de artikelen die ik deze week heb gepubliceerd.**
+**Eens even denken, waar zal ik vandaag mee beginnen? Voor het geval je de [podcast van vorige week](/nl/archief/reputatiecoaching/062/) hebt gemist, begin ik vandaag met een korte samenvatting van de [podcast van vorige week](/nl/archief/reputatiecoaching/062/) en de artikelen die ik deze week heb gepubliceerd.**
 
 **Daarna: zo’n anderhalve week geleden ontving ik een vraag van een luisteraar over welke categorie hij moest kiezen voor een Google+ pagina; hij kon namelijk geen geschikte categorie vinden.**
 
@@ -43,7 +43,7 @@ Mocht je de podcast in een andere podcatcher of podcastplayer willen beluisteren
 
 ## Terugblik podcast 62
 
-Voordat ik overga op de onderwerpen van vandaag even een korte terugblik naar de uitzending van vorige week: ReputatieCoaching Podcast nummer 62. Daarin vertelde ik je over de Rabobank Reputatiemanager die nog niet goed ingewerkt leek, omdat hij schitterde door afwezigheid in het nieuwsvacuüm, dat ontstond nadat de Rabobank vrijdagavond om 19:30 aankondigde nog eens zo’n 1.000 tot 2.000 werknemers te ontslaan.
+Voordat ik overga op de onderwerpen van vandaag even een korte terugblik naar de uitzending van vorige week: [ReputatieCoaching Podcast nummer 62](/nl/archief/reputatiecoaching/062/). Daarin vertelde ik je over de Rabobank Reputatiemanager die nog niet goed ingewerkt leek, omdat hij schitterde door afwezigheid in het nieuwsvacuüm, dat ontstond nadat de Rabobank vrijdagavond om 19:30 aankondigde nog eens zo’n 1.000 tot 2.000 werknemers te ontslaan.
 
 Omdat ik gewoon content online wilde laten verschijnen tijdens mijn vakantie had ik een heleboel voorbereid en in de vorige podcast deelde ik wat statistieken over het resultaat van mijn inspanningen.
 

@@ -1,5 +1,5 @@
 ---
-title: '110: Garagareviews en webinar over reviews. Webinar Ignition functioneert bijna goed. Originele bronnen voor recensies en introductie van Trello.'
+title: '110: Garagareviews en webinar over reviews. [Webinar Ignition](https://webinarignition.com/) functioneert bijna goed. Originele bronnen voor recensies en introductie van Trello.'
 date: '2015-01-08T07:30:18+00:00'
 description: Zelfs ik heb wel eens een pech-gevalletje, waardoor WordPress mij buitensluit en dus niet meer toelaat. Ik vertel je er zo meer over. Sinds april vorig jaar biedt de ANWB de reviewservice voor garages, onder de welluidende naam “garagereviews”. Leeft dit een beetje bij autogarages? Ik vertel het na mijn probleem met WordPress. Van Martin kreeg ik de vraag hoe een persoonlijk Google+ profiel hoger kan scoren dan een bedrijfspagina, dus daar ga ik op in en ook op het webinar dat ik gisteravond organiseerde over “reviews”, gevolgd door een aantal tips voor originele bronnen om reviews te vinden zonder ze te hoeven vragen.
 episode: 110

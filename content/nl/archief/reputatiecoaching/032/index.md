@@ -103,7 +103,7 @@ Wat ik verder een hele nuttige en bruikbare functionaliteit vind op Google+, zij
 
 Als laatste over Google+: een paar dagen geleden is Google+ 2 jaar geworden. Ter gelegenheid daarvan hebben ze nieuwe follow buttons voor personen en badges voor communities beschikbaar gesteld. Een andere vernieuwing die Google+ heeft doorgevoerd heeft betrekking op het gebruik van foto’s in Google+. Zo is er een nieuwe manier om foto’s tussen albums te verplaatsen, kun je geselecteerde foto’s gemakkelijk downloaden en is het uploaden van foto’s van je computer naar Google+ versneld.
 
-Volgens mij moet dit bij elkaar voor jou nu voldoende reden zijn om nu toch te beginnen met Google+. Als je je dan hebt aangemeld, volg dan ook de Google pagina voor ReputatieCoaching, die je kunt vinden op www.reputatiecoaching.nl/gplus (dat is: “g-p-l-u-s”).
+Volgens mij moet dit bij elkaar voor jou nu voldoende reden zijn om nu toch te beginnen met Google+. Als je je dan hebt aangemeld, volg dan ook de Google pagina voor ReputatieCoaching, die je kunt vinden op [www.reputatiecoaching.nl/gplus](https://www.google.com/maps?cid=4978892197645719955) (dat is: “g-p-l-u-s”).
 
 ### Zijn reviews op Google+ relevant voor je ranking?
 

@@ -31,7 +31,9 @@ Eerder deze week was er een storing bij Antagonist, mijn webhoster. Die was echt
 
 Studenten van de Universiteit van Tilburg hebben mijn hulp en medewerking gevraagd bij een workshop over reputatiemanagement, in december.
 
-*Historische afbeelding niet beschikbaar: 20151112-Lokale-Gidsen-punten*Hotels en restaurants in het buitenland kunnen nog wel wat aan hun exposure doen. Naar aanleiding van onze vakantie in Gambia heb ik een Nederlandse ondernemer aldaar wat tips gestuurd.
+![Google Lokale Gidsen punten](20151112-Lokale-Gidsen-punten.png)
+
+Hotels en restaurants in het buitenland kunnen nog wel wat aan hun exposure doen. Naar aanleiding van onze vakantie in Gambia heb ik een Nederlandse ondernemer aldaar wat tips gestuurd.
 
 En als we het dan hebben over bedrijven op de kaart zetten, dan kom je ook zo op het Lokale Gidsen-programma van Google. Dat heeft Google begin dit jaar gestart. Inmiddels is het programma iets aangepast en uitgebreid. Ik zit op niveau 4… Dat was het hoogste niveau, maar nu is er ook een niveau 5 bij gekomen.
 

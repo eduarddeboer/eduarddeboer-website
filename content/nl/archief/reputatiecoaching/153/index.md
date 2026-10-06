@@ -50,7 +50,7 @@ Hieronder een samenvatting van de onderwerpen die in deze podcast aan bod komen:
     11. **Google Maps op iOS stelt vragen over lokale restaurants** – Ik was het nog niet eerder tegengekomen, maar opeens kreeg ik allerhande vragen over restaurants van Google.
 ```
 
-\*\* Vragen over lokale restaurants in Google Maps op iOS \*\* from **Eduard de Boer**
+\*\* [Vragen over lokale restaurants in Google Maps op iOS](https://web.archive.org/web/20160314212738/http://www.slideshare.net/ReputatieCoaching/vragen-over-lokale-restaurants-in-google-maps-op-ios) \*\* from **[Eduard de Boer](https://web.archive.org/web/20160322214551/http://www.slideshare.net:80/ReputatieCoaching/)**
 
 **Hoe vond je dit format? Mis je eigenlijk de volledige transcriptie?
 Laat het me weten onderaan de show notes van deze podcast.**

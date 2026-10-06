@@ -78,9 +78,9 @@ Vorige week had ik een leuk interview met Gé Bouma van Bouma Webteksten. Zij he
 
 *Je kunt de transcriptie met de show notes van deze podcast vinden, door te surfen naar: [www.reputatiecoaching.nl/19](https://web.archive.org/web/20131009022214/http://www.reputatiecoaching.nl:80/19/). Daar vind je dus zowel de tekst van de podcast als nog wat afbeeldingen, foto’s en de diverse links die in deze podcast aan bod komen.*
 
-*Nu ik het toch even over deze podcast heb: als je de podcast leuk vindt, laat het me dan weten. Vertel erover aan je vrienden of collega’s of laat een review achter op iTunes. Ook stel ik het op prijs als je een bericht achterlaat op onze Facebookpagina, op: www.reputatiecoaching.nl/facebook. Of geef een “+1” op Google+. De Google+ pagina kun je vinden op: www.reputatiecoaching.nl/gplus (dat is “g-p-l-u-s”).*
+*Nu ik het toch even over deze podcast heb: als je de podcast leuk vindt, laat het me dan weten. Vertel erover aan je vrienden of collega’s of laat een review achter op iTunes. Ook stel ik het op prijs als je een bericht achterlaat op onze Facebookpagina, op: [www.reputatiecoaching.nl/facebook](https://www.facebook.com/reputatiecoaching/). Of geef een “+1” op Google+. De Google+ pagina kun je vinden op: [www.reputatiecoaching.nl/gplus](https://www.google.com/maps?cid=4978892197645719955) (dat is “g-p-l-u-s”).*
 
-*Je kunt ook een leuke recensie achterlaten op op mijn LinkedIn-profiel, op: www.reputatiecoaching.nl/linkedin.*
+*Je kunt ook een leuke recensie achterlaten op op mijn LinkedIn-profiel, op: [www.reputatiecoaching.nl/linkedin](https://www.linkedin.com/in/eduarddeboer/nl).*
 
 *Natuurlijk kun je ook simpelweg een reactie posten, onderaan de transcriptie van deze podcast.*
 

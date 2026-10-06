@@ -71,7 +71,7 @@ Je bent natuurlijk weer nieuwsgierig naar de onderwerpen die ik vandaag voor je 
 
 *Als het echter te doel is om je klanten te behouden, doe dit alles dan vooral niet, Nee, dan moet je je klanten pamperen, koesteren, in de watten te leggen en je sociaal opstellen. Ofwel: wees een goed, gul, eerlijk en ethisch persoon! Als je dat combineert met goede content en je zorgt er ook voor dat je die content goed onder de aandacht brengt van de juiste doelgroep, dan positioneer je jezelf maximaal voor succes!*
 
-*Ik had het zojuist over sociale betrokkenheid bij je lezers en luisteraars. Als jij wat hebt aan de informatie en je vind het leuk om naar de podcast te luisteren, dan kun je een bericht achterlaten op onze Facebookpagina, op: www.reputatiecoaching.nl/facebook of op onze Google+ pagina, op: www.reputatiecoaching.nl/gplus (dat is dus g-p-l-u-s).*
+*Ik had het zojuist over sociale betrokkenheid bij je lezers en luisteraars. Als jij wat hebt aan de informatie en je vind het leuk om naar de podcast te luisteren, dan kun je een bericht achterlaten op onze Facebookpagina, op: [www.reputatiecoaching.nl/facebook](https://www.facebook.com/reputatiecoaching/) of op onze Google+ pagina, op: [www.reputatiecoaching.nl/gplus](https://www.google.com/maps?cid=4978892197645719955) (dat is dus g-p-l-u-s).*
 
 *Ga vandaag nog naar iTunes en maak een account aan, als je die nog niet hebt. Beoordeel dan deze podcast op iTunes en stuur een berichtje naar [podcast@reputatiecoaching.nl](mailto:podcast@reputatiecoaching.nl), dat je een recensie hebt gegeven. Zit je achter je computer en heb je Twitter of Tweetdeck of iets dergelijks geopend, stuur dan een tweet met je mening met hashtag “repcoach”, dus #repcoach erbij.*
 

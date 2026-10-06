@@ -80,7 +80,7 @@ De inhoud van de presentatie varieerde van het oppoetsen van je Google+ pagina t
 
 De presentatie kun je bekijken, want die heb ik op Slideshare geplaatst. Bovendien heb ik de presentatie ook opgenomen in de show notes:
 
-\*\* Hoe werf je als tandarts nieuwe patiënten online? \*\* from **Eduard de Boer**
+\*\* [Hoe werf je als tandarts nieuwe patiënten online?](https://web.archive.org/web/20230126131639/https://www.slideshare.net/ReputatieCoaching/hoe-werf-je-als-tandarts-nieuwe-patienten-online) \*\* from **[Eduard de Boer](https://web.archive.org/web/20160322214551/http://www.slideshare.net:80/ReputatieCoaching/)**
 
 Ik heb tijdens de presentatie de audio van mijn verhaal opgenomen, dus binnenkort kun je ook nog de slideshow met de voiceover tegemoet zien. Maar daar gaat altijd veel tijd in zitten, dus die laat nog even op zich wachten.
 

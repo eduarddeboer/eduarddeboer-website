@@ -31,7 +31,7 @@ Hallo en hartelijk welkom bij deze aflevering van de ReputatieCoaching Podcast. 
 
 Als persoon kun je met de diverse tips aan de slag om bijvoorbeeld je online reputatie als glaskunstenaar, edelsmid, dichter, milieuconsulent, voedingstechnoloog of wat dan ook te verbeteren.
 
-In deze podcast noem ik een aantal sites, video’s en verwijs ik naar verschillende artikelen. De links naar al deze content èn de volledige transcriptie van de podcast vind je op www.reputatiecoaching.nl/65. Je kunt de podcast niet alleen rechtstreeks beluisteren op [www.reputatiecoaching.nl](https://web.archive.org/web/20131209051301/http://www.reputatiecoaching.nl/), maar ook op zowel iTunes, als op Stitcher. Surf hiertoe respectievelijk naar www.reputatiecoaching.nl/itunes of naar www.reputatiecoaching.nl/stitcher.
+In deze podcast noem ik een aantal sites, video’s en verwijs ik naar verschillende artikelen. De links naar al deze content èn de volledige transcriptie van de podcast vind je op [www.reputatiecoaching.nl/65](/nl/archief/reputatiecoaching/065/). Je kunt de podcast niet alleen rechtstreeks beluisteren op [www.reputatiecoaching.nl](https://web.archive.org/web/20131209051301/http://www.reputatiecoaching.nl/), maar ook op zowel iTunes, als op Stitcher. Surf hiertoe respectievelijk naar www.reputatiecoaching.nl/itunes of naar www.reputatiecoaching.nl/stitcher.
 
 Mocht je de podcast in een andere podcatcher of podcastplayer willen beluisteren, dan kun je je op de feed [feeds.reputatiecoaching.nl/reputatiecoachingpodcast](https://web.archive.org/web/20131205064344/http://feeds.reputatiecoaching.nl/reputatiecoachingpodcast) abonneren. Al deze links vind je ook in de show notes van deze podcast, alsmede op de website.
 
@@ -82,7 +82,7 @@ Die kennis vergaren is vaak niet het probleem. De reden dat er werk is voor de m
 
 ICT-dienstverlener Ordina organiseert op 13 maart in Nieuwegein het “Ordina Glass Contest”. Zoals de titel al suggereert, speelt de Google Glass hier de hoofdrol in. Als je meer wilt weten over Google Glass of als je een goed idee hebt voor toepassingen van Google Glass in de praktijk, dan moet je je hier zeker voor inschrijven.
 
-In de show notes heb ik een link opgenomen naar de site van Ordina, waar je er meer over kunt lezen. Je vindt de show notes op www.reputatiecoaching.nl/65.
+In de show notes heb ik een link opgenomen naar de site van Ordina, waar je er meer over kunt lezen. Je vindt de show notes op [www.reputatiecoaching.nl/65](/nl/archief/reputatiecoaching/065/).
 
 Mijn rol bij de totstandkoming van deze video was vooral om te laten zien dat je met geringe middelen, namelijk een paar fotocamera’s met videomogelijkheid en een iPhone met daaraan de standaard headset en microfoon, toch een aardige video kunt maken.
 
@@ -153,11 +153,11 @@ Voor online opslag was daar altijd al SkyDrive en bij SkyDrive kreeg je 7 GB aan
 
 Het is een keuze, zeker als je al Google gebruikt. Toch kan het handig zijn: een extra virtuele online drive, waar je 15 GB aan data kunt parkeren. Al gebruik je het maar als tweede backup, naast bijvoorbeeld Flickr. Bij deze laatste krijg je nog steeds 1 TB aan capaciteit, daar kan geen andere service aan tippen. En mocht je nu ook je foto’s opslaan op Google Drive, dan kun je die dus weer vrijmaken voor andere doeleinden. Enfin, de mogelijkheden zijn legio!
 
-Gebruik jij eigenlijk ook online opslagmogelijkheden, zoals [Dropbox](http://dropbox.z1e.nl) of [SkyDrive of OneDrive](http://onedrive.z1e.nl)? Of gebruik jij wellicht andere diensten? En hoe of waarvoor? Laat het me weten onderaan de transcriptie van deze podcast, op www.reputatiecoaching.nl/65.
+Gebruik jij eigenlijk ook online opslagmogelijkheden, zoals [Dropbox](http://dropbox.z1e.nl) of [SkyDrive of OneDrive](http://onedrive.z1e.nl)? Of gebruik jij wellicht andere diensten? En hoe of waarvoor? Laat het me weten onderaan de transcriptie van deze podcast, op [www.reputatiecoaching.nl/65](/nl/archief/reputatiecoaching/065/).
 
 Zelf vind ik het in elk geval wel prettig dat ik twee plaatsen heb, waar alle foto’s die ik met m’n iPhone maak, worden opgeslagen. Zo raak ik in elk geval niet snel iets kwijt en dankzij alle opslagcapaciteit kan ik nog lange tijd doorgaan met het gratis backuppen van foto’s in de cloud.
 
-## BackWPup doet het weer: uit zichzelf!?
+## [BackWPup](https://nl.wordpress.org/plugins/backwpup/) doet het weer: uit zichzelf!?
 
 *Historische afbeelding niet beschikbaar: Waarom WordPress?*
 Nu ik het toch over backups heb…. [Vorige week](https://web.archive.org/web/20150312093837/http://www.reputatiecoaching.nl/64/) meldde ik je dat ik problemen had met de plugin BackWPup, die al geruime tijd geen backups meer maakte. Ik heb toen twee backupjobs handmatig opgestart en nu zag ik afgelopen weekend dat er inmiddels weer automatische databasebackups worden gemaakt.
@@ -174,7 +174,7 @@ Ik maak ook voor diverse websites gebruik van Amazon S3 in combinatie met Cloudf
 
 Daarnaast heb ik een Google Drive, van 125 GB. Ik gebruik Google Drive vaak voor de opslag van grote documenten, zoals manuals of e-books. Ook heb ik Google Drive nodig om alle foto’s van de Bedrijfspanorama’s te uploaden naar Google Maps.
 
-En per Google+ pagina krijg je ook nog eens opslagruimte om foto’s te uploaden. Zal ik je eens iets verklappen? Ik gebruik de opslagruimte die ik krijg bij de Google+ pagina van ReputatieCoaching als gratis Content Delivery Network (CDN) voor vrijwel alle afbeeldingen die ik op de website vertoon. Zo ontlast ik de webserver en ik vind het ook een interessant experiment. Wil je daar meer over weten hoe ik dat doe et cetera, reageer dan onderaan de show notes van deze podcast op www.reputatiecoaching.nl/65.
+En per Google+ pagina krijg je ook nog eens opslagruimte om foto’s te uploaden. Zal ik je eens iets verklappen? Ik gebruik de opslagruimte die ik krijg bij de Google+ pagina van ReputatieCoaching als gratis Content Delivery Network (CDN) voor vrijwel alle afbeeldingen die ik op de website vertoon. Zo ontlast ik de webserver en ik vind het ook een interessant experiment. Wil je daar meer over weten hoe ik dat doe et cetera, reageer dan onderaan de show notes van deze podcast op [www.reputatiecoaching.nl/65](/nl/archief/reputatiecoaching/065/).
 
 ## Hoe zien de zoekresultaten van Google eruit, zonder backlinks?
 
@@ -217,11 +217,11 @@ Met deze interessante video van Matt Cutts en de tips om te voorkomen dat mensen
 
 Als je de podcast leuk vindt en je hebt inderdaad wat aan alle informatie die ik met je deel, help mij dan met het verder verbeteren en promoten van deze podcast. Deel ‘m op Twitter, like ‘m op Facebook of geef een “+1” op Google+. Het zou helemaal super zijn, als je een bericht achterlaat op iTunes of LinkedIn.
 
-Als je een vraag of een probleem hebt met betrekking tot je online reputatie of de vindbaarheid van je website, kun je reageren onderaan de show notes op www.reputatiecoaching.nl/65 of je kunt een mailtje sturen naar [podcast@reputatiecoaching.nl](mailto:podcast@reputatiecoaching.nl).
+Als je een vraag of een probleem hebt met betrekking tot je online reputatie of de vindbaarheid van je website, kun je reageren onderaan de show notes op [www.reputatiecoaching.nl/65](/nl/archief/reputatiecoaching/065/) of je kunt een mailtje sturen naar [podcast@reputatiecoaching.nl](mailto:podcast@reputatiecoaching.nl).
 
 Als je dat te lastig vindt, of als je de podcast beluistert terwijl je in de auto zit en je hebt acuut een vraag, spreek dan een boodschap in op de ReputatieCoaching Hotline, op nummer: 084 - 883 15 56. Mogelijk behandel ik je vraag of probleem dan in een artikel of in de podcast.
 
-En je kunt ook rechtstreeks op de website een voicemail achterlaten, door op de tab aan de rechterkant van elke pagina te klikken, en je bericht in te spreken. Dit was ReputatieCoaching Podcast aflevering 65 en mijn naam is [Eduard de Boer](http://nl.linkedin.com/in/eduarddeboer/nl).
+En je kunt ook rechtstreeks op de website een voicemail achterlaten, door op de tab aan de rechterkant van elke pagina te klikken, en je bericht in te spreken. Dit was [ReputatieCoaching Podcast aflevering 65](/nl/archief/reputatiecoaching/065/) en mijn naam is [Eduard de Boer](http://nl.linkedin.com/in/eduarddeboer/nl).
 
 Ik wens je de komende week weer succes met het werken aan je reputatie, zodat je meteen je reputatie voor jou kunt laten werken!
 

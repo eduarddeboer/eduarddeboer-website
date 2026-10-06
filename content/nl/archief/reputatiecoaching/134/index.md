@@ -119,7 +119,7 @@ Geen zorg, ik laat je niet in de kou staan. Want je kunt nu online snel en simpe
 
 Overigens kan het consult zowel via Skype als in een Google Hangout, al naar gelang jouw voorkeur.
 
-Voor deze boekingsmodule maak ik gebruik van de service SimplyBook.me. Die dienst is gratis, als je minder dan 50 afspraken per maand hebt. Het ziet er mijns inziens goed uit en ik vind het leuk om eens ervaring met die service op te doen. De link die ik heb opgenomen in de show notes is overigens een affiliate link. Als je een betalende klant wordt, dan krijg ik een kleine vergoeding.
+Voor deze boekingsmodule maak ik gebruik van de service [SimplyBook.me](https://simplybook.me/nl/). Die dienst is gratis, als je minder dan 50 afspraken per maand hebt. Het ziet er mijns inziens goed uit en ik vind het leuk om eens ervaring met die service op te doen. De link die ik heb opgenomen in de show notes is overigens een affiliate link. Als je een betalende klant wordt, dan krijg ik een kleine vergoeding.
 
 Het mooie van SimplyBook.me is dat je het volledig kunt configureren naar je eigen behoefte. Zo kun je je werktijden opgeven en dagen of tijdslots blokkeren, bijvoorbeeld als je op vakantie bent. Ik ga graag op sommige dagen vroeg in de ochtend een aantal kilometers wandelen met de honden. Op die dagen heb ik dus de eerste paar uur van de ochtend geblokkeerd.
 

@@ -113,9 +113,9 @@ In de ReputatieCoaching Podcast heb ik tot en met vorige week altijd nieuws uit 
 
 > *Wat me leuk lijkt voor de luisteraars: heb je –nu we zo richting het einde van het interview lopen– nog één of twee tips voor de luisteraars, waarmee zij hun voordeel kunnen doen als het gaat om reactief reputatiemanagement?*
 
-*Vond je deze podcast leuk, laat het me dan weten. Je kunt een bericht achterlaten op onze Facebookpagina, op: www.reputatiecoaching.nl/facebook of op Google+. De Google+ pagina kun je vinden op: www.reputatiecoaching.nl/gplus (dat is “g-p-l-u-s”).*
+*Vond je deze podcast leuk, laat het me dan weten. Je kunt een bericht achterlaten op onze Facebookpagina, op: [www.reputatiecoaching.nl/facebook](https://www.facebook.com/reputatiecoaching/) of op Google+. De Google+ pagina kun je vinden op: [www.reputatiecoaching.nl/gplus](https://www.google.com/maps?cid=4978892197645719955) (dat is “g-p-l-u-s”).*
 
-*Geef een “Like” of “+1” op Google+, waardoor je laat weten dat je de content op prijs stelt. Of laat een leuke recensie achter op mijn LinkedIn-profiel, op: www.reputatiecoaching.nl/linkedin.*
+*Geef een “Like” of “+1” op Google+, waardoor je laat weten dat je de content op prijs stelt. Of laat een leuke recensie achter op mijn LinkedIn-profiel, op: [www.reputatiecoaching.nl/linkedin](https://www.linkedin.com/in/eduarddeboer/nl).*
 
 *Als je opmerkingen hebt over deze podcast, laat die dan op de website onderaan de transcriptie achter. Je kunt de transcriptie van deze podcast snel online vinden door te surfen naar: [www.reputatiecoaching.nl/podcast-18/](https://web.archive.org/web/20130422005725/http://www.reputatiecoaching.nl:80/podcast-18/). Als je ergens een recensie hebt geplaatst, stuur me dan een mailtje zodat ik je recensie kan vermelden in de podcast.*
 
