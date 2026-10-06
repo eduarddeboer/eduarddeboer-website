@@ -3,6 +3,7 @@ title: '143: Chantage met negatieve reviews, MapMaker geopend & Google patent vo
 date: '2015-08-27T06:30:25+00:00'
 description: '**** De podcast van vandaag begin ik met de vragen van twee luisteraars: de eigenaar van een dierenspeciaalzaak uit Apeldoorn en een tandtechnicus uit Kerkrade. Nu wordt er in Nederland ook gedreigd met negatieve reviews in ruil voor bijvoorbeeld korting of een kopje koffie. En dat neemt steeds grotere vormen aan! Google MapMaker is weer geopend voor wijzigingen en ik blik ook nog even terug op de Summer Citations Sequence van de afgelopen vijf weken.'
 episode: 143
+kgRef: podcast_episode/reputatiecoaching_143
 historical: true
 archivePeriod: 2012–2016
 transcriptStatus: full
@@ -34,7 +35,7 @@ showTaxonomies: false
 
 Hallo en hartelijk welkom bij deze aflevering van de ReputatieCoaching Podcast. Ik ben Eduard de Boer, ReputatieCoach. Dit is dé podcast die jou helpt om meer business te genereren, doordat jouw website beter gevonden wordt, zowel lokaal als landelijk en doordat ik je uitleg hoe je je online reputatie kunt verbeteren. Dit alles helpt je om je bedrijf en jezelf beter op de online kaart te plaatsen.
 
-De podcast kun je vinden op [www.reputatiecoaching.nl/143](https://www.reputatiecoaching.nl/143/). Daar vind je niet alleen de tekst, maar ook video’s waar ik het in deze uitzending over heb, alsmede afbeeldingen, links enzovoorts. Bovendien is de podcast te beluisteren in [iTunes](https://www.reputatiecoaching.nl/itunes), op [Stitcher](https://www.reputatiecoaching.nl/stitcher) en ook op [TuneIn Radio](http://tunein.com/radio/ReputatieCoaching-Podcast-p655084/). Ik raad je aan om je op één van die drie kanalen te abonneren op de podcast, zodat je geen aflevering hoeft te missen!
+De podcast kun je vinden op [www.reputatiecoaching.nl/143](https://web.archive.org/web/20190717190106/https://www.reputatiecoaching.nl/143/). Daar vind je niet alleen de tekst, maar ook video’s waar ik het in deze uitzending over heb, alsmede afbeeldingen, links enzovoorts. Bovendien is de podcast te beluisteren in iTunes, op Stitcher en ook op [TuneIn Radio](http://tunein.com/radio/ReputatieCoaching-Podcast-p655084/). Ik raad je aan om je op één van die drie kanalen te abonneren op de podcast, zodat je geen aflevering hoeft te missen!
 
 Laat ik dan nu overgaan op de onderwerpen voor vandaag…
 
@@ -74,7 +75,7 @@ Wat kunnen we hieruit leren? Volgens mij een paar belangrijke punten:
 
 ```
   1. Zelfs in deze moderne tijd van Internet, mail en dergelijke is het vermelden van een verkeerd telefoonnummer nog steeds een business-killer. Helemaal voor Nico, vanwege het grote percentage aparte dieren dat hij verkoopt. Veel mensen willen daarover toch liever iemand spreken, dan een antwoordje per mail ontvangen.
-  2. Onderschat niet het aantal vermeldingen dat er van je bedrijf te vinden is, dat tegen je kan werken als de gegevens inconsistent zijn. Een deel zal ooit wel aangemaakt zijn door Nico of een voortvarende medewerker, maar een deel wordt ook gewoon automatisch aangemaakt, simpelweg doordat je een [inschrijving bij de Kamer van Koophandel](https://www.reputatiecoaching.nl/138/) hebt, of je je bedrijf aanmeldt bij De TelefoonGids.
+  2. Onderschat niet het aantal vermeldingen dat er van je bedrijf te vinden is, dat tegen je kan werken als de gegevens inconsistent zijn. Een deel zal ooit wel aangemaakt zijn door Nico of een voortvarende medewerker, maar een deel wordt ook gewoon automatisch aangemaakt, simpelweg doordat je een [inschrijving bij de Kamer van Koophandel](https://web.archive.org/web/20190717184342/https://www.reputatiecoaching.nl/138/) hebt, of je je bedrijf aanmeldt bij De TelefoonGids.
   3. Pas dus op met het zomaar in de markt zetten van een ander telefoonnummer. Doe eerst onderzoek of laat onderzoek doen. Niet alleen als je een ander telefoonnummer gaat gebruiken, maar al helemaal als je met je bedrijf gaat verhuizen! Want zo heb ik laatst voor een bedrijf dat binnen de gemeente Apeldoorn ging verhuizen een kort onderzoekje gedaan naar het aantal bedrijfsvermeldingen. En heb je enig idee hoeveel ik er binnen een kwartiertje had gevonden? Eerst vond ik er 447, maar na ontdubbeling bleven er alsnog 140 over!
 ```
 
@@ -92,7 +93,7 @@ Tot zover over Nico’s Dierenspeciaalzaak. Als ik weer eens nieuws over hem te 
 
 ## Je vindbaarheid verbeteren, zonder gemolken te worden
 
-A. Geelen van Tandtechnisch Laboratorium “Rep-Dent” uit Kerkrade postte een reactie bij de instructievideo over het [aanmelden van je bedrijf op buzzfacts.nl](https://www.reputatiecoaching.nl/bedrijf-aanmelden-op-buzzfacts-nl/). Hij schreef:
+A. Geelen van Tandtechnisch Laboratorium “Rep-Dent” uit Kerkrade postte een reactie bij de instructievideo over het [aanmelden van je bedrijf op buzzfacts.nl](https://web.archive.org/web/20150821011950/http://www.reputatiecoaching.nl:80/bedrijf-aanmelden-op-buzzfacts-nl/). Hij schreef:
 
 Wat moet je dan radicaal veranderen zonder dat je gemolken wordt???
 
@@ -178,11 +179,11 @@ Natuurlijk is het goed om een negatieve ervaring te delen, maar het is vaak nog 
 
 ## MapMaker weer geopend in meer dan 50 landen!
 
-In [podcast 128](https://www.reputatiecoaching.nl/128/) van mei dit jaar vertelde ik je dat Google haar product of dienst “MapMaker” tijdelijk had gesloten voor het aanbrengen van wijzigingen alsmede voor het invoeren van nieuwe gegevens. Aanleiding was toen allerhande misbruik, waardoor Google behoorlijk in verlegenheid was gebracht.
+In [podcast 128](https://web.archive.org/web/20150605073613/http://www.reputatiecoaching.nl/128/) van mei dit jaar vertelde ik je dat Google haar product of dienst “MapMaker” tijdelijk had gesloten voor het aanbrengen van wijzigingen alsmede voor het invoeren van nieuwe gegevens. Aanleiding was toen allerhande misbruik, waardoor Google behoorlijk in verlegenheid was gebracht.
 
-En ik kan je melden dat sinds twee of drie dagen Google MapMaker weer heropend is, nu ook in Nederland, alsmede in zo’n 50 andere landen! Toen ik eerder deze week ging kijken zag ik de melding, waarvan je een screenshot kunt zien in de show notes, op [www.reputatiecoaching.nl/143](https://www.reputatiecoaching.nl/143/):
+En ik kan je melden dat sinds twee of drie dagen Google MapMaker weer heropend is, nu ook in Nederland, alsmede in zo’n 50 andere landen! Toen ik eerder deze week ging kijken zag ik de melding, waarvan je een screenshot kunt zien in de show notes, op [www.reputatiecoaching.nl/143](https://web.archive.org/web/20190717190106/https://www.reputatiecoaching.nl/143/):
 
-[[Historische afbeelding: Google MapMaker heropend in 50 landen](https://lh3.googleusercontent.com/j5IsZFUCMamhTELTg6m2__rLZC6g1TEWiyx-8-0GXWc=w738-h540-no)](https://lh3.googleusercontent.com/j5IsZFUCMamhTELTg6m2__rLZC6g1TEWiyx-8-0GXWc=w738-h540-no)
+[[Historische afbeelding: Google MapMaker heropend in 50 landen](https://web.archive.org/web/20200516101622/https://lh3.googleusercontent.com/j5IsZFUCMamhTELTg6m2__rLZC6g1TEWiyx-8-0GXWc=w738-h540-no)](https://lh3.googleusercontent.com/j5IsZFUCMamhTELTg6m2__rLZC6g1TEWiyx-8-0GXWc=w738-h540-no)
 
 De twee belangrijkste wijzigingen die in het oog springen zijn:
 
@@ -198,11 +199,11 @@ Het is echter mij in elk geval nog niet duidelijk of de regionale leads alle edi
 *Historische afbeelding niet beschikbaar: Summer Citations Sequence: 25 instructievideos!*
 Vorige week vrijdag kwam er een eind aan de vijf weken durende “Summer Citations Sequence”, waarin ik je 25 instructievideo’s heb gegeven met links naar de bijbehorende sites, waar je je jouw bedrijf kon aanmelden.
 
-Oh, mocht je het overigens gemist hebben: afgelopen zondag heb ik een [overzicht van alle 25 video’s uit de “Summer Citations Sequence”](https://www.reputatiecoaching.nl/summer-citations-sequence-videos-op-een-rijtje/) online gezet met links naar desbetreffende artikelen.
+Oh, mocht je het overigens gemist hebben: afgelopen zondag heb ik een [overzicht van alle 25 video’s uit de “Summer Citations Sequence”](https://web.archive.org/web/20150915133617/http://www.reputatiecoaching.nl:80/summer-citations-sequence-videos-op-een-rijtje/) online gezet met links naar desbetreffende artikelen.
 
 Heb je de video’s bekeken? En heb je er iets mee gedaan? Heb je jouw bedrijf ook aangemeld op de voor jou relevante sites? Wat vond je ervan? Moet ik binnenkort weer eens zo’n serie gaan samenstellen?
 
-Geef je reactie onderaan de show notes van deze podcast, op [www.reputatiecoaching.nl/143](https://www.reputatiecoaching.nl/143/)
+Geef je reactie onderaan de show notes van deze podcast, op [www.reputatiecoaching.nl/143](https://web.archive.org/web/20190717190106/https://www.reputatiecoaching.nl/143/)
 
 ## Reviews: “De 4 jaargetijden”
 
@@ -214,7 +215,7 @@ Voor dat type bedrijven is het nóg belangrijker dat ze zich gedegen voorbereide
 
 En de reviews die je dán verzamelt, gaan je weer helpen om boekingen of gasten in het volgende seizoen te krijgen.
 
-Zit jij nog te stoeien met de manier waarop je reviews moet gaan verzamelen? Neem dan gerust eens contact op: stuur een mailtje, spreek een voicemail in, of boek een [gratis consult](https://www.reputatiecoaching.nl/gratisconsult/) op de website.
+Zit jij nog te stoeien met de manier waarop je reviews moet gaan verzamelen? Neem dan gerust eens contact op: stuur een mailtje, spreek een voicemail in, of boek een [gratis consult](https://web.archive.org/web/20150802022755/http://www.reputatiecoaching.nl:80/gratisconsult/) op de website.
 
 ## Google patent voor weergavetijd (watch time)
 
@@ -230,7 +231,7 @@ Het patent beschrijft dus hoe de ranking aan content kan worden toegekend op bas
 ## Optimaliseren van de watch time (weergavetijd) op YouTube
 
 *Historische afbeelding niet beschikbaar: YouTube*
-Even terugkomend op YouTube en de kijktijd op YouTube. Google heeft zelfs een heel support artikel over het optimaliseren van de kijktijd online staan. In het artikel “[Optimalisatietips voor weergavetijd](https://support.google.com/youtube/answer/141805?hl=nl)” kun je onder andere het volgende lezen:
+Even terugkomend op YouTube en de kijktijd op YouTube. Google heeft zelfs een heel support artikel over het optimaliseren van de kijktijd online staan. In het artikel “[Optimalisatietips voor weergavetijd](https://web.archive.org/web/20260711035827/https://support.google.com/youtube/answer/141805?hl=nl)” kun je onder andere het volgende lezen:
 
 *De weergavetijd is een belangrijke statistiek voor het promoten van video’s op YouTube. Het algoritme achter videosuggesties geeft prioriteit aan video’s die leiden tot een langere weergavesessie dan aan video’s die meer klikken ontvangen. Kijkers hebben er meer aan als ze leuke video’s worden aangeraden, en videomakers profiteren weer van betrokken en geïnteresseerde kijkers.*
 
@@ -269,7 +270,7 @@ En maak natuurlijk gebruik van YouTube Analytics om inzicht te krijgen in het ki
 Maar maak jij eigenlijk al gebruik van video’s voor je marketing? Voor het verbeteren van je reputatie? Voor het beantwoorden van vragen van je klanten of patiënten? Zo nee, dan zou ik er maar eens snel mee beginnen!
 
 *Historische afbeelding niet beschikbaar: Brenda-Kok*
-In het verleden had ik al eens [Brenda Kok in de uitzending voor een interview](https://www.reputatiecoaching.nl/94/). Brenda is gespecialiseerd in videomarketing. Zij leert je hoe je KlantenWervende Video’s kunt maken. En 24 september aanstaande begint ze weer met een training. Daarover vertelt ze het volgende:
+In het verleden had ik al eens [Brenda Kok in de uitzending voor een interview](https://web.archive.org/web/20150312094833/http://www.reputatiecoaching.nl/94/). Brenda is gespecialiseerd in videomarketing. Zij leert je hoe je KlantenWervende Video’s kunt maken. En 24 september aanstaande begint ze weer met een training. Daarover vertelt ze het volgende:
 
 **Luister naar Brenda haar speciale aanbieding in de podcast**
 
@@ -293,7 +294,7 @@ Ik moest even nadenken en toen kwam ik op een tip die ik in januari 2014 ook al 
 
 Echt, het kost je nog geen twee minuten!
 
-Wil je weten wat 14 andere lokale SEO experts voor tips geven, surf dan naar het artikel: “[15 Local SEO Experts Share Their Hacks](http://synup.com/blog/experts-local-seo-hacks/)” op synup.com.
+Wil je weten wat 14 andere lokale SEO experts voor tips geven, surf dan naar het artikel: “[15 Local SEO Experts Share Their Hacks](https://web.archive.org/web/20151005132020/http://synup.com/blog/experts-local-seo-hacks/)” op synup.com.
 
 En met deze lokale SEO hack en de link naar zo’n anderhalf dozijn andere waardevolle tips, kom ik dan ook vandaag weer aan het einde van deze podcast.
 
@@ -301,7 +302,7 @@ Als je de podcast leuk vindt en je wilt nog meer op de hoogte blijven, volg me d
 
 Heb je inderdaad wat aan alle informatie die ik met je deel, help mij dan met het verder verbeteren en promoten van deze podcast. Abonneer je op de podcast, zodat je altijd meteen de nieuwste uitzending krijgt voorgeschoteld.
 
-Zoek de podcast op, in [iTunes](https://www.reputatiecoaching.nl/itunes) of [Stitcher](https://www.reputatiecoaching.nl/stitcher), geef de podcast een sterrenbeoordeling en laat ook je reactie achter. Door de podcast te beoordelen op iTunes en/of Stitcher breng je de podcast onder de aandacht van een breder publiek.
+Zoek de podcast op, in iTunes of Stitcher, geef de podcast een sterrenbeoordeling en laat ook je reactie achter. Door de podcast te beoordelen op iTunes en/of Stitcher breng je de podcast onder de aandacht van een breder publiek.
 
 Je kunt me verder helpen, door de podcast aan te bevelen bij vrienden of collega’s, waarvan je denkt dat ze er hun voordeel mee kunnen doen, of door ’m te delen op Twitter, like’n en delen op Facebook of een “+1” te geven op Google+.
 
@@ -309,7 +310,7 @@ En vergeet niet: ik ben hier om je te helpen! Als je een vraag of een probleem h
 
 Als je dat te lastig vindt, of als je de podcast beluistert terwijl je in de auto zit en je hebt acuut een vraag, spreek dan een boodschap in op de ReputatieCoaching Hotline, op nummer: 084 - 883 15 56. Mogelijk behandel ik je vraag of probleem dan in een artikel of in de podcast.
 
-En je kunt ook rechtstreeks op de website een voicemail achterlaten, door op de tab aan de rechterkant van elke pagina te klikken, en je bericht in te spreken. Dit was [ReputatieCoaching Podcast aflevering 143](https://www.reputatiecoaching.nl/143/) en mijn naam is [Eduard de Boer](http://nl.linkedin.com/in/eduarddeboer/nl).
+En je kunt ook rechtstreeks op de website een voicemail achterlaten, door op de tab aan de rechterkant van elke pagina te klikken, en je bericht in te spreken. Dit was [ReputatieCoaching Podcast aflevering 143](https://web.archive.org/web/20190717190106/https://www.reputatiecoaching.nl/143/) en mijn naam is [Eduard de Boer](http://nl.linkedin.com/in/eduarddeboer/nl).
 
 Ik wens je de komende week weer succes met het werken aan je reputatie, zodat je meteen je reputatie voor jou kunt laten werken!
 
@@ -320,10 +321,10 @@ Doei!
 Links naar content die in deze podcast aan bod komt:
 
 ```
-  * [ReputatieCoaching Podcast in iTunes](https://www.reputatiecoaching.nl/itunes)
-  * [ReputatieCoaching Podcast op Stitcher](https://www.reputatiecoaching.nl/stitcher)
+  * ReputatieCoaching Podcast in iTunes
+  * ReputatieCoaching Podcast op Stitcher
   * [ReputatieCoaching Podcast op TuneIn Radio](http://tunein.com/radio/ReputatieCoaching-Podcast-p655084/)
-  * [ReputatieCoaching Podcast RSS-feed](https://feeds.reputatiecoaching.nl/ReputatieCoachingPodcast)
+  * [ReputatieCoaching Podcast RSS-feed](https://web.archive.org/web/20150802021912/http://feeds.reputatiecoaching.nl:80/ReputatieCoachingPodcast)
   * “[Google Patents ‘Watch Time’ as a Search Ranking Factor](http://www.searchenginejournal.com/google-patents-watch-time-as-a-search-ranking-factor/138467/)” (Search Engine Journal, 9 augustus 2015)
-  * “[15 Local SEO Experts Share Their Hacks](http://synup.com/blog/experts-local-seo-hacks/)” (Synup blog, 21 augustus 2015)
+  * “[15 Local SEO Experts Share Their Hacks](https://web.archive.org/web/20151005132020/http://synup.com/blog/experts-local-seo-hacks/)” (Synup blog, 21 augustus 2015)
 ```

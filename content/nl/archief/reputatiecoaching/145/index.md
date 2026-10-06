@@ -3,6 +3,7 @@ title: '145: Spammy backlinks? Podcast nu op SoundCloud! Tooltip voor het bewake
 date: '2015-09-10T06:30:20+00:00'
 description: Allereerst excuses voor het later verschijnen van deze podcast. Hoe dat komt, leg ik zo uit. Dan heb ik een recent geval van reputatieschade, dat kortstondig van alle media wereldwijd vrijwel onverdeelde aandacht kreeg, maar nog lang na zal denderen voor de betrokkene. Ik heb afgelopen anderhalve week al tweemaal moeten helpen bij het opschonen van een zogenaamd “spammy” linkprofiel. Daar wil ik je iets meer over vertellen, inclusief het disavowen van spammy backlinks bij Google.
 episode: 145
+kgRef: podcast_episode/reputatiecoaching_145
 historical: true
 archivePeriod: 2012–2016
 transcriptStatus: full
@@ -30,7 +31,7 @@ Allereerst excuses voor het later verschijnen van deze podcast. Hoe dat komt, le
 
 Hallo en hartelijk welkom bij deze aflevering van de ReputatieCoaching Podcast. Ik ben Eduard de Boer, ReputatieCoach. Dit is dé podcast die jou helpt om meer business te genereren, doordat jouw website beter gevonden wordt, zowel lokaal als landelijk en doordat ik je uitleg hoe je je online reputatie kunt verbeteren. Dit alles helpt je om je bedrijf en jezelf beter op de online kaart te plaatsen.
 
-De podcast kun je vinden op [www.reputatiecoaching.nl/145](https://www.reputatiecoaching.nl/145/). Daar vind je niet alleen de tekst, maar ook video’s waar ik het in deze uitzending over heb, alsmede afbeeldingen, links enzovoorts. Bovendien is de podcast te beluisteren in [iTunes](https://www.reputatiecoaching.nl/itunes), op [Stitcher](https://www.reputatiecoaching.nl/stitcher) en op [TuneIn Radio](http://tunein.com/radio/ReputatieCoaching-Podcast-p655084/). Bovendien kun je inmiddels de eerste 15 podcasts ook beluisteren op [SoundCloud](https://soundcloud.com/reputatiecoaching).
+De podcast kun je vinden op [www.reputatiecoaching.nl/145](https://web.archive.org/web/20190717184616/https://www.reputatiecoaching.nl/145/). Daar vind je niet alleen de tekst, maar ook video’s waar ik het in deze uitzending over heb, alsmede afbeeldingen, links enzovoorts. Bovendien is de podcast te beluisteren in iTunes, op Stitcher en op [TuneIn Radio](http://tunein.com/radio/ReputatieCoaching-Podcast-p655084/). Bovendien kun je inmiddels de eerste 15 podcasts ook beluisteren op [SoundCloud](https://soundcloud.com/reputatiecoaching).
 
 Ik raad je aan om je op één van deze kanalen te abonneren op de podcast, zodat je geen aflevering hoeft te missen! Wacht nog heel even met SoundCloud. Want als ik eenmaal alle podcasts ook daar heb geüpload, dan ga ik vanaf dat moment elke nieuwe podcast ook verspreiden via SoundCloud.
 
@@ -48,7 +49,7 @@ Hoewel ik vrijwel geen trouwreportages meer doe, heb ik toen aangeboden een voll
 
 Nia haar moeder is eerst vroeg in de ochtend nog naar de kapper gegaan, waarna het gezin helemaal vanuit Groningen naar Apeldoorn is gekomen. Ze hebben eerst bij ons thuis koffie gedronken, waarna ik hen mee heb genomen, de hei op. Het was vandaag een prachtige dag: licht bewolkt, blauwe lucht, zonneschijn… Dus wat wil je nog meer. Het was DE perfecte dag om je trouwdag nogmaals te beleven!
 
-In de show notes, op [www.reputatiecoaching.nl/145](https://www.reputatiecoaching.nl/145/) heb ik een foto opgenomen van het gezin, waarin je kunt zien hoe ze genieten van het herbeleven van hun trouwdag, dit keer onder veel positievere omstandigheden!
+In de show notes, op [www.reputatiecoaching.nl/145](https://web.archive.org/web/20190717184616/https://www.reputatiecoaching.nl/145/) heb ik een foto opgenomen van het gezin, waarin je kunt zien hoe ze genieten van het herbeleven van hun trouwdag, dit keer onder veel positievere omstandigheden!
 
 [Historische afbeelding: Against Cancer Trouwreportage](https://lh3.googleusercontent.com/7xJmfgHDhEErZExSqvg2wjpuuYBCrVqMVqgZFxXUbhhoWHIL9abd=w600-no)
 
@@ -83,19 +84,19 @@ Please note that we apply this same policy regardless of the business and regard
 
 Dit krijg je te zien in een popup, als je naar de Yelp-pagina van de tandartspraktijk “River Bluff Dental” gaat:
 
-[[Historische afbeelding: bekijk bron](https://lh3.googleusercontent.com/BFCYGbTBkWxo7TP7yiY5EmV9aCI9Xv83Ld9018d9IC6FJyrEtVmlWKBV8JZnjh6JRZyKJaW-nJ1ogUU7fpMhIhs_R6Yy7yaSXChlVjnOmNa9BpJ6CaSfg5da7DBuaQIpEKnS2HKMo4L5eW3gEeEpZMmhluStwdSy2F5Ye3j9ELum_YS8MFwsvKLf5AoZ2Ik68Y5Zq0GJ6d_Qg8byHqQu5X9sKOTwn64Nbl0qv08rVn39zu061AY74j8CCo0ZiG9TSGVtlBwwl1qWP-_GiIkLbsk0fJJL2Ws02mQ1o9edL8Fx4qRAY8-qCmiYubO1wa6g_4buzEuZZ9OnaggvCR1KsRyd79SLxAVxyppGdFBtycYcxnKqTjMyniGgl6WQbwtadSIkFCKbAiILr-EfF2F2y1twA04JKtK-U32UGQXCGeTvFBpNE4t9odbS6qj-tCAB_eGzsr8lm2AneY4AjQmx5dIOHCFvit18wUqT_Sgqs8LqmRkE1qa7bK5HiAjen_reqZYagpy8zVEcX448LyVqtPzywGTDEDqqDhsNLBqtEV0=w624-h521-no)](https://lh3.googleusercontent.com/BFCYGbTBkWxo7TP7yiY5EmV9aCI9Xv83Ld9018d9IC6FJyrEtVmlWKBV8JZnjh6JRZyKJaW-nJ1ogUU7fpMhIhs_R6Yy7yaSXChlVjnOmNa9BpJ6CaSfg5da7DBuaQIpEKnS2HKMo4L5eW3gEeEpZMmhluStwdSy2F5Ye3j9ELum_YS8MFwsvKLf5AoZ2Ik68Y5Zq0GJ6d_Qg8byHqQu5X9sKOTwn64Nbl0qv08rVn39zu061AY74j8CCo0ZiG9TSGVtlBwwl1qWP-_GiIkLbsk0fJJL2Ws02mQ1o9edL8Fx4qRAY8-qCmiYubO1wa6g_4buzEuZZ9OnaggvCR1KsRyd79SLxAVxyppGdFBtycYcxnKqTjMyniGgl6WQbwtadSIkFCKbAiILr-EfF2F2y1twA04JKtK-U32UGQXCGeTvFBpNE4t9odbS6qj-tCAB_eGzsr8lm2AneY4AjQmx5dIOHCFvit18wUqT_Sgqs8LqmRkE1qa7bK5HiAjen_reqZYagpy8zVEcX448LyVqtPzywGTDEDqqDhsNLBqtEV0=w624-h521-no)
+[[Historische afbeelding: bekijk bron](https://web.archive.org/web/20191020033614/https://lh3.googleusercontent.com/BFCYGbTBkWxo7TP7yiY5EmV9aCI9Xv83Ld9018d9IC6FJyrEtVmlWKBV8JZnjh6JRZyKJaW-nJ1ogUU7fpMhIhs_R6Yy7yaSXChlVjnOmNa9BpJ6CaSfg5da7DBuaQIpEKnS2HKMo4L5eW3gEeEpZMmhluStwdSy2F5Ye3j9ELum_YS8MFwsvKLf5AoZ2Ik68Y5Zq0GJ6d_Qg8byHqQu5X9sKOTwn64Nbl0qv08rVn39zu061AY74j8CCo0ZiG9TSGVtlBwwl1qWP-_GiIkLbsk0fJJL2Ws02mQ1o9edL8Fx4qRAY8-qCmiYubO1wa6g_4buzEuZZ9OnaggvCR1KsRyd79SLxAVxyppGdFBtycYcxnKqTjMyniGgl6WQbwtadSIkFCKbAiILr-EfF2F2y1twA04JKtK-U32UGQXCGeTvFBpNE4t9odbS6qj-tCAB_eGzsr8lm2AneY4AjQmx5dIOHCFvit18wUqT_Sgqs8LqmRkE1qa7bK5HiAjen_reqZYagpy8zVEcX448LyVqtPzywGTDEDqqDhsNLBqtEV0=w624-h521-no)](https://lh3.googleusercontent.com/BFCYGbTBkWxo7TP7yiY5EmV9aCI9Xv83Ld9018d9IC6FJyrEtVmlWKBV8JZnjh6JRZyKJaW-nJ1ogUU7fpMhIhs_R6Yy7yaSXChlVjnOmNa9BpJ6CaSfg5da7DBuaQIpEKnS2HKMo4L5eW3gEeEpZMmhluStwdSy2F5Ye3j9ELum_YS8MFwsvKLf5AoZ2Ik68Y5Zq0GJ6d_Qg8byHqQu5X9sKOTwn64Nbl0qv08rVn39zu061AY74j8CCo0ZiG9TSGVtlBwwl1qWP-_GiIkLbsk0fJJL2Ws02mQ1o9edL8Fx4qRAY8-qCmiYubO1wa6g_4buzEuZZ9OnaggvCR1KsRyd79SLxAVxyppGdFBtycYcxnKqTjMyniGgl6WQbwtadSIkFCKbAiILr-EfF2F2y1twA04JKtK-U32UGQXCGeTvFBpNE4t9odbS6qj-tCAB_eGzsr8lm2AneY4AjQmx5dIOHCFvit18wUqT_Sgqs8LqmRkE1qa7bK5HiAjen_reqZYagpy8zVEcX448LyVqtPzywGTDEDqqDhsNLBqtEV0=w624-h521-no)
 
 Op het moment van het maken van deze podcast stonden er 196 recensies. Ook hebben mensen al honderden foto’s gepost op de Yelp-pagina, allemaal uit protest.
 
 Ook de Google Mijn Bedrijf pagina van Dr. Walter J. Palmer, DDS laat het nodige aan haatberichten zien:
 
-[[Historische afbeelding: bekijk bron](https://lh3.googleusercontent.com/eR-sjK_oq4USe6t-NnWL9ySSTOBu4TnKX7hwnFWbVBMKaLYp6UCiwIzvGi4HGsIN1RzWbSkA-ph5e8risd6Fi2Xo4US4jW1WUUack6kNe4wN-1CVuUfM1r89EwH4zEhVJl41F7bza7QCpDdZI0EZXxng2IWuzYvHZC4N9t21EcKtTOnHcLK_UbIy9XVmj2kxUhvQfW8YUZ9mjKzsHXxQqjDlWAysJwvre7Zs7BYZQb0oNfB3t5R2INvZdavud9eZUsv7-sVH1Hz3Byl5DndmsQ6IOswWW-QrFN04Z1wMJAbnycXA3xFX06i_sfmAM47V8CXN7BHJs1Ys-WIrlEi1HzDPb-FqFEaDx9_zes2o6FcbXkgLi0KdTMi2HXo5vsdHezGb7CbGl5_5VABAkAncM6zDf6ljE20bfjgE7NBRpG7Tx4ISg5Jtaq0XYyess73CET31JyaO4_q9drOjvEPCTS2v1zVyAyHzuudfOM1YOllWI00SW8V1oQ9zFGDPfLffy51NR8xDI1zdB2HLwGR_JdLbE3DGKHLxukmqOqHqFCo=w723-h868-no)](https://lh3.googleusercontent.com/eR-sjK_oq4USe6t-NnWL9ySSTOBu4TnKX7hwnFWbVBMKaLYp6UCiwIzvGi4HGsIN1RzWbSkA-ph5e8risd6Fi2Xo4US4jW1WUUack6kNe4wN-1CVuUfM1r89EwH4zEhVJl41F7bza7QCpDdZI0EZXxng2IWuzYvHZC4N9t21EcKtTOnHcLK_UbIy9XVmj2kxUhvQfW8YUZ9mjKzsHXxQqjDlWAysJwvre7Zs7BYZQb0oNfB3t5R2INvZdavud9eZUsv7-sVH1Hz3Byl5DndmsQ6IOswWW-QrFN04Z1wMJAbnycXA3xFX06i_sfmAM47V8CXN7BHJs1Ys-WIrlEi1HzDPb-FqFEaDx9_zes2o6FcbXkgLi0KdTMi2HXo5vsdHezGb7CbGl5_5VABAkAncM6zDf6ljE20bfjgE7NBRpG7Tx4ISg5Jtaq0XYyess73CET31JyaO4_q9drOjvEPCTS2v1zVyAyHzuudfOM1YOllWI00SW8V1oQ9zFGDPfLffy51NR8xDI1zdB2HLwGR_JdLbE3DGKHLxukmqOqHqFCo=w723-h868-no)
+[[Historische afbeelding: bekijk bron](https://web.archive.org/web/20190718121708/https://lh3.googleusercontent.com/eR-sjK_oq4USe6t-NnWL9ySSTOBu4TnKX7hwnFWbVBMKaLYp6UCiwIzvGi4HGsIN1RzWbSkA-ph5e8risd6Fi2Xo4US4jW1WUUack6kNe4wN-1CVuUfM1r89EwH4zEhVJl41F7bza7QCpDdZI0EZXxng2IWuzYvHZC4N9t21EcKtTOnHcLK_UbIy9XVmj2kxUhvQfW8YUZ9mjKzsHXxQqjDlWAysJwvre7Zs7BYZQb0oNfB3t5R2INvZdavud9eZUsv7-sVH1Hz3Byl5DndmsQ6IOswWW-QrFN04Z1wMJAbnycXA3xFX06i_sfmAM47V8CXN7BHJs1Ys-WIrlEi1HzDPb-FqFEaDx9_zes2o6FcbXkgLi0KdTMi2HXo5vsdHezGb7CbGl5_5VABAkAncM6zDf6ljE20bfjgE7NBRpG7Tx4ISg5Jtaq0XYyess73CET31JyaO4_q9drOjvEPCTS2v1zVyAyHzuudfOM1YOllWI00SW8V1oQ9zFGDPfLffy51NR8xDI1zdB2HLwGR_JdLbE3DGKHLxukmqOqHqFCo=w723-h868-no)](https://lh3.googleusercontent.com/eR-sjK_oq4USe6t-NnWL9ySSTOBu4TnKX7hwnFWbVBMKaLYp6UCiwIzvGi4HGsIN1RzWbSkA-ph5e8risd6Fi2Xo4US4jW1WUUack6kNe4wN-1CVuUfM1r89EwH4zEhVJl41F7bza7QCpDdZI0EZXxng2IWuzYvHZC4N9t21EcKtTOnHcLK_UbIy9XVmj2kxUhvQfW8YUZ9mjKzsHXxQqjDlWAysJwvre7Zs7BYZQb0oNfB3t5R2INvZdavud9eZUsv7-sVH1Hz3Byl5DndmsQ6IOswWW-QrFN04Z1wMJAbnycXA3xFX06i_sfmAM47V8CXN7BHJs1Ys-WIrlEi1HzDPb-FqFEaDx9_zes2o6FcbXkgLi0KdTMi2HXo5vsdHezGb7CbGl5_5VABAkAncM6zDf6ljE20bfjgE7NBRpG7Tx4ISg5Jtaq0XYyess73CET31JyaO4_q9drOjvEPCTS2v1zVyAyHzuudfOM1YOllWI00SW8V1oQ9zFGDPfLffy51NR8xDI1zdB2HLwGR_JdLbE3DGKHLxukmqOqHqFCo=w723-h868-no)
 
 Een dergelijke onvergeeflijke actie die zoveel haat oproept, laat nog wat meer sporen achter. Om die te vinden hoef je geen spoorzoeker te zijn. Zoek op Internet maar eens op:
 
 Dan zie je dat er meer dan anderhalf miljoen verwijzingen zijn!
 
-[[Historische afbeelding: bekijk bron](https://lh3.googleusercontent.com/gZnMCRLKSRTvfVRMw0iw-7B3nhITJzHViz51n8cz4rfem-bhw8VQRDFz-GpUS8Wf933bkssg1D6vtVILC3aFW7bj5dzmgKtTbZYeG79XZTzP2CMImboGJU8yGcjQheso0XFFI4JwdZGXSrNMD0P3erFdjtWaIevcUHHkT9M9Zm4NRf21xyrSBxekyfq6uZkVDs04Rxr6G4VDX7MRYLLbmUIEZWnFrowUNComol0HkGYgj_Qd7KLxoIOKkRdsVKp0EPhNfJBn1dysMtKb7o6aq5EJJAoc-VIz7mZN8YyAKpULWmywG4M76xqtIn881zXQi-qlRWixuJs0D52ffjFHHEnb3Cy5giPdnZRKDuVNL9Jo-Cv7-vJQenv6_Q0KWprDsiBUTlpsCAvz_L51nUjTh4iAqKq9uGQ0tzcRYbh8iB4pi6_15D-H1vv3XqbLxAcXF55nh1FYJACWbsiEsxdT7iKmfc6IqxGF-chUHfcu6lA-cCS-ROaPhTtmzK7LiUzU9CDdcdCHpKjlIDZwh2BRMYvccDV5aqKnIM56b4wfGHY=w777-h882-no)](https://lh3.googleusercontent.com/gZnMCRLKSRTvfVRMw0iw-7B3nhITJzHViz51n8cz4rfem-bhw8VQRDFz-GpUS8Wf933bkssg1D6vtVILC3aFW7bj5dzmgKtTbZYeG79XZTzP2CMImboGJU8yGcjQheso0XFFI4JwdZGXSrNMD0P3erFdjtWaIevcUHHkT9M9Zm4NRf21xyrSBxekyfq6uZkVDs04Rxr6G4VDX7MRYLLbmUIEZWnFrowUNComol0HkGYgj_Qd7KLxoIOKkRdsVKp0EPhNfJBn1dysMtKb7o6aq5EJJAoc-VIz7mZN8YyAKpULWmywG4M76xqtIn881zXQi-qlRWixuJs0D52ffjFHHEnb3Cy5giPdnZRKDuVNL9Jo-Cv7-vJQenv6_Q0KWprDsiBUTlpsCAvz_L51nUjTh4iAqKq9uGQ0tzcRYbh8iB4pi6_15D-H1vv3XqbLxAcXF55nh1FYJACWbsiEsxdT7iKmfc6IqxGF-chUHfcu6lA-cCS-ROaPhTtmzK7LiUzU9CDdcdCHpKjlIDZwh2BRMYvccDV5aqKnIM56b4wfGHY=w777-h882-no)
+[[Historische afbeelding: bekijk bron](https://web.archive.org/web/20190719184147/https://lh3.googleusercontent.com/gZnMCRLKSRTvfVRMw0iw-7B3nhITJzHViz51n8cz4rfem-bhw8VQRDFz-GpUS8Wf933bkssg1D6vtVILC3aFW7bj5dzmgKtTbZYeG79XZTzP2CMImboGJU8yGcjQheso0XFFI4JwdZGXSrNMD0P3erFdjtWaIevcUHHkT9M9Zm4NRf21xyrSBxekyfq6uZkVDs04Rxr6G4VDX7MRYLLbmUIEZWnFrowUNComol0HkGYgj_Qd7KLxoIOKkRdsVKp0EPhNfJBn1dysMtKb7o6aq5EJJAoc-VIz7mZN8YyAKpULWmywG4M76xqtIn881zXQi-qlRWixuJs0D52ffjFHHEnb3Cy5giPdnZRKDuVNL9Jo-Cv7-vJQenv6_Q0KWprDsiBUTlpsCAvz_L51nUjTh4iAqKq9uGQ0tzcRYbh8iB4pi6_15D-H1vv3XqbLxAcXF55nh1FYJACWbsiEsxdT7iKmfc6IqxGF-chUHfcu6lA-cCS-ROaPhTtmzK7LiUzU9CDdcdCHpKjlIDZwh2BRMYvccDV5aqKnIM56b4wfGHY=w777-h882-no)](https://lh3.googleusercontent.com/gZnMCRLKSRTvfVRMw0iw-7B3nhITJzHViz51n8cz4rfem-bhw8VQRDFz-GpUS8Wf933bkssg1D6vtVILC3aFW7bj5dzmgKtTbZYeG79XZTzP2CMImboGJU8yGcjQheso0XFFI4JwdZGXSrNMD0P3erFdjtWaIevcUHHkT9M9Zm4NRf21xyrSBxekyfq6uZkVDs04Rxr6G4VDX7MRYLLbmUIEZWnFrowUNComol0HkGYgj_Qd7KLxoIOKkRdsVKp0EPhNfJBn1dysMtKb7o6aq5EJJAoc-VIz7mZN8YyAKpULWmywG4M76xqtIn881zXQi-qlRWixuJs0D52ffjFHHEnb3Cy5giPdnZRKDuVNL9Jo-Cv7-vJQenv6_Q0KWprDsiBUTlpsCAvz_L51nUjTh4iAqKq9uGQ0tzcRYbh8iB4pi6_15D-H1vv3XqbLxAcXF55nh1FYJACWbsiEsxdT7iKmfc6IqxGF-chUHfcu6lA-cCS-ROaPhTtmzK7LiUzU9CDdcdCHpKjlIDZwh2BRMYvccDV5aqKnIM56b4wfGHY=w777-h882-no)
 
 Wat kunnen we hieruit meenemen? Ik geef je een paar leerpunten. Mogelijk heb jij er nog meer. Zo ja, laat ze maar komen en post ze onderaan de show notes van deze podcast. Naast dat je niet op bedreigde diersoorten moet jagen, geef ik je nog enkele leerpunten:
 
@@ -187,7 +188,7 @@ In juni liet Facebook nog weten dat het record op 968 miljoen stond, maar dat is
 *Historische afbeelding niet beschikbaar: RepWarn*
 Soms kom je een leuke tool tegen, eentje waar je echt iets aan hebt. Dit keer liep ik tegen een soort van eigen zoekmachine aan, en niet zomaar eentje! Maar voordat je te enthousiast wordt even een waarschuwing: deze tool is niet gratis! Hij kost US$97 per maand en is daarmee ook niet voor iedereen weggelegd… Gelukkig kun je ’m ook voor US$1 gedurende 7 dagen uitproberen.
 
-Ik heb het over de deze week uitgekomen [RepWarn](https://www.reputatiecoaching.nl/repwarn). Dit is een Reputatie Management en Keyword Monitoring Tool. Als je Google Alerts kent… en TalkWalker… Dan is dit de volgende generatie tool.
+Ik heb het over de deze week uitgekomen RepWarn. Dit is een Reputatie Management en Keyword Monitoring Tool. Als je Google Alerts kent… en TalkWalker… Dan is dit de volgende generatie tool.
 
 RepWarn houdt het web 24x7 in de gaten. Het kan je bedrijfsnaam monitoren, je producten, mensen en zelfs je concurrenten en hun producten. Wat dacht je van het in de gaten houden van de citations van je concurrenten? Dat kun je simpelweg instellen en je krijg automatisch elke dag e-mail updates met wat er nieuw is gevonden.
 
@@ -195,7 +196,7 @@ Ook kun je het inzetten om gemakkelijk nieuwe bestemmingen voor je citations te 
 
 Binnenkort zal ik een demonstratievideo maken van RepWarn om je te laten zien hoe krachtig het is en hoe je het zoal kunt inzetten voor zowel het beschermen van je huidige business (lees: je reputatie), alsmede voor het vinden van nieuwe leads en dergelijke.
 
-Kijk eens naar [RepWarn](https://www.reputatiecoaching.nl/repwarn) en vertel me onderaan de show notes op [www.reputatiecoaching.nl/145](https://www.reputatiecoaching.nl/145/) of het je iets lijkt. Als je wilt kan ik eens een zoekopdracht voor je uitzetten om je te laten zien wat er zoal naar boven komt.
+Kijk eens naar RepWarn en vertel me onderaan de show notes op [www.reputatiecoaching.nl/145](https://web.archive.org/web/20190717184616/https://www.reputatiecoaching.nl/145/) of het je iets lijkt. Als je wilt kan ik eens een zoekopdracht voor je uitzetten om je te laten zien wat er zoal naar boven komt.
 
 En met deze tooltip kom ik dan weer aan het einde van deze podcast.
 
@@ -205,7 +206,7 @@ Heb je inderdaad wat aan alle informatie die ik met je deel, help mij dan met he
 
 Op de website kun je me een berichtje sturen en zelfs een gratis consult inboeken. Ook kun je me bellen op 084–8831556 en zelfs rechtstreeks op de website een voicemail achterlaten.
 
-Dit was [ReputatieCoaching Podcast aflevering 145](https://www.reputatiecoaching.nl/145/) en mijn naam is [Eduard de Boer](http://nl.linkedin.com/in/eduarddeboer/nl).
+Dit was [ReputatieCoaching Podcast aflevering 145](https://web.archive.org/web/20190717184616/https://www.reputatiecoaching.nl/145/) en mijn naam is [Eduard de Boer](http://nl.linkedin.com/in/eduarddeboer/nl).
 
 Ik wens je de komende week weer succes met het werken aan je reputatie, zodat je meteen je reputatie voor jou kunt laten werken!
 
@@ -216,10 +217,10 @@ Doei!
 Links naar content die in deze podcast aan bod komt:
 
 ```
-  * [ReputatieCoaching Podcast in iTunes](https://www.reputatiecoaching.nl/itunes)
-  * [ReputatieCoaching Podcast op Stitcher](https://www.reputatiecoaching.nl/stitcher)
+  * ReputatieCoaching Podcast in iTunes
+  * ReputatieCoaching Podcast op Stitcher
   * [ReputatieCoaching Podcast op TuneIn Radio](http://tunein.com/radio/ReputatieCoaching-Podcast-p655084/)
   * [ReputatieCoaching Podcast op Soundcloud](https://soundcloud.com/reputatiecoaching)
-  * [ReputatieCoaching Podcast RSS-feed](https://feeds.reputatiecoaching.nl/ReputatieCoachingPodcast)
+  * [ReputatieCoaching Podcast RSS-feed](https://web.archive.org/web/20151006093045/http://feeds.reputatiecoaching.nl:80/ReputatieCoachingPodcast)
   *
 ```

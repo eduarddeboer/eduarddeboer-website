@@ -3,6 +3,7 @@ title: '144: Interview met Hendrik-Jan Glerum van The Feedback Company. Tip voor
 date: '2015-09-03T06:30:38+00:00'
 description: Een gros podcasts heb ik inmiddels alweer uitgebracht, ofwel twaalf dozijn. Vandaag heb ik een paar korte topics en een interview voor je. Het eerste onderwerp voor vandaag is een tip die ik eerder deze week voor een klant heb uitgevoerd, die ik graag met je wil delen, namelijk het handig verzamelen van reviews op Yelp. Het tweede onderwerp gaat over citations creëren via Instagram, waar ik eerder deze week ook al een blogpost over publiceerde.
 episode: 144
+kgRef: podcast_episode/reputatiecoaching_144
 historical: true
 archivePeriod: 2012–2016
 transcriptStatus: full
@@ -34,7 +35,7 @@ Een gros podcasts heb ik inmiddels alweer uitgebracht, ofwel twaalf dozijn. Vand
 
 Hallo en hartelijk welkom bij deze aflevering van de ReputatieCoaching Podcast. Ik ben Eduard de Boer, ReputatieCoach. Dit is dé podcast die jou helpt om meer business te genereren, doordat jouw website beter gevonden wordt, zowel lokaal als landelijk en doordat ik je uitleg hoe je je online reputatie kunt verbeteren. Dit alles helpt je om je bedrijf en jezelf beter op de online kaart te plaatsen.
 
-De podcast kun je vinden op [www.reputatiecoaching.nl/144](https://www.reputatiecoaching.nl/144/). Daar vind je niet alleen de tekst, maar ook video’s waar ik het in deze uitzending over heb, alsmede afbeeldingen, links enzovoorts. Bovendien is de podcast te beluisteren in [iTunes](https://www.reputatiecoaching.nl/itunes), op [Stitcher](https://www.reputatiecoaching.nl/stitcher) en ook op [TuneIn Radio](http://tunein.com/radio/ReputatieCoaching-Podcast-p655084/). Ik raad je aan om je op één van die drie kanalen te abonneren op de podcast, zodat je geen aflevering hoeft te missen!
+De podcast kun je vinden op [www.reputatiecoaching.nl/144](https://web.archive.org/web/20160301220829/http://www.reputatiecoaching.nl:80/144/). Daar vind je niet alleen de tekst, maar ook video’s waar ik het in deze uitzending over heb, alsmede afbeeldingen, links enzovoorts. Bovendien is de podcast te beluisteren in iTunes, op Stitcher en ook op [TuneIn Radio](http://tunein.com/radio/ReputatieCoaching-Podcast-p655084/). Ik raad je aan om je op één van die drie kanalen te abonneren op de podcast, zodat je geen aflevering hoeft te missen!
 
 Laat ik dan nu overgaan op de onderwerpen voor vandaag…
 
@@ -57,9 +58,9 @@ Er zijn veel websites die zoveel mogelijk reviews verzamelen en tonen van eender
 
 We denken dat we goed ons best doen gezien het grote aantal reviews die we ontvangen en gezien de onvermijdelijke meningsverschillen die mensen altijd zullen hebben als het om reviews gaat. Op het einde van de dag maakt het niet echt uit wat wij denken — klanten zullen enkel gebruik maken van Yelp als de ervaringen waarover ze lezen op Yelp overeenkomen met de ervaringen die ze opdoen in het echte leven.
 
-Dan kan het dus zomaar gebeuren dat 9 van de 10 reviews niet worden aanbevolen. En dat is zuur voor een hardwerkende ondernemer of zorgverlener, of in dit geval voor de Jeugdtandarts uit Beuningen. Je kunt een screenshot hiervan zien in de show notes, op [www.reputatiecoaching.nl/144](https://www.reputatiecoaching.nl/144/):
+Dan kan het dus zomaar gebeuren dat 9 van de 10 reviews niet worden aanbevolen. En dat is zuur voor een hardwerkende ondernemer of zorgverlener, of in dit geval voor de Jeugdtandarts uit Beuningen. Je kunt een screenshot hiervan zien in de show notes, op [www.reputatiecoaching.nl/144](https://web.archive.org/web/20160301220829/http://www.reputatiecoaching.nl:80/144/):
 
-[[Historische afbeelding: Niet aanbevolen reviews op Yelp](https://lh3.googleusercontent.com/_HRZsP8tDKl3TOD587geDb-8PzpXR7XLqPuLti5MpE8=w815-h1067-no)](https://lh3.googleusercontent.com/_HRZsP8tDKl3TOD587geDb-8PzpXR7XLqPuLti5MpE8=w815-h1067-no)
+[[Historische afbeelding: Niet aanbevolen reviews op Yelp](https://web.archive.org/web/20200516101611/https://lh3.googleusercontent.com/_HRZsP8tDKl3TOD587geDb-8PzpXR7XLqPuLti5MpE8=w815-h1067-no)](https://lh3.googleusercontent.com/_HRZsP8tDKl3TOD587geDb-8PzpXR7XLqPuLti5MpE8=w815-h1067-no)
 
 Een ondernemer die ik begeleid wilde graag meer reviews op Yelp hebben, maar het risico dat ze gedegradeerd zouden worden tot “niet aanbevolen” ook tegelijkertijd wilde verkleinen.
 
@@ -78,11 +79,11 @@ Op die manier verklein je de kans dat de geposte reviews verdwijnen aanzienlijk!
 ## Insta-citations en vernieuwingen aan Instagram
 
 *Historische afbeelding niet beschikbaar: Instagram*
-Eerder deze week heb ik een artikeltje gepost waarin ik uitlegde hoe je [citations kunt verzamelen met behulp van Instagram](https://www.reputatiecoaching.nl/insta-citations-maak-gebruik-van-instagram-voor-je-citations/). De clou zit hem erin dat er een groot aantal websites is, dat de foto’s en de beschrijvingen en reacties van Instagram overneemt om die op een alternatieve manier weer te geven. Als jij dus een citation in de beschrijving bij je Instagram foto opneemt, is de kans groot dat die dus ook op andere sites opduikt.
+Eerder deze week heb ik een artikeltje gepost waarin ik uitlegde hoe je [citations kunt verzamelen met behulp van Instagram](https://web.archive.org/web/20150909233235/http://www.reputatiecoaching.nl:80/insta-citations-maak-gebruik-van-instagram-voor-je-citations). De clou zit hem erin dat er een groot aantal websites is, dat de foto’s en de beschrijvingen en reacties van Instagram overneemt om die op een alternatieve manier weer te geven. Als jij dus een citation in de beschrijving bij je Instagram foto opneemt, is de kans groot dat die dus ook op andere sites opduikt.
 
 Toegegeven: het is een zogenaamde “ongestructureerde citation” en de waarde van ongestructureerde citations neemt steeds verder af. Maar het blijft een citatation! En in de tussentijd moet je natuurlijk gewoon stug doorgaan met het creëren van citations op directory sites en dergelijke.
 
-[[Historische afbeelding: bekijk bron](https://lh3.googleusercontent.com/oVFQU_oFPNJHdLCeD81qUmpl9qLvn4ZP1SvAo7JgsP0=w592-h1096-no)](https://lh3.googleusercontent.com/oVFQU_oFPNJHdLCeD81qUmpl9qLvn4ZP1SvAo7JgsP0=w592-h1096-no)Even een leuk nieuwtje over Instagram. Tot voor kort was je blik op de wereld in Instagram vierkant. Alles was vierkant, ook mooie vergezichten, horizonten en dergelijke! Foto’s van gezichten waren ook vierkant… Alles was vierkant!
+[[Historische afbeelding: bekijk bron](https://web.archive.org/web/20190915221602/https://lh3.googleusercontent.com/oVFQU_oFPNJHdLCeD81qUmpl9qLvn4ZP1SvAo7JgsP0=w592-h1096-no)](https://lh3.googleusercontent.com/oVFQU_oFPNJHdLCeD81qUmpl9qLvn4ZP1SvAo7JgsP0=w592-h1096-no)Even een leuk nieuwtje over Instagram. Tot voor kort was je blik op de wereld in Instagram vierkant. Alles was vierkant, ook mooie vergezichten, horizonten en dergelijke! Foto’s van gezichten waren ook vierkant… Alles was vierkant!
 
 Hoewel je dit als fotograaf dwong om goed na te denken over je compositie, tenzij je concessies wilde doen aan je uitsnede en dergelijke, was dit een behoorlijke beperking.
 
@@ -98,7 +99,7 @@ Van de week had ik een Hangout met Martin uit Rotterdam. Hij was bezig om op bas
 
 Hij kon op zowel trefplaats.nl, als op webbedrijvengids.nl gegevens van andere bedrijven aanpassen. Ik heb het geprobeerd te reproduceren en het lukte mij alleen op trefplaats.nl. Daar kon ik zelfs veranderingen doorvoeren, terwijl ik niet eens was ingelogd. Hiervan heb ik een screenshot opgenomen in de show notes, op [www.reputatiecoaching.nl/144]:
 
-[[Historische afbeelding: bekijk bron](https://lh3.googleusercontent.com/imnTIirbtQQKhXYXv4e9bwxm30o6DREnh1D3vZwds2w=w977-h775-no)](https://lh3.googleusercontent.com/imnTIirbtQQKhXYXv4e9bwxm30o6DREnh1D3vZwds2w=w977-h775-no)
+[[Historische afbeelding: bekijk bron](https://web.archive.org/web/20200516101611/https://lh3.googleusercontent.com/imnTIirbtQQKhXYXv4e9bwxm30o6DREnh1D3vZwds2w=w977-h775-no)](https://lh3.googleusercontent.com/imnTIirbtQQKhXYXv4e9bwxm30o6DREnh1D3vZwds2w=w977-h775-no)
 
 Nu weet ik natuurlijk niet of deze wijzigingen klakkeloos worden doorgevoerd, of dat ze eerst worden gescreend door een medwerker. Ik hoop het laatste…
 
@@ -122,7 +123,7 @@ Maar goed, als je het interview leuk vond, de podcast leerzaam vindt en je wilt 
 
 Heb je inderdaad wat aan alle informatie die ik met je deel, help mij dan met het verder verbeteren en promoten van deze podcast. Abonneer je op de podcast, zodat je altijd meteen de nieuwste uitzending krijgt voorgeschoteld.
 
-Zoek de podcast op, in [iTunes](https://www.reputatiecoaching.nl/itunes) of [Stitcher](https://www.reputatiecoaching.nl/stitcher), geef de podcast een sterrenbeoordeling en laat ook je reactie achter. Door de podcast te beoordelen op iTunes en/of Stitcher breng je de podcast onder de aandacht van een breder publiek.
+Zoek de podcast op, in iTunes of Stitcher, geef de podcast een sterrenbeoordeling en laat ook je reactie achter. Door de podcast te beoordelen op iTunes en/of Stitcher breng je de podcast onder de aandacht van een breder publiek.
 
 Je kunt me verder helpen, door de podcast aan te bevelen bij vrienden of collega’s, waarvan je denkt dat ze er hun voordeel mee kunnen doen, of door ’m te delen op Twitter, like’n en delen op Facebook of een “+1” te geven op Google+.
 
@@ -130,7 +131,7 @@ En vergeet niet: ik ben hier om je te helpen! Als je een vraag of een probleem h
 
 Als je dat te lastig vindt, of als je de podcast beluistert terwijl je in de auto zit en je hebt acuut een vraag, spreek dan een boodschap in op de ReputatieCoaching Hotline, op nummer: 084 - 883 15 56. Mogelijk behandel ik je vraag of probleem dan in een artikel of in de podcast.
 
-En je kunt ook rechtstreeks op de website een voicemail achterlaten, door op de tab aan de rechterkant van elke pagina te klikken, en je bericht in te spreken. Dit was [ReputatieCoaching Podcast aflevering 144](https://www.reputatiecoaching.nl/144/) en mijn naam is [Eduard de Boer](http://nl.linkedin.com/in/eduarddeboer/nl).
+En je kunt ook rechtstreeks op de website een voicemail achterlaten, door op de tab aan de rechterkant van elke pagina te klikken, en je bericht in te spreken. Dit was [ReputatieCoaching Podcast aflevering 144](https://web.archive.org/web/20160301220829/http://www.reputatiecoaching.nl:80/144/) en mijn naam is [Eduard de Boer](http://nl.linkedin.com/in/eduarddeboer/nl).
 
 Ik wens je de komende week weer succes met het werken aan je reputatie, zodat je meteen je reputatie voor jou kunt laten werken!
 
@@ -141,9 +142,9 @@ Doei!
 Links naar content die in deze podcast aan bod komt:
 
 ```
-  * [ReputatieCoaching Podcast in iTunes](https://www.reputatiecoaching.nl/itunes)
-  * [ReputatieCoaching Podcast op Stitcher](https://www.reputatiecoaching.nl/stitcher)
+  * ReputatieCoaching Podcast in iTunes
+  * ReputatieCoaching Podcast op Stitcher
   * [ReputatieCoaching Podcast op TuneIn Radio](http://tunein.com/radio/ReputatieCoaching-Podcast-p655084/)
-  * [ReputatieCoaching Podcast RSS-feed](https://feeds.reputatiecoaching.nl/ReputatieCoachingPodcast)
+  * [ReputatieCoaching Podcast RSS-feed](https://web.archive.org/web/20151006093045/http://feeds.reputatiecoaching.nl:80/ReputatieCoachingPodcast)
   * [The Feedback Company](https://www.feedbackcompany.nl)
 ```
