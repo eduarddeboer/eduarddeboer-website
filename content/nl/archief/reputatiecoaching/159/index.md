@@ -3,6 +3,7 @@ title: '159: Geïnterviewd door studenten van de Hogeschool Tilburg'
 date: '2015-12-17T07:30:55+00:00'
 description: '**Een tijdje geleden vertelde ik je al dat studenten van de Hogeschool Tilburg mij hadden benaderd of ik mijn medewerking wilde verlenen aan een (toen nog te organiseren) workshop over reputatiemanagement. Ik heb toen direct positief gereageerd. Ter voorbereiding van de workshop hebben 2 studenten mij op 20 november jongstleden geïnterviewd via een Google Hangout on Air.** In de podcast van vandaag laat ik je de audio van het interview horen.'
 episode: 159
+kgRef: podcast_episode/reputatiecoaching_159
 historical: true
 archivePeriod: 2012–2016
 transcriptStatus: shownotes
@@ -21,7 +22,7 @@ showTaxonomies: false
 
 **Transcriptiestatus:** Oorspronkelijke shownotes. Vanaf aflevering 153 werd de podcast niet meer volledig uitgeschreven.
 
-\*\*[*Historische afbeelding niet beschikbaar: ReputatieCoaching Podcast*](https://www.reputatiecoaching.nl/wp-content/uploads/2012/12/Reputatie-Coaching-Podcast-logo-200x200.jpg)Een tijdje geleden vertelde ik je al dat studenten van de Hogeschool Tilburg mij hadden benaderd of ik mijn medewerking wilde verlenen aan een (toen nog te organiseren) workshop over reputatiemanagement. Ik heb toen direct positief gereageerd. Ter voorbereiding van de workshop hebben 2 studenten mij op 20 november jongstleden geïnterviewd via een Google Hangout on Air.\*\*
+\*\*[*Historische afbeelding niet beschikbaar: ReputatieCoaching Podcast*](https://web.archive.org/web/20160422081458/http://www.reputatiecoaching.nl/wp-content/uploads/2012/12/Reputatie-Coaching-Podcast-logo-200x200.jpg)Een tijdje geleden vertelde ik je al dat studenten van de Hogeschool Tilburg mij hadden benaderd of ik mijn medewerking wilde verlenen aan een (toen nog te organiseren) workshop over reputatiemanagement. Ik heb toen direct positief gereageerd. Ter voorbereiding van de workshop hebben 2 studenten mij op 20 november jongstleden geïnterviewd via een Google Hangout on Air.\*\*
 
 In de podcast van vandaag laat ik je de audio van het interview horen. In het interview kwamen onder andere de volgende vragen aan bod:
 

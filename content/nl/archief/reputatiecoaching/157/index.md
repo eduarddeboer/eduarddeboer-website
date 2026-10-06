@@ -3,6 +3,7 @@ title: '157: Podcast 3 jaar! Let jij al op Glassdoor? Kom naar de ReputatieBakke
 date: '2015-12-03T07:30:19+00:00'
 description: '**Vandaag is een bijzondere dag. Waarom, dat hoor je zo als eerste na de intro van deze podcast!** Daarna behandel ik een paar vragen naar aanleiding van podcast 156 van vorige week. Verder heb ik weer een paar nieuwtjes van Google. Zo kun je onder andere niet meer vanuit een andere locatie zoeken en is de one-box verdwenen. Er zijn nog een paar plaatsen beschikbaar bij de workshop reputatiemanagement bij “de Reputatiebakkerij” in Utrecht op 11 december aanstaande.'
 episode: 157
+kgRef: podcast_episode/reputatiecoaching_157
 historical: true
 archivePeriod: 2012–2016
 transcriptStatus: shownotes
@@ -21,9 +22,9 @@ showTaxonomies: false
 
 **Transcriptiestatus:** Oorspronkelijke shownotes. Vanaf aflevering 153 werd de podcast niet meer volledig uitgeschreven.
 
-\*\*[*Historische afbeelding niet beschikbaar: ReputatieCoaching Podcast*](https://www.reputatiecoaching.nl/wp-content/uploads/2012/12/Reputatie-Coaching-Podcast-logo-200x200.jpg)Vandaag is een bijzondere dag. Waarom, dat hoor je zo als eerste na de intro van deze podcast!\*\*
+\*\*[*Historische afbeelding niet beschikbaar: ReputatieCoaching Podcast*](https://web.archive.org/web/20160422081458/http://www.reputatiecoaching.nl/wp-content/uploads/2012/12/Reputatie-Coaching-Podcast-logo-200x200.jpg)Vandaag is een bijzondere dag. Waarom, dat hoor je zo als eerste na de intro van deze podcast!\*\*
 
-**Daarna behandel ik een paar vragen naar aanleiding van [podcast 156](https://www.reputatiecoaching.nl/156/) van vorige week. Verder heb ik weer een paar nieuwtjes van Google. Zo kun je onder andere niet meer vanuit een andere locatie zoeken en is de one-box verdwenen.**
+**Daarna behandel ik een paar vragen naar aanleiding van [podcast 156](https://web.archive.org/web/20170313035131/http://www.reputatiecoaching.nl/156/) van vorige week. Verder heb ik weer een paar nieuwtjes van Google. Zo kun je onder andere niet meer vanuit een andere locatie zoeken en is de one-box verdwenen.**
 
 **Er zijn nog een paar plaatsen beschikbaar bij de workshop reputatiemanagement bij “de Reputatiebakkerij” in Utrecht op 11 december aanstaande.**
 
@@ -41,7 +42,7 @@ Daar kun je zien dat er eigenlijk altijd een groei in zit en elke maand van elk 
 
 ## Vragen naar aanleiding van podcast 156
 
-Blijkbaar riep mijn verhaal uit [podcast 156](https://www.reputatiecoaching.nl/156/) toch nog een aan al vragen op. Luister naar deze podcast voor mijn antwoorden op de volgende vragen:
+Blijkbaar riep mijn verhaal uit [podcast 156](https://web.archive.org/web/20170313035131/http://www.reputatiecoaching.nl/156/) toch nog een aan al vragen op. Luister naar deze podcast voor mijn antwoorden op de volgende vragen:
 
 ```
   * Waarom doe jij mee aan het Google Lokale Gidsen programma?
@@ -84,7 +85,7 @@ Met andere woorden: er zijn slechts 5 plaatsen beschikbaar voor de luisteraars. 
 
 [![20151203-reputatiebakkerij](20151203-reputatiebakkerij.png)](/reputatiebakkerij)
 
-Het aantal plaatsen is beperkt. Heb je interesse en wil je op 11 december alles opsteken over reputatiemanagement om je bedrijf beter op de kaart te zetten en bottom line meer business te doen, surf dan meteen naar: [www.reputatiecoaching.nl/reputatiebakkerij](https://www.reputatiecoaching.nl/reputatiebakkerij) en meld je aan. Wacht niet te lang, want anders vis je achter het net!
+Het aantal plaatsen is beperkt. Heb je interesse en wil je op 11 december alles opsteken over reputatiemanagement om je bedrijf beter op de kaart te zetten en bottom line meer business te doen, surf dan meteen naar: www.reputatiecoaching.nl/reputatiebakkerij en meld je aan. Wacht niet te lang, want anders vis je achter het net!
 
 Als je bent aangemeld krijg je alle details per mail toegestuurd.
 
@@ -97,11 +98,11 @@ Glassdoor begon in de VS als een reviewsite, waar (ex)werknemers hun (ex)werkgev
 Links naar content elders op Internet die in deze podcast aan bod komt:
 
 ```
-  * [ReputatieCoaching Podcast in iTunes](https://www.reputatiecoaching.nl/itunes)
-  * [ReputatieCoaching Podcast op Stitcher](https://www.reputatiecoaching.nl/stitcher)
+  * ReputatieCoaching Podcast in iTunes
+  * ReputatieCoaching Podcast op Stitcher
   * [ReputatieCoaching Podcast op TuneIn Radio](http://tunein.com/radio/ReputatieCoaching-Podcast-p655084/)
-  * [ReputatieCoaching Podcast RSS-feed](https://feeds.reputatiecoaching.nl/ReputatieCoachingPodcast)
+  * [ReputatieCoaching Podcast RSS-feed](https://web.archive.org/web/20151006093045/http://feeds.reputatiecoaching.nl:80/ReputatieCoachingPodcast)
   * [Glassdoor](http://www.glassdoor.nl) – de reviewsite waar werknemers en ex-werknemers hun (vorige) werkgevers kunnen beoordelen
-  * [Reputatiebakkerij](https://www.reputatiecoaching.nl/reputatiebakkerij) – de workshop over reputatiemanagement op 11 december a.s. in Utrecht
+  * Reputatiebakkerij – de workshop over reputatiemanagement op 11 december a.s. in Utrecht
   * “[How Job Seekers Use Glassdoor Reviews](http://new-talent-times.softwareadvice.com/how-job-seekers-use-glassdoor-0114/)” (The New Talent Times, 8 januari 2014)
 ```
