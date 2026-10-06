@@ -35,13 +35,13 @@ Als persoon kun je met de diverse tips aan de slag om bijvoorbeeld je online rep
 
 De podcast kun je online vinden op [www.reputatiecoaching.nl/80](https://web.archive.org/web/20150312094356/http://www.reputatiecoaching.nl/80/). Daar vind je niet alleen de tekst, maar ook video’s waar ik het in deze uitzending over heb, alsmede afbeeldingen, links enzovoorts. Bovendien is de podcast te beluisteren in iTunes en op Stitcher. Daar kun je je dus ook abonneren op de wekelijkse podcast. Veel mensen vinden het ideaal om de wekelijkse afleveringen van de podcast op hun gemak te beluisteren, terwijl ze autorijden, hardlopen, mountainbiken of trainen in de sportschool.
 
-## Terugblik [[podcast 79](/nl/archief/reputatiecoaching/079/)](/nl/archief/reputatiecoaching/079/): compressor.io
+## Terugblik [podcast 79](/nl/archief/reputatiecoaching/079/): compressor.io
 
-Als ik terugkijk naar [[podcast 79](/nl/archief/reputatiecoaching/079/)](/nl/archief/reputatiecoaching/079/), dan denk ik dat voor jou de belangrijkste tip is, om al je afbeeldingen altijd te verkleinen, voordat je ze uploadt. Dit scheelt bandbreedte en verkort dus de laadtijd van je pagina’s en je afbeeldingen. De tool die ik in de vorige podcast hiervoor heb behandeld, heet “Compressor”. Je kunt die tool vinden op [compressor.io](http://compressor.io):
+Als ik terugkijk naar [podcast 79](/nl/archief/reputatiecoaching/079/), dan denk ik dat voor jou de belangrijkste tip is, om al je afbeeldingen altijd te verkleinen, voordat je ze uploadt. Dit scheelt bandbreedte en verkort dus de laadtijd van je pagina’s en je afbeeldingen. De tool die ik in de vorige podcast hiervoor heb behandeld, heet “Compressor”. Je kunt die tool vinden op [compressor.io](http://compressor.io):
 
 [[Historische afbeelding: bekijk bron](https://lh5.googleusercontent.com/-ykRIMWEm2gI/U4tp56JxyWI/AAAAAAAAA1E/swtNO5U1z-I/w600/20140602-compressor.png)](http://compressor.io)
 
-Zo heb ik met alle afbeeldingen in de transcriptie van de podcast van vorige week meer dan 1 MB bespaard. En wees je ervan bewust dat ik dit dus bespaar bij elke keer dat de pagina van [[podcast 79](/nl/archief/reputatiecoaching/079/)](/nl/archief/reputatiecoaching/079/) wordt gedownload en bekeken door een bezoeker! Elke keer! Moet je je voorstellen wat dat scheelt op jaarbasis!
+Zo heb ik met alle afbeeldingen in de transcriptie van de podcast van vorige week meer dan 1 MB bespaard. En wees je ervan bewust dat ik dit dus bespaar bij elke keer dat de pagina van [podcast 79](/nl/archief/reputatiecoaching/079/) wordt gedownload en bekeken door een bezoeker! Elke keer! Moet je je voorstellen wat dat scheelt op jaarbasis!
 
 Wie weet zie je zoveel potentiële besparing, dat je al je afbeeldingen van je website één voor één gaat optimaliseren! Laat het me weten, onderaan de show notes op [www.reputatiecoaching.nl/80](https://web.archive.org/web/20150312094356/http://www.reputatiecoaching.nl/80/).
 
@@ -113,7 +113,7 @@ Matt Cutts deelt ook vaak goede tips, zei ik zojuist al. En afgelopen week verte
 
 Het ranking algoritme van Google was in den beginne alleen maar gebaseerd op de verhouding van het aantal inkomende links en het aantal uitgaande links. Dit is het befaamde “PageRank” algoritme, dat toen is bedacht door, en genoemd naar Google oprichter Larry Page.
 
-Inmiddels zijn er honderden factoren die de ranking van pagina’s in de zoekresultaten bepalen, maar het aantal links speelt desondanks toch nog een belangrijke rol. In [[podcast 65](/nl/archief/reputatiecoaching/065/)](/nl/archief/reputatiecoaching/065/) heb ik een video van Matt Cutts opgenomen, waarin hij vertelt dat de zoekresultaten nog steeds niet geheel zonder backlinks kunnen worden bepaald. En als Google het concept van backlinks zou weglaten, dan zouden de resultaatpagina’s niet de kwaliteit hebben, die ze nu hebben.
+Inmiddels zijn er honderden factoren die de ranking van pagina’s in de zoekresultaten bepalen, maar het aantal links speelt desondanks toch nog een belangrijke rol. In [podcast 65](/nl/archief/reputatiecoaching/065/) heb ik een video van Matt Cutts opgenomen, waarin hij vertelt dat de zoekresultaten nog steeds niet geheel zonder backlinks kunnen worden bepaald. En als Google het concept van backlinks zou weglaten, dan zouden de resultaatpagina’s niet de kwaliteit hebben, die ze nu hebben.
 
 Met andere woorden: backlinks zijn nog steeds nodig, maar het belang ervan zal de komende jaren afnemen. Mede waarschijnlijk hierom wordt aan Matt Cutts de vraag gesteld hoe content zonder veel backlinks toch kan ranken in de zoekresultaten. Matt geeft hierop antwoord in een video op het Google Webmasters YouTube-kanaal. Deze video heb ik ook in de show notes opgenomen:
 
