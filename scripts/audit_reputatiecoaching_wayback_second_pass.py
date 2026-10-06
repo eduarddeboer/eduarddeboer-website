@@ -6,7 +6,7 @@ from collections import defaultdict
 from datetime import datetime, timezone
 from pathlib import Path
 from urllib.error import HTTPError, URLError
-from urllib.parse import urlencode, urlsplit, urlunsplit
+from urllib.parse import urlencode, urljoin, urlsplit, urlunsplit
 from urllib.request import Request, urlopen
 
 ROOT = Path(__file__).resolve().parents[1]
@@ -144,11 +144,22 @@ def available(candidate: str, stamp: str):
         u="https://"+u[len("http://"):]
     return {"capture_url":u,"timestamp":ts,"candidate":candidate,"method":"available"}
 
+def verify_replay(url: str):
+    try:
+        req=Request(url,headers={"User-Agent":USER_AGENT,"Range":"bytes=0-2047"})
+        with urlopen(req,timeout=15.0) as r:
+            status=int(getattr(r,"status",200) or 200)
+            if 200 <= status < 400:
+                return {"status":status,"final_url":r.geturl()}
+    except Exception:
+        return None
+    return None
+
 def cdx(candidate: str, stamp: str):
     params=[
         ("url",candidate),("output","json"),
-        ("fl","timestamp,original,statuscode,mimetype"),
-        ("filter","statuscode:200"),("collapse","digest"),("limit","80"),
+        ("fl","timestamp,original,statuscode,redirect,mimetype"),
+        ("collapse","digest"),("limit","80"),
         ("from","2009"),("to","2022")
     ]
     url="https://web.archive.org/cdx/search/cdx?"+urlencode(params)
@@ -160,31 +171,69 @@ def cdx(candidate: str, stamp: str):
         return None
     rows=data[1:]
     target=int(stamp or "20150101")
-    valid=[]
+    direct=[]
+    redirects=[]
     for row in rows:
-        if not isinstance(row,list) or len(row)<2: continue
-        ts=str(row[0]); orig=str(row[1])
-        if not ts.isdigit(): continue
-        valid.append((abs(int(ts[:8])-target),ts,orig))
-    if not valid: return None
-    _,ts,orig=min(valid)
-    return {
-        "capture_url":f"https://web.archive.org/web/{ts}/{orig}",
-        "timestamp":ts,"candidate":orig,"method":"cdx"
-    }
+        if not isinstance(row,list) or len(row)<4:
+            continue
+        ts,orig,status,redirect = map(str,row[:4])
+        if not ts.isdigit():
+            continue
+        distance=abs(int(ts[:8])-target)
+        if status == "200":
+            direct.append((distance,ts,orig))
+        elif status in {"301","302","303","307","308"} and redirect not in {"","-","None"}:
+            redirects.append((distance,ts,orig,urljoin(orig,redirect)))
+    if direct:
+        _,ts,orig=min(direct)
+        return {
+            "capture_url":f"https://web.archive.org/web/{ts}/{orig}",
+            "timestamp":ts,"candidate":orig,"method":"cdx"
+        }
+    if redirects:
+        _,ts,orig,target_url=min(redirects)
+        replay=f"https://web.archive.org/web/{ts}/{orig}"
+        verified=verify_replay(replay)
+        result={
+            "capture_url":replay,
+            "timestamp":ts,
+            "candidate":orig,
+            "method":"cdx_redirect_verified" if verified else "cdx_redirect_unverified",
+            "redirect_target":target_url,
+        }
+        if verified:
+            result["verified_final_url"]=verified["final_url"]
+            result["verified_status"]=verified["status"]
+        return result
+    return None
+
+def embedded_external_url(url: str):
+    p=urlsplit(url)
+    path=p.path or ""
+    if path.startswith("//"):
+        raw=path[2:]
+        first=raw.split("/",1)[0]
+        if "." in first:
+            return "https://"+raw
+    return None
 
 def find_capture(url: str, stamp: str, extra_paths=()):
     vs=variants(url,extra_paths)
+    embedded=embedded_external_url(url)
+    if embedded:
+        for candidate in variants(embedded):
+            if candidate not in vs:
+                vs.append(candidate)
     # Broad availability API pass first.
     for candidate in vs:
         hit=available(candidate,stamp)
         if hit: return hit
-        time.sleep(0.06)
-    # CDX is more complete than the availability API. Keep this pass bounded.
-    for candidate in vs[:10]:
+        time.sleep(0.04)
+    # CDX is more complete than the availability API and can expose archived redirects.
+    for candidate in vs[:12]:
         hit=cdx(candidate,stamp)
         if hit: return hit
-        time.sleep(0.10)
+        time.sleep(0.06)
     return None
 
 def main():
