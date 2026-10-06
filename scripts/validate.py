@@ -529,6 +529,21 @@ def validate_reputatiecoaching_build_contract(problems: list[str]) -> None:
             problems.append(
                 "layouts/reputatiecoaching-podcast/single.html: legacy archive back-link returned"
             )
+        if '.CurrentSection.RegularPages.ByParam "episode"' not in single_text:
+            problems.append(
+                "layouts/reputatiecoaching-podcast/single.html: podcast navigation must "
+                "follow episode order"
+            )
+        for required_nav_token in (
+            'aria-label="Podcastnavigatie"',
+            'rel="prev"',
+            'rel="next"',
+        ):
+            if required_nav_token not in single_text:
+                problems.append(
+                    "layouts/reputatiecoaching-podcast/single.html: missing podcast "
+                    f"navigation token {required_nav_token}"
+                )
 
     for path in pages:
         text = path.read_text(encoding="utf-8")
