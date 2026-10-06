@@ -3,6 +3,7 @@ title: '90: Wat is podcasting? DTG gaat in reviews, Google bracht vorig jaar 890
 date: '2014-08-21T06:30:50+00:00'
 description: Vandaag is een bijzondere aflevering… Waarom, dat vertel ik je zo. Laat ik zoals altijd beginnen met de onderwerpen voor vandaag. Google verandert continu, maar hoeveel veranderingen het bedrijf vorig jaar heeft doorgevoerd, werd eerder deze week bekend. Ook lanceerde Google eerder deze week de PhotoSphere app voor iPhones, iPods en iPads. DTG gaat zich trouwens meer richten reputatiemanagement in de vorm van reviews, want zij hebben recentelijk een bedrijf overgenomen, dat hierin is gespecialiseerd.
 episode: 90
+kgRef: podcast_episode/reputatiecoaching_090
 historical: true
 archivePeriod: 2012–2016
 transcriptStatus: full
@@ -28,7 +29,7 @@ Hallo en hartelijk welkom bij deze aflevering van de ReputatieCoaching Podcast. 
 
 Als persoon kun je met de diverse tips aan de slag om bijvoorbeeld je online reputatie als hondenuitlater, kraanmachinist, zwembadschoonmaker, butler, mannequin of wat dan ook te verbeteren.
 
-De podcast kun je vinden op [www.reputatiecoaching.nl/90](https://www.reputatiecoaching.nl/90/). Daar vind je niet alleen de tekst, maar ook video’s waar ik het in deze uitzending over heb, alsmede afbeeldingen, links enzovoorts. Bovendien is de podcast te beluisteren in [iTunes](https://www.reputatiecoaching.nl/itunes) en op [Stitcher](https://www.reputatiecoaching.nl/stitcher). Daar kun je je dus ook abonneren op de wekelijkse podcast. Veel mensen vinden het ideaal om de wekelijkse afleveringen van de podcast op hun gemak te beluisteren, terwijl ze wandelen, fietsen, autorijden of trainen in de sportschool.
+De podcast kun je vinden op [www.reputatiecoaching.nl/90](https://web.archive.org/web/20150312094645/http://www.reputatiecoaching.nl/90/). Daar vind je niet alleen de tekst, maar ook video’s waar ik het in deze uitzending over heb, alsmede afbeeldingen, links enzovoorts. Bovendien is de podcast te beluisteren in iTunes en op Stitcher. Daar kun je je dus ook abonneren op de wekelijkse podcast. Veel mensen vinden het ideaal om de wekelijkse afleveringen van de podcast op hun gemak te beluisteren, terwijl ze wandelen, fietsen, autorijden of trainen in de sportschool.
 
 Laat ik dan nu overgaan op de onderwerpen voor vandaag…
 
@@ -72,16 +73,16 @@ Desalniettemin is het een leuke tool om mee te spelen en te kust en te keur van 
 Als je al langer luisteraar van de podcast bent, of een trouwe lezer van het weblog, dan weet je dat ik in het verleden veel instructievideo’s heb gemaakt, waarin ik uitleg hoe je jouw bedrijf kunt aanmelden op websites, die ertoe kunnen bijdragen om hogerop te komen in de lokale zoekresultaten. Zo heb ik bijvoorbeeld video’s gemaakt, waarin ik uitleg hoe je je bedrijf kunt aanmelden in de volgende websites:
 
 ```
-  * [Infobel](https://www.reputatiecoaching.nl/bedrijf-aanmelden-op-infobel/)
-  * [YelloYello](https://www.reputatiecoaching.nl/bedrijf-aanmelden-op-yelloyello-instructievideo/)
-  * [Tuugo](https://www.reputatiecoaching.nl/bedrijf-aanmelden-op-tuugo-nl-instructievideo/)
-  * [Hotfrog](https://www.reputatiecoaching.nl/bedrijf-aanmelden-op-hotfrog/)
-  * [Yalwa](https://www.reputatiecoaching.nl/bedrijf-aanmelden-op-yalwa/)
-  * [MisterWhat](https://www.reputatiecoaching.nl/bedrijf-aanmelden-op-misterwhat/)
+  * [Infobel](https://web.archive.org/web/20160323060859/http://www.reputatiecoaching.nl:80/bedrijf-aanmelden-op-infobel/)
+  * [YelloYello](https://web.archive.org/web/20140324063908/http://www.reputatiecoaching.nl:80/bedrijf-aanmelden-op-yelloyello-instructievideo/)
+  * [Tuugo](https://web.archive.org/web/20140323011432/http://www.reputatiecoaching.nl:80/bedrijf-aanmelden-op-tuugo-nl-instructievideo/)
+  * [Hotfrog](https://web.archive.org/web/20190717184857/https://www.reputatiecoaching.nl/bedrijf-aanmelden-op-hotfrog/)
+  * [Yalwa](https://web.archive.org/web/20140706185914/http://www.reputatiecoaching.nl/bedrijf-aanmelden-op-yalwa/)
+  * [MisterWhat](https://web.archive.org/web/20141024121303/http://www.reputatiecoaching.nl:80/bedrijf-aanmelden-op-misterwhat/)
   * en nog vele andere websites
 ```
 
-Deze artikelen blijken enorm goed te scoren in de zoekmachines. Zo vertelde ik je in [podcast 67](https://www.reputatiecoaching.nl/67/) al over de email die ik had ontvangen van een mevrouw die werd lastiggevallen met telefoontjes over zonnebanken en afgelopen week kreeg ik een voicemail van een mevrouw die maar telefoontjes bleef krijgen over een vermeende strijkservice:
+Deze artikelen blijken enorm goed te scoren in de zoekmachines. Zo vertelde ik je in [podcast 67](https://web.archive.org/web/20141223203653/http://www.reputatiecoaching.nl:80/67/) al over de email die ik had ontvangen van een mevrouw die werd lastiggevallen met telefoontjes over zonnebanken en afgelopen week kreeg ik een voicemail van een mevrouw die maar telefoontjes bleef krijgen over een vermeende strijkservice:
 
 De naam van de beller en haar telefoonnummer heb ik om twee redenen niet vermeld. De eerste reden is de privacy: ik ga natuurlijk niet zomaar een telefoonnummer dat al problemen veroorzaakt voor de eigenaar in de wereld strooien. De tweede reden is om te voorkomen dat het nummer nóg meer geassocieerd wordt met de strijkservice in de lokale zoekresultaten.
 
@@ -137,7 +138,7 @@ Met deze spreekbeurt over podcasting kom ik dan vandaag weer aan het einde van d
 
 Als je de podcast leuk vindt en je wilt nog meer op de hoogte blijven, volg me dan ook op Twitter, via [@reputatiecoach1](https://twitter.com/reputatiecoach1).
 
-Heb je inderdaad wat aan alle informatie die ik met je deel, help mij dan met het verder verbeteren en promoten van deze podcast. Surf daarvoor naar [iTunes](https://www.reputatiecoaching.nl/itunes) of [Stitcher](https://www.reputatiecoaching.nl/stitcher), geef de podcast een sterrenbeoordeling en laat ook je reactie achter. Door de podcast te beoordelen op iTunes en/of Stitcher breng je de podcast onder de aandacht van een breder publiek.
+Heb je inderdaad wat aan alle informatie die ik met je deel, help mij dan met het verder verbeteren en promoten van deze podcast. Surf daarvoor naar iTunes of Stitcher, geef de podcast een sterrenbeoordeling en laat ook je reactie achter. Door de podcast te beoordelen op iTunes en/of Stitcher breng je de podcast onder de aandacht van een breder publiek.
 
 Je kunt me verder helpen, door de podcast aan te bevelen bij vrienden of collega’s, waarvan je denkt dat ze er hun voordeel mee kunnen doen, of door ’m te delen op Twitter, like’n en delen op Facebook of een “+1” te geven op Google+.
 
@@ -145,7 +146,7 @@ En vergeet niet: ik ben hier om je te helpen! Als je een vraag of een probleem h
 
 Als je dat te lastig vindt, of als je de podcast beluistert terwijl je in de auto zit en je hebt acuut een vraag, spreek dan een boodschap in op de ReputatieCoaching Hotline, op nummer: 084 - 883 15 56. Mogelijk behandel ik je vraag of probleem dan in een artikel of in de podcast.
 
-En je kunt ook rechtstreeks op de website een voicemail achterlaten, door op de tab aan de rechterkant van elke pagina te klikken, en je bericht in te spreken. Dit was [ReputatieCoaching Podcast aflevering 90](https://www.reputatiecoaching.nl/90/) en mijn naam is [Eduard de Boer](http://nl.linkedin.com/in/eduarddeboer/nl).
+En je kunt ook rechtstreeks op de website een voicemail achterlaten, door op de tab aan de rechterkant van elke pagina te klikken, en je bericht in te spreken. Dit was [ReputatieCoaching Podcast aflevering 90](https://web.archive.org/web/20150312094645/http://www.reputatiecoaching.nl/90/) en mijn naam is [Eduard de Boer](http://nl.linkedin.com/in/eduarddeboer/nl).
 
 Ik wens je de komende week weer succes met het werken aan je reputatie, zodat je meteen je reputatie voor jou kunt laten werken!
 
@@ -156,9 +157,9 @@ Doei!
 Links naar content die in deze podcast aan bod komt:
 
 ```
-  * [ReputatieCoaching Podcast in iTunes](https://www.reputatiecoaching.nl/itunes)
-  * [ReputatieCoaching Podcast op Stitcher](https://www.reputatiecoaching.nl/stitcher)
-  * [ReputatieCoaching Podcast RSS-feed](https://feeds.reputatiecoaching.nl/ReputatieCoachingPodcast)
+  * ReputatieCoaching Podcast in iTunes
+  * ReputatieCoaching Podcast op Stitcher
+  * [ReputatieCoaching Podcast RSS-feed](https://web.archive.org/web/20140803035048/http://feeds.reputatiecoaching.nl:80/ReputatieCoachingPodcast)
   * “[DTG neemt specialist in klantbeoordelingen over](http://www.emerce.nl/nieuws/dtg-neemt-specialist-klantbeoordelingen)” (Emerce, 18 augustus 2014)
   * “[Google voert 890 veranderingen in het afgelopen jaar door](https://plus.google.com/u/0/+AmitSinghal/posts/XF5QP7CVNQY)” (Amit Singhal op Google+, 19 augustus 2014)
 ```

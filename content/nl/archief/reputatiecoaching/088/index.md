@@ -3,6 +3,7 @@ title: '88: Google Pigeon update, Yelp video reviews, en US$500 boete per negati
 date: '2014-08-07T06:30:35+00:00'
 description: Ik ben een paar dagen terug van vakantie. In de tussentijd heb je gewoon content online zien komen, dus als het goed is, heb je er niets van gemerkt… Verder is er in de tussentijd weer veel gebeurd. Van al het nieuws heb ik ook vandaag weer een selectie gemaakt. Vandaag begin ik met nieuws over de Google Pigeon update, en heb ik een update over Google Streetview. Ik heb inmiddels mijn eerste Yelp video reviews gepost, maar wist je dat je in Amerika US$500 moet betalen per negatieve review?
 episode: 88
+kgRef: podcast_episode/reputatiecoaching_088
 historical: true
 archivePeriod: 2012–2016
 transcriptStatus: full
@@ -30,7 +31,7 @@ Hallo en hartelijk welkom bij deze aflevering van de ReputatieCoaching Podcast. 
 
 Als persoon kun je met de diverse tips aan de slag om bijvoorbeeld je online reputatie als tandtechnicus, plaatwerker, HBO docent, coupeuse, tropenarts of wat dan ook te verbeteren.
 
-De podcast kun je vinden op [www.reputatiecoaching.nl/88](https://www.reputatiecoaching.nl/88/). Daar vind je niet alleen de tekst, maar ook video’s waar ik het in deze uitzending over heb, alsmede afbeeldingen, links enzovoorts. Bovendien is de podcast te beluisteren in [iTunes](https://www.reputatiecoaching.nl/itunes) en op [Stitcher](https://www.reputatiecoaching.nl/stitcher). Daar kun je je dus ook abonneren op de wekelijkse podcast. Veel mensen vinden het ideaal om de wekelijkse afleveringen van de podcast op hun gemak te beluisteren, terwijl ze autorijden.
+De podcast kun je vinden op [www.reputatiecoaching.nl/88](https://web.archive.org/web/20141013151853/http://www.reputatiecoaching.nl:80/88/). Daar vind je niet alleen de tekst, maar ook video’s waar ik het in deze uitzending over heb, alsmede afbeeldingen, links enzovoorts. Bovendien is de podcast te beluisteren in iTunes en op Stitcher. Daar kun je je dus ook abonneren op de wekelijkse podcast. Veel mensen vinden het ideaal om de wekelijkse afleveringen van de podcast op hun gemak te beluisteren, terwijl ze autorijden.
 
 Laat ik dan nu overgaan op de onderwerpen voor vandaag…
 
@@ -38,15 +39,15 @@ Laat ik dan nu overgaan op de onderwerpen voor vandaag…
 
 Afgelopen zaterdag ben ik teruggekomen van een heerlijke vakantie: we hebben dertien dagen doorgebracht in Spanje, waar we van een particulier een huis hadden gehuurd in Polop, een stadje onder de rook van Benidorm en op zo’n 60 kilometer van Alicante.
 
-Ik heb het in [podcast 82](https://www.reputatiecoaching.nl/82/) al aangekondigd, maar volgens mij heb je -als het goed is- niet eens gemerkt dat ik op vakantie was! Want ik heb mij een paar weken vóór de vakantie flink ingespannen om ervoor te zorgen dat er gewoon content live kwam, terwijl ik met het gezin genoot van de vakantie.
+Ik heb het in [podcast 82](https://web.archive.org/web/20150312094433/http://www.reputatiecoaching.nl/82/) al aangekondigd, maar volgens mij heb je -als het goed is- niet eens gemerkt dat ik op vakantie was! Want ik heb mij een paar weken vóór de vakantie flink ingespannen om ervoor te zorgen dat er gewoon content live kwam, terwijl ik met het gezin genoot van de vakantie.
 
 Achteraf begrijp je dan ook de extra reden die ik had om het interview met Karel Geenen op te splitsen in twee delen. Het kwam mij dus tijdens het interview goed uit, dat het zo lang werd.
 
 ## Tevreden over de “whoesh” tussen de topics?
 
-Sinds het bericht van Edwin in [podcast 83](https://www.reputatiecoaching.nl/83/) heb ik een soort van “whoesh” geluid tussen de verschillende onderwerpen, om daarmee duidelijk te maken, dat een nieuw onderwerp volgt. Waar ik benieuwd naar ben, is of je dit prettig vindt, of juist storend.
+Sinds het bericht van Edwin in [podcast 83](https://web.archive.org/web/20140803035055/http://www.reputatiecoaching.nl:80/83/) heb ik een soort van “whoesh” geluid tussen de verschillende onderwerpen, om daarmee duidelijk te maken, dat een nieuw onderwerp volgt. Waar ik benieuwd naar ben, is of je dit prettig vindt, of juist storend.
 
-Dus wil ik graag weten wat je ervan vindt. Geef je mening onderaan de show notes van deze podcast, op [www.reputatiecoaching.nl/88](https://www.reputatiecoaching.nl/88/).
+Dus wil ik graag weten wat je ervan vindt. Geef je mening onderaan de show notes van deze podcast, op [www.reputatiecoaching.nl/88](https://web.archive.org/web/20141013151853/http://www.reputatiecoaching.nl:80/88/).
 
 ## Google local update “Pigeon”
 
@@ -63,7 +64,7 @@ Zij wilden niet vertellen hoeveel impact deze aanpassing heeft op lokale bedrijv
 
 Een grote verandering ten gevolge van Pigeon is het verdwijnen van een groot aantal zogenaamde “7-packs”, die lijstjes met lokale bedrijven van “A” tot en met “G” in de zoekresultaten. Een belangrijke categorie die geheel verdween, was die van “realtors”, ofwel onroerend goed makelaars, evenals andere onroerend goed categorieën.
 
-Volgens Darren Shaw het bedrijf “Whitespark” in Canada, dat ik al wel eens eerder heb genoemd, wordt in zo’n [23% van de gevallen nu geen lokale resultaten meer vertoond](http://www.whitespark.ca/blog/post/37-23-percent-drop-in-local-packs). Whitespark heeft inmiddels al gevonden dat zoeken op de volgende Engelse woorden geen lokale resultaten meer vertoont:
+Volgens Darren Shaw het bedrijf “Whitespark” in Canada, dat ik al wel eens eerder heb genoemd, wordt in zo’n [23% van de gevallen nu geen lokale resultaten meer vertoond](https://web.archive.org/web/20140806195054/http://www.whitespark.ca/blog/post/37-23-percent-drop-in-local-packs). Whitespark heeft inmiddels al gevonden dat zoeken op de volgende Engelse woorden geen lokale resultaten meer vertoont:
 
 ```
   * mold removal
@@ -77,7 +78,7 @@ Volgens Darren Shaw het bedrijf “Whitespark” in Canada, dat ik al wel eens e
   * commercial * (painting, construction, remodeling, etc) - anything with commercial preceding it seems to have stopped returning a local pack.
 ```
 
-*(bron: “[We’re Seeing a 23.4% Drop in Local Packs](http://www.whitespark.ca/blog/post/37-23-percent-drop-in-local-packs)”, Whitespark Blog)*
+*(bron: “[We’re Seeing a 23.4% Drop in Local Packs](https://web.archive.org/web/20140806195054/http://www.whitespark.ca/blog/post/37-23-percent-drop-in-local-packs)”, Whitespark Blog)*
 
 Later bleek echter dat deze categorieën wel weer zichtbaar werden, als je in plaats van bijvoorbeeld “in new york”, intypte “near new york”, dus “in de buurt van”, in plaats van “in”. Het was de afgelopen weken erg turbulent op dit vlak en als je gaat zoeken, kun je meer dan voldoende erover vinden.
 
@@ -111,7 +112,7 @@ Doe daar je voordeel mee en zorg ervoor dat je uithangbord mooi schoon is, je et
 ## Yelp video reviews
 
 *Historische afbeelding niet beschikbaar: Logo Yelp*
-In [podcast 78](https://www.reputatiecoaching.nl/78/) vertelde ik je dat Yelp ging experimenteren met video’s. Echter was toen die service alleen voorbehouden aan de Elite Yelpies. Dat zijn Yelp-gebruikers die een bijzondere status hebben, bijvoorbeeld omdat ze conscientieus en bovenal constant veel reviews schrijven, nieuwe bedrijven toevoegen, foto’s uploaden en dergelijke.
+In [podcast 78](https://web.archive.org/web/20150312094309/http://www.reputatiecoaching.nl/78/) vertelde ik je dat Yelp ging experimenteren met video’s. Echter was toen die service alleen voorbehouden aan de Elite Yelpies. Dat zijn Yelp-gebruikers die een bijzondere status hebben, bijvoorbeeld omdat ze conscientieus en bovenal constant veel reviews schrijven, nieuwe bedrijven toevoegen, foto’s uploaden en dergelijke.
 
 Maar 28 juli kwam er een nieuwe versie van de Yelp app uit voor iOS en Android, waarin deze mogelijkheid werd geboden aan alle Yelp-gebruikers.
 
@@ -125,7 +126,7 @@ Ik heb drie video’s opgenomen. Een video voor Yelp is minimaal 3 seconden en m
 
 Om te zien hoe deze video’s worden vertoond op Yelp, moet je de app downloaden, want op de website worden ze nog niet weergegeven. Zoek restaurant “[La Galera” in Altea (Spanje)](https://www.yelp.nl/biz/la-galera-altea) op in de Yelp app. Daar zie je zes foto’s die ik daar heb gemaakt, tesamen dus met de drie video’s.
 
-Wel heb ik alledrie de video’s geüpload naar YouTube en in de transcriptie van deze podcast opgenomen. Je kunt de video’s dus bekijken op: [www.reputatiecoaching.nl/88](https://www.reputatiecoaching.nl/88/):
+Wel heb ik alledrie de video’s geüpload naar YouTube en in de transcriptie van deze podcast opgenomen. Je kunt de video’s dus bekijken op: [www.reputatiecoaching.nl/88](https://web.archive.org/web/20141013151853/http://www.reputatiecoaching.nl:80/88/):
 
 ## Facebook is nu review site #2!
 
@@ -162,7 +163,7 @@ Maar goed, mensen posten ze dus niet uit zichzelf. Dat houdt in dat je ze erom z
 
 ## US$500 boete voor een negatieve review?!
 
-Je mag als ondernemer niet betalen voor reviews. En laatst werd een [Franse blogger beboet voor het plaatsen van een negatieve review](https://www.reputatiecoaching.nl/82/)…
+Je mag als ondernemer niet betalen voor reviews. En laatst werd een [Franse blogger beboet voor het plaatsen van een negatieve review](https://web.archive.org/web/20150312094433/http://www.reputatiecoaching.nl/82/)…
 
 Maar het kan nog gekker! Ik las eergisteren een bericht dat het Union Street Guest House in de stad Hudson in de staat New York de wereld helemaal op zijn kop zet…
 
@@ -182,7 +183,7 @@ Het hotel komt hiermee wel in de spotlights, maar ik denk dat een dergelijk inci
 
 ## Google verwijdert sterretjes bij Facebookpagina’s en Yelppagina’s in zoekresultaten
 
-In [podcast 74](https://www.reputatiecoaching.nl/74/) vertelde ik je over het feit dat in de zoekresultaten van Google dikwijls reviewsterretjes bij Facebookpagina’s werden vertoond. Het viel me zojuist pas op, dat de meeste daarvan zijn verdwenen, net als een tijdje geleden de thumbnails bij videoresultaten. Nu is het niet helemaal duidelijk of dit komt door een verandering bij Facebook, of bij Google. Want voor sommige Facebookpagina’s zie ik nog wel reviewsterretjes.
+In [podcast 74](https://web.archive.org/web/20150312094201/http://www.reputatiecoaching.nl/74/) vertelde ik je over het feit dat in de zoekresultaten van Google dikwijls reviewsterretjes bij Facebookpagina’s werden vertoond. Het viel me zojuist pas op, dat de meeste daarvan zijn verdwenen, net als een tijdje geleden de thumbnails bij videoresultaten. Nu is het niet helemaal duidelijk of dit komt door een verandering bij Facebook, of bij Google. Want voor sommige Facebookpagina’s zie ik nog wel reviewsterretjes.
 
 Hetzelfde geldt trouwens voor de Nederlandstalige mobiele Yelp site. Ook daarvan worden er al enige tijd geen reviewsterren meer vertoond in de zoekresultaten. Dat is jammer. Gelukkig worden ze nog wel vertoond op de mobiele “yelp.com” site. Mogelijk is dit een fout bij Yelp die weer wordt hersteld, want ik meen me te herinneren dat ik ze ook een tijdje niet heb gezien in de desktopversie van de Nederlandse Yelp-site, maar dat weet ik niet helemaal zeker meer. Mea culpa, ik had dat beter moeten documenteren, toen ik het zag of meende te zien…
 
@@ -222,7 +223,7 @@ Vlak voor ons vertrek pakte ik nogmaals de tube ter hand en zag dat er ook een e
 
 Dus ik ben benieuwd hoelang het duurt, tot één van de bedrijven reageert. Ik hou je op de hoogte. Natuurlijk wilde ik je de videoreview niet onthouden, dus die heb ik ook in de show notes opgenomen:
 
-Heb je inderdaad wat aan alle informatie die ik met je deel, help mij dan met het verder verbeteren en promoten van deze podcast. Surf daarvoor naar [iTunes](https://www.reputatiecoaching.nl/itunes) of [Stitcher](https://www.reputatiecoaching.nl/stitcher), geef de podcast een sterrenbeoordeling en laat ook je reactie achter. Door de podcast te beoordelen op iTunes en/of Stitcher breng je de podcast onder de aandacht van een breder publiek.
+Heb je inderdaad wat aan alle informatie die ik met je deel, help mij dan met het verder verbeteren en promoten van deze podcast. Surf daarvoor naar iTunes of Stitcher, geef de podcast een sterrenbeoordeling en laat ook je reactie achter. Door de podcast te beoordelen op iTunes en/of Stitcher breng je de podcast onder de aandacht van een breder publiek.
 
 Je kunt me verder helpen, door de podcast aan te bevelen bij vrienden of collega’s, waarvan je denkt dat ze er hun voordeel mee kunnen doen, of door ’m te delen op Twitter, like’n en delen op Facebook of een “+1” te geven op Google+.
 
@@ -230,7 +231,7 @@ En vergeet niet: ik ben hier om je te helpen! Als je een vraag of een probleem h
 
 Als je dat te lastig vindt, of als je de podcast beluistert terwijl je in de auto zit en je hebt acuut een vraag, spreek dan een boodschap in op de ReputatieCoaching Hotline, op nummer: 084 - 883 15 56. Mogelijk behandel ik je vraag of probleem dan in een artikel of in de podcast.
 
-En je kunt ook rechtstreeks op de website een voicemail achterlaten, door op de tab aan de rechterkant van elke pagina te klikken, en je bericht in te spreken. Dit was [ReputatieCoaching Podcast aflevering 88](https://www.reputatiecoaching.nl/88/) en mijn naam is [Eduard de Boer](http://nl.linkedin.com/in/eduarddeboer/nl).
+En je kunt ook rechtstreeks op de website een voicemail achterlaten, door op de tab aan de rechterkant van elke pagina te klikken, en je bericht in te spreken. Dit was [ReputatieCoaching Podcast aflevering 88](https://web.archive.org/web/20141013151853/http://www.reputatiecoaching.nl:80/88/) en mijn naam is [Eduard de Boer](http://nl.linkedin.com/in/eduarddeboer/nl).
 
 Ik wens je de komende week weer succes met het werken aan je reputatie, zodat je meteen je reputatie voor jou kunt laten werken!
 
@@ -241,11 +242,11 @@ Doei!
 Links naar content die in deze podcast aan bod komt:
 
 ```
-  * [ReputatieCoaching Podcast in iTunes](https://www.reputatiecoaching.nl/itunes)
-  * [ReputatieCoaching Podcast op Stitcher](https://www.reputatiecoaching.nl/stitcher)
-  * [ReputatieCoaching Podcast RSS-feed](https://feeds.reputatiecoaching.nl/ReputatieCoachingPodcast)
+  * ReputatieCoaching Podcast in iTunes
+  * ReputatieCoaching Podcast op Stitcher
+  * [ReputatieCoaching Podcast RSS-feed](https://web.archive.org/web/20140803035048/http://feeds.reputatiecoaching.nl:80/ReputatieCoachingPodcast)
   * “[Yelp, Camera, Action: Now Add Videos with Your Yelp Mobile App!](http://officialblog.yelp.com/2014/07/yelp-camera-action-now-add-videos-with-your-yelp-mobile-app.html)” (Yelp blog, 28 juli 2014)
-  * “[We’re Seeing a 23.4% Drop in Local Packs](http://www.whitespark.ca/blog/post/37-23-percent-drop-in-local-packs)” (Whitespark Blog, 29 juli 2014)
+  * “[We’re Seeing a 23.4% Drop in Local Packs](https://web.archive.org/web/20140806195054/http://www.whitespark.ca/blog/post/37-23-percent-drop-in-local-packs)” (Whitespark Blog, 29 juli 2014)
   * “[Where do consumers leave local reviews? Facebook now #2](http://blumenthals.com/blog/2014/07/30/where-do-consumers-leave-local-reviews-facebook-now-2/)” (Mike Blumenthal, 30 juli 2014)
   * “[Hotel Fines Brides $500 For Every Negative Yelp Review Their Wedding Guests Leave](http://www.businessinsider.com/hotel-fines-brides-for-negative-yelp-reviews-2014-8)” (Business Insider, 4 augustus 2014)
   * “[Password hack affects 1.2 billion accounts, more at risk](http://www.cbc.ca/news/world/password-hack-affects-1-2-billion-accounts-more-at-risk-1.2728865)” (CBC.ca, 6 augustus 2014)

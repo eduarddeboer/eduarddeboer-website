@@ -3,6 +3,7 @@ title: '87: Interview met Karel Geenen (deel 2) en een tip voor het later sturen
 date: '2014-07-31T06:30:44+00:00'
 description: Vorige week heb je kunnen luisteren naar het eerste deel van het interview met internet marketeer Karel Geenen en vandaag heb ik het tweede deel voor je. Ik hoop dat je deel 1 van vorige week leuk vond en er nu naar uitkijkt om deel 2 te beluisteren. Vandaag heb ik ook weer een leuke en hopelijk handige tip waar jij je voordeel mee kunt doen… Hallo en hartelijk welkom bij deze aflevering van de ReputatieCoaching Podcast.
 episode: 87
+kgRef: podcast_episode/reputatiecoaching_087
 historical: true
 archivePeriod: 2012–2016
 transcriptStatus: full
@@ -22,19 +23,19 @@ showTaxonomies: false
 **Transcriptiestatus:** Volledige transcriptie uit het oorspronkelijke archief.
 
 ***Historische afbeelding niet beschikbaar: ReputatieCoaching Podcast*
-Vorige week heb je kunnen luisteren naar het eerste deel van het interview met internet marketeer Karel Geenen en vandaag heb ik het tweede deel voor je. Ik hoop dat je [deel 1 van vorige week](https://www.reputatiecoaching.nl/86/) leuk vond en er nu naar uitkijkt om deel 2 te beluisteren. Vandaag heb ik ook weer een leuke en hopelijk handige tip waar jij je voordeel mee kunt doen…**
+Vorige week heb je kunnen luisteren naar het eerste deel van het interview met internet marketeer Karel Geenen en vandaag heb ik het tweede deel voor je. Ik hoop dat je [deel 1 van vorige week](https://web.archive.org/web/20140801225503/http://www.reputatiecoaching.nl:80/86/) leuk vond en er nu naar uitkijkt om deel 2 te beluisteren. Vandaag heb ik ook weer een leuke en hopelijk handige tip waar jij je voordeel mee kunt doen…**
 
 Hallo en hartelijk welkom bij deze aflevering van de ReputatieCoaching Podcast. Mijn naam is Eduard de Boer, ook bekend als de ReputatieCoach. Dit is dé podcast die je moet beluisteren als je meer wilt leren over online reputatie en reputatiemanagement en ook als je wilt werken aan je online reputatie en je online vindbaarheid wilt verbeteren. Dit alles kan je helpen om jezelf beter op de online kaart te plaatsen, waardoor je als bedrijf meer business kunt doen.
 
 Als persoon kun je met de diverse tips aan de slag om je online reputatie te verbeteren.
 
-De podcast kun je vinden op [www.reputatiecoaching.nl/87](https://www.reputatiecoaching.nl/87/). Daar vind je niet alleen de tekst, maar ook video’s waar ik het in deze uitzending over heb, alsmede afbeeldingen, links enzovoorts. Bovendien is de podcast te beluisteren in [iTunes](https://www.reputatiecoaching.nl/itunes) en op [Stitcher](https://www.reputatiecoaching.nl/stitcher). Daar kun je je dus ook abonneren op de wekelijkse podcast.
+De podcast kun je vinden op [www.reputatiecoaching.nl/87](https://web.archive.org/web/20150312094559/http://www.reputatiecoaching.nl/87/). Daar vind je niet alleen de tekst, maar ook video’s waar ik het in deze uitzending over heb, alsmede afbeeldingen, links enzovoorts. Bovendien is de podcast te beluisteren in iTunes en op Stitcher. Daar kun je je dus ook abonneren op de wekelijkse podcast.
 
 ## Terugblik vorige week en deze week
 
-Vorige week heb ik een presentatie live gezet, die ik in mei dit jaar heb gegeven bij Ordina. De titel van de presentatie is: “[Delen is het nieuwe vermenigvuldigen](https://www.reputatiecoaching.nl/delen-het-nieuwe-vermenigvuldigen-video/)”. Bovendien heb ik ook nog een 16-tal uitspraken, citaten, quotes en aforismen met je gedeeld, met als thema “[Geven en delen](https://www.reputatiecoaching.nl/uitspraken-citaten-en-aforismen-delen-en-geven/)”.
+Vorige week heb ik een presentatie live gezet, die ik in mei dit jaar heb gegeven bij Ordina. De titel van de presentatie is: “[Delen is het nieuwe vermenigvuldigen](https://web.archive.org/web/20150910174615/http://www.reputatiecoaching.nl:80/delen-het-nieuwe-vermenigvuldigen-video)”. Bovendien heb ik ook nog een 16-tal uitspraken, citaten, quotes en aforismen met je gedeeld, met als thema “[Geven en delen](https://web.archive.org/web/20150915132924/http://www.reputatiecoaching.nl:80/uitspraken-citaten-en-aforismen-delen-en-geven/)”.
 
-Eerder deze week heb je hopelijk ook de presentatie “[Content marketing voor je reputatie](https://www.reputatiecoaching.nl/content-marketing-voor-je-reputatie-video/)” online zien komen. Ik ben benieuwd wat je van deze presentaties vond. Heb je nog nieuwe dingen gehoord, of heb ik alleen maar open deuren ingetrapt en allemaal dingen verteld, die je al wist? Op zich kan ik me voorstellen dat je het meeste al wel wist, want het publiek dat ik beide avonden had, moest ik vanaf de basis aan de hand meenemen… Maar wie weet heb je er toch nog iets van opgestoken!
+Eerder deze week heb je hopelijk ook de presentatie “[Content marketing voor je reputatie](https://web.archive.org/web/20150915132912/http://www.reputatiecoaching.nl:80/content-marketing-voor-je-reputatie-video/)” online zien komen. Ik ben benieuwd wat je van deze presentaties vond. Heb je nog nieuwe dingen gehoord, of heb ik alleen maar open deuren ingetrapt en allemaal dingen verteld, die je al wist? Op zich kan ik me voorstellen dat je het meeste al wel wist, want het publiek dat ik beide avonden had, moest ik vanaf de basis aan de hand meenemen… Maar wie weet heb je er toch nog iets van opgestoken!
 
 ## Tip: Stuur je mail later met lettermelater.com
 
@@ -50,11 +51,11 @@ Je moet een account aanmaken, dat je koppelt aan tenminste één bestaand e-mail
 
 [![LetterMeLater.com compose a message](20140731-LettermeLater-compose.png)](https://lh4.googleusercontent.com/-xagsE14_rJA/U76fX6GmABI/AAAAAAAABAY/Jh4rSuZEgCA/w823-h1108-no/20140731-LettermeLater-compose.png)
 
-Kijk er eens naar, meld je aan en bedenk eens een leuke toepassing. Laat me die weten, onderaan de show notes op [www.reputatiecoaching.nl/87](https://www.reputatiecoaching.nl/87/).
+Kijk er eens naar, meld je aan en bedenk eens een leuke toepassing. Laat me die weten, onderaan de show notes op [www.reputatiecoaching.nl/87](https://web.archive.org/web/20150312094559/http://www.reputatiecoaching.nl/87/).
 
 ## Interview met Karel Geenen (deel 2)
 
-[![Karel Geenen](201407-logo-Karel-Geenen.png)](http://www.karelgeenen.nl)Dan is het nu tijd om over te gaan op deel 2 van het interview met Karel Geenen… Voor het geval je deel 1 eerst nog of nog een keer wilt beluisteren, dan verwijs ik je naar [podcast 86](https://www.reputatiecoaching.nl/86/).
+[![Karel Geenen](201407-logo-Karel-Geenen.png)](http://www.karelgeenen.nl)Dan is het nu tijd om over te gaan op deel 2 van het interview met Karel Geenen… Voor het geval je deel 1 eerst nog of nog een keer wilt beluisteren, dan verwijs ik je naar [podcast 86](https://web.archive.org/web/20140801225503/http://www.reputatiecoaching.nl:80/86/).
 
 Net zoals in de vorige podcast, heb ik niet een volledige transcriptie van het interview in de tekst opgenomen. In de show notes lees je alleen de vragen. Wil je weten wat Karel Geenen hierop antwoordt, luister dan naar de podcast. Ik zal overigens binnenkort het interview in zijn geheel online zetten…
 
@@ -88,11 +89,11 @@ Net zoals in de vorige podcast, heb ik niet een volledige transcriptie van het i
 
 *Karel, nogmaals enorm bedankt en wellicht nog eens tot in een volgende uitzending!*
 
-Hiermee komt er dan ook weer een einde aan deze podcast. Heb je het vol weten te houden, tot hier? Heb je trouwens goede dingen opgestoken uit de verhalen van Karel Geenen? Daar ben ik wel benieuwd naar! Geef je reactie onderaan de show notes, op [www.reputatiecoaching.nl/87](https://www.reputatiecoaching.nl/87/).
+Hiermee komt er dan ook weer een einde aan deze podcast. Heb je het vol weten te houden, tot hier? Heb je trouwens goede dingen opgestoken uit de verhalen van Karel Geenen? Daar ben ik wel benieuwd naar! Geef je reactie onderaan de show notes, op [www.reputatiecoaching.nl/87](https://web.archive.org/web/20150312094559/http://www.reputatiecoaching.nl/87/).
 
 Als je de podcast leuk vindt en je wilt nog meer op de hoogte blijven, volg me dan ook op Twitter, via [@reputatiecoach1](https://twitter.com/reputatiecoach1).
 
-Heb je inderdaad wat aan alle informatie die ik met je deel, help mij dan met het verder verbeteren en promoten van deze podcast. Surf daarvoor naar [iTunes](https://www.reputatiecoaching.nl/itunes) of [Stitcher](https://www.reputatiecoaching.nl/stitcher), geef de podcast een sterrenbeoordeling en laat ook je reactie achter. Door de podcast te beoordelen op iTunes en/of Stitcher breng je de podcast onder de aandacht van een breder publiek.
+Heb je inderdaad wat aan alle informatie die ik met je deel, help mij dan met het verder verbeteren en promoten van deze podcast. Surf daarvoor naar iTunes of Stitcher, geef de podcast een sterrenbeoordeling en laat ook je reactie achter. Door de podcast te beoordelen op iTunes en/of Stitcher breng je de podcast onder de aandacht van een breder publiek.
 
 Je kunt me verder helpen, door de podcast aan te bevelen bij vrienden of collega’s, waarvan je denkt dat ze er hun voordeel mee kunnen doen, of door ’m te delen op Twitter, like’n en delen op Facebook of een “+1” te geven op Google+.
 
@@ -100,7 +101,7 @@ En vergeet niet: ik ben hier om je te helpen! Als je een vraag of een probleem h
 
 Als je dat te lastig vindt, of als je de podcast beluistert terwijl je in de auto zit en je hebt acuut een vraag, spreek dan een boodschap in op de ReputatieCoaching Hotline, op nummer: 084 - 883 15 56. Mogelijk behandel ik je vraag of probleem dan in een artikel of in de podcast.
 
-En je kunt ook rechtstreeks op de website een voicemail achterlaten, door op de tab aan de rechterkant van elke pagina te klikken, en je bericht in te spreken. Dit was [ReputatieCoaching Podcast aflevering 87](https://www.reputatiecoaching.nl/87/) en mijn naam is [Eduard de Boer](http://nl.linkedin.com/in/eduarddeboer/nl).
+En je kunt ook rechtstreeks op de website een voicemail achterlaten, door op de tab aan de rechterkant van elke pagina te klikken, en je bericht in te spreken. Dit was [ReputatieCoaching Podcast aflevering 87](https://web.archive.org/web/20150312094559/http://www.reputatiecoaching.nl/87/) en mijn naam is [Eduard de Boer](http://nl.linkedin.com/in/eduarddeboer/nl).
 
 Ik wens je de komende week weer succes met het werken aan je reputatie, zodat je meteen je reputatie voor jou kunt laten werken!
 
@@ -111,9 +112,9 @@ Doei!
 Links naar content die in deze podcast aan bod komt:
 
 ```
-  * [ReputatieCoaching Podcast in iTunes](https://www.reputatiecoaching.nl/itunes)
-  * [ReputatieCoaching Podcast op Stitcher](https://www.reputatiecoaching.nl/stitcher)
-  * [ReputatieCoaching Podcast RSS-feed](https://feeds.reputatiecoaching.nl/ReputatieCoachingPodcast)
+  * ReputatieCoaching Podcast in iTunes
+  * ReputatieCoaching Podcast op Stitcher
+  * [ReputatieCoaching Podcast RSS-feed](https://web.archive.org/web/20140803035048/http://feeds.reputatiecoaching.nl:80/ReputatieCoachingPodcast)
   * [KarelGeenen.nl](http://www.karelgeenen.nl/)
   * “[Zo profiteer je maximaal van je Google+ bedrijfspagina!](http://www.karelgeenen.nl/19/zo-profiteer-je-maximaal-van-je-google-bedrijfspagina/)” (Karel Geenen blog, 19 juni 2014)
 ```
