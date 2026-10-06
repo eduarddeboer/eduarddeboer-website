@@ -3,6 +3,7 @@ title: '99: Penguin 3.0 is los! Einde 14-Daagse Video Challenge. Goede categorie
 date: '2014-10-23T06:30:31+00:00'
 description: 'Ja, je hoort het goed: aflevering 99 alweer! Volgende week donderdagmorgen om 08:30 uur komt de 100e podcast uit en dan heb ik een heel bijzondere gast! Iedereen kent die persoon, die ik dan in de show heb! Ik zei het vorige week al: het is iemand die wereldwijd meer dan een half miljoen mensen heeft getraind en gecoached, een dozijn boeken in diverse talen heeft gepubliceerd en meer dan 50.'
 episode: 99
+kgRef: podcast_episode/reputatiecoaching_099
 historical: true
 archivePeriod: 2012–2016
 transcriptStatus: full
@@ -28,11 +29,11 @@ Ja, je hoort het goed: aflevering 99 alweer! Volgende week donderdagmorgen om 08
 
 Hallo en hartelijk welkom bij deze aflevering van de ReputatieCoaching Podcast. Ik ben Eduard de Boer, ReputatieCoach. Dit is dé podcast die jou helpt om meer business te genereren, doordat jouw website beter gevonden wordt, zowel lokaal als landelijk en doordat ik je uitleg hoe je je online reputatie kunt verbeteren. Dit alles helpt je om je bedrijf en jezelf beter op de online kaart te plaatsen.
 
-De podcast kun je vinden op [www.reputatiecoaching.nl/99](https://www.reputatiecoaching.nl/99/). Daar vind je niet alleen de tekst, maar ook video’s waar ik het in deze uitzending over heb, alsmede afbeeldingen, links enzovoorts. Bovendien is de podcast te beluisteren in [iTunes](https://www.reputatiecoaching.nl/itunes), op [Stitcher](https://www.reputatiecoaching.nl/stitcher) en sinds deze week ook op [TuneIn Radio](http://tunein.com/radio/ReputatieCoaching-Podcast-p655084/). Daar kun je je ook abonneren op de wekelijkse podcast. Veel mensen vinden het ideaal om de wekelijkse afleveringen van de podcast op hun gemak te beluisteren, terwijl ze autorijden, fietsen of trainen in de sportschool.
+De podcast kun je vinden op [www.reputatiecoaching.nl/99](https://web.archive.org/web/20141122023719/http://www.reputatiecoaching.nl:80/99/). Daar vind je niet alleen de tekst, maar ook video’s waar ik het in deze uitzending over heb, alsmede afbeeldingen, links enzovoorts. Bovendien is de podcast te beluisteren in iTunes, op Stitcher en sinds deze week ook op [TuneIn Radio](http://tunein.com/radio/ReputatieCoaching-Podcast-p655084/). Daar kun je je ook abonneren op de wekelijkse podcast. Veel mensen vinden het ideaal om de wekelijkse afleveringen van de podcast op hun gemak te beluisteren, terwijl ze autorijden, fietsen of trainen in de sportschool.
 
 ## 14-Daagse Video Challenge ten einde
 
-Zoals ik je vertelde in de vorige podcast, participeerde ik in de 14-Daagse Video Challenge die werd georganiseerd door [Brenda Kok, die ik in podcast 94 in de show had](https://www.reputatiecoaching.nl/94/). Het was natuurlijk geen onderlinge wedstrijd, maar een challenge voor jezelf. Doel was je eigen grenzen verleggen door uit je comfort zone te komen, waardoor je je gemakkelijker voor de camera zou gaan voelen.
+Zoals ik je vertelde in de vorige podcast, participeerde ik in de 14-Daagse Video Challenge die werd georganiseerd door [Brenda Kok, die ik in podcast 94 in de show had](https://web.archive.org/web/20150312094833/http://www.reputatiecoaching.nl/94/). Het was natuurlijk geen onderlinge wedstrijd, maar een challenge voor jezelf. Doel was je eigen grenzen verleggen door uit je comfort zone te komen, waardoor je je gemakkelijker voor de camera zou gaan voelen.
 
 Ondanks dat ik slechts 10 dagen kon deelnemen (daar kom ik zo op terug), heb ik er veel aan gehad. Naast alle goede tips over achtergrond, kleding, foute instellingen op mijn mengpaneel etc. ben ik nu ook over de schroom heen, om voor de camera te staan. Ik noem het resultaat van de inspanningen ruim geslaagd!
 
@@ -135,7 +136,7 @@ Sommige posts gaan geautomatiseerd, zoals Instagram foto’s: die deel ik nog we
 
 Ik ben wel eens benieuwd of jij nog erg actief bent op Facebook. Wat doe jij zoal op dit grootste sociale netwerk ter wereld, wat jou echt gelukkig maakt? Net als ik, je tijd verdoen? Haal jij veel business uit Facebook, of ben je alleen maar bezig om meer fans en likes te verzamelen, zonder een gedegen visie?
 
-Geef eens je reactie onderaan de show notes van deze podcast, op [www.reputatiecoaching.nl/99](https://www.reputatiecoaching.nl/99/). Ik kijk ernaar uit!
+Geef eens je reactie onderaan de show notes van deze podcast, op [www.reputatiecoaching.nl/99](https://web.archive.org/web/20141122023719/http://www.reputatiecoaching.nl:80/99/). Ik kijk ernaar uit!
 
 ## Is Facebook het nieuwe YouTube?
 
@@ -159,15 +160,15 @@ De URL was niet alleen ingevuld in het URL veld, maar ook nog eens in de body va
 
 Dat is nu precies de reden dat ik standaard het niet toesta dat reacties meteen live op de site komen. Af en toe komen er namelijk toch nog berichtjes van dit soort door het spamfilter.
 
-Nu maakt me dat niet veel uit, want ik richt me namelijk liever op de positieve kant van het functioneren van Akismet. Sinds dat ik die plugin heb geactiveerd op [www.reputatiecoaching.nl](http://www.reputatiecoaching.nl), heeft die namelijk al wel meer dan 65.000 spamberichten geheel geautomatiseerd onderschept! Stel je voor dat ik die allemaal met de hand had moeten controleren en afwijzen! Ik moet er niet aan denken!
+Nu maakt me dat niet veel uit, want ik richt me namelijk liever op de positieve kant van het functioneren van Akismet. Sinds dat ik die plugin heb geactiveerd op [www.reputatiecoaching.nl](https://web.archive.org/web/20141109194104/http://www.reputatiecoaching.nl:80/), heeft die namelijk al wel meer dan 65.000 spamberichten geheel geautomatiseerd onderschept! Stel je voor dat ik die allemaal met de hand had moeten controleren en afwijzen! Ik moet er niet aan denken!
 
 Heb jij last van spam in de reacties van je site? Wat doe jij ertegen? Heb je een captcha geïnstalleerd als extra barrière? Of gebruik je een ander mechanisme of een andere service voor reacties, zoals bijvoorbeeld Disqus (met een ‘q’)?
 
-Laat het me weten als reactie, onderaan de show notes op [www.reputatiecoaching.nl/99](https://www.reputatiecoaching.nl/99/). En als het een valide reactie is, dan komt die heus live, hoor!
+Laat het me weten als reactie, onderaan de show notes op [www.reputatiecoaching.nl/99](https://web.archive.org/web/20141122023719/http://www.reputatiecoaching.nl:80/99/). En als het een valide reactie is, dan komt die heus live, hoor!
 
 ## Google: Gebruik zowel RSS/Atom feed(s), als sitemap(s)!
 
-Vorige week publiceerde Google een verzameling “[Best practices for XML sitemaps & RSS/Atom feeds](http://googlewebmastercentral.blogspot.ca/2014/10/best-practices-for-xml-sitemaps-rssatom.html)” op haar Webmaster Central Blog. Daarin wordt beschreven dat je als websiteeigenaar c.q. webmaster niet alleen moet vertrouwen op XML sitemaps, of op RSS of Atom feeds. In die post kun je nalezen dat je beide moet gebruiken en onderhouden.
+Vorige week publiceerde Google een verzameling “[Best practices for XML sitemaps & RSS/Atom feeds](https://web.archive.org/web/20141023041704/http://googlewebmastercentral.blogspot.ca/2014/10/best-practices-for-xml-sitemaps-rssatom.html)” op haar Webmaster Central Blog. Daarin wordt beschreven dat je als websiteeigenaar c.q. webmaster niet alleen moet vertrouwen op XML sitemaps, of op RSS of Atom feeds. In die post kun je nalezen dat je beide moet gebruiken en onderhouden.
 
 Reden is dat RSS of Atom feeds Google in de gelegenheid stellen de meest actuele posts snel te vinden, zodat die kunnen worden geïndexeerd, terwijl sitemaps juist zijn bedoeld om Google op diepliggende content attent te maken. Daarbij voegt Google toe dat het aanbieden van sitemaps of feeds nog steeds geen garantie geeft dat de content daadwerkelijk door Google wordt geïndexeerd.
 
@@ -193,7 +194,7 @@ Met deze tip kom ik dan weer bijna aan het einde van deze podcast. Ik wil je all
 
 Als je de podcast leuk vindt en je wilt continu op de hoogte blijven van alle ontwikkelingen, volg me dan ook op Twitter, via [@reputatiecoach1](https://twitter.com/reputatiecoach1).
 
-Heb je inderdaad wat aan alle informatie die ik met je deel, help mij dan met het verder verbeteren en promoten van deze podcast. Surf daarvoor naar [iTunes](https://www.reputatiecoaching.nl/itunes) of [Stitcher](https://www.reputatiecoaching.nl/stitcher), geef de podcast een sterrenbeoordeling en laat ook je reactie achter. Door de podcast te beoordelen op iTunes en/of Stitcher breng je de podcast onder de aandacht van een breder publiek.
+Heb je inderdaad wat aan alle informatie die ik met je deel, help mij dan met het verder verbeteren en promoten van deze podcast. Surf daarvoor naar iTunes of Stitcher, geef de podcast een sterrenbeoordeling en laat ook je reactie achter. Door de podcast te beoordelen op iTunes en/of Stitcher breng je de podcast onder de aandacht van een breder publiek.
 
 Je kunt me verder helpen, door de podcast aan te bevelen bij vrienden of collega’s, waarvan je denkt dat ze er hun voordeel mee kunnen doen, of door ’m te delen op Twitter, like’n en delen op Facebook of een “+1” te geven op Google+.
 
@@ -201,7 +202,7 @@ En vergeet niet: ik ben hier om je te helpen! Als je een vraag of een probleem h
 
 Als je dat te lastig vindt, of als je de podcast beluistert terwijl je in de auto zit en je hebt acuut een vraag, spreek dan een boodschap in op de ReputatieCoaching Hotline, op nummer: 084 - 883 15 56. Mogelijk behandel ik je vraag of probleem dan in een artikel of in de podcast.
 
-En je kunt ook rechtstreeks op de website een voicemail achterlaten, door op de tab aan de rechterkant van elke pagina te klikken, en je bericht in te spreken. Dit was [ReputatieCoaching Podcast aflevering 99](https://www.reputatiecoaching.nl/99/) en mijn naam is [Eduard de Boer](http://nl.linkedin.com/in/eduarddeboer/nl).
+En je kunt ook rechtstreeks op de website een voicemail achterlaten, door op de tab aan de rechterkant van elke pagina te klikken, en je bericht in te spreken. Dit was [ReputatieCoaching Podcast aflevering 99](https://web.archive.org/web/20141122023719/http://www.reputatiecoaching.nl:80/99/) en mijn naam is [Eduard de Boer](http://nl.linkedin.com/in/eduarddeboer/nl).
 
 Ik wens je de komende week weer succes met het werken aan je reputatie, zodat je meteen je reputatie voor jou kunt laten werken!
 
@@ -212,12 +213,12 @@ Doei!
 Links naar content die in deze podcast aan bod komt:
 
 ```
-  * [ReputatieCoaching Podcast in iTunes](https://www.reputatiecoaching.nl/itunes)
-  * [ReputatieCoaching Podcast op Stitcher](https://www.reputatiecoaching.nl/stitcher)
+  * ReputatieCoaching Podcast in iTunes
+  * ReputatieCoaching Podcast op Stitcher
   * [ReputatieCoaching Podcast op TuneIn Radio](http://tunein.com/radio/ReputatieCoaching-Podcast-p655084/)
-  * [ReputatieCoaching Podcast RSS-feed](https://feeds.reputatiecoaching.nl/ReputatieCoachingPodcast)
+  * [ReputatieCoaching Podcast RSS-feed](https://web.archive.org/web/20141223114514/http://feeds.reputatiecoaching.nl:80/ReputatieCoachingPodcast)
   * [Audacity](http://audacity.sourceforge.net/?lang=nl) : Gratis, open source, cross-platform software voor het opnemen en bewerken van geluiden
   * “[Introducing a new audio experience on Twitter](https://blog.twitter.com/2014/introducing-a-new-audio-experience-on-twitter)” (Twitter Blog, 16 oktober 2014)
   * “[Why Copyblogger Is Killing Its Facebook Page](http://www.copyblogger.com/bye-facebook/)” (Copyblogger, 18 oktober 2014)
-  * “[Best practices for XML sitemaps & RSS/Atom feeds](http://googlewebmastercentral.blogspot.ca/2014/10/best-practices-for-xml-sitemaps-rssatom.html)” (Google Webmaster Central Blog, 16 oktober 2014)
+  * “[Best practices for XML sitemaps & RSS/Atom feeds](https://web.archive.org/web/20141023041704/http://googlewebmastercentral.blogspot.ca/2014/10/best-practices-for-xml-sitemaps-rssatom.html)” (Google Webmaster Central Blog, 16 oktober 2014)
 ```
