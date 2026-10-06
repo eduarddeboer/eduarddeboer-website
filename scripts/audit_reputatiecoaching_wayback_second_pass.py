@@ -90,38 +90,42 @@ def parse_old_repo(old_repo: Path):
 def variants(url: str, extra_paths=()):
     p = urlsplit(normalize_url(url))
     host = (p.hostname or "").lower()
-    hosts = [host]
-    if host in RC_HOSTS:
-        hosts += ["reputatiecoaching.nl", "www.reputatiecoaching.nl", "dev.reputatiecoaching.nl"]
+    if not host:
+        return []
+    scheme = p.scheme if p.scheme in {"http","https"} else "https"
+    alt_scheme = "http" if scheme == "https" else "https"
+    if host.startswith("www."):
+        alt_host = host[4:]
     else:
-        if host.startswith("www."):
-            hosts.append(host[4:])
-        elif host:
-            hosts.append("www." + host)
-    hosts = list(dict.fromkeys(h for h in hosts if h))
-    paths = [p.path or "/"]
-    paths.extend(extra_paths)
-    expanded = []
-    for path in paths:
-        if not path.startswith("/"): path = "/" + path
-        expanded.append(path)
-        if path != "/":
-            expanded.append(path.rstrip("/") if path.endswith("/") else path + "/")
-    paths = list(dict.fromkeys(expanded))
-    queries = [p.query]
-    if p.query:
-        queries.append("")
+        alt_host = "www." + host
+    if host in RC_HOSTS:
+        alt_host = "reputatiecoaching.nl" if host.startswith("www.") else "www.reputatiecoaching.nl"
+    path = p.path or "/"
+    slash_path = path
+    if path != "/":
+        slash_path = path.rstrip("/") if path.endswith("/") else path + "/"
     out=[]
-    for h in hosts:
-        for scheme in ["http","https"]:
-            for path in paths:
-                for q in queries:
-                    candidate=urlunsplit((scheme,h,path,q,""))
-                    if candidate not in out:
-                        out.append(candidate)
-    return out[:10]
+    def add(s,h,pa,q):
+        candidate=urlunsplit((s,h,pa,q,""))
+        if candidate not in out:
+            out.append(candidate)
+    add(scheme,host,path,p.query)
+    add(scheme,host,slash_path,p.query)
+    add(alt_scheme,host,path,p.query)
+    add(scheme,alt_host,path,p.query)
+    add(scheme,alt_host,slash_path,p.query)
+    add(alt_scheme,alt_host,path,p.query)
+    if p.query:
+        add(scheme,host,path,"")
+        add(scheme,alt_host,path,"")
+    for ep in extra_paths:
+        if not ep.startswith("/"):
+            ep="/"+ep
+        add(scheme,host,ep,p.query)
+        add(scheme,alt_host,ep,p.query)
+    return out[:8]
 
-def get_json(url: str, timeout=12.0):
+def get_json(url: str, timeout=6.0):
     req=Request(url,headers={"User-Agent":USER_AGENT,"Accept":"application/json"})
     with urlopen(req,timeout=timeout) as r:
         return json.loads(r.read().decode("utf-8","replace"))
@@ -148,7 +152,7 @@ def available(candidate: str, stamp: str):
 def verify_replay(url: str):
     try:
         req=Request(url,headers={"User-Agent":USER_AGENT,"Range":"bytes=0-2047"})
-        with urlopen(req,timeout=15.0) as r:
+        with urlopen(req,timeout=6.0) as r:
             status=int(getattr(r,"status",200) or 200)
             if 200 <= status < 400:
                 return {"status":status,"final_url":r.geturl()}
@@ -165,7 +169,7 @@ def cdx(candidate: str, stamp: str):
     ]
     url="https://web.archive.org/cdx/search/cdx?"+urlencode(params)
     try:
-        data=get_json(url,15.0)
+        data=get_json(url,6.0)
     except Exception:
         return None
     if not isinstance(data,list) or len(data)<2:
@@ -309,7 +313,7 @@ def main():
 
     results=[]
     entries=sorted(by_url.items())
-    with ThreadPoolExecutor(max_workers=4) as pool:
+    with ThreadPoolExecutor(max_workers=8) as pool:
         futures={pool.submit(audit_one,url,items):url for url,items in entries}
         for idx,future in enumerate(as_completed(futures),1):
             result=future.result()
