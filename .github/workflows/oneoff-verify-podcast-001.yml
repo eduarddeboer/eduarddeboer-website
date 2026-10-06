@@ -18,7 +18,15 @@ jobs:
         run: |
           set -euo pipefail
           URL="https://staging.eduarddeboer-website-preview.pages.dev/nl/archief/reputatiecoaching/001/"
-          curl -fsSL --retry 5 --retry-delay 2 "$URL" -o /tmp/podcast001.html
+          curl -sSL --retry 5 --retry-delay 2 -D /tmp/headers.txt -w '%{http_code} %{url_effective}\n' "$URL" -o /tmp/podcast001.html | tee /tmp/curl-result.txt
+          echo "=== HEADERS ==="
+          cat /tmp/headers.txt
+          echo "=== TITLE ==="
+          grep -oi '<title[^>]*>.*</title>' /tmp/podcast001.html | head -n 3 || true
+          echo "=== SCRIPT TAGS ==="
+          grep -oi '<script[^>]*>' /tmp/podcast001.html | head -n 30 || true
+          echo "=== KG TOKENS ==="
+          grep -o 'podcast_episode/reputatiecoaching_001\|application/ld+json\|PodcastEpisode' /tmp/podcast001.html | sort -u || true
           python3 - <<'PY'
           import html, json, re
           from pathlib import Path
