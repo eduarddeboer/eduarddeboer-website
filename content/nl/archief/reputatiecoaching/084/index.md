@@ -3,6 +3,7 @@ title: '84: De invloed van reviews, Yelp is meest betrouwbare review site, video
 date: '2014-07-10T06:30:46+00:00'
 description: 'De onderwerpen voor vandaag… Ik begin met een tip, naar aanleiding van een website scan die ik twee weken geleden heb uitgevoerd, gevolgd door een korte terugblik op en de reden van het verdwijnen van de Authorship foto’s uit de zoekresultaten. Dan heb ik een update over Orkut: afgelopen week kreeg ik een mailtje van dit terminale sociale netwerk. Google is niet alleen maar slecht en ze proberen echt niet het leven van webmasters alleen maar zuur te maken, dat bewijst wel een mailtje later in de show.'
 episode: 84
+kgRef: podcast_episode/reputatiecoaching_084
 historical: true
 archivePeriod: 2012–2016
 transcriptStatus: full
@@ -30,7 +31,7 @@ Hallo en hartelijk welkom bij deze aflevering van de ReputatieCoaching Podcast. 
 
 Als persoon kun je met de diverse tips aan de slag om bijvoorbeeld je online reputatie als garderobejuffrouw, fluitenbouwer, acrobaat, grafoloog, klokkenmaker of wat dan ook te verbeteren.
 
-De podcast kun je vinden op [www.reputatiecoaching.nl/84](https://www.reputatiecoaching.nl/84/). Daar vind je niet alleen de tekst, maar ook video’s waar ik het in deze uitzending over heb, alsmede afbeeldingen, links enzovoorts. Bovendien is de podcast te beluisteren in [iTunes](https://www.reputatiecoaching.nl/itunes) en op [Stitcher](https://www.reputatiecoaching.nl/stitcher). Daar kun je je dus ook abonneren op de wekelijkse podcast. Veel mensen vinden het ideaal om de wekelijkse afleveringen van de podcast op hun gemak te beluisteren, terwijl ze autorijden, schaatsen op de kunstijsbaan, hardlopen in het bos of al hijgend, zwetend en puffend zichzelf afmatten in de sportschool.
+De podcast kun je vinden op [www.reputatiecoaching.nl/84](https://web.archive.org/web/20150312094507/http://www.reputatiecoaching.nl/84/). Daar vind je niet alleen de tekst, maar ook video’s waar ik het in deze uitzending over heb, alsmede afbeeldingen, links enzovoorts. Bovendien is de podcast te beluisteren in iTunes en op Stitcher. Daar kun je je dus ook abonneren op de wekelijkse podcast. Veel mensen vinden het ideaal om de wekelijkse afleveringen van de podcast op hun gemak te beluisteren, terwijl ze autorijden, schaatsen op de kunstijsbaan, hardlopen in het bos of al hijgend, zwetend en puffend zichzelf afmatten in de sportschool.
 
 Oh, voordat ik begin met de onderwerpen van vandaag eerst even een praktische tip, naar aanleiding van een scan van een website, die ik twee weken geleden heb uitgevoerd.
 
@@ -135,7 +136,7 @@ Mijn planning is om dit document samen te stellen na afloop van de training, zod
 
 Maar wist je trouwens dat YouTube een gigantisch omvangijke omgeving heeft, waar je van alles kunt leren over het publiceren en ranken van video’s op YouTube? Surf maar eens naar:
 
-Je kunt er alles lezen over de programma’s en tools van YouTube, evenals over analytics. Maar wat helemaal interessant en leerzaam is, is de [YouTube Creator Academy](https://www.youtube.com/yt/creators/education.html). De link hier naartoe vind je in de show notes, op [www.reputatiecoaching.nl/84](https://www.reputatiecoaching.nl/84/). Daar vind je bijvoorbeeld de volgende cursussen:
+Je kunt er alles lezen over de programma’s en tools van YouTube, evenals over analytics. Maar wat helemaal interessant en leerzaam is, is de [YouTube Creator Academy](https://www.youtube.com/yt/creators/education.html). De link hier naartoe vind je in de show notes, op [www.reputatiecoaching.nl/84](https://web.archive.org/web/20150312094507/http://www.reputatiecoaching.nl/84/). Daar vind je bijvoorbeeld de volgende cursussen:
 
 ```
   * Core building blocks (5 lessen)
@@ -255,7 +256,7 @@ Deze infographic is samengesteld door [Kittyhawk](http://www.kittyhawk.nl), een 
 
 [![Social media statistieken](20140710-social-media-statistieken-door-kittyhawk.png)](https://lh4.googleusercontent.com/-CMaU4CRc17k/U74UjBPlKmI/AAAAAAAAA_U/9uSkGK0zIsY/w850/20140710-social-media-statistieken-door-kittyhawk.png)
 
-Bekijk de infographic eens op je gemak op de site, op [www.reputatiecoaching.nl/84](https://www.reputatiecoaching.nl/84/). Voor jou als luisteraar van de podcast zal ik een paar statistieken opnoemen:
+Bekijk de infographic eens op je gemak op de site, op [www.reputatiecoaching.nl/84](https://web.archive.org/web/20150312094507/http://www.reputatiecoaching.nl/84/). Voor jou als luisteraar van de podcast zal ik een paar statistieken opnoemen:
 
 ```
   * Qua omvang: Facebook heeft 1,2 miljard gebruikers, YouTube ook meer dan 1 miljard, Twitter 645 miljoen, Google+ 300 miljoen, LinkedIn 277 miljoen, Instagram 150 miljoen en Pinterest 70 miljoen
@@ -267,7 +268,7 @@ Dat zijn nog eens getallen! Moet je eens nagaan wat die bedrijven aan achterligg
 
 Als je de podcast leuk vindt en je wilt nog meer op de hoogte blijven, volg me dan ook op Twitter, via [@reputatiecoach1](https://twitter.com/reputatiecoach1).
 
-Heb je inderdaad wat aan alle informatie die ik met je deel, help mij dan met het verder verbeteren en promoten van deze podcast. Surf daarvoor naar [iTunes](https://www.reputatiecoaching.nl/itunes) of [Stitcher](https://www.reputatiecoaching.nl/stitcher), geef de podcast een sterrenbeoordeling en laat ook je reactie achter. Door de podcast te beoordelen op iTunes en/of Stitcher breng je de podcast onder de aandacht van een breder publiek.
+Heb je inderdaad wat aan alle informatie die ik met je deel, help mij dan met het verder verbeteren en promoten van deze podcast. Surf daarvoor naar iTunes of Stitcher, geef de podcast een sterrenbeoordeling en laat ook je reactie achter. Door de podcast te beoordelen op iTunes en/of Stitcher breng je de podcast onder de aandacht van een breder publiek.
 
 Je kunt me verder helpen, door de podcast aan te bevelen bij vrienden of collega’s, waarvan je denkt dat ze er hun voordeel mee kunnen doen, of door ’m te delen op Twitter, like’n en delen op Facebook of een “+1” te geven op Google+.
 
@@ -275,7 +276,7 @@ En vergeet niet: ik ben hier om je te helpen! Als je een vraag of een probleem h
 
 Als je dat te lastig vindt, of als je de podcast beluistert terwijl je in de auto zit en je hebt acuut een vraag, spreek dan een boodschap in op de ReputatieCoaching Hotline, op nummer: 084 - 883 15 56. Mogelijk behandel ik je vraag of probleem dan in een artikel of in de podcast.
 
-En je kunt ook rechtstreeks op de website een voicemail achterlaten, door op de tab aan de rechterkant van elke pagina te klikken, en je bericht in te spreken. Dit was [ReputatieCoaching Podcast aflevering 84](https://www.reputatiecoaching.nl/84/) en mijn naam is [Eduard de Boer](http://nl.linkedin.com/in/eduarddeboer/nl).
+En je kunt ook rechtstreeks op de website een voicemail achterlaten, door op de tab aan de rechterkant van elke pagina te klikken, en je bericht in te spreken. Dit was [ReputatieCoaching Podcast aflevering 84](https://web.archive.org/web/20150312094507/http://www.reputatiecoaching.nl/84/) en mijn naam is [Eduard de Boer](http://nl.linkedin.com/in/eduarddeboer/nl).
 
 Ik wens je de komende week weer succes met het werken aan je reputatie, zodat je meteen je reputatie voor jou kunt laten werken!
 
@@ -286,9 +287,9 @@ Doei!
 Links naar content die in deze podcast aan bod komt:
 
 ```
-  * [ReputatieCoaching Podcast in iTunes](https://www.reputatiecoaching.nl/itunes)
-  * [ReputatieCoaching Podcast op Stitcher](https://www.reputatiecoaching.nl/stitcher)
-  * [ReputatieCoaching Podcast RSS-feed](https://feeds.reputatiecoaching.nl/ReputatieCoachingPodcast)
+  * ReputatieCoaching Podcast in iTunes
+  * ReputatieCoaching Podcast op Stitcher
+  * [ReputatieCoaching Podcast RSS-feed](https://web.archive.org/web/20140803035048/http://feeds.reputatiecoaching.nl:80/ReputatieCoachingPodcast)
   * [YouTube Creator Academy](https://www.youtube.com/yt/creators/education.html)
   * [YouTube Help Forum](https://productforums.google.com/forum/#!forum/youtube)
   * “[How Facebook Moved 20 Billion Instagram Photos Without You Noticing](http://www.wired.com/2014/06/facebook-instagram/)” (Wired, 26 juni 2014)
