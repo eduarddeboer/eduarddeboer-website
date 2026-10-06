@@ -3,6 +3,7 @@ title: '62: Rabobank Reputatiemanager nog niet goed ingewerkt, Content Marketing
 date: '2014-02-03T07:30:23+00:00'
 description: 'Je hebt het inmiddels al begrepen: de afgelopen twee weken was ik lekker met mijn vrouw Suzanne op vakantie op Martinique, een tropisch eiland op de Franse Antillen. Tjonge, wat was het heerlijk om er even een tijdje tussenuit te zijn en de accu’s goed op te laden. In de tussentijd heb jij als luisteraar van de podcast of als lezer van het weblog volgens mij meer dan voldoende content voorbij zien komen, waar je je voordeel mee hebt kunnen doen, of nog kunt gaan doen.'
 episode: 62
+kgRef: podcast_episode/reputatiecoaching_062
 historical: true
 archivePeriod: 2012–2016
 transcriptStatus: full
@@ -34,9 +35,9 @@ Hallo en hartelijk welkom bij deze aflevering van de ReputatieCoaching Podcast. 
 
 Als persoon kun je met de diverse tips aan de slag om bijvoorbeeld je online reputatie als timmerman, ambulancechauffeur, studie adviseur, matroos of wat dan ook te verbeteren.
 
-In deze podcast noem ik een aantal sites, video’s en verwijs ik naar verschillende artikelen. De links naar al deze content èn de volledige transcriptie van de podcast vind je op [www.reputatiecoaching.nl/62](https://www.reputatiecoaching.nl/62/). En je kunt de podcast rechtstreeks beluisteren op zowel iTunes, als op Stitcher. Surf hiertoe respectievelijk naar [www.reputatiecoaching.nl/itunes](https://www.reputatiecoaching.nl/itunes) of naar [www.reputatiecoaching.nl/stitcher](https://www.reputatiecoaching.nl/stitcher).
+In deze podcast noem ik een aantal sites, video’s en verwijs ik naar verschillende artikelen. De links naar al deze content èn de volledige transcriptie van de podcast vind je op www.reputatiecoaching.nl/62. En je kunt de podcast rechtstreeks beluisteren op zowel iTunes, als op Stitcher. Surf hiertoe respectievelijk naar www.reputatiecoaching.nl/itunes of naar www.reputatiecoaching.nl/stitcher.
 
-En mocht je de podcast in een andere podcatcher of podcastplayer willen beluisteren, dan kun je je op de feed [feeds.reputatiecoaching.nl/reputatiecoachingpodcast](https://feeds.reputatiecoaching.nl/ReputatieCoachingPodcast) abonneren. Al deze links vind je ook in de show notes van deze podcast, alsmede op de website.
+En mocht je de podcast in een andere podcatcher of podcastplayer willen beluisteren, dan kun je je op de feed [feeds.reputatiecoaching.nl/reputatiecoachingpodcast](https://web.archive.org/web/20131205064344/http://feeds.reputatiecoaching.nl/reputatiecoachingpodcast) abonneren. Al deze links vind je ook in de show notes van deze podcast, alsmede op de website.
 
 Maar laat ik dan nu overgaan op de onderwerpen voor vandaag…
 
@@ -58,11 +59,11 @@ Die podcasts heb ik beide in de week vóór ons vertrek gemaakt. Volgens mij is 
 
 Als eerste: de podcasts zijn (zo bleek achteraf) niet in de bijbehorende blogpost als afspeelbaar bestand opgenomen. Er werd dus geen audioplayer in het blogbericht vertoond. Ik dacht echt alles te hebben gedaan, zoals ik het altijd doe, maar de daadwerkelijke audioversie van de podcast is alleen live gegaan op iTunes en op Stitcher. Ik ben er eens dieper ingedoken en heb alles nogmaals gecontroleerd. Uiteindelijk vond ik de oorzaak. Het bleek dat als je in WordPress de velden “Meta-omschrijving” en “Samenvatting” niet invult, dat de Blubrry plugin die ik gebruik voor de publicatie van podcasts, dan ook de audioplayer niet in het blogbericht toont. Een leermomentje dus!
 
-Als tweede: als je goed naar [podcast 61](https://www.reputatiecoaching.nl/63/) luistert (of de tekst naleest), dan heb ik er een paar schoonheidsfoutjes in zitten, die je wellicht niet eens zijn opgevallen. Ik vertel dat ik op vakantie ben en de content vooraf heb gereedgezet, maar vervolgens vertel ik over het effect van de Winter Winkeldata Workshop. Typisch zo’n “Oeps!!!”-momentje. Daar had ik zelf iets beter over moeten nadenken.
+Als tweede: als je goed naar [podcast 61](https://web.archive.org/web/20150312093820/http://www.reputatiecoaching.nl/63/) luistert (of de tekst naleest), dan heb ik er een paar schoonheidsfoutjes in zitten, die je wellicht niet eens zijn opgevallen. Ik vertel dat ik op vakantie ben en de content vooraf heb gereedgezet, maar vervolgens vertel ik over het effect van de Winter Winkeldata Workshop. Typisch zo’n “Oeps!!!”-momentje. Daar had ik zelf iets beter over moeten nadenken.
 
 Ten tweede: ik zag achteraf dat ik hier en daar een paar (voor mij storende) typefoutjes heb gemaakt, die ik zou hebben gezien als ik mezelf meer tijd had gegund om alles te controleren.
 
-En als derde: voor de promotie van nieuwe berichten op [www.reputatiecoaching.nl](http://www.reputatiecoaching.nl) in de sociale media gebruik ik IFTTT.com. Op 27 januari lag IFTTT.com er een aantal uren uit, waardoor de promotie van de instructievideo van die dag ook een aantal uren later kwam, dan de daadwerkelijke publicatie.
+En als derde: voor de promotie van nieuwe berichten op [www.reputatiecoaching.nl](https://web.archive.org/web/20131209051301/http://www.reputatiecoaching.nl/) in de sociale media gebruik ik IFTTT.com. Op 27 januari lag IFTTT.com er een aantal uren uit, waardoor de promotie van de instructievideo van die dag ook een aantal uren later kwam, dan de daadwerkelijke publicatie.
 
 Verder is het hele proces goed gegaan.
 
@@ -146,7 +147,7 @@ Natuurlijk blijf ik de mogelijkheid bieden, om vanaf de transcriptie van elke po
 
 Ik zou bijvoorbeeld ook een DVD kunnen samenstellen met daarop alle podcasts van een jaar, tezamen met PDF’s met de transcriptie van elke aflevering. Deze DVD zou dan tegen geringe vergoeding online te koop zijn.
 
-Graag hoor/lees ik wat jij hiervan vindt en welke ideeën jij hierover hebt. Laat het me weten onderaan de show notes van deze podcast, die je online kunt vinden op [www.reputatiecoaching.nl/62](https://www.reputatiecoaching.nl/62/).
+Graag hoor/lees ik wat jij hiervan vindt en welke ideeën jij hierover hebt. Laat het me weten onderaan de show notes van deze podcast, die je online kunt vinden op www.reputatiecoaching.nl/62.
 
 Het spreekt voor zich dat ik je laat weten hoe ik dit probleem ga tacklen, zodra ik de oplossing heb bepaald. Ik heb gewoon nog even wat tijd en vooral jouw feedback nodig om de meest vriendelijke manier te vinden.
 
@@ -156,7 +157,7 @@ Het werd al lange tijd verwacht: de introductie van de Google Carrousel in ander
 
 Als je nog geen idee hebt, hoe de Google Carrousel er uitziet, dan moet je maar eens op Google.com in het Engels zoeken. Dat doe je, door bijvoorbeeld de regel in je adresbalk in te vullen, die ik in de show notes heb staan. Dit is een soort van workaround, om in de Amerikaanse resultaten van Google te zoeken, waardoor in een aantal gevallen de Carrousel wordt vertoond.
 
-Dan zie je een scherm dat lijkt op de screenshot die ik heb opgenomen in de transcriptie, op [www.reputatiecoaching.nl/62](https://www.reputatiecoaching.nl/62/):
+Dan zie je een scherm dat lijkt op de screenshot die ik heb opgenomen in de transcriptie, op www.reputatiecoaching.nl/62:
 
 [[Historische afbeelding: Google Carrousel voor Hotels Amsterdam](https://lh6.googleusercontent.com/-pdSI043OEpo/Uu7WpSutLjI/AAAAAAAAAYU/SMR8r8Lgibw/w1181-no/20140202-Carrousel-Hotels-Amsterdam.png)](https://lh6.googleusercontent.com/-pdSI043OEpo/Uu7WpSutLjI/AAAAAAAAAYU/SMR8r8Lgibw/w1181-no/20140202-Carrousel-Hotels-Amsterdam.png)
 
@@ -182,7 +183,7 @@ Nadat Google gedurende een paar dagen de locatiebox vertoonde, waar ik vorige we
 
 Google voert natuurlijk doorlopend experimenten uit, dat heb ik al vaker gezegd. Zo zien we soms een bepaalde (en dan met name: andere) weergave en als we vervolgens nog eens dezelfde zoekopdracht uitvoeren, zien we het weer niet. We kunnen het dan niet reproduceren.
 
-Vorige week kon ik de [weergave van de Locatiebox](https://www.reputatiecoaching.nl/google-experimenteert-met-locatiebox-in-lokale-resultaten/) reproduceren, keer op keer. Maar nu lijkt die te zijn verdampt. Zoals ik ook in het blogbericht van vorige week schreef, had ik het idee dat de box nog niet precies werkte, zoals die het zou moeten doen.
+Vorige week kon ik de [weergave van de Locatiebox](https://web.archive.org/web/20160821072952/http://www.reputatiecoaching.nl/google-experimenteert-met-locatiebox-in-lokale-resultaten/) reproduceren, keer op keer. Maar nu lijkt die te zijn verdampt. Zoals ik ook in het blogbericht van vorige week schreef, had ik het idee dat de box nog niet precies werkte, zoals die het zou moeten doen.
 
 Mogelijk is dat een reden, dat Google de Locatiebox tijdelijk heeft verwijderd. Ik hou een oogje in het zeil en zodra ik de Locatiebox weer spot, laat ik je het meteen weten.
 
@@ -216,15 +217,15 @@ Hij licht dit toe aan de hand van een voorbeeldmail die elke webmaster wel eens 
 
 Dat Google het gehad heeft met die spammy methoden licht hij ook nog eens toe met drie video’s.
 
-Met deze video’s en de blogpost van Matt Cutts kom ik dan weer aan het einde van deze podcast. Mocht je de volledige transcriptie hebben gevonden en wil je je abonneren op de podcast, dan kun je surfen naar [www.reputatiecoaching.nl/itunes](https://www.reputatiecoaching.nl/itunes) of [www.reputatiecoaching.nl/stitcher](https://www.reputatiecoaching.nl/stitcher) om je daar te abonneren. Als je een andere app gebruikt voor het beluisteren van je favoriete podcasts, dan kun je de RSS-feed gebruiken, die ik ook onderaan in de show notes van deze podcast heb opgenomen.
+Met deze video’s en de blogpost van Matt Cutts kom ik dan weer aan het einde van deze podcast. Mocht je de volledige transcriptie hebben gevonden en wil je je abonneren op de podcast, dan kun je surfen naar www.reputatiecoaching.nl/itunes of www.reputatiecoaching.nl/stitcher om je daar te abonneren. Als je een andere app gebruikt voor het beluisteren van je favoriete podcasts, dan kun je de RSS-feed gebruiken, die ik ook onderaan in de show notes van deze podcast heb opgenomen.
 
 Als je de podcast leuk vindt en je hebt inderdaad wat aan alle informatie die ik met je deel, help mij dan met het verder verbeteren en promoten van deze podcast. Deel ‘m op Twitter, like ‘m op Facebook of geef een “+1” op Google+. Het zou helemaal super zijn, als je een bericht en een beoordeling achterlaat op iTunes, Stitcher, of LinkedIn.
 
 Als je een vraag of een probleem hebt met betrekking tot je online reputatie of de vindbaarheid van je website, kun je een mailtje sturen naar [podcast@reputatiecoaching.nl](mailto:podcast@reputatiecoaching.nl). Als je dat te lastig vindt, of als je de podcast beluistert terwijl je in de auto zit en je hebt acuut een vraag, spreek dan een boodschap in op de ReputatieCoaching Hotline, op nummer: 084 - 883 15 56. Mogelijk behandel ik je vraag of probleem dan in een artikel of in de podcast.
 
-Als laatste kun je je ook inschrijven voor de nieuwsbrief. Dan ontvang je altijd als eerste het laatste nieuws wat ik publiceer en automatisch elk kwartaal het ReputatieCoaching Podcast Boek van het afgelopen kwartaal. Surf daartoe naar [www.reputatiecoaching.nl/nieuwsbrief/](https://www.reputatiecoaching.nl/nieuwsbrief/) en schrijf je meteen in.
+Als laatste kun je je ook inschrijven voor de nieuwsbrief. Dan ontvang je altijd als eerste het laatste nieuws wat ik publiceer en automatisch elk kwartaal het ReputatieCoaching Podcast Boek van het afgelopen kwartaal. Surf daartoe naar [www.reputatiecoaching.nl/nieuwsbrief/](https://web.archive.org/web/20140314070619/http://www.reputatiecoaching.nl:80/nieuwsbrief/) en schrijf je meteen in.
 
-En je kunt ook rechtstreeks op de website een voicemail achterlaten, door op de tab aan de rechterkant van elke pagina te klikken, en je bericht in te spreken. Dit was [ReputatieCoaching Podcast aflevering 62](https://www.reputatiecoaching.nl/62/) en mijn naam is [Eduard de Boer](http://nl.linkedin.com/in/eduarddeboer/nl).
+En je kunt ook rechtstreeks op de website een voicemail achterlaten, door op de tab aan de rechterkant van elke pagina te klikken, en je bericht in te spreken. Dit was ReputatieCoaching Podcast aflevering 62 en mijn naam is [Eduard de Boer](http://nl.linkedin.com/in/eduarddeboer/nl).
 
 Ik wens je de komende week weer succes met het werken aan je reputatie, zodat je meteen je reputatie voor jou kunt laten werken!
 
@@ -235,7 +236,7 @@ Doei!
 Links naar content die in deze podcast aan bod komt:
 
 ```
-  * [ReputatieCoaching Podcast in iTunes](https://www.reputatiecoaching.nl/itunes)
-  * [ReputatieCoaching Podcast op Stitcher](https://www.reputatiecoaching.nl/stitcher)
-  * [ReputatieCoaching Podcast RSS-feed](https://feeds.reputatiecoaching.nl/ReputatieCoachingPodcast)
+  * ReputatieCoaching Podcast in iTunes
+  * ReputatieCoaching Podcast op Stitcher
+  * [ReputatieCoaching Podcast RSS-feed](https://web.archive.org/web/20131205064344/http://feeds.reputatiecoaching.nl/reputatiecoachingpodcast)
 ```
