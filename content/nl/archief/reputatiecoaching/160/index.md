@@ -3,6 +3,7 @@ title: '160: 1e podcast van 2016 live! Podcasts worden populair! Wugly en Tsu in
 date: '2016-01-14T07:30:06+00:00'
 description: Het is een ietwat laat, dat weet ik. Maar alsnog de beste wensen voor 2016! Ik wens je toe dat al je dromen dit jaar mogen uitkomen! De afgelopen paar weken is er geen podcast uitgekomen. Ik had dat beter vooraf kunnen melden, want ik kreeg vanuit verschillende hoeken de vraag of alles wel goed is… Iedereen dank voor de bezorgdheid! Alles is prima! Ik ben de feestdagen goed doorgekomen en ik hoop jij ook.
 episode: 160
+kgRef: podcast_episode/reputatiecoaching_160
 historical: true
 archivePeriod: 2012–2016
 transcriptStatus: shownotes
@@ -49,16 +50,16 @@ De onderwerpen voor vandaag… Podcasts worden zo populair dat zelfs de Volkskra
   * Geciteerd in USA Today!
 ```
 
-Instructievideo over [bedrijf aanmelden op fotoshoottarieven.nl](https://www.reputatiecoaching.nl/bedrijf-aanmelden-op-fotoshoottarieven-nl/):
+Instructievideo over [bedrijf aanmelden op fotoshoottarieven.nl](https://web.archive.org/web/20160320195306/http://www.reputatiecoaching.nl:80/bedrijf-aanmelden-op-fotoshoottarieven-nl):
 
 Links naar content elders op Internet die in deze podcast aan bod komt:
 
 ```
-  * [ReputatieCoaching Podcast in iTunes](https://www.reputatiecoaching.nl/itunes)
-  * [ReputatieCoaching Podcast op Stitcher](https://www.reputatiecoaching.nl/stitcher)
+  * ReputatieCoaching Podcast in iTunes
+  * ReputatieCoaching Podcast op Stitcher
   * [ReputatieCoaching Podcast op TuneIn Radio](http://tunein.com/radio/ReputatieCoaching-Podcast-p655084/)
-  * [ReputatieCoaching Podcast RSS-feed](https://feeds.reputatiecoaching.nl/ReputatieCoachingPodcast)
+  * [ReputatieCoaching Podcast RSS-feed](https://web.archive.org/web/20160204123538/http://feeds.reputatiecoaching.nl:80/ReputatieCoachingPodcast)
   * [Wugly](https://www.wugly.nl)
-  * [Mijn Tsu.co profiel](http://www.tsu.co/eduarddeboer)
+  * Mijn Tsu.co profiel
   * "[Fake online reviews trip travelers](http://www.usatoday.com/story/travel/advice/2015/12/27/fake-tripadvisor-yelp-reviews/77844194/)" (USA Today, 27 december 2015)
 ```
