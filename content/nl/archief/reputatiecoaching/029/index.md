@@ -3,6 +3,7 @@ title: '29: Betere iTunes vermelding, Waze gekocht door Google en ander nieuws e
 date: '2013-06-15T16:00:32+00:00'
 description: Hallo en hartelijk welkom bij dé podcast over reputatiemanagement en reputatiecoaching, het verbeteren van je online vindbaarheid en optimalisatie van je website voor zoekmachines. Ook deze week breng ik je weer nieuws en tips, waarmee jij je significant kunt onderscheiden van je concurrenten, om zo meer business naar je toe te trekken. Als eerste moet ik iets rechtzetten van vorige week. Vervolgens heb ik de vindbaarheid van de podcast in iTunes verbeterd.
 episode: 29
+kgRef: podcast_episode/reputatiecoaching_029
 historical: true
 archivePeriod: 2012–2016
 transcriptStatus: full
@@ -34,30 +35,30 @@ Tja, vorige week is een beloofd onderwerp tussen wal en schip gevallen: ik zou n
 
 ## Leuke anecdotes ten aanzien van zoektermen
 
-Ik heb je al eens verteld, dat ik Google Analytics gebruik voor het bijhouden van de statistieken van al mijn websites. Dus zo ook voor [www.reputatiecoaching.nl](https://www.reputatiecoaching.nl). Hoewel Google steeds minder zoektermen toont, is het toch interessant om eens te kijken, waarop pagina’s in de site nu worden gevonden, terwijl ik de content daar niet specifiek op heb afgestemd of geoptimaliseerd.
+Ik heb je al eens verteld, dat ik Google Analytics gebruik voor het bijhouden van de statistieken van al mijn websites. Dus zo ook voor [www.reputatiecoaching.nl](https://web.archive.org/web/20130608070605/http://www.reputatiecoaching.nl:80/). Hoewel Google steeds minder zoektermen toont, is het toch interessant om eens te kijken, waarop pagina’s in de site nu worden gevonden, terwijl ik de content daar niet specifiek op heb afgestemd of geoptimaliseerd.
 
 De aanleiding dat ik je hierover wil vertellen is een voorval van twee weken geleden. Ik kreeg toen een voicemail op de ReputatieCoaching hotline, waar ik niet echt een touw aan kon vastknopen.
 
 Zoals je in de voicemail kunt beluisteren, is er iets met een adres in Bergen, wat niet klopt in de TomTom. Er was geen nummerweegave, dus ik kon de beller in kwestie niet terugbellen. De volgende dag belde de dame weer. Zij was in de stellige overtuiging dat ze TomTom belde en dus vertelde ze mij nogmaals hetzelfde verhaal. Ik moest haar in zekere zin teleurstellen, omdat ik er niets aan kon doen en ik geen medewerker was van TomTom. Wel heb ik haar geholpen met het vinden van het gratis 0800-nummer van TomTom, zodat ze daar haar probleem kon neerleggen.
 
-Het bleek dat de beller mijn artikel over het [toevoegen van een bedrijf op TomTom Places](https://www.reputatiecoaching.nl/zet-je-bedrijf-op-de-kaart-van-tomtom/) had gevonden, waarna ze het daar vermelde telefoonnummer heeft gebeld. Nu is dit een grappig voorbeeld, maar zo zie je maar dat met het schrijven van teksten in de zoekmachines soms dingen anders kunnen lopen, dan je verwacht of wenst.
+Het bleek dat de beller mijn artikel over het [toevoegen van een bedrijf op TomTom Places](https://web.archive.org/web/20130615133413/http://www.reputatiecoaching.nl:80/zet-je-bedrijf-op-de-kaart-van-tomtom/) had gevonden, waarna ze het daar vermelde telefoonnummer heeft gebeld. Nu is dit een grappig voorbeeld, maar zo zie je maar dat met het schrijven van teksten in de zoekmachines soms dingen anders kunnen lopen, dan je verwacht of wenst.
 
 Op 3 december 2012 bracht ik de eerste podcast uit en vanaf dat begin meet Google Analytics ook al de bezoekersstatistieken van deze site. Ik geef je hier de 10 opmerkelijkste zoektermen, waarop de site inmiddels is gevonden met links naar de desbetreffende pagina’s:
 
 ```
-  * [100 procent nl podcast](https://www.reputatiecoaching.nl/8/)
+  * [100 procent nl podcast](https://web.archive.org/web/20131009021929/http://www.reputatiecoaching.nl:80/8/)
   * hoe handig is een app voor een kapper
-  * [hotel 13 aflevering 21](https://www.reputatiecoaching.nl/13/)
-  * [hotelkamerveiling verificatie](https://www.reputatiecoaching.nl/19/)
-  * [ik heb het nog nooit gedaan aflevering 5](https://www.reputatiecoaching.nl/5/)
-  * [onzinnige infographics](https://www.reputatiecoaching.nl/wordpress-seo-in-20-stappen-infographic/)
-  * [gps coordinaten naar adres](https://www.reputatiecoaching.nl/tag/gps-coordinaten/)
-  * [op zoek naar reizigers yahoo hotmail](https://www.reputatiecoaching.nl/17/)
-  * [stelletjes die elkaar via social media kennen](https://www.reputatiecoaching.nl/social-media-revolutie-infographic/)
-  * [plaats op foto markeren met rode stift](https://www.reputatiecoaching.nl/foto-uitsnijden-achtergrond-verwijderen-instructievideo/)
+  * [hotel 13 aflevering 21](https://web.archive.org/web/20131006002850/http://www.reputatiecoaching.nl:80/13/)
+  * [hotelkamerveiling verificatie](https://web.archive.org/web/20131009022214/http://www.reputatiecoaching.nl:80/19/)
+  * [ik heb het nog nooit gedaan aflevering 5](https://web.archive.org/web/20140908010655/http://www.reputatiecoaching.nl:80/5/)
+  * [onzinnige infographics](https://web.archive.org/web/20130627204136/http://www.reputatiecoaching.nl:80/wordpress-seo-in-20-stappen-infographic/)
+  * [gps coordinaten naar adres](https://web.archive.org/web/20140324063323/http://www.reputatiecoaching.nl:80/tag/gps-coordinaten/)
+  * [op zoek naar reizigers yahoo hotmail](https://web.archive.org/web/20131009022208/http://www.reputatiecoaching.nl:80/17/)
+  * [stelletjes die elkaar via social media kennen](https://web.archive.org/web/20130421015012/http://www.reputatiecoaching.nl:80/social-media-revolutie-infographic/)
+  * [plaats op foto markeren met rode stift](https://web.archive.org/web/20140328233245/http://www.reputatiecoaching.nl:80/foto-uitsnijden-achtergrond-verwijderen-instructievideo/)
 ```
 
-Tot zover het beloofde stukje over zoektermen en hoe dat anders kan uitpakken voor je site, dan verwacht. Heb jij nog een leuk voorbeeld van een geheel onverwachte zoekterm, waarmee jouw site is gevonden? Laat het weten en reageer onder de show notes van deze podcast. Je kunt de transcriptie en links naar de diverse sites die ik in deze podcast noem, vinden op [www.reputatiecoaching.nl/29](https://www.reputatiecoaching.nl/29).
+Tot zover het beloofde stukje over zoektermen en hoe dat anders kan uitpakken voor je site, dan verwacht. Heb jij nog een leuk voorbeeld van een geheel onverwachte zoekterm, waarmee jouw site is gevonden? Laat het weten en reageer onder de show notes van deze podcast. Je kunt de transcriptie en links naar de diverse sites die ik in deze podcast noem, vinden op www.reputatiecoaching.nl/29.
 
 ## Gegevens bij je podcast aanpassen in iTunes
 
@@ -78,7 +79,7 @@ De tekst die ik bij het initiële configureren van de podcast als omschrijving h
 
 Als ik dit nu teruglees had ik ook wel kunnen bedenken dat dit vrijwel geen relevante zoektermen bevat.
 
-Ik heb al eens verteld dat ik de podcast laat lopen via Google Feedburner. Dit leverde me in [podcast 26](https://www.reputatiecoaching.nl/26/) nog het probleem van de stagnerende RSS-feed op. Maar in Feedburner kun je ook heel gemakkelijk de titel en omschrijving van je RSS-feed aanpassen.
+Ik heb al eens verteld dat ik de podcast laat lopen via Google Feedburner. Dit leverde me in [podcast 26](https://web.archive.org/web/20140312234217/http://www.reputatiecoaching.nl:80/26/) nog het probleem van de stagnerende RSS-feed op. Maar in Feedburner kun je ook heel gemakkelijk de titel en omschrijving van je RSS-feed aanpassen.
 
 Inmiddels heb ik de volgende wijzigingen doorgevoerd. De titel is veranderd in:
 
@@ -96,7 +97,7 @@ Ik ben benieuwd of deze aanpassingen verder bijdragen tot het vergroten van het 
 
 ## Google koopt Waze voor US$1,3 mld
 
-In [podcast 26](https://www.reputatiecoaching.nl/26/) heb ik je verteld over “Waze”, de sociale navigatie app uit Israël. Ik had toen binnen anderhalve week tweemaal gehoord over een potentiële overname van dit bedrijf. Mogelijk zouden zowel Facebook, als Google geïnteresseerd zijn om het bedrijf over te nemen en ook werden Apple en Foursquare toen in de media als potentiële kopers geopperd.
+In [podcast 26](https://web.archive.org/web/20140312234217/http://www.reputatiecoaching.nl:80/26/) heb ik je verteld over “Waze”, de sociale navigatie app uit Israël. Ik had toen binnen anderhalve week tweemaal gehoord over een potentiële overname van dit bedrijf. Mogelijk zouden zowel Facebook, als Google geïnteresseerd zijn om het bedrijf over te nemen en ook werden Apple en Foursquare toen in de media als potentiële kopers geopperd.
 
 Het leek toen het minst aannemelijk dat Google het bedrijf Waze zou overnemen, temeer daar Google natuurlijk haar eigen navigatie app heeft.
 
@@ -111,7 +112,7 @@ Volgens de Wall Street Journal gebruikt Apple voor haar applicatie ook gegevens 
 
 Als Google nu Waze overneemt, kan zij Apple deze pas afsnijden, waardoor Apple nog meer moeite zal krijgen met het verder verbeteren van haar kaarten- en navigatieapp.
 
-Daarnaast is Google nu enige tijd bezig om Google Maps socialer te maken. Daarover heb ik je al bericht in [podcast 25](https://www.reputatiecoaching.nl/25/) en [podcast 26](https://www.reputatiecoaching.nl/26/). Dat kan ook de reden zijn van de overname van Waze.
+Daarnaast is Google nu enige tijd bezig om Google Maps socialer te maken. Daarover heb ik je al bericht in [podcast 25](https://web.archive.org/web/20150312092734/http://www.reputatiecoaching.nl/25/) en [podcast 26](https://web.archive.org/web/20140312234217/http://www.reputatiecoaching.nl:80/26/). Dat kan ook de reden zijn van de overname van Waze.
 
 Enfin, we zullen het zien hoe dit zich verder ontwikkelt en wat Apple doet. Ik las eind 2012 trouwens dat de Rabobank mogelijk verwachtte dat Apple het bedrijf TomTom zou overnemen. De Rabobank achtte toen de kans hierop 30%. Dat zou natuurlijk dan Apple opeens weer letterlijk en figuurlijk op de kaart zetten. Maar goed, voorlopig is TomTom nog niet overgenomen dus de laatste kaarten zijn nog niet uitgespeeld.
 
@@ -126,9 +127,9 @@ Ik zie nog niet meteen het grote voordeel hiervan in, anders dan dat de iPhone j
 
 ## “Tweet Old Post” om oude artikelen nieuw leven in te blazen
 
-[Vorige podcast](https://www.reputatiecoaching.nl/28/) heb ik je redelijk uitvoerig verteld over hoe ik op dit moment bezig ben met een contentmarketing project door bestaande content in andere vorm te hergebruiken en opnieuw te publiceren. Dat is iets wat ik de komende tijd gewoon blijf doen.
+[Vorige podcast](https://web.archive.org/web/20131124042356/http://www.reputatiecoaching.nl:80/28/) heb ik je redelijk uitvoerig verteld over hoe ik op dit moment bezig ben met een contentmarketing project door bestaande content in andere vorm te hergebruiken en opnieuw te publiceren. Dat is iets wat ik de komende tijd gewoon blijf doen.
 
-Maar afgelopen week hoorde ik in de “[Content Warfare Podcast](http://www.ryanhanley.com/contentwarfarepodcast/)” van Ryan Hanley een leuke tip om relatief oude content nieuw leven in te blazen. Hij vertelde over de plugin “[Tweet Old Post](https://wordpress.org/plugins/tweet-old-post/)” voor WordPress. Zoals de naam van die plugin al suggereert, helpt die plugin jou om je oude blogberichten opnieuw te tweeten. De plugin kent ontzettend veel mogelijkheden om de configuratie aan te passen.
+Maar afgelopen week hoorde ik in de “[Content Warfare Podcast](https://web.archive.org/web/20130616143756/http://www.ryanhanley.com:80/contentwarfarepodcast/)” van Ryan Hanley een leuke tip om relatief oude content nieuw leven in te blazen. Hij vertelde over de plugin “[Tweet Old Post](https://wordpress.org/plugins/tweet-old-post/)” voor WordPress. Zoals de naam van die plugin al suggereert, helpt die plugin jou om je oude blogberichten opnieuw te tweeten. De plugin kent ontzettend veel mogelijkheden om de configuratie aan te passen.
 
 Ik heb de plugin “Tweet Old Post” eerder deze week op een bestaande site –maar niet op ReputatieCoaching.nl– geïnstalleerd en geactiveerd. De plugin is nu ingesteld om elke 8 uur een bericht te tweeten dat minstens 60 dagen oud is. En omdat de betreffende site meer dan 500 artikelen heeft, duurt het met zo’n 3 tweets per dag wel eventjes, totdat alle berichten een keertje opnieuw op de Twitter timeline zijn verschenen.
 
@@ -144,11 +145,11 @@ Een paar seconden later werkte de plugin weer als tevoren en ik hoop dat die nu 
 
 ## DuckDuckGo groeit en groeit…
 
-De nieuwe zoekmachine DuckDuckGo met het vriendelijke eendje kwam in [podcast 5](https://www.reputatiecoaching.nl/5/) ook al eens aan bod. Maar het kleine eendje wordt groter en groter. Afgelopen maandag werden er op één dag maar liefst 2 miljoen zoekpogingen op de zoekmachine uitgevoerd. En dat betrof enkel en alleen de door mensen uitgevoerde zoekopdrachten.
+De nieuwe zoekmachine DuckDuckGo met het vriendelijke eendje kwam in [podcast 5](https://web.archive.org/web/20140908010655/http://www.reputatiecoaching.nl:80/5/) ook al eens aan bod. Maar het kleine eendje wordt groter en groter. Afgelopen maandag werden er op één dag maar liefst 2 miljoen zoekpogingen op de zoekmachine uitgevoerd. En dat betrof enkel en alleen de door mensen uitgevoerde zoekopdrachten.
 
 Natuurlijk komt dit bij lange na nog niet in de buurt van Google, Bing en zelfs Yahoo!, maar ik vind het in ieder geval interessant om te zien hoe een nieuwkomer toch in staat is een beetje marktaandeel van de echte grootmachten in de zoekmarkt af te snoepen.
 
-Heb jij DuckDuckGo al eens geprobeerd? Wat vond je van de resultaten en de manier waarop de resultaten worden vertoond? Geef je reactie onderaan de show notes, die je kunt vinden op [www.reputatiecoaching.nl/29](https://www.reputatiecoaching.nl/29). In de show notes vind je overigens ook een grafiek waarop je de groei van DuckDuckGo in de tijd kunt bekijken.
+Heb jij DuckDuckGo al eens geprobeerd? Wat vond je van de resultaten en de manier waarop de resultaten worden vertoond? Geef je reactie onderaan de show notes, die je kunt vinden op www.reputatiecoaching.nl/29. In de show notes vind je overigens ook een grafiek waarop je de groei van DuckDuckGo in de tijd kunt bekijken.
 
 [Historische afbeelding: bekijk bron](https://lh5.googleusercontent.com/rHzQ2-k2zhih8xHp2g73Hq1fjaEdnaJnC4e5-XrzVPwpYtWpdBCMATYqPNel1bXH-eTV48YQ_tycwbi0nJ-QoexgNjPQMweN_l0wBmPs3bYCOpUfdtPFwWeLDg)
 
@@ -232,7 +233,7 @@ Als je de podcast leuk vindt en je hebt inderdaad wat aan alle informatie die ik
 
 Als je een vraag of een probleem hebt met betrekking tot je online reputatie of de vindbaarheid van je website, kun je een mailtje sturen naar [podcast@reputatiecoaching.nl](mailto:podcast@reputatiecoaching.nl). Als je dat te lastig vindt, of als je de podcast beluistert terwijl je in de auto zit en je hebt acuut een vraag, spreek dan een boodschap in op de ReputatieCoaching Hotline, op nummer: 084 - 883 15 56. Mogelijk behandel ik je vraag of probleem dan in een artikel of in de podcast.
 
-Als laatste kun je je ook inschrijven voor de nieuwsbrief. Dan ontvang je altijd als eerste het laatste nieuws wat ik publiceer en automatisch elk kwartaal het ReputatieCoaching Podcast Boek van het afgelopen kwartaal. Surf daartoe naar [www.reputatiecoaching.nl/nieuwsbrief](https://www.reputatiecoaching.nl/nieuwsbrief) en schrijf je meteen in.
+Als laatste kun je je ook inschrijven voor de nieuwsbrief. Dan ontvang je altijd als eerste het laatste nieuws wat ik publiceer en automatisch elk kwartaal het ReputatieCoaching Podcast Boek van het afgelopen kwartaal. Surf daartoe naar [www.reputatiecoaching.nl/nieuwsbrief](https://web.archive.org/web/20131205063155/http://www.reputatiecoaching.nl/nieuwsbrief/) en schrijf je meteen in.
 
 En je kunt rechtstreeks op de website een voicemail achterlaten, door op de tab aan de rechterkant van elke pagina te klikken, en je bericht in te spreken. Dit was ReputatieCoaching Podast aflevering 29 en mijn naam is Eduard de Boer.
 
@@ -249,10 +250,10 @@ Hieronder het overzicht van de links die in de podcast aan bod komen:
 ```
   * [Tweet Old Post](https://wordpress.org/plugins/tweet-old-post/) – Gratis WordPress plugin om oude berichten opnieuw onder de aandacht te brengen van je Twitter volgers
   * “[Rabobank: 30% kans op overname TomTom door Apple](http://www.rtlnieuws.nl/economie/rabobank-30-kans-op-overname-tomtom-door-apple)” (RTLnieuws, 12 december 2012)
-  * “[Wilde rit met TomTom](http://www.belegger.nl/column/2634643/wilde-rit-met-tomtom.html)” (Belegger.NL, 21 mei 2013)
+  * “[Wilde rit met TomTom](https://web.archive.org/web/20130622210004/http://www.belegger.nl:80/column/2634643/wilde-rit-met-tomtom.html)” (Belegger.NL, 21 mei 2013)
   * “[Google Nears Deal for Waze](http://online.wsj.com/article_email/SB10001424127887323949904578535743566216394-lMyQjAxMTAzMDAwOTEwNDkyWj.html)” (Wall Street Journal, 9 juni 2013)
   * “[TomTom gewild op Midkap, maar waarom eigenlijk?](http://www.emerce.nl/nieuws/tomtom-gewild-midkap-waarom-eigenlijk)” (Emerce, 10 juni 2013)
-  * “[Google neemt kaartenproducent Waze over](http://www.iex.nl/Nieuws/ANP_ANP-100613-035/Google-neemt-kaartenproducent-Waze-over.aspx)” (IEX.nl, 10 juni 2013)
+  * “[Google neemt kaartenproducent Waze over](https://web.archive.org/web/20130925205611/http://www.iex.nl:80/Nieuws/ANP_ANP-100613-035/Google-neemt-kaartenproducent-Waze-over.aspx)” (IEX.nl, 10 juni 2013)
   * “[Will Google’s Expected $1.3 Billion Waze Acquisition Be Allowed?](http://searchengineland.com/will-googles-expected-1-3-billion-waze-acquisition-be-allowed-162659)” (Search Engine Land, 10 juni 2013)
   * “[Google Maps and Waze, outsmarting traffic together](http://googleblog.blogspot.nl/2013/06/google-maps-and-waze-outsmarting.html)” (Google Official Blog, 11 juni 2013)
   * “[Google: In Future, Pages With Bad Mobile SEO Won’t Rank As Well In Mobile Search](http://searchengineland.com/google-search-ranking-changes-to-auto-correct-your-mobile-seo-mistakes-162826)” (Searcn Engine Land, 11 juni 2013)

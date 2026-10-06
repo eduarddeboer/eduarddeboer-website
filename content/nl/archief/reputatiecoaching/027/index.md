@@ -3,6 +3,7 @@ title: '27: Content hergebruiken, foto achtergrond uitsnijden, Google Maps en 20
 date: '2013-06-01T21:04:13+00:00'
 description: Hallo en hartelijk welkom bij dé podcast over reputatiemanagement en reputatiecoaching, het verbeteren van je online vindbaarheid en optimalisatie van je website voor zoekmachines. Ik breng je nieuws en tips, waarmee jij je significant kunt onderscheiden van je concurrenten, om zo meer business naar je toe te trekken. Mijn naam is Eduard de Boer –bekend als de ReputatieCoach– en ik ben je host voor vandaag! Gedurende afgelopen week heb ik zoals altijd weer een grote hoeveelheid informatie geconsumeerd.
 episode: 27
+kgRef: podcast_episode/reputatiecoaching_027
 historical: true
 archivePeriod: 2012–2016
 transcriptStatus: full
@@ -26,7 +27,7 @@ Hallo en hartelijk welkom bij dé podcast over reputatiemanagement en reputatiec
 
 **Mijn naam is Eduard de Boer –bekend als de ReputatieCoach– en ik ben je host voor vandaag!**
 
-Gedurende afgelopen week heb ik zoals altijd weer een grote hoeveelheid informatie geconsumeerd. Om te beginnen kom ik vandaag nog even kort terug op het hergebruik van bestaande content, waar ik het in de [vorige podcast](https://www.reputatiecoaching.nl/26) al over had. Als tweede heb ik een nuttige tip voor je, hoe je snel een object uit een foto kunt knippen of beter gezegd: de achtergrond eraf kunt halen. Als derde: hoe frequent moet je bloggen, wil je jezelf echt op de kaart zetten en hoe kun je snel een blogbericht schrijven?
+Gedurende afgelopen week heb ik zoals altijd weer een grote hoeveelheid informatie geconsumeerd. Om te beginnen kom ik vandaag nog even kort terug op het hergebruik van bestaande content, waar ik het in de [vorige podcast](https://web.archive.org/web/20140312234217/http://www.reputatiecoaching.nl:80/26/) al over had. Als tweede heb ik een nuttige tip voor je, hoe je snel een object uit een foto kunt knippen of beter gezegd: de achtergrond eraf kunt halen. Als derde: hoe frequent moet je bloggen, wil je jezelf echt op de kaart zetten en hoe kun je snel een blogbericht schrijven?
 
 Het vierde nieuwsitem gaat over Google Maps en ik sluit af de top-20 tips voor LinkedIn.
 
@@ -76,7 +77,7 @@ Mix je PowerPoint met het audiobestand tot een video. Deze video kun je dan uplo
   * [YouTube](https://www.youtube.com/reputatiecoaching)
   * [Dailymotion](http://www.dailymotion.com/reputatiecoaching)
   * [Vimeo](https://vimeo.com/reputatiecoaching)
-  * [Metacafe](http://www.metacafe.com)
+  * [Metacafe](https://web.archive.org/web/20130602003931/http://www.metacafe.com/)
   * en andere video sites
 ```
 
@@ -94,7 +95,7 @@ De video’s op YouTube heb ik gelinkt in het artikel wat ik hiervoor noemde. Om
 
 Als laatste stuk content heb ik een eBook in PDF-format gemaakt, waarin ik de transcripties van de podcasts van 2012 heb geplakt. Dat waren er vijf. Vanaf januari 2013 ga ik een eBook per kwartaal uitbrengen. Daarin zijn dan dus de transcripties van 13 podcasts opgenomen. Bij elkaar loopt dat dan al snel richting de 100 pagina’s aan tekst. Dat is natuurlijk een groot brok waardevol contentvoer voor de zoekmachines.
 
-Deze PDF-file stel ik beschikbaar op de website om te downloaden en upload ik tevens naar de voornoemde document sharing sites. Overigens, de links naar al deze sites vind je in de show notes, die je kunt lezen op [www.reputatiecoaching.nl/27](http://www.reputatiecoaching.nl/27).
+Deze PDF-file stel ik beschikbaar op de website om te downloaden en upload ik tevens naar de voornoemde document sharing sites. Overigens, de links naar al deze sites vind je in de show notes, die je kunt lezen op [www.reputatiecoaching.nl/27](https://web.archive.org/web/20140331084312/http://www.reputatiecoaching.nl:80/27/).
 
 Het was interessant om te zien, dat het eBook op Slideshare binnen twee dagen al 33 keer van begin tot het eind was bekeken. Ik kan uit de statistieken helaas niet afleiden of men alles daadwerkelijk heeft gelezen…
 
@@ -132,7 +133,7 @@ Om te voorkomen dat mensen content van je missen, kun ze zich abonneren op de RS
 
 ## Mailinglist gestart
 
-Hier geldt natuurlijk het credo: “Zeg wat je doet en doe wat je zegt!”… Dus eerder deze week ben ik zelf met de ReputatieCoaching mailinglist gestart. Je kunt je inschrijven op [www.reputatiecoaching.nl/nieuwsbrief](https://www.reputatiecoaching.nl/nieuwsbrief). Je krijgt alleen mail van mij met nuttige tips, als ik iets leuks tegenkom, of als ik een nieuw artikel op de site heb geplaatst. Ik beloof je niet te spammen en niemand anders krijgt jouw e-mailadres. Zelf stel ik dat niet op prijs, dus ik respecteer zo de privacy van jou, als abonnee. Dus meld je nu meteen aan op: [www.reputatiecoaching.nl/nieuwsbrief](https://www.reputatiecoaching.nl/nieuwsbrief).
+Hier geldt natuurlijk het credo: “Zeg wat je doet en doe wat je zegt!”… Dus eerder deze week ben ik zelf met de ReputatieCoaching mailinglist gestart. Je kunt je inschrijven op [www.reputatiecoaching.nl/nieuwsbrief](https://web.archive.org/web/20131205063155/http://www.reputatiecoaching.nl/nieuwsbrief/). Je krijgt alleen mail van mij met nuttige tips, als ik iets leuks tegenkom, of als ik een nieuw artikel op de site heb geplaatst. Ik beloof je niet te spammen en niemand anders krijgt jouw e-mailadres. Zelf stel ik dat niet op prijs, dus ik respecteer zo de privacy van jou, als abonnee. Dus meld je nu meteen aan op: [www.reputatiecoaching.nl/nieuwsbrief](https://web.archive.org/web/20131205063155/http://www.reputatiecoaching.nl/nieuwsbrief/).
 
 Wat je extra krijgt, als je je op de mailinglist abonneert is elk kwartaal het boek met daarin de transcripties van alle podcasts van het afgelopen kwartaal. Die kun je eventueel op een eReader kopiëren en dan op je gemak in je luie stoel nog eens overlezen.
 
@@ -220,7 +221,7 @@ Als één na laatste tip: pas je nieuwsfeed aan, zodat je home pagina minder cha
 
 En als twintigste tip: connect, deel, like zoals het een goed LinkedIn-burger betaamt. Zoek de interactie als mens en van mens-tot-mens. Ga niet als verkoper het netwerk in, maar als professional en bovenal als mens.
 
-Om het verhaal over LinkedIn af te sluiten: ik las afgelopen week ook nog een leuk artikel over LinkedIn op FrankWatching. De titel van het artikel is: “LinkedIn: 10 functionaliteiten die je moet kennen” en is geschreven door Joline Keijzer. In de show notes –die je kunt vinden op [www.reputatiecoaching.nl/27](http://www.reputatiecoaching.nl/27)– vind je onderaan een link naar het artikel. Ik kan je vooral aanraden om aan het eind alle reacties en tips die door de lezers van het artikel zijn gepost.
+Om het verhaal over LinkedIn af te sluiten: ik las afgelopen week ook nog een leuk artikel over LinkedIn op FrankWatching. De titel van het artikel is: “LinkedIn: 10 functionaliteiten die je moet kennen” en is geschreven door Joline Keijzer. In de show notes –die je kunt vinden op [www.reputatiecoaching.nl/27](https://web.archive.org/web/20140331084312/http://www.reputatiecoaching.nl:80/27/)– vind je onderaan een link naar het artikel. Ik kan je vooral aanraden om aan het eind alle reacties en tips die door de lezers van het artikel zijn gepost.
 
 Zoals altijd hoop ik dat er in deze podcast voor jou weer interessante nieuwtjes en bruikbare tips tussen zitten.
 
@@ -247,7 +248,7 @@ Hieronder het overzicht van de links die in de podcast aan bod komen:
   * [Issuu](http://issuu.com) – voor het delen van documenten
   * [Docstoc](http://www.docstoc.com) – voor het delen van documenten
   * [ClippingMagic](http://clippingmagic.com) – om de achtergrond van een foto weg te halen
-  * “[Write a (good) blog post in 1 hour](http://www.seocopywriting.com/content-marketing/tips-and-strategy/blog-writing-one-hour/)” (SEO CopyWriting, 14 februari 2013)
+  * “[Write a (good) blog post in 1 hour](https://web.archive.org/web/20130529032739/http://www.seocopywriting.com:80/content-marketing/tips-and-strategy/blog-writing-one-hour/?)” (SEO CopyWriting, 14 februari 2013)
   * “ [Expanding Google Business Photos in Europe and Asia](http://google-latlong.blogspot.nl/2013/05/expanding-google-business-photos-in.html)” (Google, 29 mei 2013)
   * “[LinkedIn: 10 functionaliteiten die je moet kennen](https://www.frankwatching.com/archive/2013/05/23/linkedin-10-functionaliteiten-die-je-moet-kennen/)” (FrankWatching, 23 mei 2013)
 ```
