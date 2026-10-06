@@ -3,6 +3,7 @@ title: '121: Serverstoring... Geswitched van SendReach naar Mailchimp. Smush.it 
 date: '2015-03-26T12:41:00+00:00'
 description: Zoals je mogelijk hebt gemerkt is de podcast vandaag iets later uitgekomen, dan om 08:30 uur. Dat kwam door een storing. Ik begin vandaag met nieuws voor de abonnees van de mailinglist, omdat ik ben overgeschakeld van SendReach naar Mailchimp. En herinner je je nog onze slechte ervaringen met de zonnebrandcrème in Spanje? Smush.It stopt ermee en dat is jammer! Waarom? Ik vertel je er zo meer over! Dan heb ik wat nieuwe inzichten ten aanzien van de mobielvriendelijke Google update van 21 april aanstaande en ik sluit de podcast van vandaag af met YouTube infokaarten.
 episode: 121
+kgRef: podcast_episode/reputatiecoaching_121
 historical: true
 archivePeriod: 2012–2016
 transcriptStatus: full
@@ -30,7 +31,7 @@ Zoals je mogelijk hebt gemerkt is de podcast vandaag iets later uitgekomen, dan 
 
 Hallo en hartelijk welkom bij deze aflevering van de ReputatieCoaching Podcast. Ik ben Eduard de Boer, ReputatieCoach. Dit is dé podcast die jou helpt om meer business te genereren, doordat jouw website beter gevonden wordt, zowel lokaal als landelijk en doordat ik je uitleg hoe je je online reputatie kunt verbeteren. Dit alles helpt je om je bedrijf en jezelf beter op de online kaart te plaatsen.
 
-De podcast van vandaag kun je vinden op [www.reputatiecoaching.nl/121](https://www.reputatiecoaching.nl/121/). Daar vind je niet alleen de tekst, maar ook video’s waar ik het in deze uitzending over heb, alsmede afbeeldingen, links enzovoorts. Bovendien is de podcast te beluisteren in [iTunes](https://www.reputatiecoaching.nl/itunes), op [Stitcher](https://www.reputatiecoaching.nl/stitcher) en op [TuneIn Radio](http://tunein.com/radio/ReputatieCoaching-Podcast-p655084/). Ik raad je aan om je op één van die drie kanalen te abonneren op de podcast, zodat je geen aflevering hoeft te missen!
+De podcast van vandaag kun je vinden op [www.reputatiecoaching.nl/121](https://web.archive.org/web/20150605073433/http://www.reputatiecoaching.nl/121/). Daar vind je niet alleen de tekst, maar ook video’s waar ik het in deze uitzending over heb, alsmede afbeeldingen, links enzovoorts. Bovendien is de podcast te beluisteren in iTunes, op Stitcher en op [TuneIn Radio](http://tunein.com/radio/ReputatieCoaching-Podcast-p655084/). Ik raad je aan om je op één van die drie kanalen te abonneren op de podcast, zodat je geen aflevering hoeft te missen!
 
 Laat ik dan nu overgaan op de onderwerpen voor vandaag…
 
@@ -38,7 +39,7 @@ Laat ik dan nu overgaan op de onderwerpen voor vandaag…
 
 Ohhh… Eerst nog even wat anders. Deze podcast kwam niet precies om 08:30 uur live. En dat had een oorzaak… Een oorzaak die mijn volle aandacht en iets meer dan 7 uur opeiste. De dedicated server die ik huur in een datacenter in Rotterdam leek opeens kuren te hebben. Het hebben van een eigen server heeft zo zo’n voor- en nadelen. Een groot voordeel vind ik dat je de server volledig kunt inrichten, zoals je dat zelf wilt. Een nadeel is dat je zelf moet komen opdraven als er problemen zijn. En dat was nu dus het geval.
 
-Ik had de indruk dat alle websites die ik op die server draai steeds langzamer werden. Waar ik trouwens heel benieuwd naar ben, is of jij als bezoeker van [www.reputatiecoaching.nl](http://www.reputatiecoaching.nl) de afgelopen paar weken net als ik de idee had dat het wat langer duurde voordat de pagina’s werden vertoond. Heb je iets gemerkt, laat het me alsjeblieft weten en stuur een mailtje naar [podcast@reputatiecoaching.nl](mailto:podcast@reputatiecoaching.nl) met je bevindingen.
+Ik had de indruk dat alle websites die ik op die server draai steeds langzamer werden. Waar ik trouwens heel benieuwd naar ben, is of jij als bezoeker van [www.reputatiecoaching.nl](https://web.archive.org/web/20150312084009/http://www.reputatiecoaching.nl) de afgelopen paar weken net als ik de idee had dat het wat langer duurde voordat de pagina’s werden vertoond. Heb je iets gemerkt, laat het me alsjeblieft weten en stuur een mailtje naar [podcast@reputatiecoaching.nl](mailto:podcast@reputatiecoaching.nl) met je bevindingen.
 
 Welnu, mijn gevoel werd bevestigd toen ik eens in Google Webmaster Tools ging kijken naar de Crawlstatistieken voor de ReputatieCoaching website. Daar zag ik dat er iets veranderd leek te zijn sinds 8 maart 2015. Want vanaf die tijd steeg de gemiddelde laadtijd van de pagina’s op de site van zo’n 800 milliseconden naar 2,9 seconden…
 
@@ -61,7 +62,7 @@ De komende dagen houd ik de server nauwlettend in de gaten om te zien of het nu 
 
 Wat kunnen we hiervan leren? Allereerst moet je niet te snel genoegen nemen met iets een tragere website, als je weet dat die normaal sneller is. En dan moet je gaan zoeken… Daarvoor gebruikte ik Google Webmaster Tools, een gratis service van Google. En gelukkig gebruik ik die al lange tijd, waardoor ik tot drie maanden terug kan kijken. Daardoor kon ik zien dat het probleem vlak na 8 maart was ontstaan. In de grafiek zag ik dat de laadtijd voor alle sites langer was geworden. Het was dus niet de configuratie van een enkele website, waarop een verkeerde plugin draaide.
 
-Ik denk dat voor jou het belangrijkste leerpunt hiervan is dat je [Google Webmaster Tools](https://www.google.com/webmasters/tools/) moet activeren voor je site c.q. voor al je sites. Want ook als Google je site een handmatige penalty geeft of andere problemen aantreft, dan krijg je dat alleen daar te horen.
+Ik denk dat voor jou het belangrijkste leerpunt hiervan is dat je Google Webmaster Tools moet activeren voor je site c.q. voor al je sites. Want ook als Google je site een handmatige penalty geeft of andere problemen aantreft, dan krijg je dat alleen daar te horen.
 
 En als slagroom op de koffie is het nuttig en wellicht handig voor je om te weten dat je in Google Webmaster Tools nog een goed beeld kunt krijgen van de trefwoorden waar je op rankt en op welke gemiddelde positie je ermee scoort in de zoekresultaten. Want in Google Analytics zie je die gemiddelde ranking van de zoektermen niet meer.
 
@@ -69,7 +70,7 @@ Tot zover over de storing op de server en het nut van Google Webmaster Tools.
 
 ## Ik lees WhatsApp alleen nog maar om 09:30, 16:30 en 20:30 uur
 
-Nog even iets, voor ik de onderwerpen van vandaag behandel. Ik had je verteld dat ik op persoonlijke titel ben [gestopt met Facebook](https://www.reputatiecoaching.nl/118/). Eén van de redenen was de hoeveelheid tijd die het me kostte, wat in geen vergelijking stond met het rendement zoals ik dat ervoer. Ik voel me nog steeds comfortabel bij die keuze en ik mis Facebook geen moment.
+Nog even iets, voor ik de onderwerpen van vandaag behandel. Ik had je verteld dat ik op persoonlijke titel ben [gestopt met Facebook](https://web.archive.org/web/20150312084041/http://www.reputatiecoaching.nl/118/). Eén van de redenen was de hoeveelheid tijd die het me kostte, wat in geen vergelijking stond met het rendement zoals ik dat ervoer. Ik voel me nog steeds comfortabel bij die keuze en ik mis Facebook geen moment.
 
 Om mij nog beter te kunnen concentreren op mijn werkzaamheden ben ik nog een stap verder gegaan. WhatsApp was voor mij een grote bron van irritatie vanwege de verstoring die het veroorzaakte bij elk ontvangen berichtje. 99,99% van die instantberichten was helemaal niet tijdkritisch en veelal irrelevant, ongewenst, niet interessant en dus feitelijk bandbreedtevervuiling. Maar het ergste vond ik dat ik elke keer weer uit mijn concentratie werd gehaald en om vervolgens weer in de “flow” te komen had ik dan tot overmaat van ramp steeds zo’n 15–20 minuten nodig. Pure tijdverspilling!
 
@@ -82,7 +83,7 @@ Dan nu echt de onderwerpen voor vandaag!
 ## Overstap SendReach naar Mailchimp voor mailinglist
 
 ![mailchimp-logo](mailchimp-logo.png)
-Dankzij de plugin SumoMe, waar ik het in [podcast 120](https://www.reputatiecoaching.nl/120/) over had, groeit mijn mailinglist nu vele malen sneller dan voorheen. De groei is nog steeds zo’n 5x groter dan voorheen, dus dat loopt prima! Nu moet je weten dat ik tot zo’n anderhalf tot twee jaar geleden altijd een trouw gebruiker was van Mailchimp. Dat voldeed meer dan voldoende aan al mijn eisen.
+Dankzij de plugin SumoMe, waar ik het in [podcast 120](https://web.archive.org/web/20150320121659/http://www.reputatiecoaching.nl/120/) over had, groeit mijn mailinglist nu vele malen sneller dan voorheen. De groei is nog steeds zo’n 5x groter dan voorheen, dus dat loopt prima! Nu moet je weten dat ik tot zo’n anderhalf tot twee jaar geleden altijd een trouw gebruiker was van Mailchimp. Dat voldeed meer dan voldoende aan al mijn eisen.
 
 Maar twee jaar geleden was ik veel zoekende naar wat de Amerikan noemen “The Next Shiny Object”. In die tijd was ik wat minder kritisch en had de illusie dat al die mooie tooltjes die Internet marketeers en affiliates aanprezen mij konden helpen om sneller meer resultaat te behalen. Dat heeft de nodige Euro’s gekost aan achteraf beschouwd zinloze programma’s, plugins, tools en andere zinloze zaken.
 
@@ -94,7 +95,7 @@ Dus heb ik mijn account in Mailchimp afgestoft en opgepoetst. Daarna heb ik alle
 
 ## Vision zonnebrandcrème ervaringen
 
-Tijdens de zomervakantie in Spanje in 2014 hadden we een [slechte ervaring met Vision zonnebrandcrème](https://www.reputatiecoaching.nl/88/). Ik heb daar toen een korte video van gemaakt en die op YouTube gezet. Voor het geval je die nog nooit hebt gezien, heb ik ’m nog even opgenomen in de show notes van deze podcast, op [www.reputatiecoaching.nl/121](https://www.reputatiecoaching.nl/121/):
+Tijdens de zomervakantie in Spanje in 2014 hadden we een [slechte ervaring met Vision zonnebrandcrème](https://web.archive.org/web/20150312094612/http://www.reputatiecoaching.nl/88/). Ik heb daar toen een korte video van gemaakt en die op YouTube gezet. Voor het geval je die nog nooit hebt gezien, heb ik ’m nog even opgenomen in de show notes van deze podcast, op [www.reputatiecoaching.nl/121](https://web.archive.org/web/20150605073433/http://www.reputatiecoaching.nl/121/):
 
 Inmiddels heb ik vorige week contact gezocht met Vemedia om te vragen of ik de nieuwe tube kon ontvangen om die te testen. Daarop ontving ik binnen een dag het antwoord:
 
@@ -136,7 +137,7 @@ Dus heb ik meteen in alle WordPress sites die ik manage de plugin verwijderd.
 
 Een tijdje geleden heb ik een instructievideo gemaakt over de [bestandsgrootte van een foto verkleinen op Mac, PC en Linux](https://www.youtube.com/watch?v=TKCTXegNy80) met compressor.io:
 
-Vertel eens: wat doe jij? Upload jij plompverloren alle afbeeldingen naar je WordPress-site? Of heb jij ook een optimalisatieplugin draaien? Welke gebruik jij? Of gebruik je net als ik handmatig een online service als compressor.io? Laat het me weten onderaan de show notes van deze podcast, op [www.reputatiecoaching.nl/121](https://www.reputatiecoaching.nl/121/).
+Vertel eens: wat doe jij? Upload jij plompverloren alle afbeeldingen naar je WordPress-site? Of heb jij ook een optimalisatieplugin draaien? Welke gebruik jij? Of gebruik je net als ik handmatig een online service als compressor.io? Laat het me weten onderaan de show notes van deze podcast, op [www.reputatiecoaching.nl/121](https://web.archive.org/web/20150605073433/http://www.reputatiecoaching.nl/121/).
 
 ## Korte update over mobile friendly algoritme update van 21 april a.s.
 
@@ -191,7 +192,7 @@ Echter, ergens naartoe linken kan alleen als je je YouTube account ooit hebt gev
 
 Daar moet je het land kiezen en de manier waarop je je account wilt verifiëren. Je kunt daar kiezen uit gebeld worden met een automatisch telefoontje, of via SMS. Ik maak je erop attent dat je per jaar hetzelfde nummer slechts drie keer kunt gebruiken. Maar voor de meeste mensen zal één keer zelfs wel voldoende zijn.
 
-Als je de code hebt ingevoerd heb je opeens veel meer mogelijkheden in YouTube. Ook hiervan heb ik een screenshot opgenomen in de show notes, op [www.reputatiecoaching.nl/121](https://www.reputatiecoaching.nl/121/):
+Als je de code hebt ingevoerd heb je opeens veel meer mogelijkheden in YouTube. Ook hiervan heb ik een screenshot opgenomen in de show notes, op [www.reputatiecoaching.nl/121](https://web.archive.org/web/20150605073433/http://www.reputatiecoaching.nl/121/):
 
 [![YouTube verified account](20150326-YTverified.png)](https://lh5.googleusercontent.com/-C1PtH6o6mZ8/VRQBwDU3ZwI/AAAAAAAAB6A/SqmjvdrlY2s/w773-h994-no/20150326-YTverified.png)
 
@@ -214,7 +215,7 @@ Je kunt kiezen uit diverse soorten infokaarten, te weten:
 
 Mogelijk werd je gelijk getriggerd toen ik het zojuist had over “handelswaar” en kreeg je meteen al visioenen om hoog scorende video’s te maken van je tweedehands Playmobil die je te koop aanbiedt op Marktplaats, of via affiliate links naar producten op Amazon.
 
-Helaas, dat zal niet gaan. Want het aantal sites waar je naar kunt verwijzen is beperkt. Je kunt een actueel overzicht vinden op de [supportsite van Google](https://support.google.com/youtube/answer/2760471). De link er naartoe heb ik opgenomen onderaan de show notes van deze podcast, omdat ik ze hier niet allemaal wil opnoemen.
+Helaas, dat zal niet gaan. Want het aantal sites waar je naar kunt verwijzen is beperkt. Je kunt een actueel overzicht vinden op de [supportsite van Google](https://web.archive.org/web/20150401062204/https://support.google.com/youtube/answer/2760471). De link er naartoe heb ik opgenomen onderaan de show notes van deze podcast, omdat ik ze hier niet allemaal wil opnoemen.
 
 Wel wil ik er drie kort even uitlichten. En dat zijn:
 
@@ -246,13 +247,13 @@ Wow! Als je dit allemaal achter elkaar leest, dan snap je wel waarom ik er zo en
 
 [![YouTube video op mobiel met infokaart](20150326-infokaart-mobiel.png)](https://lh5.googleusercontent.com/-EHdgvIBhRQM/VRP_T_c5nfI/AAAAAAAAB5o/vW0J1um4oNw/w1334-h750-no/20150326-infokaart-mobiel.png)
 
-En met deze beschouwing over infokaarten op YouTube kom ik dan weer aan het einde van deze [121e podcast](https://www.reputatiecoaching.nl/121/).
+En met deze beschouwing over infokaarten op YouTube kom ik dan weer aan het einde van deze [121e podcast](https://web.archive.org/web/20150605073433/http://www.reputatiecoaching.nl/121/).
 
 Als je de podcast leuk vindt en je wilt nog meer op de hoogte blijven, volg me dan op Twitter, via [@reputatiecoach1](https://twitter.com/reputatiecoach1).
 
 Heb je inderdaad wat aan alle informatie die ik met je deel, help mij dan met het verder verbeteren en promoten van deze podcast. Abonneer je op de podcast, zodat je altijd meteen de nieuwste uitzending krijgt voorgeschoteld.
 
-Zoek de podcast op, in [iTunes](https://www.reputatiecoaching.nl/itunes) of [Stitcher](https://www.reputatiecoaching.nl/stitcher), geef de podcast een sterrenbeoordeling en laat je reactie achter. Door de podcast te beoordelen op iTunes en/of Stitcher breng je de podcast onder de aandacht van een breder publiek.
+Zoek de podcast op, in iTunes of Stitcher, geef de podcast een sterrenbeoordeling en laat je reactie achter. Door de podcast te beoordelen op iTunes en/of Stitcher breng je de podcast onder de aandacht van een breder publiek.
 
 Je kunt me verder helpen, door de podcast aan te bevelen bij vrienden of collega’s, waarvan je denkt dat ze er hun voordeel mee kunnen doen, of door ’m te delen op Twitter, like’n en delen op Facebook of een “+1” te geven op Google+.
 
@@ -260,7 +261,7 @@ En vergeet niet: ik ben hier om je te helpen! Als je een vraag of een probleem h
 
 Als je dat te lastig vindt, of als je de podcast beluistert terwijl je in de auto zit en je hebt acuut een vraag, spreek dan een boodschap in op de ReputatieCoaching Hotline, op nummer: 084 - 883 15 56. Mogelijk behandel ik je vraag of probleem dan in een artikel of in de podcast.
 
-En je kunt rechtstreeks op de website een voicemail achterlaten, door op de tab aan de rechterkant van elke pagina te klikken, en je bericht in te spreken. Dit was [ReputatieCoaching Podcast aflevering 121](https://www.reputatiecoaching.nl/121/) en mijn naam is [Eduard de Boer](http://nl.linkedin.com/in/eduarddeboer/nl).
+En je kunt rechtstreeks op de website een voicemail achterlaten, door op de tab aan de rechterkant van elke pagina te klikken, en je bericht in te spreken. Dit was [ReputatieCoaching Podcast aflevering 121](https://web.archive.org/web/20150605073433/http://www.reputatiecoaching.nl/121/) en mijn naam is [Eduard de Boer](http://nl.linkedin.com/in/eduarddeboer/nl).
 
 Ik wens je de komende week weer succes met het werken aan je reputatie, zodat je meteen je reputatie voor jou kunt laten werken!
 
@@ -271,11 +272,11 @@ Doei!
 Links naar content die in deze podcast aan bod komt:
 
 ```
-  * [ReputatieCoaching Podcast in iTunes](https://www.reputatiecoaching.nl/itunes)
-  * [ReputatieCoaching Podcast op Stitcher](https://www.reputatiecoaching.nl/stitcher)
+  * ReputatieCoaching Podcast in iTunes
+  * ReputatieCoaching Podcast op Stitcher
   * [ReputatieCoaching Podcast op TuneIn Radio](http://tunein.com/radio/ReputatieCoaching-Podcast-p655084/)
-  * [ReputatieCoaching Podcast RSS-feed](https://feeds.reputatiecoaching.nl/ReputatieCoachingPodcast)
-  * [Google Webmaster Tools](https://www.google.com/webmasters/tools/)
+  * [ReputatieCoaching Podcast RSS-feed](https://web.archive.org/web/20150228235938/http://feeds.reputatiecoaching.nl:80/ReputatieCoachingPodcast)
+  * Google Webmaster Tools
   * [Google Mobielvriendelijke test](https://www.google.com/webmasters/tools/mobile-friendly/)
-  * [Merchandising-annotaties](https://support.google.com/youtube/answer/2760471) in YouTube video’s
+  * [Merchandising-annotaties](https://web.archive.org/web/20150401062204/https://support.google.com/youtube/answer/2760471) in YouTube video’s
 ```
