@@ -147,7 +147,7 @@ We zullen zien hoe de komende tijd het aandeel van Google zich ontwikkelt. Afgel
 ## Nieuws van Google Maps en spam in de kaarten!
 
 *Historische afbeelding niet beschikbaar: Google Maps logo*
-Vorige week vertelde ik dat de nieuwe Google Maps nu officieel live is, maar dat nog niet alle features van de originele Google Maps erin waren verwerkt. Inmiddels is er alweer één “oude” feature (met drie onderliggende mogelijkheden) terug.
+[Vorige week](/nl/archief/reputatiecoaching/065/) vertelde ik dat de nieuwe Google Maps nu officieel live is, maar dat nog niet alle features van de originele Google Maps erin waren verwerkt. Inmiddels is er alweer één “oude” feature (met drie onderliggende mogelijkheden) terug.
 
 Het betreft de mogelijkheid om een rechterklik te doen op een kaart. Dit werkte tot vorige week niet, maar inmiddels werkt het wel weer. Op dit moment heb je de volgende drie mogelijkheden, als je in Google Maps op de rechterknop van je muis klikt:
 

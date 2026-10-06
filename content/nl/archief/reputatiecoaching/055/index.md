@@ -29,7 +29,7 @@ Tjongejonge, heb ik net vorige week beloofd dat ik deze week op tijd zou zijn me
 
 Als persoon kun je met de diverse tips aan de slag om bijvoorbeeld je online reputatie als ambulancechauffeur, heilsoldaat, ornitoloog, vinoloog, zilversmid of wat dan ook te verbeteren.
 
-De volledige transcriptie van deze podcast kun je zoals altijd vinden op de website, en wel op: www.reputatiecoaching.nl/55.
+De volledige transcriptie van deze podcast kun je zoals altijd vinden op de website, en wel op: [www.reputatiecoaching.nl/55](/nl/archief/reputatiecoaching/055/).
 
 Allereerst: hoe komt het nu, dat ik ook deze week later dan normaal ben met het uitbrengen van de ReputatieCoaching Podcast, terwijl ik vorige week nog zo had gezegd dat ik deze week op tijd zou zijn? Ik vind dat ik je hiervoor een uitleg verschuldigd ben.
 
@@ -139,7 +139,7 @@ In andere woorden: je inspanningen worden uiteindelijk heus beloond. Als jij wel
 
 ## 15 contentmarketing voorspellingen voor 2014
 
-En nu ik het toch over contentmarketing heb: ik kwam op Slideshare een interessante presentatie tegen met als titel “[50 Content Marketing Predictions for 2014](https://www.slideshare.net/CMI/cmi-predictions-2014)” van het Content Marketing Institute. Deze presentatie heb ik ook opgenomen in de show notes, op www.reputatiecoaching.nl/55.
+En nu ik het toch over contentmarketing heb: ik kwam op Slideshare een interessante presentatie tegen met als titel “[50 Content Marketing Predictions for 2014](https://www.slideshare.net/CMI/cmi-predictions-2014)” van het Content Marketing Institute. Deze presentatie heb ik ook opgenomen in de show notes, op [www.reputatiecoaching.nl/55](/nl/archief/reputatiecoaching/055/).
 
 ```
   * _“Tenminste drie bedrijven uit de Fortune 500 nemen in 2014 een Chief Content Officer in dienst”_ (Joe Pulizzi)
@@ -216,7 +216,7 @@ Als je een vraag of een probleem hebt met betrekking tot je online reputatie of 
 
 Als laatste kun je je ook inschrijven voor de nieuwsbrief. Dan ontvang je altijd als eerste het laatste nieuws wat ik publiceer en automatisch elk kwartaal het ReputatieCoaching Podcast Boek van het afgelopen kwartaal. Surf daartoe naar [www.reputatiecoaching.nl/nieuwsbrief/](https://web.archive.org/web/20131205063155/http://www.reputatiecoaching.nl/nieuwsbrief/) en schrijf je meteen in.
 
-En je kunt ook rechtstreeks op de website een voicemail achterlaten, door op de tab aan de rechterkant van elke pagina te klikken, en je bericht in te spreken. Dit was ReputatieCoaching Podcast aflevering 55 en mijn naam is [Eduard de Boer](http://nl.linkedin.com/in/eduarddeboer/nl).
+En je kunt ook rechtstreeks op de website een voicemail achterlaten, door op de tab aan de rechterkant van elke pagina te klikken, en je bericht in te spreken. Dit was [ReputatieCoaching Podcast aflevering 55](/nl/archief/reputatiecoaching/055/) en mijn naam is [Eduard de Boer](http://nl.linkedin.com/in/eduarddeboer/nl).
 
 Ik wens je de komende week weer succes met het werken aan je reputatie en de voorbereidingen voor Kerstmis. Blijf werken aan je reputatie, zodat je meteen je reputatie voor jou kunt laten werken!
 

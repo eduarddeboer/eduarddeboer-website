@@ -32,6 +32,8 @@ showTaxonomies: false
 
 ## 20151119-google-lokale-gidsen-punten
 
+![Google Lokale Gidsen punten](20151119-google-lokale-gidsen-punten.jpg)
+
 Status Google Lokale Gidsen
 
 Toen het Lokale Gidsen programma door Google werd geïntroduceerd aan het begin van 2015 had ik maar één doel: zo snel mogelijk het hoogste niveau bereiken: niveau 4. Sindskort is er een niveau bijgekomen. Mijn nieuwe doel is nu om dat niveau te bereiken vóór 1 januari 2016!

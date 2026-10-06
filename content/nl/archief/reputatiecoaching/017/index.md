@@ -35,7 +35,7 @@ De lente is begonnen en buiten giert nog steeds een ijzige wind om het kantoor. 
 
 *Tijdens mijn speurtochten, waarbij ik het Internet tot de grenzen afschuim op zoek naar leuk nieuws en leerzame blogposts ben ik weer op een groot aantal leuke topics gestuit.*
 
-*Voordat ik doorga even een advies tussendoor. De kans is groot dat jij Google gebruikt voor zo goed als al je zoekpogingen op Internet. Maar controleer je wel eens of je website ook op de juiste zoektermen goed scoort in Bing, de zoekmachine van Microsoft? Reden dat ik je dit vraag is dat Facebook een partnership heeft met Microsoft. En ik heb al eens verteld over de nieuwe zoekmogelijkheden die binnenkort in Facebook zullen verschijnen, ook voor de Nederlandse markt. Het betreft hier de Facebook Graph Search. De URL hier naartoe kun je vinden in de show notes op: www.reputatiecoaching.nl/podcast-17.*
+*Voordat ik doorga even een advies tussendoor. De kans is groot dat jij Google gebruikt voor zo goed als al je zoekpogingen op Internet. Maar controleer je wel eens of je website ook op de juiste zoektermen goed scoort in Bing, de zoekmachine van Microsoft? Reden dat ik je dit vraag is dat Facebook een partnership heeft met Microsoft. En ik heb al eens verteld over de nieuwe zoekmogelijkheden die binnenkort in Facebook zullen verschijnen, ook voor de Nederlandse markt. Het betreft hier de Facebook Graph Search. De URL hier naartoe kun je vinden in de show notes op: [www.reputatiecoaching.nl/podcast-17](/nl/archief/reputatiecoaching/017/).*
 
 *Maar goed, het partnership met Microsoft houdt in, dat als Facebook je straks geen resultaten kan geven, zij de zoekresultaten van Bing zullen tonen. Begrijp je waar ik heen wil? Als jij met je website ook goed scoort in de zoekresultaten op Bing word je dan mogelijk ook getoond in Facebook. Hiermee is het dus opeens een stuk belangrijker geworden, dat jij met je website ook goed vindbaar bent in Bing.*
 
@@ -296,7 +296,7 @@ De lente is begonnen en buiten giert nog steeds een ijzige wind om het kantoor. 
 
 *Nu ik het toch hierover heb: als jij wat hebt aan de informatie en je vind het leuk om naar de podcast te luisteren, dan kun je ook een bericht achterlaten op onze Facebookpagina, op: www.reputatiecoaching.nl/facebook. Geef een “Like” of “+1” op Google+, waardoor je laat weten dat je de content op prijs stelt. Of laat een leuke recensie achter op mijn LinkedIn-profiel, op: www.reputatiecoaching.nl/linkedin.*
 
-*Geef gerust een recensie. En als je opmerkingen hebt over deze podcast, laat die dan op de website onderaan de transcriptie achter. Je kunt de transcriptie van deze podcast snel online vinden door te surfen naar: www.reputatiecoaching.nl/podcast-17. Als je ergens een recensie hebt geplaatst, stuur me dan een mailtje zodat ik je recensie kan vermelden in de podcast.*
+*Geef gerust een recensie. En als je opmerkingen hebt over deze podcast, laat die dan op de website onderaan de transcriptie achter. Je kunt de transcriptie van deze podcast snel online vinden door te surfen naar: [www.reputatiecoaching.nl/podcast-17](/nl/archief/reputatiecoaching/017/). Als je ergens een recensie hebt geplaatst, stuur me dan een mailtje zodat ik je recensie kan vermelden in de podcast.*
 
 *Als je een vraag of een probleem hebt met betrekking tot je online reputatie, stuur dan een mailtje naar [podcast@reputatiecoaching.nl](mailto:podcast@reputatiecoaching.nl) of spreek een boodschap in op de ReputatieCoaching Hotline, op: 084 - 883 15 56. Mogelijk behandel ik je vraag of probleem dan in een artikel of in de podcast.*
 

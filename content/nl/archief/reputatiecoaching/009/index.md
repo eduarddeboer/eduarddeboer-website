@@ -48,7 +48,7 @@ De onderwerpen die ik in deze negende podcast voor je heb: als eerste een tip ui
 
 *Wat leren we hiervan? Je kunt dus best eens online een zeperd begaan, maar als je je achteraf realiseert dat je fout zit, geef het dan ruiterlijk toe en biedt in het openbaar je excuses aan. Deze publiekelijke knieval kan best even pijn doen, maar helpt vaak de aangerichte schade te beperken. En als je geluk hebt, zoals in dit verhaal, dan wordt je excuuspost zelfs nog aangehaald als lichtend voorbeeld!*
 
-*In podcast 7 vertelde ik je over de offerte die ik moest uitbrengen voor het verbeteren van de reputatie van een bedrijventerrein waar geesten zouden huizen. Die offerte is inmiddels de deur uit. Zodra ik meer kan en mag vertellen over deze spokenjacht, zal ik dat zeker doen.*
+*In [podcast 7](/nl/archief/reputatiecoaching/007/) vertelde ik je over de offerte die ik moest uitbrengen voor het verbeteren van de reputatie van een bedrijventerrein waar geesten zouden huizen. Die offerte is inmiddels de deur uit. Zodra ik meer kan en mag vertellen over deze spokenjacht, zal ik dat zeker doen.*
 \_ Maar ik ben niet de enige die op spokenjacht gaat. Ook Instagram (dat, zoals je mogelijk weet eigendom is van Facebook) is ook op spokenjacht, las ik van het weekend op NU.nl. Maar dan naar zogenaamde “spook-accounts”. Hoewel het altijd een sterk punt was van Instagram, dat mensen anoniem zich konden aanmelden, hebben ze nu hun beleid aangepast. Om je aan te melden moet je tegenwoordig een identiteitsbewijs overleggen.\_
 
 *En nu ik het toch over Instagram heb: wat gebruik jij het meest voor promotie van jouw beeldmateriaal: Instagram of Pinterest?*
@@ -94,7 +94,7 @@ De onderwerpen die ik in deze negende podcast voor je heb: als eerste een tip ui
 
 *Ook is er nog een drietal security issues opgelost, waar ik niet te diep op wil ingaan omdat het dan wel erg technisch wordt.*
 
-*Zoals ik vertelde in podcast 7 had ik ook het probleem dat stukken HTML-code verdwenen als ik een blogbericht met video vooraf agendeerde om op een bepaalde dag/tijd online te komen. Dit probleem is gelukkig opgelost.*
+*Zoals ik vertelde in [podcast 7](/nl/archief/reputatiecoaching/007/) had ik ook het probleem dat stukken HTML-code verdwenen als ik een blogbericht met video vooraf agendeerde om op een bepaalde dag/tijd online te komen. Dit probleem is gelukkig opgelost.*
 
 *Mede vanwege de gefixte beveiligingsissues, raad ik je aan zo snel mogelijk deze update door te voeren. Vergeet -zoals altijd- niet eerst een backup te maken van je WordPress blog en je database. Je kunt gemakkelijk een volledige backup maken van de actuele versie van je volledige weblog in je Dropbox drive door gebruik te maken van BackWPup, een gratis plugin die ik al eens eerder heb aanbevolen.*
 

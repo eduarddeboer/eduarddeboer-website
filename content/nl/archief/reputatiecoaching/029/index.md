@@ -58,7 +58,7 @@ Op 3 december 2012 bracht ik de eerste podcast uit en vanaf dat begin meet Googl
   * [plaats op foto markeren met rode stift](https://web.archive.org/web/20140328233245/http://www.reputatiecoaching.nl:80/foto-uitsnijden-achtergrond-verwijderen-instructievideo/)
 ```
 
-Tot zover het beloofde stukje over zoektermen en hoe dat anders kan uitpakken voor je site, dan verwacht. Heb jij nog een leuk voorbeeld van een geheel onverwachte zoekterm, waarmee jouw site is gevonden? Laat het weten en reageer onder de show notes van deze podcast. Je kunt de transcriptie en links naar de diverse sites die ik in deze podcast noem, vinden op www.reputatiecoaching.nl/29.
+Tot zover het beloofde stukje over zoektermen en hoe dat anders kan uitpakken voor je site, dan verwacht. Heb jij nog een leuk voorbeeld van een geheel onverwachte zoekterm, waarmee jouw site is gevonden? Laat het weten en reageer onder de show notes van deze podcast. Je kunt de transcriptie en links naar de diverse sites die ik in deze podcast noem, vinden op [www.reputatiecoaching.nl/29](/nl/archief/reputatiecoaching/029/).
 
 ## Gegevens bij je podcast aanpassen in iTunes
 
@@ -149,7 +149,7 @@ De nieuwe zoekmachine DuckDuckGo met het vriendelijke eendje kwam in [podcast 5]
 
 Natuurlijk komt dit bij lange na nog niet in de buurt van Google, Bing en zelfs Yahoo!, maar ik vind het in ieder geval interessant om te zien hoe een nieuwkomer toch in staat is een beetje marktaandeel van de echte grootmachten in de zoekmarkt af te snoepen.
 
-Heb jij DuckDuckGo al eens geprobeerd? Wat vond je van de resultaten en de manier waarop de resultaten worden vertoond? Geef je reactie onderaan de show notes, die je kunt vinden op www.reputatiecoaching.nl/29. In de show notes vind je overigens ook een grafiek waarop je de groei van DuckDuckGo in de tijd kunt bekijken.
+Heb jij DuckDuckGo al eens geprobeerd? Wat vond je van de resultaten en de manier waarop de resultaten worden vertoond? Geef je reactie onderaan de show notes, die je kunt vinden op [www.reputatiecoaching.nl/29](/nl/archief/reputatiecoaching/029/). In de show notes vind je overigens ook een grafiek waarop je de groei van DuckDuckGo in de tijd kunt bekijken.
 
 [Historische afbeelding: bekijk bron](https://lh5.googleusercontent.com/rHzQ2-k2zhih8xHp2g73Hq1fjaEdnaJnC4e5-XrzVPwpYtWpdBCMATYqPNel1bXH-eTV48YQ_tycwbi0nJ-QoexgNjPQMweN_l0wBmPs3bYCOpUfdtPFwWeLDg)
 

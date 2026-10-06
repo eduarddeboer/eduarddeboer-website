@@ -130,7 +130,7 @@ En natuurlijk schrijf je content die inspeelt op de juiste zoektermen. Om die te
 
 En als ik het dan toch heb over het schrijven van goede content, wil ik je nog eens een aantal aandachtspunten en tips geven, waarmee jij je voordeel kunt doen, als je bezig gaat met het produceren van content. Want vergeet niet: technieken die in 2012 of daarvoor nog werkten, werken nu waarschijnlijk niet meer.
 
-*Historische afbeelding niet beschikbaar: 10-SEO-Copywriting-Tips-For-Writing-Content-That-Ranks-In-2013-Infographic*
+![10 SEO Copywriting Tips For Writing Content That Ranks In 2013](10-SEO-Copywriting-Tips-For-Writing-Content-That-Ranks-In-2013-Infographic.png)
 
 ```
   1. **Schrijf voor mensen, niet voor zoekmachines** – Al meermalen aangehaald, maar ik zie nog maar al te vaak content die overduidelijk is geschreven voor zoekmachines.

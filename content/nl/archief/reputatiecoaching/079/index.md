@@ -37,7 +37,7 @@ Hallo en hartelijk welkom bij deze aflevering van de ReputatieCoaching Podcast. 
 
 Als persoon kun je met de diverse tips aan de slag om bijvoorbeeld je online reputatie als gerechtsdeurwaarder, stedenbouwkundige, huidtherapeut, bartender, etalage ontwerper of wat dan ook te verbeteren.
 
-De podcast en alle gerelateerde content kun je vinden op www.reputatiecoaching.nl/79. Daar vind je niet alleen de tekst, maar ook video’s waar ik het in deze uitzending over heb, alsmede afbeeldingen, links enzovoorts. Bovendien is de podcast te beluisteren in iTunes en op Stitcher. Daar kun je je dus ook abonneren op de wekelijkse podcast. Veel mensen vinden het ideaal om de wekelijkse afleveringen van de podcast op hun gemak te beluisteren, terwijl ze autorijden.
+De podcast en alle gerelateerde content kun je vinden op [www.reputatiecoaching.nl/79](/nl/archief/reputatiecoaching/079/). Daar vind je niet alleen de tekst, maar ook video’s waar ik het in deze uitzending over heb, alsmede afbeeldingen, links enzovoorts. Bovendien is de podcast te beluisteren in iTunes en op Stitcher. Daar kun je je dus ook abonneren op de wekelijkse podcast. Veel mensen vinden het ideaal om de wekelijkse afleveringen van de podcast op hun gemak te beluisteren, terwijl ze autorijden.
 
 ## Terugblik podcast 78
 
@@ -131,7 +131,7 @@ Nou, ik heb er weer eentje voor je, te weten: [compressor.io](http://compressor.
 
 In principe doet compressor.io hetzelfde als smush.it, namelijk het verkleinen van de bestandsgrootte van afbeeldingen. De dienst is gratis, evenals smush.it. Het leuke is echter, dat compressor.io niet alleen .JPG, .PNG en .GIF bestanden verder kan comprimeren, maar ook SVG, het Scalable Vector Graphics formaat. Nu gebruiken niet bijster veel mensen SVG, maar het is handig om te weten.
 
-In de show notes, die je overigens kunt vinden op www.reputatiecoaching.nl/79 heb ik een screenshot opgenomen van de website van compressor.io. Toen ik de initiële versie van deze screenshot maakte, was het bestand afgerond 419 KiloByte:
+In de show notes, die je overigens kunt vinden op [www.reputatiecoaching.nl/79](/nl/archief/reputatiecoaching/079/) heb ik een screenshot opgenomen van de website van compressor.io. Toen ik de initiële versie van deze screenshot maakte, was het bestand afgerond 419 KiloByte:
 
 [![Compressor.io website](20140602-compressor.png)](https://lh5.googleusercontent.com/-ykRIMWEm2gI/U4tp56JxyWI/AAAAAAAAA1E/swtNO5U1z-I/w1081-h697-no/20140602-compressor.png)
 
@@ -181,7 +181,7 @@ Toch heeft Microsoft dit eerder deze week gedemonstreerd. De demonstratievideo h
 
 Volgens de video spreekt Gurdeep Pall geen Duits, maar ik moet zeggen dat de over en weer vertaling toch al wel erg goed is. Waar Diana Heinrichs, de Duitse collega heel erg goed articuleert en rustig spreekt, spreekt Gurdeep snel Engels. Toch gaat het aardig goed, qua vertaling. Als ik het zo beluister dan lijkt het voor mij dat de essentie van de verhalen wel duidelijk wordt in de andere taal.
 
-Misschien vraag je je af, waarom ik dat hier in deze podcast vertel. Nou, volgens mij hebben ook dit soort ontwikkelingen enorme gevolgen voor marketing, zodra ze nog verder zijn verbeterd. Welke gevolgen kan ik niet zo 1–2–3 overzien, anders dan dat je simpelweg een reclame niet meer door mensen hoeft te laten nasynchroniseren, omdat dat nu geautomatiseerd kan. Heb jij ideeën? Laat me ze weten onderaan de show notes, op www.reputatiecoaching.nl/79.
+Misschien vraag je je af, waarom ik dat hier in deze podcast vertel. Nou, volgens mij hebben ook dit soort ontwikkelingen enorme gevolgen voor marketing, zodra ze nog verder zijn verbeterd. Welke gevolgen kan ik niet zo 1–2–3 overzien, anders dan dat je simpelweg een reclame niet meer door mensen hoeft te laten nasynchroniseren, omdat dat nu geautomatiseerd kan. Heb jij ideeën? Laat me ze weten onderaan de show notes, op [www.reputatiecoaching.nl/79](/nl/archief/reputatiecoaching/079/).
 
 ## ACER C720P Chromebook
 
@@ -269,7 +269,7 @@ En vergeet niet: ik ben hier om je te helpen! Als je een vraag of een probleem h
 
 Als je dat te lastig vindt, of als je de podcast beluistert terwijl je in de auto zit en je hebt acuut een vraag, spreek dan een boodschap in op de ReputatieCoaching Hotline, op nummer: 084 - 883 15 56. Mogelijk behandel ik je vraag of probleem dan in een artikel of in de podcast.
 
-En je kunt ook rechtstreeks op de website een voicemail achterlaten, door op de tab aan de rechterkant van elke pagina te klikken, en je bericht in te spreken. Dit was ReputatieCoaching Podcast aflevering 79 en mijn naam is [Eduard de Boer](http://nl.linkedin.com/in/eduarddeboer/nl).
+En je kunt ook rechtstreeks op de website een voicemail achterlaten, door op de tab aan de rechterkant van elke pagina te klikken, en je bericht in te spreken. Dit was [ReputatieCoaching Podcast aflevering 79](/nl/archief/reputatiecoaching/079/) en mijn naam is [Eduard de Boer](http://nl.linkedin.com/in/eduarddeboer/nl).
 
 Ik wens je de komende week weer succes met het werken aan je reputatie, zodat je meteen je reputatie voor jou kunt laten werken!
 

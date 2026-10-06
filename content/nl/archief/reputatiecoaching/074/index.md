@@ -79,7 +79,7 @@ Laat ik dan nu overgaan op de onderwerpen voor vandaag…
 
 ## Facebook neemt “Moves” over
 
-[![Moves op iPhone 5S](moves-on-iphone5s.jpg)](https://lh5.googleusercontent.com/-aHXUaqemfhc/U12MCYThHHI/AAAAAAAAArI/ChGvMKUkeaA/w558-h1180-no/moves-on-iphone5s.jpg)Facebook is druk bezig met overnames. Laatst vertelde ik je in podcast 65 dat Facebook WhatsApp had gekocht en een paar weken geleden kocht Facebook het bedrijf “Oculus VR”. Afgelopen week kwam in het nieuws dat Facebook weer een mobiele app heeft gekocht en dit keer betreft het “Moves”.
+[![Moves op iPhone 5S](moves-on-iphone5s.jpg)](https://lh5.googleusercontent.com/-aHXUaqemfhc/U12MCYThHHI/AAAAAAAAArI/ChGvMKUkeaA/w558-h1180-no/moves-on-iphone5s.jpg)Facebook is druk bezig met overnames. Laatst vertelde ik je in podcast 65 dat [Facebook WhatsApp](/nl/archief/reputatiecoaching/065/) had gekocht en een paar weken geleden kocht Facebook het bedrijf “Oculus VR”. Afgelopen week kwam in het nieuws dat Facebook weer een mobiele app heeft gekocht en dit keer betreft het “Moves”.
 
 “Moves” is een bewegingsapp, waarmee iPhone- en Androidgebruikers hun gangen kunnen bijhouden. Zo kan de app bijhouden hoeveel stappen je per dag doet, hoeveel je hardloopt, hoeveel kilometer je fietst of autorijdt, hoeveel calorieën je verbrandt enzovoorts.
 

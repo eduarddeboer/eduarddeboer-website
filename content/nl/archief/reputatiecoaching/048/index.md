@@ -99,7 +99,11 @@ Verder kun je locaties ook naar je iOS-apparaten, zoals iPhone, iPad en iPod stu
 
 Wat je hieruit kunt leren, is dat jouw bedrijfsvermelding nu toch echt niet meer op Yelp mag ontbreken, als je ’m nog niet hebt toegevoegd:
 
-*Historische afbeelding niet beschikbaar: 20131028-AppleMaps-info*  *Historische afbeelding niet beschikbaar: 20131028-AppleMaps-reviews**Historische afbeelding niet beschikbaar: 20131028-AppleMaps-fotos*
+![Apple Maps bedrijfsinformatie](20131028-AppleMaps-info.png)
+
+![Apple Maps reviews](20131028-AppleMaps-reviews.png)
+
+![Apple Maps foto's](20131028-AppleMaps-fotos.png)
 
 Ik heb nog niet getest hoe goed de navigatie van de Apple Kaarten-app is, omdat ik normaliter daarvoor op mijn iPhone de app “Navigon” gebruik.
 

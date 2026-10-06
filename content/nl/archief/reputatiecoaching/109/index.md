@@ -83,7 +83,7 @@ Verder leg ik je uit hoe je negatieve reviews in je voordeel kunt laten werken e
 
 ### 5: Podcast 65
 
-Ook podcast 65 was populair in 2014. Dat kwam mogelijk, doordat in deze podcast erg veel onderwerpen aan bod kwamen. Want ik behandelde de volgende onderwerpen:
+Ook [podcast 65](/nl/archief/reputatiecoaching/065/) was populair in 2014. Dat kwam mogelijk, doordat in deze podcast erg veel onderwerpen aan bod kwamen. Want ik behandelde de volgende onderwerpen:
 
 ```
   * #SMC055 in Apeldoorn over social media trends en de “ditzo” YouTube Case
