@@ -3,6 +3,7 @@ title: '92: Einde Google Authorship, Google experimenteert met reviewsterretjes,
 date: '2014-09-04T06:30:45+00:00'
 description: 'Tja, beloofde ik vorige week dat de podcast deze week op tijd zou komen, is het weer niet gelukt! Ik leg je zo uit hoe dat komt… Dan heb je het mogelijk al wel gehoord of gelezen: Google Authorship is ten einde. Ik vertel je er meer over en leg je uit dat AuthorRank nu alleen nog maar belangrijker wordt. De scholen zijn weer begonnen en daarom wil ik een stukje wijden aan de relatie tussen het naar school gaan en reputatie, zowel online, als offline.'
 episode: 92
+kgRef: podcast_episode/reputatiecoaching_092
 historical: true
 archivePeriod: 2012–2016
 transcriptStatus: full
@@ -28,7 +29,7 @@ Hallo en hartelijk welkom bij deze aflevering van de ReputatieCoaching Podcast. 
 
 En de podcast is niet alleen voor bedrijven, ook als je een professional bent, kun je met een aantal tips, suggesties en nieuwsonderwerpen je voordeel doen om bijvoorbeeld je online reputatie als reisbureaumedewerker, verkoopadviseur, medewerker P en O, allergiearts, bewegingsagoog of wat dan ook te verbeteren.
 
-De podcast kun je vinden op [www.reputatiecoaching.nl/92](https://www.reputatiecoaching.nl/92/). Daar vind je niet alleen de tekst, maar ook video’s waar ik het in deze uitzending over heb, alsmede afbeeldingen, links enzovoorts. Bovendien is de podcast te beluisteren in [iTunes](https://www.reputatiecoaching.nl/itunes) en op [Stitcher](https://www.reputatiecoaching.nl/stitcher). Daar kun je je dus ook abonneren op de wekelijkse podcast. Veel mensen vinden het ideaal om de wekelijkse afleveringen van de podcast op hun gemak te beluisteren, terwijl ze autorijden.
+De podcast kun je vinden op [www.reputatiecoaching.nl/92](https://web.archive.org/web/20150312094803/http://www.reputatiecoaching.nl/92/). Daar vind je niet alleen de tekst, maar ook video’s waar ik het in deze uitzending over heb, alsmede afbeeldingen, links enzovoorts. Bovendien is de podcast te beluisteren in iTunes en op Stitcher. Daar kun je je dus ook abonneren op de wekelijkse podcast. Veel mensen vinden het ideaal om de wekelijkse afleveringen van de podcast op hun gemak te beluisteren, terwijl ze autorijden.
 
 Laat ik dan nu overgaan op de onderwerpen voor vandaag…
 
@@ -52,7 +53,7 @@ OK, ik ga mijn leven beteren!
 
 ## Einde van Google Authorship
 
-Ohhhh… wat jammer! Heb ik in december 2012 een mooie instructievideo gemaakt die extreem goed scoorde (en nog steeds goed scoort) over het [instellen van Google Authorship](https://www.reputatiecoaching.nl/wiki/google-authorship/). Zoals je weet zorgde dit ervoor dat de profielfoto, die je op je Google+ profiel had staan, in de zoekresultaten werd vertoond.
+Ohhhh… wat jammer! Heb ik in december 2012 een mooie instructievideo gemaakt die extreem goed scoorde (en nog steeds goed scoort) over het instellen van Google Authorship. Zoals je weet zorgde dit ervoor dat de profielfoto, die je op je Google+ profiel had staan, in de zoekresultaten werd vertoond.
 
 Let wel, ik gebruik hier de verleden tijd… Want Google Authorship behoort sinds iets meer dan een week ook tot het verleden. Iets langer terug verdwenen al de foto’s uit de zoekresultaten, maar werd er tenminste nog een regel met de naam van de auteur vertoond. Ook dat is nu ten einde en zowel de foto’s als de naam van de auteur van het artikel worden niet meer vertoond.
 
@@ -60,7 +61,7 @@ Het enige waar je nog de profielfoto’s ziet opduiken, is in verwijzigen naar p
 
 Google heeft Authorship uitgezet. Als je John Mueller moet geloven is het ook voorgoed. Op de memorabele datum van 28 augustus schreef John Mueller van Google op Google+ hier het volgende over:
 
-De post gaat nog iets verder en als je ’m wilt nalezen, moet je maar even kijken in de show notes, op [www.reputatiecoaching.nl/92](https://www.reputatiecoaching.nl/92/).
+De post gaat nog iets verder en als je ’m wilt nalezen, moet je maar even kijken in de show notes, op [www.reputatiecoaching.nl/92](https://web.archive.org/web/20150312094803/http://www.reputatiecoaching.nl/92/).
 
 Google doet dus niets meer met of aan Authorship. Maar dat zegt niets over AuthorRank. Dat is iets heel anders. Wat ik nu ga vertellen is meerendeels gestoeld op geruchten en ik moet erbij zeggen dat het bijna nooit officieel door Google is onderkend.
 
@@ -97,7 +98,7 @@ Ik geef je een aantal tips, waar je mogelijk je voordeel mee kunt doen om ze doo
   6. **Gebruik overal dezelfde profielfoto** – Reden hiervoor is dat je op die manier verwarring voorkomt, evenals potentiële verwisseling met iemand die dezelfde naam heeft. Zo ken ik mensen die een profiel op Facebook hebben gemaakt met daarop hun profielfoto. Verder doen ze niets met Facebook en ze hebben dan ook slechts één publiekelijk leesbare post geplaatst, waarin ze schrijven dat ze niets met Facebook doen.
 ```
 
-Heb jij nog goede tips om je kids te helpen hun reputatie hoog te houden, evenals die van hun vriendjes en vriendinnetjes? Deel ze en post ze onderaan de show notes van deze podcast, op [www.reputatiecoaching.nl/92](https://www.reputatiecoaching.nl/92/).
+Heb jij nog goede tips om je kids te helpen hun reputatie hoog te houden, evenals die van hun vriendjes en vriendinnetjes? Deel ze en post ze onderaan de show notes van deze podcast, op [www.reputatiecoaching.nl/92](https://web.archive.org/web/20150312094803/http://www.reputatiecoaching.nl/92/).
 
 ## Google test sterren in alle kleuren van de regenboog
 
@@ -115,7 +116,7 @@ Ik heb ze nog niet gezien, maar ik ben wel benieuwd of de sterretjes in de toeko
 
 ## Tooltip: N.A.P. Hunter!
 
-Ik heb vorig jaar de “[Werkinstructie opschonen citations](https://www.reputatiecoaching.nl/werkinstructie-opschonen-citations/)” gemaakt, waarin ik je uitleg hoe je:
+Ik heb vorig jaar de “[Werkinstructie opschonen citations](https://web.archive.org/web/20140314201735/http://www.reputatiecoaching.nl:80/werkinstructie-opschonen-citations/)” gemaakt, waarin ik je uitleg hoe je:
 
 ```
   1. Je eigen citations kunt vinden
@@ -186,7 +187,7 @@ Met dit topic over lokale SEO, nationale SEO en wereldwijde SEO kom ik dan weer 
 
 Als je de podcast leuk vindt en je wilt nog meer op de hoogte blijven, volg me dan ook op Twitter, via [@reputatiecoach1](https://twitter.com/reputatiecoach1).
 
-Heb je inderdaad wat aan alle informatie die ik met je deel, help mij dan met het verder verbeteren en promoten van deze podcast. Surf daarvoor naar [iTunes](https://www.reputatiecoaching.nl/itunes) of [Stitcher](https://www.reputatiecoaching.nl/stitcher), geef de podcast een sterrenbeoordeling en laat ook je reactie achter. Door de podcast te beoordelen op iTunes en/of Stitcher breng je de podcast onder de aandacht van een breder publiek.
+Heb je inderdaad wat aan alle informatie die ik met je deel, help mij dan met het verder verbeteren en promoten van deze podcast. Surf daarvoor naar iTunes of Stitcher, geef de podcast een sterrenbeoordeling en laat ook je reactie achter. Door de podcast te beoordelen op iTunes en/of Stitcher breng je de podcast onder de aandacht van een breder publiek.
 
 Je kunt me verder helpen, door de podcast aan te bevelen bij vrienden of collega’s, waarvan je denkt dat ze er hun voordeel mee kunnen doen, of door ’m te delen op Twitter, like’n en delen op Facebook of een “+1” te geven op Google+.
 
@@ -194,7 +195,7 @@ En vergeet niet: ik ben hier om je te helpen! Als je een vraag of een probleem h
 
 Als je dat te lastig vindt, of als je de podcast beluistert terwijl je in de auto zit en je hebt acuut een vraag, spreek dan een boodschap in op de ReputatieCoaching Hotline, op nummer: 084 - 883 15 56. Mogelijk behandel ik je vraag of probleem dan in een artikel of in de podcast.
 
-En je kunt ook rechtstreeks op de website een voicemail achterlaten, door op de tab aan de rechterkant van elke pagina te klikken, en je bericht in te spreken. Dit was [ReputatieCoaching Podcast aflevering 92](https://www.reputatiecoaching.nl/92/) en mijn naam is [Eduard de Boer](http://nl.linkedin.com/in/eduarddeboer/nl).
+En je kunt ook rechtstreeks op de website een voicemail achterlaten, door op de tab aan de rechterkant van elke pagina te klikken, en je bericht in te spreken. Dit was [ReputatieCoaching Podcast aflevering 92](https://web.archive.org/web/20150312094803/http://www.reputatiecoaching.nl/92/) en mijn naam is [Eduard de Boer](http://nl.linkedin.com/in/eduarddeboer/nl).
 
 Ik wens je de komende week weer succes met het werken aan je reputatie, zodat je meteen je reputatie voor jou kunt laten werken!
 
@@ -205,8 +206,8 @@ Doei!
 Links naar content die in deze podcast aan bod komt:
 
 ```
-  * [ReputatieCoaching Podcast in iTunes](https://www.reputatiecoaching.nl/itunes)
-  * [ReputatieCoaching Podcast op Stitcher](https://www.reputatiecoaching.nl/stitcher)
-  * [ReputatieCoaching Podcast RSS-feed](https://feeds.reputatiecoaching.nl/ReputatieCoachingPodcast)
+  * ReputatieCoaching Podcast in iTunes
+  * ReputatieCoaching Podcast op Stitcher
+  * [ReputatieCoaching Podcast RSS-feed](https://web.archive.org/web/20140803035048/http://feeds.reputatiecoaching.nl:80/ReputatieCoachingPodcast)
   * [N.A.P. Hunter!](https://chrome.google.com/webstore/detail/nap-hunter/ligeiippheclogiddffemogcgpjmieao) (Google Chrome extensie)
 ```
