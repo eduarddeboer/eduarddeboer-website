@@ -3,6 +3,7 @@ title: '125: Beeld van je iPhone app opnemen. Citations brengen nieuwe vrienden.
 date: '2015-04-23T06:30:31+00:00'
 description: De podcast is vandaag iets later online gekomen dan normaal. Reden hiervoor is dat ik gisteren er niet aan toe kwam. Ik hoop dat de onderwerpen van vandaag dat meer dan goed maken. Dus hierbij eerst een kort overzicht van de onderwerpen in deze podcast. Ik begin vandaag weer met een tooltip, dit keer over het opnemen van het beeld van je iPhone of iPad, als je een instructievideo wilt maken van, zoals in mijn geval, een app.
 episode: 125
+kgRef: podcast_episode/reputatiecoaching_125
 historical: true
 archivePeriod: 2012–2016
 transcriptStatus: full
@@ -32,7 +33,7 @@ De podcast is vandaag iets later online gekomen dan normaal. Reden hiervoor is d
 
 Hallo en hartelijk welkom bij deze aflevering van de ReputatieCoaching Podcast. Ik ben Eduard de Boer, ReputatieCoach. Dit is dé podcast die jou helpt om meer business te genereren, doordat jouw website beter gevonden wordt, zowel lokaal als landelijk en doordat ik je uitleg hoe je je online reputatie kunt verbeteren. Dit alles helpt je om je bedrijf en jezelf beter op de online kaart te plaatsen.
 
-De podcast kun je vinden op [www.reputatiecoaching.nl/125](https://www.reputatiecoaching.nl/125/). Daar vind je niet alleen de tekst, maar ook video’s waar ik het in deze uitzending over heb, alsmede afbeeldingen, links enzovoorts. Bovendien is de podcast te beluisteren in [iTunes](https://www.reputatiecoaching.nl/itunes), op [Stitcher](https://www.reputatiecoaching.nl/stitcher) en ook op [TuneIn Radio](http://tunein.com/radio/ReputatieCoaching-Podcast-p655084/). Ik raad je aan om je op één van die drie kanalen te abonneren op de podcast, zodat je geen aflevering hoeft te missen!
+De podcast kun je vinden op [www.reputatiecoaching.nl/125](https://web.archive.org/web/20150605073530/http://www.reputatiecoaching.nl/125/). Daar vind je niet alleen de tekst, maar ook video’s waar ik het in deze uitzending over heb, alsmede afbeeldingen, links enzovoorts. Bovendien is de podcast te beluisteren in iTunes, op Stitcher en ook op [TuneIn Radio](http://tunein.com/radio/ReputatieCoaching-Podcast-p655084/). Ik raad je aan om je op één van die drie kanalen te abonneren op de podcast, zodat je geen aflevering hoeft te missen!
 
 ## Moet ik op alle social media zijn?
 
@@ -40,7 +41,7 @@ Oh, voordat ik overga op de onderwerpen voor vandaag… Iemand vroeg mij afgelop
 
 Ik zie twee kanten aan deze vraag: een bedrijfsmatige en een reputatiegerelateerde. Vanuit bedrijfsmatig oogpunt vind ik dat je dáár moet zijn, waar je prospects en klanten zijn. Dus zitten de meeste mensen van jouw doelgroep op Twitter, dan zul je echt actief moeten zijn op Twitter. Maar zitten jouw prospects en klanten het meeste op SnapChat of op Ello, dan moet je daar contact met ze leggen. Hetzelfde geldt voor alle andere sociale media: ga naar je doelgroep in plaats van proberen je doelgroep naar het door jóu geprefereerde sociale medium te lokken.
 
-Dan de andere kant: in relatie tot reputatie. Het kan geen kwaad, of beter gezegd: het is verstandig om op alle sociale media wel het profiel met de door jouw gewenste naam te claimen, ook al doe je er niets mee. Upload overal dezelfde profielfoto, indien mogelijk. Als je voorlopig niets met het sociale platform doet, post dan één berichtje, waarin je dat vertelt. Net als ik doe op mijn Facebook pagina, omdat [ik ben gestopt met Facebook](https://www.reputatiecoaching.nl/118/) voor persoonlijk gebruik:
+Dan de andere kant: in relatie tot reputatie. Het kan geen kwaad, of beter gezegd: het is verstandig om op alle sociale media wel het profiel met de door jouw gewenste naam te claimen, ook al doe je er niets mee. Upload overal dezelfde profielfoto, indien mogelijk. Als je voorlopig niets met het sociale platform doet, post dan één berichtje, waarin je dat vertelt. Net als ik doe op mijn Facebook pagina, omdat [ik ben gestopt met Facebook](https://web.archive.org/web/20150605073300/http://www.reputatiecoaching.nl/118/) voor persoonlijk gebruik:
 
 ![Gestopt met Facebook](20150423-gestopt-met-facebook.png)
 
@@ -142,7 +143,7 @@ Maar goed, wat je hiervan kunt leren is dat je altijd een paar maanden na het cr
 
 ## Er komen meer en meer reviewsites en vragen om reviews
 
-Nieuwe reviewsites schieten als paddenstoelen uit de grond. Zo ontving ik een paar dagen geleden een mailtje van trouwplannen.nl. Zij vertelden vol trots dat je nu voor € 199 per jaar reviews kunt verzamelen op hun site en op je eigen site. In de show notes op [www.reputatiecoaching.nl/125](https://www.reputatiecoaching.nl/125/) heb ik de mail opgenomen:
+Nieuwe reviewsites schieten als paddenstoelen uit de grond. Zo ontving ik een paar dagen geleden een mailtje van trouwplannen.nl. Zij vertelden vol trots dat je nu voor € 199 per jaar reviews kunt verzamelen op hun site en op je eigen site. In de show notes op [www.reputatiecoaching.nl/125](https://web.archive.org/web/20150605073530/http://www.reputatiecoaching.nl/125/) heb ik de mail opgenomen:
 
 [![Reviews verzamelen op trouwplannen.nl voor € 199](Trouwplannen.nl-nieuwsbrief-april.jpg)](https://lh6.googleusercontent.com/-_amCnUdD9W0/VTjE_U_rqDI/AAAAAAAACIM/CHsFzklml90/w600/Trouwplannen.nl-nieuwsbrief-april.jpg)
 
@@ -173,7 +174,7 @@ Mogelijk kende je de app Layar al. Layar is een technologie, waarbij je de camer
 
 Vorig jaar had ik het voorrecht om voor AkzoNobel een fotoreportage te mogen maken van de Raad van Bestuur, alsmede van de CEO ten behoeve van het [financiële jaarverslag van 2014](http://report.akzonobel.com/2014/ar/). Ook was ik bij de video-opnames van de CEO die werden gemaakt ten behoeve van een Layar video in het jaarverslag.
 
-Voor het geval je het nog nooit hebt gezien hoe dat werkt, heb ik voor jou een korte demonstratievideo gemaakt. Deze demonstratievideo heb ik opgenomen in de show notes van deze podcast, op [www.reputatiecoaching.nl/125](https://www.reputatiecoaching.nl/125/). Ik raad je echt aan de video te bekijken om te zien hoe dit er uitziet, als je gewoon een pagina van het jaarverslag scant:
+Voor het geval je het nog nooit hebt gezien hoe dat werkt, heb ik voor jou een korte demonstratievideo gemaakt. Deze demonstratievideo heb ik opgenomen in de show notes van deze podcast, op [www.reputatiecoaching.nl/125](https://web.archive.org/web/20150605073530/http://www.reputatiecoaching.nl/125/). Ik raad je echt aan de video te bekijken om te zien hoe dit er uitziet, als je gewoon een pagina van het jaarverslag scant:
 
 En met die korte demonstratievideo van de interessante “Layar”-technologie kom ik weer aan het einde van deze podcast. Ik hoop dat je er iets aan hebt gehad en dat je er iets van hebt opgestoken.
 
@@ -181,7 +182,7 @@ Als je de podcast leuk vindt en je wilt nog meer op de hoogte blijven, volg me d
 
 Heb je inderdaad wat aan alle informatie die ik met je deel, help mij dan met het verder verbeteren en promoten van deze podcast. Abonneer je op de podcast, zodat je altijd meteen de nieuwste uitzending krijgt voorgeschoteld.
 
-Zoek de podcast op, in [iTunes](https://www.reputatiecoaching.nl/itunes) of [Stitcher](https://www.reputatiecoaching.nl/stitcher), geef de podcast een sterrenbeoordeling en laat ook je reactie achter. Door de podcast te beoordelen op iTunes en/of Stitcher breng je de podcast onder de aandacht van een breder publiek.
+Zoek de podcast op, in iTunes of Stitcher, geef de podcast een sterrenbeoordeling en laat ook je reactie achter. Door de podcast te beoordelen op iTunes en/of Stitcher breng je de podcast onder de aandacht van een breder publiek.
 
 Je kunt me verder helpen, door de podcast aan te bevelen bij vrienden of collega’s, waarvan je denkt dat ze er hun voordeel mee kunnen doen, of door ’m te delen op Twitter, like’n en delen op Facebook of een “+1” te geven op Google+.
 
@@ -189,7 +190,7 @@ En vergeet niet: ik ben hier om je te helpen! Als je een vraag of een probleem h
 
 Als je dat te lastig vindt, of als je de podcast beluistert terwijl je in de auto zit en je hebt acuut een vraag, spreek dan een boodschap in op de ReputatieCoaching Hotline, op nummer: 084 - 883 15 56. Mogelijk behandel ik je vraag of probleem dan in een artikel of in de podcast.
 
-En je kunt ook rechtstreeks op de website een voicemail achterlaten, door op de tab aan de rechterkant van elke pagina te klikken, en je bericht in te spreken. Dit was [ReputatieCoaching Podcast aflevering 125](https://www.reputatiecoaching.nl/125/) en mijn naam is [Eduard de Boer](http://nl.linkedin.com/in/eduarddeboer/nl).
+En je kunt ook rechtstreeks op de website een voicemail achterlaten, door op de tab aan de rechterkant van elke pagina te klikken, en je bericht in te spreken. Dit was [ReputatieCoaching Podcast aflevering 125](https://web.archive.org/web/20150605073530/http://www.reputatiecoaching.nl/125/) en mijn naam is [Eduard de Boer](http://nl.linkedin.com/in/eduarddeboer/nl).
 
 Ik wens je de komende week weer succes met het werken aan je reputatie, zodat je meteen je reputatie voor jou kunt laten werken!
 
@@ -200,10 +201,10 @@ Doei!
 Links naar content die in deze podcast aan bod komt:
 
 ```
-  * [ReputatieCoaching Podcast in iTunes](https://www.reputatiecoaching.nl/itunes)
-  * [ReputatieCoaching Podcast op Stitcher](https://www.reputatiecoaching.nl/stitcher)
+  * ReputatieCoaching Podcast in iTunes
+  * ReputatieCoaching Podcast op Stitcher
   * [ReputatieCoaching Podcast op TuneIn Radio](http://tunein.com/radio/ReputatieCoaching-Podcast-p655084/)
-  * [ReputatieCoaching Podcast RSS-feed](https://feeds.reputatiecoaching.nl/ReputatieCoachingPodcast)
+  * [ReputatieCoaching Podcast RSS-feed](https://web.archive.org/web/20150228235938/http://feeds.reputatiecoaching.nl:80/ReputatieCoachingPodcast)
   * [Camtasia](https://www.techsmith.com/camtasia.html)
   * [Reflector 2](http://www.airsquirrels.com/reflector/)
   * [Layar](https://www.layar.com)
