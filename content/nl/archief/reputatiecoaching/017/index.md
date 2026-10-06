@@ -3,6 +3,7 @@ title: Podcast Aflevering 17 (23-03-2013)
 date: '2013-03-23T16:26:08+00:00'
 description: ReputatieCoaching Podcast aflevering 17! De lente is begonnen en buiten giert nog steeds een ijzige wind om het kantoor. Ik ben weliswaar ook enigszins geveld door de griep, maar ik zit hier in ieder geval warm. Mocht dit de eerste keer zijn dat je naar de podcast luistert, dan laat ik je bij deze weten dat mijn stem normaal echt anders klinkt. Hoe mijn stem nu klinkt is het gevolg van het feit dat ik me niet optimaal voel.
 episode: 17
+kgRef: podcast_episode/reputatiecoaching_017
 historical: true
 archivePeriod: 2012–2016
 transcriptStatus: full
@@ -34,7 +35,7 @@ De lente is begonnen en buiten giert nog steeds een ijzige wind om het kantoor. 
 
 *Tijdens mijn speurtochten, waarbij ik het Internet tot de grenzen afschuim op zoek naar leuk nieuws en leerzame blogposts ben ik weer op een groot aantal leuke topics gestuit.*
 
-*Voordat ik doorga even een advies tussendoor. De kans is groot dat jij Google gebruikt voor zo goed als al je zoekpogingen op Internet. Maar controleer je wel eens of je website ook op de juiste zoektermen goed scoort in Bing, de zoekmachine van Microsoft? Reden dat ik je dit vraag is dat Facebook een partnership heeft met Microsoft. En ik heb al eens verteld over de nieuwe zoekmogelijkheden die binnenkort in Facebook zullen verschijnen, ook voor de Nederlandse markt. Het betreft hier de Facebook Graph Search. De URL hier naartoe kun je vinden in de show notes op: [www.reputatiecoaching.nl/podcast-17](https://www.reputatiecoaching.nl/podcast-17/).*
+*Voordat ik doorga even een advies tussendoor. De kans is groot dat jij Google gebruikt voor zo goed als al je zoekpogingen op Internet. Maar controleer je wel eens of je website ook op de juiste zoektermen goed scoort in Bing, de zoekmachine van Microsoft? Reden dat ik je dit vraag is dat Facebook een partnership heeft met Microsoft. En ik heb al eens verteld over de nieuwe zoekmogelijkheden die binnenkort in Facebook zullen verschijnen, ook voor de Nederlandse markt. Het betreft hier de Facebook Graph Search. De URL hier naartoe kun je vinden in de show notes op: www.reputatiecoaching.nl/podcast-17.*
 
 *Maar goed, het partnership met Microsoft houdt in, dat als Facebook je straks geen resultaten kan geven, zij de zoekresultaten van Bing zullen tonen. Begrijp je waar ik heen wil? Als jij met je website ook goed scoort in de zoekresultaten op Bing word je dan mogelijk ook getoond in Facebook. Hiermee is het dus opeens een stuk belangrijker geworden, dat jij met je website ook goed vindbaar bent in Bing.*
 
@@ -64,7 +65,7 @@ De lente is begonnen en buiten giert nog steeds een ijzige wind om het kantoor. 
 
 *Zo kun je bijvoorbeeld tijdens een fotoreportage een zogenaamd track bijhouden op een smartphone app of met een GPS-tagger. Met specifieke software kun je dan later de gelogde coördinaten koppelen aan de foto’s. Dat is mogelijk nogal omslachtig, zeker als je gewoon een set foto’s wil koppelen aan je eigen bedrijfslocatie.*
 
-*Hiervoor heb ik anderhalve week geleden een instructievideo gemaakt, hoe je dit kunt doen met het gratis programma “[Picasa](http://picasa.google.com/)” van Google. Dan is het opeens ontzettend eenvoudig. Ook heb ik inmiddels twee instructievideo’s online geplaatst. In de eerste leg ik uit hoe je de geotagged foto’s kunt [uploaden naar Panoramio](https://www.reputatiecoaching.nl/geotagged-fotos-uploaden-naar-panoramio/) en in de tweede video laat ik zien hoe je de [geotagged foto’s upload naar Flickr](https://www.reputatiecoaching.nl/geotagged-fotos-uploaden-naar-flickr/). Ik raad je ook aan deze foto’s zoveel mogelijk op alle andere sites te plaatsen, waar je foto’s kunt uploaden. Het kan alleen maar in je voordeel werken, om zo je lokale vindbaarheid te vergroten.*
+*Hiervoor heb ik anderhalve week geleden een instructievideo gemaakt, hoe je dit kunt doen met het gratis programma “[Picasa](http://picasa.google.com/)” van Google. Dan is het opeens ontzettend eenvoudig. Ook heb ik inmiddels twee instructievideo’s online geplaatst. In de eerste leg ik uit hoe je de geotagged foto’s kunt [uploaden naar Panoramio](https://web.archive.org/web/20131124043155/http://www.reputatiecoaching.nl:80/geotagged-fotos-uploaden-naar-panoramio/) en in de tweede video laat ik zien hoe je de [geotagged foto’s upload naar Flickr](https://web.archive.org/web/20131123181636/http://www.reputatiecoaching.nl:80/geotagged-fotos-uploaden-naar-flickr/). Ik raad je ook aan deze foto’s zoveel mogelijk op alle andere sites te plaatsen, waar je foto’s kunt uploaden. Het kan alleen maar in je voordeel werken, om zo je lokale vindbaarheid te vergroten.*
 
 *Een tip ten aanzien van Google+ Local: er wordt ook gezegd dat het extra helpt als je de geotagged foto’s upload in de Google+ Local, als bedrijfsafbeeldingen. Nou ja, zoals ik al zei: het kan nooit kwaad om al je bedrijfsfoto’s te geotaggen, voordat je ze upload.*
 
@@ -94,7 +95,7 @@ De lente is begonnen en buiten giert nog steeds een ijzige wind om het kantoor. 
   1.
 ```
 
-*Domeinnaam geregistreerd bij [www.mijndomein.nl](https://www.reputatiecoaching.nl/mijndomein) . Dit kostte € 9,-*
+*Domeinnaam geregistreerd bij www.mijndomein.nl . Dit kostte € 9,-*
 
 ```
   2.
@@ -112,7 +113,7 @@ De lente is begonnen en buiten giert nog steeds een ijzige wind om het kantoor. 
 
 *En dan de mail, dat was eventjes tricky. Tot december 2012 bracht ik de e-mailhosting altijd graag onder bij Google Apps voor business. Daar had ik dan 10 gratis accounts met 10 e-mailadressen. Maar sinds eind vorig jaar is die dienst niet meer gratis. Dus moest ik daar iets anders op verzinnen.*
 
-*Nou, een tijdje geleden had ik je ook eens verteld over de nieuwe dienst van Microsoft, die de opvolger wordt van Hotmail. Die nieuwe mailomgeving heet outlook.com. In [podcast 8](https://www.reputatiecoaching.nl/8/) vertelde ik je toen dat je daar onder je eigen domein maar liefst 500 mailaccounts kon krijgen. Dus ik dacht: “OK, ik trek de stoute schoenen aan en ik ga uitzoeken hoe dat werkt!”.*
+*Nou, een tijdje geleden had ik je ook eens verteld over de nieuwe dienst van Microsoft, die de opvolger wordt van Hotmail. Die nieuwe mailomgeving heet outlook.com. In [podcast 8](https://web.archive.org/web/20131009021929/http://www.reputatiecoaching.nl:80/8/) vertelde ik je toen dat je daar onder je eigen domein maar liefst 500 mailaccounts kon krijgen. Dus ik dacht: “OK, ik trek de stoute schoenen aan en ik ga uitzoeken hoe dat werkt!”.*
 
 *Zo gezegd, zo gedaan. Ik kwam er al snel achter dat je standaard 50 mailaccounts bij outlook.com krijgt en als je meer gratis accounts nodig hebt, je contact met Microsoft moet opnemen. Maar voor mijn doeleinden was 50 mailaccounts meer dan voldoende en bovendien komt elk account ook met een SkyDrive van 7 GB waarop je gratis gebruik kunt maken van Word, Excel, Powerpoint, het OneNote notitieblok en Excel enquête. Dus eigenlijk heb je daar ook de meestgebruikte applicaties, die je voorheen bij Google Apps voor business had.*
 
@@ -141,7 +142,7 @@ De lente is begonnen en buiten giert nog steeds een ijzige wind om het kantoor. 
 
 *Zoals ik al zei tijdens de opening: Google Maps heeft haar voorwaarden aangepast. Volgens de nieuwe voorwaarden mag je geen redirect gebruiken in de URL die je vermeldt in Google Maps. Dat houdt dus in dat de URL die je daar opgeeft, direct en zonder omwegen naar jouw website moet verwijzen. Nu doen de meeste bedrijven dit ook gewoon en voor hen is er dus niets aan hand, maar ik vond toch dat ik dit eventjes moest melden.*
 
-\_In [ReputatieCoaching Podcast nummer 15](https://www.reputatiecoaching.nl/15/) liet ik je weten dat Amerikaanse bedrijven zo’n slordige 10 miljard dollar aan omzet gratis maar onbedoeld weggeven aan concurrenten, als gevolg van verkeerde bedrijfsvermeldingen. De onderzoekers die dit toen meldden hebben nu op de site Search Engine Land ook een artikel gepost met de meest voorkomende fouten in de bedrijfsvermeldingen.[Historische afbeelding: bekijk bron](https://lh6.googleusercontent.com/krMzuKOqx2wvgUyEx5nDZfxpLJZvgWU_PUCsOQ2eWtOmCGswlfxIZ2mNfIk-pG1NyQrF4hAdVQihXWyN9rpGkMiTx7kUHjcf-FYdDgEXdEJwtt7ghPT8cmHTLg)
+\_In [ReputatieCoaching Podcast nummer 15](https://web.archive.org/web/20131220184240/http://www.reputatiecoaching.nl:80/15/) liet ik je weten dat Amerikaanse bedrijven zo’n slordige 10 miljard dollar aan omzet gratis maar onbedoeld weggeven aan concurrenten, als gevolg van verkeerde bedrijfsvermeldingen. De onderzoekers die dit toen meldden hebben nu op de site Search Engine Land ook een artikel gepost met de meest voorkomende fouten in de bedrijfsvermeldingen.[Historische afbeelding: bekijk bron](https://lh6.googleusercontent.com/krMzuKOqx2wvgUyEx5nDZfxpLJZvgWU_PUCsOQ2eWtOmCGswlfxIZ2mNfIk-pG1NyQrF4hAdVQihXWyN9rpGkMiTx7kUHjcf-FYdDgEXdEJwtt7ghPT8cmHTLg)
 \_
 
 \_In de show notes heb ik een grafiek opgenomen, waarin de meest voorkomende fouten staan vermeld. Ik zal ze je opnoemen, waarbij ik met de meest voorkomende begin\*\*:\*\*\_
@@ -291,11 +292,11 @@ De lente is begonnen en buiten giert nog steeds een ijzige wind om het kantoor. 
 
 *Hiermee kom ik dan weer aan het einde van de podcast van deze week, die nu voor het eerst op zaterdag. Nogmaals mijn excuses voor mijn stem, maar ondanks mijn griep vond ik dat ik het niet kon maken om de podcast op een later tijdstip uit te brengen.*
 
-*Je kunt al het nieuws van ReputatieCoaching ook gemakkelijk vinden in Google+ door daar naar “ReputatieCoaching” te zoeken. Als alternatief kun je naar de pagina [www.reputatiecoaching.nl/gplus](https://www.reputatiecoaching.nl/gplus) gaan (dat is “g-p-l-u-s”).*
+*Je kunt al het nieuws van ReputatieCoaching ook gemakkelijk vinden in Google+ door daar naar “ReputatieCoaching” te zoeken. Als alternatief kun je naar de pagina www.reputatiecoaching.nl/gplus gaan (dat is “g-p-l-u-s”).*
 
-*Nu ik het toch hierover heb: als jij wat hebt aan de informatie en je vind het leuk om naar de podcast te luisteren, dan kun je ook een bericht achterlaten op onze Facebookpagina, op: [www.reputatiecoaching.nl/facebook](https://www.reputatiecoaching.nl/facebook). Geef een “Like” of “+1” op Google+, waardoor je laat weten dat je de content op prijs stelt. Of laat een leuke recensie achter op mijn LinkedIn-profiel, op: [www.reputatiecoaching.nl/linkedin](https://www.reputatiecoaching.nl/linkedin).*
+*Nu ik het toch hierover heb: als jij wat hebt aan de informatie en je vind het leuk om naar de podcast te luisteren, dan kun je ook een bericht achterlaten op onze Facebookpagina, op: www.reputatiecoaching.nl/facebook. Geef een “Like” of “+1” op Google+, waardoor je laat weten dat je de content op prijs stelt. Of laat een leuke recensie achter op mijn LinkedIn-profiel, op: www.reputatiecoaching.nl/linkedin.*
 
-*Geef gerust een recensie. En als je opmerkingen hebt over deze podcast, laat die dan op de website onderaan de transcriptie achter. Je kunt de transcriptie van deze podcast snel online vinden door te surfen naar: [www.reputatiecoaching.nl/podcast-17](https://www.reputatiecoaching.nl/podcast-17/). Als je ergens een recensie hebt geplaatst, stuur me dan een mailtje zodat ik je recensie kan vermelden in de podcast.*
+*Geef gerust een recensie. En als je opmerkingen hebt over deze podcast, laat die dan op de website onderaan de transcriptie achter. Je kunt de transcriptie van deze podcast snel online vinden door te surfen naar: www.reputatiecoaching.nl/podcast-17. Als je ergens een recensie hebt geplaatst, stuur me dan een mailtje zodat ik je recensie kan vermelden in de podcast.*
 
 *Als je een vraag of een probleem hebt met betrekking tot je online reputatie, stuur dan een mailtje naar [podcast@reputatiecoaching.nl](mailto:podcast@reputatiecoaching.nl) of spreek een boodschap in op de ReputatieCoaching Hotline, op: 084 - 883 15 56. Mogelijk behandel ik je vraag of probleem dan in een artikel of in de podcast.*
 
