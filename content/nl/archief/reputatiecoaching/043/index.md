@@ -3,6 +3,7 @@ title: '43: Betere screenshot in YouTube, Backups op Flickr, Hippe Q&A op Hangou
 date: '2013-09-23T06:30:28+00:00'
 description: '**** Vaak is het niet zo dat we voordeel kunnen halen uit wat we wèl weten, maar we hebben veelal hinder van datgene wat we níet weten. Dus ik breng je niet alleen tips, maar ook nieuws en ontwikkelingen uit de wereld van reputatiemanagement, contentmarketing, zoekmachineoptimalisatie en digitale communicatie, waarvan ik denk dat je er iets mee kunt doen, of wellicht iets mee moet doen. Het eerste onderwerp voor vandaag bestaat uit twee tips.'
 episode: 43
+kgRef: podcast_episode/reputatiecoaching_043
 historical: true
 archivePeriod: 2012–2016
 transcriptStatus: full
@@ -30,7 +31,7 @@ showTaxonomies: false
 
 En als ik het toch over Google heb: ze hebben recentelijk een hele hippe Q&A-module voor Hangouts on Air uitgebracht; daarover straks meer. Dan heb ik nog meer nieuws over Google+ en heb ik de top 5 positieve en 5 negatieve invloeden van social media informatie in het wervings- en selectieproces volgens StepStone. Ik sluit deze podcast af met een nieuwe en bovenal handige feature die sinds deze week beschikbaar is in Outlook.com, de opvolger van Hotmail.com.
 
-Maar voordat ik overga op de topics voor vandaag even een korte terugblik naar de [vorige podcast](https://www.reputatiecoaching.nl/42/). Daarin had ik een gesprek met [Arend Landman](http://www.arendlandman.nl/weblog/), de bekende schoolgoochelaar uit Utrecht. Hij vergeleek contentmarketing met snoep, achtereenvolgens: King, Mars, Faam en Rang.
+Maar voordat ik overga op de topics voor vandaag even een korte terugblik naar de [vorige podcast](https://web.archive.org/web/20131010083238/http://www.reputatiecoaching.nl/42/). Daarin had ik een gesprek met [Arend Landman](https://web.archive.org/web/20130921063435/http://www.arendlandman.nl:80/weblog/), de bekende schoolgoochelaar uit Utrecht. Hij vergeleek contentmarketing met snoep, achtereenvolgens: King, Mars, Faam en Rang.
 
 *Historische afbeelding niet beschikbaar: Content is Snoep - door Arend Landman*
 
@@ -47,11 +48,11 @@ Sinds jaren adverteert hij niet meer in de traditionele media, maar richt hij zi
 
 Met alle content die hij produceert en gratis weggeeft heeft hij in een paar jaar een adressenbestand opgebouwd van een slordige 15.000 emailadressen en op deze manier contracteert hij het hele jaar door optredens in binnen- en buitenland.
 
-Zijn show van dit jaar is gericht op het [Kinderboekenweek 2013 Thema: “Sport en Spel”](http://www.sportenspel.info/). Ik raad je van harte aan om het interview van vorige week met hem eens te beluisteren, als je dat nog niet hebt gedaan. Je zult er namelijk zeker een aantal nuttige tips en goede ideeën uit kunnen halen, waar jij iets mee kunt in jouw business.
+Zijn show van dit jaar is gericht op het [Kinderboekenweek 2013 Thema: “Sport en Spel”](https://web.archive.org/web/20131005114646/http://www.sportenspel.info:80/). Ik raad je van harte aan om het interview van vorige week met hem eens te beluisteren, als je dat nog niet hebt gedaan. Je zult er namelijk zeker een aantal nuttige tips en goede ideeën uit kunnen halen, waar jij iets mee kunt in jouw business.
 
-Ook heb ik afgelopen week een artikel gepost, waarin ik uitleg [wat Markdown is](https://www.reputatiecoaching.nl/waarom-markdown/) en waarom ik er zo enthousiast over ben. Ook de transcriptie van deze podcast heb ik in Markdown gemaakt. Nu ben ik wel eens benieuwd: heb je het artikel gelezen? Ben je ook verder gaan lezen over Markdown? Of had je zoiets van: “Het zal wel, ik ben tevreden met mijn tekstverwerker en zoek niets anders…”? Ik ben benieuwd! Laat het me weten: geef een reactie onderaan de transcriptie van deze podcast, die je kunt vinden op [www.reputatiecoaching.nl/43](https://www.reputatiecoaching.nl/43/). Daarin staan ook alle links die in deze podcast aan bod komen.
+Ook heb ik afgelopen week een artikel gepost, waarin ik uitleg [wat Markdown is](https://web.archive.org/web/20170313041950/http://www.reputatiecoaching.nl/waarom-markdown/) en waarom ik er zo enthousiast over ben. Ook de transcriptie van deze podcast heb ik in Markdown gemaakt. Nu ben ik wel eens benieuwd: heb je het artikel gelezen? Ben je ook verder gaan lezen over Markdown? Of had je zoiets van: “Het zal wel, ik ben tevreden met mijn tekstverwerker en zoek niets anders…”? Ik ben benieuwd! Laat het me weten: geef een reactie onderaan de transcriptie van deze podcast, die je kunt vinden op [www.reputatiecoaching.nl/43](https://web.archive.org/web/20150312093219/http://www.reputatiecoaching.nl/43/). Daarin staan ook alle links die in deze podcast aan bod komen.
 
-En dan nog even een correctie op mijn stukje over de Google RSS-alerts in de [podcast van vorige week](https://www.reputatiecoaching.nl/42/). Toen was ik mijn ingestelde RSS-alerts kwijt en inmiddels zijn de RSS-alerts die ik ooit had ingesteld weer terug. Ik hoef ze dus niet opnieuw allemaal in te stellen… Dat scheelt weer uitzoekwerk!
+En dan nog even een correctie op mijn stukje over de Google RSS-alerts in de [podcast van vorige week](https://web.archive.org/web/20131010083238/http://www.reputatiecoaching.nl/42/). Toen was ik mijn ingestelde RSS-alerts kwijt en inmiddels zijn de RSS-alerts die ik ooit had ingesteld weer terug. Ik hoef ze dus niet opnieuw allemaal in te stellen… Dat scheelt weer uitzoekwerk!
 
 Maar zo zie je maar: hoewel sommige content soms verdwenen *lijkt*, is het niet echt weg. Zo kan het dus ook gaan met content over jou, die mogelijk een negatief effect heeft op je online reputatie. Hoewel je denkt dat het verwijderd is, kan het zomaar opeens weer tevoorschijn komen. Wees daarom voorzichtig met wat je online publiceert.
 
@@ -90,7 +91,7 @@ Zoals ik zei kun je op deze manier een aparte afbeelding invoegen, zelfs eentje 
 
 ## FlickrBucket voor backups op Flickr
 
-Nu ik toch tips aan het geven ben. Laatst had ik je al verteld over de app “[CameraSync](https://www.reputatiecoaching.nl/30/)”, die ik op mijn iPhone heb draaien voor het automatisch backuppen van de foto’s op mijn iPhone. Dat werkt perfect en hoef ik me geen zorgen te maken over het verlies van de foto’s op m’n iPhone, mocht er iets mee gebeuren: alle foto’s staan veilig op zowel [Flickr](http://www.flickr.com/), als op [Box.com](http://www.box.com/). Ze zijn dus tweemaal ergens in de cloud opgeslagen.
+Nu ik toch tips aan het geven ben. Laatst had ik je al verteld over de app “[CameraSync](https://web.archive.org/web/20130626055655/http://www.reputatiecoaching.nl:80/30/)”, die ik op mijn iPhone heb draaien voor het automatisch backuppen van de foto’s op mijn iPhone. Dat werkt perfect en hoef ik me geen zorgen te maken over het verlies van de foto’s op m’n iPhone, mocht er iets mee gebeuren: alle foto’s staan veilig op zowel [Flickr](http://www.flickr.com/), als op [Box.com](http://www.box.com/). Ze zijn dus tweemaal ergens in de cloud opgeslagen.
 
 *Historische afbeelding niet beschikbaar: Geotagged fotos uploaden naar Flickr*
 Maar Flickr biedt je sinds mei 2013 1 terabyte aan opslagcapaciteit en die ruimte wil ik ook ten volle benutten. Dus ik was begonnen met het maken van een backup van al onze foto’s (dat zijn er meer dan 250.000). Het probleem met de browserinterface van Flickr is alleen dat je per keer maximaal 200 foto’s kunt uploaden. Je kunt je voorstellen dat dat dan met zoveel foto’s wel even gaat duren: niet alleen de tijd om ze allemaal te uploaden, maar ook om aan te geven dat ik ze wil uploaden omdat ik ze per 200 in de browser moet slepen.
@@ -103,7 +104,7 @@ Een dergelijke tool is er ongetwijfeld ook in velerlei verschijningsvormen voor 
 
 ## Hoe kom je op de eerste plaats in Google?
 
-Terwijl ik op zoek was naar video’s van Matt Cutts kwam ik ook een hele komische video tegen, die me bijna buikpijn gaf van het lachen. In deze video legt Matt Cutts uit, hoe je op de eerste plaats komt bij Google. Bekijk zelf de video maar, die ik de show notes heb opgenomen op [www.reputatiecoaching.nl/43](https://www.reputatiecoaching.nl/43/):
+Terwijl ik op zoek was naar video’s van Matt Cutts kwam ik ook een hele komische video tegen, die me bijna buikpijn gaf van het lachen. In deze video legt Matt Cutts uit, hoe je op de eerste plaats komt bij Google. Bekijk zelf de video maar, die ik de show notes heb opgenomen op [www.reputatiecoaching.nl/43](https://web.archive.org/web/20150312093219/http://www.reputatiecoaching.nl/43/):
 
 ## Waar plaats je een link naar een ander artikel?
 
@@ -161,11 +162,11 @@ Anyway, ik focus me graag altijd op positieve aspecten. Daarom eindig ik dit top
   5. **Kandidaat liet goede communicatieve vaardigheden zien** – Goede, heldere, eenduidige en bij voorkeur foutloze communicatie is tegenwoordig essentieel.
 ```
 
-Mocht je geïnteresseerd zijn in taal en correct taalgebruik, dan verwijs ik je naar [podcast 30](https://www.reputatiecoaching.nl/30/), waarin ik een interview had met Bea van de Bovenkamp van [Waagtaal](http://www.waagtaal.nl/). In dat interview wordt ook nog eens het belang van correct taalgebruik benadrukt.
+Mocht je geïnteresseerd zijn in taal en correct taalgebruik, dan verwijs ik je naar [podcast 30](https://web.archive.org/web/20130626055655/http://www.reputatiecoaching.nl:80/30/), waarin ik een interview had met Bea van de Bovenkamp van [Waagtaal](http://www.waagtaal.nl/). In dat interview wordt ook nog eens het belang van correct taalgebruik benadrukt.
 
 ## Nu ook “+” in je e-mailadres bij Outlook.com
 
-[Vorige week](https://www.reputatiecoaching.nl/42/) vertelde ik je over de introductie van IMAP bij Outlook.com, de vernieuwde mailservices van Microsoft, ofwel de opvolger van Hotmail. Deze week las ik weer een nieuwtje over Outlook.com, wat ik even met je wil delen, omdat je er je voordeel mee kunt doen.
+[Vorige week](https://web.archive.org/web/20131010083238/http://www.reputatiecoaching.nl/42/) vertelde ik je over de introductie van IMAP bij Outlook.com, de vernieuwde mailservices van Microsoft, ofwel de opvolger van Hotmail. Deze week las ik weer een nieuwtje over Outlook.com, wat ik even met je wil delen, omdat je er je voordeel mee kunt doen.
 
 *Historische afbeelding niet beschikbaar: Outlook.com*
 Ik zei het al: Outlook.com is de opvolger van Hotmail.com. Zelf heb ik de naam “Hotmail” ook nooit erg uitnodigend gevonden om te gebruiken. Net zoals op zoveel social media en mailservices had ik wel mijn eigen e-mailadres geclaimd, maar dus nooit echt gebruikt.
@@ -209,9 +210,9 @@ Als je de podcast leuk vindt en je hebt inderdaad wat aan alle informatie die ik
 
 Als je een vraag of een probleem hebt met betrekking tot je online reputatie of de vindbaarheid van je website, kun je een mailtje sturen naar [podcast@reputatiecoaching.nl](mailto:podcast@reputatiecoaching.nl). Als je dat te lastig vindt, of als je de podcast beluistert terwijl je in de auto zit en je hebt acuut een vraag, spreek dan een boodschap in op de ReputatieCoaching Hotline, op nummer: 084 - 883 15 56. Mogelijk behandel ik je vraag of probleem dan in een artikel of in de podcast.
 
-Als laatste kun je je ook inschrijven voor de nieuwsbrief. Dan ontvang je altijd als eerste het laatste nieuws wat ik publiceer en automatisch elk kwartaal het ReputatieCoaching Podcast Boek van het afgelopen kwartaal. Surf daartoe naar [www.reputatiecoaching.nl/nieuwsbrief/](https://www.reputatiecoaching.nl/nieuwsbrief/) en schrijf je meteen in.
+Als laatste kun je je ook inschrijven voor de nieuwsbrief. Dan ontvang je altijd als eerste het laatste nieuws wat ik publiceer en automatisch elk kwartaal het ReputatieCoaching Podcast Boek van het afgelopen kwartaal. Surf daartoe naar [www.reputatiecoaching.nl/nieuwsbrief/](https://web.archive.org/web/20131205063155/http://www.reputatiecoaching.nl/nieuwsbrief/) en schrijf je meteen in.
 
-En je kunt ook rechtstreeks op de website een voicemail achterlaten, door op de tab aan de rechterkant van elke pagina te klikken, en je bericht in te spreken. Dit was [ReputatieCoaching Podast aflevering 43](https://www.reputatiecoaching.nl/43/) en mijn naam is [Eduard de Boer](http://nl.linkedin.com/in/eduarddeboer/nl).
+En je kunt ook rechtstreeks op de website een voicemail achterlaten, door op de tab aan de rechterkant van elke pagina te klikken, en je bericht in te spreken. Dit was [ReputatieCoaching Podast aflevering 43](https://web.archive.org/web/20150312093219/http://www.reputatiecoaching.nl/43/) en mijn naam is [Eduard de Boer](http://nl.linkedin.com/in/eduarddeboer/nl).
 
 Ik wens je de komende week weer succes met het werken aan je reputatie, zodat je meteen je reputatie voor jou kunt laten werken!
 
@@ -222,8 +223,8 @@ Doei!
 Hieronder het overzicht van de links die in deze podcast aan bod komen:
 
 ```
-  * [Arend Landman](http://www.arendlandman.nl/weblog/)
-  * [Kinderboekenweek 2013 Thema: Sport en Spel](http://www.sportenspel.info/)
+  * [Arend Landman](https://web.archive.org/web/20130921063435/http://www.arendlandman.nl:80/weblog/)
+  * [Kinderboekenweek 2013 Thema: Sport en Spel](https://web.archive.org/web/20131005114646/http://www.sportenspel.info:80/)
   * [StepStone](http://www.stepstone.nl/)
   * [Waagtaal](http://www.waagtaal.nl/)
   * “[Google+: author attribution & embedded posts](http://googleplusplatform.blogspot.nl/2013/09/google-attribution-and-embedded-posts.html)” (Google+ Developers Blog, 9 september 2013)
