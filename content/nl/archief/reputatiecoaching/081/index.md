@@ -3,6 +3,7 @@ title: '81: Google Mijn Bedrijf gelanceerd, Google koopt Skybox en meer Google n
 date: '2014-06-19T06:30:28+00:00'
 description: 'Het was een bijzondere week… Vandaag breng ik je ook een andersoortige podcast. In plaats van enkele lange nieuwsberichten, breng ik je vandaag een groter aantal wat kortere berichten. En ik waarschuw je alvast: er komt vandaag aardig wat Google nieuws voorbij. Om te beginnen: waar mensen eerst nog twijfelden aan het voortbestaan van Google+, pakt Google nu opeens groots uit met het nieuwe Google My Business, of in het Nederlands: Google Mijn Bedrijf.'
 episode: 81
+kgRef: podcast_episode/reputatiecoaching_081
 historical: true
 archivePeriod: 2012–2016
 transcriptStatus: full
@@ -36,7 +37,7 @@ Hallo en hartelijk welkom bij deze aflevering van de ReputatieCoaching Podcast. 
 
 Als persoon kun je met de diverse tips aan de slag om bijvoorbeeld je online reputatie als tatoeëerder, varkensfokker, hotelconciërge, manicure, opleidingscoördinator of wat dan ook te verbeteren.
 
-De podcast kun je vinden op [www.reputatiecoaching.nl/81](https://www.reputatiecoaching.nl/81/). Daar vind je niet alleen de tekst, maar ook video’s waar ik het in deze uitzending over heb, alsmede afbeeldingen, links enzovoorts. Bovendien is de podcast te beluisteren in [iTunes](https://www.reputatiecoaching.nl/itunes) en op [Stitcher](https://www.reputatiecoaching.nl/stitcher). Daar kun je je dus ook abonneren op de wekelijkse podcast. Veel mensen vinden het ideaal om de wekelijkse afleveringen van de podcast op hun gemak te beluisteren, terwijl ze autorijden.
+De podcast kun je vinden op [www.reputatiecoaching.nl/81](https://web.archive.org/web/20150312094418/http://www.reputatiecoaching.nl/81/). Daar vind je niet alleen de tekst, maar ook video’s waar ik het in deze uitzending over heb, alsmede afbeeldingen, links enzovoorts. Bovendien is de podcast te beluisteren in iTunes en op Stitcher. Daar kun je je dus ook abonneren op de wekelijkse podcast. Veel mensen vinden het ideaal om de wekelijkse afleveringen van de podcast op hun gemak te beluisteren, terwijl ze autorijden.
 
 Eerst nog even over de publicatie van de podcast. Afgelopen maandag postte ik een bericht waarin ik vertelde dat de podcast naar donderdagmorgen 08:30 uur verschuift. De reden hiervoor is dat al die uren in het weekend (meestal op zondag) een te grote aanslag plegen op mijn quality time met het gezin. En dan moet je keuzes maken, dus heb ik de podcast na deze bijna een jaar op de maandagmorgen uit te hebben gebracht, verhuisd naar de donderdagmorgen.
 
@@ -44,7 +45,7 @@ Dat alles is geen belemmering, maar ik zie het gewoon als een kans! Ergo: we gaa
 
 En ik heb lange tijd een fout in de website gehad, die ik geheel over het hoofd heb gezien. Daar moet ik even mijn excuses voor aanbieden. Het blijkt namelijk dat sinds ik onderaan de show notes van elke podcast naar Stitcher verwijs, deze link helemaal niet werkte! Ik verkeerde in de veronderstelling dat dat gewoon goed stond. Vandaag vernam ik dit van een luisteraar, die mij er dus op attent maakte. Inmiddels heb ik het probleem gefixed en kun je gewoon op de link naar Stitcher klikken, want die werkt nu, zoals het hoort!
 
-Het laatste nieuwtje voor minder de scherpe waarnemers: sinds vandaag staat de mogelijkheid om de podcast af te spelen bovenaan het blogbericht, dat bij elke podcast hoort. Laat me weten hoe je dat ervaart en of je nu sneller geneigd bent erop te klikken om ernaar te luisteren. Je kunt je reactie achterlaten op [www.reputatiecoaching.nl/81](https://www.reputatiecoaching.nl/81/).
+Het laatste nieuwtje voor minder de scherpe waarnemers: sinds vandaag staat de mogelijkheid om de podcast af te spelen bovenaan het blogbericht, dat bij elke podcast hoort. Laat me weten hoe je dat ervaart en of je nu sneller geneigd bent erop te klikken om ernaar te luisteren. Je kunt je reactie achterlaten op [www.reputatiecoaching.nl/81](https://web.archive.org/web/20150312094418/http://www.reputatiecoaching.nl/81/).
 
 Laat ik dan nu overgaan op de onderwerpen voor vandaag…
 
@@ -92,7 +93,7 @@ En wat ik als fotograaf voor Google Maps Business View leuk vind, is dat Google 
 
 Alle diensten zijn nu samengebracht tot één echt congruent geheel, dat is duidelijk. Terwijl de hele wereld zich de afgelopen twee jaar afvroeg waarom het zo’n rommeltje was en waarom er maar niets leek te gebeuren, heeft Google al die tijd gewoon hard zitten werken aan een nieuw en revolutionair business platform.
 
-Heb jij de interface al bekeken? Ben jij er al eens ingedoken? Of was je dit nog niet opgevallen? Geef je reactie onderaan de show notes van dit artikel, op [www.reputatiecoaching.nl/81](https://www.reputatiecoaching.nl/81/).
+Heb jij de interface al bekeken? Ben jij er al eens ingedoken? Of was je dit nog niet opgevallen? Geef je reactie onderaan de show notes van dit artikel, op [www.reputatiecoaching.nl/81](https://web.archive.org/web/20150312094418/http://www.reputatiecoaching.nl/81/).
 
 ## Streetview na 5 jaar eindelijk in Griekenland
 
@@ -161,7 +162,7 @@ Dus let op: als je inlogt op Flickr met je Google of Facebook account, dan moet 
 ## Yelp biedt klanten de mogelijkheid een tekstbericht naar bedrijven te sturen
 
 *Historische afbeelding niet beschikbaar: Logo Yelp*
-Google heeft afgelopen week natuurlijk wel heel groots uitgepakt. Maar ook Yelp is vernieuwend bezig geweest. Zo kun je sinds een paar dagen als Yelper een [tekstbericht sturen naar een bedrijf op Yelp](http://officialblog.yelp.com/2014/06/hold-the-phone-now-you-can-message-business-owners-directly-through-yelp.html). Dit kun je nalezen in het weblog van Yelp. De link naar dit artikel heb ik opgenomen in de show notes van deze uitzending, die je kunt vinden op [www.reputatiecoaching.nl/81](https://www.reputatiecoaching.nl/81/).
+Google heeft afgelopen week natuurlijk wel heel groots uitgepakt. Maar ook Yelp is vernieuwend bezig geweest. Zo kun je sinds een paar dagen als Yelper een [tekstbericht sturen naar een bedrijf op Yelp](http://officialblog.yelp.com/2014/06/hold-the-phone-now-you-can-message-business-owners-directly-through-yelp.html). Dit kun je nalezen in het weblog van Yelp. De link naar dit artikel heb ik opgenomen in de show notes van deze uitzending, die je kunt vinden op [www.reputatiecoaching.nl/81](https://web.archive.org/web/20150312094418/http://www.reputatiecoaching.nl/81/).
 
 Deze functionaliteit is nog niet in de mobiele app gerealiseerd, maar werkt dus alleen als je bent ingelogd op de Yelp website.
 
@@ -191,11 +192,11 @@ Oh, ik denk er trouwens over om eens per week een lijstje te publiceren van link
 
 Dus heb geen angst: ik ga je niet spammen per mail of zo… Het wordt gewoon eenmaal per week een lijstje met links naar zo’n 10–15 mogelijk interessante artikelen. Het precieze aantal wil ik af zijn, maar ik ben benieuwd of je dit leuk en nuttig lijkt.
 
-Wil je dit? Lijkt je dit leuk? Geef je reactie onderaan de show notes, op [www.reputatiecoaching.nl/81](https://www.reputatiecoaching.nl/81/).
+Wil je dit? Lijkt je dit leuk? Geef je reactie onderaan de show notes, op [www.reputatiecoaching.nl/81](https://web.archive.org/web/20150312094418/http://www.reputatiecoaching.nl/81/).
 
 Als je de podcast leuk vindt en je wilt nog meer op de hooge blijven, volg me dan ook op Twitter, via [@reputatiecoach1](https://twitter.com/reputatiecoach1).
 
-Heb je inderdaad wat aan alle informatie die ik met je deel, help mij dan met het verder verbeteren en promoten van deze podcast. Surf daarvoor naar [iTunes](https://www.reputatiecoaching.nl/itunes) of [Stitcher](https://www.reputatiecoaching.nl/stitcher), geef de podcast een sterrenbeoordeling en laat ook je reactie achter. Door de podcast te beoordelen op iTunes en/of Stitcher breng je de podcast onder de aandacht van een breder publiek.
+Heb je inderdaad wat aan alle informatie die ik met je deel, help mij dan met het verder verbeteren en promoten van deze podcast. Surf daarvoor naar iTunes of Stitcher, geef de podcast een sterrenbeoordeling en laat ook je reactie achter. Door de podcast te beoordelen op iTunes en/of Stitcher breng je de podcast onder de aandacht van een breder publiek.
 
 Je kunt me verder helpen, door de podcast aan te bevelen bij vrienden of collega’s, waarvan je denkt dat ze er hun voordeel mee kunnen doen, of door ’m te delen op Twitter, like’n en delen op Facebook of een “+1” te geven op Google+.
 
@@ -203,7 +204,7 @@ En vergeet niet: ik ben hier om je te helpen! Als je een vraag of een probleem h
 
 Als je dat te lastig vindt, of als je de podcast beluistert terwijl je in de auto zit en je hebt acuut een vraag, spreek dan een boodschap in op de ReputatieCoaching Hotline, op nummer: 084 - 883 15 56. Mogelijk behandel ik je vraag of probleem dan in een artikel of in de podcast.
 
-En je kunt ook rechtstreeks op de website een voicemail achterlaten, door op de tab aan de rechterkant van elke pagina te klikken, en je bericht in te spreken. Dit was [ReputatieCoaching Podcast aflevering 81](https://www.reputatiecoaching.nl/81/) en mijn naam is [Eduard de Boer](http://nl.linkedin.com/in/eduarddeboer/nl).
+En je kunt ook rechtstreeks op de website een voicemail achterlaten, door op de tab aan de rechterkant van elke pagina te klikken, en je bericht in te spreken. Dit was [ReputatieCoaching Podcast aflevering 81](https://web.archive.org/web/20150312094418/http://www.reputatiecoaching.nl/81/) en mijn naam is [Eduard de Boer](http://nl.linkedin.com/in/eduarddeboer/nl).
 
 Ik wens je de komende week weer succes met het werken aan je reputatie, zodat je meteen je reputatie voor jou kunt laten werken!
 
@@ -214,9 +215,9 @@ Doei!
 Links naar content die in deze podcast aan bod komt:
 
 ```
-  * [ReputatieCoaching Podcast in iTunes](https://www.reputatiecoaching.nl/itunes)
-  * [ReputatieCoaching Podcast op Stitcher](https://www.reputatiecoaching.nl/stitcher)
-  * [ReputatieCoaching Podcast RSS-feed](https://feeds.reputatiecoaching.nl/ReputatieCoachingPodcast)
+  * ReputatieCoaching Podcast in iTunes
+  * ReputatieCoaching Podcast op Stitcher
+  * [ReputatieCoaching Podcast RSS-feed](https://web.archive.org/web/20140803035048/http://feeds.reputatiecoaching.nl:80/ReputatieCoachingPodcast)
   * [Google Mijn Bedrijf](http://www.google.nl/business/)
   * [Skybox Imaging](http://www.skyboximaging.com/technology#imaging-chain)
   * “[Submitting privacy-related requests to block results in the EU](http://onlinehelp.microsoft.com/en-gb/bing/dn768284.aspx)” (Bing Help)
