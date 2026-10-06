@@ -3,6 +3,7 @@ title: '109: Nieuwe gebruikersvoorwaarden Facebook echt nieuw? Over Google Pigeo
 date: '2015-01-01T07:30:42+00:00'
 description: 'Allereerst een fantastisch, gezond, succesvol en mooi 2015 gewenst. Ik wens je toe, dat dit jaar al je dromen (of in elk geval een aantal ervan) mogen uitkomen! Welkom bij de eerste ReputatieCoaching Podcast van 2015: nummer 109. Ik heb in 2012 al wel eens een podcast uitgebracht op Oudjaarsdag, maar dit is de eerste keer dat ik een podcast publiceer op Nieuwjaarsdag. Nu moet ik eerlijkheidshalve wel melden dat ik deze podcast reeds iets eerder heb gemaakt, want ik zag het niet zo zitten om meteen op Nieuwjaarsdag een halve dag achter de computer en de microfoon te kruipen.'
 episode: 109
+kgRef: podcast_episode/reputatiecoaching_109
 historical: true
 archivePeriod: 2012–2016
 transcriptStatus: full
@@ -34,7 +35,7 @@ Allereerst een fantastisch, gezond, succesvol en mooi 2015 gewenst. Ik wens je t
 
 Hallo en hartelijk welkom bij deze aflevering van de ReputatieCoaching Podcast. Ik ben Eduard de Boer, ReputatieCoach. Dit is dé podcast die jou helpt om meer business te genereren, doordat jouw website beter gevonden wordt, zowel lokaal als landelijk en doordat ik je uitleg hoe je je online reputatie kunt verbeteren. Dit alles helpt je om je bedrijf en jezelf beter op de online kaart te plaatsen.
 
-De podcast kun je vinden op [www.reputatiecoaching.nl/109](https://www.reputatiecoaching.nl/109/). Daar vind je niet alleen de tekst, maar ook video’s waar ik het in deze uitzending over heb, alsmede afbeeldingen, links enzovoorts. Bovendien is de podcast te beluisteren in [iTunes](https://www.reputatiecoaching.nl/itunes), op [Stitcher](https://www.reputatiecoaching.nl/stitcher) en ook op [TuneIn Radio](http://tunein.com/radio/ReputatieCoaching-Podcast-p655084/). Daar kun je je dus ook abonneren op de wekelijkse podcast.
+De podcast kun je vinden op [www.reputatiecoaching.nl/109](https://web.archive.org/web/20150312095234/http://www.reputatiecoaching.nl/109/). Daar vind je niet alleen de tekst, maar ook video’s waar ik het in deze uitzending over heb, alsmede afbeeldingen, links enzovoorts. Bovendien is de podcast te beluisteren in iTunes, op Stitcher en ook op [TuneIn Radio](http://tunein.com/radio/ReputatieCoaching-Podcast-p655084/). Daar kun je je dus ook abonneren op de wekelijkse podcast.
 
 Laat ik dan nu overgaan op de onderwerpen voor vandaag…
 
@@ -64,25 +65,25 @@ Dit brengt mij trouwens even op het bericht uit de vorige podcast. Als jij je nu
 
 ### 1: Podcast 100
 
-Op de eerste plaats staat [podcast 100](https://www.reputatiecoaching.nl/100/), met vlag en wimpel. In die podcast had ik Emile Ratelband te gast. Hij vertelde gedurende zo’n 24 minuten over reputatie, imago en de reputatieschade die hij zoal in zijn leven heeft geleden.
+Op de eerste plaats staat [podcast 100](https://web.archive.org/web/20141122023705/http://www.reputatiecoaching.nl:80/100/), met vlag en wimpel. In die podcast had ik Emile Ratelband te gast. Hij vertelde gedurende zo’n 24 minuten over reputatie, imago en de reputatieschade die hij zoal in zijn leven heeft geleden.
 
 ### 2: Podcast 94
 
-Het interview met [Brenda Kok in podcast 94](https://www.reputatiecoaching.nl/94/) staat op de tweede plaats in de top–5 podcasts van 2014. Zij vertelde over het nut en belang van video en videomarketing. Ook kondigde zij de 14-daagse Video Challenge aan, waar ik aan heb deelgenomen. Mede dankzij die actie (waar ik helaas maar 10 dagen aan kon deelnemen) ben ik van mijn schroom af om voor de video te verschijnen en organiseer ik nu webinars over Internetmarketing, onder andere voor fotografen.
+Het interview met [Brenda Kok in podcast 94](https://web.archive.org/web/20150312094833/http://www.reputatiecoaching.nl/94/) staat op de tweede plaats in de top–5 podcasts van 2014. Zij vertelde over het nut en belang van video en videomarketing. Ook kondigde zij de 14-daagse Video Challenge aan, waar ik aan heb deelgenomen. Mede dankzij die actie (waar ik helaas maar 10 dagen aan kon deelnemen) ben ik van mijn schroom af om voor de video te verschijnen en organiseer ik nu webinars over Internetmarketing, onder andere voor fotografen.
 
 ### 3: Podcast 77
 
-Op de derde plaats vinden we [podcast 77](https://www.reputatiecoaching.nl/77/). Daarin vertel ik over de Top–5 lokale SEO fabels en de psychische belemmeringen voor lokale SEO. Bovendien behandel ik de toen net uitgekomen “Swarm”-app van Foursquare en ook vertel ik je over Buenoo, een nieuwe reviewsite voor bedrijven. Podcast 77 sluit ik af met een stuk informatie over gehackte WordPress installaties.
+Op de derde plaats vinden we [podcast 77](https://web.archive.org/web/20150312094253/http://www.reputatiecoaching.nl/77/). Daarin vertel ik over de Top–5 lokale SEO fabels en de psychische belemmeringen voor lokale SEO. Bovendien behandel ik de toen net uitgekomen “Swarm”-app van Foursquare en ook vertel ik je over Buenoo, een nieuwe reviewsite voor bedrijven. Podcast 77 sluit ik af met een stuk informatie over gehackte WordPress installaties.
 
 ### 4: Podcast 67
 
-[Podcast 67](https://www.reputatiecoaching.nl/67/) staat op de vierde plaats van meestbeluisterde podcasts van 2014. Daarin vertel ik over hoe ik iemand uit Koudekerke heb geholpen om haar bedrijf van opendi.nl te verwijderen. Bovendien vertel ik hoe je je bedrijf in het algemeen van Internet kunt verwijderen, bijvoorbeeld als je bent gestopt met je bedrijfsactiviteiten.
+[Podcast 67](https://web.archive.org/web/20141223203653/http://www.reputatiecoaching.nl:80/67/) staat op de vierde plaats van meestbeluisterde podcasts van 2014. Daarin vertel ik over hoe ik iemand uit Koudekerke heb geholpen om haar bedrijf van opendi.nl te verwijderen. Bovendien vertel ik hoe je je bedrijf in het algemeen van Internet kunt verwijderen, bijvoorbeeld als je bent gestopt met je bedrijfsactiviteiten.
 
 Verder leg ik je uit hoe je negatieve reviews in je voordeel kunt laten werken en ik heb nieuws van Getty Images, die al haar afbeeldingen gratis beschikbaar stelt.
 
 ### 5: Podcast 65
 
-Ook [podcast 65](https://www.reputatiecoaching.nl/65/) was populair in 2014. Dat kwam mogelijk, doordat in deze podcast erg veel onderwerpen aan bod kwamen. Want ik behandelde de volgende onderwerpen:
+Ook podcast 65 was populair in 2014. Dat kwam mogelijk, doordat in deze podcast erg veel onderwerpen aan bod kwamen. Want ik behandelde de volgende onderwerpen:
 
 ```
   * #SMC055 in Apeldoorn over social media trends en de “ditzo” YouTube Case
@@ -104,7 +105,7 @@ Tot zover de top–5 van populairste afleveringen van de ReputatieCoaching podca
 
 ## Facebook concurrent voor Google
 
-Facebook wordt meer en meer een concurrent voor Google. Dan bedoel ik niet Google+, maar Google als zoekmachine. In [podcast 108](https://www.reputatiecoaching.nl/108/) vertelde ik je vorige week al dat onder andere Startpagina.nl en vinden.nl in populariteit stijgen, ten koste van het gebruik van Google.
+Facebook wordt meer en meer een concurrent voor Google. Dan bedoel ik niet Google+, maar Google als zoekmachine. In [podcast 108](https://web.archive.org/web/20150312095217/http://www.reputatiecoaching.nl/108/) vertelde ik je vorige week al dat onder andere Startpagina.nl en vinden.nl in populariteit stijgen, ten koste van het gebruik van Google.
 
 Maar uit een onderzoek van Forrester blijkt dat ook Facebook aan een opmars bezig is. Dat las ik in een artikel op Emerce. In dat artikel staat ook een staafdiagram, waarin werd vertoond hoe de 4.631 geïnterviewde Amerikanen online informatie en websites hebben gevonden:
 
@@ -147,13 +148,13 @@ Want daarmee zou je de mogelijkheid om een EIGEN platform op te bouwen, een plat
 
 ## Google Pigeon algoritme update buiten USA actief
 
-Mogelijk heb je al eens gehoord van de update van Google, genaamd “Pigeon”. In [podcast 88](https://www.reputatiecoaching.nl/88/) schreef ik er kort over. Maar toen werd Pigeon alleen uitgerold in de Verenigde staten. Sinds een goede twee weken rolt Google deze algoritmische update ook uit naar andere Engelstalige landen, te weten het Verenigd Koninkrijk, Canada en Australië. India moet volgens Google nog iets langer op Pigeon wachten.
+Mogelijk heb je al eens gehoord van de update van Google, genaamd “Pigeon”. In [podcast 88](https://web.archive.org/web/20150117132214/http://www.reputatiecoaching.nl:80/88/) schreef ik er kort over. Maar toen werd Pigeon alleen uitgerold in de Verenigde staten. Sinds een goede twee weken rolt Google deze algoritmische update ook uit naar andere Engelstalige landen, te weten het Verenigd Koninkrijk, Canada en Australië. India moet volgens Google nog iets langer op Pigeon wachten.
 
 Dit lijkt erop te duiden dat wij ook in Nederland ons langzaamaan moeten voorbereiden op de komst van Pigeon, de update die de lokale zoekresultaten op haar grondvesten zal doen laten schudden. Mijn verwachting is, dat we ergens in de loop van dit jaar de update operationeel zien worden.
 
 Het is inmiddels bekend dat de ranking van lokale zoekresultaten steeds meer gelijk wordt getrokken met die van de organische zoekresultaten. Dat kun je vaak ook wel zien: de lokale bedrijfsvermelding die op “A” staat, staat nu ook al in Nederland meestal bovenaan in de organische resultaten, direct onder eventuele AdWords advertenties.
 
-Maar wat zijn nu de belangrijkste veranderingen in Google Pigeon? Wat kunnen wij tegemoet zien, zodra deze update ook voor de Nederlandstalige resultaten wordt doorgevoerd? De carrousel is sinds november vorig jaar in de VS alweer verdwenen voor hotels, restaurants en diverse andere bedrijfstakken. De kans bestaat dat wij die hoogstwaarschijnlijk helemaal niet gaan zien, ondanks dat de [carrousel al wel vertoond kan worden in de Nederlandstalige zoekresultaten](https://www.reputatiecoaching.nl/google-carrousel-in-nederland/).
+Maar wat zijn nu de belangrijkste veranderingen in Google Pigeon? Wat kunnen wij tegemoet zien, zodra deze update ook voor de Nederlandstalige resultaten wordt doorgevoerd? De carrousel is sinds november vorig jaar in de VS alweer verdwenen voor hotels, restaurants en diverse andere bedrijfstakken. De kans bestaat dat wij die hoogstwaarschijnlijk helemaal niet gaan zien, ondanks dat de [carrousel al wel vertoond kan worden in de Nederlandstalige zoekresultaten](https://web.archive.org/web/20150117123741/http://www.reputatiecoaching.nl:80/google-carrousel-in-nederland/).
 
 Ik geef je de belangrijkste veranderingen die tot op heden zijn waargenomen in de Verenigde Staten, waar de update dus al het langst actief is.
 
@@ -202,7 +203,7 @@ Met deze statistieken over het Internetgebruik door Europeanen kom ik dan aan he
 
 Als je de podcast leuk vindt en je wilt nog meer op de hoogte blijven, volg me dan ook op Twitter, via [@reputatiecoach1](https://twitter.com/reputatiecoach1).
 
-Heb je inderdaad wat aan alle informatie die ik met je deel, help mij dan met het verder verbeteren en promoten van deze podcast. Surf daarvoor naar [iTunes](https://www.reputatiecoaching.nl/itunes) of [Stitcher](https://www.reputatiecoaching.nl/stitcher), geef de podcast een sterrenbeoordeling en laat ook je reactie achter. Door de podcast te beoordelen op iTunes en/of Stitcher breng je de podcast onder de aandacht van een breder publiek.
+Heb je inderdaad wat aan alle informatie die ik met je deel, help mij dan met het verder verbeteren en promoten van deze podcast. Surf daarvoor naar iTunes of Stitcher, geef de podcast een sterrenbeoordeling en laat ook je reactie achter. Door de podcast te beoordelen op iTunes en/of Stitcher breng je de podcast onder de aandacht van een breder publiek.
 
 Je kunt me verder helpen, door de podcast aan te bevelen bij vrienden of collega’s, waarvan je denkt dat ze er hun voordeel mee kunnen doen, of door ’m te delen op Twitter, like’n en delen op Facebook of een “+1” te geven op Google+.
 
@@ -210,7 +211,7 @@ En vergeet niet: ik ben hier om je te helpen! Als je een vraag of een probleem h
 
 Als je dat te lastig vindt, of als je de podcast beluistert terwijl je in de auto zit en je hebt acuut een vraag, spreek dan een boodschap in op de ReputatieCoaching Hotline, op nummer: 084 - 883 15 56. Mogelijk behandel ik je vraag of probleem dan in een artikel of in de podcast.
 
-En je kunt ook rechtstreeks op de website een voicemail achterlaten, door op de tab aan de rechterkant van elke pagina te klikken, en je bericht in te spreken. Dit was [ReputatieCoaching Podcast aflevering 109](https://www.reputatiecoaching.nl/109/) en mijn naam is [Eduard de Boer](http://nl.linkedin.com/in/eduarddeboer/nl).
+En je kunt ook rechtstreeks op de website een voicemail achterlaten, door op de tab aan de rechterkant van elke pagina te klikken, en je bericht in te spreken. Dit was [ReputatieCoaching Podcast aflevering 109](https://web.archive.org/web/20150312095234/http://www.reputatiecoaching.nl/109/) en mijn naam is [Eduard de Boer](http://nl.linkedin.com/in/eduarddeboer/nl).
 
 Ik wens je de komende week weer succes met het werken aan je reputatie, zodat je meteen je reputatie voor jou kunt laten werken!
 
@@ -221,10 +222,10 @@ Doei!
 Links naar content die in deze podcast aan bod komt:
 
 ```
-  * [ReputatieCoaching Podcast in iTunes](https://www.reputatiecoaching.nl/itunes)
-  * [ReputatieCoaching Podcast op Stitcher](https://www.reputatiecoaching.nl/stitcher)
+  * ReputatieCoaching Podcast in iTunes
+  * ReputatieCoaching Podcast op Stitcher
   * [ReputatieCoaching Podcast op TuneIn Radio](http://tunein.com/radio/ReputatieCoaching-Podcast-p655084/)
-  * [ReputatieCoaching Podcast RSS-feed](https://feeds.reputatiecoaching.nl/ReputatieCoachingPodcast)
+  * [ReputatieCoaching Podcast RSS-feed](https://web.archive.org/web/20141223114514/http://feeds.reputatiecoaching.nl:80/ReputatieCoachingPodcast)
   * “[Facebook Offers Life Raft, but Publishers Are Wary](http://www.nytimes.com/2014/10/27/business/media/facebook-offers-life-raft-but-publishers-are-wary.html)” (New Yourk Times, 26 oktober 2014)
   * “[1 in 5 Europeans Has Never Used the Internet](http://blogs.wsj.com/digits/2014/12/17/1-in-5-europeans-has-never-used-the-internet/)” (Wall Street Journal, 17 december 2014)
   * “[Facebook steeds grotere concurrent voor zoekmachines](http://www.emerce.nl/nieuws/facebook-steeds-grotere-concurrent-zoekmachines)” (Emerce, 22 december 2014)
