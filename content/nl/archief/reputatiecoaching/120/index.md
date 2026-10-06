@@ -3,6 +3,7 @@ title: '120: Hoe kan een tandarts online patiënten werven? SEO met Instagram. 5
 date: '2015-03-19T07:30:22+00:00'
 description: Vandaag begin ik de podcast met een pijnlijk onderwerp. Hoewel het nog geen 21 april is, zal maar liefst 57% van de lokale bedrijven die mobiele bezoekers naar hun website kregen via hun lokale bedrijfsvermelding, vanaf eergisteravond dit verkeer zien wegvallen! Blijf luisteren! En eerder deze week heb ik voor een tiental tandartsen uit Apeldoorn een presentatie gegeven over hoe ze in dit tijdperk van Internet patiënten kunnen werven. Op Emerce las ik wederom een bevestiging dat de populariteit van Instagram toeneemt en zelfs zoveel, dat bedrijven minder gaan adverteren op Facebook en meer foto’s in eerste instantie delen via Instagram en pas daarna via Facebook.
 episode: 120
+kgRef: podcast_episode/reputatiecoaching_120
 historical: true
 archivePeriod: 2012–2016
 transcriptStatus: full
@@ -38,7 +39,7 @@ Vandaag begin ik de podcast met een pijnlijk onderwerp. Hoewel het nog geen 21 a
 
 Hallo en hartelijk welkom bij deze aflevering van de ReputatieCoaching Podcast. Ik ben Eduard de Boer, ReputatieCoach. Dit is dé podcast die jou helpt om meer business te genereren, doordat jouw website beter gevonden wordt, zowel lokaal als landelijk en doordat ik je uitleg hoe je je online reputatie kunt verbeteren. Dit alles helpt je om je bedrijf en jezelf beter op de online kaart te plaatsen.
 
-De podcast kun je vinden op [www.reputatiecoaching.nl/120](https://www.reputatiecoaching.nl/120/). Daar vind je niet alleen de tekst, maar ook video’s waar ik het in deze uitzending over heb, alsmede afbeeldingen, links enzovoorts. Bovendien is de podcast te beluisteren in [iTunes](https://www.reputatiecoaching.nl/itunes), op [Stitcher](https://www.reputatiecoaching.nl/stitcher) en ook op [TuneIn Radio](http://tunein.com/radio/ReputatieCoaching-Podcast-p655084/). Ik raad je aan om je op één van die drie kanalen te abonneren op de podcast, zodat je geen aflevering hoeft te missen!
+De podcast kun je vinden op [www.reputatiecoaching.nl/120](https://web.archive.org/web/20150320121659/http://www.reputatiecoaching.nl/120/). Daar vind je niet alleen de tekst, maar ook video’s waar ik het in deze uitzending over heb, alsmede afbeeldingen, links enzovoorts. Bovendien is de podcast te beluisteren in iTunes, op Stitcher en ook op [TuneIn Radio](http://tunein.com/radio/ReputatieCoaching-Podcast-p655084/). Ik raad je aan om je op één van die drie kanalen te abonneren op de podcast, zodat je geen aflevering hoeft te missen!
 
 Laat ik dan nu overgaan op de onderwerpen voor vandaag…
 
@@ -52,7 +53,7 @@ Maar eergisteravond zag ik opeens een totaal andere presentatie van de lokale zo
 
 [![Vernieuwde Google resultaten voor lokale bedrijven](20150318-Nieuwe-lokale-resultaten.png)](https://lh5.googleusercontent.com/-J7_JVsDhrFs/VQlRUb82T5I/AAAAAAAAB3E/HfflOgHsufo/w1191-h993-no/20150318-Nieuwe-lokale-resultaten.png)
 
-Dit heeft dus tot gevolg dat de vier bedrijven die op “D” tot en met “G” stonden, niet meer vermeld worden en dus ook geen verkeer meer uit de lokale bedrijfsvermeldingen ontvangen. Samenvattend: [57% van de lokale bedrijven ontvangt nu dus minder verkeer vanaf mobiele apparaten](https://www.reputatiecoaching.nl/57-van-de-lokale-bedrijven-verliest-groot-deel-van-de-mobiele-bezoekers/).
+Dit heeft dus tot gevolg dat de vier bedrijven die op “D” tot en met “G” stonden, niet meer vermeld worden en dus ook geen verkeer meer uit de lokale bedrijfsvermeldingen ontvangen. Samenvattend: [57% van de lokale bedrijven ontvangt nu dus minder verkeer vanaf mobiele apparaten](https://web.archive.org/web/20150322133953/http://www.reputatiecoaching.nl:80/57-van-de-lokale-bedrijven-verliest-groot-deel-van-de-mobiele-bezoekers/).
 
 Overigens is ook de weergave van het lokale bedrijf veranderd, die je krijgt als je op het bedrijf klikt. Dan krijg je naast de inhoud van de Google+ vermelding ook nog tien organische zoekresultaten te zien, waar je bedrijf mee scoort.
 
@@ -79,7 +80,7 @@ De inhoud van de presentatie varieerde van het oppoetsen van je Google+ pagina t
 
 De presentatie kun je bekijken, want die heb ik op Slideshare geplaatst. Bovendien heb ik de presentatie ook opgenomen in de show notes:
 
-\*\* [Hoe werf je als tandarts nieuwe patiënten online?](https://www.reputatiecoaching.nl//www.slideshare.net/ReputatieCoaching/hoe-werf-je-als-tandarts-nieuwe-patienten-online) \*\* from **[Eduard de Boer](https://www.reputatiecoaching.nl//www.slideshare.net/ReputatieCoaching)**
+\*\* Hoe werf je als tandarts nieuwe patiënten online? \*\* from **Eduard de Boer**
 
 Ik heb tijdens de presentatie de audio van mijn verhaal opgenomen, dus binnenkort kun je ook nog de slideshow met de voiceover tegemoet zien. Maar daar gaat altijd veel tijd in zitten, dus die laat nog even op zich wachten.
 
@@ -90,7 +91,7 @@ Vorige week vertelde ik er ook al over, dat het bereik van je content op Faceboo
 
 Dat las ik in een artikel op Emerce, met als titel “[Instagram trekt marketeers weg van Facebook](http://www.emerce.nl/nieuws/instagram-trekt-marketeers-weg-facebook)”. Dat artikel gaat over een oderzoek dat is uitgevoerd door onderzoeksbureau L2 Inc. onder 250 grote merken.
 
-Op de site van L2 Inc. kun je een educatieve Engelstalige video zien, waarin de move naar Instagram, tezamen met diverse statistieken wordt uitgelegd. Deze video heb ik ook opgenomen in de show notes, op [www.reputatiecoaching.nl/120](https://www.reputatiecoaching.nl/120/):
+Op de site van L2 Inc. kun je een educatieve Engelstalige video zien, waarin de move naar Instagram, tezamen met diverse statistieken wordt uitgelegd. Deze video heb ik ook opgenomen in de show notes, op [www.reputatiecoaching.nl/120](https://web.archive.org/web/20150320121659/http://www.reputatiecoaching.nl/120/):
 
 ```
   * Bedrijven zetten meer in op het organisch bereiken van hun doelgroep en steeds minder op het verzamelen van “Likes”.
@@ -107,7 +108,7 @@ Dat blijft een gevaarlijke vraag om te beantwoorden. Ik krijg vaker dit soort vr
 
 Je moet ook oppassen waarvoor je wilt scoren. Want lang niet elke zoekterm die jij mogelijk in je hoofd hebt wordt daadwerkelijk gebruikt door je toekomstige klanten of patiënten en ook lang niet elke zoekterm leidt tot conversie. En geld spenderen om alleen maar zoveel mogelijk bezoekers naar je site te trekken is ook behoorlijk zinloos.
 
-Elke weg naar de top in de zoekresultaten begint met je site op orde brengen qua: gebruikersgemak, mobielvriendelijkheid, laadtijd en wat dies meer zij. Natuurlijk kun je je suf willen lezen en eindeloos zoeken naar alle informatie die je maar hierover kunt vinden. Mijn advies is: begin gewoon eerst eens met het aandachtig lezen van de Google “[Richtlijnen voor webmasters](https://support.google.com/webmasters/answer/35769?hl=nl)”. Dan lees je al heel snel wat je wel, maar vooral ook niet moet doen…
+Elke weg naar de top in de zoekresultaten begint met je site op orde brengen qua: gebruikersgemak, mobielvriendelijkheid, laadtijd en wat dies meer zij. Natuurlijk kun je je suf willen lezen en eindeloos zoeken naar alle informatie die je maar hierover kunt vinden. Mijn advies is: begin gewoon eerst eens met het aandachtig lezen van de Google “[Richtlijnen voor webmasters](https://web.archive.org/web/20150316201808/https://support.google.com/webmasters/answer/35769?hl=nl)”. Dan lees je al heel snel wat je wel, maar vooral ook niet moet doen…
 
 En als je slim bent, post je af en toe een foto op Instagram, waarbij je in elk geval een volwaardige citation in de omschrijving opneemt. Dat levert je dan niet alleen een citation bij Instagram op, maar ook bij andere websites die Instagramfoto’s en omschrijvingen vertonen. Voor links hoef je het niet echt te doen, want die worden door Instagram niet als klikbare links vertoond. Aan de andere kant lees je hier en daar verwijzingen dat Google ook aandacht geeft aan niet-klikbare links. Dus het kan sowieso geen kwaad. Ik heb ook wel gezien dat een site die foto’s van Instagram op een bepaalde manier herpubliceert, links wèl omzet naar klikbare links, al of niet NOFOLLOW.
 
@@ -136,7 +137,7 @@ Ik kan dan beginnen met de plugins die ik gebruik en als je wilt mag je ook verz
 
 Hoe lijkt je dat? Heb je interesse in een paar van dit soort no-nonsense, hands-on webinars waarin ik je vertel over diverse nuttige, handige plugins en hoe je ze moet gebruiken?
 
-Heb je interesse? Laat het me dan weten en post je reactie onder de show notes van deze podcast, op [www.reputatiecoaching.nl/120](https://www.reputatiecoaching.nl/120/).
+Heb je interesse? Laat het me dan weten en post je reactie onder de show notes van deze podcast, op [www.reputatiecoaching.nl/120](https://web.archive.org/web/20150320121659/http://www.reputatiecoaching.nl/120/).
 
 ## Online shoppers kopen 1,6x eerder na zien van video
 
@@ -174,7 +175,7 @@ Het concept is dus letterlijk zo simpel als het vullen van een paar velden in ee
 
 Wil jij mij helpen met testen en als eerste GRATIS de blauwdruk voor het opzetten van dit handige systeem ontvangen? Wacht dan niet te lang! Want na drie testers stopt de mogelijkheid om je op te geven!
 
-In de show notes op [www.reputatiecoaching.nl/120](https://www.reputatiecoaching.nl/120/) heb ik een invulformulier opgenomen. Daarin kun je je naam en mailadres achterlaten:
+In de show notes op [www.reputatiecoaching.nl/120](https://web.archive.org/web/20150320121659/http://www.reputatiecoaching.nl/120/) heb ik een invulformulier opgenomen. Daarin kun je je naam en mailadres achterlaten:
 
 ## De A+ kaart in Apeldoorn
 
@@ -206,7 +207,7 @@ Ten tweede zet het Allround Fotografie op deze manier extra op de lokale kaart v
 
 Ik weet natuurlijk niet wat er allemaal in andere plaatsen in Nederland speelt. Daarom is mijn advies aan jou om ook eens in je eigen plaats te onderzoeken en verder te kijken of er een soortgelijk initiatief is waar jij als lokale ondernemer je voordeel mee kunt doen.
 
-Is er in jouw plaats iets soortgelijks? Laat het dan weten en plaats je reactie onderaan de show notes van deze podcast, op [www.reputatiecoaching.nl/120](https://www.reputatiecoaching.nl/120/).
+Is er in jouw plaats iets soortgelijks? Laat het dan weten en plaats je reactie onderaan de show notes van deze podcast, op [www.reputatiecoaching.nl/120](https://web.archive.org/web/20150320121659/http://www.reputatiecoaching.nl/120/).
 
 Met dit topic over de A+ kaart in Apeldoorn kom ik dan weer aan het einde van deze 120e podcast…
 
@@ -214,7 +215,7 @@ Als je de podcast leuk vindt en je wilt nog meer op de hoogte blijven, volg me d
 
 Heb je inderdaad wat aan alle informatie die ik met je deel, help mij dan met het verder verbeteren en promoten van deze podcast. Abonneer je op de podcast, zodat je altijd meteen de nieuwste uitzending krijgt voorgeschoteld.
 
-Zoek de podcast op, in [iTunes](https://www.reputatiecoaching.nl/itunes) of [Stitcher](https://www.reputatiecoaching.nl/stitcher), geef de podcast een sterrenbeoordeling en laat ook je reactie achter. Door de podcast te beoordelen op iTunes en/of Stitcher breng je de podcast onder de aandacht van een breder publiek.
+Zoek de podcast op, in iTunes of Stitcher, geef de podcast een sterrenbeoordeling en laat ook je reactie achter. Door de podcast te beoordelen op iTunes en/of Stitcher breng je de podcast onder de aandacht van een breder publiek.
 
 Je kunt me verder helpen, door de podcast aan te bevelen bij vrienden of collega’s, waarvan je denkt dat ze er hun voordeel mee kunnen doen, of door ’m te delen op Twitter, like’n en delen op Facebook of een “+1” te geven op Google+.
 
@@ -222,7 +223,7 @@ En vergeet niet: ik ben hier om je te helpen! Als je een vraag of een probleem h
 
 Als je dat te lastig vindt, of als je de podcast beluistert terwijl je in de auto zit en je hebt acuut een vraag, spreek dan een boodschap in op de ReputatieCoaching Hotline, op nummer: 084 - 883 15 56. Mogelijk behandel ik je vraag of probleem dan in een artikel of in de podcast.
 
-En je kunt ook rechtstreeks op de website een voicemail achterlaten, door op de tab aan de rechterkant van elke pagina te klikken, en je bericht in te spreken. Dit was [ReputatieCoaching Podcast aflevering 120](https://www.reputatiecoaching.nl/120/) en mijn naam is [Eduard de Boer](http://nl.linkedin.com/in/eduarddeboer/nl).
+En je kunt ook rechtstreeks op de website een voicemail achterlaten, door op de tab aan de rechterkant van elke pagina te klikken, en je bericht in te spreken. Dit was [ReputatieCoaching Podcast aflevering 120](https://web.archive.org/web/20150320121659/http://www.reputatiecoaching.nl/120/) en mijn naam is [Eduard de Boer](http://nl.linkedin.com/in/eduarddeboer/nl).
 
 Ik wens je de komende week weer succes met het werken aan je reputatie, zodat je meteen je reputatie voor jou kunt laten werken!
 
@@ -233,14 +234,14 @@ Doei!
 Links naar content die in deze podcast aan bod komt:
 
 ```
-  * [ReputatieCoaching Podcast in iTunes](https://www.reputatiecoaching.nl/itunes)
-  * [ReputatieCoaching Podcast op Stitcher](https://www.reputatiecoaching.nl/stitcher)
+  * ReputatieCoaching Podcast in iTunes
+  * ReputatieCoaching Podcast op Stitcher
   * [ReputatieCoaching Podcast op TuneIn Radio](http://tunein.com/radio/ReputatieCoaching-Podcast-p655084/)
-  * [ReputatieCoaching Podcast RSS-feed](https://feeds.reputatiecoaching.nl/ReputatieCoachingPodcast)
+  * [ReputatieCoaching Podcast RSS-feed](https://web.archive.org/web/20150228235938/http://feeds.reputatiecoaching.nl:80/ReputatieCoachingPodcast)
   * [Pretty Link Lite](https://wordpress.org/plugins/pretty-link/) (Plugin voor WordPress om mooie korte links te maken)
   * [SumoMe](https://wordpress.org/plugins/sumome/) (Plugin voor het “verdubbelen” van je abonnees)
   * [A+ Kaart](http://www.akaart.nl) (voor inwoners van Apeldoorn)
-  * “[CBS: Tablet verdringt bord van schoot](http://www.cbs.nl/nl-NL/menu/themas/vrije-tijd-cultuur/publicaties/artikelen/archief/2015/tablet-verdringt-bord-van-schoot.htm)” (CBS, 11 maart 2015)
+  * “[CBS: Tablet verdringt bord van schoot](https://web.archive.org/web/20150315055614/http://www.cbs.nl:80/nl-NL/menu/themas/vrije-tijd-cultuur/publicaties/artikelen/archief/2015/tablet-verdringt-bord-van-schoot.htm)” (CBS, 11 maart 2015)
   * “[Instagram trekt marketeers weg van Facebook](http://www.emerce.nl/nieuws/instagram-trekt-marketeers-weg-facebook)” (Emerce, 16 maart 2015)
   * “[Online Shoppers 1.6X More Likely To Make Purchase After Viewing Video](http://marketingland.com/online-shoppers-1-6x-more-likely-to-make-purchase-after-viewing-video-report-121609)” (Marketing Land, 16 maart 2015)
 ```

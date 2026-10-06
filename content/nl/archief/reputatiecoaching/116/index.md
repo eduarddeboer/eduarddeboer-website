@@ -3,6 +3,7 @@ title: '116: Hoe verzamel je citations en reviews? Website Transavia niet vindba
 date: '2015-02-19T07:30:39+00:00'
 description: Een paar dagen geleden praatte ik kort bij met Diana Albrink. Daarover vertel ik je zometeen het een en ander. Het tweede onderwerp gaat over het maken van citations of bedrijfsvermeldingen en hoeveel werk dat is. Wat ook een lastig karwei is, is reviews op Yelp verzamelen, die blijven staan. Daar heb ik zometeen wat tips voor. Vorige week vertelde ik je over Google Local Guides / Lokale Gidsen. Vlak daarna kreeg ik mail van Google over het programma.
 episode: 116
+kgRef: podcast_episode/reputatiecoaching_116
 historical: true
 archivePeriod: 2012–2016
 transcriptStatus: full
@@ -28,13 +29,13 @@ Een paar dagen geleden praatte ik kort bij met Diana Albrink. Daarover vertel ik
 
 Hallo en hartelijk welkom bij deze aflevering van de ReputatieCoaching Podcast. Ik ben Eduard de Boer, ReputatieCoach. Dit is dé podcast die jou helpt meer business te genereren, doordat jouw website beter gevonden wordt, zowel lokaal als landelijk en doordat ik je uitleg hoe je je online reputatie kunt verbeteren. Dit alles helpt je jouw bedrijf en jezelf beter op de online kaart te plaatsen.
 
-De podcast kun je vinden op [www.reputatiecoaching.nl/116](https://www.reputatiecoaching.nl/116/). Daar vind je niet alleen de tekst, maar ook video’s waar ik het in deze uitzending over heb, alsmede afbeeldingen, links enzovoorts. Bovendien is de podcast te beluisteren in [iTunes](https://www.reputatiecoaching.nl/itunes), op [Stitcher](https://www.reputatiecoaching.nl/stitcher) en op [TuneIn Radio](http://tunein.com/radio/ReputatieCoaching-Podcast-p655084/). Ik raad je aan je op één van die drie kanalen te abonenneren op de podcast, zodat je geen aflevering hoeft te missen!
+De podcast kun je vinden op [www.reputatiecoaching.nl/116](https://web.archive.org/web/20150312092025/http://www.reputatiecoaching.nl/116/). Daar vind je niet alleen de tekst, maar ook video’s waar ik het in deze uitzending over heb, alsmede afbeeldingen, links enzovoorts. Bovendien is de podcast te beluisteren in iTunes, op Stitcher en op [TuneIn Radio](http://tunein.com/radio/ReputatieCoaching-Podcast-p655084/). Ik raad je aan je op één van die drie kanalen te abonenneren op de podcast, zodat je geen aflevering hoeft te missen!
 
 Laat ik dan nu overgaan op de onderwerpen voor vandaag…
 
 ## Jezelf online monitoren
 
-Eerder deze week sprak ik weer eens met Diana Albrink, de auteur van het boek “New York in 40 dates” dat in juni uitkomt. Zij was blij met de tip die ik haar had gegeven in [podcast 115](https://www.reputatiecoaching.nl/115/) over het installeren van de plugin “Jetpack for WordPress”. Want nu konden mensen zich tenminste abonneren op nieuwe artikelen die ze op haar site publiceert. Ze heeft dus niet voor de route via Mailchimp en een RSS-campagne gekozen.
+Eerder deze week sprak ik weer eens met Diana Albrink, de auteur van het boek “New York in 40 dates” dat in juni uitkomt. Zij was blij met de tip die ik haar had gegeven in [podcast 115](https://web.archive.org/web/20150312095417/http://www.reputatiecoaching.nl/115/) over het installeren van de plugin “Jetpack for WordPress”. Want nu konden mensen zich tenminste abonneren op nieuwe artikelen die ze op haar site publiceert. Ze heeft dus niet voor de route via Mailchimp en een RSS-campagne gekozen.
 
 Maar de huidige oplossing werkt prima voor haar! Ze was blij dat ze opeens de voor haar bekende functionaliteit van wordpress.com erbij kreeg.
 
@@ -68,7 +69,7 @@ Je moet dus een gedegen administratie bijhouden, de mogelijkheid hebben opvolgac
 
 En je moet continu op zoek naar nieuwe sites waar jij je bedrijf kunt aanmelden. Want als je een tijdje je collega’s die in de lokale resultaten worden vertoond, niet in de gaten houdt, kan het zomaar zijn dat zij boven jou stijgen. Als zij namelijk op een aantal extra (en mogelijk nieuwe) sites bedrijfsvermeldingen aanmaken en jij niet, kan dat dus gevolgen hebben voor jouw vermelding in de lokale zoekresultaten!
 
-Maar zoals Mart in de [vorige podcast](https://www.reputatiecoaching.nl/115/) merkte, moet je toch echt eerst je citations opschonen. Daarvoor heb ik een werkinstructie geschreven. In de show notes op [www.reputatiecoaching.nl/116](https://www.reputatiecoaching.nl/116/) vind je een link naar deze [Werkinstructie “opschonen citations”](https://www.reputatiecoaching.nl/werkinstructie-opschonen-citations/).
+Maar zoals Mart in de [vorige podcast](https://web.archive.org/web/20150312095417/http://www.reputatiecoaching.nl/115/) merkte, moet je toch echt eerst je citations opschonen. Daarvoor heb ik een werkinstructie geschreven. In de show notes op [www.reputatiecoaching.nl/116](https://web.archive.org/web/20150312092025/http://www.reputatiecoaching.nl/116/) vind je een link naar deze [Werkinstructie “opschonen citations”](https://web.archive.org/web/20150915133010/http://www.reputatiecoaching.nl:80/werkinstructie-opschonen-citations/).
 
 En als je er aan toe bent citations of bedrijfsvermeldingen te gaan maken, raad ik je aan de Chrome-extensie “NAP Hunter Lite” te installeren en te gaan gebruiken. Hoe je die plugin gebruikt, kun je nog eens op je gemak nakijken in de instructievideo die ik in de show notes heb opgenomen:
 
@@ -108,7 +109,7 @@ Ben jij trouwens al actief op Yelp? Of heb je je ooit eens aangemeld? Blaas eens
 
 Het “[Lokale Gidsen](https://www.youtube.com/watch?v=RRujRhxLBSE)”-programma van Google bestaat nu zo’n twee tot drie weken. Het is de wereldwijde opvolger van het “City Experts”-programma, dat tot voor kort in slechts een beperkt aantal steden in de wereld beschikbaar was.
 
-En zoals ik je in de video van vorige week vertelde, heb ik me meteen aangemeld als “[Google Local Guide](https://www.reputatiecoaching.nl/google-local-guides-google-lokale-gidsen-instructievideo/)”, toen ik erover las. Op dat moment had ik in totaal 10 reviews op mijn konto staan. Dat kon ik zien op mijn eigen Google+ pagina. Ondertussen heb ik voor diverse bedrijven reviews gepost en staat de teller op iets meer dan 20. In de show notes van deze podcast heb ik hier een afbeelding van opgenomen.
+En zoals ik je in de video van vorige week vertelde, heb ik me meteen aangemeld als “[Google Local Guide](https://web.archive.org/web/20190718121012/https://www.reputatiecoaching.nl/google-local-guides-google-lokale-gidsen-instructievideo/)”, toen ik erover las. Op dat moment had ik in totaal 10 reviews op mijn konto staan. Dat kon ik zien op mijn eigen Google+ pagina. Ondertussen heb ik voor diverse bedrijven reviews gepost en staat de teller op iets meer dan 20. In de show notes van deze podcast heb ik hier een afbeelding van opgenomen.
 
 De paar uren nadat ik me had aangemeld voor het [“Lokale Gidsen”-programma](https://www.google.com/local/guides/?hl=nl) voelde ik me een beetje in de steek gelaten door Google… Of beter gezegd: “In het ongewisse gelaten.”. Want ik had me aangemeld, maar hoorde of las verder niets.
 
@@ -184,7 +185,7 @@ Ik vraag me echter af hoe dit soort fouten gemaakt hebben kunnen worden. Ik neem
 
 ## Schrijven is schrappen
 
-Vrijwel iedereen kent de uitdrukking “Schrijven is de kunst van het schrappen”. En als je toch gaat schrappen, kun je dit samenvatten in: “Schrijven is schrappen”. Dit besprak ik al met Bea van de Bovenkamp in [podcast 30](https://www.reputatiecoaching.nl/30/). Ook in het interview met Nathan Veenstra in [podcast 98](https://www.reputatiecoaching.nl/98/) kwam dit aan bod.
+Vrijwel iedereen kent de uitdrukking “Schrijven is de kunst van het schrappen”. En als je toch gaat schrappen, kun je dit samenvatten in: “Schrijven is schrappen”. Dit besprak ik al met Bea van de Bovenkamp in [podcast 30](https://web.archive.org/web/20150312092851/http://www.reputatiecoaching.nl/30/). Ook in het interview met Nathan Veenstra in [podcast 98](https://web.archive.org/web/20150312094937/http://www.reputatiecoaching.nl/98/) kwam dit aan bod.
 
 Dit advies komt niet alleen van hedendaagse bloggers, maar dit soort uitspraken worden gedaan door bekende en wereldwijd gerespecteerde schrijvers als Mark Twain en Roald Dahl.
 
@@ -229,7 +230,7 @@ Als antwoord op een brief met vragen van een student antwoordde Mark Twain:
 
 En in 1980 schreef de toen 17-jarige Engelse literatuurstudent Jay Williams een brief aan Roald Dahl voor adviezen en tips met betrekking tot de schrijfkunst. Daarop ontving hij zowaar antwoord van Roald Dahl:
 
-Ga op zoek naar de zinloze bijwoorden die ik je zojuist heb gegeven, in je eerstvolgende blogbericht. Heb je de bijwoorden gemist of wil je precies weten welke dat zoal zijn? Lees dan nog eens de transcriptie van deze podcast door, op [www.reputatiecoaching.nl/116](https://www.reputatiecoaching.nl/116/). Begin vervolgens met schrappen, zoals ik dat naar beste kunnen heb gedaan in de transcriptie voor deze podcast.
+Ga op zoek naar de zinloze bijwoorden die ik je zojuist heb gegeven, in je eerstvolgende blogbericht. Heb je de bijwoorden gemist of wil je precies weten welke dat zoal zijn? Lees dan nog eens de transcriptie van deze podcast door, op [www.reputatiecoaching.nl/116](https://web.archive.org/web/20150312092025/http://www.reputatiecoaching.nl/116/). Begin vervolgens met schrappen, zoals ik dat naar beste kunnen heb gedaan in de transcriptie voor deze podcast.
 
 Dan sluit ik af met 11 praktische tips voor het schrijven van betere teksten (en geloof me, ik ga die net zo lang repeteren en toepassen, tot ze ook voor mij een tweede natuur zijn geworden):
 
@@ -249,13 +250,13 @@ Dan sluit ik af met 11 praktische tips voor het schrijven van betere teksten (en
 
 Je kunt nooit alle bijwoorden schrappen, of zinnen reduceren tot een absoluut minimum. Dus je zult ze moeten gebruiken en toepassen in de praktijk. Maar waar ik nu extreem benieuwd naar ben is: heb ik je voldoende geprikkeld om kortere, meer “to-the-point” en relevantere teksten te schrijven? Dus in andere woorden: heb jij met deze tips jouw voordeel kunnen doen?
 
-Het lijkt me leuk om eens van jou, de luisteraar, te vernemen hoe jij dit ziet en wat jij ervan vindt. Vind jij dit zinloos? Laat het me weten in de show notes, die je kunt vinden op [www.reputatiecoaching.nl/116](https://www.reputatiecoaching.nl/116/).
+Het lijkt me leuk om eens van jou, de luisteraar, te vernemen hoe jij dit ziet en wat jij ervan vindt. Vind jij dit zinloos? Laat het me weten in de show notes, die je kunt vinden op [www.reputatiecoaching.nl/116](https://web.archive.org/web/20150312092025/http://www.reputatiecoaching.nl/116/).
 
 Met deze tips voor enthousiast schrappen van bijwoorden om betere en scherpere teksten te produceren kom ik vandaag weer aan het einde van deze podcast. Als je de podcast leuk vindt en je wilt nog meer op de hoogte blijven, volg me dan op Twitter, via [@reputatiecoach1](https://twitter.com/reputatiecoach1).
 
 Heb je inderdaad wat aan alle informatie die ik met je deel, help mij dan met het verder verbeteren en promoten van deze podcast. Abonneer je op de podcast, zodat je altijd meteen de nieuwste uitzending krijgt voorgeschoteld.
 
-Zoek de podcast op, in [iTunes](https://www.reputatiecoaching.nl/itunes) of [Stitcher](https://www.reputatiecoaching.nl/stitcher), geef de podcast een sterrenbeoordeling en laat je reactie achter. Door de podcast te beoordelen op iTunes en/of Stitcher breng je de podcast onder de aandacht van een breder publiek.
+Zoek de podcast op, in iTunes of Stitcher, geef de podcast een sterrenbeoordeling en laat je reactie achter. Door de podcast te beoordelen op iTunes en/of Stitcher breng je de podcast onder de aandacht van een breder publiek.
 
 Je kunt me verder helpen, door de podcast aan te bevelen bij vrienden of collega’s, waarvan je denkt dat ze er hun voordeel mee kunnen doen, of door ’m te delen op Twitter, like’n en delen op Facebook of een “+1” te geven op Google+.
 
@@ -263,7 +264,7 @@ En vergeet niet: ik ben hier om je te helpen! Als je een vraag of een probleem h
 
 Als je dat te lastig vindt, of als je de podcast beluistert terwijl je in de auto zit en je hebt acuut een vraag, spreek dan een boodschap in op de ReputatieCoaching Hotline, op nummer: 084 - 883 15 56. Mogelijk behandel ik je vraag of probleem dan in een artikel of in de podcast.
 
-En je kunt rechtstreeks op de website een voicemail achterlaten, door op de tab aan de rechterkant van elke pagina te klikken, en je bericht in te spreken. Dit was [ReputatieCoaching Podcast aflevering 116](https://www.reputatiecoaching.nl/116/) en mijn naam is [Eduard de Boer](http://nl.linkedin.com/in/eduarddeboer/nl).
+En je kunt rechtstreeks op de website een voicemail achterlaten, door op de tab aan de rechterkant van elke pagina te klikken, en je bericht in te spreken. Dit was [ReputatieCoaching Podcast aflevering 116](https://web.archive.org/web/20150312092025/http://www.reputatiecoaching.nl/116/) en mijn naam is [Eduard de Boer](http://nl.linkedin.com/in/eduarddeboer/nl).
 
 Ik wens je de komende week weer succes met het werken aan je reputatie, zodat je meteen je reputatie voor jou kunt laten werken!
 
@@ -274,11 +275,11 @@ Doei!
 Links naar content die in deze podcast aan bod komt:
 
 ```
-  * [ReputatieCoaching Podcast in iTunes](https://www.reputatiecoaching.nl/itunes)
-  * [ReputatieCoaching Podcast op Stitcher](https://www.reputatiecoaching.nl/stitcher)
+  * ReputatieCoaching Podcast in iTunes
+  * ReputatieCoaching Podcast op Stitcher
   * [ReputatieCoaching Podcast op TuneIn Radio](http://tunein.com/radio/ReputatieCoaching-Podcast-p655084/)
-  * [ReputatieCoaching Podcast RSS-feed](https://feeds.reputatiecoaching.nl/ReputatieCoachingPodcast)
-  * [Werkinstructie “Opschonen citations”](https://www.reputatiecoaching.nl/werkinstructie-opschonen-citations/)
+  * [ReputatieCoaching Podcast RSS-feed](https://web.archive.org/web/20150228235938/http://feeds.reputatiecoaching.nl:80/ReputatieCoachingPodcast)
+  * [Werkinstructie “Opschonen citations”](https://web.archive.org/web/20150915133010/http://www.reputatiecoaching.nl:80/werkinstructie-opschonen-citations/)
   * “[Transavia zet WhatsApp in voor klantenservice](http://www.emerce.nl/nieuws/transavia-zet-whatsapp-klantenservice)” (Emerce, 2 februari 2015)
   * “[Nieuwe website Transavia niet vindbaar in Google](http://www.marketingfacts.nl/berichten/nieuwe-website-transavia-niet-vindbaar-in-google1)” (Marketingfacts, 16 februari 2015)
 ```
