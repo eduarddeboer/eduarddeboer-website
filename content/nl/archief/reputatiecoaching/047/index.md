@@ -3,6 +3,7 @@ title: '47: Google over guest blogging en een tip van Mike Blumenthal. Scoren re
 date: '2013-10-21T06:30:37+00:00'
 description: Het was vandaag weer eens ouderwets moeilijk om uit al het nieuws te kiezen. Allereerst wat nieuws over WordPress 3.7, die binnenkort uitkomt. Dan volgt de mening van Matt Cutts over guest blog spamming en vorige week ging de koers van Google door de duizend dollargrens! Mike Blumenthal geeft antwoord op de vraag of je je bedrijfsomschrijving over alle sites uniek moet maken. En scoort een site die gebaseerd is op het zogenaamde “responsive webdesign” nu hoger dan non-responsive sites?
 episode: 47
+kgRef: podcast_episode/reputatiecoaching_047
 historical: true
 archivePeriod: 2012–2016
 transcriptStatus: full
@@ -32,15 +33,15 @@ Het was vandaag weer eens ouderwets moeilijk om uit al het nieuws te kiezen. All
 
 ## Terugblik op de vorige podcast
 
-Voordat ik overga op de onderwerpen voor vandaag, nog even een korte terugblik op de [podcast van vorige week](https://www.reputatiecoaching.nl/46/). Daarin had ik een leuk interview met Robert Spakman van [MeetingRoomReview.com](http://www.meetingroomreview.com), een site specifiek voor het verzamelen van reviews van vergaderlocaties.
+Voordat ik overga op de onderwerpen voor vandaag, nog even een korte terugblik op de [podcast van vorige week](https://web.archive.org/web/20131026100159/http://www.reputatiecoaching.nl:80/46/). Daarin had ik een leuk interview met Robert Spakman van [MeetingRoomReview.com](http://www.meetingroomreview.com), een site specifiek voor het verzamelen van reviews van vergaderlocaties.
 
 Zojuist keek ik nog weer eens naar de site en zag ook dat die alweer was veranderd. Zo worden op dit moment ook recentelijk gereviewde locaties getoond.
 
 *Historische afbeelding niet beschikbaar: MeetingroomReview.com*
 
-Eerder deze week heb ik ook een instructievideo gemaakt, waarin ik je laat zien hoe gemakkelijk het is om je [aan te melden als reviewer op MeetingRoomReview.com](https://www.reputatiecoaching.nl/aanmelden-reviewer-meetingroomreview-com-instructievideo/). Deze instructievideo vind je op de website.
+Eerder deze week heb ik ook een instructievideo gemaakt, waarin ik je laat zien hoe gemakkelijk het is om je [aan te melden als reviewer op MeetingRoomReview.com](https://web.archive.org/web/20190718194553/https://www.reputatiecoaching.nl/aanmelden-reviewer-meetingroomreview-com-instructievideo/). Deze instructievideo vind je op de website.
 
-En alle links naar sites en relevante artikelen die ik heb geraadpleegd of gebruikt voor het samenstellen van deze podcast vind je onderaan de transcriptie van deze podcast, op: [www.reputatiecoaching.nl/47/](https://www.reputatiecoaching.nl/47/).
+En alle links naar sites en relevante artikelen die ik heb geraadpleegd of gebruikt voor het samenstellen van deze podcast vind je onderaan de transcriptie van deze podcast, op: [www.reputatiecoaching.nl/47/](https://web.archive.org/web/20140305115930/http://www.reputatiecoaching.nl:80/47/).
 
 ## WordPress 3.7
 
@@ -137,7 +138,7 @@ Ook de laadsnelheid van de websites varieerde enorm. Specifiek mobiele sites laa
 
 Vooral de lange laadtijd voor responsive websites is klaarblijkelijk een belangrijke factor, waarom ècht mobiele sites hoger scoren: de laadtijd daarvan is een stuk korter. En een kortere laadtijd leidt tot een betere gebruikerservaring en daarmee veelal ook tot een hogere ranking in de zoekresultaten.
 
-Op zich hoeven responsive websites helemaal niet traag te zijn. Zojuist heb ik het nog even gecontroleerd en [www.reputatiecoaching.nl](http://www.reputatiecoaching.nl) laadt nog steeds in zo’n 750 milliseconden, dat is dus een aantal seconden minder, dan het vorige ontwerp, wat overigens ook responsive was.
+Op zich hoeven responsive websites helemaal niet traag te zijn. Zojuist heb ik het nog even gecontroleerd en [www.reputatiecoaching.nl](https://web.archive.org/web/20131010083245/http://www.reputatiecoaching.nl/) laadt nog steeds in zo’n 750 milliseconden, dat is dus een aantal seconden minder, dan het vorige ontwerp, wat overigens ook responsive was.
 
 ## Domineert Yelp de lokale zoekresultaten in Google USA?
 
@@ -199,7 +200,7 @@ Maar al te vaak krijg ik vragen van bedrijven en ondernemers hoe zij hun bedrijf
   1. **Wees een paar maanden in business** – Je kunt niet verwachten dat je direct goed scoort in de lokale zoekresultaten, als je net begint. Dit houdt in dat je een website moet hebben en je Google+ Zakelijk pagina hebt geclaimd.
   2. **Bekijk of de lokale resultaten voor jouw zoektermen worden getoond** – Als ze niet worden getoond, kijk dan of ze wel verschijnen als je andere plaatsnamen intypt. Als er nog steeds niets wordt vertoond, denk dan na over relevante zoektermen die wèl lokale resultaten tonen.
   3. **Meld je aan bij alle grote algemene Nederlandse directories** – Ik heb ze al vaker vermeld. Zoek op “[instructievideos][/instructievideos/]” op de site en meld je sowieso bij alle sites aan, waar ik instructievideo’s van heb gepubliceerd. Kijk ook eens op welke sites je concurrenten worden getoond en meld je daar ook aan. Meld je ook aan bij topic-gerelateerde websites en directories.
-  4. **Lees de webmaster richtlijnen van Google** en zorg dat jouw website aan de [Google Webmaster richtlijnen](https://support.google.com/webmasters/answer/35769?hl=nl) voldoet.
+  4. **Lees de webmaster richtlijnen van Google** en zorg dat jouw website aan de [Google Webmaster richtlijnen](https://web.archive.org/web/20131009073613/https://support.google.com/webmasters/answer/35769?hl=nl) voldoet.
   5. **Spiek bij je concurrenten** – Doen zij dingen binnen de Webmaster richtlijnen van Google, die jij wellicht niet doet? En wat doen zij (of doen zij _niet_), wat jij wellicht kunt uitproberen?
   6. **Vraag je af, wat je precies van mij wilt** – Wil je hoger scoren, of wil je daadwerkelijk meer business? Want soms kan het optimaliseren van een landing pagina vele malen beter werken dan proberen hoger te komen in de (lokale) zoekresultaten. Of wil je meer reviews of testimonials? Een aantal van deze zaken kun je ook _nu_ al mee beginnen.
 ```
@@ -214,9 +215,9 @@ Als je de podcast leuk vindt en je hebt inderdaad wat aan alle informatie die ik
 
 Als je een vraag of een probleem hebt met betrekking tot je online reputatie of de vindbaarheid van je website, kun je een mailtje sturen naar [podcast@reputatiecoaching.nl](mailto:podcast@reputatiecoaching.nl). Als je dat te lastig vindt, of als je de podcast beluistert terwijl je in de auto zit en je hebt acuut een vraag, spreek dan een boodschap in op de ReputatieCoaching Hotline, op nummer: 084 - 883 15 56. Mogelijk behandel ik je vraag of probleem dan in een artikel of in de podcast.
 
-Als laatste kun je je ook inschrijven voor de nieuwsbrief. Dan ontvang je altijd als eerste het laatste nieuws wat ik publiceer en automatisch elk kwartaal het ReputatieCoaching Podcast Boek van het afgelopen kwartaal. Surf daartoe naar [www.reputatiecoaching.nl/nieuwsbrief/](https://www.reputatiecoaching.nl/nieuwsbrief/) en schrijf je meteen in.
+Als laatste kun je je ook inschrijven voor de nieuwsbrief. Dan ontvang je altijd als eerste het laatste nieuws wat ik publiceer en automatisch elk kwartaal het ReputatieCoaching Podcast Boek van het afgelopen kwartaal. Surf daartoe naar [www.reputatiecoaching.nl/nieuwsbrief/](https://web.archive.org/web/20131205063155/http://www.reputatiecoaching.nl/nieuwsbrief/) en schrijf je meteen in.
 
-En je kunt ook rechtstreeks op de website een voicemail achterlaten, door op de tab aan de rechterkant van elke pagina te klikken, en je bericht in te spreken. Dit was [ReputatieCoaching Podcast aflevering 47](https://www.reputatiecoaching.nl/47/) en mijn naam is [Eduard de Boer](http://nl.linkedin.com/in/eduarddeboer/nl).
+En je kunt ook rechtstreeks op de website een voicemail achterlaten, door op de tab aan de rechterkant van elke pagina te klikken, en je bericht in te spreken. Dit was [ReputatieCoaching Podcast aflevering 47](https://web.archive.org/web/20140305115930/http://www.reputatiecoaching.nl:80/47/) en mijn naam is [Eduard de Boer](http://nl.linkedin.com/in/eduarddeboer/nl).
 
 Ik wens je de komende week weer succes met het werken aan je reputatie, zodat je meteen je reputatie voor jou kunt laten werken!
 
@@ -230,7 +231,7 @@ Overzicht van de links die in deze podcast aan bod komen:
   * [MeetingRoomReview.com](http://www.meetingroomreview.com)
   * [Dropbox](http://dropbox.z1e.nl)
   * [Amazon S3](http://aws.amazon.com/s3/)
-  * [Google Richtlijnen voor webmasters](https://support.google.com/webmasters/answer/35769?hl=nl)
+  * [Google Richtlijnen voor webmasters](https://web.archive.org/web/20131009073613/https://support.google.com/webmasters/answer/35769?hl=nl)
   * “[Does Google serve different result according to responsive design?](http://webmasters.stackexchange.com/questions/54054/does-google-serve-different-result-according-to-responsive-design)” (StackExchange, 14 oktober 2013)
   * “[Fortune 100 Study Demonstrates Limitations of Responsive Web Design](http://www.thesearchagents.com/2013/10/fortune-100-study-demonstrates-limitations-of-responsive-web-design/)” (TheSearchAgents, 14 oktober 2013)
 ```
