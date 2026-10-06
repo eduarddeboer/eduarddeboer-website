@@ -278,9 +278,18 @@ def main():
         if hit:
             hp=urlsplit(hit["candidate"])
             op=urlsplit(url)
+            method=hit.get("method") or ""
             same_path=(hp.path.rstrip("/") or "/") == (op.path.rstrip("/") or "/")
             same_family=((hp.hostname or "").replace("www.","") == (op.hostname or "").replace("www.",""))
-            if same_path and same_family:
+            embedded=embedded_external_url(url)
+            embedded_host=(urlsplit(embedded).hostname or "") if embedded else ""
+            if method == "cdx_redirect_verified":
+                confidence="high_redirect"
+            elif method == "cdx_redirect_unverified":
+                confidence="medium_redirect"
+            elif embedded and (hp.hostname or "") == embedded_host:
+                confidence="high_structural"
+            elif same_path and same_family:
                 confidence="high_exact"
             elif evidence:
                 confidence="high_repo_supported"
@@ -299,7 +308,7 @@ def main():
         print(f"{idx}/{len(by_url)} {confidence} {url}",flush=True)
 
     high=[r for r in results if r["confidence"].startswith("high_")]
-    medium=[r for r in results if r["confidence"]=="medium_variant"]
+    medium=[r for r in results if r["confidence"].startswith("medium_")]
     no=[r for r in results if r["result"] is None]
     payload={
         "generated_at":datetime.now(timezone.utc).isoformat(),
@@ -318,7 +327,10 @@ def main():
         "policy":{
             "high_exact":"Same normalized host family and path; scheme/www/slash/query variants allowed.",
             "high_repo_supported":"Alternative historical path is supported by the preserved reputatiecoaching.nl source repository.",
+            "high_redirect":"Archived redirect replay was verified to resolve successfully.",
+            "high_structural":"Malformed historical URL contained an identifiable external destination and a capture was found for it.",
             "medium_variant":"Wayback capture found only through a broader URL variant; manual review recommended.",
+            "medium_redirect":"Archived redirect exists but replay could not be independently verified; manual review recommended.",
             "none":"No usable 200 capture found in availability API or bounded CDX search.",
         },
         "results":results,
