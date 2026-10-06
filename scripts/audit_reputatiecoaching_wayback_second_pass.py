@@ -2,6 +2,7 @@
 from __future__ import annotations
 
 import argparse, html, json, re, time
+from concurrent.futures import ThreadPoolExecutor, as_completed
 from collections import defaultdict
 from datetime import datetime, timezone
 from pathlib import Path
@@ -118,7 +119,7 @@ def variants(url: str, extra_paths=()):
                     candidate=urlunsplit((scheme,h,path,q,""))
                     if candidate not in out:
                         out.append(candidate)
-    return out[:24]
+    return out[:10]
 
 def get_json(url: str, timeout=12.0):
     req=Request(url,headers={"User-Agent":USER_AGENT,"Accept":"application/json"})
@@ -218,22 +219,23 @@ def embedded_external_url(url: str):
     return None
 
 def find_capture(url: str, stamp: str, extra_paths=()):
-    vs=variants(url,extra_paths)
+    base=variants(url,extra_paths)
     embedded=embedded_external_url(url)
     if embedded:
-        for candidate in variants(embedded):
-            if candidate not in vs:
-                vs.append(candidate)
-    # Broad availability API pass first.
-    for candidate in vs:
-        hit=available(candidate,stamp)
-        if hit: return hit
-        time.sleep(0.04)
-    # CDX is more complete than the availability API and can expose archived redirects.
-    for candidate in vs[:12]:
+        ev=variants(embedded)
+        vs=ev + [v for v in base if v not in ev]
+    else:
+        vs=base
+    # The second pass exists mainly for the more complete CDX index and archived redirects.
+    for candidate in vs[:6]:
         hit=cdx(candidate,stamp)
         if hit: return hit
-        time.sleep(0.06)
+        time.sleep(0.03)
+    # Availability API remains a fallback for transient CDX misses.
+    for candidate in vs[:8]:
+        hit=available(candidate,stamp)
+        if hit: return hit
+        time.sleep(0.03)
     return None
 
 def main():
