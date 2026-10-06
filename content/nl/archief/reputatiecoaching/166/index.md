@@ -3,6 +3,7 @@ title: '166: Quickscan website cateringbedrijf, leuke mail van Google, aangemeld
 date: '2016-04-28T06:30:48+00:00'
 description: '**Vorige week heb ik een foutje gemaakt in het bericht over de foto’s die ik heb gepost op Google Maps en dan met name ten aanzien van de statistieken. Dat zet ik vandaag eerst recht. Verder een kleine update over mijn gebruik van Amazon Cloud Drive.** Eerder deze week ontving ik een leuke mail van Google, die mij erg aangenaam veraste! Over Google gesproken: ik heb me vandaag ook aangemeld voor de Local Guides Summit 2016 in San Francisco.'
 episode: 166
+kgRef: podcast_episode/reputatiecoaching_166
 historical: true
 archivePeriod: 2012–2016
 transcriptStatus: shownotes
@@ -21,7 +22,7 @@ showTaxonomies: false
 
 **Transcriptiestatus:** Oorspronkelijke shownotes. Vanaf aflevering 153 werd de podcast niet meer volledig uitgeschreven.
 
-\*\*[*Historische afbeelding niet beschikbaar: ReputatieCoaching Podcast*](https://www.reputatiecoaching.nl/wp-content/uploads/2012/12/Reputatie-Coaching-Podcast-logo-200x200.jpg)Vorige week heb ik een foutje gemaakt in het bericht over de foto’s die ik heb gepost op Google Maps en dan met name ten aanzien van de statistieken. Dat zet ik vandaag eerst recht. Verder een kleine update over mijn gebruik van Amazon Cloud Drive.\*\*
+\*\*[*Historische afbeelding niet beschikbaar: ReputatieCoaching Podcast*](https://web.archive.org/web/20160422081458/http://www.reputatiecoaching.nl/wp-content/uploads/2012/12/Reputatie-Coaching-Podcast-logo-200x200.jpg)Vorige week heb ik een foutje gemaakt in het bericht over de foto’s die ik heb gepost op Google Maps en dan met name ten aanzien van de statistieken. Dat zet ik vandaag eerst recht. Verder een kleine update over mijn gebruik van Amazon Cloud Drive.\*\*
 
 **Eerder deze week ontving ik een leuke mail van Google, die mij erg aangenaam veraste! Over Google gesproken: ik heb me vandaag ook aangemeld voor de Local Guides Summit 2016 in San Francisco.**
 
@@ -53,7 +54,7 @@ Eerder deze week aangenaam verrast door een mailtje dat ik ontving. Dit keer nie
 
 [![Uitnodiging Top Contributor Meetup in London](20160428-tc-invite.png)](/wp-content/uploads/2016/04/20160428-tc-invite.png)
 
-In de podcast vertel ik er meer over deze uitnodiging voor deelname aan de [Google Top Contributor](https://topcontributor.withgoogle.com) Meetup in London…
+In de podcast vertel ik er meer over deze uitnodiging voor deelname aan de [Google Top Contributor](https://web.archive.org/web/20200403002454/https://topcontributor.withgoogle.com/) Meetup in London…
 
 ## Aangemeld voor #LGSummit16
 
@@ -91,19 +92,19 @@ Voor een cateringbedrijf uit Apeldoorn heb ik een korte analyse uitgevoerd van h
 
 Wil je mijn bevindingen, tips en aanbevelingen horen, luister dan naar de podcast…
 
-Eén aspect wil ik hier met je delen, dat is het feit dat de homepage maar liefst 2,4 MB was. Binnen 5 minuten had ik dat teruggebracht naar 1,6MB. Hoe? Enkel door de [bestandsgrootte van een vijftal foto’s op de homepage te verkleinen](https://www.reputatiecoaching.nl/bestandsgrootte-foto-verkleinen-op-mac-pc-en-linux-met-compressor-io-instructievideo/) met behulp van [compressor.io](https://compressor.io):
+Eén aspect wil ik hier met je delen, dat is het feit dat de homepage maar liefst 2,4 MB was. Binnen 5 minuten had ik dat teruggebracht naar 1,6MB. Hoe? Enkel door de [bestandsgrootte van een vijftal foto’s op de homepage te verkleinen](https://web.archive.org/web/20180911222752/http://www.reputatiecoaching.nl:80/bestandsgrootte-foto-verkleinen-op-mac-pc-en-linux-met-compressor-io-instructievideo/) met behulp van [compressor.io](https://compressor.io):
 
 ## Kijk ook eens op…
 
 Links naar onderwerpen die in deze podcast aan bod komen:
 
 ```
-  * [ReputatieCoaching Podcast in iTunes](https://itunes.apple.com/nl/podcast/reputatiecoaching-podcast/id584370482?l=en&mt=2)
+  * ReputatieCoaching Podcast in iTunes
   * [ReputatieCoaching Podcast op Stitcher](http://www.stitcher.com/podcast/reputatie-coaching-podcast/reputatiecoaching)
   * [ReputatieCoaching Podcast op TuneIn Radio](http://tunein.com/radio/ReputatieCoaching-Podcast-p655084/)
-  * [ReputatieCoaching Podcast RSS-feed](https://feeds.reputatiecoaching.nl/ReputatieCoachingPodcast)
+  * [ReputatieCoaching Podcast RSS-feed](https://web.archive.org/web/20160408145916/http://feeds.reputatiecoaching.nl/ReputatieCoachingPodcast)
   * [Google Lokale Gidsen programma](https://www.google.com/intl/nl/local/guides/)
-  * [Google Top Contributor programma](https://topcontributor.withgoogle.com)
+  * [Google Top Contributor programma](https://web.archive.org/web/20200403002454/https://topcontributor.withgoogle.com/)
   * [Amazon Cloud Drive](https://www.amazon.com/clouddrive/home)
   * "[The Diagnosis Is In: Your Medical Practice Needs Reviews](http://www.searchinfluence.com/2016/04/the-diagnosis-is-in-your-medical-practice-needs-reviews/)" (Search Influence, 256 april 2016)
 ```
