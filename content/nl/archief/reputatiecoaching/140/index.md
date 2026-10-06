@@ -3,6 +3,7 @@ title: '140: Citation chaos, Nokia HERE verkocht, Google "Je Tijdlijn" en interv
 date: '2015-08-06T06:30:33+00:00'
 description: Volgens mij is Nederland zo’n beetje halverwege de zomervakantie, want ik zie de afgelopen weken wat minder bezoek dan de maanden ervoor. Ook het aantal downloads van de podcast blijft iets achter. Toch had ik dit jaar in juli driemaal meer downloads dan vorig jaar! Dus als je het bezoek en het aantal downloads in een breder perspectief plaatst, zit er een enorme groei in. En daar doe ik het natuurlijk voor!
 episode: 140
+kgRef: podcast_episode/reputatiecoaching_140
 historical: true
 archivePeriod: 2012–2016
 transcriptStatus: full
@@ -34,7 +35,7 @@ Volgens mij is Nederland zo’n beetje halverwege de zomervakantie, want ik zie 
 
 Hallo en hartelijk welkom bij deze aflevering van de ReputatieCoaching Podcast. Ik ben Eduard de Boer, ReputatieCoach. Dit is dé podcast die jou helpt om meer business te genereren, doordat jouw website beter gevonden wordt, zowel lokaal als landelijk en doordat ik je uitleg hoe je je online reputatie kunt verbeteren. Dit alles helpt je om je bedrijf en jezelf beter op de online kaart te plaatsen.
 
-De podcast kun je vinden op [www.reputatiecoaching.nl/140](https://www.reputatiecoaching.nl/140/). Daar vind je niet alleen de tekst, maar ook video’s waar ik het in deze uitzending over heb, alsmede afbeeldingen, links enzovoorts. Bovendien is de podcast te beluisteren in [iTunes](https://www.reputatiecoaching.nl/itunes), op [Stitcher](https://www.reputatiecoaching.nl/stitcher) en ook op [TuneIn Radio](http://tunein.com/radio/ReputatieCoaching-Podcast-p655084/). Ik raad je aan om je op één van die drie kanalen te abonneren op de podcast, zodat je geen aflevering hoeft te missen!
+De podcast kun je vinden op [www.reputatiecoaching.nl/140](https://web.archive.org/web/20190718112412/https://www.reputatiecoaching.nl/140/). Daar vind je niet alleen de tekst, maar ook video’s waar ik het in deze uitzending over heb, alsmede afbeeldingen, links enzovoorts. Bovendien is de podcast te beluisteren in iTunes, op Stitcher en ook op [TuneIn Radio](http://tunein.com/radio/ReputatieCoaching-Podcast-p655084/). Ik raad je aan om je op één van die drie kanalen te abonneren op de podcast, zodat je geen aflevering hoeft te missen!
 
 Laat ik dan nu overgaan op de onderwerpen voor vandaag…
 
@@ -89,7 +90,7 @@ Oeps!! Dat was niet de bedoeling! Nu hebben ze de hele vermelding verwijderd, te
 
 Maar goed, ik moest dus vervolgens het bedrijf opnieuw aanmelden. Doordat ik alle gegevens in een spreadsheet had staan was dat zo gebeurd, maar toch… Als je niet oplet bij het doorgeven van een wijziging, kan je vermelding dus zomaar worden verwijderd.
 
-Als je je wilt inschrijven bij Opendi,nl kun je de instructies volgen van de instructievideo die ik heb opgenomen in de show notes, op [www.reputatiecoaching.nl/140](https://www.reputatiecoaching.nl/140/).
+Als je je wilt inschrijven bij Opendi,nl kun je de instructies volgen van de instructievideo die ik heb opgenomen in de show notes, op [www.reputatiecoaching.nl/140](https://web.archive.org/web/20190718112412/https://www.reputatiecoaching.nl/140/).
 
 ![Bevestigingsmail van opendi.nl](20150806-opendi-confirmation.png)
 
@@ -121,7 +122,7 @@ Helaas is het verwijderen van duplicaten of het aanpassen van gegevens niet op a
 
 ## Nokia verkoopt HERE voor US$ 2,7 mld aan BMW, Mercedes en Audi
 
-Een paar weken geleden vertelde ik je in [podcast 128](https://www.reputatiecoaching.nl/128/) dat Nokia Here in de etalage stond en dat onder andere een consortium van BMW, Mercedes en Audi volgens de geruchten potentieel geïnteresseerd was. En deze groep heeft laatst inderdaad Nokia HERE gekocht en wel voor de somma van US$ 2,7 miljard; een enorm bedrag!
+Een paar weken geleden vertelde ik je in [podcast 128](https://web.archive.org/web/20150605073613/http://www.reputatiecoaching.nl/128/) dat Nokia Here in de etalage stond en dat onder andere een consortium van BMW, Mercedes en Audi volgens de geruchten potentieel geïnteresseerd was. En deze groep heeft laatst inderdaad Nokia HERE gekocht en wel voor de somma van US$ 2,7 miljard; een enorm bedrag!
 
 Voor Nokia is het een grote verliespost, omdat zij de dienst HERE in 2007 heeft gekocht voor maar liefst US$ 8 miljard! Over een afschrijving gesproken: zo’n 650 miljoen dollar per jaar… Ouch!
 
@@ -173,7 +174,7 @@ Als je de podcast leuk vindt en je wilt nog meer op de hoogte blijven, volg me d
 
 Heb je inderdaad wat aan alle informatie die ik met je deel, help mij dan met het verder verbeteren en promoten van deze podcast. Abonneer je op de podcast, zodat je altijd meteen de nieuwste uitzending krijgt voorgeschoteld.
 
-Zoek de podcast op, in [iTunes](https://www.reputatiecoaching.nl/itunes) of [Stitcher](https://www.reputatiecoaching.nl/stitcher), geef de podcast een sterrenbeoordeling en laat ook je reactie achter. Door de podcast te beoordelen op iTunes en/of Stitcher breng je de podcast onder de aandacht van een breder publiek.
+Zoek de podcast op, in iTunes of Stitcher, geef de podcast een sterrenbeoordeling en laat ook je reactie achter. Door de podcast te beoordelen op iTunes en/of Stitcher breng je de podcast onder de aandacht van een breder publiek.
 
 Je kunt me verder helpen, door de podcast aan te bevelen bij vrienden of collega’s, waarvan je denkt dat ze er hun voordeel mee kunnen doen, of door ’m te delen op Twitter, like’n en delen op Facebook of een “+1” te geven op Google+.
 
@@ -181,7 +182,7 @@ En vergeet niet: ik ben hier om je te helpen! Als je een vraag of een probleem h
 
 Als je dat te lastig vindt, of als je de podcast beluistert terwijl je in de auto zit en je hebt acuut een vraag, spreek dan een boodschap in op de ReputatieCoaching Hotline, op nummer: 084 - 883 15 56. Mogelijk behandel ik je vraag of probleem dan in een artikel of in de podcast.
 
-En je kunt ook rechtstreeks op de website een voicemail achterlaten, door op de tab aan de rechterkant van elke pagina te klikken, en je bericht in te spreken. Dit was [ReputatieCoaching Podcast aflevering 140](https://www.reputatiecoaching.nl/140/) en mijn naam is [Eduard de Boer](http://nl.linkedin.com/in/eduarddeboer/nl).
+En je kunt ook rechtstreeks op de website een voicemail achterlaten, door op de tab aan de rechterkant van elke pagina te klikken, en je bericht in te spreken. Dit was [ReputatieCoaching Podcast aflevering 140](https://web.archive.org/web/20190718112412/https://www.reputatiecoaching.nl/140/) en mijn naam is [Eduard de Boer](http://nl.linkedin.com/in/eduarddeboer/nl).
 
 Ik wens je de komende week weer succes met het werken aan je reputatie, zodat je meteen je reputatie voor jou kunt laten werken!
 
@@ -192,10 +193,10 @@ Doei!
 Links naar content die in deze podcast aan bod komt:
 
 ```
-  * [ReputatieCoaching Podcast in iTunes](https://www.reputatiecoaching.nl/itunes)
-  * [ReputatieCoaching Podcast op Stitcher](https://www.reputatiecoaching.nl/stitcher)
+  * ReputatieCoaching Podcast in iTunes
+  * ReputatieCoaching Podcast op Stitcher
   * [ReputatieCoaching Podcast op TuneIn Radio](http://tunein.com/radio/ReputatieCoaching-Podcast-p655084/)
-  * [ReputatieCoaching Podcast RSS-feed](https://feeds.reputatiecoaching.nl/ReputatieCoachingPodcast)
+  * [ReputatieCoaching Podcast RSS-feed](https://web.archive.org/web/20150802021912/http://feeds.reputatiecoaching.nl:80/ReputatieCoachingPodcast)
   * [Patientenreview.nl](http://www.patientenreview.nl)
 ```
 
