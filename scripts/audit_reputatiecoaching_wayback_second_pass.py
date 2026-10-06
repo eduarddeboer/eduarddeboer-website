@@ -135,19 +135,31 @@ def available(candidate: str, stamp: str):
     if stamp: params["timestamp"]=stamp
     url="https://archive.org/wayback/available?"+urlencode(params)
     try:
-        data=get_json(url)
+        data=get_json(url,4.0)
     except Exception:
         return None
     c=(data.get("archived_snapshots") or {}).get("closest")
     if not isinstance(c,dict) or not c.get("available"):
         return None
     status=str(c.get("status") or "")
-    if status not in {"","200"}: return None
     u=str(c.get("url") or "")
     ts=str(c.get("timestamp") or "")
     if u.startswith("http://web.archive.org/"):
         u="https://"+u[len("http://"):]
-    return {"capture_url":u,"timestamp":ts,"candidate":candidate,"method":"available"}
+    if status in {"","200"}:
+        return {"capture_url":u,"timestamp":ts,"candidate":candidate,"method":"available","archive_status":status or "200"}
+    if status in {"301","302","303","307","308"}:
+        verified=verify_replay(u)
+        result={
+            "capture_url":u,"timestamp":ts,"candidate":candidate,
+            "method":"available_redirect_verified" if verified else "available_redirect_unverified",
+            "archive_status":status,
+        }
+        if verified:
+            result["verified_final_url"]=verified["final_url"]
+            result["verified_status"]=verified["status"]
+        return result
+    return None
 
 def verify_replay(url: str):
     try:
@@ -230,16 +242,16 @@ def find_capture(url: str, stamp: str, extra_paths=()):
         vs=ev + [v for v in base if v not in ev]
     else:
         vs=base
-    # The second pass exists mainly for the more complete CDX index and archived redirects.
-    for candidate in vs[:6]:
-        hit=cdx(candidate,stamp)
-        if hit: return hit
-        time.sleep(0.03)
-    # Availability API remains a fallback for transient CDX misses.
-    for candidate in vs[:8]:
+    # Fast second-pass win: unlike the original repair, accept archived redirects.
+    for candidate in vs[:4]:
         hit=available(candidate,stamp)
         if hit: return hit
-        time.sleep(0.03)
+        time.sleep(0.02)
+    # CDX fallback catches captures the availability API can miss.
+    for candidate in vs[:3]:
+        hit=cdx(candidate,stamp)
+        if hit: return hit
+        time.sleep(0.02)
     return None
 
 def main():
@@ -313,7 +325,7 @@ def main():
 
     results=[]
     entries=sorted(by_url.items())
-    with ThreadPoolExecutor(max_workers=8) as pool:
+    with ThreadPoolExecutor(max_workers=16) as pool:
         futures={pool.submit(audit_one,url,items):url for url,items in entries}
         for idx,future in enumerate(as_completed(futures),1):
             result=future.result()
