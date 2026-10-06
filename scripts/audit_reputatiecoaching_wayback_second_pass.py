@@ -189,7 +189,7 @@ def find_capture(url: str, stamp: str, extra_paths=()):
 
 def main():
     ap=argparse.ArgumentParser()
-    ap.add_argument("--old-repo",required=True)
+    ap.add_argument("--old-repo",default="")
     ap.add_argument("--output",default="data/archive/link-repair/second-pass-wayback-audit.json")
     args=ap.parse_args()
 
@@ -198,7 +198,7 @@ def main():
     for item in occurrences:
         by_url[item["url"]].append(item)
 
-    old_path, old_slug, old_title=parse_old_repo(Path(args.old_repo))
+    old_path, old_slug, old_title = ({}, defaultdict(list), defaultdict(list))\n    if args.old_repo and Path(args.old_repo).exists():\n        old_path, old_slug, old_title=parse_old_repo(Path(args.old_repo))
     results=[]
     for idx,(url,items) in enumerate(sorted(by_url.items()),1):
         p=urlsplit(url)
