@@ -33,7 +33,7 @@ jobs:
 
           text = Path("/tmp/podcast001.html").read_text(encoding="utf-8")
           scripts = re.findall(
-              r'<script[^>]+type=["\']application/ld\+json["\'][^>]*>(.*?)</script>',
+              r'<script[^>]+type\s*=\s*(?:"application/ld\+json"|\'application/ld\+json\'|application/ld\+json)[^>]*>(.*?)</script>',
               text,
               flags=re.I | re.S,
           )
