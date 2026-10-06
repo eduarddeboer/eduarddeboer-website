@@ -3,6 +3,7 @@ title: '65: Google Glass toepassingen in de praktijk, WhatsApp overgenomen door 
 date: '2014-02-24T07:30:46+00:00'
 description: Gisteren ben ik weer een jaar ouder geworden, dus ik heb deze podcast afgelopen zaterdag grotendeels samengesteld. Natuurlijk doet dat niets af aan de kwaliteit en het nieuwsgehalte, want ik breng je sowieso bijna altijd actueel nieuws, waar ik de afgelopen week tegenaan ben gelopen. Een belangrijk nieuwsbericht uit de media van afgelopen week is natuurlijk wel dat het populaire WhatsApp is overgenomen door Facebook. Daarover zometeen meer. Het tweede onderwerp voor vandaag is over een video van Google Glass die ik afgelopen week heb gemaakt en die vandaag ‘live’ komt.
 episode: 65
+kgRef: podcast_episode/reputatiecoaching_065
 historical: true
 archivePeriod: 2012–2016
 transcriptStatus: full
@@ -30,9 +31,9 @@ Hallo en hartelijk welkom bij deze aflevering van de ReputatieCoaching Podcast. 
 
 Als persoon kun je met de diverse tips aan de slag om bijvoorbeeld je online reputatie als glaskunstenaar, edelsmid, dichter, milieuconsulent, voedingstechnoloog of wat dan ook te verbeteren.
 
-In deze podcast noem ik een aantal sites, video’s en verwijs ik naar verschillende artikelen. De links naar al deze content èn de volledige transcriptie van de podcast vind je op [www.reputatiecoaching.nl/65](https://www.reputatiecoaching.nl/65/). Je kunt de podcast niet alleen rechtstreeks beluisteren op [www.reputatiecoaching.nl](http://www.reputatiecoaching.nl), maar ook op zowel iTunes, als op Stitcher. Surf hiertoe respectievelijk naar [www.reputatiecoaching.nl/itunes](https://www.reputatiecoaching.nl/itunes) of naar [www.reputatiecoaching.nl/stitcher](https://www.reputatiecoaching.nl/stitcher).
+In deze podcast noem ik een aantal sites, video’s en verwijs ik naar verschillende artikelen. De links naar al deze content èn de volledige transcriptie van de podcast vind je op www.reputatiecoaching.nl/65. Je kunt de podcast niet alleen rechtstreeks beluisteren op [www.reputatiecoaching.nl](https://web.archive.org/web/20131209051301/http://www.reputatiecoaching.nl/), maar ook op zowel iTunes, als op Stitcher. Surf hiertoe respectievelijk naar www.reputatiecoaching.nl/itunes of naar www.reputatiecoaching.nl/stitcher.
 
-Mocht je de podcast in een andere podcatcher of podcastplayer willen beluisteren, dan kun je je op de feed [feeds.reputatiecoaching.nl/reputatiecoachingpodcast](https://feeds.reputatiecoaching.nl/ReputatieCoachingPodcast) abonneren. Al deze links vind je ook in de show notes van deze podcast, alsmede op de website.
+Mocht je de podcast in een andere podcatcher of podcastplayer willen beluisteren, dan kun je je op de feed [feeds.reputatiecoaching.nl/reputatiecoachingpodcast](https://web.archive.org/web/20131205064344/http://feeds.reputatiecoaching.nl/reputatiecoachingpodcast) abonneren. Al deze links vind je ook in de show notes van deze podcast, alsmede op de website.
 
 Dan nu over op de onderwerpen van vandaag…
 
@@ -55,7 +56,7 @@ Kun je me op weg helpen? ;-)
 Gr.
 Marco
 
-Dus verwees ik hem naar de instructievideo die ik een tijdje geleden heb gemaakt over het “[Instellen van Google Publishership en Authorship in WordPress](https://www.reputatiecoaching.nl/google-publishership-en-authorship-wordpress-met-de-wordpress-seo-yoast-plugin/)”. Daarmee is het Marco binnen no-time gelukt. Hij stuurde mij vrijdagavond een paar uur later een mailtje met de tekst:
+Dus verwees ik hem naar de instructievideo die ik een tijdje geleden heb gemaakt over het “[Instellen van Google Publishership en Authorship in WordPress](https://web.archive.org/web/20140706190103/http://www.reputatiecoaching.nl/google-publishership-en-authorship-wordpress-met-de-wordpress-seo-yoast-plugin/)”. Daarmee is het Marco binnen no-time gelukt. Hij stuurde mij vrijdagavond een paar uur later een mailtje met de tekst:
 
 Je bent geweldig, volgens mij heb ik het voor elkaar.
 
@@ -67,7 +68,7 @@ Marco
 Nu gaat het mij niet om “geweldig zijn”, maar om mensen te helpen. Mijn motto is dan ook:
 
 [Historische afbeelding: Delen is het nieuwe vermenigvuldigen](https://lh5.googleusercontent.com/-957qh8Iwg3U/UwiEJoonbyI/AAAAAAAAAbk/FHrmqxvRuT0/s1024-no/Delen-is-het-nieuwe-vermenigvuldigen.gif)
-Zelf ben ik niet de bedenker van deze uitspraak. Ik heb hem ooit eens ergens gehoord of gelezen en hij sprak mij enorm aan. Nu ben ik even gaan zoeken op Internet en stuitte op een artikel op sync.nl uit 2009 met de [gelijknamige titel: “Delen is het nieuwe vermenigvuldigen”](http://sync.nl/delen-is-het-nieuwe-vermenigvuldigen/). 2009 is volgens Internetmaatstaven alweer bijna in het Stenen Tijdperk, maar die uitspraak wat mij betreft dus heel waar!
+Zelf ben ik niet de bedenker van deze uitspraak. Ik heb hem ooit eens ergens gehoord of gelezen en hij sprak mij enorm aan. Nu ben ik even gaan zoeken op Internet en stuitte op een artikel op sync.nl uit 2009 met de [gelijknamige titel: “Delen is het nieuwe vermenigvuldigen”](https://web.archive.org/web/20140411134324/http://sync.nl/delen-is-het-nieuwe-vermenigvuldigen/). 2009 is volgens Internetmaatstaven alweer bijna in het Stenen Tijdperk, maar die uitspraak wat mij betreft dus heel waar!
 
 In het Nederlands hebben we het gezegde: “Wie goed doet, goed ontmoet”. Die komt wellicht het meeste in de buurt.
 
@@ -79,9 +80,9 @@ Die kennis vergaren is vaak niet het probleem. De reden dat er werk is voor de m
 
 ## Video over aankondiging Contest Google Glass toepassingen in de praktijk
 
-ICT-dienstverlener Ordina organiseert op 13 maart in Nieuwegein het “[Ordina Glass Contest](http://www.ordina.nl/nl-nl/evenementen/20140314---ordina-glass-contest/)”. Zoals de titel al suggereert, speelt de Google Glass hier de hoofdrol in. Als je meer wilt weten over Google Glass of als je een goed idee hebt voor toepassingen van Google Glass in de praktijk, dan moet je je hier zeker voor inschrijven.
+ICT-dienstverlener Ordina organiseert op 13 maart in Nieuwegein het “Ordina Glass Contest”. Zoals de titel al suggereert, speelt de Google Glass hier de hoofdrol in. Als je meer wilt weten over Google Glass of als je een goed idee hebt voor toepassingen van Google Glass in de praktijk, dan moet je je hier zeker voor inschrijven.
 
-In de show notes heb ik een link opgenomen naar de site van Ordina, waar je er meer over kunt lezen. Je vindt de show notes op [www.reputatiecoaching.nl/65](https://www.reputatiecoaching.nl/65/).
+In de show notes heb ik een link opgenomen naar de site van Ordina, waar je er meer over kunt lezen. Je vindt de show notes op www.reputatiecoaching.nl/65.
 
 Mijn rol bij de totstandkoming van deze video was vooral om te laten zien dat je met geringe middelen, namelijk een paar fotocamera’s met videomogelijkheid en een iPhone met daaraan de standaard headset en microfoon, toch een aardige video kunt maken.
 
@@ -117,7 +118,7 @@ Zelf behoor ik ook tot die groep van “WhatsApp-verlaters”. Ik heb in alle ac
 
 Ook in de Telegraaf was hier afgelopen week een artikel over te lezen met de titel “[Telegram lijkt opeens hét alternatief voor WhatsApp. Is de app echt veiliger?](http://www.nrc.nl/tech/2014/02/21/telegram-lijkt-opeens-het-alternatief-voor-whatsapp-is-de-app-echt-veiliger/)”. In dit artikel wordt ondermeer het volgende geschreven:
 
-De app “Telegram” kun je op de iPhone ook gratis downloaden vanuit de AppStore. Het voordeel van Telegram vind ik dat berichten volgens de makers end-to-end versleuteld zijn, als je een versleutelde chat opent. Dan kan niemand ze onderscheppen en afluisteren. In het artikel in de Telegraaf kun je zien dat dit nog bezien moet worden. Want de makers van “Telegram” hebben een eigen algoritme gebruikt, hetgeen volgens specialisten juist weer een gevaar is, omdat het mogelijk sneller te kraken is door inlichtingendiensten. Op de site “[unhandledexpression.com](http://unhandledexpression.com/2013/12/17/telegram-stand-back-we-know-maths/)” kun je een hele analyse lezen over de MTProto versleuteling van “Telegram”.
+De app “Telegram” kun je op de iPhone ook gratis downloaden vanuit de AppStore. Het voordeel van Telegram vind ik dat berichten volgens de makers end-to-end versleuteld zijn, als je een versleutelde chat opent. Dan kan niemand ze onderscheppen en afluisteren. In het artikel in de Telegraaf kun je zien dat dit nog bezien moet worden. Want de makers van “Telegram” hebben een eigen algoritme gebruikt, hetgeen volgens specialisten juist weer een gevaar is, omdat het mogelijk sneller te kraken is door inlichtingendiensten. Op de site “[unhandledexpression.com](https://web.archive.org/web/20140224200456/http://unhandledexpression.com/2013/12/17/telegram-stand-back-we-know-maths/)” kun je een hele analyse lezen over de MTProto versleuteling van “Telegram”.
 
 De toekomst zal het leren, of deze encrpytie binnen afzienbare tijd wordt gekraakt. In elk geval komt de inhoud van al mijn chats voorlopig niet bij Facebook.
 
@@ -142,7 +143,7 @@ Google heeft wel toegezegd een aantal functies alsnog in de nieuwe Google Maps t
 
 In het verleden was ik altijd erg Google-minded, maar ik moet zeggen dat Microsoft inmiddels ook haar spullen goed op orde krijgt. Dat begon een tijd geleden al, toen “Hotmail.com” werd omgedoopt in “Outlook.com”, een naam die ik overigens een stuk professioneler vind klinken.
 
-Op het moment dat Google Apps voor bedrijven alleen nog maar beschikbaar was als betaalde service, ging Microsoft opeens een stuk sneller uitbreiden. Zo kon je de [mail van je eigen domain via Outlook.com](https://www.reputatiecoaching.nl/google-apps-alternatief-voor-email-met-je-eigen-domeinnaam-instructievideo/) laten lopen als alternatief voor Google Apps en later bood Microsoft niet alleen POP3 aan om je mail te benaderen, maar ook IMAP. Daardoor kon je veel gemakkelijker de mailbox op al je apparaten actueel houden.
+Op het moment dat Google Apps voor bedrijven alleen nog maar beschikbaar was als betaalde service, ging Microsoft opeens een stuk sneller uitbreiden. Zo kon je de [mail van je eigen domain via Outlook.com](https://web.archive.org/web/20140302012500/http://www.reputatiecoaching.nl:80/google-apps-alternatief-voor-email-met-je-eigen-domeinnaam-instructievideo/) laten lopen als alternatief voor Google Apps en later bood Microsoft niet alleen POP3 aan om je mail te benaderen, maar ook IMAP. Daardoor kon je veel gemakkelijker de mailbox op al je apparaten actueel houden.
 
 Inmiddels biedt Microsoft ook al langere tijd commercieel Office365 aan, een online Office suite met online versies van Word, Excel, PowerPoint enzovoorts. Maar nog steeds biedt ze ook de service gratis aan, onder Outlook.com.
 
@@ -152,14 +153,14 @@ Voor online opslag was daar altijd al SkyDrive en bij SkyDrive kreeg je 7 GB aan
 
 Het is een keuze, zeker als je al Google gebruikt. Toch kan het handig zijn: een extra virtuele online drive, waar je 15 GB aan data kunt parkeren. Al gebruik je het maar als tweede backup, naast bijvoorbeeld Flickr. Bij deze laatste krijg je nog steeds 1 TB aan capaciteit, daar kan geen andere service aan tippen. En mocht je nu ook je foto’s opslaan op Google Drive, dan kun je die dus weer vrijmaken voor andere doeleinden. Enfin, de mogelijkheden zijn legio!
 
-Gebruik jij eigenlijk ook online opslagmogelijkheden, zoals [Dropbox](http://dropbox.z1e.nl) of [SkyDrive of OneDrive](http://onedrive.z1e.nl)? Of gebruik jij wellicht andere diensten? En hoe of waarvoor? Laat het me weten onderaan de transcriptie van deze podcast, op [www.reputatiecoaching.nl/65](https://www.reputatiecoaching.nl/65/).
+Gebruik jij eigenlijk ook online opslagmogelijkheden, zoals [Dropbox](http://dropbox.z1e.nl) of [SkyDrive of OneDrive](http://onedrive.z1e.nl)? Of gebruik jij wellicht andere diensten? En hoe of waarvoor? Laat het me weten onderaan de transcriptie van deze podcast, op www.reputatiecoaching.nl/65.
 
 Zelf vind ik het in elk geval wel prettig dat ik twee plaatsen heb, waar alle foto’s die ik met m’n iPhone maak, worden opgeslagen. Zo raak ik in elk geval niet snel iets kwijt en dankzij alle opslagcapaciteit kan ik nog lange tijd doorgaan met het gratis backuppen van foto’s in de cloud.
 
 ## BackWPup doet het weer: uit zichzelf!?
 
 *Historische afbeelding niet beschikbaar: Waarom WordPress?*
-Nu ik het toch over backups heb…. [Vorige week](https://www.reputatiecoaching.nl/64/) meldde ik je dat ik problemen had met de plugin [BackWPup](https://www.reputatiecoaching.nl/backwpup/), die al geruime tijd geen backups meer maakte. Ik heb toen twee backupjobs handmatig opgestart en nu zag ik afgelopen weekend dat er inmiddels weer automatische databasebackups worden gemaakt.
+Nu ik het toch over backups heb…. [Vorige week](https://web.archive.org/web/20150312093837/http://www.reputatiecoaching.nl/64/) meldde ik je dat ik problemen had met de plugin BackWPup, die al geruime tijd geen backups meer maakte. Ik heb toen twee backupjobs handmatig opgestart en nu zag ik afgelopen weekend dat er inmiddels weer automatische databasebackups worden gemaakt.
 
 Dat vond ik wel opmerkelijk, want toen ik op site van WordPress controleerde, wanneer de laatste versie was verschenen, toen bleek dat 23 december 2013 te zijn. Dus het is niet zo, dat er een programmeerfoutje in de plugin zat, die nu gefixed is… Maar goed, ik ben weer blij en bovenal gerustgesteld, dat de backups weer lopen. Nu nog even zien of de volledige backup ook vlekkeloos draait…
 
@@ -173,7 +174,7 @@ Ik maak ook voor diverse websites gebruik van Amazon S3 in combinatie met Cloudf
 
 Daarnaast heb ik een Google Drive, van 125 GB. Ik gebruik Google Drive vaak voor de opslag van grote documenten, zoals manuals of e-books. Ook heb ik Google Drive nodig om alle foto’s van de Bedrijfspanorama’s te uploaden naar Google Maps.
 
-En per Google+ pagina krijg je ook nog eens opslagruimte om foto’s te uploaden. Zal ik je eens iets verklappen? Ik gebruik de opslagruimte die ik krijg bij de Google+ pagina van ReputatieCoaching als gratis Content Delivery Network (CDN) voor vrijwel alle afbeeldingen die ik op de website vertoon. Zo ontlast ik de webserver en ik vind het ook een interessant experiment. Wil je daar meer over weten hoe ik dat doe et cetera, reageer dan onderaan de show notes van deze podcast op [www.reputatiecoaching.nl/65](https://www.reputatiecoaching.nl/65/).
+En per Google+ pagina krijg je ook nog eens opslagruimte om foto’s te uploaden. Zal ik je eens iets verklappen? Ik gebruik de opslagruimte die ik krijg bij de Google+ pagina van ReputatieCoaching als gratis Content Delivery Network (CDN) voor vrijwel alle afbeeldingen die ik op de website vertoon. Zo ontlast ik de webserver en ik vind het ook een interessant experiment. Wil je daar meer over weten hoe ik dat doe et cetera, reageer dan onderaan de show notes van deze podcast op www.reputatiecoaching.nl/65.
 
 ## Hoe zien de zoekresultaten van Google eruit, zonder backlinks?
 
@@ -216,11 +217,11 @@ Met deze interessante video van Matt Cutts en de tips om te voorkomen dat mensen
 
 Als je de podcast leuk vindt en je hebt inderdaad wat aan alle informatie die ik met je deel, help mij dan met het verder verbeteren en promoten van deze podcast. Deel ‘m op Twitter, like ‘m op Facebook of geef een “+1” op Google+. Het zou helemaal super zijn, als je een bericht achterlaat op iTunes of LinkedIn.
 
-Als je een vraag of een probleem hebt met betrekking tot je online reputatie of de vindbaarheid van je website, kun je reageren onderaan de show notes op [www.reputatiecoaching.nl/65](https://www.reputatiecoaching.nl/65/) of je kunt een mailtje sturen naar [podcast@reputatiecoaching.nl](mailto:podcast@reputatiecoaching.nl).
+Als je een vraag of een probleem hebt met betrekking tot je online reputatie of de vindbaarheid van je website, kun je reageren onderaan de show notes op www.reputatiecoaching.nl/65 of je kunt een mailtje sturen naar [podcast@reputatiecoaching.nl](mailto:podcast@reputatiecoaching.nl).
 
 Als je dat te lastig vindt, of als je de podcast beluistert terwijl je in de auto zit en je hebt acuut een vraag, spreek dan een boodschap in op de ReputatieCoaching Hotline, op nummer: 084 - 883 15 56. Mogelijk behandel ik je vraag of probleem dan in een artikel of in de podcast.
 
-En je kunt ook rechtstreeks op de website een voicemail achterlaten, door op de tab aan de rechterkant van elke pagina te klikken, en je bericht in te spreken. Dit was [ReputatieCoaching Podcast aflevering 65](https://www.reputatiecoaching.nl/65/) en mijn naam is [Eduard de Boer](http://nl.linkedin.com/in/eduarddeboer/nl).
+En je kunt ook rechtstreeks op de website een voicemail achterlaten, door op de tab aan de rechterkant van elke pagina te klikken, en je bericht in te spreken. Dit was ReputatieCoaching Podcast aflevering 65 en mijn naam is [Eduard de Boer](http://nl.linkedin.com/in/eduarddeboer/nl).
 
 Ik wens je de komende week weer succes met het werken aan je reputatie, zodat je meteen je reputatie voor jou kunt laten werken!
 
@@ -231,9 +232,9 @@ Doei!
 Links naar content die in deze podcast aan bod komt:
 
 ```
-  * [ReputatieCoaching Podcast in iTunes](https://www.reputatiecoaching.nl/itunes)
-  * [ReputatieCoaching Podcast op Stitcher](https://www.reputatiecoaching.nl/stitcher)
-  * [ReputatieCoaching Podcast RSS-feed](https://feeds.reputatiecoaching.nl/ReputatieCoachingPodcast)
-  * [Ordina Glass Contest](http://www.ordina.nl/nl-nl/evenementen/20140314---ordina-glass-contest/) op 13 maart 2014 in Nieuwegein
+  * ReputatieCoaching Podcast in iTunes
+  * ReputatieCoaching Podcast op Stitcher
+  * [ReputatieCoaching Podcast RSS-feed](https://web.archive.org/web/20131205064344/http://feeds.reputatiecoaching.nl/reputatiecoachingpodcast)
+  * Ordina Glass Contest op 13 maart 2014 in Nieuwegein
   * “[Telegram lijkt opeens hét alternatief voor WhatsApp. Is de app echt veiliger?](http://www.nrc.nl/tech/2014/02/21/telegram-lijkt-opeens-het-alternatief-voor-whatsapp-is-de-app-echt-veiliger/)” (Telegraaf, 21 februari 2013)
 ```
