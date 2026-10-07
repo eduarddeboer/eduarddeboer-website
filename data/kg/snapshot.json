@@ -1677,8 +1677,8 @@
         "Implementation of the EU Deforestation Regulation — Frequently Asked Questions"
       ],
       "description": {
-        "en": "Non-binding working document from the European Commission services providing practical implementation guidance on the EUDR, including traceability, supply-chain roles, due diligence, benchmarking and the Information System.",
-        "nl": "Niet-bindend werkdocument van de diensten van de Europese Commissie met praktische uitleg over de uitvoering van de EUDR, waaronder traceerbaarheid, rollen in de keten, due diligence, benchmarking en het informatiesysteem."
+        "en": "Fifth non-binding FAQ edition from the European Commission services, updated for the amended EUDR following Regulation (EU) 2025/2650. It explains the roles of operator, downstream operator, trader and micro or small primary operator, as well as simplified declarations, traceability, geolocation, legality, mass balance, declarations in excess, certification, benchmarking, customs and the Information System. It also addresses interaction between EUDR due diligence and other EU frameworks.",
+        "nl": "Vijfde niet-bindende FAQ-editie van de diensten van de Europese Commissie, bijgewerkt voor de gewijzigde EUDR na Verordening (EU) 2025/2650. De editie werkt de rollen van marktdeelnemer, downstreammarktdeelnemer, handelaar en primaire micro- of kleine marktdeelnemer uit, evenals vereenvoudigde aangiften, traceerbaarheid, geolocatie, legaliteit, mass balance, 'declaration in excess', certificering, benchmarking, douane en het informatiesysteem. Zij bevat ook uitleg over de samenloop van EUDR-zorgvuldigheid met andere EU-kaders."
       },
       "id": "creative_work/eudr_faq_version_5_2026",
       "name": {
@@ -1693,10 +1693,13 @@
         {
           "predicate": "mentions",
           "target": "defined_term/geolocation_eudr"
+        },
+        {
+          "predicate": "mentions",
+          "target": "defined_term/supply_chain_traceability"
         }
       ],
-      "type": "CreativeWork",
-      "url": "https://environment.ec.europa.eu/publications/faq-eudr-implementation_en"
+      "type": "CreativeWork"
     },
     "creative_work/eudr_guidance_2026": {
       "alternate_names": [
@@ -1705,8 +1708,8 @@
       ],
       "date_published": "2026-07-20",
       "description": {
-        "en": "Non-binding Commission Notice providing harmonised guidance on applying the EUDR, including market roles, due diligence, legality, composite products, certification and agricultural use.",
-        "nl": "Niet-bindende bekendmaking van de Europese Commissie met geharmoniseerde uitleg over de toepassing van de EUDR, waaronder marktrollen, due diligence, legaliteit, samengestelde producten, certificering en landbouwgebruik."
+        "en": "Final non-binding Commission Notice C/2026/3896, published after the updated draft text of May 2026. The guidance clarifies current EUDR market roles, due diligence and simplifications, supply-chain complexity, legality, packaging and recycled products, composite products, certification and third-party verification and agricultural use. It supports interpretation and enforcement but does not replace or amend the EUDR.",
+        "nl": "Definitieve niet-bindende Commission Notice C/2026/3896, gepubliceerd na de geactualiseerde ontwerptekst van mei 2026. De leidraad verduidelijkt de actuele EUDR-marktrollen, zorgvuldigheid en vereenvoudigingen, ketencomplexiteit, legaliteit, verpakking en gerecyclede producten, samengestelde producten, certificering en verificatie door derden en agricultural use. Zij ondersteunt interpretatie en handhaving maar vervangt of wijzigt de EUDR niet."
       },
       "id": "creative_work/eudr_guidance_2026",
       "identifiers": [
@@ -1735,9 +1738,6 @@
           "target": "defined_term/due_diligence_eudr"
         }
       ],
-      "same_as": [
-        "https://data.europa.eu/eli/C/2026/3896/oj"
-      ],
       "type": "CreativeWork",
       "url": "https://eur-lex.europa.eu/legal-content/NL/TXT/?uri=CELEX:52026XC03896"
     },
@@ -1748,8 +1748,8 @@
       ],
       "date_published": "2016-02-12",
       "description": {
-        "en": "Non-binding European Commission guidance providing practical clarification of the EUTR, including placing on the market, negligible risk, supply-chain complexity, applicable legislation, certification and composite products.",
-        "nl": "Niet-bindende richtsnoeren van de Europese Commissie die praktische uitleg geven over de EUTR, waaronder op de markt brengen, verwaarloosbaar risico, complexiteit van de toeleveringsketen, toepasselijke wetgeving, certificering en samengestelde producten."
+        "en": "Non-binding European Commission guidance for the EUTR. It clarifies, among other matters, placing timber on the market, assessment of negligible risk and supply-chain complexity, evaluation of evidence of applicable legislation for consistency and reliability, and the role of certification and composite products in due diligence. It does not replace the EUTR or its implementing and delegated regulations.",
+        "nl": "Niet-bindende richtsnoeren van de Europese Commissie voor de EUTR. Het document verduidelijkt onder meer wanneer hout 'op de markt wordt gebracht', hoe verwaarloosbaar risico en ketencomplexiteit moeten worden beoordeeld, hoe bewijs van toepasselijke wetgeving in samenhang en op betrouwbaarheid moet worden beoordeeld, en welke rol certificering en samengestelde producten in zorgvuldigheid kunnen spelen. De richtsnoeren vervangen de EUTR en de uitvoerings- en gedelegeerde verordeningen niet."
       },
       "id": "creative_work/eutr_guidance_2016",
       "identifiers": [
@@ -15880,6 +15880,11 @@
       "target": "defined_term/geolocation_eudr"
     },
     {
+      "predicate": "mentions",
+      "subject": "creative_work/eudr_faq_version_5_2026",
+      "target": "defined_term/supply_chain_traceability"
+    },
+    {
       "predicate": "about",
       "subject": "creative_work/eudr_guidance_2026",
       "target": "legislation/eudr_2023_1115"
@@ -23482,7 +23487,7 @@
   ],
   "schema_version": 1,
   "source": {
-    "commit": "82b0cf770f1e282e5f43d18900f5856e7e7bffda",
+    "commit": "00b0930b8c68bc7f03e141b07ee90c381955f9c3",
     "production_base": "https://data.eduarddeboer.com/",
     "repository": "eduarddeboer/eduarddeboer-kg"
   }
