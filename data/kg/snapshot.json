@@ -2096,6 +2096,50 @@
       "type": "CreativeWork",
       "url": "https://environment.ec.europa.eu/topics/forests/deforestation/eu-rules-against-illegal-logging_en"
     },
+    "creative_work/fsc_legacy_ua_v2_0": {
+      "date_published": "2022-04-04",
+      "description": {
+        "en": "National Risk Assessment (NRA) for Ukraine, developed under the earlier FSC-PRO-60-002a methodology and therefore modelled with the legacy terms low risk and specified risk. This edition was the applicable FSC NRA through 13 August 2026 and was superseded without a transition period by FSC-RA-UKR-03-2026 effective 14 August 2026. The summary risk table contains 21 legacy indicators with a specified-risk outcome in at least one functional scale. For 2 of them the same indicator also has a low-risk outcome at a different functional scale, so the finding must not be generalized to the entire country without geographic or source context.",
+        "nl": "National Risk Assessment (NRA) voor Oekraïne, opgesteld onder de oudere FSC-PRO-60-002a-methodiek en daarom gemodelleerd met de legacy-termen low risk en specified risk. Deze versie gold als FSC-NRA tot 13 augustus 2026 en werd zonder overgangstermijn vervangen door FSC-RA-UKR-03-2026 op 14 augustus 2026. In de samenvattende risicotabel hebben 21 legacy-indicatoren in ten minste één functionele schaal een specified risk-uitkomst. Bij 2 daarvan bevat dezelfde indicator ook een low-risk-uitkomst voor een andere functionele schaal; die bevinding mag dus niet zonder geografische of broncontext voor het hele land worden gegeneraliseerd."
+      },
+      "id": "creative_work/fsc_legacy_ua_v2_0",
+      "identifiers": [
+        {
+          "scheme": "FSC document code",
+          "source": "https://open.fsc.org/",
+          "value": "FSC-NRA-UA V2-0"
+        },
+        {
+          "scheme": "FSC version",
+          "source": "https://open.fsc.org/",
+          "value": "2-0"
+        },
+        {
+          "scheme": "FSC legacy assessment type",
+          "source": "https://open.fsc.org/",
+          "value": "NRA"
+        }
+      ],
+      "name": {
+        "en": "FSC-NRA-UA V2-0 — Ukraine",
+        "nl": "FSC-NRA-UA V2-0 — Oekraïne"
+      },
+      "relations": [
+        {
+          "predicate": "isSupersededBy",
+          "target": "creative_work/fsc_ra_ukr_03_2026"
+        },
+        {
+          "predicate": "publisher",
+          "target": "organization/fsc"
+        },
+        {
+          "predicate": "about",
+          "target": "country/oekraine"
+        }
+      ],
+      "type": "CreativeWork"
+    },
     "creative_work/fsc_pro_60_006b_v2_0": {
       "date_published": "2024-07-01",
       "description": {
@@ -23097,6 +23141,10 @@
         "nl": "FSC Risk Assessment voor Oekraïne — 3-0"
       },
       "relations": [
+        {
+          "predicate": "supersedes",
+          "target": "creative_work/fsc_legacy_ua_v2_0"
+        },
         {
           "predicate": "publisher",
           "target": "organization/fsc"
@@ -62223,6 +62271,21 @@
     },
     {
       "predicate": "about",
+      "subject": "creative_work/fsc_legacy_ua_v2_0",
+      "target": "country/oekraine"
+    },
+    {
+      "predicate": "isSupersededBy",
+      "subject": "creative_work/fsc_legacy_ua_v2_0",
+      "target": "creative_work/fsc_ra_ukr_03_2026"
+    },
+    {
+      "predicate": "publisher",
+      "subject": "creative_work/fsc_legacy_ua_v2_0",
+      "target": "organization/fsc"
+    },
+    {
+      "predicate": "about",
       "subject": "creative_work/fsc_pro_60_006b_v2_0",
       "target": "legislation/eudr_2023_1115"
     },
@@ -70795,6 +70858,11 @@
       "predicate": "publisher",
       "subject": "creative_work/fsc_ra_ukr_03_2026",
       "target": "organization/fsc"
+    },
+    {
+      "predicate": "supersedes",
+      "subject": "creative_work/fsc_ra_ukr_03_2026",
+      "target": "creative_work/fsc_legacy_ua_v2_0"
     },
     {
       "predicate": "about",
@@ -87009,7 +87077,7 @@
   ],
   "schema_version": 1,
   "source": {
-    "commit": "138bb32c8e4f79bb368e10a5d02112f19fceaad5",
+    "commit": "bae93b756c0517002633c89e7c2b3783c7f6ed5b",
     "production_base": "https://data.eduarddeboer.com/",
     "repository": "eduarddeboer/eduarddeboer-kg"
   }
