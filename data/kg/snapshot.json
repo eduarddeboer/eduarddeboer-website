@@ -49138,6 +49138,11 @@
       "identifiers": [
         {
           "scheme": "Google Knowledge Graph ID",
+          "source": "https://www.google.com/search?kgmid=/g/11f4ks45dq",
+          "value": "/g/11f4ks45dq"
+        },
+        {
+          "scheme": "Google Knowledge Graph ID (historical, unconfirmed current status)",
           "source": "https://www.google.com/search?kgmid=/g/11h4q8p22c",
           "value": "/g/11h4q8p22c"
         },
@@ -87077,7 +87082,7 @@
   ],
   "schema_version": 1,
   "source": {
-    "commit": "bae93b756c0517002633c89e7c2b3783c7f6ed5b",
+    "commit": "79a5c0dcdaed444cf7e89a492a5141b4edc02cdd",
     "production_base": "https://data.eduarddeboer.com/",
     "repository": "eduarddeboer/eduarddeboer-kg"
   }
