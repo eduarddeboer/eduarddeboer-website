@@ -148,52 +148,9 @@ jobs:
           done
 
           robots="$(curl_retry -fsS "$BASE_URL/robots.txt")"
-          grep -q '^Disallow: /
-          curl_retry -fsS -D "$headers" -o /dev/null "$BASE_URL/en/"
-          grep -Eqi '^x-robots-tag: noindex, nofollow, noarchive' "$headers"
+          grep -q '^Disallow: /$' <<< "$robots"
 
-          # Cloudflare edge propagation can make the manifest visible a few
-          # seconds before HTML and fingerprinted assets converge. Verify the
-          # page and its stylesheet as one deploy unit and retry until they do.
-          for attempt in $(seq 1 15); do
-            curl_retry -fsS "$BASE_URL/en/" -o /tmp/staging-en.html || true
-            curl_retry -fsS "$BASE_URL/nl/" -o /tmp/staging-nl.html || true
-
-            if grep -q 'Eduard de Boer' /tmp/staging-en.html 2>/dev/null &&
-               grep -q 'Eduard de Boer' /tmp/staging-nl.html 2>/dev/null; then
-              if python3 - <<'PY' > /tmp/staging-css-path.txt
-          import re
-          from pathlib import Path
-
-          text = Path("/tmp/staging-nl.html").read_text(encoding="utf-8")
-          match = re.search(r'href=(?:["\']?)(/css/[^"\' >]+)', text, re.I)
-          if not match:
-              raise SystemExit(1)
-          print(match.group(1))
-          PY
-              then
-                css_path="$(cat /tmp/staging-css-path.txt)"
-                css_headers="$(mktemp)"
-                if curl_retry -fsS -D "$css_headers" -o /tmp/staging-main.css "$BASE_URL$css_path" &&
-                   grep -Eqi '^content-type:[[:space:]]*text/css' "$css_headers" &&
-                   grep -q 'edb-home--editorial' /tmp/staging-main.css; then
-                  echo "Staging HTML and stylesheet converged: $css_path"
-                  break
-                fi
-              fi
-            fi
-
-            if [[ "$attempt" -eq 15 ]]; then
-              echo "Staging HTML/CSS did not converge to one deploy unit" >&2
-              cat /tmp/staging-css-path.txt 2>/dev/null || true
-              cat "$css_headers" 2>/dev/null || true
-              exit 1
-            fi
-            sleep 2
-          done
- <<< "$robots"
-
-          # Guard the root URL: visiting preview must never send a visitor to production.
+          # Guard the root URL: visiting preview must never leave the staging host.
           root_ok=false
           for attempt in $(seq 1 15); do
             root_headers="$(mktemp)"
