@@ -7,7 +7,7 @@ hero:
   eyebrow: "Working at Ingenieursbureau Evan Buytendijk (IEB)"
   subtitle: "Timber legality, EUDR/EUTR and due diligence in practice"
   body: "My work focuses on the practical side of timber legality: origin, documentation, traceability, risk assessment and, above all, whether the evidence actually matches the product. I do this in my work at Ingenieursbureau Evan Buytendijk (IEB)."
-  image: "/media/india-truck.webp"
+  image: "/media/india-truck-sharp.webp"
   image_alt: "Eduard de Boer during an EUTR supplier audit in India, standing by a truck."
   image_label: "Supplier audit India · 2023"
   primary_label: "My expertise"

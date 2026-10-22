@@ -7,7 +7,7 @@ hero:
   eyebrow: "Werkzaam bij Ingenieursbureau Evan Buytendijk (IEB)"
   subtitle: "Houtlegaliteit, EUDR/EUTR en due diligence in de praktijk"
   body: "Ik werk aan de praktische kant van houtlegaliteit: herkomst, documenten, traceerbaarheid, risicobeoordeling en vooral de vraag of het bewijs werkelijk aansluit op het product. Dat doe ik vanuit mijn werk bij Ingenieursbureau Evan Buytendijk (IEB)."
-  image: "/media/india-truck.webp"
+  image: "/media/india-truck-sharp.webp"
   image_alt: "Eduard de Boer tijdens een EUTR-leveranciersaudit in India, bij een vrachtwagen."
   image_label: "Leveranciersaudit India · 2023"
   primary_label: "Mijn expertise"

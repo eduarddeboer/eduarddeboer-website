@@ -1,4 +1,15 @@
 {{- $hero := .Params.hero -}}
+{{- $heroImage := $hero.image -}}
+{{- $heroWidth := 384 -}}
+{{- $heroHeight := 216 -}}
+{{- if eq $heroImage "/media/india-truck-sharp.webp" -}}
+  {{- if fileExists "static/media/india-truck-sharp.webp" -}}
+    {{- $heroWidth = 1254 -}}
+    {{- $heroHeight = 1254 -}}
+  {{- else -}}
+    {{- $heroImage = "/media/india-truck.webp" -}}
+  {{- end -}}
+{{- end -}}
 {{- $kgEntities := .Site.Data.kg.snapshot.entities -}}
 {{- $articles := slice -}}
 
@@ -34,10 +45,10 @@
 
     <figure class="edb-hero__visual">
       <img
-        src="{{ $hero.image }}"
+        src="{{ $heroImage }}"
         alt="{{ $hero.image_alt }}"
-        width="384"
-        height="216"
+        width="{{ $heroWidth }}"
+        height="{{ $heroHeight }}"
         loading="eager"
         fetchpriority="high"
       >
