@@ -96,6 +96,38 @@ def require_unified_structured_data(path: Path, lang: str) -> None:
 
 
 
+
+def require_host_independent_language_switcher(path: Path, lang: str) -> None:
+    """Keep language-picker navigation on the current host, including staging."""
+    from html.parser import HTMLParser
+
+    class LinkCollector(HTMLParser):
+        def __init__(self) -> None:
+            super().__init__()
+            self.hrefs: list[str] = []
+
+        def handle_starttag(self, tag: str, attrs: list[tuple[str, str | None]]) -> None:
+            if tag == "a":
+                self.hrefs.extend(value for key, value in attrs if key == "href" and value)
+
+    collector = LinkCollector()
+    collector.feed(path.read_text(encoding="utf-8"))
+    alternate = "nl" if lang == "en" else "en"
+    expected = f"/{alternate}/"
+    if expected not in collector.hrefs:
+        raise SystemExit(
+            f"{path.relative_to(DIST)}: missing same-host language switch to {expected}"
+        )
+    for href in collector.hrefs:
+        if href in {
+            "https://eduarddeboer.com/en/",
+            "https://eduarddeboer.com/nl/",
+        }:
+            raise SystemExit(
+                f"{path.relative_to(DIST)}: production-absolute language navigation {href}"
+            )
+
+
 def require_reputatiecoaching_archive_links() -> None:
     index = DIST / "nl/archief/reputatiecoaching/index.html"
     episode = DIST / "nl/archief/reputatiecoaching/167/index.html"
@@ -152,6 +184,9 @@ def main() -> None:
     require_unified_structured_data(DIST / "en/index.html", "en")
     require_unified_structured_data(DIST / "nl/index.html", "nl")
     require_reputatiecoaching_archive_links()
+
+    for lang in ("en", "nl"):
+        require_host_independent_language_switcher(DIST / lang / "index.html", lang)
 
     for lang in ("en", "nl"):
         home = (DIST / lang / "index.html").read_text(encoding="utf-8")
