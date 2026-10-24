@@ -39,6 +39,13 @@ export default {
 
     const indexable = isCanonicalHost(url.hostname);
 
+    // Hugo's multilingual root uses the production base URL.
+    // Redirect on the incoming host to keep Cloudflare previews isolated.
+    if (url.pathname === "/") {
+      url.pathname = "/en/";
+      return withSiteHeaders(Response.redirect(url.toString(), 307), indexable);
+    }
+
     if (url.pathname === "/robots.txt") {
       return withSiteHeaders(
         new Response(robotsBody(indexable), {

@@ -150,6 +150,25 @@ jobs:
           robots="$(curl_retry -fsS "$BASE_URL/robots.txt")"
           grep -q '^Disallow: /$' <<< "$robots"
 
+          # Guard the root URL: visiting preview must never leave the staging host.
+          root_ok=false
+          for attempt in $(seq 1 15); do
+            root_headers="$(mktemp)"
+            root_status="$(curl_retry -sS -o /dev/null -D "$root_headers" -w '%{http_code}' "$BASE_URL/")"
+            if [[ "$root_status" == "307" ]] &&
+               grep -Fqi "location: $BASE_URL/en/" "$root_headers" &&
+               grep -Eqi '^x-robots-tag: noindex, nofollow, noarchive' "$root_headers"; then
+              root_ok=true
+              break
+            fi
+            sleep 2
+          done
+          if [[ "$root_ok" != "true" ]]; then
+            echo "Staging root did not redirect to its own /en/ page" >&2
+            cat "$root_headers" >&2
+            exit 1
+          fi
+
           headers="$(mktemp)"
           curl_retry -fsS -D "$headers" -o /dev/null "$BASE_URL/en/"
           grep -Eqi '^x-robots-tag: noindex, nofollow, noarchive' "$headers"
@@ -193,3 +212,33 @@ jobs:
             fi
             sleep 2
           done
+
+
+          # Check localized navigation after deployment, not only build-time metadata.
+          python3 - <<'PY'
+          from html.parser import HTMLParser
+          from pathlib import Path
+
+          class Anchors(HTMLParser):
+              def __init__(self):
+                  super().__init__()
+                  self.hrefs = []
+              def handle_starttag(self, tag, attrs):
+                  if tag == "a":
+                      self.hrefs.extend(value for key, value in attrs if key == "href" and value)
+
+          for source, target in (
+              ("/tmp/staging-en.html", "/nl/"),
+              ("/tmp/staging-nl.html", "/en/"),
+          ):
+              parser = Anchors()
+              parser.feed(Path(source).read_text(encoding="utf-8"))
+              if target not in parser.hrefs:
+                  raise SystemExit(f"Staging language switch in {source} does not use {target}")
+              if any(url in parser.hrefs for url in (
+                  "https://eduarddeboer.com/en/",
+                  "https://eduarddeboer.com/nl/",
+              )):
+                  raise SystemExit(f"Staging language picker points to production in {source}")
+              print(f"Staging language link OK: {source} -> {target}")
+          PY

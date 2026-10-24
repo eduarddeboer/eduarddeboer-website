@@ -48,3 +48,26 @@ test("www redirects to the canonical apex host", async () => {
   assert.equal(response.status, 308);
   assert.equal(response.headers.get("Location"), "https://eduarddeboer.com/nl/about/?x=1");
 });
+
+test("staging root redirects to its own English homepage, never production", async () => {
+  const response = await worker.fetch(
+    new Request("https://staging.eduarddeboer-website-preview.pages.dev/?from=preview"),
+    envWith()
+  );
+  assert.equal(response.status, 307);
+  assert.equal(
+    response.headers.get("Location"),
+    "https://staging.eduarddeboer-website-preview.pages.dev/en/?from=preview"
+  );
+  assert.equal(response.headers.get("X-Robots-Tag"), "noindex, nofollow, noarchive");
+});
+
+test("production root redirects to its canonical English homepage", async () => {
+  const response = await worker.fetch(
+    new Request("https://eduarddeboer.com/"),
+    envWith()
+  );
+  assert.equal(response.status, 307);
+  assert.equal(response.headers.get("Location"), "https://eduarddeboer.com/en/");
+  assert.equal(response.headers.get("X-Robots-Tag"), null);
+});
