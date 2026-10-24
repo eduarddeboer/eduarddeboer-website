@@ -49137,6 +49137,16 @@
       "id": "person/eduard_de_boer",
       "identifiers": [
         {
+          "scheme": "ORCID",
+          "source": "https://orcid.org/0009-0003-8260-2522",
+          "value": "0009-0003-8260-2522"
+        },
+        {
+          "scheme": "HAND ID",
+          "source": "https://doi.org/10.23/E2DD-9B89-FFD1-7050-CE38",
+          "value": "E2DD-9B89-FFD1-7050-CE38"
+        },
+        {
           "scheme": "Google Knowledge Graph ID",
           "source": "https://www.google.com/search?kgmid=/g/11f4ks45dq",
           "value": "/g/11f4ks45dq"
@@ -49225,6 +49235,8 @@
       ],
       "same_as": [
         "https://www.wikidata.org/wiki/Q65610641",
+        "https://orcid.org/0009-0003-8260-2522",
+        "https://doi.org/10.23/E2DD-9B89-FFD1-7050-CE38",
         "https://www.linkedin.com/in/eduarddeboer/",
         "https://medium.com/@eduarddeboer",
         "https://github.com/eduarddeboer/",
@@ -61051,6 +61063,9 @@
           "predicate": "about",
           "target": "defined_term/photography"
         }
+      ],
+      "same_as": [
+        "https://www.listennotes.com/podcasts/reputatiecoaching-podcast-online-snzWaDFbKqu/"
       ],
       "start_date": "2012-12-03",
       "type": "PodcastSeries"
@@ -87082,7 +87097,7 @@
   ],
   "schema_version": 1,
   "source": {
-    "commit": "79a5c0dcdaed444cf7e89a492a5141b4edc02cdd",
+    "commit": "aad0d0dfdfa082c403656dcdcf360f89df684e46",
     "production_base": "https://data.eduarddeboer.com/",
     "repository": "eduarddeboer/eduarddeboer-kg"
   }
