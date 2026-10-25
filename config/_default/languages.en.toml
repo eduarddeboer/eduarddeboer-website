@@ -15,7 +15,7 @@ copyright = "© Eduard de Boer"
 [params.author]
   name = "Eduard de Boer"
   headline = "Timber legality · deforestation-free supply chains · due diligence"
-  bio = "Specialist in timber legality, supply-chain due diligence and EUDR/EUTR, working at Ingenieursbureau Evan Buytendijk (IEB)."
+  bio = "Specialist in timber legality, supply-chain due diligence and EUDR/EUTR, working at [Ingenieursbureau Evan Buytendijk](https://www.evanbuytendijk.nl/en/) (IEB)."
   links = [
     { linkedin = "https://www.linkedin.com/in/eduarddeboer/" },
     { github = "https://github.com/eduarddeboer" }
