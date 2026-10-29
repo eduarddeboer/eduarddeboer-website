@@ -49175,6 +49175,16 @@
           "scheme": "GitHub username",
           "source": "https://github.com/eduarddeboer/",
           "value": "eduarddeboer"
+        },
+        {
+          "scheme": "Google Maps contributor profile ID",
+          "source": "https://www.google.com/maps/contrib/105026685288268747989",
+          "value": "105026685288268747989"
+        },
+        {
+          "scheme": "Crunchbase person ID",
+          "source": "https://www.crunchbase.com/person/eduard-de-boer",
+          "value": "eduard-de-boer"
         }
       ],
       "image": "https://www.evanbuytendijk.nl/uploads/images/team/Eduard-de-Boer.jpg",
@@ -49243,6 +49253,8 @@
         "https://about.me/eduarddeboer",
         "https://www.imdb.com/name/nm8412574/",
         "https://gravatar.com/elrdeboer",
+        "https://www.google.com/maps/contrib/105026685288268747989",
+        "https://www.crunchbase.com/person/eduard-de-boer",
         "https://www.youtube.com/user/elrdeboer"
       ],
       "type": "Person",
@@ -61509,6 +61521,11 @@
           "scheme": "TheTVDB series ID",
           "source": "https://thetvdb.com/series/221231-show",
           "value": "221231"
+        },
+        {
+          "scheme": "FilmVandaag series ID",
+          "source": "https://www.filmvandaag.nl/serie/6334-de-rijdende-rechter",
+          "value": "6334"
         }
       ],
       "name": {
@@ -61516,7 +61533,8 @@
         "nl": "De Rijdende Rechter"
       },
       "same_as": [
-        "https://www.wikidata.org/wiki/Q14850021"
+        "https://www.wikidata.org/wiki/Q14850021",
+        "https://www.filmvandaag.nl/serie/6334-de-rijdende-rechter"
       ],
       "type": "TVSeries",
       "url": "https://kro-ncrv.nl/programmas/de-rijdende-rechter"
@@ -87097,7 +87115,7 @@
   ],
   "schema_version": 1,
   "source": {
-    "commit": "aad0d0dfdfa082c403656dcdcf360f89df684e46",
+    "commit": "ae7ffc10ee1a122b40639b985978fc846ed42361",
     "production_base": "https://data.eduarddeboer.com/",
     "repository": "eduarddeboer/eduarddeboer-kg"
   }
